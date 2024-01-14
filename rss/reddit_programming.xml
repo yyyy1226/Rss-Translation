@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 14 Jan 2024 12:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 13:34:42 GMT</lastBuildDate>
+    <item>
+      <title>为什么有远见的人总是混蛋</title>
+      <link>https://www.reddit.com/r/programming/comments/196fcyc/why_visionaries_are_always_jerks/</link>
+      <description><![CDATA[ 由   提交/u/zaidesanton  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/196fcyc/why_visionaries_are_always_jerks/</guid>
+      <pubDate>Sun, 14 Jan 2024 12:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码审查</title>
+      <link>https://www.reddit.com/r/programming/comments/196f5ed/code_reviews/</link>
+      <description><![CDATA[ 由   提交 /u/bndrz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/196f5ed/code_reviews/</guid>
+      <pubDate>Sun, 14 Jan 2024 12:47:32 GMT</pubDate>
+    </item>
     <item>
       <title>什么是命令总线？</title>
       <link>https://www.reddit.com/r/programming/comments/196e6bz/what_is_a_command_bus/</link>
@@ -13,7 +27,7 @@
       <pubDate>Sun, 14 Jan 2024 11:48:40 GMT</pubDate>
     </item>
     <item>
-      <title>当数据库挑战袭来时，Slack 如何克服重大事件</title>
+      <title>当数据库面临挑战时，Slack 如何克服重大事件</title>
       <link>https://www.reddit.com/r/programming/comments/196dfrw/when_database_challenges_strike_how_slack/</link>
       <description><![CDATA[ 由   提交/u/Secret-Ad-6417   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/196dfrw/when_database_challenges_strike_how_slack/</guid>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 14 Jan 2024 09:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>NodeJS：使用生物群系作为格式化程序</title>
+      <title>NodeJS：使用生物群落作为格式化程序</title>
       <link>https://www.reddit.com/r/programming/comments/196bsws/nodejs_use_biome_as_formatter/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/196bsws/nodejs_use_biome_as_formatter/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1968a54/intro_to_devops_articles_docker_compose_k8s/</guid>
       <pubDate>Sun, 14 Jan 2024 05:22:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>四种优化</title>
-      <link>https://www.reddit.com/r/programming/comments/1967xgm/four_kinds_of_optimisation/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1967xgm/four_kinds_of_optimisation/</guid>
-      <pubDate>Sun, 14 Jan 2024 05:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netty源码分析——NioEventLoop事件处理</title>
-      <link>https://www.reddit.com/r/programming/comments/19662tf/netty_source_code_analysis_nioeventloop_event/</link>
-      <description><![CDATA[ 由   提交 /u/xuezhongyu01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19662tf/netty_source_code_analysis_nioeventloop_event/</guid>
-      <pubDate>Sun, 14 Jan 2024 03:19:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,39 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 14 Jan 2024 11:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 13:25:01 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 在这篇题为“汽车糟透了，伙计”的文章中，作者表达了他们对 [...]</title>
+      <link>https://t.me/hn_summary/68957</link>
+      <description><![CDATA[汽车糟透了，伙计
+在这篇题为“汽车糟透了，伙计”的文章中，作者表达了他们对汽车行业现状的沮丧。作者与智能电视行业进行了类比，批评了现代汽车中过多的功能和糟糕的用户界面。他们认为，汽车的质量已经达到了顶峰，现在正进入不必要的升级和反消费者行为的阶段。作者强调了诸如隐藏在触摸屏后面的按钮、不良的物理布局、过亮的 LED 灯、大型车辆的趋势、侵犯隐私以及低于标准的软件和 UI 等问题。他们渴望更简单的时光，并对 2005 款丰田卡罗拉表达怀念。]]></description>
+      <guid>https://t.me/hn_summary/68957</guid>
+      <pubDate>Sun, 14 Jan 2024 13:25:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Web 浏览器中的 Apache NuttX RTOS？</title>
+      <link>https://t.me/hn_summary/68956</link>
+      <description><![CDATA[Web 浏览器中的 Apache NuttX RTOS？与 TinyEMU 和 VirtIO 一起冒险
+本文讨论了使用 TinyEMU RISC-V 模拟器在 Web 浏览器中运行 Apache NuttX RTOS 的可能性。作者探讨了如何修改 HTIF 控制台的 NuttX 以及如何将 VirtIO 控制台与 OpenAMP 库结合使用。他们还解释了如何在 macOS 和 Ubuntu 上安装 TinyEMU，并提供有关如何在 TinyEMU 中启动 NuttX 的说明。本文重点介绍了使用 HTIF 控制台打印到 TinyEMU 控制台，并提供了在 NuttX 启动代码中打印到控制台的代码示例。作者提到了在网络浏览器中运行 NuttX 的潜在应用，例如测试 NuttX Apps 和创建 NuttX Dashboard。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68956</guid>
+      <pubDate>Sun, 14 Jan 2024 13:22:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>语言模型是强大的工具，可以被视为表示翻译器。</title>
+      <link>https://t.me/hn_summary/68955</link>
+      <description><![CDATA[语言模型作为表示翻译器
+语言模型是强大的工具，可以被视为表示翻译器。它们具有理解和生成类人文本的能力，这使得它们在机器翻译、文本生成甚至聊天机器人等各种应用中具有无价的价值。这些模型接受了大量数据的训练，使它们能够学习语言的模式和细微差别。通过利用这些知识，语言模型可以有效地在不同的表示之间进行翻译，从而弥合人类和机器通信之间的差距。这一概念为自然语言处理和人工智能的未来开辟了令人兴奋的可能性。]]></description>
+      <guid>https://t.me/hn_summary/68955</guid>
+      <pubDate>Sun, 14 Jan 2024 12:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]中国初创公司 Betavolt 开发出一种可以发电的核电池 [...]</title>
+      <link>https://t.me/hn_summary/68954</link>
+      <description><![CDATA[核电池无需充电即可发电50年
+中国初创公司 Betavolt 开发出一种核电池，可以发电 50 年，无需充电或维护。该电池比硬币还小，含有63种核同位素，目前已进入中试阶段。 Betavolt 计划批量生产用于手机和无人机等商业应用的电池。电池的工作原理是将同位素衰变释放的能量转化为电能。它安全，不向外辐射，可在-60℃至120℃的温度范围内工作。该公司的目标是到2025年生产出功率为1瓦的电池。]]></description>
+      <guid>https://t.me/hn_summary/68954</guid>
+      <pubDate>Sun, 14 Jan 2024 12:25:25 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]人工智能安全初创公司 Anthropic 进行的一项新研究揭示了有关发现 [...]</title>
       <link>https://t.me/hn_summary/68953</link>
@@ -24,7 +56,7 @@
     <item>
       <title>[媒体]法律专家敦促部长们更新法律，承认计算机[...]</title>
       <link>https://t.me/hn_summary/68951</link>
-      <description><![CDATA[部长们敦促更新计算机证据法，以避免地平线重演
+      <description><![CDATA[部长们敦促更新有关计算机证据的法律，以避免地平线重演
 法律专家敦促部长们更新法律，承认计算机容易出错，以避免地平线丑闻重演。目前，英国和威尔士法律假定计算机是可靠的，除非另有证明，批评者认为这颠倒了刑事案件中的举证责任。可靠性推定源自较旧的普通法原则，但专家认为它已经过时，并且未能考虑到计算机系统中潜在的错误或故障。法律和计算机专家于 2020 年提交的更新法律的建议从未得到实施。受英国普通法的影响，可靠性推定在国际上普遍存在。]]></description>
       <guid>https://t.me/hn_summary/68951</guid>
       <pubDate>Sun, 14 Jan 2024 11:23:48 GMT</pubDate>
@@ -49,41 +81,9 @@
       <title>[媒体]勒德分子会觉得零工经济很熟悉吗？</title>
       <link>https://t.me/hn_summary/68948</link>
       <description><![CDATA[勒德分子会觉得零工经济很熟悉吗？
-在这篇题为“勒德分子会觉得零工经济熟悉吗？”的文章中在 arstechnica.com 上，作者挑战了勒德分子的普遍看法：落后和无知的人。相反，作者认为卢德分子是有组织的，了解机器对他们生计的影响，并且有针对性地破坏机器。勒德分子的负面声誉是当时精英们蓄意抹黑的结果。文章还讨论了勒德运动的历史背景、他们为公平工资和保护性立法进行谈判的尝试，以及当他们的要求没有得到满足时他们诉诸机器破坏的行为。作者重点介绍了罗伯特·布林科、拜伦勋爵和乔治·梅勒等人的故事，以揭示卢德运动的真实本质。]]></description>
+在这篇题为“勒德分子会觉得零工经济熟悉吗？”的文章中在 arstechnica.com 上，作者挑战了勒德分子的普遍看法：落后和无知的人。相反，作者认为卢德分子是有组织的，了解机器对其生计的影响，并且有针对性地破坏机器。勒德分子的负面声誉是当时精英们蓄意抹黑的结果。文章还讨论了勒德运动的历史背景、他们为公平工资和保护性立法进行谈判的尝试，以及当他们的要求没有得到满足时他们诉诸机器破坏的行为。作者重点介绍了罗伯特·布林科、拜伦勋爵和乔治·梅勒等人的故事，以揭示卢德运动的真实本质。]]></description>
       <guid>https://t.me/hn_summary/68948</guid>
       <pubDate>Sun, 14 Jan 2024 10:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 此网页内容提供了 PyCon 2023 的演讲列表，按观看次数排序。</title>
-      <link>https://t.me/hn_summary/68947</link>
-      <description><![CDATA[所有 PyCon 2023 演讲按观看次数排序&lt; br/&gt;
-此 Web 内容提供了 PyCon 2023 的演讲列表，按观看次数排序。观看次数最多的演讲是“WebAssembly 不能做什么？”作者：凯蒂·贝尔 (Katie Bell)，观看次数超过 51,000 次。其他受欢迎的演讲包括观看次数为 9k 的“Mariatta Wijaya：欢迎来到 PyCon US 2023”，以及观看次数为 8k 的“教程 - Mario Munoz：使用 Python 支持的前端进行 Web 开发：采用 HTMX 和 Tailwind”。内容还包括每次演讲的持续时间。所提供的内容中没有突出显示任何争议或令人惊讶的信息。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68947</guid>
-      <pubDate>Sun, 14 Jan 2024 10:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者讨论了动态规划的概念及其在解决问题中的应用。</title>
-      <link>https://t.me/hn_summary/68946</link>
-      <description><![CDATA[动态规划不是黑魔法
-作者讨论了动态规划的概念及其在解决问题中的应用。他们首先解决了围绕“动态编程”一词的困惑，并解释说它指的是一种算法设计技术，而不是与传统意义上的“动态”相关。然后作者提供了一个使用动态规划求解斐波那契数列的示例，强调了缓存结果的好处。他们还讨论了动态规划在解决编辑距离问题中的应用。总的来说，作者的目的是揭开动态规划的神秘面纱，并对其原理进行清晰的解释。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68946</guid>
-      <pubDate>Sun, 14 Jan 2024 10:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]终极 Docker 备忘单是一份综合指南，提供了所有必要的知识 [...]</title>
-      <link>https://t.me/hn_summary/68945</link>
-      <description><![CDATA[终极 Docker 备忘单
-《终极 Docker 备忘单》是一份综合指南，提供有效使用 Docker 的所有基本命令和技巧。它涵盖了 Docker 安装、容器管理、映像管理、网络和故障排除等各种主题。该备忘单旨在为初学者和经验丰富的 Docker 用户提供快速参考，为他们提供有效导航和利用 Docker 功能所需的信息。无论您是 Docker 新手还是希望提高 Docker 技能，这份备忘单都是宝贵的资源。]]></description>
-      <guid>https://t.me/hn_summary/68945</guid>
-      <pubDate>Sun, 14 Jan 2024 10:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]摘要：标题为“新反 Deepfake 策略”的 Twitter 帐户似乎遇到了 [...]</title>
-      <link>https://t.me/hn_summary/68944</link>
-      <description><![CDATA[新的反 Deepfake 策略
-摘要：标题为“新反 Deepfake 策略”的 Twitter 帐户似乎遇到了错误，但作者向读者保证不要担心，并建议重试。]]></description>
-      <guid>https://t.me/hn_summary/68944</guid>
-      <pubDate>Sun, 14 Jan 2024 10:56:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
