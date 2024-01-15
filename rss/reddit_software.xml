@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 15:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 18:23:50 GMT</lastBuildDate>
+    <item>
+      <title>寻找跨平台时间跟踪应用程序（Android 和 Windows）</title>
+      <link>https://www.reddit.com/r/software/comments/197dl9j/looking_for_crossplatform_time_tracking_app/</link>
+      <description><![CDATA[您有什么建议吗？我正在寻找一款可以跟踪我在 Android 手机和 Windows PC 上花费的时间的应用程序。我很乐意为一款运行良好的应用程序付费。    由   提交 /u/Liberaf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/197dl9j/looking_for_crossplatform_time_tracking_app/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:59:16 GMT</pubDate>
+    </item>
     <item>
       <title>请帮我找到 Google Chrome v120.0.6099.109（64 位 Windows）</title>
       <link>https://www.reddit.com/r/software/comments/197a2ci/please_help_me_find_google_chrome_v12006099109_64/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>除了 MS Word 之外还有更好的文字处理软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1979646/is_there_a_better_word_processor_besides_ms_word/</link>
-      <description><![CDATA[它似乎没有像 /r/excel 或者至少不那么活跃，不过公平地说，其他 MS Office 产品也没有像 Excel 这样的狂热爱好者。 我过得很艰难找到类似于 /r/excel 但对于 Word 或 PowerPoint 的内容，/r/word 仅拥有约 2,900 名订阅者，而 /r/powerpoint 拥有大约 2 万个订阅者，而 /r/excel 拥有超过 65 万个订阅者。 是的，Excel 缺乏一个有价值的竞争对手，甚至 Google Sheets 或 LibreCalc 也没有真正支持或具有与 Excel 的所有功能相当的功能。 但我离题了 这让我思考所有问题这些年，Excel 没有竞争对手，MS Word 是否也没有值得竞争的竞争对手？ 它仍然是最好的所见即所得的文字编辑器吗？ （只是为了排除像 LaTeX 这样的东西）。   由   提交 /u/outerzenith   [链接] [评论]]]></description>
+      <description><![CDATA[它似乎没有像 /r/excel 或者至少没有那么活跃，不过公平地说，其他 MS Office 产品也没有像 Excel 这样的狂热爱好者。 我过得很艰难找到类似于 /r/excel 但对于 Word 或 PowerPoint 的内容，/r/word 仅拥有约 2,900 名订阅者，而 /r/powerpoint 拥有大约 2 万个订阅者，而 /r/excel 拥有超过 65 万个订阅者。 是的，Excel 缺乏一个有价值的竞争对手，甚至 Google Sheets 或 LibreCalc 也没有真正支持或具有与 Excel 的所有功能相当的功能。 但我离题了 这让我思考所有问题这些年，Excel 没有竞争对手，MS Word 是否也没有值得竞争的竞争对手？ 它仍然是最好的所见即所得的文字编辑器吗？ （只是为了排除像 LaTeX 这样的东西）。   由   提交 /u/outerzenith   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1979646/is_there_a_better_word_processor_besides_ms_word/</guid>
       <pubDate>Mon, 15 Jan 2024 13:50:23 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>使用Win11，如何让两台不同的计算机自动同步？</title>
       <link>https://www.reddit.com/r/software/comments/1970it7/using_win11_how_can_i_keep_two_distinct_computers/</link>
-      <description><![CDATA[我意识到我可以使用云服务提供商，但正在寻找免费解决方案（如果适用）。 感谢您的阅读.   由   提交 /u/LightDarkCloud   [链接] [评论]]]></description>
+      <description><![CDATA[我意识到我可以使用云服务提供商，但正在寻找非付费解决方案（如果适用）。 感谢您的阅读.   由   提交 /u/LightDarkCloud   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1970it7/using_win11_how_can_i_keep_two_distinct_computers/</guid>
       <pubDate>Mon, 15 Jan 2024 05:01:57 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>搜索引擎速度变慢</title>
       <link>https://www.reddit.com/r/software/comments/196u9s8/search_engines_slowing_down/</link>
-      <description><![CDATA[嗨！不确定这是否是正确的 Reddit 子版块，但我不知道问题到底是什么，也不知道在哪里发布。  所以最近我的搜索引擎速度变慢并且非常笨拙/滞后。  我使用谷歌浏览器，最近它非常慢，例如，如果我想在将鼠标悬停在 YouTube 视频上时暂停视频，如果我单击暂停或使用，覆盖层将在 5 秒后出现按空格键视频会在 5 秒后暂停，但这个问题不仅仅存在于 YouTube。即使是日常搜索也很慢。  我以为只是我的网络问题，但经过检查，我的网速完全正常，而且这种延迟不仅仅是暂时的。这几天一直这样。我尝试过清除cookies并删除扩展程序，检查它是否是最新的，但没有任何效果。  我安装了 Opera GX 浏览器，并且在一天左右的时间内运行得非常完美，但现在即使这样也遇到了同样的问题。  不确定是什么导致了问题，我们将非常感谢解决方案或建议。谢谢！   由   提交/u/zombiecrusher02   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！不确定这是否是正确的 Reddit 子版块，但我不知道问题到底是什么，也不知道在哪里发布。  所以最近我的搜索引擎速度变慢并且非常笨拙/滞后。  我使用谷歌浏览器，最近它非常慢，例如，如果我想在将鼠标悬停在 YouTube 视频上时暂停视频，如果我单击暂停或使用，覆盖层将在 5 秒后出现按空格键视频会在 5 秒后暂停，但这个问题不仅仅存在于 YouTube。即使是日常搜索也很慢。  我以为只是我的网络问题，但经过检查，我的网速完全正常，而且这种延迟不仅仅是暂时的。这几天一直这样。我尝试过清除cookies并删除扩展程序，检查它是否是最新的，但没有任何效果。  我安装了 Opera GX 浏览器，并且在一天左右的时间里它运行得非常完美，但现在即使这样也有同样的问题。  不确定是什么导致了问题，我们将非常感谢解决方案或建议。谢谢！   由   提交/u/zombiecrusher02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/196u9s8/search_engines_slowing_down/</guid>
       <pubDate>Sun, 14 Jan 2024 23:54:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我刚刚使用了 https://www.getblackbird 中的 Blackbird .net/ 并且由于某种原因它破坏了我的蓝牙设置页面...运行它后，现在每次我导航到蓝牙设置时窗口都会崩溃。 我仍然有我的系统托盘中的蓝牙图标和我的耳机能够自动连接，因此蓝牙显然可以正常工作，但无法访问设置页面，因为它肯定会给我带来问题。 任何人都可以协助解决此问题吗？拜托？   由   提交 /u/JustSayYes1_61803   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/196tf7r/blackbird_breaks_bluetooth/</guid>
       <pubDate>Sun, 14 Jan 2024 23:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳搜索引擎、扩展、插件等</title>
-      <link>https://www.reddit.com/r/software/comments/196prkn/best_search_engines_extensions_plugins_etc/</link>
-      <description><![CDATA[大家好，请问一下现在人们倾向于使用什么搜索引擎？谷歌完全审查了阴阳。我通常会进行高级 Google 搜索、内置平台搜索，例如高级 twitter 搜索和 Twitter 搜索。有时我会使用 Startpage 或 Duckduckgo。  你们觉得什么效果最好？您有推荐的扩展程序、插件、插件、网站或内置平台功能吗？ 有关此事的任何信息将不胜感激，谢谢。   由   提交/u/Humbaba3344   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/196prkn/best_search_engines_extensions_plugins_etc/</guid>
-      <pubDate>Sun, 14 Jan 2024 20:46:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
