@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 16 Jan 2024 12:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 15:21:01 GMT</lastBuildDate>
+    <item>
+      <title>KVIrc 5.2.0“类星体”发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1984vqa/kvirc_520_quasar_released/</link>
+      <description><![CDATA[ 由   提交/u/buovjaga  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1984vqa/kvirc_520_quasar_released/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>BoxyHQ 变更日志：2023 年使用 SAML Jackson 转变企业 SSO 和目录同步</title>
+      <link>https://www.reddit.com/r/opensource/comments/1983tg1/boxyhq_changelog_transforming_enterprise_sso_and/</link>
+      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1983tg1/boxyhq_changelog_transforming_enterprise_sso_and/</guid>
+      <pubDate>Tue, 16 Jan 2024 14:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Polar.sh - 为开源维护者提供更好的社区和资助平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1982z19/building_polarsh_a_better_community_funding/</link>
+      <description><![CDATA[       由   提交/u/Widiiz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1982z19/building_polarsh_a_better_community_funding/</guid>
+      <pubDate>Tue, 16 Jan 2024 13:32:23 GMT</pubDate>
+    </item>
     <item>
       <title>一个开源免费的客户服务台和票务系统，最初是一个学习项目 (SaaS)</title>
       <link>https://www.reddit.com/r/opensource/comments/1981wlk/an_opensource_and_free_customer_helpdesk_and/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大约一年前，我开始从事一个我认为具有巨大潜力的项目。用于大规模开发和部署人工智能代理的无代码平台。我这样做是为了一个副业，太慢了，现在有很多这样的例子出现。 所以，我想把它开源。我有一个带有反应的半支持丑陋的用户界面。后端已经为 alpha 版本做好了准备。只需要一个 UI 人员来制作界面。 我将继续处理文档并清理项目，以便做好准备并看起来“美观”。我认为这个项目真的很酷，并且对作品集和简历都有好处。我还有另一个开源项目，下载量超过 5 万次。 有人对此感兴趣吗？   由   提交 /u/thifirstman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/197f3bs/looking_for_a_uxui/</guid>
       <pubDate>Mon, 15 Jan 2024 17:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>这台笔记本电脑是完全开源的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/197d6w4/is_this_laptop_fully_open_source/</link>
-      <description><![CDATA[我知识不够，你能告诉我什么是开源的，什么不是开源的吗？我猜GPU和SSD都不是。我真的很想了解更多。谢谢！ 规格：https://wiki.sipeed .com/hardware/en/lichee/th1520/lcon4a/lcon4a.html ​    ;由   提交 /u/ColdAmbassador8615   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/197d6w4/is_this_laptop_fully_open_source/</guid>
-      <pubDate>Mon, 15 Jan 2024 16:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>圆形开源太阳能组件</title>
-      <link>https://www.reddit.com/r/opensource/comments/197cc0y/circular_and_open_source_solar_module/</link>
-      <description><![CDATA[大家好！ 对于那些对开源太阳能设计感兴趣的人。在网上发现这个非常酷的项目！它被称为 DEV KIT，是 Biosphere Solar 的一个项目。该模块根本不使用层压，而是使用单元床和边缘密封来实现循环性和模块化。在 Wikifactory 上 (https://wikifactory.com/@biosphere-solar/projects/dev-kit ）您可以自行下载组装DEV KIT的相关文件和文档。还有一个 Discord 频道（请参阅评论）来讨论圆形太阳能设计！    由   提交/u/balanceforlife456   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/197cc0y/circular_and_open_source_solar_module/</guid>
-      <pubDate>Mon, 15 Jan 2024 16:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建开源PC？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1975wao/how_to_build_open_source_pc/</link>
-      <description><![CDATA[不是笔记本电脑！ 也许存在带有开源 BIOS、VRAM、SSD 或 HDD 等的主板？ ​   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1975wao/how_to_build_open_source_pc/</guid>
-      <pubDate>Mon, 15 Jan 2024 10:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
