@@ -4,13 +4,97 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 16 Jan 2024 15:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 18:24:33 GMT</lastBuildDate>
     <item>
-      <title>PSA：YouTube 编程博主康纳·阿德曼 (Connor Ardman) 遭到黑客攻击</title>
-      <link>https://www.reddit.com/r/programming/comments/198584q/psa_programming_youtuber_connor_ardman_has_been/</link>
-      <description><![CDATA[ 由   提交 /u/Puzzleheaded-Pen94    youtube.com/shorts/HYxaIvmfQ40&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/198584q/psa_programming_youtuber_connor_ardman_has_been/</guid>
-      <pubDate>Tue, 16 Jan 2024 15:16:53 GMT</pubDate>
+      <title>Poulpe：使用 CImGui 为我的下一个项目构建的自定义文本编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/1989jwt/poulpe_a_custom_text_editor_built_using_cimgui/</link>
+      <description><![CDATA[ 由   提交 /u/WervinDotDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1989jwt/poulpe_a_custom_text_editor_built_using_cimgui/</guid>
+      <pubDate>Tue, 16 Jan 2024 18:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 如何打造 iCloud</title>
+      <link>https://www.reddit.com/r/programming/comments/1989clm/how_apple_built_icloud/</link>
+      <description><![CDATA[ 由   提交/u/Rtzon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1989clm/how_apple_built_icloud/</guid>
+      <pubDate>Tue, 16 Jan 2024 18:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个使用 3D 力导向图可视化代码熵的工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1988zrt/i_made_a_tool_for_visualizing_code_entropy_with_a/</link>
+      <description><![CDATA[ 由   提交 /u/GabrielMusat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1988zrt/i_made_a_tool_for_visualizing_code_entropy_with_a/</guid>
+      <pubDate>Tue, 16 Jan 2024 17:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 产品评论#1：DeepL Write</title>
+      <link>https://www.reddit.com/r/programming/comments/1988x6j/ai_product_review_1_deepl_write/</link>
+      <description><![CDATA[ 由   提交/u/emile_courthoud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1988x6j/ai_product_review_1_deepl_write/</guid>
+      <pubDate>Tue, 16 Jan 2024 17:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过数据库规范化优化 S​​QLite 实例</title>
+      <link>https://www.reddit.com/r/programming/comments/19881f7/optimizing_an_sqlite_instance_with_database/</link>
+      <description><![CDATA[ 由   提交 /u/Bloodcount   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19881f7/optimizing_an_sqlite_instance_with_database/</guid>
+      <pubDate>Tue, 16 Jan 2024 17:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>🐰 Bencher v0.4 发布：开源持续基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1987p31/bencher_v04_released_open_source_continuous/</link>
+      <description><![CDATA[ 由   提交/u/bencherdev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1987p31/bencher_v04_released_open_source_continuous/</guid>
+      <pubDate>Tue, 16 Jan 2024 16:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 Java 中的 add() 方法：深入指南 - Makemychance</title>
+      <link>https://www.reddit.com/r/programming/comments/1986gwi/mastering_the_add_method_in_java_an_indepth_guide/</link>
+      <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1986gwi/mastering_the_add_method_in_java_an_indepth_guide/</guid>
+      <pubDate>Tue, 16 Jan 2024 16:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个与世界分享您的 Web 组件的平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1986eze/a_platform_to_share_your_web_components_with_the/</link>
+      <description><![CDATA[ 由   提交/u/maverick594  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1986eze/a_platform_to_share_your_web_components_with_the/</guid>
+      <pubDate>Tue, 16 Jan 2024 16:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 JavaScript 中避免使用“var”声明变量的原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1985zjp/reasons_to_avoid_using_var_for_declaring/</link>
+      <description><![CDATA[ 由   提交/u/scrapped-script   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1985zjp/reasons_to_avoid_using_var_for_declaring/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>抗议软件简史</title>
+      <link>https://www.reddit.com/r/programming/comments/1985yl1/a_short_history_of_protestware/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1985yl1/a_short_history_of_protestware/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenAPI 规范 (OAS) 参数间依赖关系的实用指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1985rbg/a_practical_guide_to_use_interparameter/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1985rbg/a_practical_guide_to_use_interparameter/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[视频]Python的reverse()与reverse() - 它们有何不同</title>
+      <link>https://www.reddit.com/r/programming/comments/1985jjr/video_pythons_reverse_vs_reversed_how_they_differ/</link>
+      <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1985jjr/video_pythons_reverse_vs_reversed_how_they_differ/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google FooBar：谷歌的秘密招聘流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1985j7o/google_foobar_googles_secret_hiring_process/</link>
+      <description><![CDATA[ 由   提交/u/Acrobatic_Pin9873  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1985j7o/google_foobar_googles_secret_hiring_process/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:29:55 GMT</pubDate>
     </item>
     <item>
       <title>Google 如何解决其所有产品的全球授权问题</title>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交 /u/BabyishHammer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1984t22/beware_of_crypto_job_scams_targeting_blockchain/</guid>
       <pubDate>Tue, 16 Jan 2024 14:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>观察员团队</title>
-      <link>https://www.reddit.com/r/programming/comments/1984odz/observer_teams/</link>
-      <description><![CDATA[ 由   提交/u/molteanu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1984odz/observer_teams/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器扩展可帮助您继续致力于 Leetcode 之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1984n58/browser_extension_to_help_you_stay_committed_to/</link>
-      <description><![CDATA[ 由   提交/u/Fun_Instruction_9699   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1984n58/browser_extension_to_help_you_stay_committed_to/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 arXiv 元数据的本地向量数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1984b3s/local_vector_database_with_arxiv_metadata/</link>
-      <description><![CDATA[ 由   提交/u/davidmezzetti  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1984b3s/local_vector_database_with_arxiv_metadata/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 中的 Python Django 项目（入门）</title>
-      <link>https://www.reddit.com/r/programming/comments/198452k/python_django_project_in_visual_studio_getting/</link>
-      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/198452k/python_django_project_in_visual_studio_getting/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时重播可视化纽约出租车行程</title>
-      <link>https://www.reddit.com/r/programming/comments/1983sr6/visualizing_nyc_taxi_rides_replayed_in_realtime/</link>
-      <description><![CDATA[ 由   提交/u/j1897OS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1983sr6/visualizing_nyc_taxi_rides_replayed_in_realtime/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的 5 个内置定时器：差异和用法</title>
-      <link>https://www.reddit.com/r/programming/comments/1983o9z/5_builtin_timers_in_python_differences_and_usages/</link>
-      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1983o9z/5_builtin_timers_in_python_differences_and_usages/</guid>
-      <pubDate>Tue, 16 Jan 2024 14:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络故障测试</title>
-      <link>https://www.reddit.com/r/programming/comments/19838eg/testing_for_network_failures/</link>
-      <description><![CDATA[ 由   提交/u/danzilberdan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19838eg/testing_for_network_failures/</guid>
-      <pubDate>Tue, 16 Jan 2024 13:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>materio-vuetify-nuxtjs-admin-template-free,生产就绪，精心制作，广泛的 Vuetifty 免费管理模板,下载materio-vuetify-nuxtjs-admin-template-free的源码_GitHub_酷徒</title>
-      <link>https://www.reddit.com/r/programming/comments/198305m/github/</link>
-      <description><![CDATA[ 由   提交/u/Abhi_mech007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/198305m/github/</guid>
-      <pubDate>Tue, 16 Jan 2024 13:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让自己在科技领域陷入困境</title>
-      <link>https://www.reddit.com/r/programming/comments/1982wrv/how_to_run_yourself_into_the_ground_in_tech/</link>
-      <description><![CDATA[ 由   提交/u/mixteenth  ​​[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1982wrv/how_to_run_yourself_into_the_ground_in_tech/</guid>
-      <pubDate>Tue, 16 Jan 2024 13:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用文本的速成课程</title>
-      <link>https://www.reddit.com/r/programming/comments/1982u1n/crash_course_on_using_textual/</link>
-      <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1982u1n/crash_course_on_using_textual/</guid>
-      <pubDate>Tue, 16 Jan 2024 13:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以用java做哪些项目来为工作做好准备？</title>
-      <link>https://www.reddit.com/r/programming/comments/1982swy/what_projects_can_i_do_with_java_to_be_job_ready/</link>
-      <description><![CDATA[ 由   提交/u/micia2347  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1982swy/what_projects_can_i_do_with_java_to_be_job_ready/</guid>
-      <pubDate>Tue, 16 Jan 2024 13:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>著名的《梅尔的故事》中描述的最初的真正的程序员梅尔已于 2018 年去世。这里有一个简短的盆栽生活故事。</title>
-      <link>https://www.reddit.com/r/programming/comments/19825sr/mel_the_original_real_programmer_described_in_the/</link>
-      <description><![CDATA[ 由   提交/u/lproven  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19825sr/mel_the_original_real_programmer_described_in_the/</guid>
-      <pubDate>Tue, 16 Jan 2024 12:49:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
