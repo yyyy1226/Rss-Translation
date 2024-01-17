@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Jan 2024 12:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:21:04 GMT</lastBuildDate>
+    <item>
+      <title>网站和域名无法正常工作（请帮忙）</title>
+      <link>https://www.reddit.com/r/webdev/comments/198xz7v/website_domain_not_working_please_help/</link>
+      <description><![CDATA[我在 2023 年从 Shopify 获得了一个域名，然后我成功地将其转移到 Hostinger，没有任何问题，今天我购买了 Business Premium Hostinger 计划并将我的 PHP 网站上传到其中。它一直说我必须更改 DNS 设置，我进入域设置并使用内置功能自动更改它，直到现在该网站无法正常工作，每当我尝试访问它时，它总是说无法访问该网站检查是否有拼写错误 DNS_PROBE_FINISHED_NXDOMAIN ，我现在该怎么办，请帮忙？   由   提交/u/Equivalent_Carob_395   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/198xz7v/website_domain_not_working_please_help/</guid>
+      <pubDate>Wed, 17 Jan 2024 14:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>DevTools 播客：重新思考流行语之外的开源安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/198xj3s/devtools_podcast_rethinking_open_source_security/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/198xj3s/devtools_podcast_rethinking_open_source_security/</guid>
+      <pubDate>Wed, 17 Jan 2024 14:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求最佳实践：简化 RESTful API 和前端表单的验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/198xhxb/seeking_best_practices_streamlining_validation/</link>
+      <description><![CDATA[我们经常使用 RESTful API [PHP + Symfony 5+] 和前端 [React、Remix] 堆栈。我们在两端实施验证。如何实现自动化并确保两端的一致性？我们经常遇到验证不一致的问题。 在理想的情况下，我们将在一个地方定义字段的标准化模式，然后在两端重用该模式来验证传入的 API 有效负载和前端输入表单。  我的问题是，您是否已经有了可以使用的解决方案，或者您可以建议干净的替代解决方案来实现此目的吗？   由   提交 /u/Clasyc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/198xhxb/seeking_best_practices_streamlining_validation/</guid>
+      <pubDate>Wed, 17 Jan 2024 14:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该为这个应用程序使用什么框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/198wvxl/what_frameworks_should_i_use_for_this_app/</link>
+      <description><![CDATA[我将开始构建一个网络应用程序，我对应该使用什么框架或技术有一些担忧，以防我希望它成为/拥有: - 最小的客户端 javascript - 对服务器和客户端来说轻量级 - 快速交互 你有什么建议吗？它可以是任何编程语言。  编辑：该应用程序目前只是一个概念验证，但它应该是中小型规模，我已经有一个 API，最好是 SSR MPA。考虑像 reddit 或 Spotify 这样的应用程序，具有交互性，但没有任何身份验证逻辑   由   提交/u/Naomsa  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/198wvxl/what_frameworks_should_i_use_for_this_app/</guid>
+      <pubDate>Wed, 17 Jan 2024 13:45:38 GMT</pubDate>
+    </item>
     <item>
       <title>反应服务器组件</title>
       <link>https://www.reddit.com/r/webdev/comments/198vbk5/react_server_components/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[也发布在 Sveltejs 上，如果冒犯任何人，我们深表歉意... 我联系了 Vercel 支持人员，他们的回答是“ ;它在你的代码库中，创建一个讨论，我有这个讨论，但他们的“论坛”似乎并不那么活跃” “问题”： 我正在集成一个第三方调查提供商进入网站，在进行调查竞争或失败时，用户将被重定向回我们的网站 - 我们提供完成和终止端点，然后通过 searchparams 填充数据，然后对 URL 进行哈希处理以避免链接操纵和欺诈。 问题是，当进入 vercel 时，网址及其参数会被重新排序，我显然不确定为什么，并且想知道该怎么办。问题是，如果您散列/测试重新排序的 url 的散列，散列是不一样的，并且散列的全部要点在这里。 该网站和第三方仍处于测试模式，因此一旦您已正确“设置”链接，可以输入并选择使用完整或终止选项退出以继续测试。 示例： 下面的网址是我在浏览器中得到的 - 这个想法是它会到达服务器端点 - 被消化，然后重定向用户。 浏览器 BASEURL/api/features/surveys/lucid/callback/completion?pid=dsukwjhuqm26xyf∣=fd6af1&amp;sur=28026095&amp;c=0.01&amp;l=0&amp;42=38&amp;43=2&amp;45=&amp;113= &amp;47=&amp;122=&amp;61076=7&amp;96=&amp;2189=5&amp;97=&amp;5729=&amp;15297=6&amp;hash=EW4oBxb757JMkFJfNA6RSYn2b94 Vercel 日志：  BASEURL/api/features/surveys/lucid/callback/completion?hash=EW4oBxb757JMkFJfNA6RSYn2b94&amp;97=&amp;c=0.01&amp;pid=dsukwjhuqm26xyf&amp;sur=28026095&amp;42=38&amp; l=0&amp;43=2&amp;113=&amp;122=&amp;61076=7&amp;2189=5&amp;5729=&amp;45=&amp;47=&amp;15297=6&amp;96=∣=fd6af1 此外，我似乎看不到供应商返回网址的方式有任何逻辑，我会与他们核实，最初我认为可能是这些数据点，然后数字（顺便说一句是问题响应）正在上升，但运气不太好。 所以是的，如果有人能照亮的话。重写？我可以从请求或标头中访问某些内容来获取原始网址？ 真的很令人沮丧，因为我已经非常接近集成它了。 &lt;!-- SC_ON - -&gt;  由   提交 /u/duncledave   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/198pzs1/searchparams_seem_to_be_reordered_once_entering/</guid>
       <pubDate>Wed, 17 Jan 2024 06:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义keycloak主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/198pxl6/customizing_keycloak_theme/</link>
-      <description><![CDATA[我正在使用 keycloak 23.0.4 作为 docker 映像，并且我一直在尝试自定义我的登录主题。我已经按照自己的意愿更改了大部分内容，但我想更改字体样式和按钮颜色。我似乎找不到办法做到这一点？我已将 template.ftl 文件包含在我的登录文件夹 (themes/customTheme/login) 中。我们要更改 template.ftl 文件中的某些内容吗？还有其他我需要更改的 css 文件吗？谢谢。    由   提交/u/BelzenefPoo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/198pxl6/customizing_keycloak_theme/</guid>
-      <pubDate>Wed, 17 Jan 2024 06:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要技术堆栈建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/198pvbm/tech_stack_advice_needed/</link>
-      <description><![CDATA[我正在为我的牙医创建预约解决方案和网站。考虑使用 NextJs 进行尝试，因为在同一项目中使用 api 的新应用程序路由器方式看起来很有前途。 还将集成 sanity cms，以便她可以添加博客和其他图片/推荐 &gt; 问题 - 我应该使用哪个堆栈来实现预约功能？我看过很多视频，创作者使用各种东西，例如 drizzle、prisma、mongoose (orms) Mongodb、vercel KV、postgres (db) 我是前端 Angular 开发，这将是我制作的第一个全栈应用程序，因此我对所有的选择感到焦虑。我知道用例比较简单，但仍然想尽力而为，因为这是我工作之外的第一个客户工作。   由   提交 /u/icanliveonpizza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/198pvbm/tech_stack_advice_needed/</guid>
-      <pubDate>Wed, 17 Jan 2024 06:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>MEAN 和 MERN 之间的区别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/198puxp/difference_between_mean_and_mern/</link>
-      <description><![CDATA[我是初学者。目前正在学习 HTML+Css+Javascript 课程，遇到了 MEAN 和 MERN，想知道它们有什么区别以及我应该选择哪一个，以及在完成 HTML+Css+ 后是否应该学习两者之一Javascript 或者我应该学习一些其他的东西。 ​ 很抱歉，如果这个问题已经得到解答，并提前感谢您的回复。    由   提交/u/Iamraj100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/198puxp/difference_between_mean_and_mern/</guid>
-      <pubDate>Wed, 17 Jan 2024 06:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Web 应用程序管道</title>
-      <link>https://www.reddit.com/r/webdev/comments/198nup7/understanding_the_web_app_pipeline/</link>
-      <description><![CDATA[我正在熟悉 Web 应用程序，因为我目前只是涉足 Python 脚本编写并希望进行扩展。我想了解的是，当通过应用程序的前端在浏览器中显示时，基于后端数据的管道计算何时或如何进行。 示例： - 我有一个关于用户数据的表格，例如生产的单位和工作的分钟数。 - 我有一个报告指标的前端，包括每分钟生产的单位的计算平均值。 在后端表和前端界面之间对用户数据进行计算以呈现这些平均值？ 我假设如果一个人正在跟踪许多用户的许多指标，那么立即计算它们比将它们作为值存储在表中更有意义。   由   提交 /u/zaclyst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/198nup7/understanding_the_web_app_pipeline/</guid>
-      <pubDate>Wed, 17 Jan 2024 04:26:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
