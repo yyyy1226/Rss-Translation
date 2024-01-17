@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 17 Jan 2024 01:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 03:20:33 GMT</lastBuildDate>
+    <item>
+      <title>世界各国政府无疑正在将人工智能发展成大规模杀伤性武器。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/198mc51/world_governments_are_certainly_developing_ai/</link>
+      <description><![CDATA[武器化人工智能的操作者将能够命令它破坏经济、操纵特定的人以获得特定的结果、侵入敏感的安全系统，操纵选举，以及几乎任何可以想象到的事情。如果它知道人类记录的所有内容，那么它实际上就会知道如何执行用户告诉它的任何操作。人类总是将新技术或新发现武器化。如果认为它没有被开发成大规模杀伤性武器，那就太天真了。随着核能、飞机、金属加工或石器的发现，我们一次又一次地看到这种戏剧。再多的监管也无法阻止政府不惜一切代价保住权力。人工智能清楚地提醒我们，人类是脆弱的，技术进步是一个最终必将破裂的泡沫。核战争每年发生1%的变化意味着理论上每100年就会发生一次（酒后驾车也是如此）。人工智能大规模杀伤性武器将是有史以来最致命的武器。只需要一位疯狂的领导者就能引发灭绝级别的事件。如果不是人工智能，它将是下一个发现或发展。在未来的某个时刻，灾难性的生命损失是必然的。我只是希望当它发生时我们中的一些人能够渡过难关。   由   提交/u/Islandpendulum454  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198mc51/world_governments_are_certainly_developing_ai/</guid>
+      <pubDate>Wed, 17 Jan 2024 03:09:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GPT 自动发送外向销售电子邮件</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/198lzez/using_gpt_to_automate_outbound_sales_emailing/</link>
+      <description><![CDATA[我使用 GPT 和 AgentHub 自动化了阅读某人公司并生成个性化冷电子邮件的过程。 这是我的做法 在这篇文章中，我分解了所有步骤与端到端流程相关联。 完全公开，我构建了 AgentHub，这是用于此目的的工具，但自动化功能可以免费使用，并且可以使用 python 轻松重现工作流程！   由   提交 /u/WudderGlass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198lzez/using_gpt_to_automate_outbound_sales_emailing/</guid>
+      <pubDate>Wed, 17 Jan 2024 02:52:48 GMT</pubDate>
+    </item>
     <item>
       <title>大约半年前，我的公司创办了Honest AI，一个未经审查的人工智能聊天平台 - 目前已经拥有近 1,000 个用户！非常感谢！我们还刚刚发布了 v1.4，其中包括 ElevenLabs 支持。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/198jybs/around_half_a_year_ago_my_company_started_honest/</link>
-      <description><![CDATA[嘿伙计们， 我们只是快速发帖​​来做几件事：首先，感谢你们所做的一切支撑。我们很高兴你们这么多人喜欢我们的平台。我们的目标始终是让诚实的 A.I. 简单、直观，最重要的是：诚实。没有公司干预，没有付费墙，高质量的模型和易于理解的界面 -这就是我们努力的目标。今天，我们很荣幸地宣布，我们已经拥有近 1,000 名用户！ 你们中的许多人都是通过 Reddit 找到我们并亲自传播信息的 - 因此我们直接向消息来源表示感谢。我们正在努力进一步改进我们的平台:) 在这方面，我们最近推出了 1.4 版，其中包括 ElevenLabs 支持。我们提供了发行说明、演示视频 ft. Dark Brandon：“年龄只是一个数字”，以及在 Web 上查找该应用程序的各种链接&amp; Android。请注意，Web 版 1.4 立即可用，而 Android 则需要 &lt;1.4 版本。 Google 需要 24 小时才能批准。 要获得最快的消息，我们鼓励您加入我们的 Discord，并且如果您想要支持我们，我们也有 Patreon！ 再次非常感谢大家。为了使这个项目成为今天的样子，人们付出了心血、汗水和泪水，而大量的支持是让事情继续前进的一个重要因素。 :)   由   提交 /u/B1LLSTAR   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们， 我们只是快速发帖​​来做几件事：首先，感谢你们所做的一切支撑。我们很高兴你们这么多人喜欢我们的平台。我们的目标始终是让诚实的 A.I. 简单、直观，最重要的是：诚实。没有公司干预，没有付费墙，高质量的模型和易于理解的界面 -这就是我们努力的目标。今天，我们很荣幸地宣布，我们已经拥有近 1,000 名用户！ 你们中的许多人都是通过 Reddit 找到我们并亲自传播信息的 - 因此我们直接向消息来源表示感谢。我们正在努力进一步改进我们的平台:) 在这方面，我们最近推出了 1.4 版，其中包括 ElevenLabs 支持。我们已提供发行说明，以及我们的演示视频 ft. Dark Brandon：“年龄只是一个数字”。 此外，以下是在 网络 &amp; Android。请注意，Web 版 1.4 立即可用，而 Android 则需要 &lt;1.4 版本。 Google 需要 24 小时才能批准。 要获得最快的消息，我们鼓励您加入我们的 Discord，并且如果您想要支持我们，我们也有 Patreon！ 再次非常感谢大家。为了使这个项目成为今天的样子，人们付出了心血、汗水和泪水，而大量的支持是让事情继续前进的一个重要因素。 :)   由   提交 /u/B1LLSTAR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198jybs/around_half_a_year_ago_my_company_started_honest/</guid>
       <pubDate>Wed, 17 Jan 2024 01:19:04 GMT</pubDate>
     </item>
@@ -41,25 +55,11 @@
       <pubDate>Tue, 16 Jan 2024 23:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道有免费的AI配音吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/198hld8/does_anyone_know_of_any_free_dubbing_ai/</link>
-      <description><![CDATA[大多数配音 AI 每月只收取几分钟的配音费用，有谁知道有免费的开源模型吗？ ，无限制？   由   提交/u/Skyton_wil  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198hld8/does_anyone_know_of_any_free_dubbing_ai/</guid>
-      <pubDate>Tue, 16 Jan 2024 23:34:58 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能时代：人性、经济和就业市场</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/198hjht/the_ai_epoch_humanity_economics_and_the_job_market/</link>
       <description><![CDATA[ChatGPT 的惊人增长将人工智能的影响推到了最前沿，引发了人们对其对就业、经济甚至人类本质影响的质疑。由于 AGI 在具有经济价值的工作中超越人类的潜力，我们正处于人类历史的十字路口，面临着我们从未见过的变化。 我很高兴分享我最新的前沿信件，“ “人工智能时代：人性、经济和就业市场。”这篇文章深入探讨了人工智能对我们的生活和就业市场的深远影响，重点关注通用人工智能 (AGI) 的潜在出现及其影响。 在这篇文章中，我探讨了人工智能角色的场景取代工作岗位以及迫切需要新的价值分配和治理模式。我反对当前的中心化模式，这种模式将人工智能的好处传递给少数人，而使许多人失去工作或收入。相反，我提出了一种去中心化的解决方案，利用区块链创建一个公平透明的系统来分配财富和决策权。 我深入研究了对分布式网络人工智能市场的需求，提供了一个民主的人工智能主导的治理结构。这种探索不仅涉及技术，还呼吁我们在面对变革性人工智能进步时重新构想我们的社会和经济结构。 我们正处于人工智能发展轨迹不确定的阶段，但有一点是明确的：我们必须为所有可能性做好准备。本文是号召性用语和讨论平台。我邀请您加入这次对话，并分享您对我们如何驾驭这个新时代的想法。让我们共同塑造一个公平分享人工智能好处的未来，为所有人带来一个富裕的世界。 在此处阅读全文 期待您的见解和讨论！让我们想象一个技术提升人类的未来。 祝你度过愉快的一周！ Dom   由   提交 /u/TheCryptoFrontier   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198hjht/the_ai_epoch_humanity_economics_and_the_job_market/</guid>
       <pubDate>Tue, 16 Jan 2024 23:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于AI的短片</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/198gxba/short_animation_about_ai/</link>
-      <description><![CDATA[美国之后就是他们   由   提交/u/PerryDawg1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/198gxba/short_animation_about_ai/</guid>
-      <pubDate>Tue, 16 Jan 2024 23:07:11 GMT</pubDate>
     </item>
     <item>
       <title>为了实现人工智能的承诺，必须加强与社会科学家的合作</title>
