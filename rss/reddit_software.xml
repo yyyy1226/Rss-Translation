@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 18 Jan 2024 06:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 09:19:48 GMT</lastBuildDate>
+    <item>
+      <title>WebRTC 是一个好的选择吗？</title>
+      <link>https://www.reddit.com/r/software/comments/199ls42/is_webrtc_a_good_option/</link>
+      <description><![CDATA[我和我的朋友正在制作一个具有视频聊天功能的应用程序。我们不想使用任何其他类型的服务（例如 Agora）来实现该特定功能。我们只想要一对一的视频聊天功能。我们对服务器的使用很满意。此外，我们一开始将以超低利润或亏损运营。我们确实需要快速的源，但丢失帧不会成为问题。  我对这些通信系统还不是很了解。点对点可能吗？不使用服务器一定有问题吧？就像代替 User 到 Server 到 User2 并返回一样。   由   提交/u/Project_Peregrine_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/199ls42/is_webrtc_a_good_option/</guid>
+      <pubDate>Thu, 18 Jan 2024 08:53:36 GMT</pubDate>
+    </item>
     <item>
       <title>图像比较软件</title>
       <link>https://www.reddit.com/r/software/comments/199h18s/image_comparison_software/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/elecrowpcb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/198t10k/save_big_on_your_first_laptop_screen_extender/</guid>
       <pubDate>Wed, 17 Jan 2024 09:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>OCR 完成任务</title>
-      <link>https://www.reddit.com/r/software/comments/198optw/ocr_up_for_the_task/</link>
-      <description><![CDATA[我有一个 90 页的 PDF，每页分为两栏。很多要点编号复选标记等认为法律文件级别。我需要从 PDF 中取出它并将其转换为可以编辑的 Word 文件。有人可以建议执行该任务的软件吗？   由   提交 /u/fathomdarkening   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/198optw/ocr_up_for_the_task/</guid>
-      <pubDate>Wed, 17 Jan 2024 05:14:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
