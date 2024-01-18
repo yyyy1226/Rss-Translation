@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 18 Jan 2024 01:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 03:20:19 GMT</lastBuildDate>
+    <item>
+      <title>您认为目前人工智能最令人惊奇的方面是什么？对我来说，这是人工智能的不透明性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/199g5in/what_do_you_think_is_the_most_astonishing_aspect/</link>
+      <description><![CDATA[也就是说，即使是今天的人工智能开发者也常常无法完全理解或解释一些复杂人工智能算法的决策过程和结果&lt; /strong&gt;，尤其是那些基于深度学习模型的模型。 当前的深度学习模型通常涉及数百万到数十亿个参数。这些庞大的模型通过无数层和非线性变换处理数据，使得理解每个决策步骤变得异常复杂。 深度学习模型的一个关键优势是它们自动的能力在训练过程中识别并学习输入数据的特征。这种自动特征提取增加了模型决策过程的不透明性，因为这些特征通常不直观或不易被人类理解。 有一个术语来描述这种现象： “黑盒模型”在人工智能领域仍然很常见。 尽管人工智能中有一个专门的研究分支，称为可解释人工智能（XAI），专注于增强模型的可解释性和透明度。&lt; /p&gt; 但是，如果这些努力在未来没有取得重大进展，我们将面临各种连开发人员都无法解释或理解的人工智能决策。 就像 DeepMind 时一样2016 年击败了人类顶级围棋棋手。想象一下这样的决策者进入我们的生活。随着越来越多的公司让它做出业务决策，它会产生什么影响？如果金融机构用它来进行投资决策，会对市场波动产生怎样的影响？ 它能为您提供一个全新但美味的食谱吗？或者未来会出现一个人工智能伴侣，他的想法对你来说仍然是个谜，并且像现实生活中的伴侣一样，在长期关系中偶尔会给你带来惊喜？   由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/199g5in/what_do_you_think_is_the_most_astonishing_aspect/</guid>
+      <pubDate>Thu, 18 Jan 2024 03:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何学习人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/199g27d/how_to_learn_about_ai/</link>
+      <description><![CDATA[在学习人工智能课程之前我应该​​学习哪些科目和技能？ 我今年 23 岁，已经差不多了美国公共教育系统和我们许多人一样失败了。所以我高中时学到的东西并没有保留下来。在过去的几年里，我对数学、技术和科学以及人工智能产生了兴趣。我开始在 Coursera 上学习“监督机器学习：回归和分类”课程，以开始理解它。第一周大约过半时，一个编码项目阻止了我，我遇到了障碍。我正在学习 Python，现在正在重新学习代数。我知道我还有很长的路要走，但我想开始构建一个我需要知道的路线图，以便开始完全理解该死的梯度下降和线性/多项式回归。 谢谢任何建议，-J   由   提交/u/Turbulent_Sand8569   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/199g27d/how_to_learn_about_ai/</guid>
+      <pubDate>Thu, 18 Jan 2024 03:13:18 GMT</pubDate>
+    </item>
     <item>
       <title>像谷歌 Medpalm2 这样的人工智能可以帮助我研究长期的新冠病毒吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/199dok5/could_an_ai_like_googles_medpalm2_help_me_in/</link>
@@ -55,13 +69,6 @@
       <pubDate>Wed, 17 Jan 2024 21:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>您认为最适合人力资源管理的人工智能工具是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19980bn/what_in_your_opinion_is_the_best_ai_tool_for_hr/</link>
-      <description><![CDATA[我相信人工智能工具的好处不仅限于节省时间和金钱。它们在消除人为错误和偏见方面也发挥着重要作用，这可以提高工作场所的参与度和生产力。借助正确的人工智能工具，人力资源团队可以促进日常任务，例如优化招聘、新员工入职和加强员工敬业度。这让我们有更多的时间专注于高价值的战略任务。 当谈到人力资源中的人工智能时，我最喜欢的几个应用程序和工具： ClickUp 是一个生产力平台和解决方案，适合希望自动执行繁琐任务、吸引员工并为其多个工作流程带来结构的人力资源专业人员。该工具中我最喜欢的部分是 ClickUp 文档。您可以将所有人力资源知识存储在一个地方并管理访问控制。 另一个，新的但很棒的ShortlistIQ，是一个为助教和人力资源团队提供的工具，它解决了使用人工智能对候选人进行面试、评估和排序来分析已申请工作的候选人的问题。在我看来，即使对于没有人工智能经验的人来说，这也是一个很好的解决方案，因为你只需要 5 分钟就可以创建你的人工智能就业助手，并在 15 分钟内通过培训学会如何进行面试。非常令人印象深刻！ 这可能是我开始使用的第一个人工智能工具，Zoho Recruit，这是一款创新且可扩展的人工智能招聘工具，为您的人力资源团队或人力资源机构提供 ATS 和 CRM 功能。该平台提供职位发布优化和自动简历筛选，以减少招聘过程中的手工工作。它可以自动解析简历并提取技能、经验和教育等关键信息。我最喜欢的部分是 Radius 搜索功能、AI 助手和聊天机器人 Zia。 HR AI 工具都是为了支持占用我们时间和精力的日常任务，所以我认为在每个公司，AI将是必要的。您为 HR 推荐哪些人工智能工具和应用？   由   提交 /u/M_a_l_f_o_y   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19980bn/what_in_your_opinion_is_the_best_ai_tool_for_hr/</guid>
-      <pubDate>Wed, 17 Jan 2024 21:16:34 GMT</pubDate>
-    </item>
-    <item>
       <title>物理方程人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1993fvx/physics_equations_ai/</link>
       <description><![CDATA[大家好，作为一名天体物理学家和开发人员，我制作了一个 AI，它可以直接读取《剑桥物理公式手册》，因此无需在谷歌上四处寻找一个方程式，您只需索要所需的方程式，然后让它为您读出。 为我的工作节省大量时间！由于手册中有数学定义、单位和转换，您也可以使用它！ 在此阶段我需要尽可能多的反馈，因此请在评论中告诉我它是否有效（或没有！），我将继续对其进行快速改进。 https ://chat.openai.com/g/g-odWlfAKWM-physicals-oracle 点击上面的链接尝试一下^^   由   提交/u/feasbe  [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stability AI 发布了 Stable Code 3B，这是一个填补缺失代码的 AI - Stability AI 发布了 Stable Code 3B，这是一个可以生成代码的 AI 模型代码并填写现有代码的缺失部分。该模型基于 Stability AI 的 Stable LM 3B 自然语言模型构建，接受了代码存储库和技术资源的培训，涵盖 18 种编程语言。 - 在完成质量上优于其他模型，并可通过 Stability AI 会员资格用于商业用途订阅服务。  阿里巴巴宣布推出 Motionshop，AI 取代 3D 头像中的视频角色 - 该过程包括提取背景视频序列、估计姿势以及使用高性能光线追踪渲染器。它还包括字符检测、分割、跟踪、修复、动画重定向、光估计、渲染和合成。目的是通过结合各种技术和算法来提供高效且逼真的视频生成。  ArtificialAnalysis 指导您为真实的 AI 用例选择最佳的 LLM - ArtificialAnalysis 允许 AI 模型的开发人员、客户和用户查看选择 1 所需的数据) 对于给定任务使用哪种人工智能模型以及 2) 需要哪个托管提供商来访问该模型。它提供 AI 模型和 API 托管提供商的性能基准测试和分析。它显示了行业标准的质量基准。  沃达丰与微软签署了为期 10 年的战略合作伙伴关系 - 将 Gen AI、数字服务和云带给欧洲和欧洲超过 3 亿的企业和消费者非洲。它将专注于利用微软的人工智能改变沃达丰的客户体验，扩展沃达丰的物联网业务，扩大M-Pesa以实现非洲的普惠金融，利用微软面向中小企业的服务发展沃达丰的企业业务，并利用微软Azure加速沃达丰的数字化转型。沃达丰将投资 15 亿美元用于与微软合作开发的云和人工智能服务。  OpenAI 正在组建一个新团队“集体协调” - 收集并纳入公众对其人工智能模型行为的意见。该团队将致力于创建一个系统，收集公众的治理想法并将其编码到 OpenAI 产品和服务中。该计划是 OpenAI 去年启动的公共计划的延伸，该计划旨在资助建立确定人工智能系统规则的民主程序的实验。  Adobe 在其 Premiere Pro 软件中引入了新的 AI 音频编辑功能 - 这些更新旨在通过自动执行繁琐的任务（例如查找工具和清理）来简化编辑过程低质量的对话。新功能包括用于自定义音频过渡的交互式淡入淡出手柄、AI 音频类别标记以及重新设计的剪辑徽章以更快地应用音频效果。  研究人员发现人工智能巨头的 GPU 存在漏洞 - 苹果、AMD 和高通可能会泄露 GPU 内存中的大量数据。随着公司越来越依赖 GPU 来构建 AI 系统，这一缺陷可能会对 AI 数据的安全产生严重影响。虽然 CPU 已经过改进以防止数据泄露，但最初设计用于图形处理的 GPU 尚未采取相同的安全措施。  Apple 学习研究团队推出了 AIM - 它是一组经过自回归目标预训练的视觉模型。这些模型随着模型容量和数据量而扩展，目标函数与下游任务性能相关。 7B 参数 AIM 在具有冻结主干的 ImageNet-1k 上达到 84.0%，显示性能没有饱和。   每日通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1991k8n/twominute_daily_ai_update_date_1172024_news_from/</guid>
       <pubDate>Wed, 17 Jan 2024 17:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>新机器和深度学习方法识别阿尔茨海默病生物标志物和潜在目标</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1991fd4/new_machine_and_deep_learning_method_identifies/</link>
-      <description><![CDATA[沙特阿拉伯阿卜杜拉国王科技大学的科学家们创建了一种识别 AD 生物标志物和目标的计算方法。它将多种“枢纽基因”排序方法和“特征选择”方法与机器学习和深度学习相结合。为了识别枢纽基因和基因子集，研究人员使用了三个AD基因表达数据集，使用了六种排序算法和两种特征选择方法。&lt; /p&gt; 阅读更多 此处   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1991fd4/new_machine_and_deep_learning_method_identifies/</guid>
-      <pubDate>Wed, 17 Jan 2024 16:58:53 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 悄悄取消军事用途禁令</title>
