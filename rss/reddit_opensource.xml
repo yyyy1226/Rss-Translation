@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jan 2024 15:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 18:25:31 GMT</lastBuildDate>
+    <item>
+      <title>本地优先和互操作性 - 使用 Theengs 应用程序进行实时本地烧烤监控</title>
+      <link>https://www.reddit.com/r/opensource/comments/19aoeiu/local_first_and_interoperability_live_local_bbq/</link>
+      <description><![CDATA[我很高兴宣布 Theengs 应用程序的最新功能 - 实时烧烤监控！ Theengs App 是一款开源付费应用，结合了蓝牙传感器&lt; /a&gt; 来自不同供应商的同一个接口。它以其本地优先方法注重互操作性和隐私。 新增功能：  实时烧烤监控：通过实时更新密切关注食物温度。非常适合确保您的肉类完全按照您喜欢的方式烹饪。 可自定义警报：设置温度阈值并在食物达到正确温度时收到通知。 多功能传感器兼容性：现场烧烤监控可与各种流行的传感器无缝配合。 易于阅读的图表：通过我们直观的实时图表可视化您的食物温度随时间的变化。即时进行调整并精通烧烤。  可在 应用程序商店 ​   由   提交 /u/1technophile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19aoeiu/local_first_and_interoperability_live_local_bbq/</guid>
+      <pubDate>Fri, 19 Jan 2024 17:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voxos.ai – 开源桌面语音助手</title>
+      <link>https://www.reddit.com/r/opensource/comments/19anax5/voxosai_an_opensource_desktop_voice_assistant/</link>
+      <description><![CDATA[Voxos 是一款开源桌面语音助手，旨在让 Clippy 相形见绌，同时支持由 LLM 提供支持的新桌面工作流程。 厌倦了在网络浏览器和 IDE 之间复制和粘贴响应？ 您的副驾驶没有完全完成您需要它做的事情吗？ 我邀请您尝试一下 Voxos，甚至可能成为贡献者！ https://www.voxos.ai/   由   提交/u/Mannentreu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19anax5/voxosai_an_opensource_desktop_voice_assistant/</guid>
+      <pubDate>Fri, 19 Jan 2024 16:39:09 GMT</pubDate>
+    </item>
     <item>
       <title>BehavEye：高级动态恶意软件分析工具</title>
       <link>https://www.reddit.com/r/opensource/comments/19al5pr/behaveye_advanced_dynamic_malware_analysis_tool/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/tslocum  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/199lekf/etk_ebitengine_tool_kit_for_creating_graphical/</guid>
       <pubDate>Thu, 18 Jan 2024 08:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>营销开源项目是另一回事</title>
-      <link>https://www.reddit.com/r/opensource/comments/199ffqc/marketing_opensource_projects_is_a_different_beast/</link>
-      <description><![CDATA[我正在致力于营销一个开源营销平台 (v meta)。我想分享一些本月似乎有效的事情，并围绕哪些对从事开源项目营销的其他人有帮助的问题展开对话。  Algora 用于开源赏金创建和管理。这是快速解决问题并让更多开发人员关注回购的好方法。显然，这需要花钱，但投资回报率对我们来说比广告要好得多。您可以在我们的问题页面上查看 Algora GitHub 机器人如何管理我们的问题（如果您喜欢我们的项目，请给我们一颗星！）：https ://github.com/dittofeed/dittofeed/issues 由 Nevo David 运行的 Gitroom Discord 服务器。关于提高 Novu 存储库的参与度，他有很多富有洞察力的事情可以分享。这也是结识其他正在讨论其营销策略的开源贡献者、创始人等的好地方。您还可以与 Nevo 预订办公时间。  我知道营销在开发社区中可能是一个肮脏的词，但不幸的是，如果您构建了它，他们不一定会来，即使它是免费的并且获得了麻省理工学院的许可。很想知道大家的想法。   由   提交 /u/dittofeed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/199ffqc/marketing_opensource_projects_is_a_different_beast/</guid>
-      <pubDate>Thu, 18 Jan 2024 02:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>扫描 Github 寻找仿笔源软件的自动化工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/199bo5u/automated_tool_that_scans_github_for/</link>
-      <description><![CDATA[我已经厌倦了很多次在野外看到 Github 项目，例如，人们在他们的项目上强加了 GPL。项目然后说：“顺便说一句，请勿用于商业用途，谢谢”或者“我的附加许可证禁止您违反我个人制定的这些特定的主观道德立场”。 我在想，拥有一个可以抓取 Github 的自动化工具可能会很酷检测可能符合此要求的项目，以便作者可以收到有关其错误的通知，并提供纠正错误的机会。 你觉得呢？知道已经有类似的东西了吗？   由   提交 /u/saxbophone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/199bo5u/automated_tool_that_scans_github_for/</guid>
-      <pubDate>Wed, 17 Jan 2024 23:49:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

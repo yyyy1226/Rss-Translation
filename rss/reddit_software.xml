@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 15:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 18:24:55 GMT</lastBuildDate>
+    <item>
+      <title>多个项目管理软件</title>
+      <link>https://www.reddit.com/r/software/comments/19amwr0/multiple_project_management_software/</link>
+      <description><![CDATA[我的业务部门在特定时间参与大约 30 个项目。我们希望有一个软件来管理时间表和资源，以提供有关正在发生的事情和时间的总体视图。有什么建议吗？   由   提交 /u/familyhurtssometimes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/19amwr0/multiple_project_management_software/</guid>
+      <pubDate>Fri, 19 Jan 2024 16:23:01 GMT</pubDate>
+    </item>
     <item>
       <title>旅行商GUI</title>
       <link>https://www.reddit.com/r/software/comments/19akw1u/travelling_salesman_gui/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找一个应用程序来升级 2009 年的一些旧 YouTube 视频（用手机拍摄）。我有一个 NVidia GPU，因此可以利用任何需要 AI 硬件的东西。 完全免费！ 我知道https://www.topazlabs.com/topaz-video-ai 然而，对于一些视频（非商业）来说，感觉像是一笔很大的投资。 &lt; /div&gt;  由   提交/u/BrumGB  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/19a3dna/video_ai_upscaling_application_windows_linux/</guid>
       <pubDate>Thu, 18 Jan 2024 22:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找实时桌面音频转录软件？</title>
-      <link>https://www.reddit.com/r/software/comments/19a2evm/looking_for_live_desktop_audio_transcription/</link>
-      <description><![CDATA[您好！我正在寻找一种快速的方法来实时转录我的 PC 桌面音频，即使有轻微的 5 或 10 秒延迟。 我遇到了 Otter.io，但我听说过一些对此的负面反馈。我很好奇是否有替代网站或软件可以处理这个简单的任务。我非常愿意为可靠的解决方案支付大量费用。 我搜索的原因是我经常很难记住网络和电话通话（包括 Zoom 会议）中讨论的内容。拥有文本格式的转录对我来说将改变游戏规则！ 您提出的任何建议将不胜感激。谢谢！   由   提交 /u/JackJackCreates   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/19a2evm/looking_for_live_desktop_audio_transcription/</guid>
-      <pubDate>Thu, 18 Jan 2024 22:10:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
