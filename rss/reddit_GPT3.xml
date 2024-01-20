@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 20 Jan 2024 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 18:22:17 GMT</lastBuildDate>
     <item>
       <title>OpenAI x 美国军方</title>
       <link>https://www.reddit.com/r/GPT3/comments/19bd1q6/openai_x_us_military/</link>
@@ -90,13 +90,6 @@
       <pubDate>Mon, 08 Jan 2024 15:18:26 GMT</pubDate>
     </item>
     <item>
-      <title>我是唯一一个认为 GPT-3.5 基本没用的人吗？如果不编写 15 个精确的修订，它就无法完成最简单的事情……GPT-4 有什么不同吗？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/19079qg/am_i_the_only_one_to_think_that_gpt35_is_mostly/</link>
-      <description><![CDATA[ 由   提交 /u/UraAcco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/19079qg/am_i_the_only_one_to_think_that_gpt35_is_mostly/</guid>
-      <pubDate>Sat, 06 Jan 2024 19:02:43 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 最近宣布升级 GPT 模型（例如 GPT-4 Turbo），表明他们仍然在人工智能竞赛中处于领先地位，扰乱了大型科技竞争对手。增加代币上下文和自定义模型等功能使人工智能开发民主化，但也可能意味着 OpenAI 将为下一个大型消费者人工智能应用程序提供动力。豪</title>
       <link>https://www.reddit.com/r/GPT3/comments/18xrkkf/openais_recent_announcements_of_upgraded_gpt/</link>
       <description><![CDATA[       由   提交/u/medallion-sentinel  [链接] [评论] &lt; /表&gt;]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[大家好！ 人工智能成为“大众产品”已有大约一年的时间了。随着 ChatGPT 的发布，现在是检验脉搏的好时机。 您的期望实现了吗？您的使用方式有何变化？它是否提高了您的生产力和效率？ 如果您能回答这项调查并分享您对今年“人工智能年”的印象，我将不胜感激。 https://tidiosurveys.typeform.com/to/aRMdJEdN。 谢谢！   由   提交/u/Lonely-Wish-6377   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18xflpf/a_year_of_chatgpt_checkin/</guid>
       <pubDate>Wed, 03 Jan 2024 09:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>微代理：能够自我编辑提示/Python 代码的代理</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18vbymq/microagents_agents_capable_of_selfediting_their/</link>
+      <description><![CDATA[       由   提交/u/mikaron  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18vbymq/microagents_agents_capable_of_selfediting_their/</guid>
+      <pubDate>Sun, 31 Dec 2023 17:00:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
