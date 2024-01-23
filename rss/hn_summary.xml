@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 18:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 21:08:52 GMT</lastBuildDate>
     <item>
-      <title>news.ycombinator.com 上这篇文章的作者正在寻求有关是否存在合法 [...]</title>
-      <link>https://t.me/hn_summary/70573</link>
-      <description><![CDATA[询问 HN：有什么合法方法可以防止强制软件升级和功能删除&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者是寻求有关是否有合法方法来打击强制软件升级和功能删除的建议。他们提到了最近的一份报告，称苹果在未经某些用户同意的情况下强迫他们升级操作系统。此外，他们还重点介绍了 1Password 故意禁用密码同步功能的示例，以将用户推向新的基于云的版本，该版本需要订阅。作者对欧盟潜在的法律补救措施特别感兴趣，但也欢迎来自其他司法管辖区的信息。]]></description>
-      <guid>https://t.me/hn_summary/70573</guid>
-      <pubDate>Tue, 23 Jan 2024 18:21:01 GMT</pubDate>
+      <title>网页内容的作者表达了他们对 Tailwind CSS 的喜爱，Tailwind CSS 是一个用于样式化的框架 [...]</title>
+      <link>https://t.me/hn_summary/70601</link>
+      <description><![CDATA[为什么我喜欢 Tailwind CSS
+Web 内容的作者表达了他们对 Tailwind CSS（一种用于设置网站样式的框架）的喜爱。他们最初发现记住类的名称很困难，但最终爱上了这个框架。作者强调了他们喜欢 Tailwind CSS 的几个原因，包括快速设计样式的能力、不需要单独命名类、自动删除未使用的 CSS、预先选择的调色板、项目之间的强一致性、简单的响应式样式以及Tailwind Typography 插件的实用性。作者承认存在学习曲线，但个人认为 Tailwind CSS 对于加快网站样式设计非常有价值。]]></description>
+      <guid>https://t.me/hn_summary/70601</guid>
+      <pubDate>Tue, 23 Jan 2024 21:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]语音人工智能初创公司 ElevenLabs 在 B 轮融资中获得 8000 万美元资金 [...]</title>
-      <link>https://t.me/hn_summary/70572</link>
-      <description><![CDATA[ElevenLabs 从 a16z 和 Sequoia 获得 8000 万美元投资 – 成为独角兽&lt; /a&gt;
-语音人工智能初创公司 ElevenLabs 在由 Andreessen Horowitz 和红杉资本等领投的 B 轮融资中获得了 8000 万美元的资金。这笔资金使该公司的估值达到 11 亿美元，使其在成立不到两年后就成为独角兽。 ElevenLabs 专注于将文本转换为语音的人工智能技术，重点关注配音和语音到语音的转换。该公司计划利用这笔资金投资研究、建设团队并为各个行业开发特定产品。它还旨在增强对人工语音情感的控制，并致力于实时音频翻译。该公司致力于确保其技术的安全性，并计划推出语音验证工具。此外，ElevenLabs 还创建了一个语音市场，为配音演员提供通过声音获利的机会。]]></description>
-      <guid>https://t.me/hn_summary/70572</guid>
-      <pubDate>Tue, 23 Jan 2024 18:15:53 GMT</pubDate>
+      <title>[媒体]为什么机器学习“难”？</title>
+      <link>https://t.me/hn_summary/70600</link>
+      <description><![CDATA[为什么机器学习“难”？
+这篇文章讨论了为什么机器学习被认为是一个“难题”，尽管在使其更容易理解方面已经取得了进步。它解释说，困难在于实现现有算法和模型以使其能够很好地适应新应用，而不是在于机器学习背后的数学。作者强调，建立对使用哪些工具的直觉并了解每种算法的权衡和限制是机器学习的一项关键技能。该文章还强调，由于模型和数据中错误的额外维度，机器学习中的调试难度呈指数级增长。漫长的调试周期可能需要数小时或数天，这使得过程更加复杂。作者的结论是，快速有效的调试是实现机器学习管道的最重要技能。]]></description>
+      <guid>https://t.me/hn_summary/70600</guid>
+      <pubDate>Tue, 23 Jan 2024 21:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]变异假说，也称为更大的男性变异假说，sug [...]</title>
-      <link>https://t.me/hn_summary/70571</link>
-      <description><![CDATA[变异性假设
-变异假说，也称为男性更大变异假说，表明与女性相比，男性通常在性状上表现出更大的变异性。这一假设已经与人类认知能力相关进行了讨论，一些研究表明男性更有可能拥有非常高或非常低的智商测试分数。关于这些基于性别的变异性差异是否存在以及它们是否是由遗传差异、环境条件或两者的组合引起的，存在争议。在不同物种的各种能力和特征中观察到雄性和雌性之间的变异性差异。该假说有着悠久的历史，早期在查尔斯·达尔文和哈夫洛克·埃利斯等学者之间就曾存在过争论。现代研究继续探索变异性的性别差异，一些研究支持这一假设，另一些则发现没有显着差异。 （根据故事文本的 38% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70571</guid>
-      <pubDate>Tue, 23 Jan 2024 18:14:44 GMT</pubDate>
+      <title>[媒体]一名德克萨斯州男子在虚假陈述后起诉梅西百货和 Sunglass Hut 的母公司 [...]</title>
+      <link>https://t.me/hn_summary/70599</link>
+      <description><![CDATA[德克萨斯州男子因面部识别错误逮捕而起诉梅西百货、Sunglass Hut 家长&lt; /a&gt;
+一名德克萨斯州男子因面部识别技术容易出错而被错误指控武装抢劫，目前正在起诉梅西百货和 Sunglass Hut 的母公司。小哈维·墨菲 (Harvey Murphy Jr.) 被关押了近两周，之后检察官证实抢劫发生时他并不在该州，才被释放。据称，墨菲在被拘留期间遭到三名男子的袭击和强奸。该诉讼称，Sunglass Hut 的母公司 EssilorLuxottica 依靠梅西百货的面部识别工具在低质量的监控录像中错误地识别了墨菲。该案例凸显了算法和人工智能造成身份错误的潜在危险。]]></description>
+      <guid>https://t.me/hn_summary/70599</guid>
+      <pubDate>Tue, 23 Jan 2024 21:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>网页内容讨论了缓冲膨胀问题，这是指[...]的过度缓冲。</title>
-      <link>https://t.me/hn_summary/70570</link>
-      <description><![CDATA[解除缓冲区膨胀
-网页内容讨论了缓冲膨胀问题，这是指网络中数据包的过度缓冲，导致延迟增加和性能下降。作者用正方形和电缆的比喻来解释这个概念。他们强调了缓冲区膨胀对语音呼叫的负面影响，并提供了一个图表，显示缓冲区膨胀对他们自己的家庭连接的影响。然后，作者介绍了主动队列管理 (AQM) 作为缓冲区膨胀的解决方案，并建议使用 CAKE AQM 实现。他们分享了自己实施 CAKE 的经验以及它对网络性能产生的积极成果。]]></description>
-      <guid>https://t.me/hn_summary/70570</guid>
-      <pubDate>Tue, 23 Jan 2024 18:03:33 GMT</pubDate>
+      <title>[媒体]这篇研究论文介绍了一种检测机器生成文本的新方法，[...]</title>
+      <link>https://t.me/hn_summary/70598</link>
+      <description><![CDATA[用双筒望远镜发现法学硕士：机器生成文本的零样本检测
+本研究论文介绍了一种检测机器生成文本的新方法，特别关注法律语言模型（LLM）。作者提出了一种利用双筒望远镜的零样本检测方法，这种技术结合了两种不同的模型来提高准确性。他们在法律文件数据集上评估了他们的方法，并证明了其在识别机器生成文本方面的有效性。结果表明，他们的方法优于现有方法，并实现了较高的精确率和召回率。这项研究对于机器生成内容的检测具有重要意义，特别是在法律领域。]]></description>
+      <guid>https://t.me/hn_summary/70598</guid>
+      <pubDate>Tue, 23 Jan 2024 21:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]他们VS.</title>
-      <link>https://t.me/hn_summary/70569</link>
-      <description><![CDATA[他们与美国：两个美洲以及精英如何与普通美国脱节 [pdf](https://news.ycombinator.com/item?id=39106904)
-文章讨论了美国精英阶层和普通美国人之间的鸿沟。它突显出这样一个事实：拥有研究生学位、高收入、居住在人口密度高地区的精英阶层，他们的观点和态度与全国其他地区有很大不同。文章提供了各种统计数据来支持这一说法，例如 74% 的精英表示，与 20% 的美国人相比，他们今天的经济状况更好。它还提到，精英们更有可能信任政府并支持诸如配给等应对气候变化的政策。文章的结论是，精英阶层的观点对美国的自由和自治的建国理想构成了威胁。]]></description>
-      <guid>https://t.me/hn_summary/70569</guid>
-      <pubDate>Tue, 23 Jan 2024 18:00:23 GMT</pubDate>
+      <title>[媒体]尼古拉斯·桑德斯，一位被遗忘的天才，在改变英国社会方面发挥了重要作用 [...]</title>
+      <link>https://t.me/hn_summary/70597</link>
+      <description><![CDATA[嬉皮士、资本家、大师、杂货商：改变英国的被遗忘的天才食物
+尼古拉斯·桑德斯 (Nicholas Saunders) 是一位被遗忘的天才，他在改变 20 世纪 70 年代英国食品的过程中发挥了重要作用。桑德斯以其名为《另类伦敦》的另类指南而闻名，他提供了广泛主题的信息，从占屋到在超市寻找便宜货。他用继承的遗产在考文特花园购买了一个仓库，开始在那里销售干粮。后来，他开设了Monmouth Coffee和Neal&#39;s Yard Dairy，这两家公司都对英国饮食文化产生了影响。桑德斯坚信让所有人都能获取信息，并且是复兴英国饮食传统的先驱。尽管做出了贡献，桑德斯仍然相对不为人所知。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70597</guid>
+      <pubDate>Tue, 23 Jan 2024 20:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国国家安全局发布了一系列有关 1998 年菲比恐慌和 1 [...]</title>
-      <link>https://t.me/hn_summary/70568</link>
-      <description><![CDATA[美国国家安全局菲比文件
-美国国家安全局公布了一系列有关 1998 年和 1999 年菲比恐慌事件的文件，其中由于担心该玩具潜在的间谍能力，该玩具被禁止进入该机构的办公室。这些文件包括有关菲比使用人工智能芯片“学习”能力的讨论以及一份针对该禁令的内部备忘录。这些文件的发布是在互联网用户 kotaKat 根据《信息自由法》提出请求之后发布的，他对 NSA 内联网上的政策备忘录感到好奇。这些文件深入了解了美国国家安全局对菲比间谍能力的兴趣和担忧。]]></description>
-      <guid>https://t.me/hn_summary/70568</guid>
-      <pubDate>Tue, 23 Jan 2024 17:54:11 GMT</pubDate>
+      <title>[媒体]该网页内容的作者认为，黑暗森林假说，如 [...]</title>
+      <link>https://t.me/hn_summary/70596</link>
+      <description><![CDATA[黑暗森林假说是荒谬的
+该网页内容的作者认为，刘慈欣小说《黑暗森林》中提出的黑暗森林假说是荒谬的，在科学上是可疑的。该假设表明，文明为了确保自身生存而摧毁它们遇到的任何外星文明是合理的。作者指出，宇宙文明自然彼此隐藏的假设是值得怀疑的，因为望远镜和太空探索的进步可能使我们能够探测到其他文明。此外，作者质疑所有文明都会隐藏其能力的想法，因为这将阻止任何人进行银河灭绝。作者的结论是，虽然黑暗森林假说是一个令人着迷的幻想，但它与我们在现实世界中观察到的情况并不相符。]]></description>
+      <guid>https://t.me/hn_summary/70596</guid>
+      <pubDate>Tue, 23 Jan 2024 20:18:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联合航空公司首席执行官斯科特·柯比 (Scott Kirby) 对波音公司持续的人事表示失望 [...]</title>
-      <link>https://t.me/hn_summary/70567</link>
-      <description><![CDATA[联合航空首席执行官表示，该公司将考虑波音的替代方案
-联合航空首席执行官斯科特·柯比对波音公司持续存在的制造问题表示失望，这些问题导致联合航空客机停飞。柯比表示，该航空公司将考虑购买未来更大版本的波音 737 Max 的替代方案。联合航空目前拥有 79 架此类飞机，这些飞机因阿拉斯加航空 Max 9 在飞行途中面板爆炸而停飞。柯比相信 Max 9 很快就会获准再次飞行，但他对波音公司反复出现的制造挑战表示担忧。 Max 9 喷气式飞机的停飞可能会使波音新机型获得批准的努力进一步复杂化。]]></description>
-      <guid>https://t.me/hn_summary/70567</guid>
-      <pubDate>Tue, 23 Jan 2024 17:38:58 GMT</pubDate>
+      <title>[媒体]此网页内容提供了 50,000 个生成的样本的链接，这些样本用于 FID com [...]</title>
+      <link>https://t.me/hn_summary/70595</link>
+      <description><![CDATA[使用扩散模型直接生成像素空间百万像素图像 
+此 Web 内容提供了 50,000 个生成的样本的链接，这些样本用于不同模型的 FID 计算。这些模型包括不带 CFG 的 557M ImageNet 模型、CFG = 1.3 的 557M ImageNet 模型和不带 CFG 的 FFHQ-1024 2 模型。示例分为多个部分，并为每个部分提供了链接。没有提及提供这些样本的目的，但可以推断它们是为了研究或评估目的而共享的。]]></description>
+      <guid>https://t.me/hn_summary/70595</guid>
+      <pubDate>Tue, 23 Jan 2024 19:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]亚马逊网络服务人工智能实验室和[...]的研究人员最近发布的一份报告</title>
-      <link>https://t.me/hn_summary/70566</link>
-      <description><![CDATA[错误的机器翻译遍布网络
-亚马逊网络服务人工智能实验室和加州大学圣塔芭芭拉分校的研究人员最近发布的一份报告显示，网络上超过一半的句子被翻译成两种或多种不同的语言，但效果不佳。每次连续翻译成其他语言后，翻译都会变得更糟。该报告提出了对使用机器翻译的培训模型的担忧，并强调了人工智能生成翻译的流行，特别是在资源匮乏的语言中。研究人员还发现，用于人工智能训练的内容选择存在偏差，机器生成的翻译在低资源语言的翻译内容总量中占主导地位。文章还提到了一些幽默又尴尬的机器翻译错误实例。]]></description>
-      <guid>https://t.me/hn_summary/70566</guid>
-      <pubDate>Tue, 23 Jan 2024 17:29:43 GMT</pubDate>
+      <title>作者介绍了 Cosmic 的 Blocks，这是一组新的预构建网站组件，用于构建 [...]</title>
+      <link>https://t.me/hn_summary/70594</link>
+      <description><![CDATA[显示 HN：Cosmic 的区块
+作者介绍了 Cosmic 的 Blocks，这是一组新的预构建网站组件，用于构建由 Cosmic 驱动的网站和应用程序。块旨在使开发更快、更高效，提供登陆页面、博客、图片库和产品页面等功能。作者强调了使用 React Server Components (RSC) 作为构建数据驱动的 Web 应用程序的新范例，并强调了 Blocks 的性能优化、草稿预览就绪性、移动响应能力和自定义选项。作者还提到 Blocks 是开源的，可以安装到任何新的或现有的 Next.js 代码库中。]]></description>
+      <guid>https://t.me/hn_summary/70594</guid>
+      <pubDate>Tue, 23 Jan 2024 19:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法国数据隐私监管机构 CNIL 对亚马逊处以 3200 万欧元（3500 万美元）的罚款 [...]</title>
-      <link>https://t.me/hn_summary/70565</link>
-      <description><![CDATA[亚马逊因“过度侵入”监控在法国被罚款 3500 万美元
-法国数据隐私监管机构 CNIL 因亚马逊使用“过度侵入”的员工监控系统而对亚马逊处以 3200 万欧元（3500 万美元）的罚款。亚马逊法国物流公司使用的该系统通过条形码扫描仪跟踪员工，并标记那些处理订单速度不够快的人，即使只有一分钟。根据欧洲 GDPR，CNIL 认为这是非法的。亚马逊认为，使用此类系统是行业的标准做法，也是安全高效运营所必需的。该公司强烈不同意 CNIL 的结论，并可对该决定提出上诉。]]></description>
-      <guid>https://t.me/hn_summary/70565</guid>
-      <pubDate>Tue, 23 Jan 2024 17:28:34 GMT</pubDate>
+      <title>问 HN：2024 年您更喜欢哪种 Web 开发堆栈？</title>
+      <link>https://t.me/hn_summary/70593</link>
+      <description><![CDATA[询问 HN：2024 年您更喜欢哪种 Web 开发堆栈？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者是寻求社区对 2024 年首选 Web 开发堆栈的意见。他们特别有兴趣了解为新项目和初创公司选择的工具和框架。作者指出，React 不再是前端的默认框架，Svelte 和 HTMX 越来越受欢迎。在后端方面，作者承认，选择可能会根据具体项目需求而有所不同。他们了解许多开发人员会选择他们最熟悉的工具，但仍然希望从社区收集见解。]]></description>
+      <guid>https://t.me/hn_summary/70593</guid>
+      <pubDate>Tue, 23 Jan 2024 19:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：最佳 WebRTC – Zoom 替代方案？</title>
-      <link>https://t.me/hn_summary/70564</link>
-      <description><![CDATA[显示 HN：最佳 WebRTC – 缩放替代方案？ 
-该项目的目的是将最好的 WebRTC 项目聚集在一处。 WebRTC 是一种支持 Web 浏览器和移动应用程序之间实时通信的技术。该项目旨在为 Zoom 等流行视频会议平台提供替代方案。它包括一系列 WebRTC 项目，例如 BigBlueButton、Jitsi-meet、OpenVidu 等。作者提到，该项目的独特之处在于收集了 WebRTC 项目的全面列表，包括媒体服务器、turn 和 stun 服务器、库和示例。]]></description>
-      <guid>https://t.me/hn_summary/70564</guid>
-      <pubDate>Tue, 23 Jan 2024 17:24:25 GMT</pubDate>
+      <title>[媒体]城市农业通常被视为提供新鲜农产品的可持续解决方案[...]</title>
+      <link>https://t.me/hn_summary/70592</link>
+      <description><![CDATA[在城市农场种植水果和蔬菜不是我们的绿色选择想象一下
+城市农业通常被视为一种可持续的解决方案，可以为健康食品选择有限的社区提供新鲜农产品。然而，密歇根大学研究人员进行的一项研究发现，都市农业可能并不像之前想象的那样对气候友好。该研究分析了北美和欧洲的 73 个城市农业地点，发现这些地点每份水果或蔬菜的碳密集度是传统农业的六倍。研究人员发现，高架床和棚屋等基础设施是都市农业的主要排放源。然而，该研究还强调了一些可以使城市农业更加气候友好的做法，包括使用回收材料、升级改造食物垃圾和种植碳密集型作物。研究人员认为，通过精心设计和改进土地利用政策，都市农业可以为社区和地球带来好处。]]></description>
+      <guid>https://t.me/hn_summary/70592</guid>
+      <pubDate>Tue, 23 Jan 2024 19:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
