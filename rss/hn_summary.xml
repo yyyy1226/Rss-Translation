@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 21:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 01:19:03 GMT</lastBuildDate>
     <item>
-      <title>网页内容的作者表达了他们对 Tailwind CSS 的喜爱，Tailwind CSS 是一个用于样式化的框架 [...]</title>
-      <link>https://t.me/hn_summary/70601</link>
-      <description><![CDATA[为什么我喜欢 Tailwind CSS
-Web 内容的作者表达了他们对 Tailwind CSS（一种用于设置网站样式的框架）的喜爱。他们最初发现记住类的名称很困难，但最终爱上了这个框架。作者强调了他们喜欢 Tailwind CSS 的几个原因，包括快速设计样式的能力、不需要单独命名类、自动删除未使用的 CSS、预先选择的调色板、项目之间的强一致性、简单的响应式样式以及Tailwind Typography 插件的实用性。作者承认存在学习曲线，但个人认为 Tailwind CSS 对于加快网站样式设计非常有价值。]]></description>
-      <guid>https://t.me/hn_summary/70601</guid>
-      <pubDate>Tue, 23 Jan 2024 21:08:52 GMT</pubDate>
+      <title>[媒体] 几内亚正在掀起对“绿色”铁的热潮。</title>
+      <link>https://t.me/hn_summary/70647</link>
+      <description><![CDATA[几内亚正在掀起对“绿色”铁的热潮。黑猩猩会成为伤亡吗？
+英澳矿业公司力拓计划投资62亿美元在几内亚西芒杜山脉建设一座铁矿​​，该山蕴藏着世界上最大的未开发高品位铁矿床。西芒杜的铁矿石适合低排放钢铁生产，对于旨在减少碳足迹的公司来说需求量很大。然而，自然资源保护主义者担心采矿作业对居住在西芒杜和宁巴山脉的极度濒危西部黑猩猩的影响。采矿项目可能会对黑猩猩的栖息地构成威胁，并加剧对食物的竞争，从而导致压力和繁殖率下降。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70647</guid>
+      <pubDate>Wed, 24 Jan 2024 01:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么机器学习“难”？</title>
-      <link>https://t.me/hn_summary/70600</link>
-      <description><![CDATA[为什么机器学习“难”？
-这篇文章讨论了为什么机器学习被认为是一个“难题”，尽管在使其更容易理解方面已经取得了进步。它解释说，困难在于实现现有算法和模型以使其能够很好地适应新应用，而不是在于机器学习背后的数学。作者强调，建立对使用哪些工具的直觉并了解每种算法的权衡和限制是机器学习的一项关键技能。该文章还强调，由于模型和数据中错误的额外维度，机器学习中的调试难度呈指数级增长。漫长的调试周期可能需要数小时或数天，这使得过程更加复杂。作者的结论是，快速有效的调试是实现机器学习管道的最重要技能。]]></description>
-      <guid>https://t.me/hn_summary/70600</guid>
-      <pubDate>Tue, 23 Jan 2024 21:08:46 GMT</pubDate>
+      <title>[媒体]GrowLab AI 是一个创新平台，利用人工智能来识别 [...]</title>
+      <link>https://t.me/hn_summary/70646</link>
+      <description><![CDATA[展示 HN：GrowLab AI – 植物识别和疾病 
+GrowLab AI 是一个利用人工智能识别植物和检测疾病的创新平台。只需上传植物照片，用户就可以获得有关该物种及其可能面临的任何潜在疾病的准确详细信息。这项尖端技术正在彻底改变我们照料植物的方式，使专业人士和爱好者更容易确保他们的绿色植物的健康和福祉。借助 GrowLab AI，植物识别和疾病检测变得前所未有的便捷和高效。]]></description>
+      <guid>https://t.me/hn_summary/70646</guid>
+      <pubDate>Wed, 24 Jan 2024 01:16:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一名德克萨斯州男子在虚假陈述后起诉梅西百货和 Sunglass Hut 的母公司 [...]</title>
-      <link>https://t.me/hn_summary/70599</link>
-      <description><![CDATA[德克萨斯州男子因面部识别错误逮捕而起诉梅西百货、Sunglass Hut 家长&lt; /a&gt;
-一名德克萨斯州男子因面部识别技术容易出错而被错误指控武装抢劫，目前正在起诉梅西百货和 Sunglass Hut 的母公司。小哈维·墨菲 (Harvey Murphy Jr.) 被关押了近两周，之后检察官证实抢劫发生时他并不在该州，才被释放。据称，墨菲在被拘留期间遭到三名男子的袭击和强奸。该诉讼称，Sunglass Hut 的母公司 EssilorLuxottica 依靠梅西百货的面部识别工具在低质量的监控录像中错误地识别了墨菲。该案例凸显了算法和人工智能造成身份错误的潜在危险。]]></description>
-      <guid>https://t.me/hn_summary/70599</guid>
-      <pubDate>Tue, 23 Jan 2024 21:06:36 GMT</pubDate>
+      <title>[媒体]小宇宙 X Sugar Cubes 手持式游戏机​​为 [...]</title>
+      <link>https://t.me/hn_summary/70645</link>
+      <description><![CDATA[手持游戏机的显示屏可以旋转为横向或纵向模式
+小宇宙 X Sugar Cubes 手持游戏机为寻找适合各种游戏机设计的复古游戏的屏幕的问题提供了独特的解决方案。它具有可旋转 90 度的显示屏，可在横向和纵向之间切换。然而，当前控制台 3.9 英寸 OLED 显示屏（纵横比为 31:27）的设计并没有从切换方向中提供太多好处，因为它在任一位置都接近正方形。该手持设备还配备高通 Snapdragon 888 处理器和金属机身，但有关中国境外定价和上市情况的详细信息仍不得而知。]]></description>
+      <guid>https://t.me/hn_summary/70645</guid>
+      <pubDate>Wed, 24 Jan 2024 00:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇研究论文介绍了一种检测机器生成文本的新方法，[...]</title>
-      <link>https://t.me/hn_summary/70598</link>
-      <description><![CDATA[用双筒望远镜发现法学硕士：机器生成文本的零样本检测
-本研究论文介绍了一种检测机器生成文本的新方法，特别关注法律语言模型（LLM）。作者提出了一种利用双筒望远镜的零样本检测方法，这种技术结合了两种不同的模型来提高准确性。他们在法律文件数据集上评估了他们的方法，并证明了其在识别机器生成文本方面的有效性。结果表明，他们的方法优于现有方法，并实现了较高的精确率和召回率。这项研究对于机器生成内容的检测具有重要意义，特别是在法律领域。]]></description>
-      <guid>https://t.me/hn_summary/70598</guid>
-      <pubDate>Tue, 23 Jan 2024 21:05:27 GMT</pubDate>
+      <title>[媒体] eBay 宣布计划裁员约 1,000 名全职员工，这符合 [...]</title>
+      <link>https://t.me/hn_summary/70644</link>
+      <description><![CDATA[eBay 将削减约 1,000 个职位，即员工总数的约 9%时间员工
+eBay已宣布计划裁员约1000名全职员工，约占其员工总数的9%。该公司首席执行官杰米·伊安诺(Jamie Iannone)在致员工的一封信中解释说，由于公司开支超过了业务增长，因此裁员是必要的。 eBay 还将减少与其候补员工签订的合同数量。这些组织变革的目标是改善整体客户体验并更好地满足全球客户的需求。消息公布后，eBay 股价在盘后交易中上涨 3.7%。]]></description>
+      <guid>https://t.me/hn_summary/70644</guid>
+      <pubDate>Wed, 24 Jan 2024 00:46:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尼古拉斯·桑德斯，一位被遗忘的天才，在改变英国社会方面发挥了重要作用 [...]</title>
-      <link>https://t.me/hn_summary/70597</link>
-      <description><![CDATA[嬉皮士、资本家、大师、杂货商：改变英国的被遗忘的天才食物
-尼古拉斯·桑德斯 (Nicholas Saunders) 是一位被遗忘的天才，他在改变 20 世纪 70 年代英国食品的过程中发挥了重要作用。桑德斯以其名为《另类伦敦》的另类指南而闻名，他提供了广泛主题的信息，从占屋到在超市寻找便宜货。他用继承的遗产在考文特花园购买了一个仓库，开始在那里销售干粮。后来，他开设了Monmouth Coffee和Neal&#39;s Yard Dairy，这两家公司都对英国饮食文化产生了影响。桑德斯坚信让所有人都能获取信息，并且是复兴英国饮食传统的先驱。尽管做出了贡献，桑德斯仍然相对不为人所知。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70597</guid>
-      <pubDate>Tue, 23 Jan 2024 20:43:14 GMT</pubDate>
+      <title>[媒体] Awesome D 是 D 框架、库和软件的精选列表。</title>
+      <link>https://t.me/hn_summary/70643</link>
+      <description><![CDATA[很棒的 D：Dlang 文档、框架、库和软件的精选列表
+Awesome D 是 D 框架、库和软件的精选列表。该项目的目的是为D编程语言提供全面的资源集合，使用户能够轻松找到所需的内容。作者从各种来源收集了文档和链接，包括 D 论坛、D wiki 和 D 包存储库。该项目的独特之处在于它是一个精心策划的列表，确保只包含高质量和有用的资源。还鼓励用户通过 GitHub 问题建议新库或应用程序或编辑文件来做出贡献。 （根据故事文本的 41% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70643</guid>
+      <pubDate>Wed, 24 Jan 2024 00:41:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者认为，黑暗森林假说，如 [...]</title>
-      <link>https://t.me/hn_summary/70596</link>
-      <description><![CDATA[黑暗森林假说是荒谬的
-该网页内容的作者认为，刘慈欣小说《黑暗森林》中提出的黑暗森林假说是荒谬的，在科学上是可疑的。该假设表明，文明为了确保自身生存而摧毁它们遇到的任何外星文明是合理的。作者指出，宇宙文明自然彼此隐藏的假设是值得怀疑的，因为望远镜和太空探索的进步可能使我们能够探测到其他文明。此外，作者质疑所有文明都会隐藏其能力的想法，因为这将阻止任何人进行银河灭绝。作者的结论是，虽然黑暗森林假说是一个令人着迷的幻想，但它与我们在现实世界中观察到的情况并不相符。]]></description>
-      <guid>https://t.me/hn_summary/70596</guid>
-      <pubDate>Tue, 23 Jan 2024 20:18:59 GMT</pubDate>
+      <title>[媒体] eBay 宣布将裁员约 9% 的全职员工 [...]</title>
+      <link>https://t.me/hn_summary/70642</link>
+      <description><![CDATA[eBay 裁员 9%
+eBay 宣布将裁员约 9% 的全职员工，总计约 1,000 个职位。该公司表示，为了让 eBay 更好地实现长期、可持续增长，这些变化是必要的。此次裁员是改善客户端到端体验并整合某些团队的更大努力的一部分。 eBay 承认这些决定很困难，并且会对受影响的员工产生影响。公司致力于在此过渡期间尊重和同情每个人，并向受影响的人提供支持和资源。]]></description>
+      <guid>https://t.me/hn_summary/70642</guid>
+      <pubDate>Wed, 24 Jan 2024 00:40:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容提供了 50,000 个生成的样本的链接，这些样本用于 FID com [...]</title>
-      <link>https://t.me/hn_summary/70595</link>
-      <description><![CDATA[使用扩散模型直接生成像素空间百万像素图像 
-此 Web 内容提供了 50,000 个生成的样本的链接，这些样本用于不同模型的 FID 计算。这些模型包括不带 CFG 的 557M ImageNet 模型、CFG = 1.3 的 557M ImageNet 模型和不带 CFG 的 FFHQ-1024 2 模型。示例分为多个部分，并为每个部分提供了链接。没有提及提供这些样本的目的，但可以推断它们是为了研究或评估目的而共享的。]]></description>
-      <guid>https://t.me/hn_summary/70595</guid>
-      <pubDate>Tue, 23 Jan 2024 19:48:42 GMT</pubDate>
+      <title>[媒体]该项目称为“硬件加速相似性度量和距离函数”[...]</title>
+      <link>https://t.me/hn_summary/70641</link>
+      <description><![CDATA[硬件加速相似性指标和距离函数（速度提高 200 倍）
+该项目称为“硬件加速相似性度量和距离函数”，是一个零依赖的纯标头 C 99 库，具有 Python 和 JavaScript 的绑定。它针对 ARM NEON、SVE、x86 AVX2、AVX-512 硬件后端，并与 NumPy、PyTorch、TensorFlow 和其他张量兼容。该项目旨在快速有效地实现各种距离函数和相似性度量，例如欧几里德距离函数、内距离函数、余弦函数、汉明函数、Jaccard 函数、Kullback-Leibler 函数和 Jensen-Shannon 函数。作者声称该项目比 scipy.spatial.distance 和 numpy.inner 快 200 倍。它用于 USearch 和多种 DBMS 产品。该项目还提供了不同硬件平台的技术见解和基准。]]></description>
+      <guid>https://t.me/hn_summary/70641</guid>
+      <pubDate>Wed, 24 Jan 2024 00:36:09 GMT</pubDate>
     </item>
     <item>
-      <title>作者介绍了 Cosmic 的 Blocks，这是一组新的预构建网站组件，用于构建 [...]</title>
-      <link>https://t.me/hn_summary/70594</link>
-      <description><![CDATA[显示 HN：Cosmic 的区块
-作者介绍了 Cosmic 的 Blocks，这是一组新的预构建网站组件，用于构建由 Cosmic 驱动的网站和应用程序。块旨在使开发更快、更高效，提供登陆页面、博客、图片库和产品页面等功能。作者强调了使用 React Server Components (RSC) 作为构建数据驱动的 Web 应用程序的新范例，并强调了 Blocks 的性能优化、草稿预览就绪性、移动响应能力和自定义选项。作者还提到 Blocks 是开源的，可以安装到任何新的或现有的 Next.js 代码库中。]]></description>
-      <guid>https://t.me/hn_summary/70594</guid>
-      <pubDate>Tue, 23 Jan 2024 19:41:34 GMT</pubDate>
+      <title>[媒体] everynoise.com 的创建者，该网站对不同类型进行分类和探索 [...]</title>
+      <link>https://t.me/hn_summary/70640</link>
+      <description><![CDATA[everynoise.com 的创建者被 Spotify 解雇&lt; br/&gt;
+everynoise.com 的创建者，该网站对不同的内容进行分类和探索音乐流派，已被 Spotify 解雇。该网站收录了来自世界各地的各种流派，包括当代 R&amp;B、电子浩室、乡村音乐、摇滚、歌手兼作曲家等等。该网站为音乐爱好者提供了一种独特而全面的方式来发现新的流派和艺术家。内容中并未提及围绕 Spotify 创作者被解雇的争议。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70640</guid>
+      <pubDate>Wed, 24 Jan 2024 00:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：2024 年您更喜欢哪种 Web 开发堆栈？</title>
-      <link>https://t.me/hn_summary/70593</link>
-      <description><![CDATA[询问 HN：2024 年您更喜欢哪种 Web 开发堆栈？&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者是寻求社区对 2024 年首选 Web 开发堆栈的意见。他们特别有兴趣了解为新项目和初创公司选择的工具和框架。作者指出，React 不再是前端的默认框架，Svelte 和 HTMX 越来越受欢迎。在后端方面，作者承认，选择可能会根据具体项目需求而有所不同。他们了解许多开发人员会选择他们最熟悉的工具，但仍然希望从社区收集见解。]]></description>
-      <guid>https://t.me/hn_summary/70593</guid>
-      <pubDate>Tue, 23 Jan 2024 19:24:18 GMT</pubDate>
+      <title>[媒体]为什么要进行大重写？</title>
+      <link>https://t.me/hn_summary/70639</link>
+      <description><![CDATA[为什么要进行大重写？
+本文讨论了最近发布的 Zed 2，这标志着 Zed 的 UI 框架 GPUI 从版本 1 到版本 2 历时数月的重写结束。作者采访了 Zed 的联合创始人，以了解这次大重写背后的原因以及他们是如何进行重写的。走近它。联合创始人解释说，重写对于解决通信瓶颈、改进 UI 开发工作流程并创建更有效的技术解决方案是必要的。他们还讨论了重写过程中涉及的挑战和风险。文章强调了重写的增量性质以及过渡期间两个并行系统的使用。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70639</guid>
+      <pubDate>Wed, 24 Jan 2024 00:27:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]城市农业通常被视为提供新鲜农产品的可持续解决方案[...]</title>
-      <link>https://t.me/hn_summary/70592</link>
-      <description><![CDATA[在城市农场种植水果和蔬菜不是我们的绿色选择想象一下
-城市农业通常被视为一种可持续的解决方案，可以为健康食品选择有限的社区提供新鲜农产品。然而，密歇根大学研究人员进行的一项研究发现，都市农业可能并不像之前想象的那样对气候友好。该研究分析了北美和欧洲的 73 个城市农业地点，发现这些地点每份水果或蔬菜的碳密集度是传统农业的六倍。研究人员发现，高架床和棚屋等基础设施是都市农业的主要排放源。然而，该研究还强调了一些可以使城市农业更加气候友好的做法，包括使用回收材料、升级改造食物垃圾和种植碳密集型作物。研究人员认为，通过精心设计和改进土地利用政策，都市农业可以为社区和地球带来好处。]]></description>
-      <guid>https://t.me/hn_summary/70592</guid>
-      <pubDate>Tue, 23 Jan 2024 19:21:10 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，作者分享了他们姐夫的 enc 的个人经历 [...]</title>
+      <link>https://t.me/hn_summary/70638</link>
+      <description><![CDATA[所有闪闪发光的 500 日元硬币都不是金子&lt; br/&gt;
+在这篇文章中，作者分享了他们姐夫在日本遇到公交车司机的亲身经历。姐夫试图用闪亮的新 500 日元硬币付款，但被公交车的付款机拒绝了，因为它太新了。作者强调了妹夫面临的语言障碍，以及当作者能够用日语交流时司机感到的宽慰。此事件提醒人们，并非所有看上去完好的 500 日元硬币都能被某些机器接受。]]></description>
+      <guid>https://t.me/hn_summary/70638</guid>
+      <pubDate>Wed, 24 Jan 2024 00:25:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
