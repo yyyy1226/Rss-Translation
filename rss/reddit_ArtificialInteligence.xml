@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 18:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 21:16:34 GMT</lastBuildDate>
     <item>
-      <title>需要本科课程期末考试的主题提示：媒体、美学和文化创业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19emius/need_topic_tips_for_my_final_exam_in_bachelor/</link>
-      <description><![CDATA[每年期末考试都会有一个新主题，今年我们被要求写一些关于人工智能及其与媒体、美学和艺术的关系的文章。文化创业。我的想法是写一些与电影相关的人工智能，但我似乎找不到任何与未来不太相关的太有趣的东西。  只是在这里发帖寻求一些提示，因为我的大脑没有想出任何有趣的东西。很想听听您的想法！ :)   由   提交 /u/Infinityknown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19emius/need_topic_tips_for_my_final_exam_in_bachelor/</guid>
-      <pubDate>Wed, 24 Jan 2024 17:28:35 GMT</pubDate>
+      <title>在企业家人工智能方面处于领先地位的最佳公司？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19eqs6l/best_companies_who_are_leading_the_way_with_ai/</link>
+      <description><![CDATA[我看到一篇关于人工智能应该如何帮助创业和完成大量创业工作的文章。哪些公司是参与此领域的值得关注的好公司？ 如果我理解正确的话，一旦该软件存在，人们最需要的是广泛的商业理念，然后人工智能将处理大部分法律和文书工作类型事物、商业计划、营销计划、网站等。   由   提交/u/db1075  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19eqs6l/best_companies_who_are_leading_the_way_with_ai/</guid>
+      <pubDate>Wed, 24 Jan 2024 20:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>文章：新理论表明聊天机器人可以理解文本</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19eqaa1/article_new_theory_suggests_chatbots_can/</link>
+      <description><![CDATA[“最大的大型语言模型远非“随机鹦鹉”，它们似乎学习了足够的技能来理解它们正在处理的单词。”  https://www.quantamagazine.org/ new-theory-suggests-chatbots-can-understand-text-20240122/ 参考：https:/ /arxiv.org/abs/2310.17567   由   提交 /u/emptyplate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19eqaa1/article_new_theory_suggests_chatbots_can/</guid>
+      <pubDate>Wed, 24 Jan 2024 20:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为工作空间创建了一个人工智能驱动的搜索引擎。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19epden/i_created_an_ai_powered_search_engine_for/</link>
+      <description><![CDATA[我已经为工作区创建了困惑，这是我的第一次启动。我很想得到您的反馈和想法：www.producthunt.com/posts/findr-5    由   提交/u/omaku1720  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19epden/i_created_an_ai_powered_search_engine_for/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>对AI的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19eo5ax/suggestion_for_an_ai/</link>
+      <description><![CDATA[我学的是解剖学和生理学 2，我的笔记很难组织和维护。有没有人推荐一个人工智能，我可以在其中拍摄笔记，人工智能可以组织它们，总结，也许有助于学习？我之前在一些数学课程中使用过 thetawise，如果有人有使用该人工智能的经验，我对类似的东西很感兴趣。非常感谢！   由   提交/u/Pressure_Plastic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19eo5ax/suggestion_for_an_ai/</guid>
+      <pubDate>Wed, 24 Jan 2024 18:58:33 GMT</pubDate>
     </item>
     <item>
       <title>有新的 Voice2Voice 吗？</title>
@@ -27,32 +48,11 @@
       <pubDate>Wed, 24 Jan 2024 16:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>提示管理器和本地提示拦截器：两个防止有害输入的免费工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19el3mr/prompt_manager_and_local_prompt_blocker_two_free/</link>
-      <description><![CDATA[想要一种简单的方法来将您的 LLM 聊天机器人置于护栏上，并确保它不会以 1 美元的价格出售全新汽车或掉落疯狂的 F - 炸弹？提示管理器就像聊天机器人的纱门。它有 Python 和 HTML/Javascript 版本。它是一个纯粹的基于规则的应用程序，可以阻止任何不符合规则的直接输入到聊天框： 这是一个 Google Colab，展示了它的不同部分及其工作原理：Prompt Manager Colab... 以下是该应用程序的 Github 存储库：提示管理器 Github 本地提示拦截器类似于提示管理器，但效果更佳。它直接与LLM和提示交互，它本身就是门的锁。它利用 Vader-Lexicon 库和其他一些库，以便您可以阻止整个类别的提示和输入。 PII、仇恨言论，无论你设置什么。它的设置和配置比提示管理器困难得多。  Colab Notebook 展示功能：本地提示拦截器 Colab&lt; /a&gt;  Github 存储库：本地提示阻止程序 Github 如果您想要毫无疑问，所有这些功能以及更多功能的完整且简单的应用程序版本，那么您想要企业铁穹：https://www.corporateirondome.com&lt; /a&gt;    由   提交 /u/Fantastic-Ninja3839   /u/Fantastic-Ninja3839 reddit.com/r/ArtificialInteligence/comments/19el3mr/prompt_manager_and_local_prompt_blocker_two_free/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19el3mr/prompt_manager_and_local_prompt_blocker_two_free/</guid>
-      <pubDate>Wed, 24 Jan 2024 16:29:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 上用于特定目的的 AI 聊天机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ek1yv/ai_chat_bot_for_a_specific_purpose_on_discord/</link>
-      <description><![CDATA[也许有人可以帮忙解决这个问题：我想创建一个人工智能聊天机器人来回答有关大多数事情的问题，但特别能够非常准确地回答一个问题特定主题（风筝冲浪比赛）。它还需要能够回答播客中的“内部笑话”。我有大约 500 个基于这个主题的播客记录以及我可以提供的其他来源。它将主要用于 Discord（我想稍后会出现） 你建议我如何做到这一点？ 经验水平：菜鸟，我知道基本的 HTML，但仅此而已。我确实喜欢计算机，但我希望我不需要太多编程就能做到这一点。   由   提交 /u/Andrea_Is_GOAT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ek1yv/ai_chat_bot_for_a_specific_purpose_on_discord/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:44:52 GMT</pubDate>
-    </item>
-    <item>
       <title>p(厄运)是愚蠢的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ejrud/pdoom_is_dumb/</link>
       <description><![CDATA[用概率来讨论知识创造实体会做什么是荒谬的。  你无法预测它会有什么想法，它会发明什么意识形态，或者它会做出什么样的发现。  去对年轻的泰德·卡钦斯基进行 p(doom) 计算。  你得到了多少号码？使用 AGI 会变得更容易吗？   由   提交 /u/MaxGodart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ejrud/pdoom_is_dumb/</guid>
       <pubDate>Wed, 24 Jan 2024 15:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：14 个最佳 AI 内容创作工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ej298/review_best_14_ai_content_creation_tools/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ej298/review_best_14_ai_content_creation_tools/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:01:39 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟 AI 更新（日期：2024 年 1 月 24 日）：来自 Google、Microsoft、IBM、SAP 等的新闻</title>
