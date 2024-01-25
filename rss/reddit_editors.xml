@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 25 Jan 2024 09:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 12:36:41 GMT</lastBuildDate>
+    <item>
+      <title>在笔记本电脑/较小屏幕上最大化屏幕空间编辑的专业技巧。</title>
+      <link>https://www.reddit.com/r/editors/comments/19f7tq2/pr_pro_tip_for_maximizing_screen_real_estate/</link>
+      <description><![CDATA[将可分配直接快捷方式的面板空间分组在一起，例如效果控件 (shift+5)、音轨混合器 (shift+6)、Lumetri （我不知道它是否是默认分配的，但我在第 8 班有它），Lumetri 范围（对我来说是 ctrl+alt+s）。  然后，将它们全部删除。假设左侧有一个垃圾箱，其中在图标视图中打开了媒体，或者通过双击命令/选项在图标视图中打开了一组更大的子文件夹。它有时无法正常工作，但您应该得到这样的结果：当您关闭上面首先列出的面板组时，另一个媒体面板将占用其空间。  如果有人不明白我的意思，我可以发布视频。总是关闭正在使用的面板可能会很麻烦，但这样就可以在需要时拥有 3 个大面板和一个中型面板。此外，由于您始终可以快捷方式访问该面板，因此很容易快速关闭。   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19f7tq2/pr_pro_tip_for_maximizing_screen_real_estate/</guid>
+      <pubDate>Thu, 25 Jan 2024 12:05:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>周四提示！ 1 月 25 日星期四当周</title>
+      <link>https://www.reddit.com/r/editors/comments/19f5xsa/tip_thursday_week_of_thu_jan_25/</link>
+      <description><![CDATA[过去一周你学到了一些新的/很酷的（或者可能只是显而易见的）东西吗？ 将你的工具**放入括号 [Avid、Premiere、FCPX、After Effects、Resolve] 以及后面的说明。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19f5xsa/tip_thursday_week_of_thu_jan_25/</guid>
+      <pubDate>Thu, 25 Jan 2024 10:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>23.976 到 24 fps 转换</title>
       <link>https://www.reddit.com/r/editors/comments/19f5b6a/23976_to_24_fps_conversion/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如何判断 DCP 中的字幕标记是什么？</title>
       <link>https://www.reddit.com/r/editors/comments/19f46nv/how_can_you_tell_what_the_captions_are_tagged_as/</link>
-      <description><![CDATA[我已经编辑并正在监督一部关于残疾人空间的电影的帖子。因此，他们希望在 DCP 中为电影节提供开放式字幕 (例如为什么） 直到最近我还认为开放意味着与烧入相同。我发现两个引用暗示不是 - (参考1，参考2 ) 几句话：  打开并不意味着字幕已被烙印或未烙印，只是它们对整个人可见屏幕上的观众。  使用字幕，您可以进一步选择是将字幕刻录到图像中还是将它们作为单独的字幕“资产”包含在 DCP 中（在这种情况下，投影机在播放时将它们叠加到图像上） .  其中一个链接提到标记为 OSUB 的字幕显示在屏幕上，即开放式字幕。 所以我的问题是，在发送 DCP 文件夹时如何判断是否字幕已正确标记为 OSUB？ 在我看来，为了安全起见，我更喜欢将字幕烧录下来。它可能最终会这样。 我确实下载并安装了 DCP-o-Matic，它可以打开 DCP，但我不清楚它是否可以告诉字幕轨道被标记为什么. 任何建议表示赞赏。 更新：我已经找到了一种方法，即在 DCP-o-matic 播放器中打开它，它们要么显示为隐藏式字幕（如果您单击查看&gt;隐藏式字幕...) 或者它们只是显示在图片中。   由   提交 /u/Manenfilms   [链接] [评论]]]></description>
+      <description><![CDATA[我已经编辑并正在监督一部关于残疾人空间的电影的帖子。因此，他们希望在 DCP 中为电影节提供开放式字幕 (例如为什么） 直到最近我还认为开放意味着与烧入相同。我发现两个引用暗示不是 - (参考1，参考2 ) 一些引言：  打开并不意味着字幕被烙印或未烙印，只是它们对整个人可见屏幕上的观众。  使用字幕，您可以进一步选择是将字幕刻录到图像中还是将它们作为单独的字幕“资产”包含在 DCP 中（在这种情况下，投影机在播放时将它们叠加到图像上） .  其中一个链接提到标记为 OSUB 的字幕显示在屏幕上，即开放字幕。 所以我的问题是，在发送 DCP 文件夹时如何判断是否字幕已正确标记为 OSUB？ 在我看来，为了安全起见，我更喜欢将字幕烧录下来。它可能最终会这样。 我确实下载并安装了 DCP-o-Matic，它可以打开 DCP，但我不清楚它是否可以告诉字幕轨道被标记为什么. 任何建议表示赞赏。 更新：我已经找到了一种方法，即在 DCP-o-matic 播放器中打开它，它们要么显示为隐藏式字幕（如果您单击查看&gt;隐藏式字幕...）或者它们只是显示在图片中。   由   提交 /u/Manenfilms   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19f46nv/how_can_you_tell_what_the_captions_are_tagged_as/</guid>
       <pubDate>Thu, 25 Jan 2024 07:50:07 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>可以使用异地 DAS 自动备份 Synology NAS 吗？ （反过来呢？）</title>
       <link>https://www.reddit.com/r/editors/comments/19eq9fv/possible_to_autobackup_synology_nas_with_an/</link>
-      <description><![CDATA[我正在为一位朋友/同事制定策略，他是一位出色的电影制作人，但不太热衷于技术，而且有些健忘。我不想用两台 Synology NAS 设备及其相关驱动器的价格标签吓到他，所以我想知道：是否有任何类型的集成自动化，最好在 Synology 系统（即他们的软件）内，但不一定，是否可以允许异地位置的 DAS 使用互联网访问我们工作室的 NAS 并下载定期自动备份？如果没有，有没有一种相对低效的手动方式？ 相反：我正在为我的家庭工作室编辑设置 Thunderbolt RAID 阵列，并且有兴趣构建 NAS 或购买一台便宜的旧版本可以设置为异地备份。是否有任何简化的方法可以让我通过互联网将 DAS 备份到异地 NAS？ 如果这是有详细记录的，但我错过了，我深表歉意。本月大量关于存储的自学让我头晕目眩:) 系统规格：设置中可能使用的所有计算机都是 M1/M2 Mac 产品；尚未购买 NAS 机箱（我的 DAS 是 OWC Mercury Elite Pro Quad）。 // 软件规格：N/A // 素材规格：N/A   由   提交 /u/stuffsmithstuff   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为一位朋友/同事制定策略，他是一位出色的电影制作人，但不太热衷于技术，而且有些健忘。我不想用两台 Synology NAS 设备及其相关驱动器的价格标签吓到他，所以我想知道：是否有任何类型的集成自动化，最好在 Synology 系统（即他们的软件）内，但不一定，是否可以允许异地位置的 DAS 使用互联网访问我们工作室的 NAS 并下载定期自动备份？如果没有，有没有一种相对低效的手动方式？ 相反：我正在为我的家庭工作室编辑设置 Thunderbolt RAID 阵列，并且有兴趣构建 NAS 或购买一台便宜的旧版本可以设置为异地备份。有没有任何简化的方法可以让我通过互联网将我的 DAS 备份到异地 NAS？ 如果这是有详细记录的，但我错过了，我深表歉意。本月大量关于存储的自学让我头晕目眩:) 系统规格：设置中可能使用的所有计算机都是 M1/M2 Mac 产品；尚未购买 NAS 机箱（我的 DAS 是 OWC Mercury Elite Pro Quad）。 // 软件规格：N/A // 素材规格：N/A   由   提交 /u/stuffsmithstuff   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19eq9fv/possible_to_autobackup_synology_nas_with_an/</guid>
       <pubDate>Wed, 24 Jan 2024 20:23:38 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>有没有什么好的字幕编写 AI 工具？</title>
       <link>https://www.reddit.com/r/editors/comments/19em4p7/are_there_any_good_subtitles_writing_ai_tools_out/</link>
-      <description><![CDATA[我听说过字幕。 io - 有人尝试过吗？或任何其他可用的此类工具？   由   提交/u/Icy_Ad_8248  [链接] [评论]]]></description>
+      <description><![CDATA[我听说过字幕。 io - 有人尝试过吗？或任何其他可用的此类工具？   由   提交/u/Icy_Ad_8248   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19em4p7/are_there_any_good_subtitles_writing_ai_tools_out/</guid>
       <pubDate>Wed, 24 Jan 2024 17:12:36 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好。我已经剪辑了很多短片，今年也许可以剪辑一部完整的故事片。  现在我不完全确定设置这部电影的项目文件的最佳方法是什么。我在 Premiere 中进行编辑，视频/音频文件被划分到多个硬盘驱动器上（如果我没记错的话，有 4 个或 5 个硬盘驱动器）。你们要如何设置呢？创建代理，将它们全部放在驱动器上并从那里工作？那么最终的编辑效果会如何呈现呢？我觉得有点超出我的深度，很想知道你们的编辑同事如何解决这些问题！  非常感谢！   由   提交 /u/TOrangeLantern   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19egsla/feature_film_project_setup/</guid>
       <pubDate>Wed, 24 Jan 2024 13:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！如何在 Premiere Pro 中对素材顶部的 AE 合成剪辑进行遮罩</title>
-      <link>https://www.reddit.com/r/editors/comments/19efnyx/help_how_to_mask_on_an_ae_composition_clip_thats/</link>
-      <description><![CDATA[AE剪辑只是我制作的动画设计 素材位于V1时间线的底部，而AE位于顶部V2/V3 镜头中有 3 个人，其中有 2 个人动态移动 我一直在 AE 剪辑 (V2/V3) 上进行反向遮罩，以便人物出现在背景上。&lt; /p&gt; 不知何故，动态运动的自动遮罩不适用于 AE 剪辑，而是在动画周围遮罩 我已经为此工作了 2 天 什么是更快的方法/一种自动遮罩动态运动且背景出现在人后面的方法？？？请手动屏蔽，即使是 3 秒也不适合弱者:((    提交者    /u/catharticportals   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19efnyx/help_how_to_mask_on_an_ae_composition_clip_thats/</guid>
-      <pubDate>Wed, 24 Jan 2024 12:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redcine-X Pro 的导出问题</title>
-      <link>https://www.reddit.com/r/editors/comments/19ec3rc/exporting_issue_with_redcinex_pro/</link>
-      <description><![CDATA[我需要将一些素材导入 DaVinci Resolve，在执行此操作之前，我需要将 RED 素材导出为 QuickTime。每当我尝试输入视频或音频压缩设置时，我都会遇到这个问题。尽快需要建议，因为该项目的截止日期是今晚。 我在这个领域专业工作，但我在谷歌上找不到任何东西。 ​ *添加屏幕截图作为评论 ​ 规格： AMD Ryzen 5 5600X 6 核处理器 12 线程 3.70GHz NVIDIA GeForce RTX 3050 16GB RAM REDCINE-X PROFESSIONAL - Build 61.1.2 Windows 11  RED Komodo 相机 不确定镜头容器是什么意思，找不到编解码器，我拍摄了镜头。 ​ 100%问题在于我收到的错误/消息，而不是软件，但你的指南告诉我我必须添加规格和内容。   由   提交 /u/AbbreviationsOk8205   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19ec3rc/exporting_issue_with_redcinex_pro/</guid>
-      <pubDate>Wed, 24 Jan 2024 08:04:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
