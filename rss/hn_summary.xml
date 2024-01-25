@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:19:36 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 博士</title>
-      <link>https://t.me/hn_summary/70899</link>
-      <description><![CDATA[为数十亿设备计时的 NTP 协议发明者去世85
-网络时间协议 (NTP) 的发明者 David L. Mills 博士去世，享年 85 岁。NTP 创建于 1985 年，解决了跨不同计算机系统和网络同步时间的挑战。它允许网络上的计算机时钟同步到公共时间源，确保数据完整性和网络安全。 NTP 现在在全球数十亿台设备上运行，并已成为现代数字基础设施的基石。米尔斯因青光眼而失明，他在维持和发展协议方面面临着挑战。他还对互联网架构做出了重大贡献并获得了认可。]]></description>
-      <guid>https://t.me/hn_summary/70899</guid>
-      <pubDate>Thu, 25 Jan 2024 12:31:01 GMT</pubDate>
+      <title>[媒体]苹果公司宣布对其在欧盟的应用程序生态系统进行重大改变（EU [...]</title>
+      <link>https://t.me/hn_summary/70957</link>
+      <description><![CDATA[iOS 17.4 推出欧盟免佣金替代应用市场
+随着 iOS 17.4 的发布，Apple 宣布对其在欧盟 (EU) 的应用生态系统进行重大改变。此次更新允许 iPhone 和 iPad 用户从 App Store 之外的替代应用市场下载并安装应用程序。任何开发者都可以创建应用程序市场，只要他们符合 Apple 在客户体验、欺诈预防和客户支持方面的标准。通过替代应用程序商店安装的应用程序需要经过公证流程以进行安全检查。苹果不会对通过替代市场或替代支付系统安装的应用程序收取佣金。但是，每个帐户每年每次安装需支付 0.50 欧元的核心技术费。开发人员可以选择继续通过应用程序商店进行分发并支付减少的佣金，或者他们可以选择新的业务条款，其中包括访问替代应用程序商店并缴纳核心技术费。苹果正在提供费用计算器和分析报告来帮助开发者做出决定。进行这些更改是为了遵守欧盟的数字市场法案。]]></description>
+      <guid>https://t.me/hn_summary/70957</guid>
+      <pubDate>Thu, 25 Jan 2024 18:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>题为“成帧：通过操纵传输队列绕过 Wi-Fi 加密”的论文 [...]</title>
-      <link>https://t.me/hn_summary/70898</link>
-      <description><![CDATA[成帧：通过操纵传输队列绕过 Wi-Fi 加密
-题为“Framing Frames：Bypassing Wi-Fi Encryption by Manipulate Transmit Queues”的论文在第 32 届 USENIX 安全研讨会上发表。作者 Domien Schepers、Aanjhan Ranganathan 和 Mathy Vanhoef 讨论了一种通过操纵传输队列来绕过 Wi-Fi 加密的新方法。这项研究强调了 Wi-Fi 网络中可能被攻击者利用的潜在漏洞。该论文提供了有关该技术及其对 Wi-Fi 安全影响的详细信息。该演示视频可在 USENIX 网站上获取，以便进一步探讨该主题。]]></description>
-      <guid>https://t.me/hn_summary/70898</guid>
-      <pubDate>Thu, 25 Jan 2024 12:18:50 GMT</pubDate>
+      <title>[媒体]在 iOS 17.4 中，Apple 正在进行重大更改，以符合欧盟的新法规。</title>
+      <link>https://t.me/hn_summary/70956</link>
+      <description><![CDATA[Apple 允许在 iOS 17.4 中使用替代浏览器引擎 - 但仅限于欧盟
+在 iOS 17.4 中，Apple 正在进行重大更改，以符合欧盟的新法规。主要变化之一是，苹果现在将允许替代浏览器引擎在 iOS 上运行，但仅限欧盟用户。此前，iOS 上的所有浏览器都被迫在 WebKit 上运行，这限制了功能和特性。通过此更新，开发人员在满足特定标准并承诺隐私和安全措施后可以使用非 WebKit 引擎。苹果还为 Safari 添加了一个选择屏幕，允许用户选择不同的默认浏览器。这些变化是欧盟数字市场法案的结果，该法案要求用户对预安装的应用程序有更多的控制权。苹果对这些变化并不满意，并认为其他引擎存在安全和性能风险。不过，在欧盟，用户很快就会在 App Store 中看到经过改进的浏览器。]]></description>
+      <guid>https://t.me/hn_summary/70956</guid>
+      <pubDate>Thu, 25 Jan 2024 18:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了加拿大心理学家乔丹·彼得森 (Jordan Peterson) 的受欢迎程度和影响力 [...]</title>
-      <link>https://t.me/hn_summary/70897</link>
-      <description><![CDATA[我们应得的知识
-文章讨论了加拿大心理学家、教授乔丹·彼得森的受欢迎程度和影响力。作者认为彼得森的作品缺乏实质内容，并且充满了模糊和难以理解的语言。他们批评他的书《意义地图》过于复杂且不可证伪，涵盖了广泛的主题而没有提供清晰的见解。尽管如此，彼得森还是赢得了大批追随者，并受到各种媒体和知识分子的赞扬。作者质疑彼得森的作品为何获得如此多的认可，并表示他的模糊性允许多种解释，从而吸引不同的受众。 （根据故事文本的 17% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70897</guid>
-      <pubDate>Thu, 25 Jan 2024 11:52:34 GMT</pubDate>
+      <title>[媒体]Apple 宣布对 iOS、Safari 和欧盟 (E [...]</title>
+      <link>https://t.me/hn_summary/70955</link>
+      <description><![CDATA[Apple 宣布对 iOS、Safari 和 App Store 进行更改欧盟
+Apple 已宣布对欧盟 (EU) 的 iOS、Safari 和 App Store 进行更改，以遵守数字市场法案 (DMA)。这些变化包括为开发者提供应用程序分发和支付处理的新选项，以及为用户提供新的控制和披露以降低隐私和安全风险。这些变化引入了 600 多个新 API、扩展的应用程序分析、替代浏览器引擎的功能以及处理应用程序支付和分发 iOS 应用程序的选项。苹果正在实施保障措施来降低风险，但许多风险仍然存在。这些更改将于 2024 年 3 月开始向欧盟用户开放。（摘要基于 99% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/70955</guid>
+      <pubDate>Thu, 25 Jan 2024 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]冒充乔·拜登的虚假机器人电话消息引起了选举专家的警惕 [...]</title>
-      <link>https://t.me/hn_summary/70896</link>
-      <description><![CDATA[新罕布什尔州的虚假拜登机器人电话消息向选举专家发出警报 
-一条冒充乔·拜登的虚假机器人电话消息引起了新罕布什尔州选举专家的警惕。该电话谎称来自拜登竞选团队，敦促选民在选举日呆在家里，因为排长队和担心 COVID-19。选举官员担心这种误导性信息可能会抑制选民投票率并破坏选举过程的完整性。虽然机器人电话用于政治目的的情况并不少见，但使用总统候选人的虚假信息尤其令人担忧。当局正在调查电话来源，并努力防止今后发生类似事件。]]></description>
-      <guid>https://t.me/hn_summary/70896</guid>
-      <pubDate>Thu, 25 Jan 2024 11:42:23 GMT</pubDate>
+      <title>[媒体]大象有灵魂吗？</title>
+      <link>https://t.me/hn_summary/70954</link>
+      <description><![CDATA[大象有灵魂吗？
+网络内容探讨了大象是否有灵魂的问题。它描述了大象的诞生和生活，强调了它们独特的特征，例如它们的鼻子和它们作为关键物种的作用。内容还讨论了不同种类的大象及其种群数量。它深入探讨了灵魂的概念，从宗教和科学的角度讨论了不同的观点。作者认为大象拥有内心世界，并以它们非凡的记忆力作为证据。总体而言，内容提出了关于意识本质和人类与动物鸿沟的发人深省的问题。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70954</guid>
+      <pubDate>Thu, 25 Jan 2024 18:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]18世纪奥西斯史诗的发现被誉为重大l [...]</title>
-      <link>https://t.me/hn_summary/70895</link>
-      <description><![CDATA[Ossian，“北方荷马”，最伟大的文学骗局(2016)
-18世纪奥西安史诗的发现被誉为一项重大文学发现，激发了浪漫主义运动并吸引了上流社会。然而，这部作品的真实性很快就受到质疑，文学巨匠塞缪尔·约翰逊谴责它是伪造的。现在，科学家们利用数学技术将奥西斯中的人物社交网络与两个爱尔兰故事中的人物社交网络进行了比较，发现它们几乎是完美的匹配。这有力地表明，奥西安确实是一个骗局，是詹姆斯·麦克弗森为了迎合英国精英对古典希腊和罗马的迷恋而改编爱尔兰民间传说而创造的。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70895</guid>
-      <pubDate>Thu, 25 Jan 2024 11:42:14 GMT</pubDate>
+      <title>[媒体]苹果对其欧洲地区的 App Store 和 iPhone 功能进行了重大更改 [...]</title>
+      <link>https://t.me/hn_summary/70953</link>
+      <description><![CDATA[苹果在欧盟彻底改革 App Store、iPhone 功能以安抚监管机构
+为了解决监管机构提出的担忧，苹果公司对其在欧盟 (EU) 的 App Store 和 iPhone 功能进行了重大更改。这家科技巨头为开发者实施了新规则，允许他们告知用户 App Store 之外的替代支付选项。此前，苹果因对 App Store 的严格控制以及对应用内购买收取 30% 的佣金而受到批评。此外，苹果还推出了一项新功能，允许用户选择默认的音乐流媒体服务，这与之前推广自家 Apple Music 的做法背道而驰。这些变化旨在安抚监管机构并促进欧盟市场的公平竞争。]]></description>
+      <guid>https://t.me/hn_summary/70953</guid>
+      <pubDate>Thu, 25 Jan 2024 18:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了一本 13 世纪的阿拉伯食谱，名为“餐桌上的剩余食物 [...]</title>
-      <link>https://t.me/hn_summary/70894</link>
-      <description><![CDATA[一本 13 世纪的阿拉伯食谱揭示了安达卢斯的烹饪生活
-这篇文章讨论了一本 13 世纪的阿拉伯食谱，名为《餐桌上的剩余食物和菜肴》，由安达卢斯学者伊本·拉辛·图吉比 (Ibn Razīn al-Tujībī) 撰写。这本烹饪书最近由英国食品历史学家丹尼尔·纽曼翻译，题为《流亡者的烹饪书》，深入了解了穆斯林统治期间安达卢斯的烹饪生活。 Al-Tujībī 的食谱反映了精英阶层的美食，以肉类为主的菜肴为主，但也包括社会各阶层都会吃的菜肴。该食谱还强调了安达卢西亚美食中 murri（一种类似于酱油的发酵酱）的使用以及鸡蛋的丰富性。]]></description>
-      <guid>https://t.me/hn_summary/70894</guid>
-      <pubDate>Thu, 25 Jan 2024 11:29:59 GMT</pubDate>
+      <title>[媒体]NexusRaven-V2-13B 是一种开源且商业上可行的函数调用语言 [...]</title>
+      <link>https://t.me/hn_summary/70952</link>
+      <description><![CDATA[NexusRaven-V2-13B
+NexusRaven-V2-13B 是一种开源且商业上可行的函数调用语言模型 (LLM)，其函数调用能力超越了最先进的水平。它能够在具有挑战性的情况下生成单函数调用、嵌套调用和并行调用。 NexusRaven-V2 还为其生成的函数调用提供了详细的解释，可以在推理过程中关闭这些函数调用以节省令牌。在性能方面，对于涉及嵌套和复合函数的人工生成用例，NexusRaven-V2 的函数调用成功率比 GPT-4 高 7%。值得注意的是，NexusRaven-V2 从未接受过评估中使用的函数的训练，这使得它能够泛化到未见过的函数。 NexusRaven-V2的训练不涉及专有LLM生成的任何数据，让用户在商业应用中部署时可以完全控制模型。该模型接受 Python 函数列表，并且在带参数的函数上表现最佳。该网站提供快速入门指南以及有效使用 NexusRaven-V2 的其他资源。]]></description>
+      <guid>https://t.me/hn_summary/70952</guid>
+      <pubDate>Thu, 25 Jan 2024 18:01:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，作者讨论了 Tom Meurs 进行的一项研究的结果，[...]</title>
-      <link>https://t.me/hn_summary/70893</link>
-      <description><![CDATA[谁付费以及为什么付费：研究人员检查勒索软件受害者的心态&lt; /a&gt;
-在本文中，作者讨论了特温特大学网络犯罪研究员 Tom Meurs 进行的一项关于勒索软件受害者心态的研究结果。该研究分析了向荷兰警方报告的 382 起勒索软件攻击的数据以及事件响应人员提供的近 100 起攻击的信息。研究发现，与第三方事件响应公司合作的公司更有可能支付赎金。在攻击中拥有保险或数据泄露与支付更高的赎金相关，但不一定与首先支付赎金有关。拥有备份数据的公司支付赎金的可能性较小，但当他们支付赎金时，他们会支付更多费用。研究还显示，信息技术行业的公司是勒索软件攻击者最有利可图的目标。]]></description>
-      <guid>https://t.me/hn_summary/70893</guid>
-      <pubDate>Thu, 25 Jan 2024 11:28:48 GMT</pubDate>
+      <title>【媒体】笔者浅谈近期公布的2023年雨果奖提名统计数据。</title>
+      <link>https://t.me/hn_summary/70951</link>
+      <description><![CDATA[2023年雨果提名统计数据已发布，我们有疑问
+作者讨论了最近发布的 2023 年雨果奖提名统计数据。他们强调了统计数据中的一些争议和意外。一个争议是排除 R.F. 的小说《通天塔》。邝获得了第三多提名，但被宣布没有资格。提交人质疑为什么在符合资格标准的情况下却被视为不合格。他们还注意到各个类别的提名急剧下降，特别是在最佳系列赛中，第七名决赛入围者的提名明显少于其他奖项。作者还提到了不同类别提名的明显缺席和下降。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70951</guid>
+      <pubDate>Thu, 25 Jan 2024 17:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一个包含 260 亿条泄露记录的庞大数据库被发现，为其赢得了 ti [...]</title>
-      <link>https://t.me/hn_summary/70892</link>
-      <description><![CDATA[“违规之母”中已泄露 26B 条记录
-一个包含 260 亿条泄露记录的庞大数据库被发现，并赢得了“所有泄露之母”的称号。然而，情况并不像听起来那么可怕。这次泄露实际上是以前泄露的数据的汇编，不包含任何新信息。虽然个人数据在网上暴露仍然令人担忧，但那些一直保持安全的人应该不会比以前更担心。保持警惕并更新安全措施（例如更改密码）非常重要。这次泄密事件严重影响了腾讯、微博、MySpace、Twitter 和 Wattpad 等公司以及政府组织。 Have I Been Pwned 等工具可以帮助确定一个人是否受到数据泄露的影响。]]></description>
-      <guid>https://t.me/hn_summary/70892</guid>
-      <pubDate>Thu, 25 Jan 2024 11:23:34 GMT</pubDate>
+      <title>旧金山已对加州公用事业委员会 (CPUC) 提起诉讼 [...]</title>
+      <link>https://t.me/hn_summary/70950</link>
+      <description><![CDATA[旧金山起诉加州“不安全”、“破坏性”自我行为驾驶汽车
+旧金山已对加州公用事业委员会 (CPUC) 提起诉讼，要求其决定允许谷歌旗下的 Waymo 和通用汽车旗下的 Cruise 扩大其在该市的自动驾驶汽车业务。该诉讼称，自动驾驶汽车在街道上造成了“严重问题”，包括干扰急救人员。旧金山官员因对该行业缺乏控制而感到沮丧，该行业由国家监管。该诉讼要求 CPUC 审查其决定，并为自动驾驶汽车制定更严格的法规。 Waymo对该市对该委员会的裁决提出上诉的决定表示失望。]]></description>
+      <guid>https://t.me/hn_summary/70950</guid>
+      <pubDate>Thu, 25 Jan 2024 17:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Scarfolk Council 网站讲述了数十人失踪的令人毛骨悚然的故事 [...]</title>
-      <link>https://t.me/hn_summary/70891</link>
-      <description><![CDATA[伤民委员会
-斯卡福克委员会网站讲述了 1976 年斯卡福克高中数十名儿童失踪的令人毛骨悚然的故事。仅仅三天后，这些孩子就被宣布死亡，每年，警方都会向他们的父母发送一份草图，说明失踪的孩子可能会如何度过。看看他们是否没有消失。 1979 年，一位家长注意到其中一幅草图上有一个暗号，结果发现了 347 名儿童被关在艺术家的工作室里。警方扣押了这些孩子作为证据，但案件从未上法庭，孩子们在警方抽奖中作为奖品被赠送。这位艺术家原来是警察局长的儿子。]]></description>
-      <guid>https://t.me/hn_summary/70891</guid>
-      <pubDate>Thu, 25 Jan 2024 10:44:13 GMT</pubDate>
+      <title>[媒体]本文采访了杜克大学法学教授 Nita Farahany [...]</title>
+      <link>https://t.me/hn_summary/70949</link>
+      <description><![CDATA[社交媒体、人工智能和大脑之战
+这篇文章采访了杜克大学法学教授尼塔·法拉哈尼 (Nita Farahany) 和人道技术中心 (Center for Humane Technology) 的作家兼联合创始人阿扎·拉斯金 (Aza Raskin)。他们讨论了人工智能和神经技术技术的快速进步，以及道德和法律指导的必要性，以确保这些技术造福人类。拉斯金将社交媒体比作“人工智能的第一次接触”，并警告说，随着生成式人工智能的兴起，社交媒体中出现的问题将被放大。法拉哈尼强调解决与人工智能、神经技术和社交媒体相关的一系列常见问题的重要性，并建议更新国际人权法以保护认知自由。他们还讨论了监管的必要性以及对社交媒体公司的潜在影响。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70949</guid>
+      <pubDate>Thu, 25 Jan 2024 17:42:55 GMT</pubDate>
     </item>
     <item>
-      <title>西澳大利亚大学的植物生物学家发现许多抗疟药物 [...]</title>
-      <link>https://t.me/hn_summary/70890</link>
-      <description><![CDATA[治疗疟疾的化学品也能杀死杂草（2017）
-西澳大利亚大学的植物生物学家发现，许多抗疟药也可以是有效的除草剂。这一发现建立在 20 世纪 90 年代的联系之上，当时发现除草剂会干扰疟疾寄生虫的生长过程。这项发表在《科学报告》上的研究表明，抗疟药物的广泛知识可以应用于开发新的除草剂。该研究得到了澳大利亚研究委员会的支持。这一发现可能会导致开发出作用不同或具有不同目标的新型除草剂，从而解决现代农业对新型除草剂的迫切需求。]]></description>
-      <guid>https://t.me/hn_summary/70890</guid>
-      <pubDate>Thu, 25 Jan 2024 10:40:04 GMT</pubDate>
+      <title>[媒体]作者，荷兰情报和安全部门监管委员会成员 [...]</title>
+      <link>https://t.me/hn_summary/70948</link>
+      <description><![CDATA[关于我辞去荷兰情报和安全部门监管者职务（2022） 
+作者是荷兰情报和安全部门监管委员会的成员，由于担心一项新法律将扩大这些部门的权力并改变监督程序，他已辞职。作者解释说，现行监管机制已有效确保服务在法律范围内运作，但新法律将消除其特定作用并降低对批量拦截权力的监管要求。作者还对从预先授权到持续监督的转变表示担忧，这可能会使监管机构负担过重，并使其容易受到操纵。为了反对新法，防止民主走回头路，作者决定辞职。]]></description>
+      <guid>https://t.me/hn_summary/70948</guid>
+      <pubDate>Thu, 25 Jan 2024 17:41:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
