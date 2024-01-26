@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Jan 2024 09:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 12:33:18 GMT</lastBuildDate>
+    <item>
+      <title>Freeter 2 – 为计算机工作人员提供的免费开源组织者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1abgx9w/freeter_2_free_open_source_organizer_for_those/</link>
+      <description><![CDATA[   /u/alexk111  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1abgx9w/freeter_2_free_open_source_organizer_for_those/</guid>
+      <pubDate>Fri, 26 Jan 2024 12:11:30 GMT</pubDate>
+    </item>
     <item>
       <title>开源项目如何部署到生产环境？</title>
       <link>https://www.reddit.com/r/opensource/comments/1abarvv/how_do_opensource_projects_deploy_to_production/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好👋 我们正在开发一个开源应用程序，我们想要制作一个热情而性感的自述文件页面，应该做什么我们添加还是删除？ 目标是激励潜在的贡献者和用户。 为了了解一些上下文，我们是一个基于图像元数据导航图片的桌面应用程序。  &gt; ​ 这是存储库： https://github .com/OneFolderApp/OneFolder   由   提交/u/antoine849502   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19ek3pf/what_do_you_like_to_see_on_a_github_readme/</guid>
       <pubDate>Wed, 24 Jan 2024 15:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>应该制定什么样的法律来阻止跨国公司追求开源？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19ejuk7/what_kind_of_laws_should_be_put_in_place_to/</link>
-      <description><![CDATA[ 由   提交 /u/alltheapex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19ejuk7/what_kind_of_laws_should_be_put_in_place_to/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
