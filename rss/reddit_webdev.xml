@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Jan 2024 03:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 06:24:16 GMT</lastBuildDate>
+    <item>
+      <title>Oxlint，ESLint 的未来替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abbic0/oxlint_a_future_replacement_for_eslint/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abbic0/oxlint_a_future_replacement_for_eslint/</guid>
+      <pubDate>Fri, 26 Jan 2024 06:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何写项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abbhwy/how_should_i_write_about_projects/</link>
+      <description><![CDATA[我想知道是否有人可以帮助我。我基本上已经设置好了整个网站并准备好运行，但在过去的两周里反复重写了所有内容。（例如：逗号可以改为那里。这应该放在前面。jk 之前更好。）它实际上没有什么区别吗？ ！（我通常喜欢写作当我有一个好的计划。我不，我只是想提高找到工作的机会） 现在我认为我有太多文本？我想在不晦涩难懂的情况下传达主要想法，但我也想解释为什么我做出某些决定以及我如何考虑权衡。  有人有关于作品集页面的好例子吗？（我遇到的大多数项目都没有说什么，只是链接到网页。我的大多数项目都不是网络，所以我不能这样做）。   由   提交/u/bigginsmcgee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abbhwy/how_should_i_write_about_projects/</guid>
+      <pubDate>Fri, 26 Jan 2024 06:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 中的等待事件范围</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abaffn/the_await_event_horizon_in_javascript/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abaffn/the_await_event_horizon_in_javascript/</guid>
+      <pubDate>Fri, 26 Jan 2024 05:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 开发常见问题解答</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ab9ei0/javascript_development_faq/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ab9ei0/javascript_development_faq/</guid>
+      <pubDate>Fri, 26 Jan 2024 04:05:58 GMT</pubDate>
+    </item>
     <item>
       <title>namecheap 将一些可用的优质域名显示为溢价并收取超过 30,000 美元，这是怎么回事？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ab852y/whats_up_with_namecheap_showing_some_good/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[嘿伙计们！ 我正在尝试构建一个 Chrome 扩展程序，它检查当前网页的链接，然后传递该链接到一个 python 脚本中，该脚本进一步执行它并将其传递到 ML 模型中。最终输出由覆盖在屏幕上的扩展名显示。我该怎么做？我应该使用什么？   由   提交 /u/Reasonable_Ruin_3502   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19fm71t/need_some_help_for_a_chrome_extension/</guid>
       <pubDate>Thu, 25 Jan 2024 22:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天在另一个开发人员的功能代码库中发现了这一点。我应该能够理解这一点吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fm2x6/found_this_in_the_codebase_at_work_today_on_a/</link>
-      <description><![CDATA[const FilteredDrafts = userActivities.value?.awards?.filter((award) =&gt; Award.isDraft &amp;&amp; 奖项。 Skills.some((skill) =&gt; userSkills.value.map((userSkill) =&gt; userSkill.skillId).includes(skill.skillId))).map((filteredAward) =&gt; FilteredAward.uniqueId);  有人有任何破解此类事物的技巧/策略吗？   由   提交 /u/beststepnextstep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fm2x6/found_this_in_the_codebase_at_work_today_on_a/</guid>
-      <pubDate>Thu, 25 Jan 2024 22:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>整合房地产网站服务的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fldfz/best_way_to_integrate_services_for_a_real_estate/</link>
-      <description><![CDATA[负责设计一些房地产网站。他们给了我一份他们的代理需要的功能列表，但我对如何接近他们有点超出范围。我正在使用 WebFlow。 功能 1. CRM 集成 WebFlow 与某些 CRM 集成，但不是全部。客户主要希望联系表单能够在 CRM 中自动生成客户。最好的方法是什么？  时事通讯我想我已经找到了一个从 WebFlow Blogpost CMS 开始的好方法 -&gt; Brevo 将博客文章制作成时事通讯。任何其他想法表示赞赏。  日历/活动 我制作了一个“活动”页面，其中的活动是 CMS 条目。使用 MAKE，可以从任何链接的日历应用程序更新 CMS 条目。这是一个好方法吗？  IDX Feeds / Compass 对于 IDX，我看到有一些网站 feed 提供商。我认为这是最好的选择？对于 Compass，我还没有找到将他们的搜索集成到网站中的方法。我的客户似乎认为出于某种原因这是可能的。可能只需要有站外链接即可。 还提到了“邻里指南”，似乎主要是 pdf ？不确定这些是否应该集成或变成 CMS 项目。说实话，我仍在努力了解代理想要如何使用它们。   我确实有点超出了我的头脑，所以任何关于我是否以正确的方式处理这些事情的见解都会令人惊奇。或者对于我想做的事情是否有更好的解决方案。我只是想确保我不会做对未来有害的事情。谢谢！   由   提交 /u/flkrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fldfz/best_way_to_integrate_services_for_a_real_estate/</guid>
-      <pubDate>Thu, 25 Jan 2024 22:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 是否跟踪 Lighthouse 的详细性能得分百分比计算？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fktlr/does_cloudflare_track_lighthouses_detailed/</link>
-      <description><![CDATA[我想将此数据添加到我的每周报告中，但我找不到任何有关 CF 是否跟踪它的信息。  这是我指的计算。 &lt; !-- SC_ON --&gt;  由   提交 /u/ifeelsynthetic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fktlr/does_cloudflare_track_lighthouses_detailed/</guid>
-      <pubDate>Thu, 25 Jan 2024 21:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Linux 中的 cgroup 和命名空间：深入探讨容器化。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fkj6e/understanding_cgroups_namespaces_in_linux_a_deep/</link>
-      <description><![CDATA[如果您对容器技术感兴趣，并希望深入研究现有的 Linux 内核技术，这些技术为 Docker 等容器化工具铺平了道路，您可以探索此内容。链接：cgroups &amp;命名空间； 如果您想增强或添加任何内容，请随时告诉我。   由   提交 /u/Mr-Baymax   /u/Mr-Baymax  reddit.com/r/webdev/comments/19fkj6e/understanding_cgroups_namespaces_in_linux_a_deep/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fkj6e/understanding_cgroups_namespaces_in_linux_a_deep/</guid>
-      <pubDate>Thu, 25 Jan 2024 21:35:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
