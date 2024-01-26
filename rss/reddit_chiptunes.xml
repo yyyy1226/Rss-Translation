@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 21:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 01:17:14 GMT</lastBuildDate>
+    <item>
+      <title>FastTracker II 帮助解决样本偏移问题。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/19fmvq4/fasttracker_ii_help_with_sample_offset/</link>
+      <description><![CDATA[我使用的是 MilkyTracker，它可以让您覆盖样本保持控件以查看样本偏移值，然后您只需输入即可触发（例如：9C4）但是在 FastTracker II 中我似乎无法找到它是否或在哪里显示此信息。你猜吗？   由   提交 /u/gunnasucka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/19fmvq4/fasttracker_ii_help_with_sample_offset/</guid>
+      <pubDate>Thu, 25 Jan 2024 23:20:18 GMT</pubDate>
+    </item>
     <item>
       <title>[NES] Konami 精选 - 卷。 2 |立体声重制版</title>
       <link>https://www.reddit.com/r/chiptunes/comments/19ffi8v/nes_konamis_greatest_hits_vol_2_stereo_remastered/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/19drram/your_weekly_rchiptunes_roundup_for_the_week_of/</guid>
       <pubDate>Tue, 23 Jan 2024 16:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>小猪追踪器 1 首曲目</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/19doqsy/little_piggy_tracker_1track_tune/</link>
-      <description><![CDATA[       由   提交/u/djdiskmachine  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/19doqsy/little_piggy_tracker_1track_tune/</guid>
-      <pubDate>Tue, 23 Jan 2024 13:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
