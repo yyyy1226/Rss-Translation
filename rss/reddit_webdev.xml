@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 01:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 03:18:34 GMT</lastBuildDate>
+    <item>
+      <title>最后，官方：谷歌：HTML结构对排名并不重要</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac035e/at_last_its_official_google_html_structure_doesnt/</link>
+      <description><![CDATA[   /u/WebLinkr  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac035e/at_last_its_official_google_html_structure_doesnt/</guid>
+      <pubDate>Sat, 27 Jan 2024 02:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用两塔方法和 Expedia Group Traveler 数据生成候选者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abys6f/candidate_generation_using_a_twotower_approach/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abys6f/candidate_generation_using_a_twotower_approach/</guid>
+      <pubDate>Sat, 27 Jan 2024 01:23:51 GMT</pubDate>
+    </item>
     <item>
       <title>请阻止我</title>
       <link>https://www.reddit.com/r/webdev/comments/1abyk9r/please_stop_me/</link>
-      <description><![CDATA[所以我非常喜欢痴迷于无意义的小事情，但我真的很想知道这里有什么更好。因此，作为一名初级开发人员，我主要构建非常简单的 CRUD 应用程序，其中任何性能开销可能几乎不会被注意到。然而，我经常想，如果多次迭代一个小数组真的会伤害我的灵魂，而不是用 JavaScript 中的 Map 对象想出一些复杂的机制。例如，我想推导出数组交集来过滤掉表中的可见字段 - 是否值得我花点心思并创建一个带有我要检查的两个字段的 WeakMap 对象，或者最好只使用包含所有内容的数组并使用 include 或 find 进行迭代？我不知道它在幕后的装配中是如何工作的，所以我完全不知道一种方法在性能方面是否会优于另一种方法。谢谢   由   提交 /u/ExiledDude   [链接] [评论]]]></description>
+      <description><![CDATA[所以我非常喜欢痴迷于无意义的小事情，但我真的很想知道这里有什么更好。因此，作为一名初级开发人员，我主要构建非常简单的 CRUD 应用程序，其中任何性能开销可能几乎不会被注意到。然而，我经常想，如果多次迭代一个小数组真的会伤害我的灵魂，而不是用 JavaScript 中的 Map 对象想出一些复杂的机制。例如，我想推导出数组交集来过滤掉表中的可见字段 - 是否值得储备我的头脑并制作一个地图来检查某些 ID，或者最好只使用数组来处理其中的所有内容和使用包含或查找进行迭代？我不知道它在幕后的装配中是如何工作的，所以我完全不知道一种方法在性能方面是否会优于另一种方法。谢谢   由   提交 /u/ExiledDude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1abyk9r/please_stop_me/</guid>
       <pubDate>Sat, 27 Jan 2024 01:13:09 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>尽管有 Django、Flask 和 Rails 等框架，为什么 JS 仍然占据主导地位？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aby7lv/why_does_js_dominate_despite_frameworks_like/</link>
-      <description><![CDATA[我自己是作为 JS/TS 开发者这么说的。我一直在尝试其他语言，例如 Rust 和 Python，并且非常喜欢它。我注意到 JS 社区最近趋向于 SSR（例如 NextJS 和 Remix），这感觉像是一个“完整的循环”。片刻。鉴于此，我发现自己想知道 TypeScript/JavaScript 在 Web 开发中的主导地位，尤其是当有 Django、Flask、Blazor 和 Ruby on Rails 等“内置电池”框架可用时。我们是如何到达这里的？   由   提交 /u/ElasticFrog   [链接] [评论]]]></description>
+      <description><![CDATA[我自己是作为 JS/TS 开发者这么说的。我一直在尝试其他语言，例如 Rust 和 Python，并且非常喜欢它。我注意到 JS 社区最近趋向于 SSR（例如 NextJS 和 Remix），这感觉像是一个“完整的循环”。片刻。鉴于此，我发现自己想知道 TypeScript/JavaScript 在全栈开发中的主导地位，尤其是当有 Django、Flask、Blazor 和 Ruby on Rails 等“内置电池”框架可用时。我们是如何到达这里的？   由   提交 /u/ElasticFrog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aby7lv/why_does_js_dominate_despite_frameworks_like/</guid>
       <pubDate>Sat, 27 Jan 2024 00:56:27 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>任何关于租船网站建设者的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1abutor/any_recommendations_for_a_website_builder_for_a/</link>
-      <description><![CDATA[因此，我正在考虑为我的船舶租赁业务建立一个新网站，并且我希望了解购买流程的一个关键功能与所见即所得类型的建造者解决（因为船长技术不是很好）：  鉴于这是一次游船，需要支持最终付款日的存款模型。这个想法是顾客预订时一半，另一半天，如果提前 7 天取消，则有退款政策。 {尝试不在码头上处理付款}  我研究过 Wix、Squarespace，但没有找到我想要的没有附加产品的简单流程。我正在尝试寻找一种集网页设计、日程安排和支付于一体的工具。有什么建议么？  非常感谢您的任何建议。  干杯！！   由   提交 /u/EdTwoONine   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我正在考虑为我的船舶租赁业务建立一个新网站，并且我希望了解购买流程的一个关键功能与所见即所得类型的建造者解决（因为船长技术不是很好）：  鉴于这是一次游船，需要支持最终付款日的存款模型。这个想法是顾客预订时一半，另一半天，如果提前 7 天取消，则有退款政策。 {尝试不在码头上处理付款}  我研究过 Wix、Squarespace，但没有找到我想要的没有附加产品的简单流程。我正在尝试寻找一种集网页设计、日程安排和支付于一体的工具。有什么建议么？  非常感谢任何建议。  干杯！！   由   提交 /u/EdTwoONine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1abutor/any_recommendations_for_a_website_builder_for_a/</guid>
       <pubDate>Fri, 26 Jan 2024 22:25:45 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我们的故事通常包括第三方端点的错误处理（例如，如果此第三方服务失败，则显示有关该服务失败的特定消息）。我们自己的后端端点依赖这些端点来获取数据。  通常，我们只会依靠开发人员来测试这些错误状态，让他们在本地环境中强制出现错误并向测试人员演示。但测试人员最好希望在测试环境中进行测试。  有更好的方法吗？使用诸如功能切换之类的东西会很好还是太过分了？我知道我们可以在开发工具中使用限制来测试我们自己的后端端点的故障，但我特别谈论的是第三方端点失败（我们的后端端点调用），并且存在特定于这些失败的错误消息（而不是通用“服务器故障”错误）。    由   提交/u/PuppyLand95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1abtvrq/how_can_the_qa_team_test_error_states_dependent/</guid>
       <pubDate>Fri, 26 Jan 2024 21:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>昨天的一次采访被轰炸了，这让我开始质疑自己</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abthsp/bombed_an_interview_yesterday_that_left_me/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abthsp/bombed_an_interview_yesterday_that_left_me/</guid>
-      <pubDate>Fri, 26 Jan 2024 21:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>向前端指示错误的最佳方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abtdnd/best_way_to_indicate_error_to_frontend/</link>
-      <description><![CDATA[我想指示服务器在将数据发送回客户端时是否发生任何错误。我正在考虑为每个响应发送一个如下所示的对象： { data: ..., error: ; }  本质上，我只是检查是否有错误，如果有错误，则将其显示给客户端。否则，处理数据。这是理想的情况还是有任何潜在的问题？非常感谢您的任何意见。   由   提交/u/Droski_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abtdnd/best_way_to_indicate_error_to_frontend/</guid>
-      <pubDate>Fri, 26 Jan 2024 21:24:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

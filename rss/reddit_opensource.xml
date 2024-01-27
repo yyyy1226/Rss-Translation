@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Jan 2024 01:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 03:18:39 GMT</lastBuildDate>
     <item>
       <title>我是一名 QA/测试人员，我愿意帮助您测试您的开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1abulhe/im_a_qatester_and_im_offering_myself_to_help_you/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>有关如何分叉 BSD-3-Clause 许可证项目的指南或清单</title>
       <link>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</link>
-      <description><![CDATA[是否有人有关于分叉和维护 BSD-3-Clause 许可证项目的良好操作方法/清单（法律方面）？为了澄清起见，我只是询问 License / Copyright / 等需要维护、更新、更改等的文件和标头。大多数这些项目只是有一个 License 文件（IE 文件头或 Copyright 文件中没有许可证信息），我不确定如何更新/维护 BSD-3-Clause 的分支许可项目。 上下文：我经常使用一些 BSD-3-Clause 许可库，这些库已经接近 2 年多了[没有更新]，需要一些我认为各个社区的调整和改进想看看。我尝试过向源存储库提交 PR，但在大多数情况下这些 PR 已经存在一年多了，没有任何回复 - 以及其他人最近提交的 PR 也没有回复。我想我应该自己分叉和维护这些库，也许在至少一种情况下使用稍微不同的名称，将其更新为更“现代”的库。风格将需要重大破坏。我没有更改许可证的计划 - 但我确实想确保我遵守所有适当的法律（和诚实的道德）义务。 ​ 这是值得注意的是，对该主题的快速谷歌搜索没有对此事产生任何重大帮助。   由   提交/u/XenoPhex  [链接] [评论]]]></description>
+      <description><![CDATA[是否有人有关于分叉和维护 BSD-3-Clause 许可证项目的良好操作方法/清单（法律方面）？为了澄清起见，我只是询问 License / Copyright / 等需要维护、更新、更改等的文件和标头。大多数这些项目只是有一个 License 文件（即文件头或 Copyright 文件中没有许可证信息），我不确定如何更新/维护 BSD-3-Clause 的分支许可项目。 上下文：我经常使用一些 BSD-3-Clause 许可库，这些库已接近 2 年以上[没有更新]，需要一些我认为各个社区的调整和改进想看看。我尝试过向源存储库提交 PR，但在大多数情况下这些 PR 已经存在一年多了，没有任何回复 - 以及其他人最近提交的 PR 也没有回复。我想我应该自己分叉和维护这些库，也许在至少一种情况下使用稍微不同的名称，将其更新为更“现代”的库。风格将需要重大破坏。我没有计划更改许可证 - 但我确实想确保我遵守所有适当的法律（和诚实的道德）义务。 ​ 这是值得注意的是，对该主题的快速谷歌搜索没有对此事产生任何重大帮助。   由   提交/u/XenoPhex  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</guid>
       <pubDate>Fri, 26 Jan 2024 20:11:29 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>自治民主</title>
       <link>https://www.reddit.com/r/opensource/comments/1abhkq2/autodemocracy/</link>
-      <description><![CDATA[Autodemocracy - 帮助构建一个透明的开源投票平台，以实现世界的积极变革...  这是一个旧的我的想法……但世界各地有太多被剥夺权利的声音，在稀薄的空气中尖叫。我们被忽视了，这让我很生气......我们名字中发生的事情让我感到羞愧和愤怒。 我想至少尝试帮助展示我们共同声音的力量。数字的绝对力量。我是一个老系统管理员......我是一个完全的Python新手 - 我需要帮助 - 我没有技能。  我要去挑衅 - 你愿意加入吗？ ;) 此致，Scobie 这个应用程序/项目/社区（如果它如此发展）需要由社区拥有，并以完全民主的方式协作、透明地运行。热烈欢迎提出建议和讨论，以构建任何有帮助的支持生态系统。 https://github.com/Scoobidoodle/ Autodemocracy/ https://join.slack.com/t/slack- qej8785/shared_invite/zt-2bf255esx-f2NztZ9NC6vXXapnD0c1WQ   由   提交 /u/scobiwan   [链接] [评论]]]></description>
+      <description><![CDATA[Autodemocracy - 帮助构建一个透明的开源投票平台，以实现世界的积极变革...  这是一个旧的我的想法……但世界各地有太多被剥夺权利的声音，在稀薄的空气中尖叫。我们被忽视了，这让我很生气......我们名字中发生的事情让我感到羞愧和愤怒。 我想至少尝试帮助展示我们共同声音的力量。数字的绝对力量。我是一个老系统管理员......我是一个完全的Python新手 - 我需要帮助 - 我没有技能。  我要去挑衅 - 你愿意加入吗？ ;) 此致，Scobie 这个应用程序/项目/社区（如果它如此发展）需要由社区拥有，并以完全民主的方式协作、透明地运行。热烈欢迎提出建议和讨论，以建立任何有帮助的支持生态系统。 https://github.com/Scoobidoodle/ Autodemocracy/ https://join.slack.com/t/slack- qej8785/shared_invite/zt-2bf255esx-f2NztZ9NC6vXXapnD0c1WQ   由   提交 /u/scobiwan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1abhkq2/autodemocracy/</guid>
       <pubDate>Fri, 26 Jan 2024 12:48:50 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>我制作了一个用于文档和变更日志的开源写作辅助工具</title>
       <link>https://www.reddit.com/r/opensource/comments/19fgwzc/i_made_an_open_source_writing_assistant_tool_for/</link>
-      <description><![CDATA[该工具与 docs-as-code 文档系统（例如 markdown、asciidoc 等）配合使用进行 AI 审阅（并很快编写初稿） ）。它的功能类似于 linter，只不过您用简单的语言编写规则，并且它可以处理复杂的规则。  GitHub 上的源代码和贡献/想法欢迎。希望你喜欢它！ ​ GitHub：https://github .com/Floe-dev/floe 网址：https://www.floe.dev/&lt; /p&gt; ​   由   提交 /u/Special_Abrocoma4641   [链接] [评论]]]></description>
+      <description><![CDATA[该工具与 docs-as-code 文档系统（例如 markdown、asciidoc 等）配合使用来进行 AI 审阅（并很快编写初稿） ）。它的功能类似于 linter，只不过您用简单的语言编写规则，并且它可以处理复杂的规则。  GitHub 上的源代码和贡献/想法欢迎。希望你喜欢它！ ​ GitHub：https://github .com/Floe-dev/floe 网址：https://www.floe.dev/&lt; /p&gt; ​   由   提交 /u/Special_Abrocoma4641   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fgwzc/i_made_an_open_source_writing_assistant_tool_for/</guid>
       <pubDate>Thu, 25 Jan 2024 19:01:56 GMT</pubDate>
     </item>
