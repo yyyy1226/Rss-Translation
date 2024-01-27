@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 18:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 21:14:16 GMT</lastBuildDate>
+    <item>
+      <title>我希望有一个人工智能声音来演唱歌曲的翻译。这可以吗？如果可以，我该怎么做？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acim60/i_wish_to_have_an_ai_voice_to_sing_a_translation/</link>
+      <description><![CDATA[我已将一首歌从英语翻译成克罗地亚语。那首歌没有克罗地亚语翻唱，我想知道是否可以制作一个人工智能声音，将翻译后的文本按照原始曲调演唱。 这可能吗？感谢任何帮助。   由   提交/u/CROguys  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acim60/i_wish_to_have_an_ai_voice_to_sing_a_translation/</guid>
+      <pubDate>Sat, 27 Jan 2024 19:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试融合人工智能和幽默：Lars 语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1achsew/attempting_to_blend_ai_and_humor_the_lars/</link>
+      <description><![CDATA[虽然大型语言模型在推动这一波生成式人工智能浪潮中发挥了重要作用，但我相信，如果不利用我的未开发的力量，就会错失良机。好朋友拉尔斯.这一差距为我提供了为人工智能词典做出贡献的机会。 Lars 不仅使用清洁能源，而且他很友善、很棒，并且以特殊的方式扔飞盘。最重要的是，他有可能成为解锁下一代人工智能的关键。 我提出了Lars 语言模型，我使用 开源 Next.js 聊天网络应用 和 chatGPT API 构建了它。欢迎您尝试一下。我有一篇博客文章，深入探讨了我构建它的原因和方式。   由   提交/u/headphonejames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1achsew/attempting_to_blend_ai_and_humor_the_lars/</guid>
+      <pubDate>Sat, 27 Jan 2024 18:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找用于未经审查的研究的最佳聊天机器人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1achfj4/looking_for_best_chatbot_for_uncensored_research/</link>
+      <description><![CDATA[很多人使用 chatgpt 进行研究，但它不断被过滤，有什么建议吗？   由   提交 /u/Fjsahg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1achfj4/looking_for_best_chatbot_for_uncensored_research/</guid>
+      <pubDate>Sat, 27 Jan 2024 18:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人发现 ChatGPT 插件在读取给定特定 URL 的外部内容方面比 Web Pilot 或 vox 脚本更好？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acha2b/has_anyone_found_a_chatgpt_plugin_thats_better/</link>
+      <description><![CDATA[我一直使用 webpilot 和 vox 脚本，想知道是否有人更喜欢其他东西。 我特别喜欢两者，因为我可以提供一个 url 并在上下文中获取所有信息，这似乎甚至不能依赖带有 Bing 的 ChatGPT 4 来一致地执行此操作。 我在生成的这篇文章中提供了一些示例。  p&gt; https://www.learninternetgrow.com/real-time-search-with- llms/   由   提交/u/dima11235813  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acha2b/has_anyone_found_a_chatgpt_plugin_thats_better/</guid>
+      <pubDate>Sat, 27 Jan 2024 18:23:30 GMT</pubDate>
+    </item>
     <item>
       <title>受过教育但失业：人工智能会让你的大学学位变得毫无价值吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acfj04/educated_but_unemployed_will_ai_render_your/</link>
@@ -34,27 +62,6 @@
       <pubDate>Sat, 27 Jan 2024 14:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>未来人工智能的合作伙伴</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acanej/partners_in_future_ai/</link>
-      <description><![CDATA[这里是退役军人，有兴趣与程序员或他们的团队一起创业。我正在学习编码，但优势在于扩展、战略、业务、运营、管理、营销等。 我很乐意为任何真正想要在某件事上合作的人分享我的 LinkedIn。  您认为未来3-5年的重点是什么？首先，简化线索细化、聊天机器人、日程安排、虚拟助理等，我认为这些都是容易实现的目标。  谢谢！   由   提交 /u/Cautious_Emu1981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acanej/partners_in_future_ai/</guid>
-      <pubDate>Sat, 27 Jan 2024 13:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>导入hdf5深度学习模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acai0h/importing_hdf5_deep_learning_model/</link>
-      <description><![CDATA[ 由   提交 /u/sladebrigade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acai0h/importing_hdf5_deep_learning_model/</guid>
-      <pubDate>Sat, 27 Jan 2024 13:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>该工具可以帮助您为视频生成缩略图</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acaa0o/this_tool_can_help_you_to_generate_thumbnails_for/</link>
-      <description><![CDATA[各位，目前市场上有一个新的人工智能工具，叫做 Pikzels AI。该人工智能工具可帮助您生成无限的缩略图，而价格低于您支付给缩略图设计者的价格。您可能需要查看这篇文章以获取更多信息：链接 此外，您还可以通过单击链接查看该工具：Pikzels AI    由   提交 /u/Yigit_im   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acaa0o/this_tool_can_help_you_to_generate_thumbnails_for/</guid>
-      <pubDate>Sat, 27 Jan 2024 12:57:23 GMT</pubDate>
-    </item>
-    <item>
       <title>AI能做系统设计吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ac8ds2/will_ai_be_able_to_do_system_design/</link>
       <description><![CDATA[我是一名高级软件工程师，我相信人工智能最终能够进行系统设计。然而，我的朋友（从事法学硕士和人工智能工作）认为它可能永远无法进行系统设计。大家觉得怎么样？   由   提交/u/lightversetech  [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1abyzb3/genetic_algorithm_as_a_service_lucrative_ai_saas/</guid>
       <pubDate>Sat, 27 Jan 2024 01:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>反腐败人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1abwmqc/anti_corruption_ai/</link>
-      <description><![CDATA[我认为将人工智能接入我们所有的州、地方和联邦政府，其唯一目的是根除腐败，这会很有趣。当然，政客们永远不会这样做，因为他们会被抓。还有私人企业的资金流动。想象一下我们能做多少事情！   由   提交/u/bmack500  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1abwmqc/anti_corruption_ai/</guid>
-      <pubDate>Fri, 26 Jan 2024 23:44:18 GMT</pubDate>
     </item>
     <item>
       <title>人工智能会在某个时候取代我吗？</title>
