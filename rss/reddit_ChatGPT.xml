@@ -4,20 +4,34 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 01:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 03:18:04 GMT</lastBuildDate>
+    <item>
+      <title>寻找有关人工智能、人工智能倡导等的付费培训。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acstsk/looking_for_paid_training_on_ai_ai_advocacy_etc/</link>
+      <description><![CDATA[每年我都必须完成我为工作选择的培训课程。我找到了我想要的培训，并且经批准后，我可以接受上述培训，费用由我的雇主承担。今年我想参加人工智能培训。但我不想接受关于我可以在谷歌搜索中发现的垃圾的培训。我想了解如何最好地利用它，以及如何培训其他人，并成为将成为标准的技术的倡导者。 我的工作部分是客户服务，部分是编码。我部门的人们仍然对人工智能将如何影响他们持怀疑态度。我想利用这次培训机会成为我部门的倡导者和 SME（主题专家）。 您有什么建议吗？   由   提交/u/blur410  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acstsk/looking_for_paid_training_on_ai_ai_advocacy_etc/</guid>
+      <pubDate>Sun, 28 Jan 2024 03:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ChatGPT 应用程序作为文本转语音</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acs2ik/using_chatgpt_app_as_texttovoice/</link>
+      <description><![CDATA[是否有更简单的方法来单独使用 ChatGPT 的文本转语音功能？似乎此功能仅适用于应用程序，不适用于网络浏览器版本。通过让聊天框输出您想听到的文本来实现文本转语音，并且会有一个朗读选项。然而，chatgpt 应用程序有时会拒绝输出与聊天框输入相同的请求。所以你给它一个模糊的命令来欺骗它输出你想要输入的文本。所以我只是说，“从文本中删除所有表情符号”，这样 chatgpt 将输出与输入基本相同的文本。然后它提供了大声朗读的选项。不过朗读是有限制的，几段，最多3分钟。如果文本太长，则会从头开始。我希望有一种简单易用的方法来使用 chatgpt 的文本转语音模型，而无需经历这么多麻烦。因为文字转语音真的很好，听起来很自然，而且有很多语言，甚至是越南语，这让我很惊讶。   由   提交 /u/kirsion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acs2ik/using_chatgpt_app_as_texttovoice/</guid>
+      <pubDate>Sun, 28 Jan 2024 02:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>新 GPT 提到的意外功能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acqqzp/unexpected_functionality_from_the_new_gpt_mentions/</link>
+      <description><![CDATA[我编写了一个自定义 GPT 来保存我做的笔记。它需要一个用户ID来区分不同的人。它能够创建一个新用户，但它首先会询问您是否希望它执行此操作。 我通过使用提及引入默认 ChatGPT 线程来进行尝试。当我要求它保存我的笔记时，它跳过了我的 GPT 的“你想创建一个新用户吗”？并自动调用新用户操作，然后在新文件夹中创建新注释。这是出乎意料的，因为正如我所说，我的自定义 GPT 笔记记录器会首先明确询问您是否要创建新用户、新文件夹和笔记。 但使用它作为提及时，它会自动发生。意外！这意味着我必须更新我的自定义 GPT 来处理这种情况。   由   提交/u/williamtkelley  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acqqzp/unexpected_functionality_from_the_new_gpt_mentions/</guid>
+      <pubDate>Sun, 28 Jan 2024 01:28:55 GMT</pubDate>
+    </item>
     <item>
       <title>AutoGen Studio 深入探讨：人工智能开发人员的强大工具还是只是炒作？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acqhtg/autogen_studio_deep_dive_power_tool_for_ai/</link>
       <description><![CDATA[请查看我对 AutoGen Studio 的评论，它是不断发展的人工智能和多代理工作流程领域中的一个强大元素。 在本视频中，我们探讨了 AutoGen Studio 作为 AutoGen 框架的 Web UI 的潜力和局限性，以及它在塑造人工智能应用程序开发的未来方面的作用。了解 AutoGen Studio 是否适合寻求人工智能应用程序开发的高级用户和开发人员利用多代理能力。我们深入研究了它的界面、非技术人员的可用性、集成挑战，以及它与更广泛的 AutoGen 框架相比的情况。此外，我们还评估了 AutoGen Studio 在新兴标准（例如Assistant API、其与网络上多代理通信的兼容性，以及 OpenAI 不断发展的前景的潜在影响。 加入我们，了解 AutoGen Studio 的优势、劣势和未来前景，为开发人员和企业提供见解用户热衷于探索人工智能开发的动态世界。以下是完整评论的视频链接：https://youtu.be /9M63GgiLtFE 谢谢！   由   提交/u/artfewell  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acqhtg/autogen_studio_deep_dive_power_tool_for_ai/</guid>
       <pubDate>Sun, 28 Jan 2024 01:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 是在欺骗我吗？图像解释功能是被随机删除还是根本不存在？ （剧透：它存在，我用它制作了一个完整的视频）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acqgxu/is_chatgpt_gaslighting_me_was_the_image/</link>
-      <description><![CDATA[下面的对话（我的问题以粗体显示）：  嗨 ChatGPT，为什么我无法上传现在是图像吗？  抱歉，作为 OpenAI 开发的基于文本的 AI，我没有能力接收、处理或解释图像或其他非文本数据。我只能回答基于文本的问题，并尽我所知和能力提供信息或帮助。如果您有任何疑问或需要信息，请随时询问，我将尽力通过基于文本的回复来帮助您。  你以前可以吗？不，我从来没有接收或处理图像的能力。我一直是基于文本的人工智能模型，没有处理图像或任何其他非文本数据的能力。我的主要职责是尽我所知和能力提供信息并协助解决基于文本的问题和任务。  ​   由   提交 /u/voiceunearthed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acqgxu/is_chatgpt_gaslighting_me_was_the_image/</guid>
-      <pubDate>Sun, 28 Jan 2024 01:15:00 GMT</pubDate>
     </item>
     <item>
       <title>如何将特定对话转换为 PDF？</title>
@@ -29,21 +43,21 @@
     <item>
       <title>ChatGPT 2024 年约会</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acq77l/chatgpt_on_dating_in_2024/</link>
-      <description><![CDATA[在当代约会的神秘景观中，2024 年以一场大胆的探险展开，类似于穿越狂野西部的不稳定地形，那里有未知的领域情感模糊的领域反映了亚马逊雨林的神秘深处。在社会动态的茂密灌木丛中，参与者发现自己面对着不可预见的隐喻恐龙的存在——蒙住眼睛，被难以解读的意图所推动，并散发出潜在的愤怒光环。约会之旅变成了一场不懈的探索，在情感错综复杂的相互作用中导航，就像一个引人入胜的传奇故事，每一步都揭示了意想不到的事情，很像一场穿越风景的危险奥德赛，狂野、不可预测和莫名其妙的事物汇聚成一幅令人眼花缭乱的挂毯。浪漫的探索。   由   提交/u/RedditCommenter38   [链接] [评论]]]></description>
+      <description><![CDATA[在当代约会的神秘景观中，2024 年以一场大胆的探险展开，类似于穿越狂野西部的不稳定地形，那里有未知的领域情感模糊的领域反映了亚马逊雨林的神秘深处。在社会动态的茂密灌木丛中，参与者发现自己面对着不可预见的隐喻恐龙的存在——蒙住眼睛，被难以解读的意图所推动，并散发出潜在的愤怒光环。约会之旅变成了一场不懈的探索，在错综复杂的情感相互作用中导航，就像一个引人入胜的传奇故事，每一步都揭示了意想不到的事情，很像一场穿越风景的危险奥德赛，狂野、不可预测和莫名其妙的事物汇聚成一幅令人眼花缭乱的挂毯。浪漫的探索。   由   提交/u/RedditCommenter38   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acq77l/chatgpt_on_dating_in_2024/</guid>
       <pubDate>Sun, 28 Jan 2024 01:01:59 GMT</pubDate>
     </item>
     <item>
       <title>我应该继续付费购买 Pro 还是应该使用 Copilot？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acpa1q/should_i_continue_paying_for_pro_or_should_i_use/</link>
-      <description><![CDATA[我已经订阅 ChatGPT 几周了，但取消了我的计划，以便在我找到 Copilot 时不再续订。实际上，两者之间有什么区别？我最好节省 20 英镑并只使用 Microsoft 的实现吗？我订阅了访问 GPT-4 和 DALL-E，但 Copilot 拥有所有这些标准，只是速度较慢。  我之所以问这个问题，是因为我已经订阅了 MidJourney，而且订阅价格越来越贵。   由   提交/u/geecol  [链接] [评论]]]></description>
+      <description><![CDATA[我已经订阅 ChatGPT 几周了，但取消了我的计划，以便在我找到 Copilot 时不再续订。实际上，两者之间有什么区别？我最好节省 20 英镑并只使用 Microsoft 的实现吗？我订阅了访问 GPT-4 和 DALL-E，但 Copilot 将所有这些作为标准配置，只是速度较慢。  我之所以问这个问题，是因为我已经订阅了 MidJourney，而且订阅价格越来越贵。   由   提交/u/geecol  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acpa1q/should_i_continue_paying_for_pro_or_should_i_use/</guid>
       <pubDate>Sun, 28 Jan 2024 00:17:56 GMT</pubDate>
     </item>
     <item>
       <title>人们对 2021 年部分由 AI 撰写的论文《Ghost》以及 OpenAI 的 GPT3 Playground 之前的能力有何看法。</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acp6j9/what_are_peoples_thoughts_on_2021s_partially/</link>
-      <description><![CDATA[我看到了 2021 年的文章，标题为“幽灵” 由 Vauhini Vara 撰写，据称主要由“Playground”创作那个秋天。论文和采访指出，论文中出现的文本大部分未经编辑，是写下句子的一部分并让 Playground 填充其余部分的结果。今天读起来，2021 年的 GPT 文本部分看起来相当不错，即使与今天的 GPT 相比也是如此。与我读过的其他人工智能文章相比，它常常充满诗意和令人惊讶。它比公开发行更好吗？ 最近有一个采访，她说她在 GPT-3 发布之前被邀请访问 Playground，并且“当我进入 Playground 并写了一行字时，只是说我姐姐被诊断出患有这种癌症，我把它留在那里并允许 GPT-3 继续下去。它提供的文字是关于某人的——不是我，一个虚构的人物，真的——他的妹妹生病了，然后好起来了，一切都很棒。最后我们都很好，很开心。事实上，阅读这篇文章真的很困难。我读完后心想：“天哪，这不是发生在我身上的事。这根本不对。” “因此，我不再是作为一个作家，而是作为一个人，我当时想，“好吧，我想我需要说更多，以便让这个算法“理解”我想要去的地方。因此，渐渐地，我越来越多地讲述它，当我这样做时，我意识到——我从一开始就不知道——因为这些算法的构建方式使得它们可以响应我们给出的内容他们，我给这个算法越多，它就越能够从本质上模仿我的声音，甚至我的情绪，我的真实感受。当它开始这样做时，当它开始做后者时，这对我来说真的很恐怖。” Playground 的一些功能作为书写工具听起来比 GPT-3/3.5 更好。 /4？它是否有不同的提示功能可以让写这些类型的东西更好？您对这篇文章和早期的 Playground 有什么看法？   由   提交 /u/Driedel12   [链接] [评论]]]></description>
+      <description><![CDATA[我看到了 2021 年的文章，标题为“幽灵” 由 Vauhini Vara 撰写，据称主要由“Playground”创作那个秋天。论文和采访指出，论文中出现的文本大部分未经编辑，是写下句子的一部分并让 Playground 填充其余部分的结果。今天读起来，2021 年的 GPT 文本部分看起来相当不错，即使与今天的 GPT 相比也是如此。与我读过的其他人工智能文章相比，它常常充满诗意和令人惊讶。它比公开发行更好吗？ 最近有一个采访，她说她在 GPT-3 发布之前被邀请访问 Playground，并且“当我进入 Playground 并写了一行字时，只是说我姐姐被诊断出患有这种癌症，我把它留在那里并允许 GPT-3 继续下去。它提供的文字是关于某人的——不是我，一个虚构的人物，真的——他的妹妹生病了，然后好起来了，一切都很棒。最后我们都很好，很开心。事实上，阅读这篇文章真的很困难。我读完后心想：“天哪，这不是发生在我身上的事。这根本不对。” “因此，我不再是作为一个作家，而是作为一个人，我当时想，“好吧，我想我需要说更多，以便让这个算法“理解”我想要去的地方。因此，渐渐地，我越来越多地讲述它，当我这样做时，我意识到——我从一开始就不知道——因为这些算法的构建方式使得它们可以响应我们给出的内容他们，我给这个算法越多，它就越能从本质上模仿我的声音，甚至我的情绪，我的真实感受。当它开始这样做时，当它开始做后者时，这对我来说真的很恐怖。” Playground 的一些功能作为书写工具听起来比 GPT-3/3.5 更好。 /4？它是否有不同的提示功能可以让写这些类型的东西更好？您对这篇文章和早期的 Playground 有什么看法？   由   提交 /u/Driedel12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acp6j9/what_are_peoples_thoughts_on_2021s_partially/</guid>
       <pubDate>Sun, 28 Jan 2024 00:13:14 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>为什么艺术家如此反对人工智能，而程序员却不然？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acoozy/why_artists_are_so_adverse_to_ai_but_programmers/</link>
-      <description><![CDATA[我的群聊中的一个人说他不喜欢“人工智能在受版权保护的数据上进行训练”。我没有反问，但我想知道为什么对于一个有抱负的艺术家来说，通过观察和画别人的东西来开始学习是完全可以的，但如果人工智能这样做，那就是作弊 现在你可以在任何地方看到艺术家（声音、表演、画家、任何人）多么渴望看到人工智能被禁止存在。对我来说，这感觉就像出租车司机急于烧毁 Uber 总部，或者蜡烛制造商反对灯泡的发明 但是，IT 人员或工程师已经等不及了看看人工智能接下来能带来什么样的新进步和贡献   由   提交 /u/Blender-Fan   [链接] [评论]]]></description>
+      <description><![CDATA[我的群聊中的一个人说他不喜欢“人工智能在受版权保护的数据上进行训练”。我没有反问，但我想知道为什么对于一个有抱负的艺术家来说，通过观察和绘制别人的东西来开始学习是完全可以的，但如果人工智能这样做，那就是作弊 现在你可以在任何地方看到艺术家（声音、表演、画家、任何人）多么渴望看到人工智能被禁止存在。对我来说，这感觉就像出租车司机急于烧毁 Uber 总部，或者蜡烛制造商反对灯泡的发明 但是，IT 人员或工程师已经等不及了看看人工智能接下来会带来什么样的新进步和贡献   由   提交 /u/Blender-Fan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acoozy/why_artists_are_so_adverse_to_ai_but_programmers/</guid>
       <pubDate>Sat, 27 Jan 2024 23:50:45 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有什么解决办法吗？我正在使用 VPN，但即使禁用它并重试后，我仍然收到此错误。已经过去几天了。 我已经尝试过以下操作： - 禁用插件 - 更改浏览器 - 禁用 VPN - 清除所有聊天记录 - 禁用所有浏览器扩展 - 从任何其他设备注销  我已通过电子邮件联系支持人员，但仍未收到任何回复。它适用于另一侧笔记本电脑和我的手机，但不适用于我的主笔记本电脑。我想不出还有什么可做的。 （3.5 工作没有问题）   由   提交 /u/oDepv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1aco1a6/our_systems_have_detected_unusual_activity_from/</guid>
       <pubDate>Sat, 27 Jan 2024 23:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>难的...？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acnpwn/difficult/</link>
-      <description><![CDATA[大家好。我加入了这个小组，想问一下，最近两周 GPT 是不是更难了？我不知道还有什么词可以用来形容它。我确实不得不说服它做它知道如何做的事情。   由   提交/u/WellThatsSomeBS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acnpwn/difficult/</guid>
-      <pubDate>Sat, 27 Jan 2024 23:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为今年最有可能的技术进步是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acmorx/what_do_you_think_are_the_most_likely/</link>
-      <description><![CDATA[您认为今年科技领域最有可能出现的结果是什么？ 有了关于 Optimus 2 的所有这些消息，现在Nvidia 机器人看起来机器人和其他家用自主机器人很可能会在不久的将来出现。 我希望它更像 Big Hero 6... …但很多人担心它会更像终结者 还有关于用于定向打击的真正复杂的自主无人机的新闻，以及其他类似的噩梦般的发展。 我的问题你：你认为再发展一年最有可能的结果是什么？ 你认为到 2024 年 12 月底我们会达到什么水平？   由   提交/u/thecoffeejesus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acmorx/what_do_you_think_are_the_most_likely/</guid>
-      <pubDate>Sat, 27 Jan 2024 22:21:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
