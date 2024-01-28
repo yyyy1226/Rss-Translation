@@ -4,7 +4,28 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 27 Jan 2024 15:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 01:19:50 GMT</lastBuildDate>
+    <item>
+      <title>寻找浏览器扩展来自动化和优化 ChatGPT 提示</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</link>
+      <description><![CDATA[有人知道提供以下功能的浏览器扩展或工具吗？  提示优化：该扩展程序可以自动优化我在 chat.openai.com 中输入的提示，以提高清晰度和有效性。理想情况下，该工具会在发送之前拦截提示，使用 AI 对其进行改进，然后发送改进后的版本。 自动化高级提示技术：可以应用各种高级提示的扩展提示技术，不仅限于思想链 (CoT)，还包括其他增强 ChatGPT 响应的连贯性和上下文相关性的技术。  浏览器兼容性和易用性：它是至关重要的是，该工具可以作为浏览器扩展无缝运行，不需要 API 密钥。   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</guid>
+      <pubDate>Sat, 27 Jan 2024 22:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否尝试过比较 ChatGPT voxscript 插件和 Voxscript GPT？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1acln0v/have_you_tried_comparing_the_chatgpt_voxscript/</link>
+      <description><![CDATA[我正在尝试找出哪个更好。我在此处附加了一个示例比较，想知道是否有其他人尝试过对它们进行比较。 我设置了一个提示并在两者中运行它，并在此处发布了比较。 https://www.learninternetgrow.com/compare-chatgpt-voxscript-plugin-and-voxscript -gpt/ 比较文章中的 YouTube 视频摘要提示示例。   由   提交/u/dima11235813  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1acln0v/have_you_tried_comparing_the_chatgpt_voxscript/</guid>
+      <pubDate>Sat, 27 Jan 2024 21:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人发现 ChatGPT 插件在读取给定特定 URL 的外部内容方面比 Web Pilot 或 vox 脚本更好？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1achg9q/has_anyone_found_a_chatgpt_plugin_thats_better/</link>
+      <description><![CDATA[我一直使用 webpilot 和 vox 脚本，想知道是否有人更喜欢其他东西。 我特别喜欢两者，因为我可以提供一个 url 并在上下文中获取所有信息，这似乎甚至不能依赖带有 Bing 的 ChatGPT 4 来一致地执行此操作。 我在生成的这篇文章中提供了一些示例。 https://www.learninternetgrow.com/real-time-search-with-llms/&lt; /a&gt;   由   提交/u/dima11235813  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1achg9q/has_anyone_found_a_chatgpt_plugin_thats_better/</guid>
+      <pubDate>Sat, 27 Jan 2024 18:30:54 GMT</pubDate>
+    </item>
     <item>
       <title>如何做更准确的提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/19fczd6/how_to_do_much_more_accurate_prompts/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[当我购买 chatgpt plus 时，它不会拒绝我的卡，但当我尝试为 api 添加积分时，它会拒绝我的卡，我该怎么办做什么？   由   提交/u/MaleficentProperty70   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/195etrf/openai_declining_my_card/</guid>
       <pubDate>Sat, 13 Jan 2024 03:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>LangChain 简介 - 完整文档概述</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1953kdc/intro_to_langchain_full_documentation_overview/</link>
-      <description><![CDATA[       由   提交/u/derekplates  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1953kdc/intro_to_langchain_full_documentation_overview/</guid>
-      <pubDate>Fri, 12 Jan 2024 19:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OpenAI SDK（开源）前往多个法学硕士</title>
-      <link>https://www.reddit.com/r/GPT3/comments/194u1oy/route_to_multiple_llms_using_openai_sdk_opensource/</link>
-      <description><![CDATA[   /u/EscapedLaughter  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/194u1oy/route_to_multiple_llms_using_openai_sdk_opensource/</guid>
-      <pubDate>Fri, 12 Jan 2024 12:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>释放内在的神谕：人工智能先知的宇宙对话！</title>
-      <link>https://www.reddit.com/r/GPT3/comments/194rcmc/unleash_the_oracle_within_ai_prophets_cosmic/</link>
-      <description><![CDATA[   准备好将您的演讲提升为明星了吗？ AI Prophet 不是普通的聊天机器人。它是知识导航器、智慧合成器、数字德尔福。与 AI Prophet 一起参与超越时间和空间的对话——从古代思想家的哲学思考到量子力学的前沿理论。这是您个人的苏格拉底式太空漫游，正在等待着您。加入对话革命，成为塑造未来的叙事的一部分。宇宙正在说话，是时候加入对话了。 #AIProphet #CosmicConversations #OracleWithin   由   提交 /u/Bright-Equivalent852   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/194rcmc/unleash_the_oracle_within_ai_prophets_cosmic/</guid>
-      <pubDate>Fri, 12 Jan 2024 09:47:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
