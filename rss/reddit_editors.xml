@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 29 Jan 2024 01:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 03:19:31 GMT</lastBuildDate>
+    <item>
+      <title>帮助：DaVinci 的 XML 与 Adob​​e Premiere Pro 中的音频不同步</title>
+      <link>https://www.reddit.com/r/editors/comments/1adl26k/help_davincis_xml_out_of_sync_with_audio_in_adobe/</link>
+      <description><![CDATA[所以我编辑了 &amp;使用 DaVinci Resolve 为短片上色Adobe Premiere Pro。其他人正在 Pro Tools 中混合音频。 为了清楚起见，我： 1. 在 Premiere 中编辑 2. 将序列导出为 XML 以在解析中着色 3. 将着色序列导出回 XML （单个剪辑）与音频首映相结合。 这样做后，电影在某个时刻奇怪地有几帧不同步，并且在大约 5 分钟内变得非常糟糕。音频混合和编辑序列的长度完全相同，所以我对这是如何出错的感到困惑。  当我保留与源素材配对的源音频时（导入彩色 XML 后），其中一些音频明显与音频混合不同步。即使我在某个点同步音频文件，此后的其他剪辑也会仅几帧不同步，并逐渐恶化到一整秒或两秒不同步。 所有序列和导出帧速率为 24 fps（与源素材拍摄时的速率相同），音频混合的速率为 24 bps（与录制时的速率相同）。  混音器说所有内容都在 Pro Tools 中同步播放，所以我非常不知道还能做什么。如果有人有任何建议，我将不胜感激！！ （规格和信息） macOS Monterey | v12.7.2 DaVinci Resolve 18（免费） Adobe Premiere Pro 2024 我在 DaVinci Resolve 页面上发表了这篇文章，但还没有运气&amp;我认为它可能不仅仅特定于该软件，因此我将其重新发布在这里！   由   提交 /u/wasabi9191   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1adl26k/help_davincis_xml_out_of_sync_with_audio_in_adobe/</guid>
+      <pubDate>Mon, 29 Jan 2024 03:09:36 GMT</pubDate>
+    </item>
     <item>
       <title>如何找到更多编辑工作？你在哪里找到你的？</title>
       <link>https://www.reddit.com/r/editors/comments/1adhw7a/how_can_i_find_more_editing_work_where_do_you/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿，我发现这些电脑的价格相同，想知道我是否应该优先考虑更多的内存或 m2 芯片？主要是处理后期效果。   由   提交/u/neesay16  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1acjw9k/macbook_pro_m1_16inch_32gb_ram_vs_m2_16gb_ram/</guid>
       <pubDate>Sat, 27 Jan 2024 20:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>G-RAID MIRROR QC 问题和其他素材 RAID</title>
-      <link>https://www.reddit.com/r/editors/comments/1acjni7/graid_mirror_qc_issues_other_raids_for_footage/</link>
-      <description><![CDATA[还有人尝试过最新型号的 G-RAID，“SanDisk Professional G-RAID MIRROR”吗？我们最近买了三张来拍摄，其中两张是废品。一个会非常慢，例如，在对其执行任何操作（格式化、复制文件，甚至在 RAID 0 模式下也以 ~250 Mbps 的速度传输）之前，它会空闲很长时间，而另一个最近刚刚被锁定（“ ;macOS 无法修复磁盘...”）。 这不是我们第一次遇到 G-RAID 在到达时失效（或几乎失效）的情况，但一批中的两个是太糟糕了。还有其他人遇到过该模型的质量控制问题吗？有没有任何先发制人的解决方案？ FWIW，它们都到达了 RAID 1 并格式化了 APFS，我们将其切换为 RAID 0 macOS Journaled (HFS+)。拥有 24TB (2 x 12TB) 型号。 或者，现在购买其他竞争对手的双驱动器 RAID 是否更划算？ （考虑 LaCie 2big、OWC Gemini、Glyph BlackBox Pro...） 针对 AutoMod 进行编辑：我们的 DIT 拥有 M 系列 MacBook Pro。   由   提交 /u/LataCogitandi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1acjni7/graid_mirror_qc_issues_other_raids_for_footage/</guid>
-      <pubDate>Sat, 27 Jan 2024 20:06:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
