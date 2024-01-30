@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 01:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 03:17:42 GMT</lastBuildDate>
+    <item>
+      <title>有 NSFW 故事生成器吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aee0eh/are_there_any_nsfw_story_genrators/</link>
+      <description><![CDATA[我正在寻找 NSFW 故事生成器。当我可以告诉它我想要的框架时，它就会讲述故事。  有什么建议吗？   由   提交/u/privateanonymous430   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aee0eh/are_there_any_nsfw_story_genrators/</guid>
+      <pubDate>Tue, 30 Jan 2024 02:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个人工智能，可以帮你接电话</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aedpsq/i_made_an_ai_that_picks_up_the_phone_for_you/</link>
+      <description><![CDATA[大家好，我和我的朋友们制作了一个可以为您打电话的人工智能系统。 Opencall 是我们的尝试了解人工智能如何承担日常电话任务。很容易让它非常可靠地完成任务，同时又超轻且快速。您可以：- 获取电话号码并将其连接到自定义代理- 通过该号码接听数百个电话24x7.- 自动从这些呼叫中收集数据- 在呼叫期间向呼叫者提供实时数据 我们为任何想要尝试并通过其使用与我们交谈的人提供个性化设置-我们正在尝试看看我们可以在哪些实际应用中使用我们的人工智能，如果有任何反馈，我们将不胜感激！ 网站： opencall.ai 演示（眼科办公室接待员）：致电 +1(650) 651-4460   由   提交 /u/shiny_beluga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aedpsq/i_made_an_ai_that_picks_up_the_phone_for_you/</guid>
+      <pubDate>Tue, 30 Jan 2024 02:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了 ChatGPT 包装器？了解如何建立自己的LLM</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aeco7z/tired_of_chatgpt_wrappers_learn_how_to_build_your/</link>
+      <description><![CDATA[我们在工作中阅读了“Attention is all you need”论文，我得到了一些，但需要一个项目来构建我自己的变压器，然后是LLM。我在 coursera 上学习了 Andrew Ng 的深度学习课程，并且在使用 PyTorch 为推荐系统构建自动编码器方面拥有丰富的行业经验。但 Transformer 对我来说有点模糊。 你如何学习 Transformer？ 几年前我曾经经营过一个数据科学小组，我想做一些更大的事情。每周与合格的学习者举行视频会议，1) 使用 PyTorch 构建一个 Transformer 2) 构建一个迷你 llm，也许只使用维基百科 3) 微调 llama 2 4) 使用 llama2 进行递归自我训练和评估实验......以及其他有趣的项目 这样的项目/俱乐部会起作用吗？或者有更好的学习方法吗？ 我刚刚观看了一篇有关论文的视频，其中一些研究人员构建了一个递归自我改进的 llama 2，它令人惊叹，据说性能超过了我需要的 ChatGPT 4（旧版本）为了快速提高我的技能以能够做到这一点，ChatGPT 的局限性太大，我需要能够以一小部分成本做更多的事情 https://youtu.be/vKMvQqw91n4?si=iNve96DBBN-Tm-29   由   提交/u/xyz_TrashMan_zyx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aeco7z/tired_of_chatgpt_wrappers_learn_how_to_build_your/</guid>
+      <pubDate>Tue, 30 Jan 2024 01:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手问题 - OpenChat 3.5</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aecha9/newbie_sort_of_questions_openchat_35/</link>
+      <description><![CDATA[嘿，我尝试使用 Openchat 3.5，因为我正在研究故事创意，它似乎能够更好地处理有关恐怖或政治的词语比许多其他人。巴德（BARD）是最受欢迎的，但经常出问题。 Chatgpt - 我使用的是免费模型，它有点敏感。所以我想知道是否有地方可以使用 Openchat 3.5，因为我已经在聊天机器人领域使用过它，而且它非常好。但它可以像ChatGPT一样在自己的网站上使用吗？  ChatGPT 还允许 NSFW 机器人吗？当我在故事中提到政治人物时，这些机器人不会惊慌失措？？ 谢谢大家，我不是专家，所以我的 AI 交互通常是在线提供简单界面的网站，   由   提交/u/BinkySmales  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aecha9/newbie_sort_of_questions_openchat_35/</guid>
+      <pubDate>Tue, 30 Jan 2024 01:40:53 GMT</pubDate>
+    </item>
     <item>
       <title>高级软件工程师在这里。 GPT4 编码很糟糕。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aebtp0/sr_software_engineer_here_gpt4_sucks_at_coding/</link>
@@ -48,39 +76,11 @@
       <pubDate>Mon, 29 Jan 2024 19:31:44 GMT</pubDate>
     </item>
     <item>
-      <title>Chat GPT 以来 AI 产品的增长</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ae2lcb/growth_of_ai_products_since_chat_gpt/</link>
-      <description><![CDATA[嘿大家， 在 Chat GPT 出现之前，有一些类似 AI 的工具，但不是太多。但一旦 Chat GPT 推出，似乎每 5 分钟就会发明一个新的人工智能工具/业务（用于编写法律文档的 ML、用于编码蛋白质的 ML、用于建造建筑物的 ML 等） 所以我的问题： -为什么这些东西在 ChatGPT 出来之后才爆发？这些ML大部分都是以ChatGPT为基础吗？ -如果他们不以ChatGPT为基础，是什么导致他们等到ChatGPT出来之后才推出？   由   提交 /u/sensei_mike   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ae2lcb/growth_of_ai_products_since_chat_gpt/</guid>
-      <pubDate>Mon, 29 Jan 2024 18:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何安装浪链</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ae263u/how_to_install_langchain/</link>
-      <description><![CDATA[LangChain 是 Anthropic 创建的开源对话式 AI 助手。它允许您进行由大型语言模型支持的自然语言对话。 在您自己的计算机上安装 LangChain 只需几个简单的步骤。 https://www.successtechservices.com/how-to-install-langchain/   由   提交/u/Chisom1998_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ae263u/how_to_install_langchain/</guid>
-      <pubDate>Mon, 29 Jan 2024 18:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以输入图像并要求其更改的人工智能网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ae20en/are_there_ai_sites_that_you_can_input_an_image_to/</link>
-      <description><![CDATA[我想给我的狗拍一张照片，并将其放入某种类型的人工智能网站中，并要求它拍摄她的图像并将其变成现实她的钩针版本，这样我就可以从中汲取灵感，在现实生活中做出来。我实际上只玩过 ChatGPT 和 Bing Image Creator，但它们都无法实现这一点，所以我正在寻找建议！谢谢:)   由   提交 /u/Sensitive-b    reddit.com/r/ArtificialInteligence/comments/1ae20en/are_there_ai_sites_that_you_can_input_an_image_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ae20en/are_there_ai_sites_that_you_can_input_an_image_to/</guid>
-      <pubDate>Mon, 29 Jan 2024 18:15:19 GMT</pubDate>
-    </item>
-    <item>
       <title>对话的必要性：人工智能作为孤独流行病的解药</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ae1ora/the_need_to_talk_ai_as_antidote_to_the_loneliness/</link>
       <description><![CDATA[孤独是一种流行病。这是一种致命的流行病。这可能是未来几十年最严重的公共卫生危机，而且就其本质而言，它仍然隐藏在大多数人的视野之外。是的，每个人都会时不时地感到孤独，但对某些人来说，孤独是一种疾病，即使他们尽了最大努力，也无法治愈。当然，对于某些人来说，“多出去走走”可能只是克服坏习惯，或者冒险尝试一项新活动。对于其他许多人来说，这是一个更加险恶和复杂的问题。人工智能可以帮助提供解决方案吗？ 阅读更多此处   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ae1ora/the_need_to_talk_ai_as_antidote_to_the_loneliness/</guid>
       <pubDate>Mon, 29 Jan 2024 18:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个人工智能聊天可以提供信息，并且它仅根据这些信息进行回答？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adxzh3/is_there_an_ai_chat_that_you_can_feed_with/</link>
-      <description><![CDATA[我对 AI 比较陌生，我只是想知道，因为像 ChatGPT 这样的东西不起作用，因为他仍然用其他来源回答   由   提交/u/UgurFerros   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adxzh3/is_there_an_ai_chat_that_you_can_feed_with/</guid>
-      <pubDate>Mon, 29 Jan 2024 15:30:32 GMT</pubDate>
     </item>
     <item>
       <title>Lumiere - 谷歌革命性的时空扩散模型。 2024年是AI视频生成年。以下是您需要了解的内容：</title>
