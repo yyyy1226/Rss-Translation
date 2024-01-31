@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 09:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 15:17:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 据报道，SpaceX 的 Starlink 激光系统每天传输超过 42 PB 的数据 [...]</title>
-      <link>https://t.me/hn_summary/71955</link>
-      <description><![CDATA[星链太空激光器吞吐量详细信息已发布
-据工程师 Travis Brashears 称，SpaceX 的 Starlink 激光系统每天传输超过 42 PB 的数据。该系统使用激光器来帮助降低延迟并改善全球覆盖范围，特别是在附近没有地面站的地区。这些激光器可以维持每条链路 100Gbps 连接，并实现了超过 99% 的链路正常运行时间。该系统可以远距离连接卫星，甚至可以穿越大气层传输数据。 SpaceX 计划扩展激光系统以用于第三方卫星，并探索将卫星激光直接发射到地球表面。]]></description>
-      <guid>https://t.me/hn_summary/71955</guid>
-      <pubDate>Wed, 31 Jan 2024 09:02:33 GMT</pubDate>
+      <title>[媒体]文章讨论了 2024 年的绩效不平等差距，特别是 [...]</title>
+      <link>https://t.me/hn_summary/71980</link>
+      <description><![CDATA[2024 年绩效不平等差距
+本文讨论了 2024 年的性能不平等差距，特别关注网络内容的设备和网络限制。作者提供了不同设备和网络上首次加载时间的基准数字，将针对 JavaScript 密集型内容和以标记为中心的堆栈的建议分开。他们强调绩效管理的重要性以及团队需要更好的绩效数据。文章还强调了设备所有权的不平等，特别是在财富分配较低的市场中，以及这对用户体验的影响。此外，它还讨论了 iPhone 和 Android 设备之间的性能差异以及日益扩大的性能不平等差距。文章最后讨论了网络速度对用户参与度的影响以及 5G 网络部署的不均匀性。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71980</guid>
+      <pubDate>Wed, 31 Jan 2024 15:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Microsoft Edge 正在积极尝试通过自动方式让用户从 Google Chrome 切换到 [...]</title>
-      <link>https://t.me/hn_summary/71954</link>
-      <description><![CDATA[Microsoft Edge 现在会在更新后从 Google Chrome 窃取您的数据
-Microsoft Edge 正在积极尝试通过自动从 Chrome 复制所有活动选项卡来让用户从 Google Chrome 切换。这种策略最近引起了人们的关注，因为用户注意到，Windows 更新后，Edge 会打开所有 Chrome 选项卡，即使 Edge 从未在该计算机上使用过。微软似乎正在使用一种设置，每次启动浏览器时都会将数据从 Chrome 导入到 Edge。尽管有一个选项可以禁用此设置，但微软现在在 Windows 更新后将其推送给用户。一些用户还报告说，即使禁用导入设置，Edge 仍会导入 Chrome 数据。]]></description>
-      <guid>https://t.me/hn_summary/71954</guid>
-      <pubDate>Wed, 31 Jan 2024 08:54:23 GMT</pubDate>
+      <title>[媒体]此网页内容的作者讨论了他们对 Scoreb 进行逆向工程的项目 [...]</title>
+      <link>https://t.me/hn_summary/71979</link>
+      <description><![CDATA[对记分板显示进行逆向工程
+该网页内容的作者讨论了他们对记分牌显示进行逆向工程的项目。他们从一家剩余商店获得了一个大型七段显示器，发现它是达科公司的产品。作者探索了显示器的接线和电源特性，确定其可能使用 18 伏电源。然后，他们制作了一个电路原型，以使用晶体管控制显示器的每个部分，然后将其升级为包含用于控制多个显示器的锁存器。作者还分享了他们为该项目设计和组装永久板的经验。内容提供了逆向工程过程的技术细节和见解。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71979</guid>
+      <pubDate>Wed, 31 Jan 2024 15:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据报道，微软的 Edge 浏览器正在导入打开的 Chrome 标签页和其他数据，而无需 [...]</title>
-      <link>https://t.me/hn_summary/71953</link>
-      <description><![CDATA[Microsoft Edge 忽略用户意愿，未经许可从 Chrome 中获取标签页
-据报道，微软的 Edge 浏览器在未经用户许可的情况下导入打开的 Chrome 标签页和其他数据，即使该功能已被禁用。 Edge浏览器设置中的代码允许它在每次启动时从Chrome导入几乎所有浏览器数据。此功能旨在简化切换到 Edge 的过程，但会引起隐私问题，因为如果用户登录 Microsoft 帐户，它会将数据同步到云端。自去年以来，用户一直报告导入功能存在问题，尽管尝试禁用它，导入仍然发生。该问题已被多个来源标记，而 Microsoft 尚未提供回应或解决该问题。]]></description>
-      <guid>https://t.me/hn_summary/71953</guid>
-      <pubDate>Wed, 31 Jan 2024 08:53:12 GMT</pubDate>
+      <title>[媒体]本文讨论了马卡龙（一种新的安全令牌系统）的实施，[...]</title>
+      <link>https://t.me/hn_summary/71978</link>
+      <description><![CDATA[马卡龙迅速升级
+本文讨论了 Fly.io 的新安全令牌系统 Macarons 的实现。作者解释说，马卡龙是一种不记名令牌，可用于限制对某些资源的访问。令牌包含一系列称为“警告”的声明，进一步限制令牌授权的内容。作者强调，马卡龙是用户可编辑的令牌，允许 JIT 生成的最低权限令牌。文章还提到 Fly.io 使用马卡龙来建模他们的平台权限，允许用户根据其角色拥有不同级别的访问权限。总的来说，本文将马卡龙描述为一种灵活且安全的令牌系统。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71978</guid>
+      <pubDate>Wed, 31 Jan 2024 14:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GitLab 提议在 [...] 中实施 ActivityPub，这是 Fediverse 使用的 W3C 标准。</title>
-      <link>https://t.me/hn_summary/71952</link>
-      <description><![CDATA[Gitlab的ActivityPub架构蓝图
-GitLab 提议在其平台中实施 ActivityPub（Fediverse 使用的 W3C 标准）。目标是构建互操作性功能，允许用户向托管在 GitLab 其他实例上的项目打开合并请求，从而创建一个全球网络。该实施将从社交功能开始，例如允许 Fediverse 上的用户订阅 GitLab 上的活动并收到新版本的通知。向 ActivityPub 的转变不仅会让 GitLab 变得更加社交化，还会扩大其受众。使用 ActivityPub 是有利的，因为它构建在 HTTP 和 JSON 之上，因此易于采用并且具有多种实现。 （根据故事文本的 61% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71952</guid>
-      <pubDate>Wed, 31 Jan 2024 08:52:05 GMT</pubDate>
+      <title>该网页内容的作者是 AY-3-8910 合成器芯片的粉丝，并希望创建 [...]</title>
+      <link>https://t.me/hn_summary/71977</link>
+      <description><![CDATA[显示 HN：Fourays：AY-3-8910 合成器（第 1 部分） )
+该网页内容的作者是 AY-3-8910 合成器芯片的粉丝，想要创建一个完全仅 AY 的合成器。他们从速卖通购买了 10 个 AY-3-8910 芯片并进行了测试，看看它们是否是真的。他们发现至少有两个芯片是真的。然后作者讨论了 AY 芯片的局限性，例如只能产生方波，并建议添加压控滤波器 (VCF) 来修改 AY 声音。他们还探索了同时使用多个 AY 芯片的可能性，并确定了不同配置所需的微控制器引脚数量。作者计划使用ESP32-S3微控制器，并为各种功能分配引脚，包括触摸输入、AY数据总线、时钟信号、DAC片选线和屏幕控制线。他们还讨论了使用 AY 芯片上的 GPIO 端口作为替代控制方法的可能性。作者的结论是，他们的计划是明智的，将允许他们创建一个具有 USB MIDI 功能和混合音频声音的能力的合成器。在第 2 部分中，他们将重点关注 ESP32-S3 固件和驱动连接的设备。]]></description>
+      <guid>https://t.me/hn_summary/71977</guid>
+      <pubDate>Wed, 31 Jan 2024 14:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ISBL 项目是信息系统基础语言 (ISBL) 的实现 [...]</title>
-      <link>https://t.me/hn_summary/71951</link>
-      <description><![CDATA[ISBL：在 Tcl 中实现的信息系统基本语言&lt; br/&gt;
-ISBL 项目是信息系统基础语言 (ISBL) 在 Tcl 中的实现。 ISBL 是一种数据库查询语言，与 SQL 相比，它提供了更代数和直观的方法。该项目旨在将 ISBL 表达式转换为 SQL 并在 SQLite 数据库上执行它们。它包括一个与 PRTV 论文中描述的原始 ISBL 非常相似的 DSL。该项目提供了一个命令行界面，可用于在命令行或 Tcl 脚本内计算 ISBL 表达式。该项目还包含可供参考的示例和测试脚本。]]></description>
-      <guid>https://t.me/hn_summary/71951</guid>
-      <pubDate>Wed, 31 Jan 2024 08:14:48 GMT</pubDate>
+      <title>[媒体] 网页内容是网站 Psymon.com 的版权页，该网站自 1 [...]</title>
+      <link>https://t.me/hn_summary/71976</link>
+      <description><![CDATA[Psymon.com 的版权页（1998-2021） 
+网页内容是网站 Psymon.com 的版权页，其中从 1998 年到 2021 年一直活跃。作者 Ron Koster 负责创建整个网站，包括设计、布局、排版、编码、图形、数字艺术、字体和电子书。网站上使用的字体由作者创建，基于 16 世纪伦敦印刷商 John Alde 所创建的金属字体。作者还提到，“Psymon”这个名字的灵感来自于他心爱的​​宠物狗西蒙。内容不包含任何有争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/71976</guid>
+      <pubDate>Wed, 31 Jan 2024 14:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一封致艺术家和词曲作者社区的公开信中，环球音乐讨论了 [...]</title>
-      <link>https://t.me/hn_summary/71950</link>
-      <description><![CDATA[我们必须在 TikTok 上暂停
-在一封致艺术家和词曲作者社区的公开信中，环球音乐讨论了在 TikTok 上“暂停”的必要性。这封信强调了他们与 TikTok 续约讨论中的三个关键问题：对艺术家和歌曲作者的适当补偿、保护人类艺术家免受人工智能的有害影响以及用户的在线安全。环球音乐认为，TikTok 向艺术家和词曲作者支付的费用只是其他主要社交平台的一小部分，并允许人工智能生成的录音稀释人类艺术家的版税池。此外，据称 TikTok 没有充分解决版权侵权或内容邻接问题。环球音乐誓言为艺术家和歌迷争取公平的报酬和安全的环境。]]></description>
-      <guid>https://t.me/hn_summary/71950</guid>
-      <pubDate>Wed, 31 Jan 2024 07:32:31 GMT</pubDate>
+      <title>[媒体]2001年的一天，多家科技公司总共宣布了31,000 [...]</title>
+      <link>https://t.me/hn_summary/71975</link>
+      <description><![CDATA[科技行业糟糕的一天：削减 31,000 个工作岗位（2001 年）
+2001年的一天，多家科技公司总共宣布裁员3.1万人，成为科技泡沫破裂以来裁员最严重的日子之一。科技行业已经陷入困境，今年上半年就裁掉了超过 30 万个科技岗位。该行业的下滑归因于消费者在新技术产品上的支出减少以及企业支出的减少。电信公司受到的打击尤其严重，法国电信设备制造商阿尔卡特和光纤元件制造商 JDS Uniphase 都宣布大幅裁员。此次裁员被视为科技行业的麻烦远未结束的迹象。]]></description>
+      <guid>https://t.me/hn_summary/71975</guid>
+      <pubDate>Wed, 31 Jan 2024 14:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>“HTTP 区号”网站提供了 HTTP 响应标头及其相应 [...]</title>
-      <link>https://t.me/hn_summary/71949</link>
-      <description><![CDATA[HTTP 区号
-“HTTP Area Codes”网站提供了 HTTP 响应标头及其相应区域代码的列表。每个区号都附有一个图像和它所代表的位置的简短描述。一些更有趣的区号包括佐治亚州亚特兰大的 404（未找到）、魁北克省的 418（我是茶壶）和华盛顿州东部的 509（超出带宽限制）。该网站还包含区号 443 的图像，该区号代表马里兰州的 HTTPS。网站上使用的所有图像都是公共领域或知识共享的。]]></description>
-      <guid>https://t.me/hn_summary/71949</guid>
-      <pubDate>Wed, 31 Jan 2024 07:25:22 GMT</pubDate>
+      <title>[媒体]文章讨论了丹麦社会的现实，强调了好处和[...]</title>
+      <link>https://t.me/hn_summary/71974</link>
+      <description><![CDATA[丹麦童话故事的现实
+文章讨论了丹麦社会的现实，强调了随之而来的好处和妥协。它提到丹麦经常被美国自由主义者理想化，因为它有国家资助的教育、免费医疗保健和健全的社会安全网。然而，作者认为，这些好处受到精英准入和财务限制的保护。他们还讨论了严格的移民政策和丹麦社会的同质性，并将其与瑞典更加开放的政策及其所面临的后果进行了对比。文章强调了丹麦的高税收、一致的措施和强大的民族传统。最后，它承认丹麦社会运转的权衡和妥协，同时也赞赏美国多元文化主义的非凡成就。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71974</guid>
+      <pubDate>Wed, 31 Jan 2024 14:19:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者讨论了他们构建 USB 到 Mac ADB 密钥的经验 [...]</title>
-      <link>https://t.me/hn_summary/71948</link>
-      <description><![CDATA[构建 USB 到 Mac ADB 键盘适配器
-Web 内容的作者讨论了他们构建 USB 至 Mac ADB 键盘适配器的经验。他们表达了对 Mac 的厌恶和对 Linux 的偏好。他们解释了 Apple 和 PC 键盘连接器之间的差异以及适配器的需求。作者提供了使用 QMK 项目和 Pro Micro 板构建适配器的说明。他们还提到了他们面临的挑战以及对优质电缆的需求。作者分享了他们设计和 3D 打印适配器外壳的过程。他们最后表示，虽然他们喜欢构建适配器，但他们最终更喜欢现代的外部键盘。]]></description>
-      <guid>https://t.me/hn_summary/71948</guid>
-      <pubDate>Wed, 31 Jan 2024 07:13:13 GMT</pubDate>
+      <title>[媒体]Godot 4.3 开源游戏引擎即将在 Linux 上原生支持 Wayland。</title>
+      <link>https://t.me/hn_summary/71973</link>
+      <description><![CDATA[Godot 4.3 游戏引擎将支持 Native Wayland&lt; br/&gt;
+Godot 4.3 开源游戏引擎很快就会在 Linux 上原生支持 Wayland。这项新功能将在运行 Wayland 合成器时动态加载，提供 X11 支持的替代方案。该功能的开发始于 2022 年，此后不断改进并合并到引擎中。虽然存在一些已知的限制，例如光标尚不支持分数缩放，但仍有进一步改进的计划。增加原生 Wayland 支持对于用户来说是令人兴奋的消息，因为它将增强现代 Linux 桌面上的游戏体验。]]></description>
+      <guid>https://t.me/hn_summary/71973</guid>
+      <pubDate>Wed, 31 Jan 2024 14:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重介绍我们新的 Hacker News 客户端，该客户端使用 Htmx 和 Go 构建！</title>
-      <link>https://t.me/hn_summary/71947</link>
-      <description><![CDATA[显示 HN：使用 Htmx 和 Go 的黑客新闻客户端 
-隆重推出我们新的 Hacker News 客户端，该客户端使用 Htmx 和 Go 构建！我们很高兴为您带来一种快速有效的方式来浏览流行的黑客新闻平台并与之互动。我们的客户利用 Htmx（一个轻量级 JavaScript 库）来实现无缝更新和动态内容加载，而不需要复杂的框架。结合 Go 的强大功能，我们的客户提供了流畅且响应迅速的用户体验。无论您是经验丰富的黑客还是只是对最新的科技新闻感到好奇，我们的黑客新闻客户端都是您了解最新情况和参与其中的完美工具。立即在 hacc.foo 上查看！&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/71947</guid>
-      <pubDate>Wed, 31 Jan 2024 07:12:04 GMT</pubDate>
+      <title>问 HN：有什么好的《硅谷照片》咖啡桌书籍吗？</title>
+      <link>https://t.me/hn_summary/71972</link>
+      <description><![CDATA[问 HN：有什么好的硅谷照片咖啡桌书籍吗？
+我是硅谷及其丰富历史的忠实粉丝，因此我正在寻找一些精彩的咖啡桌照片书籍，以捕捉这个科技中心的精髓。我想回到早期，见证所发生的令人难以置信的转变。如果您有任何建议或知道任何隐藏的宝石，请与我分享。我迫不及待地想投入这些视觉之旅，重温硅谷的魔力。]]></description>
+      <guid>https://t.me/hn_summary/71972</guid>
+      <pubDate>Wed, 31 Jan 2024 14:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了苹果公司针对欧盟数字市场法案（DM [...]</title>
-      <link>https://t.me/hn_summary/71946</link>
-      <description><![CDATA[OWA 对 Apple 网络 DMA 合规性提案的审核 
-文章讨论了 Apple 针对欧盟数字市场法案 (DMA) 的合规提案，并探讨了 Apple 是否打算允许 iOS 上的浏览​​器和网络应用程序进行公平竞争。作者强调了三个主要兴趣点：浏览器供应商是否可以将自己的引擎引入 iOS、是否可以实现适当的 Web 应用程序支持以及是否可以与 Safari 公平竞争。作者对苹果提出的要求（包括安全、隐私和 API 实现）提出了担忧，并质疑苹果是否会真正允许第三方浏览器安装由自己的引擎驱动的网络应用程序。文章还提到了苹果的反竞争行为以及在实施默认浏览器选择屏幕时进行监督的必要性。 （根据故事文本的 40% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71946</guid>
-      <pubDate>Wed, 31 Jan 2024 06:51:47 GMT</pubDate>
+      <title>[媒体]</title>
+      <link>https://t.me/hn_summary/71971</link>
+      <description><![CDATA[显示 HN：使用 &lt;500 行代码的对话式 AI 搜索
+该项目的目的是允许用户使用少于 500 行代码构建自己的会话式搜索引擎。它为 LLM（Lepton 语言模型）和 Bing 和 Google 等搜索引擎提供内置支持。该项目还提供可定制的 UI 界面以及共享和缓存搜索结果的功能。作者提到，这个项目与其他项目不同，因为它是轻量级的，只需几个命令即可轻松设置和部署。它还为不同的搜索引擎提供选项并允许自定义。]]></description>
+      <guid>https://t.me/hn_summary/71971</guid>
+      <pubDate>Wed, 31 Jan 2024 13:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
