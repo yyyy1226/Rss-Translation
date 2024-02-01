@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 01 Feb 2024 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 18:22:33 GMT</lastBuildDate>
     <item>
-      <title>✓ 梅赛德斯源代码通过 GitHub 令牌泄露而暴露 (02/01/2024)</title>
-      <link>https://www.reddit.com/r/programming/comments/1agbzcv/mercedes_source_code_exposed_via_github_token/</link>
-      <description><![CDATA[ 由   提交/u/Equal-Strike-2540   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agbzcv/mercedes_source_code_exposed_via_github_token/</guid>
-      <pubDate>Thu, 01 Feb 2024 14:16:15 GMT</pubDate>
+      <title>Typestate - Swift 5.9 中的新设计模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghp9q/typestate_the_new_design_pattern_in_swift_59/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghp9q/typestate_the_new_design_pattern_in_swift_59/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>您是否以聪明的方式建立索引？</title>
-      <link>https://www.reddit.com/r/programming/comments/1agbua7/are_you_indexing_the_smart_way/</link>
-      <description><![CDATA[ 由   提交/u/ggStrift  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agbua7/are_you_indexing_the_smart_way/</guid>
-      <pubDate>Thu, 01 Feb 2024 14:09:45 GMT</pubDate>
+      <title>Verse 和 Haskell 的核心，与 Simon Peyton Jones 合作</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghp8t/the_core_of_verse_haskell_with_simon_peyton_jones/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghp8t/the_core_of_verse_haskell_with_simon_peyton_jones/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过正超级编译解决 SAT</title>
-      <link>https://www.reddit.com/r/programming/comments/1agbck4/solving_sat_via_positive_supercompilation/</link>
-      <description><![CDATA[ 由   提交 /u/Hirrolot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agbck4/solving_sat_via_positive_supercompilation/</guid>
-      <pubDate>Thu, 01 Feb 2024 13:46:31 GMT</pubDate>
+      <title>为我的自动化游戏发挥最后一点 JavaScript 性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghogo/squeezing_last_bit_of_javascript_performance_for/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghogo/squeezing_last_bit_of_javascript_performance_for/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>aerc 是 TUI 电子邮件客户端，在新版本中为 git-send-email 工作流程提供了集成补丁管理</title>
-      <link>https://www.reddit.com/r/programming/comments/1agb942/aerc_a_tui_email_client_lands_integrated_patch/</link>
-      <description><![CDATA[ 由   提交/u/priestoferis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agb942/aerc_a_tui_email_client_lands_integrated_patch/</guid>
-      <pubDate>Thu, 01 Feb 2024 13:41:27 GMT</pubDate>
+      <title>串联组合子理论</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghofk/the_theory_of_concatenative_combinators/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghofk/the_theory_of_concatenative_combinators/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:21:04 GMT</pubDate>
     </item>
     <item>
-      <title>GitLab 用户警告称存在允许文件覆盖的缺陷 - 因此请立即更新</title>
-      <link>https://www.reddit.com/r/programming/comments/1agai0t/gitlab_users_warned_of_flaw_that_allows_file/</link>
-      <description><![CDATA[ 由   提交 /u/LinearArray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agai0t/gitlab_users_warned_of_flaw_that_allows_file/</guid>
-      <pubDate>Thu, 01 Feb 2024 13:03:02 GMT</pubDate>
+      <title>大规模可靠地执行 Cron 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghoej/executing_cron_scripts_reliably_at_scale/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghoej/executing_cron_scripts_reliably_at_scale/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>测试无锁 C++ 代码的一些技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1aga2uu/a_few_tricks_to_test_lockfree_c_code/</link>
-      <description><![CDATA[ 由   提交/u/coderbois  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aga2uu/a_few_tricks_to_test_lockfree_c_code/</guid>
-      <pubDate>Thu, 01 Feb 2024 12:40:35 GMT</pubDate>
+      <title>任意语言的代码覆盖变得容易 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghlpk/code_coverage_for_arbitrary_languages_made_easy/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghlpk/code_coverage_for_arbitrary_languages_made_easy/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>您想在终端上看电影吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</link>
-      <description><![CDATA[ 由   提交/u/Appressive_Bit7392   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</guid>
-      <pubDate>Thu, 01 Feb 2024 12:13:44 GMT</pubDate>
+      <title>波兰语消失的奇怪案例</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghkhn/the_curious_case_of_the_disappearing_polish_ś/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghkhn/the_curious_case_of_the_disappearing_polish_ś/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>建筑人工智能：它真的有效吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</link>
-      <description><![CDATA[ 由   提交/u/rahul_ramteke  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</guid>
-      <pubDate>Thu, 01 Feb 2024 11:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>StoreChatGPT - 2024 年产品信息、最新更新和评论 |产品搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</link>
-      <description><![CDATA[ 由   提交 /u/remoteyep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</guid>
-      <pubDate>Thu, 01 Feb 2024 11:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>KCL 双周通讯 | v0.7.5 发布并与 GitOps 集成 Flux</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag8ada/kcl_biweekly_newsletter_v075_released_and_flux/</link>
-      <description><![CDATA[ 由   提交/u/Peefy-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag8ada/kcl_biweekly_newsletter_v075_released_and_flux/</guid>
-      <pubDate>Thu, 01 Feb 2024 10:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>透明大页 (THP) 简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag7zh8/introduction_to_transparent_hugepage_thp/</link>
-      <description><![CDATA[ 由   提交/u/grzybo93  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag7zh8/introduction_to_transparent_hugepage_thp/</guid>
-      <pubDate>Thu, 01 Feb 2024 10:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 代码 2024 年 1 月</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</link>
-      <description><![CDATA[ 由   提交/u/dwaxe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</guid>
-      <pubDate>Thu, 01 Feb 2024 10:21:45 GMT</pubDate>
+      <title>存在就是变量的值 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghjrz/to_be_is_to_be_a_value_of_a_variable_pdf/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghjrz/to_be_is_to_be_a_value_of_a_variable_pdf/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:15:33 GMT</pubDate>
     </item>
     <item>
       <title>CheerpJ 3.0：用于在浏览器中运行实际应用程序的 WebAssembly JVM</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</link>
-      <description><![CDATA[ 由   提交/u/alexp_lt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</guid>
-      <pubDate>Thu, 01 Feb 2024 09:52:56 GMT</pubDate>
+      <link>https://www.reddit.com/r/programming/comments/1aghjh5/cheerpj_30_a_webassembly_jvm_to_run_realworld/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghjh5/cheerpj_30_a_webassembly_jvm_to_run_realworld/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>这位 15 岁的建筑商正在平衡学校和 2 家 SaaS 企业。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</link>
-      <description><![CDATA[ 由   提交 /u/cryptonaresh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</guid>
-      <pubDate>Thu, 01 Feb 2024 09:27:30 GMT</pubDate>
+      <title>马尔可夫链是原始语言模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghjgm/markov_chains_are_the_original_language_models/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghjgm/markov_chains_are_the_original_language_models/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:15:10 GMT</pubDate>
     </item>
     <item>
-      <title>视觉效果图（Unity）学习（第1部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</guid>
-      <pubDate>Thu, 01 Feb 2024 08:57:33 GMT</pubDate>
+      <title>RISC-V 汇编器：算术</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghiv8/riscv_assembler_arithmetic/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghiv8/riscv_assembler_arithmetic/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过正超级编译解决 SAT</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghi3w/solving_sat_via_positive_supercompilation/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghi3w/solving_sat_via_positive_supercompilation/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>编译 Lisp</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghi35/compiling_a_lisp/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghi35/compiling_a_lisp/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最喜欢的 Git 提交</title>
+      <link>https://www.reddit.com/r/programming/comments/1aghi24/my_favourite_git_commit/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aghi24/my_favourite_git_commit/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于获取 BigQuery 成本的五个有用查询</title>
+      <link>https://www.reddit.com/r/programming/comments/1agh16z/five_useful_queries_to_get_bigquery_costs/</link>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agh16z/five_useful_queries_to_get_bigquery_costs/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:53:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
