@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 06:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 09:19:06 GMT</lastBuildDate>
+    <item>
+      <title>徒步路线管理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1agziun/hiking_track_managment_software/</link>
+      <description><![CDATA[您好， 我负责社区中的 9 条徒步路线。 我正在寻找一个软件（Windows），可以让我：  在地图上概览该区域的所有 9 个轨道 让我在轨道上放置兴趣点 让我测量轨道上两点之间的距离 理想情况下，我可以为沿途的标志、长凳等创建一个数据库（甚至更好）曲目  有人知道什么软件可以帮助我吗？   由   提交/u/Anon0588  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1agziun/hiking_track_managment_software/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款真正懂我的神奇AI日历</title>
+      <link>https://www.reddit.com/r/software/comments/1agx5mm/in_search_of_a_magic_ai_calendar_that_truly/</link>
+      <description><![CDATA[嘿！ 希望比我聪明得多的人已经考虑过这个问题并提出建议！ 我正在寻找人工智能日历或计划程序。我很想让它自然地说话，让它理解并弄清楚我在说什么，然后将其添加到我的日历中。 就像，如果我咕哝道，“下周一需要与亚伦见面处理工作事宜”在2，”它应该只知道弹出“Meeting with Aaron”进入我的工作日历，而无需我拼写出来并匹配基本 NLP 引擎希望我说出的确切方式。 如果它还可以跟踪诸如我在哪里之类的事情，那就太酷了通常会与人会面，并根据过去的事件提出编辑建议。 我尝试过常见的方法，例如 Apple Calendar 和 Fantastical，它们还不错，但不太切中要害。我希望能够以我平常混乱的方式卸下我的大脑，让它理清混乱的局面。就像 LLM 之类的 chatGPT 似乎只是理解我用什么方式表达事物一样。 TLDR：是否有一个人工智能日历应用程序可以像基于聊天的 LLM 一样有效地解释我的随意胡言乱语并帮助我更好地管理我的生活？寻找建议！   由   提交 /u/JustJayThoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1agx5mm/in_search_of_a_magic_ai_calendar_that_truly/</guid>
+      <pubDate>Fri, 02 Feb 2024 06:22:35 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 系统上最好的 Android 模拟器是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1agwwky/what_is_the_best_android_emulator_on_linux_systems/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[多年来我一直在努力解决这个问题。在无数的应用程序上浏览无数的帖子，所有这些帖子都充斥着营销言论，让我感到恼火和沮丧。我只想抓住要点。 限制或切断访问从来没有长期有效，而且还让我感到孤立。我创建了 shortsnip 来让自己遵循现实的媒体饮食习惯。精简正在发生的事情的片段并减少滚动。没有算法决定你看到什么，没有跟随。  很想听听是否有人觉得这有用。非常感谢任何反馈。 shortsnip   由   提交/u/chaosmass2  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1agdexe/suffering_from_infobesity/</guid>
       <pubDate>Thu, 01 Feb 2024 15:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoClicker 具有可编程流程？！</title>
-      <link>https://www.reddit.com/r/software/comments/1agd85v/autoclicker_with_proframmable_processes/</link>
-      <description><![CDATA[嘿大家！ 我正在寻找一个可以播放预先编程流程的自动点击器（例如：等待 700 毫秒，左鼠标按钮、鼠标右键、循环）并且是免费的。有什么建议/提示吗？谢谢（应该适用于鼠标，但键盘也会更好^^）   由   提交 /u/DateiSchoki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1agd85v/autoclicker_with_proframmable_processes/</guid>
-      <pubDate>Thu, 01 Feb 2024 15:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻量级照片编辑器替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1agadpu/lightweight_photo_editor_alternatives/</link>
-      <description><![CDATA[嗨，我不知道这是否是正确的子问题，但我正在寻找轻量级照片编辑器替代品。目前我正在使用 adobe Photoshop，但我想我可以使用更轻的替代品（如果有的话），因为到目前为止我只使用 Photoshop，因为它具有图层功能，而且大多数情况下我用它来删除背景、合并多个图片、更改通过选择背景颜色，或使用形状特征创建徽标。我很少使用 Photoshop 提供的任何滤镜或颜色功能。因此，如果你们有任何建议/替代方案，请告诉我。谢谢。 ​ TL;DR 寻找具有选择、形状和图层等功能的轻量级照片编辑器。    由   提交 /u/IgneZsia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1agadpu/lightweight_photo_editor_alternatives/</guid>
-      <pubDate>Thu, 01 Feb 2024 12:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
