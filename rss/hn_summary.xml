@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 03 Feb 2024 15:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 18:03:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 超离子水，也称为超离子冰或冰 XVIII，是水的独特相[...]</title>
-      <link>https://t.me/hn_summary/72523</link>
-      <description><![CDATA[超离子水
-超离子水，也称为超离子冰或冰 XVIII，是一种存在于极高温度和压力下的独特水相。在这种状态下，水分子分裂，氧离子形成晶格结构，而氢离子在晶格内自由移动。这使得超离子水具有高导电性，几乎像金属一样。超离子水的第一个实验证据出现在 20 世纪 90 年代，2019 年，科学家们能够在实验室中合成它。理论上它存在于天王星和海王星等巨行星的地幔中。超离子水的发现可能会对理解各个行业的物质和能量交换产生影响。]]></description>
-      <guid>https://t.me/hn_summary/72523</guid>
-      <pubDate>Sat, 03 Feb 2024 15:09:12 GMT</pubDate>
+      <title>[媒体]巴黎市针对SUV司机，将这些车辆的停车费提高了两倍。</title>
+      <link>https://t.me/hn_summary/72549</link>
+      <description><![CDATA[巴黎投票针对SUV司机，停车费提高三倍
+巴黎市针对SUV司机，将这些车辆的停车费提高了两倍。此举是该市减少空气污染和鼓励使用更环保的交通方式努力的一部分。 SUV 以其较高的排放量和较大的尺寸而闻名，这会导致城市地区的拥堵和污染。停车费的上涨预计将阻止SUV车主在市中心开车，并鼓励他们选择其他交通方式。这项有争议的措施引发了居民和汽车爱好者的争论，一些人认为这对SUV车主不公平。]]></description>
+      <guid>https://t.me/hn_summary/72549</guid>
+      <pubDate>Sat, 03 Feb 2024 18:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者分享了他们减小 Docker 大小的经验 [...]</title>
-      <link>https://t.me/hn_summary/72522</link>
-      <description><![CDATA[我将 Docker 映像的大小减小了 40% – Dockerizing shell脚本
-该 Web 内容的作者分享了他们为名为 ugit 的 shell 脚本减小 Docker 映像大小的经验。他们解释说，他们想让 ugit 可供那些不喜欢从互联网上安装随机 shell 脚本的用户使用。作者接着描述了他们优化 Dockerfile 并将镜像大小减少了近 40% 的过程。他们强调了多阶段构建的使用以及摆脱不必要的二进制文件和依赖项。作者还提到了他们犯的一个菜鸟错误以及使用 SCRATCH 图像来进一步减小图像的大小。最终图像大小为 12.4MB，减少了 60%。 （根据故事文本的 43% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72522</guid>
-      <pubDate>Sat, 03 Feb 2024 15:00:02 GMT</pubDate>
+      <title>[媒体] Nvidia 首席执行官黄仁勋 (Jensen Huang) 认为，寻求开发自己技术的国家 [...]</title>
+      <link>https://t.me/hn_summary/72548</link>
+      <description><![CDATA[Nvidia 首席执行官表示各国寻求自己的人工智能系统将提高需求
+英伟达首席执行官黄仁勋认为，寻求开发自己的人工智能（AI）系统的国家将推动对人工智能技术的需求。黄预测，随着各国认识到人工智能的战略重要性，他们将大力投资发展自己的人工智能能力。这种需求的增加将使领先的人工智能技术公司英伟达受益，因为他们为人工智能系统提供了必要的硬件和软件。黄仁勋的发言凸显了全球对人工智能日益增长的兴趣以及各国在该领域竞争的潜力。]]></description>
+      <guid>https://t.me/hn_summary/72548</guid>
+      <pubDate>Sat, 03 Feb 2024 17:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了世界上最小的 PNG 文件，该文件大小仅为 67 字节 [...]</title>
-      <link>https://t.me/hn_summary/72521</link>
-      <description><![CDATA[世界上最小的PNG
-本文讨论了世界上最小的 PNG 文件，该文件大小仅为 67 字节，由单个黑色像素组成。该文件分为四个部分：PNG 签名、图像元数据、像素数据和“图像结束”标记。作者解释了 PNG 文件的结构，包括使用块来编码不同类型的数据。文章还提到了 PNG 文件中压缩算法和校验和的使用。最后，作者展示了最小 PNG 文件的完整分解并展示了图像本身。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72521</guid>
-      <pubDate>Sat, 03 Feb 2024 14:47:54 GMT</pubDate>
+      <title>[媒体]每年都会发表数以万计的虚假科学论文，导致[...]</title>
+      <link>https://t.me/hn_summary/72547</link>
+      <description><![CDATA[虚假科学论文将研究可信度推向危机&lt; br /&gt;
+科学家表示，每年都会发表数以万计的虚假科学论文，导致研究可信度危机。这个问题起源于中国，要求晋升的年轻医生和科学家必须发表论文。被称为“造纸厂”的影子组织开始提供捏造的作品以在期刊上发表。这种做法后来蔓延到其他国家，造纸厂向越来越多的期刊提供虚假研究报告。期刊编辑和同行评审员没有正确履行自己的职责，有些人还受贿接受文章。欺诈性研究论文的兴起正在损害医学研究、阻碍药物开发并危及学术研究。由于学者通常根据发表的论文数量获得报酬，这一事实加剧了这个问题。伊维菌素的案例说明了发表不良或捏造的研究所造成的危害，伊维菌素被誉为治疗 COVID-19 的神奇药物，但后来发现有欺诈性研究支持其使用。这种情况导致人们呼吁制定更好的方案来识别和避免欺诈性研究。造纸厂和造假研究论文的兴起正在污染科学知识并威胁科学体系的完整性。]]></description>
+      <guid>https://t.me/hn_summary/72547</guid>
+      <pubDate>Sat, 03 Feb 2024 17:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 根据一份工作帖子，微软正在寻找 Rust 开发人员重写核心 C# 代码 [...]</title>
-      <link>https://t.me/hn_summary/72520</link>
-      <description><![CDATA[微软寻求 Rust 开发人员重写核心 C# 代码&lt; br /&gt;
-根据该公司招聘网站上的招聘信息，微软正在寻找 Rust 开发人员重写核心 C# 代码。该职位是 Microsoft 365 的首席软件架构师，涉及指导 Rust 组件库和 SDK 的技术方向和实现，以及将现有的基于 C# 的服务重新实现到 Rust。这一举措符合微软之前对 Rust 的兴趣，因为该公司多年来一直将该语言整合到各种组件中。虽然核心 C# 代码采用 Rust 可能会让开发者社区中的一些人感到惊讶，但这反映了人们对内存安全编程日益增长的热情以及 Microsoft 对探索新选项的承诺。]]></description>
-      <guid>https://t.me/hn_summary/72520</guid>
-      <pubDate>Sat, 03 Feb 2024 14:46:48 GMT</pubDate>
+      <title>[媒体] 本文讨论了 Figma 矢量网络背后的工程，这是一个重要的 [...]</title>
+      <link>https://t.me/hn_summary/72546</link>
+      <description><![CDATA[Figma 矢量网络背后的工程（2019）&lt; br /&gt;
+本文讨论了 Figma 矢量网络背后的工程，它是对图形设计中使用的传统钢笔工具的改进。自 1987 年推出以来，钢笔工具基本保持不变，但 Figma 看到了增强其功能的机会。矢量网络通过消除路径是单个连续链的限制，在创建和操作路径方面提供了更大的灵活性。这意味着设计师可以创建更复杂的形状并更轻松地进行修改。本文还解释了路径、节点、边和贝塞尔曲线的概念，它们是路径的构建块。总体而言，矢量网络旨在提高设计人员的易用性和工作流程。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72546</guid>
+      <pubDate>Sat, 03 Feb 2024 17:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Web 内容的作者使用 PHP 创建了一个简单的 ActivityPub 服务器，仅 [...]</title>
-      <link>https://t.me/hn_summary/72519</link>
-      <description><![CDATA[A（小型、不完整、单用户、只写）ActivityPub PHP 中的服务器
-Web 内容的作者使用 PHP 创建了一个简单的 ActivityPub 服务器，仅允许用户向其关注者发布消息。服务器不具备记录收藏夹或转发、关注其他帐户、接收回复、删除或更新帖子或验证签名等功能。它没有数据库，仅使用平面文件进行存储。作者想要创建一个类似于 FourSquare 的服务，并且需要一个 ActivityPub 服务器来将地理标记位置发布到 Fediverse。他们在使用 HTTP 签名时遇到了问题，但找到了一个教程来帮助他们。服务器结构包括帐户信息、关注者和帖子的静态文件，以及媒体上传的目录。服务器可以发送消息并允许关注者，前端包括地理位置和签到地图。该服务器是单用户的，缺乏帐户管理。用户界面很基本，存在一些限制，例如发件箱没有分页，也没有简单的方法来查看回复。作者承认代码可能存在错误和安全漏洞。他们希望 Mastodon 最终支持在帖子中显示位置，以便他们可以关闭服务器。]]></description>
-      <guid>https://t.me/hn_summary/72519</guid>
-      <pubDate>Sat, 03 Feb 2024 14:34:36 GMT</pubDate>
+      <title>[媒体]Laidoff.support 是一个致力于为个人提供支持和指导的网站 [...]</title>
+      <link>https://t.me/hn_summary/72545</link>
+      <description><![CDATA[显示 HN：laidoff.support 对下岗工人的支持
+Laidoff.support 是一个致力于为个人提供支持和指导的网站被解雇的人。我们提供精选的真实故事、实用建议和综合指南，帮助您顺利度过裁员过程。我们的撰稿人分享他们的个人经历和学到的教训，旨在激励并赋予您力量，将这段不确定时期转变为个人和职业成长的机会。请访问我们的网站，寻找独特且有价值的资源，在这个充满挑战的时期为您提供帮助。]]></description>
+      <guid>https://t.me/hn_summary/72545</guid>
+      <pubDate>Sat, 03 Feb 2024 17:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>andrewchen.com 上的文章讨论了为什么最差的用户通常来自推荐计划，[...]</title>
-      <link>https://t.me/hn_summary/72518</link>
-      <description><![CDATA[为什么最差的用户来自推荐计划、免费试用、优惠券&lt; /a&gt;
-andrewchen.com 上的文章讨论了为什么最差的用户通常来自推荐计划、免费试用和优惠券。作者认为，与通过其他渠道获得的用户相比，这些类型的用户的参与度和保留率往往较低。作者认为，这是因为这些用户往往是受到折扣或免费试用的激励，而不是对产品或服务真正感兴趣。这可能会导致这些用户的流失率更高，总体价值更低。本文为公司提供了缓解这一问题并吸引更高质量用户的见解和策略。]]></description>
-      <guid>https://t.me/hn_summary/72518</guid>
-      <pubDate>Sat, 03 Feb 2024 14:04:20 GMT</pubDate>
+      <title>[媒体] 这个 GitHub 项目是使用 Raspberry Pi 进行冷启动攻击的简单演示。</title>
+      <link>https://t.me/hn_summary/72544</link>
+      <description><![CDATA[展示 HN：使用 Raspberry Pi 进行冷启动攻击的简单演示
+这个 GitHub 项目是使用 Raspberry Pi 进行冷启动攻击的简单演示。该项目的目的是说明 RAM 中数据的保留以及如何在冷启动攻击中利用它。该项目包括各种组件，例如用蒙娜丽莎图像填充内存的程序、使用 Raspberry Pi OS 将图像注入连续 RAM 的自动化实验、用于转储内存的裸机内核以及用于将图像注入的 Linux 内核模块连续的内存。作者提到该项目基于原始的冷启动攻击论文，并提供了从 Raspberry Pi 转储内存的独特设置。]]></description>
+      <guid>https://t.me/hn_summary/72544</guid>
+      <pubDate>Sat, 03 Feb 2024 17:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]计算机爱好者发现了一种巧妙的声学技巧来重新编程苹果的 iPod [...]</title>
-      <link>https://t.me/hn_summary/72517</link>
-      <description><![CDATA[iPod“吱吱声”泄露了软件秘密 (2005) 
-计算机爱好者发现了一种巧妙的声学技巧，可以用自己的代码重新编程 Apple 的 iPod 音乐播放器。通过调整在用户滚动菜单时生成点击的组件，他们能够从最新一代的 iPod 中提取重要信息。这使他们能够安装替代操作系统并运行游戏和其他新程序。该项目始于一位来自德国的 17 岁计算机科学专业学生在圣诞节收到了一台 iPod，并决定在上面安装 Linux。通过聆听代码的声音，他能够破译引导加载程序代码并成功在设备上安装 Linux。该项目将 iPod 变成了通用设备，允许开发各种游戏和其他应用程序。]]></description>
-      <guid>https://t.me/hn_summary/72517</guid>
-      <pubDate>Sat, 03 Feb 2024 13:46:10 GMT</pubDate>
+      <title>[媒体] 本报告由博士撰写</title>
+      <link>https://t.me/hn_summary/72543</link>
+      <description><![CDATA[Over the Edge - 微软的设计策略损害了免费浏览器的选择 [pdf](https://news.ycombinator.com/item?id=39241372)
+这份报告由 Harry Brignull 博士和 Cennydd Bowles 撰写，研究了 Microsoft 的设计实践及其对用户选择 Web 浏览器的影响。作者确定了 Microsoft 用于影响用户使用其浏览器 Edge 的有害设计模式。这些模式包括预选、视觉干扰、欺骗性措辞和伪装广告。报告的结论是，微软的这些设计选择限制了用户自由选择和使用替代浏览器，导致消费者、社会和市场受到损害。作者认为微软应该停止使用这些技术，如有必要，应该实施监管干预以防止这些危害。 （根据故事文本的 8% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72543</guid>
+      <pubDate>Sat, 03 Feb 2024 16:56:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Twikit 是一个 Python 库，用作 Twitter 内部 API 的 API 包装器。</title>
-      <link>https://t.me/hn_summary/72516</link>
-      <description><![CDATA[显示 HN：Python 的 Twitter API 包装器 – 无需 API 密钥&lt; /a&gt;
-Twikit 是一个 Python 库，用作 Twitter 内部 API 的 API 包装器。它允许用户与 Twitter 的 API 进行交互，而无需 API 密钥，这为开发人员带来了便利。该库完全免费使用，并支持同步和异步编程。它提供了各种功能，例如创建推文、搜索推文和检索趋势主题。自述文件包括安装说明和如何使用该库的快速示例。作者鼓励用户贡献和反馈，并通过在 GitHub 上为该项目加注星标来寻求支持。]]></description>
-      <guid>https://t.me/hn_summary/72516</guid>
-      <pubDate>Sat, 03 Feb 2024 13:45:04 GMT</pubDate>
+      <title>[媒体]Astroturfing 是一种公关策略，涉及制造虚假的草根运动 [...]</title>
+      <link>https://t.me/hn_summary/72542</link>
+      <description><![CDATA[Astroturfing
+Astroturfing 是一种公共关系策略，涉及创建虚假的草根运动或组织，使其看起来像是得到广泛支持的信息或事业。 “astroturfing”一词来自 AstroTurf 品牌，这是一种看起来像天然草的合成地毯。公司和政治实体经常利用人造草皮的做法来影响公众舆论。它可能涉及隐藏消息的发起者或使用软件隐藏相关个人的身份。人们发现人造草皮会改变公众的观点并引起怀疑，许多国家的法律都对它进行了监管。批评者认为，草皮运动威胁了真正草根运动的合法性，并破坏了公众的信任。 （根据故事文本的 27% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72542</guid>
+      <pubDate>Sat, 03 Feb 2024 16:44:51 GMT</pubDate>
     </item>
     <item>
-      <title>托马斯·史蒂文斯 (Thomas Stevens) 是一位英国自行车手，因成为第一个绕圈的人而闻名 [...]</title>
-      <link>https://t.me/hn_summary/72515</link>
-      <description><![CDATA[托马斯·史蒂文斯（自行车手）
-托马斯·史蒂文斯是一位英国自行车运动员，因成为第一个骑自行车环游地球的人而闻名。他于 1884 年 4 月踏上旅程，骑着便士车（也称为大轮普通车）两年多，行程约 13,500 英里。一路走来，他面临着各种挑战，包括在阿富汗被捕、在中国遇到语言障碍等。完成旅程后，史蒂文斯写了一本名为《骑自行车环游世界》的书，后来参加了东非探险家亨利·莫顿·斯坦利的搜寻探险队。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72515</guid>
-      <pubDate>Sat, 03 Feb 2024 13:00:47 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了应用“不要重复自己”（DRY）原则的危险[...]</title>
+      <link>https://t.me/hn_summary/72541</link>
+      <description><![CDATA[论抽象、重复和发现（2015）&lt; br /&gt;
+本文讨论了在软件开发中过于严格地应用“不要重复自己”(DRY) 原则的危险。作者使用学校项目的构建列表示例来说明他们的观点。他们解释说，虽然引入抽象来消除代码重复似乎很有效，但从长远来看，它实际上可能会导致不必要的工作并降低可维护性。作者还强调了在代码中保留意图和可发现性的重要性，并建议使用组件化作为实现这一目标的方法。他们认为，创建可维护代码的关键是专注于减少逻辑重复，而不是意图。]]></description>
+      <guid>https://t.me/hn_summary/72541</guid>
+      <pubDate>Sat, 03 Feb 2024 16:41:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文章讨论了 GetReligion 网站在 [...] 后关闭的原因</title>
-      <link>https://t.me/hn_summary/72514</link>
-      <description><![CDATA[再见，20年后：我们为什么要做我们所做的事情
-文章讨论了 GetReligion 网站 20 年后关闭的原因。作者回应了对该网站保守的批评，并解释说，他们的目标是准确、公平地报道左右宗教团体。他们还谈到了评论问题，表示他们只在帖子中发表了涉及新闻问题的评论。作者强调了“凯勒主义”的概念，指的是《纽约时报》的比尔·凯勒关于该报在报道道德和社会问题时存在自由主义偏见的声明。文章最后向 GetReligion 的作者团队和支持者表示感谢。]]></description>
-      <guid>https://t.me/hn_summary/72514</guid>
-      <pubDate>Sat, 03 Feb 2024 12:52:39 GMT</pubDate>
+      <title>问 HN：人类总是觉得社交如此具有挑战性吗？</title>
+      <link>https://t.me/hn_summary/72540</link>
+      <description><![CDATA[问 HN：人类是否一直觉得社交如此具有挑战性？
+作者反思了自己的社交尴尬经历，并观察到他们认识的许多人也在与他人互动方面遇到困难。他们认为，尴尬是人际交往中很自然的一部分，每个人都能完全轻松地相处是不寻常的。作者想知道社交媒体是否对这一挑战做出了贡献，或者是否一直如此。]]></description>
+      <guid>https://t.me/hn_summary/72540</guid>
+      <pubDate>Sat, 03 Feb 2024 16:40:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
