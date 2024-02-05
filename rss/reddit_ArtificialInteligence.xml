@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 18:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 21:15:56 GMT</lastBuildDate>
+    <item>
+      <title>据传谷歌的 Gemini Pro 将于周三发布 - Bard 将被简称为“Gemini”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajojr0/googles_gemini_pro_is_rumored_to_be_released_on/</link>
+      <description><![CDATA[https://www.tomsguide.com/ai/google-may-be-rolling-out-gemini-ultra-this-week-and -同时重命名吟游诗人   由   提交 /u/nbkco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajojr0/googles_gemini_pro_is_rumored_to_be_released_on/</guid>
+      <pubDate>Mon, 05 Feb 2024 19:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>层和节点问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajo3hr/layers_and_nodes_question/</link>
+      <description><![CDATA[如何确定项目中使用的层数和节点数。根据项目类型有什么有用的建议吗？另外层数和节点数如何影响训练数据需求、训练速度和可靠性   由   提交 /u/loonathefloofyfox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajo3hr/layers_and_nodes_question/</guid>
+      <pubDate>Mon, 05 Feb 2024 18:46:53 GMT</pubDate>
+    </item>
     <item>
       <title>您见过的最令人兴奋的人工智能用例是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajnbxx/what_is_the_most_mindblowing_ai_use_cases_youve/</link>
@@ -74,20 +88,6 @@
       <description><![CDATA[这是我希望解决的一个与工作相关的问题 我在人力资源部门工作，花了很多时间面试/ 亲自、通过 Teams 或通过电话进行绩效评估/纪律处分。 我目前使用 Otter AI 来记录我的 IRL 和 Teams 会议，但我需要一种方法来记录通话，然后进行转录，我想将我的 Mac 设置为麦克风来录制通话，但必须有一种更简单的方法（我在英国）。 一旦我转录了通话，我可能会有 10 个与员工 John Smith 相关的 pdf - 我可以使用什么把它们放在一起，然后总结和学习，这样我就可以向它提出问题，例如“约翰·史密斯有什么借口没有去上班”等，就像我可以要求实习生查找信息一样。 我的另一个用例是为与我一起工作的人建立一个“档案”，保留一个可以随时总结的运行文件，这样我就可以记住约翰·史密斯有三个孩子，周末打高尔夫球等。 目前我已经向 ChatGPT / OtterAI 付费了 - 我很高兴花钱，我不是在寻找最便宜的选择，而是在寻找一个有效的选择。 谢谢！    由   提交/u/Social_Fool  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajboa0/looking_for_ai_transcription_summary_tools/</guid>
       <pubDate>Mon, 05 Feb 2024 08:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>非程序员如何使用 Github 或 Hugging Face 构建 AI 模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9g4r/how_does_a_nonprogrammer_use_github_or_hugging/</link>
-      <description><![CDATA[我是这两个网站的新手，经常看到人们在 Huggingface 或 Github 上发布有关使用这个或那个 AI 模型的帖子。我不知道如何使用它们，因为我看到的屏幕似乎是程序员而不是用户。任何使用这些的帮助或指南/链接都会非常有帮助，谢谢。   由   提交/u/BinkySmales  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9g4r/how_does_a_nonprogrammer_use_github_or_hugging/</guid>
-      <pubDate>Mon, 05 Feb 2024 05:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建 Ai 聊天机器人。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj7dry/creation_of_ai_chatbot/</link>
-      <description><![CDATA[当我听说character.ai 时，我真的很惊讶。我意识到它不支持 nfsw，所以我上网并尝试了解更多有关此类聊天机器人的信息，这些聊天机器人在成为 nfsw 的同时也可以与我进行角色扮演，我尝试了其中的一些，例如 Crushon、看门人和我的然后我最喜欢的 yodayo 对于免费用户来说非常令人印象深刻。该应用程序还引导用户从基础创建自己的角色和角色。  现在我想在我的电脑上本地运行这样的聊天机器人，所以我再次上网了解更多详细信息，我遇到了 Hammer Ai，这又是一个很好的程序，它有非常简单的用户界面，可以让你下载各种模型并创建可以通过电脑保密的角色。 我也喜欢 Hammer Ai，因为一切都是私人的并且仅限于我自己，但它是在我的电脑上，我想要在我的手机上有类似的东西，现在我知道在移动设备上本地运行这样的机器人是不可能的，但我想要一个自己的应用程序，就像其他应用程序一样，但很简单，并且仅限于我只有一个角色，即使为此我上网我问了吟游诗人，chatgpt，甚至谷歌也搜索了它，但是他们的解释对我来说太模糊和复杂，我什至无法开始， 我很好奇有人可以解释一下达到我的最终目标的过程或路径是什么吗？   由   提交/u/le0nytas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj7dry/creation_of_ai_chatbot/</guid>
-      <pubDate>Mon, 05 Feb 2024 03:59:37 GMT</pubDate>
     </item>
     <item>
       <title>欺骗行为，包括加倍撒谎，已被证明在现代领先的法学硕士中自发出现。</title>

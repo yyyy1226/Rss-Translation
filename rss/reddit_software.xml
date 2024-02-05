@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 18:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 21:16:45 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个云存储比较表，比较了 27 个云存储服务/应用程序的功能和价格！</title>
+      <link>https://www.reddit.com/r/software/comments/1ajr6j7/i_made_a_cloud_storage_comparison_table_comparing/</link>
+      <description><![CDATA[ 由   提交 /u/CookieDelivery   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ajr6j7/i_made_a_cloud_storage_comparison_table_comparing/</guid>
+      <pubDate>Mon, 05 Feb 2024 20:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>数千名软件工程师表示就业市场正在变得更糟</title>
+      <link>https://www.reddit.com/r/software/comments/1ajpeef/thousands_of_software_engineers_say_the_job/</link>
+      <description><![CDATA[软件工程就业市场面临着日益激烈的竞争由于全行业的低迷和人工智能的威胁而造成的困难。许多软件工程师对寻找类似薪酬的新工作表示悲观。该领域不再被视为安全专业，人工智能工具开始影响工作保障。    由   提交 /u/ResolutionLong7354   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ajpeef/thousands_of_software_engineers_say_the_job/</guid>
+      <pubDate>Mon, 05 Feb 2024 19:38:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Windows 版本的 https://pdfsearch.app/</title>
+      <link>https://www.reddit.com/r/software/comments/1ajp5v3/looking_for_windows_version_of_httpspdfsearchapp/</link>
+      <description><![CDATA[正如标题所说，这个应用程序完美地满足了我的所有要求，但仅适用于苹果设备。有人知道 Windows 下的类似软件吗？   由   提交/u/leichtgetoastet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ajp5v3/looking_for_windows_version_of_httpspdfsearchapp/</guid>
+      <pubDate>Mon, 05 Feb 2024 19:29:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Windows 10 上打开另一个应用程序时自动打开一个应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1ajns22/how_do_i_open_an_app_automatically_when_opening/</link>
+      <description><![CDATA[ 由   提交 /u/meet_the___watcher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ajns22/how_do_i_open_an_app_automatically_when_opening/</guid>
+      <pubDate>Mon, 05 Feb 2024 18:33:56 GMT</pubDate>
+    </item>
     <item>
       <title>程序/算法（MIDI）音乐创作？</title>
       <link>https://www.reddit.com/r/software/comments/1ajmk67/procedural_algorithmic_midi_music_composing/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[到目前为止，我只能在点击下载链接时添加链接，但它不会自动启动（我还必须右键单击才能使用 jdownloader 下载） ，论坛说只需编辑扩展设置，但当我单击它时没有扩展设置，它只是禁用（也可能是因为我使用brave作为我的浏览器？）。另一个是我用bat安装的这个本机客户端，但我似乎找不到在勇敢的浏览器中使用它的方法，不像视频中使用firefox使用它。 IDM 的问题是它有时无法下载某些文件，并提示无法到达服务器或其他内容。但我喜欢它的是它的自动下载，jdownloader2 没有简单的设置来启用它（我不知道如何）。所以我需要帮助   由   提交/u/leahs11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aj2vcu/i_need_help_in_using_jdownloader2_i_come_from/</guid>
       <pubDate>Mon, 05 Feb 2024 00:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件老是出问题...</title>
-      <link>https://www.reddit.com/r/software/comments/1aj17rs/software_always_breaking/</link>
-      <description><![CDATA[嗨，我有一个简单的软件工具，但它总是损坏。它是从 API 中提取的，但我认为一旦代码完成，它不会有太多问题，但它总是会崩溃，我支付相同的自由开发人员来修复它。  软件就是这样吗？这正常吗？这让我觉得也许他不好，或者他甚至可以故意把它弄坏来“修复它”。并不断赚钱，我怀疑他会这么做，但谁知道呢，我不会！  你觉得怎么样？    由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aj17rs/software_always_breaking/</guid>
-      <pubDate>Sun, 04 Feb 2024 22:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Windows 媒体控制器/媒体信息淋浴</title>
-      <link>https://www.reddit.com/r/software/comments/1aiyewk/looking_for_a_windows_media_controller_media_info/</link>
-      <description><![CDATA[嗨！ 我正在寻找某种程序，能够显示当前播放的歌曲名称、艺术家姓名和小窗口中的缩略图。我不需要应用程序具有媒体控件，但如果它具有媒体控件也不会成为问题。 我特别想将其用于 Spotify，因为桌面应用程序没有迷你播放器（或者我太笨了才找到它）。我尝试过“洛菲” ，但是这是通过您的帐户运行的，需要互联网连接，我不喜欢这一点，因为我并不总是有连接，并且由于所述互联网而改变歌曲时速度很慢。   由   提交 /u/Katzenmlnze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aiyewk/looking_for_a_windows_media_controller_media_info/</guid>
-      <pubDate>Sun, 04 Feb 2024 21:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找SpiderOak的替代品（在线备份）</title>
-      <link>https://www.reddit.com/r/software/comments/1aiycxk/looking_for_a_replacement_for_spideroak_online/</link>
-      <description><![CDATA[我已经使用 SpiderOak 进行云备份很长时间了。这很好，因为它具有零知识加密，这意味着即使他们的服务器被黑客攻击，我的文件仍然是安全的。  但是，SpiderOak 一直存在一些连接问题，从访问他们的网站来看，他们似乎正在从事不同的业务，我不确定他们是否不再销售这项服务。 所以，在它崩溃之前，我想搬家。使用零知识加密进行云备份有哪些不错的选择？它必须在 Windows 上运行，并且最好能保留一段时间的文件历史记录。   由   提交 /u/rebbsitor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aiycxk/looking_for_a_replacement_for_spideroak_online/</guid>
-      <pubDate>Sun, 04 Feb 2024 20:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>mac上有免费的按键宏吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1aixi1b/are_there_any_free_keypressing_macros_on_mac/</link>
-      <description><![CDATA[我发现的每个按键宏要么是恶意软件，要么是付费的。   由   提交 /u/Terrible_Pie_8593   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aixi1b/are_there_any_free_keypressing_macros_on_mac/</guid>
-      <pubDate>Sun, 04 Feb 2024 20:23:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
