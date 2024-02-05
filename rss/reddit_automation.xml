@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 04 Feb 2024 21:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 01:16:37 GMT</lastBuildDate>
+    <item>
+      <title>如何从非结构化文档中自动提取数据？</title>
+      <link>https://www.reddit.com/r/automation/comments/1aj0i97/how_do_you_automate_data_extraction_from/</link>
+      <description><![CDATA[大家好！  我目前正在开发一个项目，用于自动从非结构化文档中提取数据，特别关注发票、收据和银行对账单。这些文档有不同的格式和布局，使得任务非常具有挑战性。  我正在探索 OCR（光学字符识别）将这些文档转换为文本格式，然后使用 NLP（自然语言处理）技术来识别和提取关键信息，例如日期、金额和供应商名称。我尝试过用于 OCR 的 Tesseract 等工具以及用于 NLP 的 NLTK 或 spaCy 等库，但它们的效果并不是那么好。  我很想听听从事过类似项目的人的来信。您发现哪些工具或方法有效？您的见解和经验将会有所帮助。谢谢。   由   提交/u/Ok-Breath-1445   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1aj0i97/how_do_you_automate_data_extraction_from/</guid>
+      <pubDate>Sun, 04 Feb 2024 22:27:54 GMT</pubDate>
+    </item>
     <item>
       <title>照明</title>
       <link>https://www.reddit.com/r/automation/comments/1airb7h/illumination/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想获取本地（或全国）企业的名称和电子邮件列表。有什么想法如何创建这样的数据库吗？喜欢抓取在线数据和网站吗？ 任何输入都会有帮助。 谢谢   由   提交 /u/jackgremay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19eq0tp/scrape_business_info/</guid>
       <pubDate>Wed, 24 Jan 2024 20:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络或移动应用程序可以帮助您的业务蓬勃发展吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/19ed8qu/could_a_web_or_mobile_app_help_your_business/</link>
-      <description><![CDATA[如果您可以免费为您的企业开发一款应用程序，它的主要功能是什么？或者您希望它自动化哪些流程？   由   提交 /u/ApikoDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/19ed8qu/could_a_web_or_mobile_app_help_your_business/</guid>
-      <pubDate>Wed, 24 Jan 2024 09:29:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
