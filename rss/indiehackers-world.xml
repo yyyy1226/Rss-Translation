@@ -4,7 +4,22 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 06 Feb 2024 01:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 03:20:44 GMT</lastBuildDate>
+    <item>
+      <title>为什么要构建开源 SaaS</title>
+      <link>https://feed.indiehackers.world/post/6d71e67952</link>
+      <description><![CDATA[
+加州建立了强大的社区和生态系统。这不是一件容易克隆的事情。尤其是当你是克隆人时。
+Cal 在其产品方面拥有深厚的内部技术专业知识。克隆人则不然。当卡尔做出重大改变时，克隆人可能会遇到很多麻烦。更不用说他们可能做出的任何许可更改。
+
+如今，代码在很大程度上已成为一种商品。只需几十万美元，您就可以克隆大多数应用程序。无论它们是开源的还是闭源的。
+困难的部分是建立业务。其中包括分销。作为 1:1 的模仿者，很难获得显着的吸引力。
+Rocket Internet 以复制业务而闻名，并取得了一些成功。但在大多数情况下，经营一家模仿公司是行不通的。
+尽管我刚才说了这么多，但让你的代码公开还是存在合理的担忧。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/6d71e67952</guid>
+      <pubDate>Tue, 06 Feb 2024 02:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>💨 SaaS 样板：构建公共人工智能功能，将您的专业知识货币化</title>
       <link>https://feed.indiehackers.world/post/cc756fa42c</link>
@@ -114,7 +129,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[大家好，
 我希望得到有关我的 MVP 的任何类型的反馈（正面或负面）。我什至懒得在这里介绍它，因为我希望登陆页面和网络应用程序能够说明一切。 :) 
 期待听到您的所有反馈！
-https://bizbuz.ca
+https://trybizbuzz.com
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/04e83f2f28</guid>
       <pubDate>Mon, 05 Feb 2024 16:51:17 GMT</pubDate>
@@ -123,7 +138,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>参加为期 30 天的从初创概念到吸引投资者的原型的旅程。</title>
       <link>https://feed.indiehackers.world/post/00c9c07837</link>
       <description><![CDATA[通过以下链接了解更多信息：https://zade.agency/launchkit/
-准备好下个月进入市场了吗？联系ivan@z ade.agency我们会成功的发生。
+准备好下个月进入市场了吗？联系 ivan@z ade.agency我们会成功的发生。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/00c9c07837</guid>
       <pubDate>Mon, 05 Feb 2024 16:31:33 GMT</pubDate>
@@ -154,14 +169,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6482f28fd6</guid>
       <pubDate>Mon, 05 Feb 2024 16:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天在菲律宾推出 ResumeBoostAI v2.0！ 🚀</title>
-      <link>https://feed.indiehackers.world/post/f11d4e8710</link>
-      <description><![CDATA[ResumeBoostAI 是一款使用人工智能改进简历要点、创建求职信、回答常见工作问题等的工具。节省大量时间，立即开始找到您梦想的工作。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f11d4e8710</guid>
-      <pubDate>Mon, 05 Feb 2024 15:06:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
