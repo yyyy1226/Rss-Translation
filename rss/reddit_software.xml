@@ -4,13 +4,13 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 18:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 21:16:39 GMT</lastBuildDate>
     <item>
-      <title>有没有带即时回放功能的录音软件？ （如皮影戏）</title>
-      <link>https://www.reddit.com/r/software/comments/1akeukq/are_there_any_recording_softwares_that_have_a/</link>
-      <description><![CDATA[我以前用过 Shadowplay，但是该死的，太糟糕了。我寻找替代方案并找到了 OBS，但我尝试使用重播缓冲区，让我告诉你，我认为旧游戏可以在现代计算机上以超过 20 FPS 的速度运行，但重播缓冲区证明我错了。我找到了 Overwolf，但你也可以安装 Bonzi Buddy。你们知道这些吗？我喜欢剪辑有趣的时刻，或者只是我在不同游戏中达到巅峰的时刻。  我需要即时重播功能的主要原因是因为我正在收集《TF2》中发生在我身上的有趣时刻的片段，以制作最终视频。    由   提交 /u/mySynka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1akeukq/are_there_any_recording_softwares_that_have_a/</guid>
-      <pubDate>Tue, 06 Feb 2024 17:12:24 GMT</pubDate>
+      <title>有没有内置 JScript 支持的 adobe acrobat 替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1aki31i/any_adobe_acrobat_alternatives_that_also_have/</link>
+      <description><![CDATA[ 由   提交 /u/MuseSingular   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aki31i/any_adobe_acrobat_alternatives_that_also_have/</guid>
+      <pubDate>Tue, 06 Feb 2024 19:23:44 GMT</pubDate>
     </item>
     <item>
       <title>用于跨设备本地同步文件夹的软件</title>
@@ -48,7 +48,7 @@
       <pubDate>Tue, 06 Feb 2024 11:38:37 GMT</pubDate>
     </item>
     <item>
-      <title>减轻软件配置负担-物联网公司</title>
+      <title></title>
       <link>https://www.reddit.com/r/software/comments/1ak6p6q/easing_the_burden_of_software_configuration_iot/</link>
       <description><![CDATA[我曾在几家 B2B 软件公司工作过，配置似乎总是每个人最不喜欢的工作。我所说的配置是指您需要修改的所有内容，以使软件能够在特定实例/帐户/客户/设置上实际运行。 对于移动应用程序等消费类软件，我想这不是一个问题，因为它无法扩展。我只开发过 B2B 软件，其许可证为每年 5 万以上，并且该软件需要客户数据，因此总是需要一定程度的定制。理想情况下最小化，但它总是存在，并且您构建的功能越多，它就会变得越复杂。 配置很糟糕，没有人愿意这样做。我认为使其发挥作用的唯一方法是强调简单、稳健、易于学习的流程。最终，您希望客户自己拥有配置过程 - 要实现这一点，您需要大幅降低复杂性。 我想您可以构建一个工具列表，例如：&lt; /p&gt;  代码 - 开发人员进行配置 脚本 命令行界面 托管笔记本 简单的 UI 生产质量 UI - 内部用户 生产质量 UI - 外部用户  目前我的公司处于托管笔记本领域- 我们的内部工具在最坏的情况下只是 git repo 上的脚本，在最好的情况下是 databricks 上的托管笔记本。我认为 databricks 是一个合理的选择 - 让某人使用 databricks 笔记本并通过小部件进行交互并不需要大量的技能提升。然而，也许有一个我们不知道的明显选择。无论如何，我认为在我们迈向客户管理的配置过程的过程中，我们可能需要构建简单的内部工具，以避免将工具炸成巨大且不可能的东西 - 我们有大量的“UI 工具”已经讨论了一年多的项目，结果是零阶段性进展。 寻找任何关于某人如何解决这个问题的真正经验 - 让我知道！ &lt; /div&gt;  由   提交 /u/garyothergary   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ak6p6q/easing_the_burden_of_software_configuration_iot/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>寻找 Autodesk Maya 的旧硬拷贝</title>
       <link>https://www.reddit.com/r/software/comments/1ajsy6t/looking_for_old_hard_copies_of_autodesk_maya/</link>
-      <description><![CDATA[我正在寻找愿意向我出售旧版 Autodesk Maya 硬拷贝的人。我喜欢收集，但最终我正在寻找他们采用基于订阅的计划之前的最后一张 DVD。 我有一些旧版本，例如 8.5 2010 和 2011，我正在尝试寻找其他版本。任何人都知道除了 eBay 之外还有一个不错的市场吗？ 几乎已经对这个市场造成了很大的打击。 我不是在寻找培训手册，而且通常它们不附带软件包 编辑：有几个人试图向我推销手册，说它带有 Maya   由   提交 /u/Relative_Move   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找愿意向我出售旧版 Autodesk Maya 硬拷贝的人。我喜欢收集，但最终我正在寻找他们进行订阅计划之前的最后一张 DVD。 我有一些旧版本，例如 8.5 2010 和 2011，我正在尝试寻找其他版本。任何人都知道除了 eBay 之外还有一个不错的市场吗？ 几乎已经对这个市场造成了很大的打击。 我不是在寻找培训手册，而且通常它们不附带软件包 编辑：有几个人试图向我推销手册，说它带有 Maya   由   提交 /u/Relative_Move   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ajsy6t/looking_for_old_hard_copies_of_autodesk_maya/</guid>
       <pubDate>Mon, 05 Feb 2024 22:01:36 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>数千名软件工程师表示就业市场正在变得更糟</title>
       <link>https://www.reddit.com/r/software/comments/1ajpeef/thousands_of_software_engineers_say_the_job/</link>
-      <description><![CDATA[软件工程就业市场面临日益激烈的竞争由于全行业的低迷和人工智能的威胁而造成的困难。许多软件工程师对寻找类似薪酬的新工作表示悲观。该领域不再被视为安全专业，人工智能工具开始影响工作保障。    由   提交 /u/ResolutionLong7354   [链接] [评论]]]></description>
+      <description><![CDATA[软件工程就业市场面临着日益激烈的竞争由于全行业的低迷和人工智能的威胁而造成的困难。许多软件工程师对寻找类似薪酬的新工作表示悲观。该领域不再被视为安全专业，人工智能工具开始影响工作保障。    由   提交 /u/ResolutionLong7354   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ajpeef/thousands_of_software_engineers_say_the_job/</guid>
       <pubDate>Mon, 05 Feb 2024 19:38:48 GMT</pubDate>
     </item>
