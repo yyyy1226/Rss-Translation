@@ -4,7 +4,7 @@
     <title>聊天GPT |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 07 Feb 2024 12:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 15:19:33 GMT</lastBuildDate>
     <item>
       <title>5 个必须使用 OpenAI API 密钥尝试的 ChatGPT 应用程序</title>
       <link>https://feed.indiehackers.world/post/bc1edc26ba</link>
@@ -18,19 +18,6 @@ SwiftGPT 是专为 Mac 用户设计的 ChatGPT 应用程序。除了允许您使
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bc1edc26ba</guid>
       <pubDate>Mon, 27 Nov 2023 19:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们在 MRR 达到 1000 美元后推出了 ProductHunt，结果发生了。</title>
-      <link>https://feed.indiehackers.world/post/52b9cfe452</link>
-      <description><![CDATA[我们在 ProductHunt 上推出，现在我们是当天排名第三的产品！
-独立黑客们大家好，
-我们一直在 Twitter 上分享我们的旅程，因此我们在 PH 上有了一个良好的开端。最近，我们的 ChatGPT PDF 工具的 MRR 达到了 1000 美元。我们花了 4 个月的时间才达到这个里程碑。我们决定推出 ProductHunt，以吸引更多需要该工具的人。现在我们是当今排名第三的工具！
-如果您在 ProductHunt 上，如果您能在这段成为当日排名第一产品的旅程中为我们提供支持，我们将不胜感激。
-这是 ProductHunt 链接。一如既往，我们乐于接受反馈。
-https://www.producthunt.com/posts/documind
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/52b9cfe452</guid>
-      <pubDate>Sat, 04 Nov 2023 19:56:22 GMT</pubDate>
     </item>
     <item>
       <title>Chatgpt 之类的 SaaS 有用吗？</title>
@@ -189,6 +176,18 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/263b079954</guid>
       <pubDate>Wed, 05 Jul 2023 20:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 与其前身有何不同？</title>
+      <link>https://feed.indiehackers.world/post/7831ed0715</link>
+      <description><![CDATA[4- 尖端图像解释和处理：
+GPT-4拥有最先进的图像解释和处理能力，使其能够有效地分析和处理各种应用的图像，为未来图像相关任务铺平道路。
+5- 先进的少样本学习能力：
+GPT-4 展示了以最少的接触示例快速掌握和执行新任务的能力，展示了其先进的少样本学习能力。
+查看原始帖子
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7831ed0715</guid>
+      <pubDate>Wed, 05 Jul 2023 11:02:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
