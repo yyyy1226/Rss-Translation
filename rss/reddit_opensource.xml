@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 09 Feb 2024 09:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:33:44 GMT</lastBuildDate>
+    <item>
+      <title>2 月 15 日，我将在欧洲议会请愿委员会上发表讲话，讨论通过 Google Play Protect 和 SafetyNet 在运行 Android 的设备上进行软件认证以及它如何影响竞争对手，如果您想实时关注，请点击以下链接。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1amly07/on_february_15th_i_will_be_speaking_at_the/</link>
+      <description><![CDATA[ 由   提交/u/eirexe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1amly07/on_february_15th_i_will_be_speaking_at_the/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自疲惫的维护人员的笔记</title>
+      <link>https://www.reddit.com/r/opensource/comments/1amlpyc/notes_from_a_tired_maintainer/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1amlpyc/notes_from_a_tired_maintainer/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>您是否曾经创建过 FOSS 项目然后放弃它？</title>
       <link>https://www.reddit.com/r/opensource/comments/1amk7e3/did_you_ever_create_a_foss_project_and_then/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交 /u/ipsirc   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1alrdn1/how_would_you_build_an_operating_system_and_a/</guid>
       <pubDate>Thu, 08 Feb 2024 08:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gloire：使用 Ironclad 内核和 GNU 工具构建的操作系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aln4s3/gloire_an_os_built_with_the_ironclad_kernel_and/</link>
-      <description><![CDATA[      https://ironclad.nongnu.org/ Ironclad 是一个经过正式验证、具有硬实时能力的内核，适用于通用和嵌入式用途，用 SPARK 编写和艾达。   由   提交/u/jaypatelani  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aln4s3/gloire_an_os_built_with_the_ironclad_kernel_and/</guid>
-      <pubDate>Thu, 08 Feb 2024 04:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向学生的开源应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</link>
-      <description><![CDATA[我想知道我向大学生推荐哪些应用程序，我说的是日历和待办事项应用程序等易于与 Android 集成的应用程序应用程序和 Linux 桌面应用程序。  我一直一团糟，我从谷歌及其所有网络应用程序开始，但我想改变并找到了 notion，但是尽管 notion 拥有一切，但 android 应用程序看起来很糟糕并且很难使用，没有办法创建一个好的日历或一个有效的待办事项。  我也尝试过黑曜石，它是效果最好的一个，但事实上，我无法在不付费的情况下将其与云同步，这让我很沮丧。   由   提交 /u/Druxorey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</guid>
-      <pubDate>Thu, 08 Feb 2024 02:40:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
