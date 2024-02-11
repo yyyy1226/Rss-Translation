@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 11 Feb 2024 15:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 18:22:34 GMT</lastBuildDate>
+    <item>
+      <title>独立黑客帖子：第 3 周回顾 - 使用 Simulit 应对挑战并庆祝里程碑</title>
+      <link>https://feed.indiehackers.world/post/b249a74495</link>
+      <description><![CDATA[您发展项目社区的策略是什么？您有什么建议或经验想分享吗？将您的想法写在下面，让我们互相学习！
+祝大家接下来的一周富有成效！ 🚀
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b249a74495</guid>
+      <pubDate>Sun, 11 Feb 2024 16:40:16 GMT</pubDate>
+    </item>
     <item>
       <title>Show IH：Promptotype - 开发、测试和监控您的 LLM {结构化}任务</title>
       <link>https://feed.indiehackers.world/post/6cad942f62</link>
@@ -154,19 +163,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d815191a2d</guid>
       <pubDate>Sat, 10 Feb 2024 18:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序依赖关系仪表板</title>
-      <link>https://feed.indiehackers.world/post/ca47627d8e</link>
-      <description><![CDATA[大家好！
-我正在为处理项目依赖项的工程师和技术领导者推出一款应用程序。其目的是查找所有 NuGet、NPM 和 Maven 应用程序依赖项，显示其版本并突出显示过期的依赖项。此应用程序有助于保持项目之间的依赖关系一致并保持最新。
-演示链接：https://demo-dependency.itbusina.com
-安装说明：
-docker run -p 5000:8080 -e GITHUB_API_BASE_URL=https://api.github.com -e GITHUB_ACCESS_TOKEN={访问令牌} -e PROJECTS=dotnet/aspnetcore --name dependency-dashboard -d kbahdanovich/dependency-dashboard:latest
-我希望您尝试一下并分享您的反馈。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ca47627d8e</guid>
-      <pubDate>Sat, 10 Feb 2024 17:56:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
