@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 12:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 15:19:59 GMT</lastBuildDate>
+    <item>
+      <title>寻求帮助使产品开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aoa5t2/looking_for_help_making_a_product_open_source/</link>
+      <description><![CDATA[我希望可以在这里发布此内容，如果没有，我很抱歉！说来话长，但我最终拥有了一款管理农产品仓库的 SAS 产品。该平台是古老的，需要更新。它在前端运行 Tomcat，在后端运行 MS Sql。我积极地告诉客户留下这个旧东西，但它的客户似乎很困在这个平台上，因为它做了一些独特的事情。我开始想知道我是否可以以某种方式更新这个东西并将其开源。让它在 Maria DB 上运行，也许还有 Ruby 或其他东西。  糟糕的是，我是基础设施服务器人员，而不是开发人员，所以虽然我可以保持它运行，但除此之外我有点卡住了。我愿意在这整件事上投入一些钱，但我只是没有疯狂的预算，因为这个平台并没有真正为我带来任何东西。我真的不认为该网站不仅仅是一堆以某种方式排列的表格，但我可能是错的。看起来很简单。  我收到了数以万计的报价，这远远超出了我愿意支付的价格，但我愿意向对此类内容感兴趣的开发人员支付相当可观的小时费率，如果我们能以某种方式可以开发出我可以为他们提供更一致的产品。但我很想找到一个可以帮助我更新这个东西并将其全部开源的人。即使我无法更新它，我也宁愿它在开源世界中而不是在开源世界中。如果我可以对其进行现代化改造，我只会对 SAS 托管版本收取月费，但让任何人下载社区版本等。你们都知道商业模式。因此，如果您认识任何拥有此技能且不介意从事兼职工作的人，请给我发私信。谢谢！   由   提交 /u/tdreampo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aoa5t2/looking_for_help_making_a_product_open_source/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个新的等宽版本的 Minecraft 字体，带有不必要的连字，现在是矢量 y 了！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ao8uaf/i_created_a_new_monospaced_version_of_the/</link>
+      <description><![CDATA[我始终相信使用自己制作的东西，这很不幸，因为我制作了 Monocraft。在过去的一年里，我在编码时一直盯着这些像素，所以周末我尝试制作一个更清晰的 Monocraft 版本。隆重推出 Miracode，一种真正可用的 Minecraft 编程字体！ 使用自定义算法，我已将相邻像素从将原始字体转换为笔画，这样可以在保持 Minecraft 风格外观的同时获得更平滑的外观。尝试一下，让我知道您的想法：https://github.com/IdreesInc/Miracode  &lt; /div&gt;  由   提交 /u/IdreesInc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ao8uaf/i_created_a_new_monospaced_version_of_the/</guid>
+      <pubDate>Sun, 11 Feb 2024 14:12:59 GMT</pubDate>
+    </item>
     <item>
       <title>PeaZip 9.7.0 发布！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ao52dt/peazip_970_released/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我目前正在考虑一个我想做的项目。但我没有足够的编程经验来实现这一目标，所以我希望其他人加入我的想法。但提出项目想法的正确地点在哪里呢？在这个 Reddit 子版块中还是这太过自我广告了？或者有更好的方式来发布想法吗？   由   提交/u/kinkyMars   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1amxb9k/where_to_propose_a_open_source_idea/</guid>
       <pubDate>Fri, 09 Feb 2024 20:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>是不是感觉 MIT 比 Apache 更不受青睐？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1amsq4v/does_it_seem_like_mit_is_not_favored_over_apache/</link>
-      <description><![CDATA[编辑：最糟糕的拼写错误，我的意思是“看起来 MIT 比 Apache 更受欢迎吗” 主要卖点Apache 似乎是在对抗专利流氓，据我所知，这仅在美国重要？但是有很多新的开源项目（例如 Go 编程语言）选择了非常宽松的许可证？那么为什么这些人不关心专利流氓呢？我应该吗？   由   提交/u/i_need_gpu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1amsq4v/does_it_seem_like_mit_is_not_favored_over_apache/</guid>
-      <pubDate>Fri, 09 Feb 2024 16:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器 API 网关</title>
-      <link>https://www.reddit.com/r/opensource/comments/1amq9ak/serverless_api_gateway/</link>
-      <description><![CDATA[我知道我们大多数人都遇到过 API 网关问题。我也有过这种情况，然后我决定开发一种新型的 API 网关。 这里是 Serverless API 网关 https:// github.com/irensaltali/serverlessapigateway 您下载并部署到您自己的 Cloudflare Workers。它具有所有最基本的功能：  路由（路径和方法） CORS - AUTH (JWT) 价值映射 高度可扩展（感谢 Cloudflare Workers） 速度极快（路由需要 2 毫秒） 在边缘运行且最便宜（甚至对大多数网站来说都是免费的）。  我将向无服务器 API 网关添加令人难以置信的功能，同时保持提高质量。您可以将其视为版本 1.0.1，请尝试一下，分享评论，如果遇到问题请提出问题，并且不要忘记在 GitHub 上加注星标。 我还创建了用于部署 Serverless API Gateway 的 GitHub 操作。您现在可以使用 GitHub 操作轻松进行部署。您只需添加配置即可。文档：https://github.com/irensaltali/ serverlessapigateway/blob/main/README.md   由   提交 /u/irensaltali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1amq9ak/serverless_api_gateway/</guid>
-      <pubDate>Fri, 09 Feb 2024 15:09:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
