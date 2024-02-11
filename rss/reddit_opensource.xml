@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 10 Feb 2024 21:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 01:21:35 GMT</lastBuildDate>
+    <item>
+      <title>自然显示计算器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1antkgk/natural_display_calculator/</link>
+      <description><![CDATA[存在吗？   由   提交 /u/MRgabbar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1antkgk/natural_display_calculator/</guid>
+      <pubDate>Sat, 10 Feb 2024 23:27:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找供应商订单管理软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1anqv47/looking_for_a_supplier_order_management_software/</link>
+      <description><![CDATA[大家好，我正在寻找一个非常简单的自托管软件，允许我： - 登录使用用户名和密码 -输入供应商名称 -输入购买的产品 -检查产品是否已交付给我们或是否尚未到达 - 输入应该发送给哪个客户 仅此而已，我们只需要了解我们是否已向供应商下了订单，是否已交付或是否仍在运行或是否比预计日期晚了 您知道有什么免费软件可以让您自行托管吗？   由   提交 /u/Puppapuppa11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1anqv47/looking_for_a_supplier_order_management_software/</guid>
+      <pubDate>Sat, 10 Feb 2024 21:26:50 GMT</pubDate>
+    </item>
     <item>
       <title>我们构建了 MagicPrompts 并将其开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1anopva/we_built_magicprompts_and_made_it_opensource/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>开源邮箱？</title>
       <link>https://www.reddit.com/r/opensource/comments/1anmp77/open_source_mail_box/</link>
-      <description><![CDATA[我目前在笔记本电脑上运行 Windows，因为我的 wifi 芯片没有支持 Linux 的驱动程序。我会尽可能避免不必要的和非开源的应用程序。 我正在寻找一个可以放置我所有电子邮件地址（我的大学、gmail、icloud...）的邮箱。 。有人有什么可以推荐的吗？ 谢谢。   由   提交/u/Le_destructeur666   [链接] [评论]]]></description>
+      <description><![CDATA[我目前在笔记本电脑上运行 Windows，因为我的 wifi 芯片没有支持 Linux 的驱动程序。我尝试尽可能避免不必要的非开源应用程序。 我正在寻找一个邮件客户端，可以在其中放置我所有的电子邮件地址（我的大学、gmail、icloud... ）。有人有什么可以推荐的吗？ 谢谢。   由   提交/u/Le_destructeur666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1anmp77/open_source_mail_box/</guid>
       <pubDate>Sat, 10 Feb 2024 18:22:24 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/eirexe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1amly07/on_february_15th_i_will_be_speaking_at_the/</guid>
       <pubDate>Fri, 09 Feb 2024 11:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自疲惫的维护人员的笔记</title>
-      <link>https://www.reddit.com/r/opensource/comments/1amlpyc/notes_from_a_tired_maintainer/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1amlpyc/notes_from_a_tired_maintainer/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否曾经创建过 FOSS 项目然后放弃它？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1amk7e3/did_you_ever_create_a_foss_project_and_then/</link>
-      <description><![CDATA[我知道创建一个 FOSS 项目然后放弃它有很多正当理由。 失去兴趣，继续前进对于其他解决方案，您的原因是什么？我有兴趣学习。   由   提交/u/ReneSchmidt_o7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1amk7e3/did_you_ever_create_a_foss_project_and_then/</guid>
-      <pubDate>Fri, 09 Feb 2024 09:17:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
