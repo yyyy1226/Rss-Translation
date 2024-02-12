@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 12 Feb 2024 15:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:23:04 GMT</lastBuildDate>
+    <item>
+      <title>BURST——“我们今天无法重制 VLC”：J.-B. Kempf (Videolan) [法国]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ap56us/burst_on_ne_pourrait_pas_refaire_vlc_aujourdhui/</link>
+      <description><![CDATA[       由   提交/u/wisi_eu  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ap56us/burst_on_ne_pourrait_pas_refaire_vlc_aujourdhui/</guid>
+      <pubDate>Mon, 12 Feb 2024 17:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>#4opens 框架提供了一套用于测试、评估和促进进步的社会和技术项目的原则。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ap1r2x/the_4opens_framework_provides_a_set_of_principles/</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[    &lt; /a&gt;  一开始是为了了解更多有关神经网络的个人努力，但我有点得意忘形了，不断完善它并添加更多功能:) 我最近使用 Vulkan 计算着色器在 GPU 上运行它🎉 这是一个 CLI 应用程序，您只需在其中描述网络的形状一个 json 配置文件并将其指向您的训练数据，然后在评估模式下再次运行它并将其指向以前从未见过的一些数据，它将尝试对每个样本进行分类。 如果您&#39;如果您对神经网络感兴趣，您希望会发现代码非常可读，并且我已在 Documentation/math.pdf 中编写了数学内容。 目前这是一项正在进行的工作。我有一大堆积压的功能想要添加，所以请注意这个空间:)   由   提交/u/LlaroLlethri   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aowzp3/for_those_interested_in_neural_nets_ive_spent_the/</guid>
       <pubDate>Mon, 12 Feb 2024 10:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>DIY 分体式键盘（游戏手柄），带有鼠标或操纵杆等额外模块，3D 打印</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aowjqy/diy_split_keyboard_gamepad_with_extra_modules/</link>
-      <description><![CDATA[    /u/Ape_Devil   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aowjqy/diy_split_keyboard_gamepad_with_extra_modules/</guid>
-      <pubDate>Mon, 12 Feb 2024 09:58:31 GMT</pubDate>
     </item>
     <item>
       <title>SharpWeather - 用 C# 制作的 CLI 天气工具。</title>
