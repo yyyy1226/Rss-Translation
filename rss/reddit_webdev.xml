@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Feb 2024 18:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 01:16:10 GMT</lastBuildDate>
     <item>
-      <title>现代 PHP/mySQL 虚拟主机？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap5xv5/modern_phpmysql_web_hosting/</link>
-      <description><![CDATA[我只是想说我不是专业人士。我白天是一名 IT 人员，忙于网络开发。我所做的大部分工作都是自行托管的，因此我正在寻找一个地方来开始开发网络应用程序作为小型企业。它需要 PHP（如果可能的话，希望使用 Composer）、mySQL 以及一种发送电子邮件的简单方法，甚至可能上传/访问云托管文件（如 Amazon S3 等）。还需要一个类似 cpanel 的系统来管理它（设置 cron 作业或计划任务将非常有帮助）。 ​ 是否有任何“”？行业标准领导者”你会推荐吗？我认为目前我的要求应该是基本和通用的，但我很好奇人们现在在使用什么。   由   提交/u/thingmabobby   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap5xv5/modern_phpmysql_web_hosting/</guid>
-      <pubDate>Mon, 12 Feb 2024 17:46:20 GMT</pubDate>
+      <title>希望聘请一名网络开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</link>
+      <description><![CDATA[希望为特定用例构建一个专注于房地产的网站。 1. 我对网站的初始版本有一些基本功能的想法。 2. 开发人员应该能够轻松地完成前端（包括设计）和后端工作。 3. 开发商应熟悉MLS/IDX集成等房地产技术。 4. 应位于北美（墨西哥可以）。旧金山湾区本地人优先。 5. 请直接与我联系。在 DM 中分享您过去的项目或工作。   由   提交/u/Random-Cloud  /u/Random-Cloud  reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>我如何在 2 小时内构建并启动人工智能求职板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4ymd/how_i_built_and_launched_a_job_board_for_ai_in_2/</link>
-      <description><![CDATA[       由   提交 /u/WordyBug   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4ymd/how_i_built_and_launched_a_job_board_for_ai_in_2/</guid>
-      <pubDate>Mon, 12 Feb 2024 17:07:06 GMT</pubDate>
+      <title>为第三方构建小部件，iframe 与注入 html/css/scripts？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</link>
+      <description><![CDATA[我正在构建一个反馈小部件，其他网站可以将其嵌入到其页面中。在查看其他服务如何解决此问题时，我发现了两种方法： 1) Doorbell 注入所有 CSS、HTML 和需要 JavaScript 才能将小部件运行到您的网站中。 2) Feedback Fish 为您提供一个小脚本以添加到您的网站。然后，此脚本将一个 iframe 注入您的网站，该网站显示一个由反馈托管的 小部件页面Fish inside a popup. 选项 2 似乎是最好的选择，您可以使用任何您想要构建小部件页面的工具（React、Tailwind 等），而不必担心小部件的捆绑包大小，它允许您构建更复杂的功能，而不用担心与主机站点的样式冲突等。它似乎只是提供了更多的整体控制。然而，大多数此类服务似乎都选择第一个选项，并将所需的一切注入到您的网站中。 我缺少什么，选项 2 的缺点是什么？   由   提交 /u/ReactiveNative   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>什么（除了长时间运行的 javascript 或布局）会导致丢帧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4lgt/what_besides_longrunning_javascript_or_layout_can/</link>
-      <description><![CDATA[      这是我在 Chrome 中捕获的性能跟踪，显示大多数帧被丢弃（红色方块），但没有长时间运行的代码或布局明显导致这些帧丢失。帧通过网络传输，因此我怀疑它可能是网络绑定的（我在同事的计算机上捕获了跟踪，因此我必须去检查），但我不希望这会导致客户端出现丢帧警告。任何其他可能导致 Chrome 显示“丢帧”的情况警告？ https://preview .redd.it/n7wjd1fvo6ic1.png?width=594&amp;format=png&amp;auto=webp&amp;s=4807204f2b823d485fdc463b722cb4a825025915   由   提交/u/BENWILEY4000   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4lgt/what_besides_longrunning_javascript_or_layout_can/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:52:43 GMT</pubDate>
+      <title>JSDOM 未运行 javascript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</link>
+      <description><![CDATA[我在使用 JSDOM 时遇到了问题。由于某种原因，我的 Jest 单元测试似乎在 JavaScript 加载之前运行。如何确保在测试运行之前加载 JavaScript？ ​ import {fireEvent, getByTestId} from &quot;@testing-library/dom&quot; ;从“路径”导入{目录名}；导入“@testing-library/jest-dom”从“jsdom”导入 jsdom, {JSDOM}从“路径”导入路径从“url”导入{ fileURLToPath }； const __filename = fileURLToPath(import.meta.url); const __dirname = dirname(__filename); const BASE = path.resolve(__dirname, &quot;./src&quot;) let virtualConsole let dom, body描述(&quot;手风琴测试&quot;, function () { beforeEach(async () =&gt; { dom = wait JSDOM.fromFile( path.join(BASE, &#39;/index.html&#39;), { url: `${BASE}`, runScripts: &quot;dangerously&quot;, resources: &quot;usable&quot;, fakeToBeVisual: true, // virtualConsole }) body = dom .window.document.body }) it(&#39;显示默认展开的第一个项目描述&#39;, async function () { const Accordion1 = getByTestId(body, &#39;1&#39;) const description1 = Accordion1.querySelector(&#39;.description&#39;) Expect (description1).toBeVisible() const ids = [&#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;] for (const id of ids) { const Accordion = getByTestId(body, id) const description = Accordion.querySelector (&#39;.description&#39;) Expect(description).not.toBeVisible() } }) .....  ​    提交者   /u/False-Owl8404   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>你去哪里上网？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4eqv/where_do_you_go_to_network/</link>
-      <description><![CDATA[亲自或在线。顺便说一句，我在西澳。    由   提交/u/future_web_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4eqv/where_do_you_go_to_network/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:45:11 GMT</pubDate>
+      <title>使用 Canvas Chart 寻找正确方向的凹口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</link>
+      <description><![CDATA[     &lt; td&gt; 我第一次制作饼图/圆环图画布图表，但在定位标签时遇到问题。我需要将它们全部放置在图表的右侧，总是位于他的范围附近。我对这一部分的理解是正确的。 我的问题是我希望所有标签与图表的距离相同，并且具有对称的外观。 我试图进行硬编码它带有条件，但由于标签的宽度而不同。我打赌一定有更好的方法，但我只是不知道该怎么做。 到目前为止我所拥有的： https://preview.redd.it/dadmlr8bw8ic1.png?width=329&amp;format=png&amp;auto= webp&amp;s=13ec4123cb4fe002d5eb2e304caa032e1a586c1c 我需要如何定位标签（Figma 设计）： ​ https://preview.redd.it/tstviwfhz8ic1.png?width=281&amp; ;format=png&amp;auto=webp&amp;s=53947a5dde0a3fd3399f6ccbd6dc37c12906602f函数drawDoughnutChart() {totalProductiveTime =秒ToDdHhMm(totalProductiveTime);总干扰时间=秒数ToDdHhMm(总干扰时间);总中立时间=秒数ToDdHhMm(总中立时间); const data = [ { 标签：&#39;生产&#39;，百分比：百分比生产，颜色：&#39;#f6fb15&#39;，时间：totalProductiveTime }，{ 标签：&#39;中性&#39;，百分比：百分比中性，颜色：&#39;#B1AEAE&#39;，时间：totalNeutralTime }， { 标签：&#39;Distractions&#39;，百分比：percentageDistractions，颜色：&#39;#6bfde3&#39;，时间：totalDistractionsTime } ]; data.sort((a, b) =&gt; b.percentage - a.percentage); data.forEach((entry) =&gt; { addData(entry.percentage,entry.color,entry.label,entry.time); });让大多数X = 0； ctx.clearRect(0, 0, canvas.width, canvas.height); var 总计 = value.reduce((acc, val) =&gt; acc + val, 0); var startAngle = -Math.PI / 34 - 125; var maxValueIndex = value.indexOf(Math.max(...values)); var 最大标签宽度 = 0; for (var i = 0; i &lt; labels.length; i++) { var labelWidth = ctx.measureText(labels[i]).width; if (labelWidth &gt; maxLabelWidth) { maxLabelWidth = labelWidth; } for (var i = maxValueIndex; i  mostX) { mostX = labelX; } else { labelX = mostX; var LabelWidth = ctx.measureText(labels[index]).width; console.log(&#39;LabelWidth&#39;, LabelWidth); ctx.zIndex = &#39;10&#39;; ctx.fillStyle = &#39;#000&#39;; ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;30px&#39; : &#39;20px&#39; } “这里又是我”，Arial`; ctx.textAlign = &#39;居中&#39;; ctx.fillText(标签[索引], labelX, labelY); var timeLabelText = times[index]; var timeLabelWidth = ctx.measureText(timeLabelText).width + 20; var timeLabelX = labelX &gt;;中心 X ?标签X + 10 : 标签X - 10; ctx.fillStyle = 颜色[索引];令水平除法 = 2.25； if (labels[index] == &#39;生产&#39;) { timeLabelWidth = timeLabelWidth - 10;水平除法 = 2.1； ctx.fillRect( timeLabelX - timeLabelWidth / splitHorizo​​ntally, labelY + 6, timeLabelWidth - 5, 20 ); ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;16.5px&#39; : &#39;13.5px&#39; } &quot;Inria Sans&quot;, Arial`; ctx.fillStyle = &#39;#000&#39;; ctx.textAlign = &#39;居中&#39;;让verticalPosition = labels[index] === &#39;生产&#39; ？ 22：20； ctx.fillText(timeLabelText, timeLabelX, labelY + 垂直位置);起始角度+=切片角度； } } &gt;    由   提交/u/foottaster123  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:37:26 GMT</pubDate>
     </item>
     <item>
-      <title>我应该如何处理我自己的 npm 包中的依赖项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4818/how_should_i_be_handling_dependencies_in_my_own/</link>
-      <description><![CDATA[我创建了一个使用现有包作为依赖项的包，但是当我安装自己的包时，我应该如何处理我的依赖项？我有一些想法：  将它们设置为我的包中的 PeerDependency。 运行 npm i &amp;&amp; npx tsc 在 postinstall 挂钩中。我安装依赖项，在安装的包中创建一个新的节点模块目录。它看起来像这样：   /my-repo ---/node_modules ------/my-package ---------/ node_modules   提供我自己的类型定义，我宁愿重用它们。 此外，将代码转译为dist 并将节点模块推送到 GitHub。现在不需要转译任何东西，因为一切都在那里。  有人吗？ 注意：包是基于 TypeScript 的。 编辑1：这是我第三次在子帖子上发布此内容。我希望这次有人能帮助我。   由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4818/how_should_i_be_handling_dependencies_in_my_own/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:37:40 GMT</pubDate>
+      <title>寻找一些构建前端的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</link>
+      <description><![CDATA[您好，我是一名正在从事 Web 开发的计算机专业学生。我正在开发一个使用express js作为后端的项目，并计划使用react或vue作为前端。这一切都很好，但我不擅长用 html 和 css 设计东西（我做了两件事，但我都不是很满意）。我向我的一个朋友提到了这一点，他们说我应该在 Figma 中设计它，但仔细查看它似乎实际上并没有原生生成 css/hmtl 文件。我看到还有一些其他工具，例如 Framer 和 Webflow，以及 Figma 插件，但我需要一些帮助来帮助我入门。我真的只是想要一些东西，让我能够轻松地重现我脑海中的布局/设计，并能够将 js 函数连接到元素。这是否存在，或者你们只是在文本编辑器中制作令人惊叹的网站😆 谢谢   由   提交 /u/DeepFrozeOof   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>Aceternity：用于构建登陆页面的 UI 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap45ii/aceternity_ui_library_for_building_landing_pages/</link>
-      <description><![CDATA[   /u/pink_tshirt  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap45ii/aceternity_ui_library_for_building_landing_pages/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:34:46 GMT</pubDate>
+      <title>仅对 MariaDB 中的特定列进行版本控制/试听（没有触发器？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</link>
+      <description><![CDATA[MariaDB 是否支持仅对特定表列而不是整个表进行版本控制/审核（更新/插入/删除查询），或者是唯一的方法手动创建触发器（并在表架构更改时维护它们）？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何在没有 mq 的情况下处理响应式字体大小？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap32ng/how_to_handle_responsive_fontsize_without_mq/</link>
-      <description><![CDATA[嘿，我们目前正在使用 `px`，只是我们计划在我们的网络应用程序中引入响应式字体大小。  你们如何处理响应式字体大小？我参加了 mq，但我的团队建议并要求我进行研究，以在没有 mq 的情况下实现这一目标。任何建议   由   提交/u/IAm_veg_biriyani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap32ng/how_to_handle_responsive_fontsize_without_mq/</guid>
-      <pubDate>Mon, 12 Feb 2024 15:50:28 GMT</pubDate>
+      <title>在我的动态 WordPress 新闻博客上不运行缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</link>
+      <description><![CDATA[大家好， 网络托管不是我的专长，所以请原谅任何愚蠢的行为。  我经营一个新闻风格的网站/博客，每月有 2 万用户。  目前使用的是 GCP e2-standard -2（2 VCPUS，8GB RAM）Openlitespeed 随着我们发布更新的方式和投放广告的方式发生新变化，我们已禁用缓存插件（WP Fastest Cache）。 这是一个错误的调用吗？缓存有多重要？我们可以不使用缓存吗？  进入 Pingdom：性能等级 72/页面大小 6.7MB/页面加载 4.55 秒/请求者 104  从我的测试来看，页面加载速度并没有那么快如果没有缓存，情况会更糟。  很想听听别人的想法。干杯!    由   提交/u/legofan420  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</guid>
+      <pubDate>Mon, 12 Feb 2024 23:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>Webflow 和 Swiper JS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap2mmx/webflow_and_swiper_js/</link>
-      <description><![CDATA[抱歉，我不知道这是否是正确的提问方式。 嘿，我不知道如何解决实现以下目标： 我只是希望页面上有一张幻灯片（居中：垂直和水平）并且幻灯片应该具有响应能力。它可以在 Webflow 预览版中运行，但不能在已发布的网站上运行（Swiper JS 处于活动状态）。 我已经尝试了不同的 Swiper JS 功能，但就是无法让它运行。也许我在 Webflow 中的定位有问题。 请问有人可以帮我解决这个问题吗？ 提前谢谢您！如果有人可以帮助我，我会提供提示... ​ Webflow 预览：https://preview.webflow.com/preview/ jeremias-网站？utm_medium=preview_link&amp; utm_source=designer&amp;utm_content=jeremias-website&amp;preview=6ecf36880c06e9bc498a423d890b6a35&amp;pageId=65ca0e8cfbd7c458cd242869&amp;workflow=preview 以下是示例：https://jackdavison.co.uk   由   提交/u/jerrykanzhalt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap2mmx/webflow_and_swiper_js/</guid>
-      <pubDate>Mon, 12 Feb 2024 15:31:10 GMT</pubDate>
+      <title>从 Tauri 的前端-->后端发送事件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</link>
+      <description><![CDATA[我正在制作一个小应用程序，它根据配置文件从 api 下载（不是那么重要，但我想无论如何我都会分享它）。我需要将带有用户选择的文件夹路径的字符串发送到后端。但是当我使用 emit 来执行此操作时，它总是解析为带有 some() 和一堆反斜杠的奇怪字符串。  ​ 前端代码片段：  import { open } from &#39;@tauri-apps/api/dialog&#39;;从&#39;@tauri-apps/api/event&#39;导入{emit}； async function showDialog() { const selected = wait open({ 目录: true, multiple: false, }); if (selected !== null) { const selectedValue = Array.isArray(selected) ?选定[0]：选定； selectedDir.set(selectedValue); console.log(selectedValue) 发出(&#39;selectedDirChanged&#39;, selectedValue); } }  后端代码片段： // On tauri::Builder::default() .setup(|app| { app.listen_global( &quot;selectedDirChanged&quot;, |dirchange| { letfolder_dir = dirchange.payload(); println!(&quot;得到路径为 {:#?} 的 selectedDirChanged&quot;,folder_dir); }); Ok(()) })  前端日志：D:\some\very\cool\folder\path 后端日志：got selectedDirChanged with path Some(  “\”D:\\\\some\\\\very\\\\cool\\\\folder\\\\path\&quot;&quot; ;, ) 注意：\\\\是因为windows希望与 \ 不同，它也是转义字符，因为当我用正斜杠替换它时，它只是一个。但这仍然是一个问题。 我已经阅读了所有有关事件的 2 分钟文档，并在网上查找了它，但没有人提到任何有关此的内容。 我是新来的一般编码，因此我们将不胜感激。   由   提交/u/SingleZero27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</guid>
+      <pubDate>Mon, 12 Feb 2024 23:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>学习 Web 开发的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap2m0a/suggetion_for_learning_web_dev/</link>
-      <description><![CDATA[嗨，我现在 18 岁。我想以网络开发人员的身份开始我的职业生涯。我从 2020 年开始就对 Web 开发感兴趣，但由于时间有限而无法学到很多东西。到今年年底，我将进入一所大学。所以我想全身心投入一条道路。我了解一点中间 HTML 和 CSS 以及初学者 js（不多），仅此而已。我什至不知道js后面是什么。我想在进入校队后参加在线付费课程（最好低于 100 美元）。请添加一些建议。我想给学习阶段6-9个月的时间，每天最多6个小时以上。所以艰苦的训练不是问题。我的目标是到 2026 年开始作为自由职业者赚钱，并到 2026 年底过上舒适的生活（±500 美元/月）。我非常期待您的建议。   由   提交 /u/Playful-Floor7523    reddit.com/r/webdev/comments/1ap2m0a/suggetion_for_learning_web_dev/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap2m0a/suggetion_for_learning_web_dev/</guid>
-      <pubDate>Mon, 12 Feb 2024 15:30:27 GMT</pubDate>
+      <title>寻求建议：新的简单用户目录平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</link>
+      <description><![CDATA[寻找一些可考虑开发网站的技术选项。每隔两年左右，我发现自己会做一个网络项目并学习一个新的技术平台来完成它。我正要开始另一个，但我太脱离现实了，我希望 Reddit 的好心人能帮助我缩小我应该考虑的选择范围。 我十年前就使用过 WP，但每次都这样我最近走近它，发现它又丑又臃肿（我错了吗 - 告诉我是否是这样？）。我当前的网站基本上是手工剪裁并使用 Hugo 构建的 - 没有 CMS，根本没有数据库或后端（不过速度很快）。这不适用于我的新项目。 我有一个新项目，我想将其放在一起。 这将是一种目录站点。有几个主页，简单的主题，用户可以在其中注册并创建他们的个人资料（提供服务），最好用他们的专业领域和服务的地理位置来标记他们的个人资料。  例如，如果这些是摄影师，他们可能会标记“婚礼”、“公司”、“肖像”等服务，然后标记“悉尼”、“墨尔本”等区域。 [我会想要限制实际可用的标签] 然后访问者可以搜索 weddings/Sydney 来查找人员并直接联系。这类事情。 所以我正在寻找一个开始的地方（10 年前是 WP）——我太脱离现实了，我不知道什么是当前的、好的、稳定的，并得到很好的支持。  [我精通技术 - 在技术行业工作了几十年，但不是这一部分，很高兴学习新东西以正确地完成工作，但不热衷于维护 CMS 所需的所有后端，并且我应该能够获取已经制作和维护的用户注册系统]。 十年前，我就开始使用 WP，看看我能找到什么。它有用户配置文件位、数据库和标签等。还有 Xenforo（我知道是随机的，但至少我知道它在那里）。 您会考虑什么来启动这样的项目？  欢迎您提出想法和想法。   由   提交/u/gerardv-anz  /u/gerardv-anz  reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</guid>
+      <pubDate>Mon, 12 Feb 2024 22:41:25 GMT</pubDate>
     </item>
     <item>
-      <title>ExBoost 简介：加速您的扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap2k0y/introducing_exboost_accelerate_your_extensions/</link>
-      <description><![CDATA[    /u/mattfriz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap2k0y/introducing_exboost_accelerate_your_extensions/</guid>
-      <pubDate>Mon, 12 Feb 2024 15:28:07 GMT</pubDate>
+      <title>让我笑了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</link>
+      <description><![CDATA[       由   提交/u/the_dancing_squirel  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</guid>
+      <pubDate>Mon, 12 Feb 2024 22:40:54 GMT</pubDate>
     </item>
     <item>
-      <title>需要良好的 Headless CMS 来实现国际化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap2d9y/good_headless_cms_for_internationalisation_needed/</link>
-      <description><![CDATA[我正在开发一个需要两种语言的网站。我正在考虑使用 NextJS 和 Sanity CMS 构建它，因为 Sanity 与 NextJS 配合得很好，并且可以部署到 Vercel。  尝试在 Sanity 中设置国际化后，我发现这很奇怪。有没有更好的无头 CMS 可以更好地实现我想要实现的目标？   由   提交/u/realSNG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap2d9y/good_headless_cms_for_internationalisation_needed/</guid>
-      <pubDate>Mon, 12 Feb 2024 15:19:45 GMT</pubDate>
+      <title>有什么建议可以从事副业吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</link>
+      <description><![CDATA[工作愉快，但有兴趣在晚上/周末接待一些副业客户，想知道什么是最有利可图、最受欢迎但最不耗时的服务专注在？为小型企业建立网站？为中型企业构建网络应用程序？为没有全职开发人员的公司管理/维护事物？基于票据的保留任何东西？   由   提交 /u/indiealaska   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</guid>
+      <pubDate>Mon, 12 Feb 2024 21:53:20 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 开发者控制台显示 Reddit 招聘广告并冻结 Chrome</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap1122/chrome_developer_console_showing_reddit_job_ads/</link>
-      <description><![CDATA[      所以，我是一名退休的软件工程师，我喜欢编程，Reddit 想要向我发送一则广告是有道理的编程工作。但是，当我调查 Chrome 在该选项卡上的冻结情况时，我的浏览器控制台中出现了广告。我怀疑广告也是导致锁定的原因。这很奇怪，因为我似乎是从谷歌搜索触发的。我已禁用所有扩展程序，但我已登录 Google。我无法从隐身模式进行复制。还有其他人看过这个吗？我希望除了屏幕截图之外还能提供更多诊断信息。 “广告”不再为我服务。 （当我正在刷新调查时，它被提供了五六次）。  ​ https://preview.redd.it/7bm27ef3y5ic1.png?width=2848&amp;format=png&amp;auto=webp&amp;s=b6d81ccdd84778fa32d6654f5135055409253ccf   由   提交 /u/snowdrone   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap1122/chrome_developer_console_showing_reddit_job_ads/</guid>
-      <pubDate>Mon, 12 Feb 2024 14:18:25 GMT</pubDate>
+      <title>加载文本问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</link>
+      <description><![CDATA[嗨！ 我正在开发我的 React/NextJs 应用程序，我有一个关于“loading”行业标准的问题。 ..”文本。 在我的应用程序中，某些页面仅应在用户经过身份验证/授权后才能访问。这些多个页面显示“正在加载...”。文本，同时检查用户是否登录。如果用户已登录，则会呈现正确的页面。如果用户没有登录，则显示“登录”。组件将呈现。代码的工作原理如下： function(){ if (loading) { return( Loading... ) } else if (userId===null){ return(  ) } return (  ) }  我的问题是，使用此方法，多个页面我的网站有一个 0.5 秒的“正在加载...”渲染正确页面之前的文本。这是行业标准吗？如果有“正在加载...”在我网站的大部分页面上显示 0.5 秒的文本可以接受吗？如果没有，更好的方法是什么？ ​ 谢谢！  &amp; #32；由   提交/u/Intelligent_Sugar207   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</guid>
+      <pubDate>Mon, 12 Feb 2024 21:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>使用 declarativeNetRequest 修改请求标头很困难</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap0t33/difficulty_modifying_request_headers_with/</link>
-      <description><![CDATA[我正在尝试使用 declarativeNetRequest API 创建修改某些请求标头的静态规则。 我的清单： { &quot;manifest_version&quot;: 3, ... &quot;permissions&quot;: [ &quot;declarativeNetRequest&quot;; ], “host_permissions”: [ “” ], “declarative_net_request”: { “rule_resources”: [ { “id”: “ruleset”, “path”: “rules.json”, “enabled”: true } ] } }  这里是 rules.json: [ { &quot;id&quot;: 1, &quot;priority&quot;: 1, &quot; action&quot;: { &quot;type&quot;: &quot;modifyHeaders&quot;, &quot;requestHeaders&quot;: [ { &quot;header&quot;: &quot;Referer&quot;, &quot;operation&quot;: &quot;set&quot;, &quot;value&quot;: &quot;example. com” } ] }, “条件”: { “urlFilter”: “example.com” } } ]  启用此扩展并为 example.com 授予运行时权限后，我在 上看不到 Referer 标头我访问 example.com 时的任何请求。 正如 MDN 上所述，Referer 不是 Chrome 支持的“追加”标头之一操作。即使我尝试该列表中的标头之一（例如 Accept），我也看不到预期的请求标头值。 如果我更改操作，请求将被成功阻止输入到block，所以这似乎不是我的条件的问题。我已经阅读文档并在线搜索了很长一段时间，但没有运气。 任何帮助将非常感激。  &amp;# 32；由   提交 /u/WorkOdd8251   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap0t33/difficulty_modifying_request_headers_with/</guid>
-      <pubDate>Mon, 12 Feb 2024 14:07:56 GMT</pubDate>
+      <title>有人的工作场所使用非捆绑客户端吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</link>
+      <description><![CDATA[https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7 我多年来我一直在单独做这件事，但我想知道团队如何找到它（如果有的话）。 除了零捆绑、零意见风格之外，还带来了极大的灵活性，但这是一个对于一个团队来说可能是一把两刃剑。   由   提交/u/elendee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</guid>
+      <pubDate>Mon, 12 Feb 2024 20:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>您的设计中最重要的部分是什么 > 开发交接？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap0fcu/whats_the_most_important_part_of_your_design_dev/</link>
-      <description><![CDATA[作为一名 FE 开发人员转型为 UI 设计师，我最近的任务是标准化工作中的设计到开发的交接。 当然，虽然我一直在与与我合作的开发团队（完全远程）进行交谈，但我想就您觉得没有它就无法生存的事物或成功交接的技巧获得更广泛的总体意见。 我们的技术堆栈主要包括 Figma、Jira、PHPstorm 和 VScode。   由   提交 /u/musedrainfall   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap0fcu/whats_the_most_important_part_of_your_design_dev/</guid>
-      <pubDate>Mon, 12 Feb 2024 13:49:22 GMT</pubDate>
+      <title>社区支持 Instagram 页面 - 自动海报</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apae53/instagram_page_for_community_support_auto_poster/</link>
+      <description><![CDATA[嘿伙计们， 我正在考虑创建一个 Instagram 页面来支持我们的社区。目前还没有一个公共平台供人们寻求帮助——与工作相关的或任何其他的。  我想创建一个网页，人们可以在其中发布他们的查询，它会自动以图像格式将其上传到 Instagram。 但正如我所查找的，我认为 Instagram api 允许通过 api 上传的帖子数量有限。这是真的吗？如果是，那么还有其他方法吗？ 谢谢   由   提交 /u/hmmIsItAGoodUsername   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apae53/instagram_page_for_community_support_auto_poster/</guid>
+      <pubDate>Mon, 12 Feb 2024 20:41:52 GMT</pubDate>
     </item>
     <item>
-      <title>调用“.showPicker()”时，不可见的日期输入会触发表单验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aox92n/invisible_date_input_triggers_form_validation/</link>
-      <description><![CDATA[      所以我有 2 个日期选择器，一个用于移动设备，一个用于桌面。移动设备只是一个日期输入元素，而桌面设备是一个按钮，单击该按钮会使用“.showPicker()”触发移动日期选择器。 我不能只应用“display” : none` 到桌面上输入的移动日期以隐藏它，因为这样选择器位置将位于屏幕的左上角，而不是日期按钮的下方。所以我所做的是将移动输入的高度设置为 0 并将其设置为不可见。 但是由于某种原因，当我这样做时，然后单击桌面上的日期按钮，表单验证被触发！  ​ 这是当移动日期输入的高度设置为 0 但可见性*未*设置为“可见”时单击日期按钮后的样子： ​ 注意选择器角落的蓝点 - 那是日期输入框的阴影。 这是当移动设备点击日期按钮后的样子日期输入的可见性设置为“隐藏” ​ 正如您所看到的，由于日期输入不可见，框阴影消失了，但由于某种原因，这触发了表单验证！ 我还尝试将框阴影设置为无，但这也会触发表单验证。 我希望问题从我的描述中可以清楚地看出，如果没有，我可以尝试以不同的方式解释或共享一些代码。 &lt; p&gt;谢谢！   由   提交/u/SideLow2446   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aox92n/invisible_date_input_triggers_form_validation/</guid>
-      <pubDate>Mon, 12 Feb 2024 10:46:44 GMT</pubDate>
+      <title>希望从当前的专用主机迁移到亚马逊托管 - 寻求一些帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apadsz/looking_to_move_from_current_dedicated_host_to/</link>
+      <description><![CDATA[我正在考虑将我的托管从当前的托管提供商转移到 Amazon。  我们目前在当前主机上使用 cPanel / PHP / mySQL / SSH 和 SFTP，因此我会在 AWS 上寻找类似的东西。 我们当前的服务器是： &gt;  8 GB RAM 1TB SATA HDD 20TB 带宽 CentOS 操作系统 cPanel/WHM li&gt;  我正在寻找类似的技术。 我们每个月使用大约 150-200 GB 的带宽，服务器上有大约 180 GB 的数据，数据库中有 2 GB 数据。  如何确保我根据 AWS 的选项调整了自己的规模？ ​   由   提交/u/bradical1379  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apadsz/looking_to_move_from_current_dedicated_host_to/</guid>
+      <pubDate>Mon, 12 Feb 2024 20:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
