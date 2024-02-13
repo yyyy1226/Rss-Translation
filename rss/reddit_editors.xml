@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 13 Feb 2024 01:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 03:20:32 GMT</lastBuildDate>
+    <item>
+      <title>PP 2023 23.5 - 2018 ASF 平稳滞后</title>
+      <link>https://www.reddit.com/r/editors/comments/1aph37s/crazy_lag_on_pp_2023_235_2018_smooth_asf/</link>
+      <description><![CDATA[我想知道是否还有其他人经历过这种情况。我正在制作这个预告片，首先使用我的 2019 Macbook Pro 和 Premiere 2023 v23.5。 MacOS Ventura 上的 8 核 Intel i9、16GB RAM。 这是非常滞后的。启动/停止就像 2-5 秒延迟。进进出出的设置导致它短暂地打沙滩球。基本无法使用。 我试过了，最新的2023，然后最新的2024版本的Premiere。同样的事情。 决定尝试我的老屁股 2011 iMac High Sierra 上的 3.4GHz Intel i7、24gb RAM - 运行 Premiere 2018 光滑如黄油。什么？！ 我正在 Apricorn Encrypted 7200 USB3 驱动器上运行所有媒体，其功能是 1080p ProRes 代理。 这毫无意义！ 我想运行最新的 Premiere，也想购买一台新的 iMac，但如果我只是遇到与 Macbook Pro 相同的问题，我不想放弃现金。 我尝试过重置首选项、清理缓存、分配更多内存。似乎没有任何帮助。 有人处理过这个问题或类似的事情吗？真是令人抓狂。   由   提交 /u/BrandoFiasco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1aph37s/crazy_lag_on_pp_2023_235_2018_smooth_asf/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我不能赚取至少作为视频编辑的最低工资？</title>
       <link>https://www.reddit.com/r/editors/comments/1apgsrj/why_the_cant_i_earn_at_least_a_minimum_wage_as_a/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有一段时间，我一直在达芬奇上制作一部纪录片（在首映式上编辑），最终交付将在达芬奇上进行。由于某些未知原因（可能是帧速率），某些剪辑与其各自的音频稍微不同步，并且由于时间码混乱，只能手动完成。我已经完成了整个事情大约 4 次，但不同步的剪辑不断出现...有关如何解决这个问题的任何想法???  &amp; #32；由   提交/u/StXeon-2001   /u/StXeon-2001 reddit.com/r/editors/comments/1aoefm8/help_any_tricks_to_confirm_ Correct_audioimage_sync/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1aoefm8/help_any_tricks_to_confirm_correct_audioimage_sync/</guid>
       <pubDate>Sun, 11 Feb 2024 18:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iconik 与 AJA 的 Discover - 媒体版</title>
-      <link>https://www.reddit.com/r/editors/comments/1aoddkb/iconik_vs_ajas_diskover_media_edition/</link>
-      <description><![CDATA[有人实现了 AJA 的 Diskover 吗？我已经使用 Iconik 几年了，虽然它做了它应该做的事情，但我并不喜欢它。我在他们的新 Diskover-Media Edition 上观看 AJA 的视频，并且喜欢“以前连接的驱动器的历史记录”。 （非常适合索引十亿个旧硬盘），但不确定它与 LucidLink 集成以及从不同卷（例如从 NAS 到 Lucid）移动内容的效果如何。 直接与 Iconik 相比有什么优点/缺点？&lt; /p&gt; 有人有任何现实世界的经验吗？   由   提交 /u/s44k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1aoddkb/iconik_vs_ajas_diskover_media_edition/</guid>
-      <pubDate>Sun, 11 Feb 2024 17:30:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
