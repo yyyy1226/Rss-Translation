@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 06:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 09:18:25 GMT</lastBuildDate>
+    <item>
+      <title>如何将手绘图变成线条精确的矢量图形？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqi3u0/how_can_i_turn_a_hand_drawing_into_vector/</link>
+      <description><![CDATA[我要转换的手绘插图是这样的：https ://ibb.co/0hR3MHB 我只是在寻找有效的工作流程。   由   提交 /u/EducationalFun9731   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqi3u0/how_can_i_turn_a_hand_drawing_into_vector/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出 MGIE，这是一种根据文本命令编辑照片的 AI 模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqhvm2/apple_unveils_mgie_an_ai_model_that_edits_photos/</link>
+      <description><![CDATA[苹果公司的图像编辑人工智能模型 MGIE（MLLM-Guided Image Editing 的缩写）正在引起轰动。虽然该模型仍处于早期开发阶段，但它让我们可以一睹直观照片编辑的未来。 阅读全文：https://www.ibtimes.co.uk/apple-unveils-mgie-ai-model-that -edits-photos-based-your-text-commands-1723413   由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqhvm2/apple_unveils_mgie_an_ai_model_that_edits_photos/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能任务管理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqhmqp/ai_task_management/</link>
+      <description><![CDATA[大家好，大家好，目前我向 ChatGPT 等请求不同类型的 AI 任务，这些任务可以是提示、对某些文档的问答，表格数据分析等。有谁知道组织/编目这些数据的标准方法？您是否面临同样的问题？如果是，您将如何解决？非常感谢！   由   提交 /u/danmvi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqhmqp/ai_task_management/</guid>
+      <pubDate>Wed, 14 Feb 2024 07:53:22 GMT</pubDate>
+    </item>
     <item>
       <title>训练人工智能歌唱模型的最佳（可能免费）方法是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqfqon/whats_the_best_possibly_free_way_to_train_an_ai/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>在 Android 手机上运行的小型 1.1B(!) 模型上演示实时 RAG 系统。这表明，通过强大的 RAG 系统，即使是最小的模型也可以变得惊人的连贯。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqe7ej/demo_of_a_live_rag_system_on_a_tiny_11b_model/</link>
-      <description><![CDATA[来源：https://twitter.com/_layla_ai /status/1757619798106935391 型号是在 Samsung S23 Ultra 手机上本地运行的 TinyLlama 1.1B。当与 RAG（检索增强生成）系统结合使用时，对于如此小的模型来说，响应是惊人的连贯性。   由   提交 /u/Tasty-Lobster-8915   [链接] [评论]]]></description>
+      <description><![CDATA[来源：https://twitter.com/_layla_ai /status/1757619798106935391 型号是在 Samsung S23 Ultra 手机上本地运行的 TinyLlama 1.1B。当与 RAG（检索增强生成）系统结合使用时，对于如此小的模型来说，响应是惊人的一致。   由   提交 /u/Tasty-Lobster-8915   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqe7ej/demo_of_a_live_rag_system_on_a_tiny_11b_model/</guid>
       <pubDate>Wed, 14 Feb 2024 04:25:51 GMT</pubDate>
     </item>
@@ -64,23 +85,9 @@
     <item>
       <title>哪些免费课程适合学习AI和应用AI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aq3wwa/what_free_courses_is_suitable_to_learn_ai_and_to/</link>
-      <description><![CDATA[大家好，抱歉，如果标题有点令人困惑。我希望了解更多有关人工智能以及如何训练人工智能的信息。在学习编码并将其应用到我正在使用的系统方面。更多的是监视。预先感谢你们。   由   提交/u/Commercial_Anxiety48  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，抱歉，如果标题有点令人困惑。我希望了解更多有关人工智能以及如何训练人工智能的信息。在学习编码并将其应用到我正在使用的系统方面。更重要的是监视。预先感谢你们。   由   提交/u/Commercial_Anxiety48  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aq3wwa/what_free_courses_is_suitable_to_learn_ai_and_to/</guid>
       <pubDate>Tue, 13 Feb 2024 20:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 CodeLlama 2 来理解和编辑大量 C# 代码吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aq26ya/can_i_use_codellama_2_to_understand_and_make/</link>
-      <description><![CDATA[在另一个群组中询问此问题，但没有得到回复，因此请重试。  我在一家公司工作，该公司使用 C# 构建的遗留软件为金融公司创建特定类型的报告。我们需要定期修改代码以满足客户的需求。问题是，只有两名开发人员理解这段代码并能够进行更改，其中一人最近离开了公司。所以整个事情都取决于1个人。我的问题是我可以训练 Codellama 来理解完整的代码库并根据所需的输出对其进行特定的更改。问题是模型必须能够理解根据特定输出需要进行哪些更改。是否可以使用 codellama2 或任何其他代码生成 LLM 来完成？我需要针对这个特定代码微调 llm 吗？我该如何开始以及流程是怎样的？非常感谢任何帮助。   由   提交/u/ImpressiveFault42069   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aq26ya/can_i_use_codellama_2_to_understand_and_make/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有人使用人工智能改进了旧的模糊视频游戏镜头吗？如果是这样，我想知道最好的方法和软件是什么。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apxoxb/has_anyone_here_improved_old_blurry_video_game/</link>
-      <description><![CDATA[我观看了很多格斗游戏片段，但不幸的是，日本上传质量非常低的比赛片段是很常见的。我认为尝试为游戏社区恢复此类镜头将是一个有趣的项目。  以下是上述模糊片段的示例 https://youtu.be/JcJH60eghY0?si=W- CErsPcEQhKyuyw   由   提交 /u/Shantaak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1apxoxb/has_anyone_here_improved_old_blurry_video_game/</guid>
-      <pubDate>Tue, 13 Feb 2024 16:32:35 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个其他人没有的人工智能功能！</title>
@@ -90,14 +97,7 @@
       <pubDate>Tue, 13 Feb 2024 13:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>谁会更快：OpenAI 生产自己的芯片还是 Nvidia 生产自己的人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apm2tg/who_will_be_faster_openai_producing_its_own_chip/</link>
-      <description><![CDATA[https:// www.reddit.com/r/stocks/comments/19cugbr/sam_altman_plans_to_tap_tsmc_to_rival_nvidia_with/ ​ https://www.reddit.com/r/ChatGPT/comments/13vjme9/nvidia_ai_is_upending_the_gaming_industry/ ​    由   提交 /u/andWan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1apm2tg/who_will_be_faster_openai_producing_its_own_chip/</guid>
-      <pubDate>Tue, 13 Feb 2024 05:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

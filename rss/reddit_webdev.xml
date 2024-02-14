@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 06:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 09:19:55 GMT</lastBuildDate>
+    <item>
+      <title>我应该担心吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</link>
+      <description><![CDATA[最近使用 docker-compose 启动了一个站点（尚不需要 Swarm 或 Kubernetes 等可扩展性），运行容器化 Django、Nginx、Celery 等容器。&lt; br /&gt; 它托管在 Ubuntu 20 的 DO Droplet 上，并在顶部运行 Cloudflare。 一切都在顺利运行，直到昨晚我收到我的网站已关闭的通知。尝试打开它时，我不断收到： 此网站无法提供安全连接并且{{ domain }} 使用不受支持的协议。  我重新启动了发行版，重新启动了容器 - 什么也没有。再次重新启动容器后，这次不是处于分离模式，一切都恢复正常。 我的 SSL 证书还剩 40 天，我没有更改任何配置。  是否存在恶意行为或类似的事情偶尔发生？谢谢   由   提交/u/denisbotev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>高风险的重构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqhs5l/the_highrisk_refactoring/</link>
+      <description><![CDATA[ 由   提交/u/ruinijuni  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqhs5l/the_highrisk_refactoring/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里托管商业 POS 系统（vue、node、mysql）应用程序以及如何托管。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqhod8/where_to_host_commercial_pos_systemvue_node_mysql/</link>
+      <description><![CDATA[我希望我能很好地解释这一点...我开发了一个小型且不那么复杂的应用程序，用于处理客户订单，应该用作信息亭应用程序。我想租用它，并且需要为每个公司创建一个实例。如何实现这一目标并省钱。因此每个公司都会分别拥有自己的应用程序实例和数据库。亚马逊AWS？    由   提交/u/Kinkajou89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqhod8/where_to_host_commercial_pos_systemvue_node_mysql/</guid>
+      <pubDate>Wed, 14 Feb 2024 07:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在cloudflareworker中使用缓存·Newbeelearn</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqhcdc/how_to_use_cache_in_cloudflare_workers_newbeelearn/</link>
+      <description><![CDATA[   /u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqhcdc/how_to_use_cache_in_cloudflare_workers_newbeelearn/</guid>
+      <pubDate>Wed, 14 Feb 2024 07:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在时间窗口内控制机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqgosz/controlling_bots_within_time_windows/</link>
+      <description><![CDATA[我想暂时减少机器人在高峰时段对我的系统施加的资源负载（目前可能是正常流量的 2-3 倍）。有没有标准的方法来做到这一点？我正在考虑如果检测到机器人，则立即返回响应代码 429 Too Many Requests 或 503 Service Unavailable 。    由   提交/u/everybodyoutofthepoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqgosz/controlling_bots_within_time_windows/</guid>
+      <pubDate>Wed, 14 Feb 2024 06:49:43 GMT</pubDate>
+    </item>
     <item>
       <title>我应该如何托管我的网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqfz72/how_should_i_host_my_site/</link>
-      <description><![CDATA[我正在为《命运 2》构建一个 Web 应用程序，可让您根据一系列不同因素计算伤害，并想知道托管的最佳方式是什么未来是。现在我在 github 页面上有一个超级简化的版本，但我现在意识到我需要一个数据库，并且（据我所知）没有办法在那里进行数据库集成。 所以这是我的问题，我应该转移到 AWS 这样的网站，还是自己设置一个家庭服务器并托管它。如果我选择云，我如何托管数据库？它会变得过于昂贵吗？ 如果我使用家庭服务器，我可以通过一些我认识的人免费获得一个，所以我不需要预先支付任何费用。我愿意学习如何做到这一点，我的方式可能是托管网站和一个单独的 api，这样我就可以格式化一个请求以发送到 api，然后该 api 将访问数据库并返回我想要的内容。需要。 我也已经有了一个可以使用的域名。我已经说服自己，家庭服务器是最好的选择，但想看看你们会如何解决这个问题。就上下文而言，数据库现在只是大的 json 文件，我使用的算法是用 python 编写的。无论我选择什么选项，我还需要有环境变量来隐藏 api 密钥。   由   提交 /u/ll-Fuze-ll   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为《命运 2》构建一个 Web 应用程序，可让您根据一系列不同因素计算伤害，并想知道托管的最佳方式是什么未来是。现在我在 github 页面上有一个超级简化的版本，但我现在意识到我需要一个数据库，并且（据我所知）没有办法在那里进行数据库集成。 所以这是我的问题，我应该转移到 AWS 这样的网站，还是自己设置一个家庭服务器并托管它。如果我选择云，我如何托管数据库？它会变得过于昂贵吗？ 如果我使用家庭服务器，我可以通过一些我认识的人免费获得一个，所以我不需要预先支付任何费用。我愿意学习如何做到这一点，我的方式可能是托管网站和一个单独的 api，这样我就可以格式化一个请求以发送到 api，然后该 api 将访问数据库并返回我的内容需要。 我也已经有了一个可以使用的域名。我已经说服自己，家庭服务器是最好的选择，但想看看你们会如何解决这个问题。就上下文而言，数据库现在只是大的 json 文件，我使用的算法是用 python 编写的。无论我选择什么选项，我还需要有环境变量来隐藏 api 密钥。   由   提交 /u/ll-Fuze-ll   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqfz72/how_should_i_host_my_site/</guid>
       <pubDate>Wed, 14 Feb 2024 06:05:25 GMT</pubDate>
     </item>
@@ -29,7 +64,7 @@
     <item>
       <title>无需自己动手即可发布内容的最佳/最简单方法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqely7/besteasiest_way_to_put_up_content_without_doing/</link>
-      <description><![CDATA[如果这不是正确的 subreddit，请提前抱歉。如果没有，如果你能至少推荐一下 Reddit 子版块，那就太好了。  我的缺点之一是写作。我可以坐在那里看一个页面一个小时，也许可以打出三个句子。我有大约 25 页关于特定主题的内容，需要放在我的网站上，但输入这么多内容简直让我发疯。  我正在寻找一位文案撰稿人，但他们每页收费约 300 美元，所以我现在不想付 7,500 美元。  我的朋友告诉我使用 Chat GPT。 Chat GPT 可以用于此目的吗？是否有您推荐的人工智能内容创作者，或者我可能不知道的其他选项？ 谢谢！  &amp;# 32；由   提交/u/zenlifey  [链接] [评论]]]></description>
+      <description><![CDATA[如果这不是正确的 subreddit，请提前抱歉。如果没有，如果你能至少推荐一下 Reddit 子版块，那就太好了。  我的缺点之一是写作。我可以坐在那里看一个页面一个小时，也许可以打出三个句子。我有大约 25 页关于特定主题的内容，需要放在我的网站上，但输入这么多内容简直让我发疯。  我正在寻找一位文案撰稿人，但他们每页收费约 300 美元，所以我现在不想付 7,500 美元。  我的朋友告诉我使用 Chat GPT。 Chat GPT 可以用于此目的吗？有没有您推荐的人工智能内容创作者，或者我可能不知道的其他选项？ 谢谢！  &amp;# 32；由   提交/u/zenlifey  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqely7/besteasiest_way_to_put_up_content_without_doing/</guid>
       <pubDate>Wed, 14 Feb 2024 04:47:47 GMT</pubDate>
     </item>
@@ -57,14 +92,14 @@
     <item>
       <title>使用yarn add时出现权限错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqd66r/permission_error_when_using_yarn_add/</link>
-      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也无法工作，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也不起作用，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqd66r/permission_error_when_using_yarn_add/</guid>
       <pubDate>Wed, 14 Feb 2024 03:32:17 GMT</pubDate>
     </item>
     <item>
       <title>使用yarn add时出现权限错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqd66o/permission_error_when_using_yarn_add/</link>
-      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也无法工作，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也不起作用，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqd66o/permission_error_when_using_yarn_add/</guid>
       <pubDate>Wed, 14 Feb 2024 03:32:17 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[      嘿伙计们，需要你们对此的想法。  我正在制作一个采用这种设计的登陆页面。我不知道如何创建这样的背景（具有弯曲的线条和不同的颜色），上面还有另一个部分，其纯蓝色连接到该部分。  这可以在 CSS 中完成吗？或者我应该将其制作为图像？ https://preview.redd.it/lfqip10ozgic1.png?width=1086&amp;format=png&amp;auto=webp&amp;s=829374d8716cc3db5b30566854e62535477551ef   由   提交/u/luckypanda95  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqd3vx/how_would_you_make_this_css_or_make_it_as_an_image/</guid>
       <pubDate>Wed, 14 Feb 2024 03:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发中最乏味且令人头脑麻木的部分是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqd333/whats_the_most_tedious_mind_numbing_part_of_web/</link>
-      <description><![CDATA[单词   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqd333/whats_the_most_tedious_mind_numbing_part_of_web/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bare Metal + Plesk...我*搞砸了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqcbos/bare_metal_plesk_did_i_uck_up/</link>
-      <description><![CDATA[正如标题所示，我已经围绕裸机服务器构建了 Web 开发服务，并使用 plesk 作为管理我所有网站的 cpanel。我有一个 DFY 服务，顾名思义，你付钱给我，我给你一个包含所有内容的网站，每月固定费率。然后我提供 DIY 服务，帮助客户启动网站，然后他们使用自己的 plesk 帐户管理一切，巨额设置费和合理的托管月费。这基本上就是我建立业务的方式，我根据客户的需求提供追加销售以及基本的 2 个套餐。  在 Web 开发方面，我还是个新手，已经存在了 10 多年，但只是在过去几年才被认真对待。 我不禁想知道是否有一个这是比我一直在做的更好的 Web 开发业务运营方式。   由   提交 /u/Wvrcus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqcbos/bare_metal_plesk_did_i_uck_up/</guid>
-      <pubDate>Wed, 14 Feb 2024 02:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在人工智能已经可以制作网站了，你会学习网页设计吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqc1t7/would_you_study_web_design_now_with_ai_being/</link>
-      <description><![CDATA[由于技能短缺，我所在州的职业学校免费提供网络开发证书，这让我认为一定有需求，但后来我还可以看到人工智能生成的网站的广告，其成本似乎要低得多。业内人士能否对此提供一些见解？   由   提交/u/d0wnp0ur000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqc1t7/would_you_study_web_design_now_with_ai_being/</guid>
-      <pubDate>Wed, 14 Feb 2024 02:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我能承受多少正常运行时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqalbo/how_much_uptime_can_i_afford/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqalbo/how_much_uptime_can_i_afford/</guid>
-      <pubDate>Wed, 14 Feb 2024 01:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站安全搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqaera/website_safe_search/</link>
-      <description><![CDATA[我的网站主页被标记为色情、不良或不安全，因此我只出现在未经过滤的搜索中。除主页外，我的所有页面都在安全搜索中。我总是认为是竞争对手，但也许是我做过的事情。 我如何查看我的页面是否是色情内容，我可以采取什么措施吗？用于谷歌搜索引擎。   由   提交 /u/Ok-Bowl-6167   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqaera/website_safe_search/</guid>
-      <pubDate>Wed, 14 Feb 2024 01:16:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
