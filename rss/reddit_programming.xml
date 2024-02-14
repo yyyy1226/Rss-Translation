@@ -4,13 +4,104 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 13 Feb 2024 21:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 06:23:55 GMT</lastBuildDate>
     <item>
-      <title>Wasmer JS SDK - 浏览器中的 WebAssembly</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq4j4e/wasmer_js_sdk_webassembly_in_the_browser/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq4j4e/wasmer_js_sdk_webassembly_in_the_browser/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:05:22 GMT</pubDate>
+      <title>关于学习，软件开发人员应该了解的 10 件事</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqevuq/10_things_software_developers_should_learn_about/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqevuq/10_things_software_developers_should_learn_about/</guid>
+      <pubDate>Wed, 14 Feb 2024 05:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Java 中实现元组</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqes0b/how_to_implement_tuple_in_java/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqes0b/how_to_implement_tuple_in_java/</guid>
+      <pubDate>Wed, 14 Feb 2024 04:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 中的单例类及其示例：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqekzd/singleton_class_in_java_with_examples_a/</link>
+      <description><![CDATA[ 由   提交/u/erdsingh24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqekzd/singleton_class_in_java_with_examples_a/</guid>
+      <pubDate>Wed, 14 Feb 2024 04:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助修改现有程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqe8sk/help_with_modifying_an_existing_program/</link>
+      <description><![CDATA[嘿，我正在寻找可以帮助我编辑现有程序界面的软件。我试图让“rekordbox”程序看起来更像 cdj3000 dj 甲板的屏幕。我正在寻找最好的方法来做到这一点。即使我可以将电脑屏幕拼接起来并重新排列，使其看起来更像 cdj3000。我尝试寻找一种方法来做到这一点，但我被难住了。任何帮助或建议将不胜感激。   由   提交/u/shakabaho  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqe8sk/help_with_modifying_an_existing_program/</guid>
+      <pubDate>Wed, 14 Feb 2024 04:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>做了一个小Serpenski三角形的东西</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqcxgy/made_a_small_serpenski_triangle_thingy/</link>
+      <description><![CDATA[ 由   提交/u/Joeyak10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqcxgy/made_a_small_serpenski_triangle_thingy/</guid>
+      <pubDate>Wed, 14 Feb 2024 03:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>textimg,在查询字符串中给定base64，在浏览器中查看图像的服务,下载textimg的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqcnri/github_1m1githubtextimg_service_to_see_image_in/</link>
+      <description><![CDATA[这个已经存在吗？   由   提交 /u/seeEcstatic_Broc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqcnri/github_1m1githubtextimg_service_to_see_image_in/</guid>
+      <pubDate>Wed, 14 Feb 2024 03:06:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 性能入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqbgn5/getting_started_with_web_performance/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqbgn5/getting_started_with_web_performance/</guid>
+      <pubDate>Wed, 14 Feb 2024 02:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为软件工程师建立信任</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq9txo/building_trust_as_a_software_engineer/</link>
+      <description><![CDATA[ 由   提交/u/kendumez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq9txo/building_trust_as_a_software_engineer/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行 LUnix 操作系统和 Famicom 磁盘系统（日语“NES”外围设备）</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq8aa7/running_lunix_operating_system_with_famicom_disk/</link>
+      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq8aa7/running_lunix_operating_system_with_famicom_disk/</guid>
+      <pubDate>Tue, 13 Feb 2024 23:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Godot 中制作的游戏！欢迎任何反馈！</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq8587/a_game_i_am_making_in_godot_open_to_any_feedback/</link>
+      <description><![CDATA[ 由   提交/u/_Hunter_420_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq8587/a_game_i_am_making_in_godot_open_to_any_feedback/</guid>
+      <pubDate>Tue, 13 Feb 2024 23:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用团队渠道加强团队沟通</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq7xjy/enhancing_team_communication_by_leveraging_team/</link>
+      <description><![CDATA[ 由   提交/u/chip_1992  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq7xjy/enhancing_team_communication_by_leveraging_team/</guid>
+      <pubDate>Tue, 13 Feb 2024 23:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用Spring框架快速跟踪数据流开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq7ler/how_to_fast_track_data_stream_development_with/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] &amp; #32； [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq7ler/how_to_fast_track_data_stream_development_with/</guid>
+      <pubDate>Tue, 13 Feb 2024 23:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 C 创建了自己的动态整数列表，我对 C 还很陌生，所以我希望得到一些建设性的批评</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq75dh/i_made_my_own_dynamic_integer_list_in_c_im_pretty/</link>
+      <description><![CDATA[ 由   提交/u/Tearsofthekorok_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq75dh/i_made_my_own_dynamic_integer_list_in_c_im_pretty/</guid>
+      <pubDate>Tue, 13 Feb 2024 22:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Socket 项目报告 v0 弃用</title>
+      <link>https://www.reddit.com/r/programming/comments/1aq4tfx/socket_project_reports_v0_deprecation/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aq4tfx/socket_project_reports_v0_deprecation/</guid>
+      <pubDate>Tue, 13 Feb 2024 21:17:08 GMT</pubDate>
     </item>
     <item>
       <title>每个程序员都应该知道#2：乐观并发控制</title>
@@ -18,97 +109,6 @@
       <description><![CDATA[ 由   提交/u/berkansasmaz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aq3cmy/every_programmer_should_know_2_optimistic/</guid>
       <pubDate>Tue, 13 Feb 2024 20:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>dropbox等如何做3层架构。表示层+应用程序+数据层。</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq255b/how_dropbox_and_other_do_3tier_architecture/</link>
-      <description><![CDATA[ 由   提交/u/Necessary_Pay717  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq255b/how_dropbox_and_other_do_3tier_architecture/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化工作示例：Mandelbrot 集生成器速度提高约 8 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq21la/optimization_worked_example_8x_speed_up_of/</link>
-      <description><![CDATA[ 由   提交/u/PMadLudwig  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq21la/optimization_worked_example_8x_speed_up_of/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始 GNU make 和 Makefile</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq1qjr/gnu_make_and_makefile_from_scratch/</link>
-      <description><![CDATA[ 由   提交/u/tracktech  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq1qjr/gnu_make_and_makefile_from_scratch/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postgres 行级安全性 - 交互式教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq1cbp/postgres_row_level_security_interactive_tutorial/</link>
-      <description><![CDATA[ 由   提交/u/winsletts  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq1cbp/postgres_row_level_security_interactive_tutorial/</guid>
-      <pubDate>Tue, 13 Feb 2024 18:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化你的日常任务：Pythonic 方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq13sh/streamlining_your_daily_tasks_a_pythonic_approach/</link>
-      <description><![CDATA[ 由   提交/u/BotBrewLabs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq13sh/streamlining_your_daily_tasks_a_pythonic_approach/</guid>
-      <pubDate>Tue, 13 Feb 2024 18:47:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>管道日志和工件但在本地</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq07al/pipeline_logs_and_artifacts_but_locally/</link>
-      <description><![CDATA[ 由   提交/u/sourishkrout  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq07al/pipeline_logs_and_artifacts_but_locally/</guid>
-      <pubDate>Tue, 13 Feb 2024 18:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Express.js 垃圾 PR 事件凸显开源贡献的商品化</title>
-      <link>https://www.reddit.com/r/programming/comments/1apztkt/expressjs_spam_prs_incident_highlights_the/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apztkt/expressjs_spam_prs_incident_highlights_the/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>wally：RPC 和 HTTP 路由映射器，非常适合微服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1apywqx/wally_rpc_and_http_route_mapper_ideal_for/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apywqx/wally_rpc_and_http_route_mapper_ideal_for/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++——从不这样做</title>
-      <link>https://www.reddit.com/r/programming/comments/1apywq6/c_never_dos/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apywq6/c_never_dos/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>在真实 RISC-V 硬件上矢量化 Unicode 转换</title>
-      <link>https://www.reddit.com/r/programming/comments/1apywln/vectorizing_unicode_conversions_on_real_riscv/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apywln/vectorizing_unicode_conversions_on_real_riscv/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>前进之路：寻找 Unix 之后的道路 [视频]</title>
-      <link>https://www.reddit.com/r/programming/comments/1apyvms/one_way_forward_finding_a_path_to_what_comes/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apyvms/one_way_forward_finding_a_path_to_what_comes/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码游乐场可视化</title>
-      <link>https://www.reddit.com/r/programming/comments/1apyvbr/code_playground_visualizations/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apyvbr/code_playground_visualizations/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:19:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 的不安全指针类型需要彻底修改</title>
-      <link>https://www.reddit.com/r/programming/comments/1apyuzr/rusts_unsafe_pointer_types_need_an_overhaul/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1apyuzr/rusts_unsafe_pointer_types_need_an_overhaul/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:18:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
