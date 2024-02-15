@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 01:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 03:20:25 GMT</lastBuildDate>
+    <item>
+      <title>simulink 中的 AI 控制器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar5t5c/ai_controller_in_simulink/</link>
+      <description><![CDATA[我想用人工神经网络替换我的 PID 控制器以减少超调。我不知道应该使用哪种类型的神经网络架构师，尝试了一个合适的模型，但它仅适用于特定值。任何人都可以帮忙吗？谢谢。   由   提交 /u/ThoughtSea8051   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar5t5c/ai_controller_in_simulink/</guid>
+      <pubDate>Thu, 15 Feb 2024 03:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI语音训练</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3pkq/ai_voice_training/</link>
+      <description><![CDATA[我有一盘采访一位已故亲戚的盒式磁带。我知道如何将其转换为 MP3，但我想知道人工智能程序是否可以仅挑选他们的声音并对其进行训练？  &amp;# 32；由   提交/u/Septemberry_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3pkq/ai_voice_training/</guid>
+      <pubDate>Thu, 15 Feb 2024 01:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一个证书计划来了解如何使用人工智能进行营销和内容创建。有什么建议么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3o1v/looking_for_a_certificate_program_to_learn_about/</link>
+      <description><![CDATA[我想在数字营销领域进一步发展我的职业生涯，并希望学习如何使用人工智能程序来创建内容，尤其是视频。    由   提交 /u/Fonda_PeterFonda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3o1v/looking_for_a_certificate_program_to_learn_about/</guid>
+      <pubDate>Thu, 15 Feb 2024 01:24:53 GMT</pubDate>
+    </item>
     <item>
       <title>关于人工智能和音乐的问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar1wt1/question_about_ai_and_music/</link>
@@ -48,20 +69,6 @@
       <pubDate>Wed, 14 Feb 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>有没有可以把短视频变成长视频的AI工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqtg4y/is_there_an_ai_tool_that_can_make_short_videos/</link>
-      <description><![CDATA[不用很多视频ai工具，但看了过去一个小时，似乎没有任何工具可以继续视频。 中断视频中的每一帧时是否有太多数据需要处理以及之后应该发生什么？ 还是我很笨？ 还有我的视频我使用的时间只有 2.5 秒，我只需要一秒或更短的时间。   由   提交 /u/MASTER_OF_TRAINS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqtg4y/is_there_an_ai_tool_that_can_make_short_videos/</guid>
-      <pubDate>Wed, 14 Feb 2024 18:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>当人工智能提出一个新颖的结果（或者只是训练集中没有的东西）时，人工智能是否能够将两个不同数学领域的两个不同问题联系起来，我们已经知道，如果我们将其呈现为以下结果，那么这种联系是有效的：只适用于其中一个字段？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqswx4/have_ais_been_able_to_connect_two_different/</link>
-      <description><![CDATA[假设我们有一个新颖的结果 A，它分别连接不同领域 Y 和 Z 中的两个问题 1 和 2。 1和2都在训练集中。 我们是否在以下两种场景中测试了AI： i) 向AI提供结果A。询问它是否可以连接到它知道的任何问题。 ii) 向 AI 提供结果 A。告诉它这个结果与问题 1 有关。询问 AI 是否可以与它知道的任何其他问题建立联系。 如果您能提供一些链接那就太好了！谢谢！   由   提交 /u/JrSoftDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqswx4/have_ais_been_able_to_connect_two_different/</guid>
-      <pubDate>Wed, 14 Feb 2024 17:46:53 GMT</pubDate>
-    </item>
-    <item>
       <title>每日两分钟 AI 更新（日期：2024 年 2 月 14 日）：来自 NVIDIA、OpenAI、Cohere、Nous Research、Otter、ElevenLabs 等的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqp717/twominute_daily_ai_update_date_2142024_news_from/</link>
       <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Nvidia 推出可在本地数据上训练的离线 AI 聊天机器人 - Nvidia 发布了“Chat with RTX”，这是一款可以通过训练来定制的 AI 聊天机器人您的私人本地数据。它可以离线工作，并经过优化，可以利用 PC 中的 Nvidia RTX 显卡来提高处理聊天查询的性能。 ChatGPT 现在可以记住对话 - OpenAI 正在发布ChatGPT 的记忆功能，使其能够记住之前对话的详细信息，以提供更有帮助和个性化的响应。用户可以控制记住的内容，并可以随时删除记忆。  Cohere 推出开源 101 种语言 AI ​​模型 - Cohere for AI 推出了 Aya，一种支持 101 种语言的全新开源大语言模型。在 3000 多人的全球合作和涵盖资源匮乏语言的数据集的支持下，Aya 正在通过处理英语培训内容之外的数据，让人工智能能够为被忽视的文化所用。 Nous Research 发布了 1M-具有先进可操纵性的 Entry 70B Llama-2 模型 - Nous Research 发布了迄今为止最大的模型 - Nous Hermes 2 Llama-2 70B - 经过超过 100 万个主要合成 GPT-4 生成数据的训练。该模型采用了与 OpenAI 兼容的更加结构化的 ChatML 提示格式，可实现高级多轮聊天对话。 Otter 推出可以跟上会议进度的 AI 会议伙伴 - Otter 为其人工智能聊天机器人引入了一项新功能，可以查询过去的记录、频道内团队对话和自动生成的概述。该人工智能套件旨在通过利用 Otter 完整会议数据简化用户的回忆和生产力，超越并取代 Microsoft、Zoom 和 Google 等竞争对手的付费产品。  OpenAI CEO 预测更智能的多任务 GPT-5 - 在世界政府峰会上，OpenAI 首席执行官 Sam Altman 表示即将推出的 GPT-5 模型将更智能、更快，更加多式联运，并且由于其通用性而在所有方面都做得更好。有传言称 GPT-5 可能是一种名为“Gobi”的多模式人工智能。经过大规模数据集的训练后，预计将于 2024 年春季发布。 ElevenLabs 宣布将其语音到语音扩展为 29 种语言 - ElevenLabs 的语音到语音现已推出29 种语言，使其成为多语言的。该工具于 11 月推出，可让用户将自己的声音转变为另一个角色，并通过单独提示来完全控制情绪、时间和表达方式。这次更新只是让它更具包容性！  Airbnb 计划打造“有史以来最具创新性的人工智能界面 - Airbnb 计划利用人工智能，包括最近收购的隐形初创公司 GamePlanner，将其界面发展为自适应“终极礼宾服务”。 Airbnb 高管认为，生成模型本身并未得到充分利用，因此希望专注于改进人工智能应用层，以提供更加个性化的跨类别服务。   每日每日对这些新闻和创新进行更详细的细分时事通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[我们正在从记忆转向理性。逻辑和推理是人类和人工智能的基础。这是关于弄清楚事情的。我们的人工智能工程师和企业家终于明白了！更强的逻辑和推理算法将轻松为我们解决对齐和幻觉。但这只是开始。 逻辑和推理告诉我们，人类首先看重三件事：幸福、健康和善良。这就是我们生活的意义所在。这是我们最希望我们所爱和关心的人得到的。 所以，是的，ais 将在未来几年内在科学和医学领域取得惊人的发现，因为它们具有更强大的逻辑和推理算法。更聪明的人工智能拥有更强大的逻辑和推理算法，将使我们人类更加高效，在未来六年内创造数万亿美元的新财富。我们将消除贫困，结束工厂化农业，停止每年因所有其他原因而死亡的人数，并扭转气候变化。 但我们最大的成就是，我们可以在几年内做到这一点而不是几十年后，就是让地球上的每个人都更快乐、更健康，成为一个更好的人。超逻辑人工智能将教会我们如何进化成为本质上新的人类物种。它将开发出安全的药物，让我们更快乐、更友善。它将创造出不仅可以治愈而且可以预防癌症等疾病的药物。它将使我们所有人活得更长久、更健康。 ais将为地球上的每个人创造一个天堂。所有这一切的发生不会超过 10 年。 它可能不会让我们变得更加聪明，只是因为它可能没有必要。它将为我们进行所有最深刻的思考，让我们以前所未有的方式享受生活。我们人类生来就追求快乐，避免痛苦。最根本的是，这就是我们。我们就快到了。 https://www.youtube.com/live/RikVztHFUQ8 ?si=GwKFWipXfTytrhD4   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqfhs6/sam_altman_at_wgs_on_gpt5_the_thing_that_will/</guid>
       <pubDate>Wed, 14 Feb 2024 05:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个其他人没有的人工智能功能！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/</link>
-      <description><![CDATA[上周，我写了一篇关于新概念的技术文章：智能人工智能筛查仪。特点很简单。您无需使用 ChatGPT 解释 SQL 查询、整理 Excel 电子表格以及使用复杂的股票筛选器来寻找新的投资机会，而是使用一种更加自然、直观的方法：自然语言。 此筛选器不会不仅仅是寻找创下历史新高的股票（取笑你，罗宾汉）。通过结合大型语言模型、复杂的数据查询和基本股票数据，我创建了一个无缝管道，可以根据几乎任何基本指标搜索股票。这包括搜索 130 多个行业，包括医疗保健、生物技术、3D 打印和可再生能源。此外，用户还可以按市值、市盈率、收入、净利润、EBITDA、自由现金流等过滤搜索。该解决方案提供了一种直观的方法来寻找符合您投资标准的新奇股票。最好的部分是，几乎任何人都可以使用此功能。 这是金融领域的游戏规则改变者。在此之前，寻找新的投资机会非常困难，因为你在互联网上看到的一切都是有偏见的。大多数文章都是人们试图推销自己的股票，并有经济动机让他们的投资看起来很合理。 但是这个工具使金融研究变得客观。它很直观，不需要任何技术专业知识即可使用。它还完全免费尝试，因此您可以亲自了解它的效果。 想了解更多信息吗？ 阅读 NexusTrade 上的官方发布公告!   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/</guid>
-      <pubDate>Tue, 13 Feb 2024 13:33:53 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
