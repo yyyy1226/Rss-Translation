@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 15 Feb 2024 18:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 21:17:43 GMT</lastBuildDate>
     <item>
-      <title>杰英库简编</title>
-      <link>https://www.opensourceagenda.com/projects/jieiku-abridge</link>
-      <description><![CDATA[快速、轻量级的 Zola 主题]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jieiku-abridge</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:44 GMT</pubDate>
+      <title>使用中的设计模式</title>
+      <link>https://www.opensourceagenda.com/projects/designpatternsinuse</link>
+      <description><![CDATA[您需要了解的最常见设计模式，以及 C# 示例。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/designpatternsinuse</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>凯泰克斯</title>
-      <link>https://www.opensourceagenda.com/projects/ng-katex</link>
-      <description><![CDATA[Angular 模块，可通过 KaTeX 库增强的 TeX 语法编写漂亮的数学表达式]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ng-katex</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:44 GMT</pubDate>
+      <title>基斯克</title>
+      <link>https://www.opensourceagenda.com/projects/kisk</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kisk</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>BearToCode 大纲</title>
-      <link>https://www.opensourceagenda.com/projects/beartocode-carta</link>
-      <description><![CDATA[轻量级、快速且可扩展的 Svelte Markdown 编辑器和查看器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/beartocode-carta</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:43 GMT</pubDate>
+      <title>西斯吉</title>
+      <link>https://www.opensourceagenda.com/projects/sysji</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sysji</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>MatejBransky React Katex</title>
-      <link>https://www.opensourceagenda.com/projects/matejbransky-react-katex</link>
-      <description><![CDATA[使用 KaTeX 和 ReactJS 在 TeX 中显示数学]]></description>
-      <guid>https://www.opensourceagenda.com/projects/matejbransky-react-katex</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:43 GMT</pubDate>
+      <title>网络测试 1 均匀负载 Squid</title>
+      <link>https://www.opensourceagenda.com/projects/network-test-one-uniform-load-squid</link>
+      <description><![CDATA[旨在统一加载第 2 阶段 Subsquid 网络的任务鱿鱼&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/network-test-one-uniform-load-squid</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>你好阿斯特罗</title>
-      <link>https://www.opensourceagenda.com/projects/hello-astro</link>
-      <description><![CDATA[Hello Astro 是一个用 Typescript、TailwindCSS 和 AlpineJS 编写的多用途 Astro 入门主题。它支持基于 Markdown 和 MDX 的页面和博客文章。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hello-astro</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:43 GMT</pubDate>
+      <title>哲帕</title>
+      <link>https://www.opensourceagenda.com/projects/jepa</link>
+      <description><![CDATA[用于 V-JEPA 自监督视频学习的 PyTorch 代码和模型。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jepa</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>Freegpt Webui V2</title>
-      <link>https://www.opensourceagenda.com/projects/freegpt-webui-v2</link>
-      <description><![CDATA[（新）带有聊天 Web UI 的 GPT 3.5/4。无需 API 密钥。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/freegpt-webui-v2</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:42 GMT</pubDate>
+      <title>顶点应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/apex-app</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/apex-app</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>杰基尔宇宙飞船</title>
-      <link>https://www.opensourceagenda.com/projects/jekyll-spaceship</link>
-      <description><![CDATA[🚀 一个 Jekyll 插件，为 table、mathjax、plantuml、mermaid、emoji、video 提供强大的支持、音频、youtube、vimeo、dailymotion、soundcloud、Spotify 等]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jekyll-spaceship</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:42 GMT</pubDate>
+      <title>快速扩散</title>
+      <link>https://www.opensourceagenda.com/projects/swiftdiffusion</link>
+      <description><![CDATA[使用 CoreML 和 Python 实现 SwiftUI 稳定扩散]]></description>
+      <guid>https://www.opensourceagenda.com/projects/swiftdiffusion</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>Prosemirror数学</title>
-      <link>https://www.opensourceagenda.com/projects/prosemirror-math</link>
-      <description><![CDATA[ProseMirror 中“一流”数学支持的架构和插件！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/prosemirror-math</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:42 GMT</pubDate>
+      <title>朱诺滑​​块</title>
+      <link>https://www.opensourceagenda.com/projects/junoslider</link>
+      <description><![CDATA[模仿 Apple 扩展滑块的visionOS滑块视图]]></description>
+      <guid>https://www.opensourceagenda.com/projects/junoslider</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>伪代码.js</title>
-      <link>https://www.opensourceagenda.com/projects/pseudocodejs</link>
-      <description><![CDATA[漂亮的 Web 伪代码]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pseudocodejs</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:42 GMT</pubDate>
+      <title>西西西西奥1</title>
+      <link>https://www.opensourceagenda.com/projects/xixoxixo1</link>
+      <description><![CDATA[1]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xixoxixo1</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>图像质量比较</title>
-      <link>https://www.opensourceagenda.com/projects/imagequalitycompare</link>
-      <description><![CDATA[使用 RMSE、SSIM 和 PSNR 比较两个图像之间的质量。 （I3D 2018 Montage4D.com 的一部分）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/imagequalitycompare</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:41 GMT</pubDate>
+      <title>Gh 用户获取</title>
+      <link>https://www.opensourceagenda.com/projects/gh-userfetch</link>
+      <description><![CDATA[👨‍💻 GitHub CLI 的扩展，可以像 Neofetch 一样显示用户个人资料]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gh-userfetch</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>流利10g</title>
-      <link>https://www.opensourceagenda.com/projects/fluent10g</link>
-      <description><![CDATA[基于 FPGA 的可编程多 10 Gb 以太网网络测试仪]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fluent10g</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:41 GMT</pubDate>
+      <title>模组卫士</title>
+      <link>https://www.opensourceagenda.com/projects/modguard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modguard</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>虚拟试穿</title>
-      <link>https://www.opensourceagenda.com/projects/virtual-try-on</link>
-      <description><![CDATA[用于试鞋和测量脚部尺寸的增强现实 (AR) 应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/virtual-try-on</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:40 GMT</pubDate>
+      <title>Jellyfin 客户端 UWP</title>
+      <link>https://www.opensourceagenda.com/projects/jellyfin-client-uwp</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jellyfin-client-uwp</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>云德</title>
-      <link>https://www.opensourceagenda.com/projects/qloud</link>
-      <description><![CDATA[测量扬声器频率以及阶跃响应和失真的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/qloud</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:40 GMT</pubDate>
+      <title>公正</title>
+      <link>https://www.opensourceagenda.com/projects/justship</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/justship</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>物体尺寸测量</title>
-      <link>https://www.opensourceagenda.com/projects/object-dimension-measurement</link>
-      <description><![CDATA[对象尺寸对于无需任何标尺来测量对象尺寸非常有用。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/object-dimension-measurement</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:40 GMT</pubDate>
+      <title>GH简介</title>
+      <link>https://www.opensourceagenda.com/projects/gh-profile</link>
+      <description><![CDATA[:octocat：通过 gh cli 使用多个 GitHub 帐户。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gh-profile</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>沃克操作系统</title>
-      <link>https://www.opensourceagenda.com/projects/walkeros</link>
-      <description><![CDATA[用于数字分析的统一且以隐私为中心的事件数据收集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/walkeros</guid>
-      <pubDate>Thu, 15 Feb 2024 18:24:39 GMT</pubDate>
+      <title>筱田寺</title>
+      <link>https://www.opensourceagenda.com/projects/shinokada-tera</link>
+      <description><![CDATA[交互式 Bash 脚本终端音乐广播播放器。播放您最喜欢的广播电台，CRUD 您最喜欢的列表，并从您的终端探索新的广播电台。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/shinokada-tera</guid>
+      <pubDate>Thu, 15 Feb 2024 21:17:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
