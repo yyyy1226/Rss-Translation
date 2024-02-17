@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 17 Feb 2024 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 18:22:27 GMT</lastBuildDate>
+    <item>
+      <title>支持自动更新尺寸标签的免费 CAD 应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</link>
+      <description><![CDATA[我正在寻找一款免费的 2D CAD 应用程序，该应用程序支持在缩放形状时自动更新的尺寸标签。研究了几个应用程序，发现 LibreCAD 或 FreeCAD 都无法做到这一点。 这是 SmartDraw 中的功能。不幸的是，他们只按年收费，而且我不会使用它足够的成本效益。如果是按月付款，我肯定会付费。 https://imgur.com/a/3Yvp8BS   由   提交 /u/HiddenMushroom11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</guid>
+      <pubDate>Sat, 17 Feb 2024 17:19:36 GMT</pubDate>
+    </item>
     <item>
       <title>Wdyt 是最好的开源 Miro 替代品吗？也非常适合在 Nextcloud 中使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1at2y30/wdyt_is_the_best_opensource_miro_alternative/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/matthiasjmair   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1arqu85/code_chores_the_boring_part_of_maintenance/</guid>
       <pubDate>Thu, 15 Feb 2024 21:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找最佳开源 CAD</title>
-      <link>https://www.reddit.com/r/opensource/comments/1arqiu9/hunting_for_best_open_source_cad/</link>
-      <description><![CDATA[我一直在潜伏和研究满足我需求的最佳开源 CAD（免费）选项，但我觉得我无法完全找到一个处理它。所以我当然会求助于 reddit 的英雄。 我曾经是一家公司的设计助理，使用 CAD 来制作他们的 2D 平面图和立面图。几年前我离开了这个领域。最近，我担任助理的一位设计师来找我，说她要单独行动，并想知道我是否能够帮助找到一个程序/根据需要创建她的图纸。  我首先尝试了 libreCAD - 它似乎最适合我的需求。我已经了解了需要对新图纸进行的调整，但我在个人驱动器上发现了来自公司的旧 DWG 文件，并且它不能很好地转换为程序。他们的模板是我认为典型的 - 绘图空间，然后是一张显示适合 A4 (8.5x11) 1&#39;=1/16&quot; 尺寸的纸张空间的纸张。打印比例尺，方便客户了解要点。对于开源 CAD，是否有更好的选择？或者是一个会“说话”的人。 DWG 文件更好？如果她能够保留以前的 DWG，那么当客户返回未来的项目并仅在原始文件中工作时，显然会容易得多。 提前致谢！   由   提交/u/emm_space  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1arqiu9/hunting_for_best_open_source_cad/</guid>
-      <pubDate>Thu, 15 Feb 2024 21:18:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
