@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 12:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 18:17:42 GMT</lastBuildDate>
     <item>
-      <title>Python 日期时间库有其怪癖，其中的陷阱比您想象的要多，并且它们 [...]</title>
-      <link>https://t.me/hn_summary/74782</link>
-      <description><![CDATA[十个 Python 日期时间陷阱，以及库正在（不）做什么它
-Python 日期时间库有其怪癖，其中的陷阱比您想象的要多，并且第三方库没有完全解决这些问题。创建了一个新库来探索更好的日期时间解决方案。陷阱包括混合朴素日期时间和感知日期时间、忽略运算符中的夏令时、对“朴素”的不一致解释、不存在的日期时间悄然流逝以及在模棱两可的情况下进行猜测。像 heliclockter 和 DateType 这样的库解决了一些问题，而 arrow 和 pendulum 仍然有改进的空间。令人惊讶的是，时区之间消除歧义的时间总是评估错误，并且时区内的相等性存在不一致。从 date 继承 datetime 也会导致意外的行为。 （根据 53% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74782</guid>
-      <pubDate>Sun, 18 Feb 2024 12:28:24 GMT</pubDate>
+      <title>Magic AI 是一家总部位于旧金山的初创公司，已获得 1.17 亿美元的资金来开发人工智能 [...]</title>
+      <link>https://t.me/hn_summary/74836</link>
+      <description><![CDATA[Magic AI 融资 1.17 亿美元培养人工智能软件工程师
+Magic AI 是一家总部位于旧金山的初创公司，已获得 1.17 亿美元的资金，用于培养一名人工智能软件工程师，旨在彻底改变软件开发。此次融资由 NFDG Ventures 领投，融资总额超过 1.45 亿美元。 Magic AI 成立于 2022 年，专注于培养能够协助完成复杂编码任务并充当真正同事的 AI 工程师。他们独特的方法涉及处理异常大的上下文窗口，从而允许更细致的代码理解。 Magic AI 雄心勃勃地创建符合人类价值观的功能广泛的 AGI 系统，在竞争激烈的人工智能领域中脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/74836</guid>
+      <pubDate>Sun, 18 Feb 2024 18:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧盟宣布计划对苹果公司处以 5 亿欧元罚款，这是一项历史性举措 [...]</title>
-      <link>https://t.me/hn_summary/74781</link>
-      <description><![CDATA[欧盟对苹果公司首次就音乐问题处以 5 亿欧元罚款流媒体
-欧盟宣布计划对苹果公司因其音乐流媒体服务相关的反垄断违规行为处以 5 亿欧元罚款，这是一项历史性举措。这标志着欧盟首次对科技巨头实施如此严厉的处罚。这场争议源于苹果涉嫌滥用其市场主导地位来抑制竞争。这一决定肯定会对整个科技行业产生深远的影响。立即订阅《金融时报》数字版，了解最新新闻和分析。]]></description>
-      <guid>https://t.me/hn_summary/74781</guid>
-      <pubDate>Sun, 18 Feb 2024 12:24:20 GMT</pubDate>
+      <title>[媒体] 推出 Infinite Image Craft，这是一个独特的互动网站，您可以在其中合并 [...]</title>
+      <link>https://t.me/hn_summary/74835</link>
+      <description><![CDATA[展示HN：无限图像工艺
+介绍 Infinite Image Craft，这是一个独特的交互式网站，您只需单击一下即可合并两个图像！只需访问 www.ligma.art 即可发挥您的创造力通过组合不同的图像来创造令人惊叹且独一无二的作品。这个创新平台为艺术表达和实验提供了无限的可能性。尝试一下，看看你能想出什么奇妙的创意！]]></description>
+      <guid>https://t.me/hn_summary/74835</guid>
+      <pubDate>Sun, 18 Feb 2024 18:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]天文学家通过探测宇宙中的暗物质取得了突破性的发现[...]</title>
-      <link>https://t.me/hn_summary/74780</link>
-      <description><![CDATA[天文学家在宇宙网中捕获暗物质，揭示了一个看不见的宇宙&lt; /a&gt;
-天文学家首次探测到宇宙网上的暗物质，取得了突破性的发现。利用引力透镜，他们能够间接“看到”附着在后发星团上的不可见暗物质丝，证实了宇宙网的存在。这一发现不仅进一步证实了长期以来关于宇宙结构的理论，而且为理解宇宙如何随时间演化提供了新的可能性。这一发现揭示了仅与重力相互作用的神秘暗物质，并为了解浩瀚的宇宙提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/74780</guid>
-      <pubDate>Sun, 18 Feb 2024 12:20:16 GMT</pubDate>
+      <title>[媒体] GitHub 上的“Settings Bundle”项目是一个 Symfony 包，旨在轻松创建 [...]</title>
+      <link>https://t.me/hn_summary/74834</link>
+      <description><![CDATA[显示 HN：一个 symfony 包，可轻松创建类型安全、用户友好的可配置设置
+GitHub 上的“Settings Bundle”项目是一个 Symfony 捆绑包，旨在轻松创建和管理 Symfony 应用程序中的用户可配置设置。它允许创建类型安全的设置对象，可以通过 Web 前端管理和更改这些对象。与其他类似的捆绑包不同，该项目专注于模块化和类型安全，允许将设置定义为具有元数据属性的类。它提供基于类的设置管理、类型安全访问、简单的 API 使用和各种存储后端等功能。该项目还提供用于更改设置的表单生成和用于调试的分析器集成。它需要 PHP 8.1 或更高版本以及 Symfony 6.4 或更高版本。]]></description>
+      <guid>https://t.me/hn_summary/74834</guid>
+      <pubDate>Sun, 18 Feb 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 NVIDIA 的 A800 40GB 主动显卡，这是 g [...]</title>
-      <link>https://t.me/hn_summary/74779</link>
-      <description><![CDATA[A800 40GB 活动显卡
-隆重推出 NVIDIA 的 A800 40GB 主动显卡，这是图形技术的最新创新。该卡具有令人印象深刻的 40GB 内存，专为高性能游戏和专业应用而设计。主动冷却系统即使在激烈的游戏过程中也能确保最佳性能。 A800 还具有先进的图形处理功能，使其成为虚拟现实和 3D 建模的理想选择。使用 NVIDIA 的 A800 40GB 主动显卡升级您的游戏体验。现已在我们的网站上提供。]]></description>
-      <guid>https://t.me/hn_summary/74779</guid>
-      <pubDate>Sun, 18 Feb 2024 12:16:12 GMT</pubDate>
+      <title>[媒体]太空核推进是一项利用裂变力量的尖端技术[...]</title>
+      <link>https://t.me/hn_summary/74833</link>
+      <description><![CDATA[太空核推进
+太空核推进是一项尖端技术，利用裂变的力量为载人火星任务和深空探索提供几乎无限的能量密度。美国宇航局正在探索热和电核推进系统，热推进提供高推力和推进剂效率，而电力推进效率更高，但推力较低。 NASA 与能源部设施和研究机构等行业合作伙伴之间的合作正在突破太空探索的界限，并可能在 2030 年代彻底改变人类火星任务。这项技术有可能改变深空探索的游戏规则。]]></description>
+      <guid>https://t.me/hn_summary/74833</guid>
+      <pubDate>Sun, 18 Feb 2024 18:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>史蒂夫·乔布斯想要传递的教训。</title>
-      <link>https://t.me/hn_summary/74778</link>
-      <description><![CDATA[史蒂夫·乔布斯想要传递的教训。写于他去世前
-在他生命的最后几天，史蒂夫·乔布斯想与世界分享一些重要的教训。从追随激情的重要性到简单的力量，乔布斯坚信要过真实的生活。他强调坚持不懈、永不满足于平庸的价值。有争议的是，乔布斯还谈到了死亡的不可避免性，以及死亡如何成为充实生活的动力。他的话提醒我们要迎接挑战，保持对成功的渴望，并始终追求卓越。史蒂夫·乔布斯的智慧至今仍在激励和指导我们。]]></description>
-      <guid>https://t.me/hn_summary/74778</guid>
-      <pubDate>Sun, 18 Feb 2024 12:12:09 GMT</pubDate>
+      <title>隆重推出 Domino Fit，终极多米诺骨牌拼图游戏！</title>
+      <link>https://t.me/hn_summary/74832</link>
+      <description><![CDATA[显示 HN：Domino Fit – 多米诺平铺拼图&lt; br/&gt;
+隆重推出 Domino Fit，终极多米诺骨牌拼图游戏！通过这款令人上瘾且益智的游戏来挑战自己，测试您的空间推理能力。你能完美地拼合所有多米诺骨牌来完成拼图吗？请访问 dominofit.isotropic.us 进行尝试并查看你能多快解决它。准备好锻炼你的思维并享受 Domino Fit 带来的乐趣吧！]]></description>
+      <guid>https://t.me/hn_summary/74832</guid>
+      <pubDate>Sun, 18 Feb 2024 18:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>CorsixTH 是 1997 年 Bullfrog 商业模拟主题医院的开源克隆，经过重新构想 [...]</title>
-      <link>https://t.me/hn_summary/74777</link>
-      <description><![CDATA[CorsixTH：主题医院的开源克隆&lt; br/&gt;
-CorsixTH 是 1997 年 Bullfrog 商业模拟主题医院的开源克隆，针对现代操作系统进行了重新设计，具有高分辨率和附加功能。它忠实地重现了原始游戏，同时添加了自定义关卡、全高清支持、缩放等新元素。大多数功能都可用，允许玩家完成完整的战役。该项目正在寻求开发人员和非编码人员的帮助，以改进和扩展 CorsixTH。有些领域仍然需要改进，例如多人/局域网支持和人工智能医院。该项目还提供 19 种语言的翻译，并鼓励社区通过各种沟通渠道参与。]]></description>
-      <guid>https://t.me/hn_summary/74777</guid>
-      <pubDate>Sun, 18 Feb 2024 12:08:05 GMT</pubDate>
+      <title>在 Lapce，我们通过内置功能提供全面的编码体验。</title>
+      <link>https://t.me/hn_summary/74831</link>
+      <description><![CDATA[拉普斯
+在 Lapce，我们通过内置功能提供全面的编码体验。我们使用 Tree-sitter 的代码语法突出显示比传统的基于正则表达式的方法更快、更准确。此外，我们还为代码智能提供内置 LSP 支持，包括代码完成、诊断和代码操作等功能。告别缓慢且过时的工具 - Lapce 拥有高效编码所需的一切。今天就尝试一下，亲自体验一下差异。]]></description>
+      <guid>https://t.me/hn_summary/74831</guid>
+      <pubDate>Sun, 18 Feb 2024 17:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Brainbaking.com 上的“Pimp Your Board Games”中，作者讨论了创作过程 [...]</title>
-      <link>https://t.me/hn_summary/74776</link>
-      <description><![CDATA[为您的棋盘游戏提供便利
-在 brainbaking.com 上的“Pimp Your Board Games”中，作者讨论通过制作自定义组件来增强棋盘游戏的创意过程。作者利用FIMO粘土，将奥地利大酒店中呆板的食物块变成了小咖啡杯和蛋糕片，为游戏增添了魅力。还创建了定制镶嵌物来组织游戏部件并简化设置。尽管在烘烤粘土时出现了一些失误，但作者独特的桌游定制方法还是受到了玩家的好评。本文重点介绍了个性化棋盘游戏的乐趣以及创建独一无二的组件的满足感。]]></description>
-      <guid>https://t.me/hn_summary/74776</guid>
-      <pubDate>Sun, 18 Feb 2024 11:56:00 GMT</pubDate>
+      <title>由于各种原因，Apple 的一些最忠实的客户出人意料地退回了他们的 Vision Pro [...]</title>
+      <link>https://t.me/hn_summary/74830</link>
+      <description><![CDATA[为什么苹果的一些忠实粉丝正在回归他们的视觉专业人士
+由于产品存在各种问题，苹果的一些最忠实的客户出人意料地退回了他们的 Vision Pro。尽管期望很高，但用户还是报告了眼镜的贴合度、舒适度和整体功能方面的问题。这场争议引发了科技爱好者和苹果粉丝关于该公司兑现承诺能力的争论。当客户权衡他们的选择时，苹果将如何解决这些问题并保持其忠实粉丝群的信任还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/74830</guid>
+      <pubDate>Sun, 18 Feb 2024 17:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1995 年，《Why the Web Won't Be Nirvana》一书的作者质疑围绕 t 的炒作 [...]</title>
-      <link>https://t.me/hn_summary/74775</link>
-      <description><![CDATA[为什么网络不会涅槃（1995）
-1995 年，《Why the Web Won&#39;t Be Nirvana》一书的作者质疑围绕互联网的炒作，认为它不会像预测的那样彻底改变社会。他们批评在线质量控制的缺乏、技术造成的孤立以及对互联网对教育和商业的潜在影响的高估。作者强调了人类互动的重要性和虚拟现实的局限性。这篇有争议的文章挑战了人们对互联网未来的普遍乐观态度，敦促读者考虑过度依赖数字技术的弊端。]]></description>
-      <guid>https://t.me/hn_summary/74775</guid>
-      <pubDate>Sun, 18 Feb 2024 11:43:53 GMT</pubDate>
+      <title>嘿！</title>
+      <link>https://t.me/hn_summary/74829</link>
+      <description><![CDATA[显示 HN：仅供娱乐
+嘿！欢迎来到 randomball.netlify.app，您可以在这里享受使用我们的随机球生成器带来有趣的互动体验。只需单击按钮，即可观看球在屏幕上以令人着迷的显示方式弹跳。这是一种简单而有趣的方式来打发时间，甚至可以缓解一些压力。尝试一下，看看你能让球弹跳多少次才消失。这是一种独特且令人惊讶的在线娱乐方式。所以，来吧，试一试，看看随机球会带你去哪里！]]></description>
+      <guid>https://t.me/hn_summary/74829</guid>
+      <pubDate>Sun, 18 Feb 2024 17:49:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在“从中间开始”中，作者讨论了通过[...]启动项目的重要性</title>
-      <link>https://t.me/hn_summary/74774</link>
-      <description><![CDATA[从中间开始（2010）
-在《从中间开始》一书中，作者讨论了通过关注核心、有趣的问题而不是陷入不必要的细节来启动项目的重要性。作者通过个人轶事和例子强调了这种方法的好处，例如尽早发现一个想法是否不可行，通过解决有吸引力的问题保持动力，以及能够快速适应新发现。通过从中间开始，程序员可以避免在不相关的任务上浪费时间，而是创造出真正有价值和创新的东西。作者的建议受到精益创业原则的启发，强调从一开始就关注项目核心的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74774</guid>
-      <pubDate>Sun, 18 Feb 2024 11:16:44 GMT</pubDate>
+      <title>[媒体]“Trello 卡片计数器”项目是一个 Tampermonkey 脚本，可添加卡片计数 [...]</title>
+      <link>https://t.me/hn_summary/74828</link>
+      <description><![CDATA[显示 HN：Trello 的一个小 Tampermonkey 脚本，用于显示卡片计数列表
+“Trello 卡片计数器”项目是一个 Tampermonkey 脚本，可为 Trello 看板上的列表添加卡片计数。它旨在为用户提供一种快速简便的方法来查看每个列表中的卡片数量，从而更轻松地管理和组织任务。作者提到该脚本与各种浏览器兼容，并提供了从 Greasyfork 下载它的链接。该项目的与众不同之处在于提供了一个简单而具体的解决方案来增强 Trello 用户体验。]]></description>
+      <guid>https://t.me/hn_summary/74828</guid>
+      <pubDate>Sun, 18 Feb 2024 17:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：作者介绍了一个名为 wddbfs 的实用程序，允许用户挂载 SQ [...]</title>
-      <link>https://t.me/hn_summary/74773</link>
-      <description><![CDATA[Wddbfs – 将 SQLite 数据库挂载为文件系统&lt; br/&gt;
-摘要： 作者介绍了一个名为 wddbfs 的实用程序，它允许用户将 SQLite 数据库安装为文件系统，以便终端、文件管理器和文本编辑器可以访问它。该工具旨在将处理目录中文件的便利性与使用 SQLite 数据库的优点结合起来。用户可以安装 wddbfs 并挂载数据库，从而能够以 CSV、TSV、JSON 和行分隔 JSON 文件的形式查看和操作表。但是，存在一些限制，例如每次读取都会将整个表读入内存，并且目前缺乏写入支持。]]></description>
-      <guid>https://t.me/hn_summary/74773</guid>
-      <pubDate>Sun, 18 Feb 2024 09:55:17 GMT</pubDate>
+      <title>[媒体] 百页 vs.</title>
+      <link>https://t.me/hn_summary/74827</link>
+      <description><![CDATA[一百页与 11 个字
+在这篇发人深省的文章中，作者深入研究了传统语言的低效率以及通过使用抽象和语言模型进行改进的潜力。通过将冗长的应用问题与简洁的数学方程进行比较，作者强调了通过抽象可以实现的清晰度和精确性。作者探讨了语言模型将智力与语言分离的有争议的想法，作者最终表达了对未来的希望，即思想比雄辩的散文更有价值。这个令人惊讶的结论提供了一个强有力的例子，说明如何用短短十一个词有效地传达复杂的情感。]]></description>
+      <guid>https://t.me/hn_summary/74827</guid>
+      <pubDate>Sun, 18 Feb 2024 17:41:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
