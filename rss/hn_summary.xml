@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 01:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 06:20:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国最热门的潮流</title>
-      <link>https://t.me/hn_summary/74742</link>
-      <description><![CDATA[美国城市最热门的趋势？改变分区规则以允许更多住房
-美国各地城市都面临着住房危机，需要数百万套住房，而负担能力成为一个主要问题。为了解决这个问题，许多城市正在改变其分区规则，以提供更多的住房选择。明尼阿波利斯一直是这一运动的领导者，它结束了单户住宅区划，并且在短短五年内住房存量增加了 12%。这些变化导致更多的中型公寓楼建成，从而保持租金稳定。休斯顿和弗吉尼亚州泰森斯等其他城市也在做出改变，以增加住房选择和负担能力。区划改革正在成为全国城市的热点趋势。 （根据故事文本的 75% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74742</guid>
-      <pubDate>Sun, 18 Feb 2024 01:01:25 GMT</pubDate>
+      <title>询问 HN：我应该使用哪种 Python 类型检查器？</title>
+      <link>https://t.me/hn_summary/74761</link>
+      <description><![CDATA[询问 HN：我应该使用哪种 Python 类型检查器？
+我是 Python 新手，但熟悉 Rust 和 Typescript 等语言中的类型检查。我正在寻找有关在 Python 中使用哪种类型检查器的建议。有多种选择可供选择，每种选择都有自己的优点和缺点。我想确保我将时间和精力投入到满足我需求的正确工具上。来自经验丰富的 Python 开发人员的任何建议或见解将不胜感激。让我们讨论并分享有关最佳 Python 类型检查器的知识。]]></description>
+      <guid>https://t.me/hn_summary/74761</guid>
+      <pubDate>Sun, 18 Feb 2024 06:20:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这个实验中，作者训练了一个用于交互式着色的 ControlNet 模型 [...]</title>
-      <link>https://t.me/hn_summary/74741</link>
-      <description><![CDATA[使用 SD ControlNet 进行交互式着色
-在这个实验中，作者使用线条图训练了一个用于交互式着色的 ControlNet 模型。受到 Twitter 帖子的启发以及对设计新用户交互的热爱，作者使用目标图像和提示的配对数据集来训练模型。通过生成彩色笔画并使用独特的算法，作者从图像组合创建了一个数据集。该实验在 Lambda Labs 的 A10 24GB GPU 上运行，为期 2 个月的训练成本约为 1,000 美元。作者反思了生成式 AI 的局限性，并讨论了该项目的潜在改进，包括探索 Stable Cascade 或 DeepFloyd IF 等新模型。]]></description>
-      <guid>https://t.me/hn_summary/74741</guid>
-      <pubDate>Sun, 18 Feb 2024 00:57:21 GMT</pubDate>
+      <title>摘要：discuss.apple.com 上的用户报告称，他们的 Apple Watch Ultra 2 [...]</title>
+      <link>https://t.me/hn_summary/74760</link>
+      <description><![CDATA[Apple Watch Ultra 2 被黑
+摘要：discussions.apple.com 上的用户报告称他们的 Apple Watch Ultra 2 遭到黑客攻击，黑客可以访问他们的健身数据。令人惊讶的是，黑客能够在用户没有出现任何明显错误的情况下进入系统。这引起了人们对 Apple Watch 漏洞的担忧，并促使用户采取恢复设备和更改密码等预防措施。争议在于，黑客能够在用户不知情的情况下破坏 Apple Watch 的安全性。]]></description>
+      <guid>https://t.me/hn_summary/74760</guid>
+      <pubDate>Sun, 18 Feb 2024 06:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] vgel.me 上的博客文章深入探讨了表示工程的概念，具体 [...]</title>
-      <link>https://t.me/hn_summary/74740</link>
-      <description><![CDATA[表示工程：Acid 上的 Mistral-7B
-vgel.me 上的博客文章深入探讨了表示工程的概念，特别关注 Mistral-7B 模型以及在推理过程中控制向量的应用，以解释和控制模型的行为。作者被称为 RAISIN，他们探索使用控制向量来影响模型的行为，例如使其表现得非常高兴或头晕。它们深入了解使用 PCA 创建控制向量的过程，并提供一个简单的脚本来生成和应用这些向量。这篇文章强调了控制向量在塑造人工智能行为方面的力量和多功能性，使它们成为模型操作的宝贵工具。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74740</guid>
-      <pubDate>Sun, 18 Feb 2024 00:53:16 GMT</pubDate>
+      <title>[媒体]标题：一封写给Apache Echarts的情书</title>
+      <link>https://t.me/hn_summary/74759</link>
+      <description><![CDATA[一封给 Apache Echarts 的情书
+标题：一封写给 Apache Echarts 的情书
+
+在这篇对 Apache Echarts 的颂歌中，我们深入探讨了轻松创建烛台图等令人惊叹的可视化效果的美妙之处。使用像 candles = echarts.init(document.getElementById(&#39;candles&#39;)); 这样的简单代码，我们可以以一种视觉上有吸引力的方式显示复杂的数据，例如苹果公司的股票价格。自定义工具提示、轴刻度和图表类型的能力使 Apache Echarts 成为数据可视化爱好者的强大工具。只需几行代码，我们就可以将数据变为现实并讲述引人入胜的故事。拥抱 Apache Echarts 的魔力，释放数据可视化项目的潜力。]]></description>
+      <guid>https://t.me/hn_summary/74759</guid>
+      <pubDate>Sun, 18 Feb 2024 06:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 断开 Playstation 5 与互联网的连接可以加快 DVD 的安装速度 [...]</title>
-      <link>https://t.me/hn_summary/74739</link>
-      <description><![CDATA[断开 Playstation 5 与 Internet 的连接可以更快地安装 DVD 游戏 
-根据 old.reddit.com。该网站还提供每周帮助和问题线索，以及发布内容和参与社区的指南。我们鼓励用户尊重并避免有毒行为，并制定禁止偏执和转发的规则。经过验证的用户（包括开发人员和记者）可以在其用户名旁边获得唯一的验证复选标记。该网站还设有 AMA、赠品、促销、官方新闻、媒体发布和活动政策。]]></description>
-      <guid>https://t.me/hn_summary/74739</guid>
-      <pubDate>Sun, 18 Feb 2024 00:49:12 GMT</pubDate>
+      <title>[媒体] 挪威 Equinor Sleipner 设施的碳捕获设施是一个异常值 [...]</title>
+      <link>https://t.me/hn_summary/74758</link>
+      <description><![CDATA[全球碳捕获设施因使用产品而产生的二氧化碳排放量增加了 25 倍&lt; /a&gt;
+挪威 Equinor Sleipner 工厂的碳捕集设施是碳封存领域的佼佼者，是世界上最大的实际封存设施，运营成本不到 3000 万美元。然而，该设施从天然气中提取二氧化碳并将其封存的过程存在争议——每加工 1000 公斤天然气，就会封存 90 公斤二氧化碳，但剩余气体燃烧时会产生超过 2500 公斤二氧化碳。这导致该设施排放的二氧化碳比其捕获的二氧化碳多 25 倍以上，凸显了碳捕获技术的低效率和争议。]]></description>
+      <guid>https://t.me/hn_summary/74758</guid>
+      <pubDate>Sun, 18 Feb 2024 05:43:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的 AI 餐厅菜单与 RAG（真正的 AI 生成）正在彻底改变餐饮体验 [...]</title>
-      <link>https://t.me/hn_summary/74738</link>
-      <description><![CDATA[带RAG的人工智能餐厅菜单
-我们的 AI 餐厅菜单采用 RAG（真实 AI 生成），正在彻底改变用餐体验。通过利用尖端技术，我们创建了适合个人喜好和饮食限制的菜单，提供前所未有的个性化用餐体验。我们能够根据客户的意见制作独特的菜肴，因此我们的菜单不断发展，并通过新的创新选项给食客带来惊喜。告别传统菜单，迎接未来的餐饮，使用我们的人工智能菜单：wandb.ai。]]></description>
-      <guid>https://t.me/hn_summary/74738</guid>
-      <pubDate>Sun, 18 Feb 2024 00:45:01 GMT</pubDate>
+      <title>探索多边形台球的神秘世界，其中有关轨迹的基本问题[...]</title>
+      <link>https://t.me/hn_summary/74757</link>
+      <description><![CDATA[揭开多边形台球的神秘面纱
+探索多边形台球的神秘世界，其中有关轨迹的基本问题仍未得到解答。从简单的矩形表到复杂的三角形，数学家使用展开路径和拓扑表面等创新方法来深入研究谜团。当研究人员努力寻找周期性轨道时，钝角三角形引起了争议。令人惊讶的是，带有角落和缝隙的形状会导致照明问题，探索激光束在台球桌上的照射范围。尽管面临挑战，但还是取得了突破性的发现，展示了抽象数学与现实世界应用之间的深刻联系。玛丽亚姆·米尔扎哈尼 (Maryam Mirzakhani) 等杰出数学家的遗产在寻求解开这些数学难题的过程中得以延续。]]></description>
+      <guid>https://t.me/hn_summary/74757</guid>
+      <pubDate>Sun, 18 Feb 2024 05:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本科学家开发出突破性的木制卫星 LignoSat，以 [...]</title>
-      <link>https://t.me/hn_summary/74737</link>
-      <description><![CDATA[日本将发射首颗木制卫星以对抗太空污染 
-日本科学家开发了一种突破性的木质卫星 LignoSat，以对抗传统金属卫星造成的空间污染。该卫星由玉兰木制成，已被证明在太空条件下稳定且不易破裂。如果成功，这种环保的替代方案可能会彻底改变卫星的构造，因为传统卫星在重返大气层时会在大气中沉积有害的氧化铝颗粒。 LignoSat 的大小与咖啡杯相当，将在轨道上接受测试以评估其性能。如果成功，木材可能成为未来卫星的可行材料，从而有可能减轻与空间碎片相关的环境问题。]]></description>
-      <guid>https://t.me/hn_summary/74737</guid>
-      <pubDate>Sun, 18 Feb 2024 00:40:58 GMT</pubDate>
+      <title>[媒体]《毁灭战士 RPG》粉丝的激动人心的消息！</title>
+      <link>https://t.me/hn_summary/74756</link>
+      <description><![CDATA[Doom RPG端口逆向工程更新（版本0.2.2）源代码发布
+对于《毁灭战士 RPG》的粉丝来说，这是一个激动人心的消息！端口逆向工程更新的0.2.2版本已经发布，源代码现在可以在我们的网站上下载。本次更新带来了大量改进和错误修复，让玩家更加享受游戏的乐趣。通过创建帐户或登录来发表评论并分享您对此最新版本的想法来加入讨论。不要错过这次更新以全新方式体验《毁灭战士 RPG》的机会！]]></description>
+      <guid>https://t.me/hn_summary/74756</guid>
+      <pubDate>Sun, 18 Feb 2024 04:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]哈萨克斯坦大规模甲烷泄漏持续了六个多月，发布了估计 [...]</title>
-      <link>https://t.me/hn_summary/74736</link>
-      <description><![CDATA[哈萨克斯坦：甲烷特大泄漏持续数月 
-哈萨克斯坦大规模甲烷泄漏持续了六个多月，估计释放了 127,000 吨天然气。拥有该井的公司否认泄漏程度，声称仅存在“微不足道”的天然气量。然而，卫星数据和独立分析证实了泄漏的严重性，与一年驾驶超过 717,000 辆汽油车对环境的影响相比。此次事件是有记录以来最大的甲烷泄漏事件之一，凸显了哈萨克斯坦等国家迫切需要减少甲烷排放，以防止进一步的环境破坏。]]></description>
-      <guid>https://t.me/hn_summary/74736</guid>
-      <pubDate>Sun, 18 Feb 2024 00:33:54 GMT</pubDate>
+      <title>作者讨论了他们使用 Lenovo X201 笔记本电脑的体验以及 phy [...]</title>
+      <link>https://t.me/hn_summary/74755</link>
+      <description><![CDATA[绕过 Lenovo X201 (2023) 上的 WiFi 硬件开关
+作者讨论了他们使用 Lenovo X201 笔记本电脑的体验以及物理 WiFi 终止开关的烦恼。他们探索了各种解决连接问题的方案，最终选择阻止 WiFi 卡上的 PIN20 作为解决方案。该过程包括打开笔记本电脑，取出 WiFi 卡，然后将电工胶带放在特定的引脚上。作者强调了流程的简单性以及修改后WiFi稳定性的提高。这种非传统的修复方法无需处理不稳定的硬件开关，为 WiFi 问题提供了巧妙且有效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/74755</guid>
+      <pubDate>Sun, 18 Feb 2024 04:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]每年有数百万头驴被宰杀，以满足传统传统阿胶的需求。</title>
-      <link>https://t.me/hn_summary/74735</link>
-      <description><![CDATA[每年有数百万头驴被杀来制药&lt; br/&gt;
-每年有数百万头驴被宰杀，以满足对阿胶的需求，阿胶是一种用驴皮制成的中药。这种有争议的贸易导致驴的数量迅速减少，影响了农村社区许多依赖这些动物工作和运输的人们的生计。驴保护区正在倡导在整个非洲范围内禁止屠宰和出口驴，以保护这些珍贵的动物。这种贸易还引起了人们对动物福利、公共卫生以及非法野生动物贩运的可能性的担忧。尽管面临挑战，布鲁克等组织仍在努力为有需要的人提供驴子，比如史蒂夫，他失去了驴子，但现在有了一个名叫乔伊·幸运的新伙伴。]]></description>
-      <guid>https://t.me/hn_summary/74735</guid>
-      <pubDate>Sun, 18 Feb 2024 00:29:51 GMT</pubDate>
+      <title>[媒体] 网络写作还有什么乐趣？</title>
+      <link>https://t.me/hn_summary/74754</link>
+      <description><![CDATA[在互联网上写作还有什么乐趣？ 
+作者质疑在自动化工具使抄袭和歪曲内容变得容易的世界中，在互联网上写作的价值。随着人工智能和付费墙在数字领域占据主导地位，作者身份和精神权利的概念变得越来越无关紧要。尽管面临挑战，作者还是鼓励作家关注思想而不是作者身份，因为思想的影响力超越个人。在线写作可能不会带来名气或认可，但它对于塑造未来的思想和观点至关重要。在一个充满机器人和巨魔的世界中，独立写作对于培养新思想和批判性思维至关重要。]]></description>
+      <guid>https://t.me/hn_summary/74754</guid>
+      <pubDate>Sun, 18 Feb 2024 04:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 真实的视频提示！</title>
-      <link>https://t.me/hn_summary/74734</link>
-      <description><![CDATA[来自提示的真实视频！=系统了解物理世界 
-认为根据提示生成的真实视频意味着系统了解物理世界的想法是一种误解。虽然这些视频可能看起来令人信服，但它们实际上只是先进算法和机器学习技术的结果。该系统并不像人类那样真正理解物理世界。重要的是要记住，这些视频是根据模式和数据创建的，而不是真正的理解。因此，下次您观看逼真的视频时，请记住，这完全是关于巧妙的编程，而不是真正的理解。]]></description>
-      <guid>https://t.me/hn_summary/74734</guid>
-      <pubDate>Sun, 18 Feb 2024 00:10:41 GMT</pubDate>
+      <title>[媒体] 在本周 The Register 的 On Call 专栏中，一位名叫 Neil 的读者分享了一项疯狂的技术 [...]</title>
+      <link>https://t.me/hn_summary/74753</link>
+      <description><![CDATA[但是这个令人兴奋的服务器刚刚到达
+在本周 The Register 的 On Call 专栏中，一位名叫 Neil 的读者分享了一个涉及服务器灾难的疯狂技术支持故事。尼尔的雇主聘请了一位主管的侄子，他性格悠闲，散发着香草味，负责服务器包装和调度。尽管他的职业道德值得怀疑，但这位侄子还是设法向供应商发送了一台高价值的服务器以换取债务，给客户带来了混乱。侄子很快就被解雇了，这一事件成为技术支持出错的搞笑故事。与 The Register 分享您自己的技术支持故事，就有机会在未来的专栏中亮相。]]></description>
+      <guid>https://t.me/hn_summary/74753</guid>
+      <pubDate>Sun, 18 Feb 2024 03:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]瑞典隆德大学的一项开创性研究表明，斯堪的纳维亚半岛的第一个[...]</title>
-      <link>https://t.me/hn_summary/74733</link>
-      <description><![CDATA[斯堪的纳维亚第一批农民屠杀了当地的狩猎采集人口 
-瑞典隆德大学的一项开创性研究表明，斯堪的纳维亚半岛的第一批农民在几代之内就消灭了当地的狩猎采集人口，这与之前的看法相反。对丹麦发现的骨骼和牙齿的 DNA 分析表明，7,300 年来有两次主要的人口更替，暴力死亡和新病原体导致了狩猎采集者的灭亡。令人惊讶的是，第一批农民人口的遗传特征基本上已被消除，今天的人口是颜那亚和东欧新石器时代起源的半游牧民族的后裔。这项研究挑战了先前的理论，并为历史移民流动和医学研究提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/74733</guid>
-      <pubDate>Sat, 17 Feb 2024 23:59:36 GMT</pubDate>
+      <title>[媒体] github 项目为字节级字节对编码提供了最少、干净的代码 [...]</title>
+      <link>https://t.me/hn_summary/74752</link>
+      <description><![CDATA[（字节级）字节对编码 (BPE) 的教育代码）算法
+github 项目为大型语言模型 (LLM) 标记化中常用的字节级字节对编码 (BPE) 算法提供了最少、干净的代码。该项目包括两个分词器，可以训练分词器词汇、将文本编码为标记以及将标记解码回文本。它的与众不同之处在于提供了一个 RegexTokenizer，可以在标记化之前按类别拆分输入文本，以防止跨边界合并。此外，它还包括一个 GPT4Tokenizer，可以重现 GPT-4 的标记化。该项目还提供了使用示例和测试，以及未来优化和处理特殊代币的计划。该项目已获得麻省理工学院许可。]]></description>
+      <guid>https://t.me/hn_summary/74752</guid>
+      <pubDate>Sun, 18 Feb 2024 03:05:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
