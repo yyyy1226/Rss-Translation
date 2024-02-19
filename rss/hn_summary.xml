@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 18:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 21:13:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Facebook 和 Instagram 的母公司 Meta 警告称，可能会关闭 [...]</title>
-      <link>https://t.me/hn_summary/74999</link>
-      <description><![CDATA[Meta 警告可能会在欧盟关闭 Facebook，欧盟领导人表示生活&#39;很好，没有
-Facebook 和 Instagram 的母公司 Meta 警告称，由于数据法规阻止欧洲数据传输到美国服务器，该公司可能会关闭在欧洲的服务。令人惊讶的是，欧洲领导人接受了这一警告，德国和法国部长表示，没有 Facebook 的生活真是太棒了。 Meta澄清称，目前不打算从欧洲撤出服务，但情况仍存在不确定性。欧盟委员会正在与美国制定新的数据传输安排。此外，Meta 的财务困境仍在继续，每日活跃用户和股票价值大幅下降。]]></description>
-      <guid>https://t.me/hn_summary/74999</guid>
-      <pubDate>Mon, 19 Feb 2024 18:21:13 GMT</pubDate>
+      <title>[媒体] GitHub 上的 Extreme Video Compression 项目专注于使用预训练的扩散 [...]</title>
+      <link>https://t.me/hn_summary/75022</link>
+      <description><![CDATA[极致视频压缩
+GitHub 上的 Extreme Video Compression 项目专注于使用预先训练的扩散模型进行视频压缩。它需要 Python 3.8 和 CUDA 才能使用 GPU。该项目以视频帧数组的形式获取输入，并提供针对 H.264 和 H.265 标准进行压缩和基准测试的命令。该项目包括视频生成和图像压缩模型的检查点，具有不同的压缩质量。作者提供了一个模型性能图表，显示他们的模型在低比特率下优于传统标准。该项目提供了一种使用扩散模型进行视频压缩的独特方法。]]></description>
+      <guid>https://t.me/hn_summary/75022</guid>
+      <pubDate>Mon, 19 Feb 2024 21:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：从自然语言创建电影观看列表</title>
-      <link>https://t.me/hn_summary/74998</link>
-      <description><![CDATA[显示 HN：从自然语言创建电影观看列表&lt; br/&gt;
-标题：Show HN：从自然语言创建电影观看列表
-
-您是否厌倦了手动创建电影观看列表？别再犹豫了！我们的创新工具使您只需输入自然语言即可生成监视列表。告别繁琐的清单制作，迎接轻松的组织。加入我们不断壮大的社区，简化您的电影观看体验。不要错过这个改变游戏规则的工具，它将彻底改变您管理娱乐的方式。现在就加入我们，见证奇迹的展开！]]></description>
-      <guid>https://t.me/hn_summary/74998</guid>
-      <pubDate>Mon, 19 Feb 2024 18:17:09 GMT</pubDate>
+      <title>[媒体] 基于闪存的 SSD 彻底改变了存储，吞吐量和 [...]</title>
+      <link>https://t.me/hn_summary/75021</link>
+      <description><![CDATA[SSD 变得越来越快，除了在云端&lt; br/&gt;
+基于闪存的 SSD 彻底改变了存储，吞吐量和容量迅速提高。顶级数据中心 SSD 现在可达到高达 13 GB/s 的读取吞吐量和 270 万以上的随机读取 IOPS。然而，AWS 等主要云供应商并没有跟上步伐，自 2017 年以来，每个 SSD 的性能停滞在 2 GB/s。造成这种差异的原因尚不清楚，各种理论包括故意限制速度和破坏现有存储服务。尽管如此，笔者还是希望未来的云实例能够配备10GB/s SSD，挑战现状，推动云存储技术的创新。]]></description>
+      <guid>https://t.me/hn_summary/75021</guid>
+      <pubDate>Mon, 19 Feb 2024 21:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Reddit 与一家人工智能公司签署了一项协议，使用用户生成器 [...]</title>
-      <link>https://t.me/hn_summary/74997</link>
-      <description><![CDATA[Reddit 用户内容以每年 6000 万美元的价格出售给人工智能公司
-Reddit 与一家 AI 公司签署了一项颇具争议的举措，将使用用户生成的内容来训练模型，据报道每年价值 6000 万美元。此举正值 Reddit 准备首次公开募股（IPO），寻求价值最大化之际。使用用户内容进行人工智能训练的做法引发了有关隐私和用户同意的问题。 Reddit 最近限制 API 访问的决定也引发了抗议，一些 Reddit 子版块巧妙地使用 NSFW 标签来阻止广告销售。对残疾版主的影响以及公司对抗议的反应进一步加剧了争议。]]></description>
-      <guid>https://t.me/hn_summary/74997</guid>
-      <pubDate>Mon, 19 Feb 2024 18:13:05 GMT</pubDate>
+      <title>[媒体]由于加州降雨过多，死亡谷国家公园现在提供[...]</title>
+      <link>https://t.me/hn_summary/75020</link>
+      <description><![CDATA[死亡谷国家公园现在提供难得的机会 - 皮划艇
+由于加利福尼亚州降雨过多，死亡谷国家公园现在为北美海拔最低的恶水盆地提供了难得的皮划艇机会。这个临时湖，非正式地称为曼利湖，长约 6 英里，宽 3 英里，深仅 1 英尺。虽然这个浅湖可能只适合划皮划艇几周，但公园管理员相信它会在整个四月创造出美丽的倒影。我们鼓励游客遵守公园规则，以尽量减少对脆弱的沙漠环境的影响。此外，公园还将举办一年一度的死亡谷黑暗天空节，以供观赏史诗般的星空。]]></description>
+      <guid>https://t.me/hn_summary/75020</guid>
+      <pubDate>Mon, 19 Feb 2024 21:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这项研究调查了荷兰研究经费随时间变化的性别差异，重点关注 [...]</title>
-      <link>https://t.me/hn_summary/74996</link>
-      <description><![CDATA[荷兰研究经费随时间变化的性别差异
-本研究考察了荷兰研究经费随时间变化的性别差异，重点关注荷兰研究委员会 (NWO) 的人才计划。研究发现，女性申请者比男性申请者更有可能获得 Veni 补助金，其中女性的性别差距显着。性别影响的这种转变表明，在人才计划提交的评估中仍然存在性别差异，尽管方向与十年前不同。该研究强调了 NWO 为消除资助计划中的性别偏见而采取的措施的影响，揭示了研究经费中性别不平等的暂时变化。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74996</guid>
-      <pubDate>Mon, 19 Feb 2024 18:09:01 GMT</pubDate>
+      <title>[媒体]美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是此类行为有所增加 [...]</title>
+      <link>https://t.me/hn_summary/75019</link>
+      <description><![CDATA[FTC 禁止 AI 冒充个人
+美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是有关冒充欺诈的投诉有所增加。该机构正在寻求打击网络犯罪分子使用 ChatGPT 等公共生成人工智能工具创建的深度伪造品。除了禁止通过冒充故意伤害消费者的人工智能平台外，联邦贸易委员会还敲定了一项规则，允许他们直接向滥用人工智能欺骗真实实体的骗子寻求金钱救济。此举是为了回应公众反馈，旨在加强联邦贸易委员会解决人工智能诈骗的能力。该裁决以 3 比 0 获得通过，并将在《联邦公报》上公布。]]></description>
+      <guid>https://t.me/hn_summary/75019</guid>
+      <pubDate>Mon, 19 Feb 2024 21:01:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在加沙与哈马斯发生冲突后，以色列经济遭受重大打击， [...]</title>
-      <link>https://t.me/hn_summary/74995</link>
-      <description><![CDATA[加沙战争导致以色列经济萎缩超出预期&lt; br/&gt;
-以色列经济在加沙与哈马斯冲突后遭受重大打击，2023 年第四季度 GDP 下降 19%。这比预期严重得多，专家指出支出、旅行和投资急剧下降。战争还对贸易产生了连锁反应，胡塞叛乱分子瞄准了红海上的货船，影响了苏伊士运河的收入。冲突导致报复性罢工和全球航线中断。意外的经济衰退和贸易中断凸显了以色列和整个地区所面临的持续挑战。]]></description>
-      <guid>https://t.me/hn_summary/74995</guid>
-      <pubDate>Mon, 19 Feb 2024 18:00:55 GMT</pubDate>
+      <title>星际迷航：博格 – 重制版</title>
+      <link>https://t.me/hn_summary/75018</link>
+      <description><![CDATA[星际迷航：博格 – 重制版
+“星际迷航：博格 - 重制版”是一个粉丝项目，旨在使用 AI 在浏览器中以高清质量重新创建 1996 年 FMV 游戏。玩家可以通过 LCARS 界面控制游戏，做出选择并使用 Q 的三录仪扫描物品。该项目获得了意想不到的关注，导致一些用户出现服务器负载问题。游戏默认为高视频质量，因此使用移动数据的玩家可能需要调整设置以避免使用过多的数据。独特地使用人工智能来重新制作游戏镜头，使该项目与其他粉丝翻拍作品区分开来。]]></description>
+      <guid>https://t.me/hn_summary/75018</guid>
+      <pubDate>Mon, 19 Feb 2024 20:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Check 'em：基于 2FA 应用程序，这是一款独特的应用程序，当您的 mul [...]</title>
-      <link>https://t.me/hn_summary/74994</link>
-      <description><![CDATA[显示 HN：当您收到 `012345 时通知您的 2FA 应用程序`
-隆重推出 Check &#39;em：The Based 2FA 应用程序，这是一款独特的应用程序，当您的多因素身份验证代码包含有趣的数字序列时，它会通知您，让人想起 4chan 的 GET meme 的辉煌岁月。该应用程序使用通用算法每 30 秒生成 6 位代码，但只看到了可能序列的一小部分。创建者的愿景是让人们重新体验 2FA 代码中预测酷炫数字的兴奋感，经过一些编码魔法后，该应用程序现在会通知用户特殊代码，例如四边形和五边形。通过巧妙的预计算策略和推送通知，用户可以实时捕获这些特殊代码并使用它们进行身份验证。该应用程序已从随机数生成器转变为安全登录的实用工具。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74994</guid>
-      <pubDate>Mon, 19 Feb 2024 17:47:49 GMT</pubDate>
+      <title>在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具来帮助您创建 [...]</title>
+      <link>https://t.me/hn_summary/75017</link>
+      <description><![CDATA[免费 SVG 生成器、颜色工具和网页设计工具 
+在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具可帮助您为您的项目创建独特且具有视觉吸引力的图形。我们的 SVG 制作工具可让您轻松自定义背景、图案、渐变、纹理、形状和斑点，以与您的设计无缝集成。 SVG 具有许多优点，例如在不损失质量的情况下可扩展、易于编辑以及与光栅图像相比文件大小较小。需要将 SVG 转换为 PNG 吗？我们已经为您提供了转换工具。如果您想使用 SVG 作为背景图案，我们的 base64 编码器可以轻松将它们添加到您的 CSS 中。探索我们的颜色工具（例如颜色选择器和调色板生成器）来增强您的设计。]]></description>
+      <guid>https://t.me/hn_summary/75017</guid>
+      <pubDate>Mon, 19 Feb 2024 20:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：为什么 Android 手机如此骗局？</title>
-      <link>https://t.me/hn_summary/74993</link>
-      <description><![CDATA[问HN：为什么Andriod手机这么骗局？
-news.ycombinator.com 上这篇文章的作者是对 Android 手机在短短几年后似乎就过时的方式感到沮丧。他们表达了对一款能够满足电子邮件、银行业务和 PDF 阅读基本需求的廉价手机的渴望，重点关注兼容性、安全性、电池寿命和屏幕质量。作者正在考虑将 LineageOS 作为解决方案，但担心其中涉及的潜在风险。对于寻找耐用、可靠手机的人来说，市场上缺乏可行的选择，他们感到惊讶和失望。]]></description>
-      <guid>https://t.me/hn_summary/74993</guid>
-      <pubDate>Mon, 19 Feb 2024 17:32:41 GMT</pubDate>
+      <title>在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”[...]</title>
+      <link>https://t.me/hn_summary/75016</link>
+      <description><![CDATA[Peter Norvig：新的 Python 运算符
+在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”:=，以及名称奇特的运算符，如“滑雪帽”、“哑铃”、“拍打猫”和“飞碟”运算符。这些运算符自 2023 年 4 月 1 日起可用，为 Python 添加了独特的功能，例如清空变量、强调序列，甚至实现部分阶乘运算符。虽然这些运算符可能违反 PEP 8 准则，但它们为编码增添了乐趣。查看我的旧帖子了解更多运算符，包括 C++ 中 ++ 和 &lt;&lt; 运算符的实现。 PS：这篇文章中的所有内容都是真实的，除了“这已经足够好了，对吧？”这个问题。]]></description>
+      <guid>https://t.me/hn_summary/75016</guid>
+      <pubDate>Mon, 19 Feb 2024 20:48:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Erlang/OTP 不仅仅是一种编程语言，它还是构建系统的整体框架 [...]</title>
-      <link>https://t.me/hn_summary/74992</link>
-      <description><![CDATA[高级 OTP
-Erlang/OTP 不仅仅是一种编程语言，它还是一个用于构建系统的完整框架，对于如何构建和隔离应用程序有强烈的意见。 Erlang 虚拟机 BEAM 是运行进程、处理内存分配等的基础块。 OTP 指定如何构建组件，包括库应用程序和可运行应用程序。内核 OTP 应用程序管理系统生命周期，而 stdlib 包含核心标准库模块。构建 Erlang 系统涉及将虚拟机与标准应用程序和您自己的应用程序捆绑在一起。了解 OTP 对于 Erlang 的快速开发至关重要，因为它要求所有项目都有特定的结构。]]></description>
-      <guid>https://t.me/hn_summary/74992</guid>
-      <pubDate>Mon, 19 Feb 2024 17:14:32 GMT</pubDate>
+      <title>高通对主线 Linux 内核的硬件支持有了显着改善，新的 [...]</title>
+      <link>https://t.me/hn_summary/75015</link>
+      <description><![CDATA[Linux 内核对高通硬件的支持日益良好 
+高通对主线Linux内核的硬件支持显着改善，新的Snapdragon 8 Gen 3设备得到了良好的支持和快速集成。由 Snapdragon 提供支持的 ThinkPad X13s 由于其上游支持而受到 Linux 开发人员的欢迎。来自 Linaro 的 Neil Armstrong 强调了 FOSDEM 2024 的进展，展示了高通公开宣布后短短两个月内取得的进展。虽然 Linux 6.8 上的 Snapdragon 8 Gen 3 拥有令人印象深刻的功能，但仍有需要改进的地方。联想ThinkPad X13s还因其出色的Linux兼容性而受到好评。请查看 Armstrong 的演示，了解有关 Qualcomm 对 Linux 的硬件支持的更多详细信息。]]></description>
+      <guid>https://t.me/hn_summary/75015</guid>
+      <pubDate>Mon, 19 Feb 2024 20:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>为什么这么多大型科技公司的应用程序很糟糕，而许多独立应用程序却很棒？</title>
-      <link>https://t.me/hn_summary/74991</link>
-      <description><![CDATA[为什么这么多大型科技公司拥有糟糕的应用程序和许多独立应用程序很棒吗？
-在 old.reddit.com 上进行的发人深省的讨论，用户质疑为什么大型科技公司尽管拥有丰富的资源，但其应用程序却常常低于标准，而独立开发者却凭借他们的创作而表现出色。尽管拥有大量的服务器、开发人员和算法，这些科技巨头仍然在与错误和故障功能作斗争。另一方面，独立开发人员能够用最少的资源开发高质量的应用程序，有时甚至将所有代码编写在一个文件中。争议在于大型科技公司的资源与独立开发者的成功之间的差距，这让许多人想知道独立应用程序成功的真正秘诀是什么。]]></description>
-      <guid>https://t.me/hn_summary/74991</guid>
-      <pubDate>Mon, 19 Feb 2024 17:05:27 GMT</pubDate>
+      <title>希望找到延迟最低的云提供商？</title>
+      <link>https://t.me/hn_summary/75014</link>
+      <description><![CDATA[Cloudflare Workers 上的 Hono 比替代方案快 3 倍&lt; br/&gt;
+希望找到延迟最低的云提供商？ www.openstatus.dev 上的这篇文章比较了 Cloudflare Workers，使用 OpenStatus 进行飞行、Koyeb、铁路和渲染。 Cloudflare Workers 的速度比其他产品快 3 倍，可提供全局性能，且不会出现冷启动问题。 Fly.io 和 Koyeb 非常适合多区域部署，而铁路和渲染在特定区域部署方面表现出色。 Cloudflare Workers 在全球范围内高效部署应用程序，使其成为低延迟的首选。过去两周的数据显示，Cloudflare Workers 在正常运行时间和延迟指标方面处于领先地位，使他们成为云提供商领域的有力竞争者。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75014</guid>
+      <pubDate>Mon, 19 Feb 2024 20:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Y Combinator 正在寻求扩大其在旧金山的小型软件团队，正在招聘工业界人士 [...]</title>
-      <link>https://t.me/hn_summary/74990</link>
-      <description><![CDATA[关于 Y Combinator 的软件团队
-Y Combinator 正在寻求扩大其在旧金山的小型软件团队，招聘人员来构建和维护网站。 YC 软件团队的历史是独一无二的，从 Hacker News 开始，发展到 Bookface、Work at a Startup、Startup School 和联合创始人匹配平台等项目。该团队专注于自动化流程，以扩大 YC 的运营规模，其文化与向初创公司提供的建议相一致。与 YC 创始人和员工的密切联系营造了一个协作环境。该团队见证了一些成员继续创办自己的 YC 公司。目前，他们正在招聘基础设施和全栈 Web 开发职位。]]></description>
-      <guid>https://t.me/hn_summary/74990</guid>
-      <pubDate>Mon, 19 Feb 2024 17:01:21 GMT</pubDate>
+      <title>询问 HN：开源项目是否应该允许禁用遥测？</title>
+      <link>https://t.me/hn_summary/75013</link>
+      <description><![CDATA[询问 HN：开源项目是否应该允许禁用遥测？
+DiggerHQ 的团队面临着一个困境 - 开源项目是否应该允许用户禁用遥测？最近的一个问题和 PR 引发了社区内的争论。虽然与作者共享使用数据对于早期项目可能有益，但一些用户重视他们的隐私并希望选择退出。该团队在保持使用情况可见性和尊重用户隐私之间左右为难。这是开源公司的常见问题，但找到双方都满意的平衡点是关键。有没有可以达成的折衷办法？]]></description>
+      <guid>https://t.me/hn_summary/75013</guid>
+      <pubDate>Mon, 19 Feb 2024 20:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
