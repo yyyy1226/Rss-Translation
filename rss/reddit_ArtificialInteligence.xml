@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 09:18:17 GMT</lastBuildDate>
+    <item>
+      <title>人工智能——人工智能可以改善哪些领域？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auiooe/artificial_intelligence_which_field_could_be/</link>
+      <description><![CDATA[您好，我是一名开发人员，我已经将人工智能研究作为副业一段时间了，但现在我觉得我已经准备好将我的研究付诸实践。就我目前的工作而言，我觉得我可以从事一个业余项目。  对人工智能能力最有帮助的领域有什么想法吗？   由   提交/u/MZ3720  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auiooe/artificial_intelligence_which_field_could_be/</guid>
+      <pubDate>Mon, 19 Feb 2024 08:43:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] 通过 Google 全新的 Lumiere 论文理解 Text2Video</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auimmm/d_understanding_text2video_through_googles_brand/</link>
+      <description><![CDATA[ 全文： https://vishal-ai.medium.com/lumiere-a-space-time-diffusion-model-for-video - Generation-dfff0b41b24a  1。输入和初始处理： — 输入是 3 帧的灰度视频。 — 视频在空间和时间上进行下采样，以分别降低分辨率和帧数。 2. STUNet 层和 T2I 嵌入集成： 基于卷积的膨胀块： — 应用在每个下采样层，其中包括 2D 卷积空间维度和时间维度上的一维卷积。 — 卷积之后，T2I 嵌入被集成。这些源自文本描述的嵌入用于调节卷积输出，确保生成的帧与文本内容对齐。 基于注意力的膨胀块：  em&gt; — 在视频数据压缩程度最高的最粗略下采样级别使用。 — 一维时间注意力机制随着时间的推移选择性地关注重要特征。 — 此处， T2I 嵌入在引导注意力机制关注文本所示的语义相关时间特征方面发挥着至关重要的作用。 3.跳过连接： - 跳过连接将高分辨率空间信息从每个下采样层传送到相应的上采样层，保留可能会丢失的细节。 4.上采样和最终生成： — 然后对视频进行上采样，反转下采样过程。 — T2I 嵌入继续调节该过程，确保随着分辨率的提高，添加的细节与文本描述一致。 — 最终输出是一个 3 帧的去噪灰度视频，其中的运动和内容已被细化以反映文本输入。 通过 STUNet 架构， T2I 嵌入在每一层中始终存在，影响视频帧的生成，以便最终输出不仅具有连贯的运动和空间细节，而且能够准确地表示所描述的场景。这确保视频不仅仅是帧的随机组合，而是与文本描述相对应的有意义的序列，例如“一只猫在玩球。”   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auimmm/d_understanding_text2video_through_googles_brand/</guid>
+      <pubDate>Mon, 19 Feb 2024 08:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能最有可能影响平面设计行业吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auhsf3/does_ai_most_likely_affect_graphic_design_industry/</link>
+      <description><![CDATA[人工智能正在通过提供人工智能生成的设计、图像编辑、字体建议和布局生成器等工具来重塑传统的图形设计实践。关于人工智能是否会对设计行业有利还是有害的争论仍在继续。有什么想法吗？   由   提交/u/PNGstan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auhsf3/does_ai_most_likely_affect_graphic_design_industry/</guid>
+      <pubDate>Mon, 19 Feb 2024 07:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以根据语音邮件对某人进行人工智能语音复制吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auh9zx/can_i_make_an_ai_voice_replication_of_someone/</link>
+      <description><![CDATA[我的奶奶最近去世了，我想制作一个她对我妈妈说“我爱你”的 AI 声音片段，然后放入一只熊中，每当她按下它时，我都会说我爱你，但我只有几条来自她说话的语音邮件，不想向我妈妈要任何语音邮件，因为那样她就会认为出了什么问题，这可能吗？ div&gt;  由   提交/u/kbub209  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auh9zx/can_i_make_an_ai_voice_replication_of_someone/</guid>
+      <pubDate>Mon, 19 Feb 2024 07:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​18/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aufw73/oneminute_daily_ai_news_2182024/</link>
+      <description><![CDATA[ 加拿大航空必须向温哥华男子支付网站聊天机器人承诺的部分机票退款[1] 朝鲜网络犯罪分子正在利用人工智能来帮助平壤窃取尖端技术并为其非法核武器计划获取资金。[2] 陆军在担心军队缩减的情况下使用人工智能加快士兵招募速度。[3] Google 宣布推出多项服务Modal Gemini 1.5 具有百万令牌上下文长度。[4] 来源包含在：https://bushaicave.com/2024/02/18/2-18-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aufw73/oneminute_daily_ai_news_2182024/</guid>
+      <pubDate>Mon, 19 Feb 2024 05:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入候补名单 - 我正在为 Reels、TikTok 和 YouTube 构建人工智能短视频制作器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auegoy/join_the_waitlist_im_building_an_ai_short_video/</link>
+      <description><![CDATA[短视频立即疯传，此工具有助于在几秒钟内创建即时短垂直视频。  加入候补名单 - https://tally.so/r/wdd9bV   由   提交/u/itzazfar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auegoy/join_the_waitlist_im_building_an_ai_short_video/</guid>
+      <pubDate>Mon, 19 Feb 2024 04:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>我如何才能最好地利用人工智能作为工具来提高我的学术水平？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auc5sv/how_can_i_best_utilize_ai_as_a_tool_to_enhance_my/</link>
       <description><![CDATA[我是一名高中新生，我想利用人工智能作为工具来增强我的学习。但是，我不确定我可以使用哪些工具。到目前为止，我偶尔使用 ChatGPT 3.5 来接收有关我论文的反馈，并且我一直在使用 Phind 来获得有关计算概念的简单解释（例如 TCP/UDP 是什么），但仅此而已。  这里有几个问题：  哪个“一般”更好？生成式人工智能？ ChatGPT 的免费版本还是 Google Gemini 的免费版本？ 我应该只使用 ChatGPT/Gemini，还是应该使用专门的工具，例如 Phind？  关于专用工具，您有什么建议？  还有哪些其他方法可以利用人工智能来改善我的教育？  提前致谢！   由   提交/u/Afasys  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auc5sv/how_can_i_best_utilize_ai_as_a_tool_to_enhance_my/</guid>
       <pubDate>Mon, 19 Feb 2024 02:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们将如何“自制”人工智能模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auboog/how_will_we_homebrew_ai_models/</link>
-      <description><![CDATA[你好r/ArtificalInteligence 随着最近人工智能领域的炒作和进步（也导致股市繁荣），这让我产生疑问：“我们将如何自制人工智能模型？” 我在科技行业工作主要与软件和安全相关，但通过大学研究拥有人工智能领域的基础知识。当谈到软件时，我们可以通过快速修改轻松地使程序适应我们的需求。改变人工智能模型是一项非常复杂的任务，需要进行大量的试验和错误。收集高质量数据本身就是一项工作。部署人工智能模型可能成本高昂且占用资源。 我认为，如果人工智能领域想要像软件一样为更多人提供支持，我们就需要打破修改和运行时复杂性的障碍。我很欣赏您在评论中的想法和讨论。   由   提交 /u/Kali-Lionbrine   /u/Kali-Lionbrine  reddit.com/r/ArtificialInteligence/comments/1auboog/how_will_we_homebrew_ai_models/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auboog/how_will_we_homebrew_ai_models/</guid>
-      <pubDate>Mon, 19 Feb 2024 02:02:22 GMT</pubDate>
     </item>
     <item>
       <title>Sora让我对自己的未来感到绝望</title>
@@ -34,25 +69,11 @@
       <pubDate>Mon, 19 Feb 2024 01:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>我在使用此搜索算法图时遇到一些问题：</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aub6eb/im_having_some_trouble_with_this_search_algorithm/</link>
-      <description><![CDATA[图表：https://imgur.com/a/fycvKLK  对于该图，我找到了所有展开的状态，并返回了解决方案路径。 S 和 G 应该是初始状态和目标状态，并且必须假设关系是通过扩展第一个节点来解决的，并且按字母顺序出现在前面。就像如果 G、C 和 S 之间存在联系一样，扩展顺序将是 C、G 和 S。我只是无法弄清楚广度优先搜索、DFS 和统一成本搜索。任何帮助   由   提交 /u/Windsen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aub6eb/im_having_some_trouble_with_this_search_algorithm/</guid>
-      <pubDate>Mon, 19 Feb 2024 01:37:05 GMT</pubDate>
-    </item>
-    <item>
       <title>了解视频生成人工智能的人...我该如何解决这个问题？这个提示难倒了我尝试过的所有人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1au5kg6/people_who_know_about_videogenerating_ais_how_do/</link>
       <description><![CDATA[这个想法很简单！我正在尝试重现红海的分开。没有相机运动，画面中没有人物，只有一个大沙漠湖岸边的静态镜头，湖水从中心分开。晚上（没有日落、月亮疯狂的云彩、银河系或任何他们喜欢随机添加的其他东西）。 人工智能可以毫无问题地创建一个大型沙漠湖泊的视频，如果我&#39;我很幸运他们能得到“夜晚”部分正确。但真正的大海分开却彻底难住了他们。我什至对分开的大海的视频感到满意，该视频没有显示海水从正常状态变为分开的情况。但我得到的最好的是： https://app .runwayml.com/creation/a383c8f6-ce5f-46e9-9ea7-97824acc4836 [白天，日落，沙漠小池塘分成两个静止的水坑，中间有一条狭窄的沙子]（你可以看到我的提示，这与它不太匹配） 我也尝试了组合照片/文本提示，其中有一张夜间大海的静态照片，它把它变成了一个普通的视频晚上的大海，但没有试图分开水域。也许是因为工程师付出了很多努力来确保生成的视频遵守物理定律（对于人工智能来说通常是件好事），但是“隔海”违反物理定律？有谁知道如何克服这个问题，还是技术还不存在？   由   提交 /u/BabyWooodrose   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1au5kg6/people_who_know_about_videogenerating_ais_how_do/</guid>
       <pubDate>Sun, 18 Feb 2024 21:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AR/VR能否取代现实？如何将完美的人工智能人形机器人与真人区分开来？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1au426g/could_arvr_replace_reality_how_to_separate_a/</link>
-      <description><![CDATA[https://www.theinnercircle.blog/2024/02/could-virtual-world-replace-real-world.html   由   提交 /u/Oaklandtrust   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1au426g/could_arvr_replace_reality_how_to_separate_a/</guid>
-      <pubDate>Sun, 18 Feb 2024 20:34:07 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们还没有人工智能个人助理？</title>
@@ -69,32 +90,11 @@
       <pubDate>Sun, 18 Feb 2024 17:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>最好的拉格？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1atyml4/best_rag/</link>
-      <description><![CDATA[我非常喜欢使用 ChatPDF 和 Perplexity AI 的免费版本，并且我已经开始使用 Gemini Pro。但我想看看是否有更好的替代方案。 具体来说：  哪些在提取细节方面最准确？例如，如果我问文本中清楚概述的过程中的所有步骤是什么，Perplexity 和 Gemini 都倾向于错过一些步骤。 我是否有任何地方可以一次上传多个文档，或者在同一个线程或对话中上传多个文档，以便我可以要求它比较或综合不同来源的信息？    由   提交 /u/SignalWorldiness873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1atyml4/best_rag/</guid>
-      <pubDate>Sun, 18 Feb 2024 16:54:35 GMT</pubDate>
-    </item>
-    <item>
       <title>艾兄弟对艺术家有何看法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1atrg2t/what_do_the_ai_bros_think_about_artists/</link>
       <description><![CDATA[真正好奇，而不是讨厌我是一名正在接受培训的艺术家，从我小时候起我就想从事动画工作，我已经接近了去实现我的梦想。最近我发现一种可以学习动画的人工智能模型正在变得流行。我立刻就害怕了。我一生都在学习这项技能，现在我什至可能无法在我唯一擅长的领域找到一份工作。你对此有何看法？我不应该担心吗？更重要的是，从事人工智能艺术工作的人是否知道我们这些艺术创作者对此有何感受？    由   提交 /u/Yaoxofficial   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1atrg2t/what_do_the_ai_bros_think_about_artists/</guid>
       <pubDate>Sun, 18 Feb 2024 10:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个思想实验：如果你现在拥有通用人工智能技术，你会做什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1atohy6/a_thought_experiment_what_would_you_do_if_you_had/</link>
-      <description><![CDATA[场景：通过一些奇迹般的事件，无论如何，你现在发现自己拥有 AGI 技术，就在你的手中。今天。而你是世界上唯一拥有它甚至知道它的人。这个 AGI 已经比任何活着的人类都聪明了。从字面上看，你提出的任何问题人类都无法给出更好的回应。 你用它做什么？从这里看未来会是什么样子？ 编辑：这个 AGI 不会产生幻觉或拒绝回答问题。哈哈    由   提交 /u/Skwigle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1atohy6/a_thought_experiment_what_would_you_do_if_you_had/</guid>
-      <pubDate>Sun, 18 Feb 2024 07:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在媒体工作，我闻到了老鼠的味道</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1atit9p/i_work_in_media_and_i_smell_a_rat/</link>
-      <description><![CDATA[我是 IATSE 的成员，过去一年受到人工智能罢工以及作家协会和演员协会合同的影响。我认为这是一种虚张声势，是一种利用人们偏执心理的震惊，他们可以将其用作讨价还价的筹码。看到 Open AI Sora 后，我有了不同的想法。我的工作肯定岌岌可危。 但是为什么我的工作呢？ 我无法想象生成代码、计算能力和图形库所需的庞大和复杂性这些人工智能视频。除此之外，我无法想象未经所有者或发行商明确同意，有多少受版权保护的材料会被输入到这些网络中。 那么为什么是艺术和媒体呢？为什么要用想象这样极其复杂的东西来揭示技术呢？为什么不从更简单的开始呢？ 一位人工智能律师可以接触到每一个审判过的案件，并且完全有能力理解每一个地方、州和联邦法律，这将使任何其他律师相形见绌。  &gt; 完全自动化并与企业银行和薪资软件相关联的人工智能会计师显然会比任何在职注册会计师更好地保存账本。 人工智能工程师可以计算可以比麻省理工学院或加州理工学院智库中最聪明的人更好地计算和模拟交通或网格系统等民用基础设施项目的模型。 人工智能首席执行官可以更好地评估公司结构并找出公司实力移动时的错误和漏洞比人类少得多。 而且所有这些程序都不需要图形处理消耗大量能量。它们是小文件、文本和逗号分隔值。更容易解释和推断？ 但是我没有看到任何软件版本会危及这些人的生计？是什么赋予了？为什么是我而不是他们？为什么是我的工作而不是他们的工作？ AI工程师会追求艺术家和工匠，但不会追求高收入的铅笔推手？   由   提交/u/Ok_Profit_16   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1atit9p/i_work_in_media_and_i_smell_a_rat/</guid>
-      <pubDate>Sun, 18 Feb 2024 02:02:12 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
