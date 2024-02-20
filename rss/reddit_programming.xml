@@ -4,27 +4,83 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 20 Feb 2024 03:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:18:47 GMT</lastBuildDate>
+    <item>
+      <title>在电脑前工作数小时后如何放松颈部肌肉？</title>
+      <link>https://www.reddit.com/r/programming/comments/1avd4jd/how_can_i_relax_my_neck_muscles_after_hours_of/</link>
+      <description><![CDATA[ 由   提交/u/iu5334  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avd4jd/how_can_i_relax_my_neck_muscles_after_hours_of/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌在裁员 12,000 名员工一年后，尽管利润创纪录，但仍裁员数千人，因为员工开始担心人工智能正在慢慢取代他们</title>
+      <link>https://www.reddit.com/r/programming/comments/1avcx6k/google_lays_off_thousands_more_employees_despite/</link>
+      <description><![CDATA[ 由   提交/u/we_are_mammals  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avcx6k/google_lays_off_thousands_more_employees_despite/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Golang 十亿行挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1avco5o/one_billion_rows_challenge_in_golang/</link>
+      <description><![CDATA[ 由   提交/u/atomlib_com  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avco5o/one_billion_rows_challenge_in_golang/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 2022 中的游戏开发 |入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1avclc1/game_development_in_visual_studio_2022_getting/</link>
+      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avclc1/game_development_in_visual_studio_2022_getting/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:15:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>可悲的现实：企业文化中的网络安全</title>
+      <link>https://www.reddit.com/r/programming/comments/1avc5tq/the_sad_reality_cybersecurity_in_corporate_culture/</link>
+      <description><![CDATA[ 由   提交/u/CorpFire  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avc5tq/the_sad_reality_cybersecurity_in_corporate_culture/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dozzle - 一个基于 Web 的交互式 UI，用于查看 Docker 服务的日志。</title>
+      <link>https://www.reddit.com/r/programming/comments/1avbquw/dozzle_an_interactive_webbased_ui_for_viewing/</link>
+      <description><![CDATA[ 由   提交/u/Stanulilic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avbquw/dozzle_an_interactive_webbased_ui_for_viewing/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个 Web 开发人员都应该学习的新 JavaScript 数组方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1avbq8m/new_javascript_array_methods_that_every_web/</link>
+      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avbq8m/new_javascript_array_methods_that_every_web/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>测量能源使用情况：常规代码与 SIMD 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1avapz8/measuring_energy_usage_regular_code_vs_simd_code/</link>
+      <description><![CDATA[ 由   提交/u/Specialist_Disk_8087   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avapz8/measuring_energy_usage_regular_code_vs_simd_code/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:17:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频：4 位 Web 开发人员、1 个应用程序创意（Salma Alam-Naylor、Scott Tolinski、Eve Porcello）</title>
+      <link>https://www.reddit.com/r/programming/comments/1avaiw3/video_4_web_devs_1_app_idea_salma_alamnaylor/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avaiw3/video_4_web_devs_1_app_idea_salma_alamnaylor/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布推出中国版 web.dev</title>
+      <link>https://www.reddit.com/r/programming/comments/1av9epl/announcing_webdev_for_china/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1av9epl/announcing_webdev_for_china/</guid>
+      <pubDate>Tue, 20 Feb 2024 05:02:01 GMT</pubDate>
+    </item>
     <item>
       <title>解释器第三部分：构建即时 (JIT) 编译器</title>
       <link>https://www.reddit.com/r/programming/comments/1av7fv0/interpreters_part_iii_building_a_justintime_jit/</link>
       <description><![CDATA[ 由   提交/u/sourceprobe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1av7fv0/interpreters_part_iii_building_a_justintime_jit/</guid>
       <pubDate>Tue, 20 Feb 2024 03:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码面试是有效的</title>
-      <link>https://www.reddit.com/r/programming/comments/1av76m5/coding_interviews_are_effective/</link>
-      <description><![CDATA[ 由   提交/u/_PC__LOAD__LETTER_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av76m5/coding_interviews_are_effective/</guid>
-      <pubDate>Tue, 20 Feb 2024 03:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 github 上的“Build your own X”资源？</title>
-      <link>https://www.reddit.com/r/programming/comments/1av71w4/how_do_i_use_the_build_your_own_x_resource_from/</link>
-      <description><![CDATA[如果您不熟悉这个网站，它基本上是一个巨大的 github 存储库，提供了如何从头开始重新创建技术的教程。我正在上大学，想要一些关于项目的想法，以加深对编程的理解并丰富我的简历。我看到很多人说这是一个帮助他们简历的好资源，但是我该如何使用它呢？我还没有深入研究它，但从我所看到的来看，它基本上为您提供了每个项目的非常详细的分步操作方法。人们真的可以这样做，将其称为自己的项目，并将其放在简历中吗？如果不是，那么如果不逐步遵循该资源，您将如何使用该资源，特别是如果您不知道如何制作您想要的项目决定继续工作？有些人说这个资源帮助他们摆脱了“教程地狱”，但我不明白为什么会出现这种情况，因为这些看起来也像是一堆教程？我很困惑，所以我不确定我是否只是忽略了一些东西/没有足够深入地研究这个仓库？我真的很感激任何帮助，如果您认为这不是一个好的资源，如果您对如何开始项目而不被一个又一个的教程困住有什么建议，我会很高兴！谢谢！   由   提交/u/Concient-Cress7645   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av71w4/how_do_i_use_the_build_your_own_x_resource_from/</guid>
-      <pubDate>Tue, 20 Feb 2024 03:00:05 GMT</pubDate>
     </item>
     <item>
       <title>Steam Audio 开源版本</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1av3iyz/video_htmx_for_react_developers_in_10_minutes/</guid>
       <pubDate>Tue, 20 Feb 2024 00:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建您的第一个计算机视觉模型变得更加容易</title>
-      <link>https://www.reddit.com/r/programming/comments/1av3f04/building_your_first_computer_vision_model_just/</link>
-      <description><![CDATA[ 由   提交/u/dragseon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av3f04/building_your_first_computer_vision_model_just/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 Alist：这就是我如何在一个地方免费管理所有云驱动器</title>
-      <link>https://www.reddit.com/r/programming/comments/1av1cqd/meet_alist_this_is_how_i_manage_all_cloud_drives/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1av1cqd/meet_alist_this_is_how_i_manage_all_cloud_drives/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av1cqd/meet_alist_this_is_how_i_manage_all_cloud_drives/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的延迟测试结果很疯狂。 Cloudflare Workers 比所有竞争对手快 3 倍！</title>
-      <link>https://www.reddit.com/r/programming/comments/1av0v9h/the_results_of_my_latency_test_are_insane/</link>
-      <description><![CDATA[ 由   提交/u/tibozaurus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av0v9h/the_results_of_my_latency_test_are_insane/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们需要 CMDB 还是只使用数据库？</title>
-      <link>https://www.reddit.com/r/programming/comments/1av0cy0/do_we_need_a_cmdb_or_can_we_just_use_a_database/</link>
-      <description><![CDATA[ 由   提交/u/jekapats  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av0cy0/do_we_need_a_cmdb_or_can_we_just_use_a_database/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进行有效的代码审查</title>
-      <link>https://www.reddit.com/r/programming/comments/1auyf8d/how_to_conduct_an_effective_code_review/</link>
-      <description><![CDATA[ 由   提交/u/OttoKekalainen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auyf8d/how_to_conduct_an_effective_code_review/</guid>
-      <pubDate>Mon, 19 Feb 2024 20:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>vnlog：使用熟悉的工具进行命令行数据操作</title>
-      <link>https://www.reddit.com/r/programming/comments/1auxv0n/vnlog_commandline_data_manipulation_with_familiar/</link>
-      <description><![CDATA[ 由   提交/u/dima55  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auxv0n/vnlog_commandline_data_manipulation_with_familiar/</guid>
-      <pubDate>Mon, 19 Feb 2024 20:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 如何扩展到每秒数百万个决策</title>
-      <link>https://www.reddit.com/r/programming/comments/1auum43/how_reddit_scaled_to_millions_of_decisions_per/</link>
-      <description><![CDATA[ 由   提交/u/odd_sherlock  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auum43/how_reddit_scaled_to_millions_of_decisions_per/</guid>
-      <pubDate>Mon, 19 Feb 2024 18:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个 2FA 应用程序，当您收到“012345”时通知您</title>
-      <link>https://www.reddit.com/r/programming/comments/1auszoh/building_a_2fa_app_that_tells_you_when_you_get/</link>
-      <description><![CDATA[ 由   提交 /u/jacobs-tech-tavern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auszoh/building_a_2fa_app_that_tells_you_when_you_get/</guid>
-      <pubDate>Mon, 19 Feb 2024 17:28:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
