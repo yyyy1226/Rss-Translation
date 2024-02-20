@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 01:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 03:20:16 GMT</lastBuildDate>
     <item>
       <title>React-print-pdf：一个使用 React 生成 PDF 的开源库</title>
       <link>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>寻求帮助恢复旧的网络项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
-      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理能力的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
       <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
     </item>
