@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 03:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 06:24:44 GMT</lastBuildDate>
+    <item>
+      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</link>
+      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的较旧 IDE 配合使用，并且由于 Arduino 和开发板版本更新得非常快，因此不可能每次有新版本出现时都更新我们所有的程序。 但是，如果您真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年印度顶级移动应用开发公司</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avabz6/top_mobile_app_development_companies_2024_in_india/</link>
+      <description><![CDATA[   /u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avabz6/top_mobile_app_development_companies_2024_in_india/</guid>
+      <pubDate>Tue, 20 Feb 2024 05:54:11 GMT</pubDate>
+    </item>
     <item>
       <title>React-print-pdf：一个使用 React 生成 PDF 的开源库</title>
       <link>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我刚刚开始为朋友做一个项目，我知道结果将类似于商业项目（但绝对是）考虑到不同的目标）。 我很想避免侵犯他们的专利，但不确定在哪里可以找到他们拥有哪些专利。对于查找专利详细信息并在开源项目中进行导航，有人有任何建议吗？   由   提交 /u/minermenace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aunpf0/avoiding_patent_infringement_in_open_source/</guid>
       <pubDate>Mon, 19 Feb 2024 13:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Impler.io - 用于产品的现成 CSV 和 Excel 导入基础设施，以节省成本并更快地加载客户数据（寻求反馈和建议）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auj5d9/implerio_readymade_csv_excel_import/</link>
-      <description><![CDATA[       由   提交/u/bhavik-chavda  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auj5d9/implerio_readymade_csv_excel_import/</guid>
-      <pubDate>Mon, 19 Feb 2024 09:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDFgear 是开源的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auim4h/is_pdfgear_open_source/</link>
-      <description><![CDATA[您好， 发现 PDFgear (www. pdfgear.com）通过对 r/opensource 的讨论，我对其功能和潜力很感兴趣。社区内的反馈似乎非常积极，凸显了其实用性和性能。然而，一个关键的细节似乎有问题——其源代码的可用性。鉴于该平台倡导开源原则，PDFgear 缺乏可访问的源代码引发了对其开源状态的质疑。 谁能澄清一下 PDFgear 的源代码是否托管在公共存储库上，我可能会这样做是否忽略了，或者它实际上是专有软件？在开源社区认可的背景下，这种差异尤其令人费解，对于此事的任何见解或澄清将不胜感激。 感谢您的帮助。    由   提交/u/kurunku  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auim4h/is_pdfgear_open_source/</guid>
-      <pubDate>Mon, 19 Feb 2024 08:38:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
