@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 15:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 21:06:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/75332</link>
-      <description><![CDATA[美联储控制了 LockBit 勒索软件组织
-美国和英国当局已经控制了 LockBit 勒索软件组织，该组织是一个臭名昭著的网络犯罪组织，向全球 2,000 多名受害者勒索了超过 1.2 亿美元。这项被称为“克罗诺斯行动”的行动涉及逮捕两名被指控为 LockBit 成员的人、公布起诉书以及冻结与该团伙活动相关的 200 多个加密货币账户。这次打击行动还暴露了 LockBit 与其他勒索软件组织之间的联系，引发了人们对其对更广泛的网络犯罪格局的影响的质疑。 FBI 和 NCA 利用 PHP 漏洞渗透了 LockBit 的服务器，招致网络犯罪分子的嘲笑，并悬赏 1000 万美元捉拿 LockBit 发言人的人头。]]></description>
-      <guid>https://t.me/hn_summary/75332</guid>
-      <pubDate>Wed, 21 Feb 2024 15:10:01 GMT</pubDate>
+      <title>谷歌正在为其登录和注册页面提供全新的外观，其现代设计与 [...]</title>
+      <link>https://t.me/hn_summary/75399</link>
+      <description><![CDATA[更新了用于登录或注册 Google 帐户的用户界面
+谷歌正在为其登录和注册页面提供全新的外观，采用与 Material Design 相一致的现代设计。此更新在网络和移动设备上都可见，但不用担心，功能没有变化。管理员和最终用户无法控制此功能，因为它将自动为所有 Google Workspace 客户和个人 Google 帐号用户实施。请查看帮助中心，了解有关新 Google 登录页面的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/75399</guid>
+      <pubDate>Wed, 21 Feb 2024 21:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>TogetherForm 正在彻底改变团队通过其 CRDT-p 在 YC 应用程序上协作的方式 [...]</title>
-      <link>https://t.me/hn_summary/75331</link>
-      <description><![CDATA[显示 HN：使用 CRDT 支持的表单协作处理您的 YC 应用&lt; /a&gt;
-TogetherForm 正在彻底改变团队使用 CRDT 支持的表单在 YC 应用程序上协作的方式。与传统表单不同，TogetherForm 中的每个字段都是一个迷你 Google 文档，允许用户直接在应用程序本身内进行协作。这一独特的功能使 TogetherForm 有别于其他表单构建平台。最重要的是，用户可以免费试用，无需提供任何个人信息。告别无休止的电子邮件链和抄送要求 - 立即使用 TogetherForm 简化您的申请流程。]]></description>
-      <guid>https://t.me/hn_summary/75331</guid>
-      <pubDate>Wed, 21 Feb 2024 15:03:52 GMT</pubDate>
+      <title>[媒体]英伟达公布了第四季度和 2024 财年的财务业绩，[...]</title>
+      <link>https://t.me/hn_summary/75398</link>
+      <description><![CDATA[Nvidia 公布第四季度和 2024 财年财务业绩 
+Nvidia 公布了第四季度和 2024 财年的财务业绩，展示了令人印象深刻的增长和成功。作为一项突破性举措，科学家们将利用由 NVIDIA CUDA 量子平台提供支持并由澳大利亚 Pawsey 超级计算研究中心的 NVIDIA Grace Hopper 超级芯片提供支持的最先进的量子计算模拟。此次合作将突破国家超级计算和量子计算创新中心的创新界限。请继续关注这一激动人心的开发的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/75398</guid>
+      <pubDate>Wed, 21 Feb 2024 21:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在生成人工智能的世界里，时间越长，我理解的就越少。</title>
-      <link>https://t.me/hn_summary/75330</link>
-      <description><![CDATA[关于人工智能我不知道的事情
-在生成人工智能的世界里，时间越长，我理解的就越少。我对 AI 堆栈的各个级别都有开放性问题，特别是涉及 GPT-4 等前沿模型和不断变化的市场动态时。微软和 Meta 等云提供商正在人工智能领域投资数十亿美元，导致潜在的寡头垄断市场以及对人工智能经济长期影响的质疑。开源模型的兴起以及政府在支持区域人工智能冠军方面的作用进一步增加了复杂性。 AI 云的未来、GPU 短缺以及 AI 堆栈的演变都是不确定的关键领域。新的 B2B 和消费者人工智能应用程序的出现，以及人工智能代理的潜力，使这成为一个激动人心且快速变化的技术时刻。]]></description>
-      <guid>https://t.me/hn_summary/75330</guid>
-      <pubDate>Wed, 21 Feb 2024 15:02:48 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我接受了将 10 亿行从 Postgres 移动到 S 的挑战 [...]</title>
+      <link>https://t.me/hn_summary/75397</link>
+      <description><![CDATA[以 100 美元的预算移动 10 亿个 Postgres 行&lt; br/&gt;
+在这篇博文中，我接受了以 100 美元的预算将 10 亿行从 Postgres 迁移到 Snowflake 的挑战。我讨论了所使用的工具和技术，例如并行处理和数据压缩，以优化性能并最大限度地降低成本。一项令人惊讶的优化是在 Postgres 中使用 TID Scan 来高效读取大量数据。我还强调了保持 Snowflake 仓库空闲以降低计算成本的重要性。虽然存在一些功能差距，但该方法有效地处理常见用例。总体而言，所构建系统的成本细分很详细，显示了该过程的实用性。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75397</guid>
+      <pubDate>Wed, 21 Feb 2024 21:01:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果宣布突破性地推出 PQ3 加密协议 [...]</title>
-      <link>https://t.me/hn_summary/75329</link>
-      <description><![CDATA[采用 PQ3 加密协议的 iMessage
-Apple 宣布为 iMessage 推出突破性的 PQ3 加密协议，为端到端安全消息传递设立了新标准。 PQ3 提供妥协弹性加密和量子攻击防御，使其成为第一个实现 3 级安全的消息传递协议。此次升级建立在 iMessage 强大加密技术的历史之上，重点是防范未来的量子威胁。该协议结合了后量子和经典密码学，通过定期重新密钥确保持续的安全性。领先专家的正式验证确认了该协议的安全属性，使 iMessage 成为唯一广泛使用的达到 3 级安全性的消息服务。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75329</guid>
-      <pubDate>Wed, 21 Feb 2024 14:51:39 GMT</pubDate>
+      <title>标题：Show HN：一项单功能工具的实验，售价 7164 美元/月</title>
+      <link>https://t.me/hn_summary/75396</link>
+      <description><![CDATA[展示 HN：单功能工具的实验，每月收入 7164 美元
+标题：Show HN：单功能工具的实验，每月 7164 美元
+
+在我关于创建 Index Rusher（一种用于更快 SEO 排名的索引工具）的详细故事中，我分享了我从想法到收入的旅程。该工具最初是为个人使用而构建的，只有一项功能，在意识到其潜力后公开发布。尽管起步不高，但战略增长黑客在 30 天内带来了超过 7000 美元的收入。关键策略包括交叉链接、社交媒体可见性、目录列表、赞助展示位置和联属合作伙伴关系。在收回成本和赚取利润后，未来的计划包括扩大用户群、提高口碑和探索新的营销途径。请继续关注该项目的最新进展。]]></description>
+      <guid>https://t.me/hn_summary/75396</guid>
+      <pubDate>Wed, 21 Feb 2024 20:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们很高兴地宣布Remix v2.7.0现已稳定支持Vite！</title>
-      <link>https://t.me/hn_summary/75328</link>
-      <description><![CDATA[Remix Vite 现已稳定
-我们很高兴地宣布 Remix v2.7.0 现已稳定支持 Vite！在根据早期采用者的反馈完善和扩展 Remix Vite 后，我们做出了重大改变。最值得注意的是 SPA 模式的引入，允许在没有 JavaScript 服务器的情况下构建静态站点。我们还添加了基本名称支持、Cloudflare Pages 集成、服务器捆绑包拆分、自定义预设、改进的服务器客户端代码分离以及用于管理仅服务器代码的新 Vite 插件。此外，Vite现在支持导入具有处理能力的CSS文件。这些更新使 Remix Vite 比以往更加强大且用户友好。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75328</guid>
-      <pubDate>Wed, 21 Feb 2024 14:46:32 GMT</pubDate>
+      <title>[媒体] X.Org 服务器正在发生一些变化，旧的编译器支持被清除 [...]</title>
+      <link>https://t.me/hn_summary/75395</link>
+      <description><![CDATA[X.org 服务器清除了支持旧编译器的残余
+X.Org 服务器正在发生一些变化，旧的编译器支持最近被清除。这包括删除对旧 Sun 和 USL 编译器的支持，因为它们不再被使用，并且会导致新 Meson 构建系统出现问题。有些人可能会反对放弃对这些过时编译器的支持，但随着改用 Meson，有必要清理代码库。此外，还有一些有趣的补丁，例如 Oracle 的 Alan Coopersmith 发布的补丁。尽管缺乏新功能版本，X.Org Server 仍继续通过补丁版本解决安全问题。 2024 年是否会发布任何新功能还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/75395</guid>
+      <pubDate>Wed, 21 Feb 2024 20:56:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] RFC 9512 介绍了 YAML 媒体类型，概述了解释的关键术语和指南 [...]</title>
-      <link>https://t.me/hn_summary/75327</link>
-      <description><![CDATA[RFC 9512：YAML 媒体类型
-RFC 9512 引入了 YAML 媒体类型，概述了关键术语和解释它们的指南。该文件强调遵循 BCP 14 中概述的特定关键字和术语的重要性。它还澄清了与 HTTP 相关的“内容协商”和“资源”等术语的解释。此外，它还提供了有关基于 URI 标准解释“片段”和“片段标识符”等术语的指导。值得注意的是，包含 YAML 代码的图形需要以 %YAML 指令开头，以提高可读性。此 RFC 作为理解和实现媒体类型中的 YAML 的综合指南。]]></description>
-      <guid>https://t.me/hn_summary/75327</guid>
-      <pubDate>Wed, 21 Feb 2024 14:33:22 GMT</pubDate>
+      <title>[媒体] 对 NHTSA 延迟实施自适应驾驶梁 (ADB) 头感到沮丧 [...]</title>
+      <link>https://t.me/hn_summary/75394</link>
+      <description><![CDATA[破解高级欧洲车头灯 NHTSA 不想要你拥有
+由于对 NHTSA 延迟实施自适应驾驶光束 (ADB) 车头灯感到沮丧，许多美国驾驶员发现自己无法使用其他国家提供的先进车头灯技术。 SPAyceTech 推出了 Orbit，该软件允许用户访问车辆的诊断和配置设置，从而解锁像素车头灯、自适应巡航控制和车道保持辅助等以前无法访问的功能。有 500 多个可用的可配置项目，可能性是无限的。不过，在进行任何软件升级或拜访经销商之前，用户应谨慎操作并恢复到原始配置。]]></description>
+      <guid>https://t.me/hn_summary/75394</guid>
+      <pubDate>Wed, 21 Feb 2024 20:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>车辆盗窃是一个影响所有加拿大人的普遍问题，并且作为网络安全专业人士 [...]</title>
-      <link>https://t.me/hn_summary/75326</link>
-      <description><![CDATA[应该禁止不安全的车辆，而不是像 Flipper Zero 这样的安全工具&lt; /a&gt;
-车辆盗窃是一个影响所有加拿大人的普遍问题，作为网络安全专业人员，我们了解解决该问题的紧迫性。然而，联邦政府禁止“Flipper Zero”等安全研究工具的提议是误导性的，而且会适得其反。这些工具对于提高产品安全性至关重要，不应被定为犯罪。通过惩罚合法的分析和修复用例，该政策可能会损害创新和国家安全。我们不应将资源浪费在任意禁令上，而应与专家合作加强汽车安全措施。签署我们的信函以反对这种有害的政策并支持更有效的方法。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75326</guid>
-      <pubDate>Wed, 21 Feb 2024 14:16:11 GMT</pubDate>
+      <title>[媒体]迄今为止最大规模的新冠疫苗研究发现了疫苗与疫苗之间的潜在联系[...]</title>
+      <link>https://t.me/hn_summary/75393</link>
+      <description><![CDATA[迄今为止最大规模的新冠疫苗研究发现与健康状况的关联 
+迄今为止最大规模的新冠疫苗研究发现了疫苗与某些健康状况之间的潜在联系。这项研究由插入组织的研究人员进行，分析了数百万疫苗接种者的数据，并确定了疫苗与特定健康状况风险增加之间的相关性。虽然这些发现仍处于初步阶段，还需要更多研究，但这项研究揭示了新冠疫苗的潜在副作用。这一有争议的发现引发了卫生专家和公众的争论，凸显了持续监测和研究在抗击疫情方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/75393</guid>
+      <pubDate>Wed, 21 Feb 2024 20:25:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国宇航局的新视野号探测器在柯伊伯带有了惊人的发现，暗示[...]</title>
-      <link>https://t.me/hn_summary/75325</link>
-      <description><![CDATA[美国宇航局新视野号在柯伊伯带发现了一个巨大的惊喜
-美国宇航局的新视野号探测器在柯伊伯带中取得了令人惊讶的发现，暗示了意想不到的粒子水平，并表明该区域距离太阳的距离比之前想象的更远。这可以帮助我们更好地了解我们的行星系统及其他系统。该探测器的发现挑战了我们目前对太阳系外层的理解，这对新一批天体碰撞并产生更多尘埃的存在产生了影响。这一发现发表在《天体物理学杂志快报》上，随着新视野号在距离太阳 58 个天文单位之外继续执行其任务，可能会带来进一步的启示。]]></description>
-      <guid>https://t.me/hn_summary/75325</guid>
-      <pubDate>Wed, 21 Feb 2024 14:15:06 GMT</pubDate>
+      <title>[媒体]波音公司在机舱面板被拆除后，解雇了 737 Max 项目负责人埃德·克拉克 (Ed Clark) [...]</title>
+      <link>https://t.me/hn_summary/75392</link>
+      <description><![CDATA[波音 737 MAX 项目负责人因机舱面板爆裂而被驱逐 
+波音公司已解除了 737 Max 项目负责人埃德·克拉克 (Ed Clark) 的职务，此前一架全新 737 Max 9 喷气式飞机因机舱面板爆炸而紧急迫降。此次事件导致 171 架飞机停飞，是波音公司发生的一系列安全危机中的最新一起。克拉克将由凯蒂·林戈尔德 (Katie Ringgold) 接替，并任命了一位新的质量高级副总裁。波音公司首席执行官戴夫·卡尔霍恩承认需要重新获得监管机构和航空公司的信心。美国联邦航空管理局 (FAA) 在审核波音公司的制造流程时限制了该公司 Max 的生产。]]></description>
+      <guid>https://t.me/hn_summary/75392</guid>
+      <pubDate>Wed, 21 Feb 2024 20:22:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国有影响力的人在试图驾驭竞争激烈的市场时面临着严峻的现实 [...]</title>
-      <link>https://t.me/hn_summary/75324</link>
-      <description><![CDATA[中国网红缴纳罚款以逃避直播合同
-中国网红在试图驾驭竞争激烈且要求苛刻的直播行业时面临着严峻的现实。许多人发现自己陷入了合同之中，这些合同要求他们以微薄的报酬执行令人筋疲力尽的任务，导致精神困扰和法律纠纷。一些有影响力的人，比如书法老师刘凤阳，在试图逃避这些合同时甚至被起诉并被处以巨额罚款。该行业激进的招聘策略和缺乏明确的监管使得许多有影响力的人容易受到剥削。随着经纪公司和主播之间的纠纷不断升级，中国数十亿美元的直播产业的阴暗面正在暴露。]]></description>
-      <guid>https://t.me/hn_summary/75324</guid>
-      <pubDate>Wed, 21 Feb 2024 14:08:58 GMT</pubDate>
+      <title>Oils 的最新版本是一个 Unix shell，引入了新功能，例如 JSON 解析器，可升级 [...]</title>
+      <link>https://t.me/hn_summary/75391</link>
+      <description><![CDATA[Oils 0.20.0 – Eggex、JSON 和 Android
+Oils 的最新版本是一个 Unix shell，引入了新功能，例如升级到 J8 表示法的 JSON 解析器和改进的 Eggex API。感谢社区的贡献，C++ 翻译现在基于 Android 构建。新的 JSON 库可以转换为 C++，并正在升级为 J8 Notation，保持向后兼容性。 YSH 现在支持代码和数据中的 J8 样式字符串，从而简化了字符串表示法。还讨论了 JSON8 和 TSV8 的错误处理增强功能以​​及未来的工作。作者在详细的 Zulip 线程中反思了 JSON 的工作以及设计变更的挑战。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75391</guid>
+      <pubDate>Wed, 21 Feb 2024 20:19:24 GMT</pubDate>
     </item>
     <item>
-      <title>巴勒斯坦人口统计的时间线展示了犹太人口、巴勒斯坦人人口的变化 [...]</title>
-      <link>https://t.me/hn_summary/75323</link>
-      <description><![CDATA[巴勒斯坦（地区）人口统计时间表&lt; br/&gt;
-巴勒斯坦人口统计的时间线展示了几个世纪以来犹太人、异教徒、撒玛利亚人、基督徒和穆斯林社区的人口变化。犹太罗马战争和巴尔科赫巴起义等有争议的事件导致大量犹太人伤亡和流离失所。令人惊讶的细节包括奥马尔在 500 年禁令之后鼓励犹太人在耶路撒冷定居。瘟疫和地震造成的人口持续下降也很突出。阿拉伯移民的涌入和 700 年代和 800 年代的内战推动了犹太人的移民，导致到 900 年代穆斯林明显占多数。整个时间线在 20 世纪大规模的犹太移民中达到了顶峰。]]></description>
-      <guid>https://t.me/hn_summary/75323</guid>
-      <pubDate>Wed, 21 Feb 2024 14:05:52 GMT</pubDate>
+      <title>[媒体]科学家取得了一项突破性的发现，将大脑失衡与免疫系统联系起来 [...]</title>
+      <link>https://t.me/hn_summary/75390</link>
+      <description><![CDATA[科学家发现大脑失衡与慢性疲劳综合症之间存在联系 
+科学家们取得了一项突破性的发现，将大脑失衡和免疫系统异常与慢性疲劳综合症（CFS）联系起来，揭示了这种使人衰弱的疾病的生物学基础。这项涉及 17 名患者的研究发现，免疫系统异常可能会引发大脑活动的变化，从而导致疲劳感。这项发表在《自然通讯》上的研究标志着理解 ME/CFS 迈出了重要一步。这些发现挑战了患者在心理上驱动疾病的误解，并为新的治疗方法带来了希望。这项研究的综合方法被称赞为早该深入研究这种疾病的生物学。]]></description>
+      <guid>https://t.me/hn_summary/75390</guid>
+      <pubDate>Wed, 21 Feb 2024 20:18:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
