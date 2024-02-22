@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 21:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 01:14:02 GMT</lastBuildDate>
     <item>
-      <title>AI 视频生成 SOTA？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awm9fp/ai_video_generation_sota/</link>
-      <description><![CDATA[嗨， 我有一个利用视频生成的项目，我想知道 Sora 是否是最强大的，或者是否Google / Anthropic / Mistral / Meta / ... 有类似的产品吗？ 我不知道该转向哪个生态系统！ 保重！  div&gt;  由   提交 /u/Lena_Cl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awm9fp/ai_video_generation_sota/</guid>
-      <pubDate>Wed, 21 Feb 2024 20:21:20 GMT</pubDate>
+      <title>如果你要聘请人工智能治疗师，你最关心的是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awtdt2/if_you_were_to_use_an_ai_therapist_what_would_you/</link>
+      <description><![CDATA[我不认为人工智能可以取代真实人类互动的某些方面 - 我认为见到真正的治疗师有一些无形的东西，比如患者与治疗师的联系。我不想尝试取代人类治疗师 - 但我认为人工智能治疗对于那些永远不会见到治疗师的人来说是一个非常好的选择。我们有很多能力来构建 CustomGPT 治疗师。我已经构建了 CustomGPT，尝试了不同的风格和技术。实际上，有很多选择可以提示设计治疗师，并指导对话的进行。一旦您考虑如何处理长期过去交互的大型私有/加密数据库，还有很多选择。 您最关心哪些功能？ - CustomGPT 治疗师具有独特的个性？ - CustomGPT 感觉它与生活经历相关，无论是模拟还是从其训练数据中复述其他故事？ - 聊天机器人可以存储一个大型对话数据库，并构建一些您/您熟悉或最新的心理模型？ （即记忆功能 - 类似于 OpenAI 推出的功能） - 即，当聊天机器人在没有您提示的情况下提出与您接近的主题时，它有帮助吗？ - 它“记住”  - 您可以从 CustomGPT 中选择一种治疗类型重要吗？还是您希望它是不可知的并且对用户非常开放/可调整？ - 您希望它成为一种治疗类型吗？聊天机器人治疗师是一种引导式体验还是一种非结构化体验？ - 与人工智能治疗师交谈有什么困难或不舒服的地方？是动力吗？是结构吗？如果它变成一个定时的 30 分钟语音 - 与聊天机器人会话会有帮助吗？ - 如果你可以定制自己的数字治疗背景（如海滩、云彩等），这是噱头还是舒缓的？ - 如果你可以定制不同的治疗师角色，你会喜欢什么？/什么对你来说会很有趣？ - 你想看到你的人工智能治疗师与你有相似的文化背景吗？或者它专注于某些领域，例如不同的家庭问题、人际关系问题、存在问题？其他特定群体（例如 LGBT/神经分歧群体）怎么样？ 我认为存在很多潜在问题 - 但我也认为我们有能力构建这些东西。我想听听人们真正想要什么/不想要什么/什么是可怕的，所以请随时给我建设性的批评。   由   提交 /u/dcombobulated   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awtdt2/if_you_were_to_use_an_ai_therapist_what_would_you/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:12:00 GMT</pubDate>
     </item>
     <item>
-      <title>我对双子座说：“你是反白人的。”它接受它。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awl8kf/i_said_to_gemini_you_are_antiwhite_and_it_accepts/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awl8kf/i_said_to_gemini_you_are_antiwhite_and_it_accepts/</guid>
-      <pubDate>Wed, 21 Feb 2024 19:40:59 GMT</pubDate>
+      <title>未过滤的 GPT-4 基本模型是什么样的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awt8ei/what_is_the_unfiltered_gpt4_base_model_like/</link>
+      <description><![CDATA[ 由   提交 /u/Mementoes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awt8ei/what_is_the_unfiltered_gpt4_base_model_like/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的人工智能代理抢走了工作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awr6eh/my_ai_agents_took_away_jobs/</link>
+      <description><![CDATA[ 由   提交/u/johnrushx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awr6eh/my_ai_agents_took_away_jobs/</guid>
+      <pubDate>Wed, 21 Feb 2024 23:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有兴趣买房...有什么人工智能工具可以帮助我找到房子吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awl6p7/im_interested_in_buying_a_house_are_there_any_ai/</link>
+      <description><![CDATA[我通常使用 Zillow 和 Zolo 进行搜索，它们确实有不错的过滤选项，但我需要更多。 例如，许多房产不显示隐藏费用，例如管理费、维护费或场地费。因此，拥有一个可以研究房产或区域的人工智能会非常有帮助，特别是如果我希望它免费生成 100 套可能的房屋列表。 或者我可能会要求它列出 50 套最便宜的房屋多伦多附近100公里范围内的房屋按距离等排序   由   提交 /u/SyristSMD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awl6p7/im_interested_in_buying_a_house_are_there_any_ai/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:38:58 GMT</pubDate>
     </item>
     <item>
       <title>我应该因为人工智能而改变我的整个职业吗？</title>
@@ -48,13 +62,6 @@
       <pubDate>Wed, 21 Feb 2024 17:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>哪种工具最适合人工智能生成填充？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awhfjq/which_tool_would_be_best_for_ai_generative_fill/</link>
-      <description><![CDATA[你好， 我正在寻找一个工具，可以让我调整/扩展图像并填充额外的空间。具体来说，我有几张照片想用作壁纸，但它们太小了。我用 Dall-E 2 成功地做到了这一点，但我的积分用完了，而且我也没有得到最好的结果。有没有免费的工具，最好是 Android 版的，或者是基于 Web 的或 Windows 版的，能够做到这一点？    由   提交 /u/Dr0idGh0sT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awhfjq/which_tool_would_be_best_for_ai_generative_fill/</guid>
-      <pubDate>Wed, 21 Feb 2024 17:12:16 GMT</pubDate>
-    </item>
-    <item>
       <title>每日人工智能快速链接 (02/21/2024)</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awhd9k/daily_ai_quick_links_02212024/</link>
       <description><![CDATA[ Groq 售价 20,000 美元的 LPU 芯片打破 AI 性能记录，与 GPU 主导的行业相媲美 [1] ElevenLabs 正在推出人工智能，用于创建独特的音效 [2] ​​Gartner 预测搜索引擎搜索量下降 25%由于人工智能，到 2026 年，体积将增加 [3] 伦敦大学研究人员开发人工智能驱动的工具来早期诊断自闭症 [4]  来源：  [1] https://cryptoslate.com/groq-20000-lpu-card-breaks-ai-performance-records-to-rival-gpu-led-industry/ [2] &lt; a href=&quot;https://readwrite.com/elevenlabs-to-launch-ai-for-the-creation-of-unique-sound-effects/&quot;&gt;https://readwrite.com/elevenlabs-to-launch- ai-for-the-creation-of-unique-sound-effects/ [3] https://backendnews.net/gartner-predicts-25-dip-in-search-engine-volume-by-2026-due -to-ai/ [4] https://www.uoflnews.com/post/uofltoday/uofl-researchers-develop-ai-powered-tool-to-diagnosis-autism-earlier/ 每日新闻通讯中对最新人工智能新闻和创新进行了更详细的分类。   由   提交 /u/Used-Bat3441    reddit.com/r/ArtificialInteligence/comments/1awhd9k/daily_ai_quick_links_02212024/&quot;&gt;[链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[概述讨论了 Google 2b 和 7b 参数开放模型的发布以及一些用于创建 AI 应用程序的资源。  更多信息   由   提交 /u/somnioperpetuum   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awh57e/new_open_model_release_by_google_gemma/</guid>
       <pubDate>Wed, 21 Feb 2024 17:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kraken 代码：如何构建会说话的化身</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1awh0vh/kraken_the_code_how_to_build_a_talking_avatar/</link>
-      <description><![CDATA[我们和同事开玩笑说这个他的关于实时文本到语音唇形同步的帖子要么出生得太晚，因为Sora 即将统治行业，但还是为时过早，因为他的解决方案针对特定任务比 Sora 量身定制**更好**。无论如何，具有讽刺意味的是，他在 OpenAI 发布他们的视频怪物 🦖 之前就完成了这篇文章。  我个人认为他的解决方案足够小众，Sora 不会让它过时！你觉得怎么样？ 这篇文章有很多编程技术的东西，相信对于对AI感兴趣的工程师来说非常有教育意义！    由   提交 /u/Firfi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1awh0vh/kraken_the_code_how_to_build_a_talking_avatar/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:56:14 GMT</pubDate>
     </item>
     <item>
       <title>聊天 GPT 崩溃</title>
