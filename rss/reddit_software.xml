@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 21:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 01:13:45 GMT</lastBuildDate>
+    <item>
+      <title>用户无法从 BREVO 软件打开电子邮件</title>
+      <link>https://www.reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/</link>
+      <description><![CDATA[我刚刚通过 BREVO 向大约 700 个联系人发送了一封电子邮件。当尝试打开 iOS yahoo 文件夹中的电子邮件地址时，图像会闪烁一秒钟，然后收到此错误消息：“此消息无法显示，因为问题重复发生”。我可以在任何 gmail 或 gmail 支持的电子邮件地址上很好地打开电子邮件，直接在 gmail 应用程序中打开。我刚刚更新了一些设置，以满足 yahoo 和 google 当前的 DMARC 需求（根据 BREVO）。你认为是这样吗？请帮助！谢谢！   由   提交/u/Bumble-love  /u/Bumble-love  reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:41:26 GMT</pubDate>
+    </item>
     <item>
       <title>尝试查找 Windows 控制台中监视按键的 exe 源（几乎任何键）</title>
       <link>https://www.reddit.com/r/software/comments/1axhcot/trying_to_find_source_of_exe_that_monitors/</link>
@@ -39,6 +46,13 @@
       <description><![CDATA[我偶然发现了 avast 防病毒软件，它具有网络检查扫描功能，我看到了我的 ipv4 地址，但不像我的兄弟 iPhone 那样活跃，它说我在 3-6 分钟前处于活动状态，但有时会有 1 或 2 个我不知道的其他 ipv4 地址或电话，它们不处于活动状态，以相同的 IPv4 开头，但以 2 个不同的最后一个数字结尾。是我的手机被黑了还是我的路由器被黑了？我兄弟的 iPhone 在 5 分钟前就显示给我了，还有另外 2 个几乎相同的 IPv4 地址。   由   提交 /u/flokuni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1axe1sv/can_your_iphone_change_its_ipv4_address_or_show/</guid>
       <pubDate>Thu, 22 Feb 2024 18:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 Google Chrome 浏览器的 iMacros 扩展替代品，因为它们将于 2024 年 6 月更新到清单 3.0，而清单 2.0 中的 iMacros 不再支持更新？</title>
+      <link>https://www.reddit.com/r/software/comments/1axd3qq/looking_for_imacros_extension_alternatives_for/</link>
+      <description><![CDATA[您好， 我目前正在为我的 Google Chrome 浏览器使用 iMacros 扩展程序，该扩展程序在最新版本上运行良好。我有一些自动化录音，与使用诸如 chromedriver watir/selenium 自动化之类的东西相比，它非常快速且轻便。我喜欢的是，您不需要任何特殊的浏览器模式来运行它。 我了解到 Google 计划在 2024 年 6 月更新其浏览器以要求清单 3.0，这意味着许多浏览器扩展将停止工作除非附加组件更新到清单 3.0，并且 iMacros 已结束生命周期且不再受支持。 尽管如此，是否还有其他方法可以继续使用 iMacros 附加组件？ &gt; 有什么想法或替代方案吗？ 谢谢。   由   提交/​​u/phoenixlegend7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1axd3qq/looking_for_imacros_extension_alternatives_for/</guid>
+      <pubDate>Thu, 22 Feb 2024 18:05:31 GMT</pubDate>
     </item>
     <item>
       <title>SD 卡不想格式化。</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我一直在寻找手机镜像软件，我 11 岁的女儿想要一部 iPhone，但我很难找到合法的软件。当我用谷歌搜索它时，我看到了诸如 mspy、clevguard kids pro、parentaler、eyezy 等之类的东西。我需要有一些东西，可以通过计算机或其他东西在不被发现的情况下安装它，并且能够监控位置以及短信和电话，所有这些公司声称这样做，但经过更多研究后，我发现他们都是欺骗人们的欺诈公司。请告诉我是否有一个真正有效的软件可供我使用。   由   提交 /u/ChampionshipCommon23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ax1qwh/phone_mirroring_software_for_kids_iphone/</guid>
       <pubDate>Thu, 22 Feb 2024 08:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能给我推荐一本关于数据科学家的好软件书籍吗</title>
-      <link>https://www.reddit.com/r/software/comments/1ax1et3/can_you_recommend_me_a_good_sw_books_for_a_data/</link>
-      <description><![CDATA[ 由   提交/u/Emotional-Rhubarb725  /u/Emotional-Rhubarb725 reddit.com/r/software/comments/1ax1et3/can_you_recommend_me_a_good_sw_books_for_a_data/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax1et3/can_you_recommend_me_a_good_sw_books_for_a_data/</guid>
-      <pubDate>Thu, 22 Feb 2024 08:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 iPhone 变成网络摄像头的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ax19ae/software_to_turn_iphone_into_webcam/</link>
-      <description><![CDATA[我没有网络摄像头，我想将手机用作网络摄像头，但我找不到可用的软件。  我的要求是它可以在 Windows 和 iPhone 上运行。 如果免费的话还有奖励积分   由   提交 /u/thedumbsquad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax19ae/software_to_turn_iphone_into_webcam/</guid>
-      <pubDate>Thu, 22 Feb 2024 08:12:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
