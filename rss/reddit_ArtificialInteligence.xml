@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 21:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 01:11:29 GMT</lastBuildDate>
     <item>
-      <title>本地 AI 文件索引器/摘要器？ （初学者）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayawyq/local_ai_file_indexersummarizer_beginnerish/</link>
-      <description><![CDATA[我本质上是一个 AI n00b，但不完全是。我已经使用一些用于网站内容的在线文本和图像生成器完成了一些 API 工作，但我正在考虑尝试一些更“集成”的工具。本地实用程序。 例如，我的本地计算机上有一个包含 DnD 内容的文件夹（和子文件夹） - 模块、自制规则文档、地图和其他图像资源等。我想指出一个 AI应用程序在此文件夹中，并对其进行索引和组织。理想情况下，它不仅可以识别模块与规则手册 PDF，还可以提取模块的级别范围、大致长度（战役或一次性）等。 我当前的预期行动方案是将 OpenLlama 与 Obsidian 结合使用，但我想我会来这里看看是否有更好的方法或现有工具，有哪些提示或陷阱等任何人可能想大喊大叫的方式。 任何见解都值得赞赏. （另外，我不知道“Flair”是什么，所以我希望我做得正确）   由   提交/u/buzzyloo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayawyq/local_ai_file_indexersummarizer_beginnerish/</guid>
-      <pubDate>Fri, 23 Feb 2024 20:33:24 GMT</pubDate>
+      <title>“输入一个单词并创建一首 AI 歌曲”请帮我找到这个</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayhk4a/type_in_a_word_and_create_an_ai_song_please_help/</link>
+      <description><![CDATA[我正在着手一个人工智能音乐项目，并寻找 2022 年至 2023 年左右的先锋人工智能音乐生成器之一。这些平台允许用户输入单词，提示生成由选定的样本声音组成的歌曲。尽管我努力寻找，但我还没有找到。有人拥有此类工具的链接吗？ Jukedeck 和 Amper Music 等平台在这一时期颇受关注，它们采用先进的算法来制作个性化的作品。虽然具体的链接可能已经演变，但探索 GitHub 等存储库或那个时代的学术文章可能会揭示早期的人工智能音乐生成器 基本上，我正在寻找 2022-2023 年您会输入的那些网站之一总之，它会使用一些样本为您提供这首生成的歌曲。请帮我找到一个！   由   提交/u/Subject_Pattern3969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayhk4a/type_in_a_word_and_create_an_ai_song_please_help/</guid>
+      <pubDate>Sat, 24 Feb 2024 01:09:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>剧透警告：这一切都是幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aygik8/spoiler_alert_its_all_a_hallucination/</link>
+      <description><![CDATA[出现在 这篇文章。关于人工智能如何通过注入错误来尝试模仿（模仿）人类行为的有趣观点，并且基本上是为了我们自己而尝试像人类一样行事。 （或者也许是为了愚弄我们）。读一读！    由   提交 /u/ruptwelve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aygik8/spoiler_alert_its_all_a_hallucination/</guid>
+      <pubDate>Sat, 24 Feb 2024 00:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>类固醇彻底改变了我对人工智能的看法。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayfh5j/steroids_completely_changed_my_opinion_on/</link>
+      <description><![CDATA[我是一名天生的健美运动员，已经训练了一段时间，我对这项运动了解很多，包括所有复杂的细节。在寻找健身灵感时，我对 90 年代巨大但美丽的体格感到震惊，但我当然知道他们使用了很多类固醇，所以我看了看其他声称自然的人。  问题在于是否信任他们，因为他们完全可能对我们所有人撒谎。这是因为中等剂量的类固醇并不会神奇地让你的眼睛变大。所以有很多“自然”的东西。社交媒体上的健美运动员拥有令人印象深刻的体格，但看起来仍然很自然。而假自然健美运动员的外观是真正自然健美运动员无法达到的。我们唯一真正可以信任的是 1910 年至 1950 年的健美运动员，他们无法注射类固醇，因为那时类固醇还不存在。对于现代健美运动员来说，这一切都是猜测和血液测试，很容易被伪造。  现在我们进入人工智能领域。人工智能技术的影响之一与伪造视频、音频和图像有关。伪造的图像自图像本身（斯大林和托洛茨基）以来就存在，但视频和音频更难操纵。这让他们证明了一切，但现在不再了。就像现在的健身灵感一样，你必须完全依靠自己的直觉。 不久前，当第一个文本到音频出现时，我想到了这种联系，因为我认为这使它变得不可能区分什么是真实的/自然的和假的。然而，在 OpenAI 宣布 Sora 后，我觉得有必要写这篇文章。我个人曾犯过支持人工智能开发（使用人工智能或在线消费内容）的错误，但再也不会了。没有索拉在身边。这使得所有新闻、社交媒体、维基百科：整个互联网都不具有经验价值。并不比幻觉更真实。  如果没有任何作弊行为，健美领域会变得更好，成为一种相关的灵感和健康的爱好，但它很快就出了问题。我们是时候限制人工智能对数十年来和谐运转的虚拟生态系统不可避免的破坏了。享受黄金时代。 ​   由   提交 /u/Maxchanclas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayfh5j/steroids_completely_changed_my_opinion_on/</guid>
+      <pubDate>Fri, 23 Feb 2024 23:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>控制人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayds2f/controlling_artificial_intelligence/</link>
+      <description><![CDATA[它已经足够接近“不可能”了，所以不必介意。作为证据，我提供了这本书：“对齐问题”布莱恩·克里斯蒂安.它有许多控制系统失败的例子。为了娱乐，我提供了这个自由落体带。 http://freefall.purrsia.com/ff4000 /fc03981.htm   由   提交/u/Rick12334th  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayds2f/controlling_artificial_intelligence/</guid>
+      <pubDate>Fri, 23 Feb 2024 22:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 CPG 设计的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aychw8/ai_for_cpg_design/</link>
+      <description><![CDATA[大家好，我在 CPG 设计部门工作，希望更多地使用 AI。我已经使用 Adob​​e AI 和 Midjourney，但正在寻找一款能够执行诸如获取现有资产（即产品渲染）和根据提示添加背景设置等任务的 AI 软件。基本上我希望跳过产品拍摄并创建人工智能渲染的产品拍摄。哪个软件能够很好地做到这一点？中途是否隐藏了这个功能？    由   提交 /u/rattybutter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aychw8/ai_for_cpg_design/</guid>
+      <pubDate>Fri, 23 Feb 2024 21:36:52 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟 AI 更新 (02/23/2024)：来自 Stability AI、Microsoft、Google、OpenAI、Suno 和 Jasper 的新闻</title>
@@ -27,39 +55,11 @@
       <pubDate>Fri, 23 Feb 2024 19:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>Adventurer's Codex（D&D 5e 工具）添加了用于制作战役的 ChatGPT 集成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay6exq/adventurers_codex_a_dd_5e_tool_has_added_chatgpt/</link>
-      <description><![CDATA[大家好， 我是社区资助的《地下城与地下城》的开发者之一。龙 (D&amp;D) 工具称为冒险家法典 (AC)。我们长期以来一直致力于帮助玩家和开发者。 DM 管理他们的游戏，但与其他大型工具（D&amp;DBeyond、Roll20 等）相比，我们一直缺乏的一件事是我们的规模不够大，无法授权官方 D&amp;D 内容（威世智免费提供的内容之外）。另外，作为长期活动的 DM 很困难，作为一名 DM 本人，我经常做大量笔记和数据输入，最近还经常使用 ChatGPT（复制意大利面）。 &lt;这就是为什么与 ChatGPT 的集成让我们如此兴奋。  在 AC 的最新更新中，我们添加了 ChatGPT 的功能，以帮助 DM 精心设计遭遇、NPC 背景故事等等 - 未来还会有更多集成。这些集成使用您已在营销活动中输入的数据来帮助您创建一致且有用的描述，并帮助您集思广益新的遭遇想法。我们想做的还有很多（有些已经在进行中）。 我们希望能减轻 DM 肩上的一些负担，让编写自己游戏的人变得更轻松（又名自制游戏）创造更多身临其境的故事和内容轻松地塑造人物。我知道我经常使用 GPT 来处理“谁是这个镇上的旅店老板？”之类的事情。现在，这些都已直接内置到该工具中！ 如果您对此感兴趣，请查看我们最新的博客文章。 [完整的博客文章在这里 &amp; #1608594;](https://adventurerscodex.com/update/2024/02/23/gpt.html )   由   提交 /u/sonicrocketman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay6exq/adventurers_codex_a_dd_5e_tool_has_added_chatgpt/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:33:04 GMT</pubDate>
-    </item>
-    <item>
       <title>哪些视频游戏拥有最好的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay67qf/which_video_games_has_the_best_ai/</link>
       <description><![CDATA[我很好奇人工智能和算法编码可以在视频游戏中做什么，例如 NPC、速通等。我想知道哪些视频游戏没有无论他们的年龄或类型如何，都可以说拥有最好的人工智能和基于算法的机制，以任何方式、形状或形式，由于人工智能或算法的熟练程度，使得游戏对玩家来说更加困难。我最感兴趣的是 NPC 行为之类的事情，以及看看如果给予与玩家相同的机会，算法和人工智能在视频游戏中的表现如何。我希望只提供与视频游戏相关的答案，因为它们是用来玩的，不包括外国软件或对游戏文件的修改。   由   提交 /u/Tyrone_______Biggums   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay67qf/which_video_games_has_the_best_ai/</guid>
       <pubDate>Fri, 23 Feb 2024 17:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>这只是扩散技术吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5ibq/its_all_just_diffusion_techniques/</link>
-      <description><![CDATA[所以 MJ、Dalle-E 等只是使用扩散技术来进行艺术生成。声音/音乐/视频怎么样？谢谢   由   提交 /u/Additional-Desk-7947​​   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5ibq/its_all_just_diffusion_techniques/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的钱肯定都花在蜘蛛侠身上了。你找了谁，为什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5eiy/my_money_is_definitely_on_spiderman_who_you_got/</link>
-      <description><![CDATA[ 由   提交/u/Traditional-Loan129  /u/Traditional-Loan129  reddit.com/gallery/1ay5bpo&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5eiy/my_money_is_definitely_on_spiderman_who_you_got/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌与 Reddit 联手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5d5a/google_is_in_bed_with_reddit/</link>
-      <description><![CDATA[ 由   提交 /u/DataPhreak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay5d5a/google_is_in_bed_with_reddit/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:53:28 GMT</pubDate>
     </item>
     <item>
       <title>遥感方面比 YOLO 更好</title>

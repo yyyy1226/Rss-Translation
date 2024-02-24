@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 21:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 01:07:12 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国的餐馆在从疫情中恢复的过程中面临着艰难的道路。</title>
-      <link>https://t.me/hn_summary/75785</link>
-      <description><![CDATA[在美国外出就餐的成本很高
-美国的餐馆在从大流行中恢复的过程中面临着艰难的道路。尽管新冠疫情后出现反弹，但由于高成本和饮食习惯的变化，2023 年同店销售增长放缓。令人惊讶的是，与堂食餐厅相比，快餐连锁店的利润率有所提高，尽管其价格上涨得更快。这种充满挑战的形势迫使创意餐厅老板寻找新的方法来吸引顾客并维持生计。在美国外出就餐的高昂成本是食客和餐馆老板都关心的主要问题。]]></description>
-      <guid>https://t.me/hn_summary/75785</guid>
-      <pubDate>Fri, 23 Feb 2024 21:15:13 GMT</pubDate>
+      <title>[媒体]科学家在理解量子引力方面取得了重大进展，成功地 [...]</title>
+      <link>https://t.me/hn_summary/75827</link>
+      <description><![CDATA[科学家更接近寻找量子引力理论
+科学家通过在微观层面成功测量引力，在理解量子引力方面取得了重大进展。这项开创性的实验由南安普顿大学的物理学家进行，利用悬浮磁铁来检测微小粒子的微弱引力，使我们更接近解开宇宙之谜。通过突破科学的界限并利用极冷的温度和先进的设备，研究人员希望这项新技术将带来关于引力和量子世界的进一步发现。这项研究标志着朝着寻找数十年来困扰科学家的难以捉摸的量子引力理论迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/75827</guid>
+      <pubDate>Sat, 24 Feb 2024 01:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在人工智能领域，训练数据的所有权正在为 [...]</title>
-      <link>https://t.me/hn_summary/75784</link>
-      <description><![CDATA[猎人步行：没有“安全港”，人工智能将被统治由现任者
-在人工智能领域，训练数据的所有权正在为挑战者设置进入壁垒，让谷歌和 OpenAI 等现有企业能够建立主导地位。人工智能初创公司缺乏一个“安全港”来进行实验而不用担心法律后果，这阻碍了创新。像《纽约时报》这样的公司愿意就数据使用提起诉讼，强调需要更新有关“合理使用”的法规。人工智能安全港提案将在某些条件下保护开发人员，提高透明度、责任感和可观察性。政府是时候向初创公司提供更多数据，以创造公平的竞争环境，并防止新的人工智能老板看起来像旧老板一样。]]></description>
-      <guid>https://t.me/hn_summary/75784</guid>
-      <pubDate>Fri, 23 Feb 2024 21:09:07 GMT</pubDate>
+      <title>[媒体] J3blocks 是 i3bar 和 swaybar 的 Janet 脚本系统，作为 jpm 库分发。</title>
+      <link>https://t.me/hn_summary/75826</link>
+      <description><![CDATA[J3blocks 是 i3bar 和 swaybar 的 Janet 脚本系统 
+J3blocks 是 i3bar 和 swaybar 的 Janet 脚本系统，作为 jpm 库分发。它提供内置模块来监控带宽、CPU、内存使用情况、交换使用情况和时间。用户可以在 j3blocks-extra 上找到额外的社区模块并贡献自己的模块。基本用法包括导入模块和运行脚本来自定义块。 J3blocks 利用 unix 域套接字来处理块事件，并允许使用 j3blocks/msg 进行消息传递。对于特定任务，建议使用有用的 janet 模块，例如 j3blocks/pango 和 j3blocks/procmeminfo。图书馆鼓励贡献并维持 120 个字符的行限制。]]></description>
+      <guid>https://t.me/hn_summary/75826</guid>
+      <pubDate>Sat, 24 Feb 2024 01:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 佛罗里达州卫生局局长约瑟夫·拉达波 (Joseph Ladapo) 无视疾病预防控制中心 (CDC) 的建议，允许取消疫苗接种 [...]</title>
-      <link>https://t.me/hn_summary/75783</link>
-      <description><![CDATA[佛罗里达州在麻疹疫情中藐视疾病预防控制中心，送未接种疫苗的孩子没关系&lt; /a&gt;
-佛罗里达州卫生局局长约瑟夫·拉达波无视疾病预防控制中心的建议，允许未接种疫苗的儿童在麻疹爆发期间上学，引发争议。拉达波的举动违背了公共卫生建议，并将弱势群体置于危险之中。尽管麻疹存在危险，但疫苗接种率却下降，导致多个州爆发疫情。受反疫苗言论影响，拉达波的决定凸显了佛罗里达州卫生政策的转变。此次疫情凸显了疫苗接种和公共卫生措施的重要性。这种情况令卫生专业人员感到担忧，他们倡导儿童和学校工作人员的安全。疾病预防控制中心很少干预麻疹疫情，而是让各州自行应对。]]></description>
-      <guid>https://t.me/hn_summary/75783</guid>
-      <pubDate>Fri, 23 Feb 2024 21:04:01 GMT</pubDate>
+      <title>使用 C 或 C++ 工作需要了解未定义的行为，这可能会导致意外的 [...]</title>
+      <link>https://t.me/hn_summary/75825</link>
+      <description><![CDATA[C 和 C++ 中的未定义行为
+使用 C 或 C++ 工作需要了解未定义的行为，如果处理不当，可能会导致意外结果。与 Python 的无界整数不同，C 整数仅限于 CPU 寄存器中适合的内容。有符号整数溢出、取消引用坏指针、未初始化的数据和其他常见错误可能会导致未定义的行为。 C 标准允许编译器基于不会发生未定义行为的假设来优化代码，从而产生高效但可能不可预测的结果。理解和避免未定义的行为对于编写可靠的 C 和 C++ 代码至关重要。 （根据 37% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75825</guid>
+      <pubDate>Sat, 24 Feb 2024 00:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，作者深入探讨了伊斯灵顿天使的历史和意义 [...]</title>
-      <link>https://t.me/hn_summary/75782</link>
-      <description><![CDATA[天使，伊斯灵顿
-在这篇博文中，作者深入探讨了伊斯灵顿天使酒店的历史和意义，这是大富翁董事会上的一个独特财产。它最初是 17 世纪的一家旅馆，后来发展成为一家受欢迎的酒吧，后来又发展成为一家银行。多年来，这座建筑经历了各种转变，从里昂咖啡馆到现在的空置银行分行。作者强调了围绕最近银行关闭和正在开发的名为天使广场的现代办公楼的争议，该办公楼被描述为平淡无奇且不起眼。这篇文章的结尾充满了对天使过去辉煌的怀念。]]></description>
-      <guid>https://t.me/hn_summary/75782</guid>
-      <pubDate>Fri, 23 Feb 2024 21:01:57 GMT</pubDate>
+      <title>[媒体] 匹兹堡大学的研究发现，重返办公室 (RTO) 要求 [...]</title>
+      <link>https://t.me/hn_summary/75824</link>
+      <description><![CDATA[RTO 并不能提高公司价值，反而让员工痛苦不堪：学习
+匹兹堡大学的研究发现，重返办公室（RTO）指令并没有改善公司的财务指标，反而降低了员工满意度。数据表明，RTO 指令与男性首席执行官在公司拥有更大权力的公司有关。研究人员推测，RTO 指令可能会被用来将公司绩效不佳归咎于员工。研究还发现，RTO 指令与员工满意度下降有关，总体工作满意度、工作与生活平衡、高级管理层和企业文化的评分下降。研究结果表明，反收购政策可能更多的是为了控制而不是提高公司价值。]]></description>
+      <guid>https://t.me/hn_summary/75824</guid>
+      <pubDate>Sat, 24 Feb 2024 00:36:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌在纽约引起轰动，其新总部改建为 1930 年代 [...]</title>
-      <link>https://t.me/hn_summary/75781</link>
-      <description><![CDATA[Google 在改造后的 1930 年代铁路终点站开设纽约总部 
-谷歌在纽约引起轰动，其新总部设在哈德逊广场附近一座 1930 年代的火车站，经过改建。该建筑的设计充分考虑了自然，拥有 1.5 英亩的植被，吸引了 40 多种鸟类。该项目减少了碳排放并减少了建筑垃圾，体现了 Google 对可持续发展的承诺。该办公室专为协作而设计，拥有灵活的工作安排和可激发创造力的共享空间。尽管最近进行了裁员，谷歌在纽约的员工人数仍增加了一倍，这表明这家科技巨头在这座城市的持续增长和投资。]]></description>
-      <guid>https://t.me/hn_summary/75781</guid>
-      <pubDate>Fri, 23 Feb 2024 21:00:53 GMT</pubDate>
+      <title>来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。</title>
+      <link>https://t.me/hn_summary/75823</link>
+      <description><![CDATA[Lisp 中的类：CLOS 简介
+来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。 www.lambda-out-loud.com 上的此介绍 旨在让您熟悉 Lisp 中面向对象的基础知识。与传统的 OO 语言不同，CLOS 将类结构与功能分开。使用 defclass 宏，可以使用槽（属性）和访问器来定义类。对象实例化是通过 make-instance 完成的，对象行为是通过方法实现的。 CLOS 支持继承，包括多重继承，并具有合理的冲突解决方案。虽然本指南是一个很好的起点，但建议进一步阅读以更深入地了解 CLOS。]]></description>
+      <guid>https://t.me/hn_summary/75823</guid>
+      <pubDate>Fri, 23 Feb 2024 23:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>Avast 是安全研究和防病毒应用领域的知名品牌，已被 Fede 订购 [...]</title>
-      <link>https://t.me/hn_summary/75780</link>
-      <description><![CDATA[Avast 被勒令停止出售其浏览隐私应用程序的浏览数据
-Avast 是安全研究和防病毒应用领域的知名品牌，美国联邦贸易委员会已下令停止出售通过其隐私应用收集的浏览数据。 FTC 发现 Avast 现已关闭的实体 Jumpshot 收集的数据远非匿名，其中包含独特的设备标识符和详细的浏览习惯。这些数据被出售给 100 多家公司，其中包括谷歌和微软等大公司。 Avast 现在必须向消费者支付 1650 万美元的赔偿，获得未来数据收集的同意，并实施全面的隐私计划。这场争议凸显了在处理敏感浏览数据时需要更加小心。]]></description>
-      <guid>https://t.me/hn_summary/75780</guid>
-      <pubDate>Fri, 23 Feb 2024 20:58:48 GMT</pubDate>
+      <title>[媒体]由亿万富翁资助的人工智能末日论者正在加大游说力度，以推动警察 [...]</title>
+      <link>https://t.me/hn_summary/75822</link>
+      <description><![CDATA[亿万富翁资助的人工智能末日论者加大游说力度
+由亿万富翁资助的人工智能末日论者正在加大游说力度，推动制定政策，要求人工智能开发人员对潜在危害负责，要求高风险系统获得许可，并赋予监管机构在紧急情况下暂停项目的权力。批评者认为，这些努力正在转移人们对人工智能更紧迫问题的注意力，例如工作流失和歧视。由 CAIP 和 CAIS 等组织领导的游说活动可能会让顶级人工智能公司受益，并引发争议。这些团体与有效的利他主义联系在一起，获得了行业领导者的大量资助，引发了人们对其影响力的担忧。转向直接游说标志着这些组织战略的转变，旨在使他们在华盛顿的努力专业化。]]></description>
+      <guid>https://t.me/hn_summary/75822</guid>
+      <pubDate>Fri, 23 Feb 2024 23:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Pestilence 的人工智能生成的新专辑《Levels Of Perception》封面引发了争议 [...]</title>
-      <link>https://t.me/hn_summary/75779</link>
-      <description><![CDATA[Pestilence 为他们的 AI 专辑封面辩护，这是错误的&lt; br /&gt;
-Pestilence 人工智能生成的新专辑《Levels Of Perception》封面在歌迷中引发了争议。乐队为人工智能艺术作品的使用辩护，将其与录音技术和摄影进行比较，但许多人认为新封面缺乏他们之前艺术作品的努力和热情。尽管过去在专辑封面方面取得了成功，Pestilence 和 Agonia Records 似乎正在拥抱人工智能生成的艺术，这让一些粉丝感到失望。随着乐队推进他们的职业回顾专辑，争论仍在继续。订阅金属注射，了解有关最新金属新闻和争议的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/75779</guid>
-      <pubDate>Fri, 23 Feb 2024 20:57:44 GMT</pubDate>
+      <title>[媒体] 在《勇士与忧虑者》中，心理学家乔伊斯·贝南森 (Joyce Benenson) 挑战了口碑 [...]</title>
+      <link>https://t.me/hn_summary/75821</link>
+      <description><![CDATA[女性是排除在外的担忧者
+在《勇士与忧虑者》一书中，心理学家乔伊斯·贝南森对女性比男性更善于交际、男性比女性更具竞争力的观念提出了挑战。她认为，女性将社会排斥作为竞争的关键策略，其目标是保留资源、地位和伴侣。贝南森的研究表明，女孩从幼儿时期就开始遭受社会排斥，而且女性比男性更容易受到社会排斥的影响。这种行为在不同的文化中都有所体现，并可能产生严重后果，例如女孩因严重排斥而不得不转学。 “取消文化”的兴起可以被视为这种女性策略的延伸，部分是由#MeToo运动推动的。这种转变反映了更广泛的文化女性化，对社会动态和规范具有潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/75821</guid>
+      <pubDate>Fri, 23 Feb 2024 23:37:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]民粹主义的兴起，特别是在欧洲，重塑了政治格局。</title>
-      <link>https://t.me/hn_summary/75778</link>
-      <description><![CDATA[民粹主义对全球化的强烈抵制：因果证据的元分析&lt; /a&gt;
-民粹主义的兴起，尤其是在欧洲，重塑了政治格局。关于民粹主义根源的争论从经济全球化到文化进步主义。这项荟萃分析深入研究了因果证据，重点关注经济不安全这一关键因素。三十六项研究表明，尽管地理和方法论存在显着差异，但经济不安全与民粹主义之间存在密切联系。该论文遵循系统综述方法，将学术数据库搜索与反向引文搜索相结合。通过广泛地定义民粹主义和动态的经济不安全，该研究揭示了经济因素与民粹主义反对全球化之间的复杂关系。 （根据故事文本的 26% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75778</guid>
-      <pubDate>Fri, 23 Feb 2024 20:51:38 GMT</pubDate>
+      <title>[媒体]前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 将自己的名字改为“Sla [...]</title>
+      <link>https://t.me/hn_summary/75820</link>
+      <description><![CDATA[一位前 Gizmodo 作家更名为“Slackbot”，一直未被发现月
+前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 在 2022 年离开公司后，在 Slack 上将自己的名字改为“Slackbot”，从而成功搞了一个聪明的恶作剧。几个月来，他一直没有被发现，用一张类似于实际 Slackbot 图标的愤怒版本的个人资料图片来愚弄管理层。通过使用特殊字符来模仿名字，麦凯的帐户避免了删除，并且他能够向同事发送类似机器人的消息。虽然不是每家公司都会上当，但它在 Gizmodo 上奏效了。这种令人惊讶和幽默的情况引起了前同事的嘲笑，其中一位说：“作为 G/O Media 的幸存者，这就是跟踪。”]]></description>
+      <guid>https://t.me/hn_summary/75820</guid>
+      <pubDate>Fri, 23 Feb 2024 23:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加拿大滑铁卢大学一台出现故障的自动售货机曝光了 [...]</title>
-      <link>https://t.me/hn_summary/75777</link>
-      <description><![CDATA[加拿大大学自动售货机错误揭示了面部识别的使用 
-加拿大滑铁卢大学一台出现故障的自动售货机暴露了面部识别技术的秘密使用。屏幕上的错误消息揭示了该技术的存在，但并未向学生透露。这些机器背后的公司 Invenda 声称该技术符合 GDPR，但尚不清楚它是否符合加拿大隐私标准。这一发现是在一家全国性零售商因在未通知顾客的情况下使用面部识别而遭到强烈反对之后发现的。大学已承诺移除机器并禁用软件，而学生们则自行采取行动，用口香糖和纸盖住可疑的相机。]]></description>
-      <guid>https://t.me/hn_summary/75777</guid>
-      <pubDate>Fri, 23 Feb 2024 20:48:32 GMT</pubDate>
+      <title>标题： 2024 年全球收入最大的行业</title>
+      <link>https://t.me/hn_summary/75819</link>
+      <description><![CDATA[2024 年全球收入最大的行业
+标题：2024 年全球收入最大的行业
+
+电信行业的需求不断增长，但无线运营商之间的竞争阻碍了收入增长。受疫情影响，石油和天然气行业出现了极大的波动，收入将在 2022 年创下历史新高。尽管全球需求旺盛，但保险业仍面临挑战，尤其是在人寿和健康保险领域。养老基金对于退休计划至关重要，积极的投资回报推动收入增长。商业房地产有所下降，但随着经济反弹，预计会出现复苏。汽车销售受到供应链中断的影响，而银行业则受到全球经济表现的影响。汽车制造商正在适应技术进步，旅游业在 2020 年因疫情大幅下滑后正在复苏。]]></description>
+      <guid>https://t.me/hn_summary/75819</guid>
+      <pubDate>Fri, 23 Feb 2024 23:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]VMware 已发布安全公告，敦促用户卸载已弃用的 VMware [...]</title>
-      <link>https://t.me/hn_summary/75776</link>
-      <description><![CDATA[VMware 针对旧 SSO 插件中的严重缺陷发布无补丁建议&lt; /a&gt;
-VMware 已发布安全公告，敦促用户卸载已弃用的 VMware 增强型身份验证插件 (EAP)，因为该插件存在严重漏洞，可能允许远程攻击者执行身份验证中继攻击以及本地用户劫持 vCenter 会话。这些漏洞是由 Pen Test Partners 的 Ceri Coburn 发现的，但尚未被广泛利用。尽管缺少补丁，用户可以通过卸载插件及其关联的 Windows 服务来保护自己。 Coburn 批评了 VMware 的披露时间表，对延迟确认问题以及不提供修复程序的决定表示失望。这一争议加剧了人们对 VMware 安全漏洞的持续担忧，包括最近国家支持的网络间谍组织的利用以及针对 ESXi 虚拟机管理程序的勒索软件攻击。]]></description>
-      <guid>https://t.me/hn_summary/75776</guid>
-      <pubDate>Fri, 23 Feb 2024 20:41:26 GMT</pubDate>
+      <title>有人退出每天上午 8:30 的站立会议吗？</title>
+      <link>https://t.me/hn_summary/75818</link>
+      <description><![CDATA[有人退出每天上午 8:30 的站立会议吗？ 
+news.ycombinator.com 上这篇文章的作者是寻求有关如何摆脱每天上午 8:30 导致睡眠不足的站立会议的建议。他们正在考虑伪造每周约会或搬到不同的时区以避免提前开会。作者对会议毫无用处并影响他们的睡眠表示沮丧。争议在于平衡工作义务与个人福祉的斗争，而独特的方面是建议搬到不同的时区作为潜在的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/75818</guid>
+      <pubDate>Fri, 23 Feb 2024 23:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
