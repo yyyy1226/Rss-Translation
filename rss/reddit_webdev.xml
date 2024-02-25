@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 01:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 03:20:57 GMT</lastBuildDate>
+    <item>
+      <title>有关 servlet 和 html 的帮助吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</link>
+      <description><![CDATA[您好！我开始在 Web 开发中编程，并且正在编写一个需要创建连接到 servlet 的 html 文件的程序。我用的是netbeans。所以我做的第一件事就是尝试它，但没有成功，因为我缺少很多东西，我必须使用 tomcat 设置我的服务器，修复一些更新问题，安装 Java EE 等等。最终完成所有这些操作后，我能够创建一个项目，并在该项目内创建一个 html 文件和一个 servlet。两者都运行时没有标记任何错误，但问题是 html 文件没有打开浏览器页面。代码的要点是打开一个浏览器页面，其中有一个启动 servlet 的按钮，然后该 servlet 打开，但是什么也没发生，我真的不知道该怎么办。 感谢您的帮助！   由   提交 /u/Zethasu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>欺骗性弃用：关于 npm 弃用包的真相</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</guid>
+      <pubDate>Sun, 25 Feb 2024 02:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[问题] 2024 年最好学习 STACK，以获得一份完整的远程工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</link>
+      <description><![CDATA[基本标题，我想知道如何学习才能获得完整的远程工作。   由   提交/u/Quate1v9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</guid>
+      <pubDate>Sun, 25 Feb 2024 01:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载邮递员集合，我应该将 {practiceid} 替换为 123456，还是需要在其他地方配置 123456？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</link>
+      <description><![CDATA[   /u/lindogamaton  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</guid>
+      <pubDate>Sun, 25 Feb 2024 01:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>针对注销用户的每会话分析建议比谷歌分析更详细？</title>
       <link>https://www.reddit.com/r/webdev/comments/1azb32w/recs_for_persession_analytics_for_logged_out/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交/u/dp-ross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1az6mil/i_built_a_rusttypescript_web_app_to_explore_the/</guid>
       <pubDate>Sat, 24 Feb 2024 21:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示当前状态：ruby 和 <ruby> 元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</link>
-      <description><![CDATA[刚刚偶然发现了 display: ruby​​; 和  元素。任何人都可以分享关于 &lt;ruby&gt; 之间互连的见解吗？元素和 CSS ruby​​ 注释？鉴于浏览器对 CSS ruby​​ 样式选项的支持程度适中（根据 MDN），这些选项是否有任何实际用例？ 链接：* https://developer.mozilla.org/en-US/docs/Web/CSS/display#ruby * https://html.spec.whatwg.org/multipage/text-level-semantics.html#the -ruby-element * https://developer.mozilla.org/en -US/docs/Web/HTML/Element/ruby   由   提交/u/web-devel  /u/web-devel  reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到值得信赖的网络开发人员来帮助您构建网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</link>
-      <description><![CDATA[我想询问这个社区，因为我不确定如何解决这个问题：我正在寻找为我的初创公司开发一个 WordPress 网站。我正在尝试自己去做，但我认为付钱给某人来帮助设置可能是值得的。这相当简单。但是，你们都建议如何解决这个问题？我已设置域名和网站托管。我只是不确定如何选择人来帮助我 - 有数以百万计的服务和人员。有哪些值得提出的好问题、需要发现的危险信号等等？   由   提交 /u/centipedeberryjuice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个社交媒体网站有多难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</link>
-      <description><![CDATA[抱歉，如果这是错误的 Reddit 子版块，但我对开始一个子版块很好奇 实际上不知道如何做，但如何做学习如何运行和制作一个会很难吗？   由   提交 /u/Big-Contribution4896    reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>#100DaysOfCode #第 12 天</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</link>
-      <description><![CDATA[#100daysofcode #Day 12📷 以深入研究 API 项目开始——这是我后端课程中的必做之事。任务：创建一个时间戳 API。我必须通过约会课程来磨练我的技能，感觉自从我上次接触它以来已经过去了很多年。一路上遇到了很多麻烦，但是，嘿，这就是学习曲线，对吧？ 📷 必须多次循环编码、测试 API、git 推送、失败和调试。但猜猜怎么了？坚持就有回报——我克服了挑战！ 📷 耐心解决问题，伙计们，这是成为一流程序员的真正秘诀。📷 https://youtu.be/zVsOu0VuGu0   由   提交 /u/Zilenxra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:18:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
