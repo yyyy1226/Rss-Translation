@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 15:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 21:17:31 GMT</lastBuildDate>
     <item>
-      <title>将我的个人网站重建为单个 HTML 页面。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</link>
-      <description><![CDATA[我的网站 我已经过去有一个个人网站，全部都是用 React 构建的不同程度的复杂性。今年，我决定再次重建我的网站，但我回到了最基础的、没有 JS 或框架的纯 HTML 页面。该设计深受 saveflipper.ca 和 hugo-theme-terminal 站点源代码：https://github.com/sgolovine/www  非常感谢任何批评。   由   提交 /u/_fat_santa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</guid>
-      <pubDate>Sun, 25 Feb 2024 15:00:05 GMT</pubDate>
+      <title>好的，色彩空间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azxef6/okay_color_spaces/</link>
+      <description><![CDATA[ 由   提交 /u/stefanjudis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azxef6/okay_color_spaces/</guid>
+      <pubDate>Sun, 25 Feb 2024 20:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>你们如何管理翻译？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</link>
-      <description><![CDATA[您如何管理多语言网站的翻译？ 我正在寻找与 React 网站相关的策略，但后来我我认为任何适用于 webdev 的策略也适用于 React 网站。 我目前在 JSON 文件中的字符串中使用 i18next，对于我的大多数用例来说，它都非常适合我。我可以管理 CSV 中的字符串并将它们导出到 JSON 文件。可以用其他工具替换 CSV 以进行扩展。可以将 CSV 命名到特定页面以自动映射它们等。 当我有一个充满内容的页面而不是为我正在考虑的段落和项目符号创建 50 个翻译标签时，此工作流程对我来说会失败。备择方案。有什么建议吗？   由   提交 /u/webdevop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+      <title>我感觉使用 cookieyes wordpress 插件后我的每次点击费用和广告可见率下降了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azwnq4/i_feel_like_my_cpc_and_ad_visibility_rate/</link>
+      <description><![CDATA[我使用 cookieyes，但由于弹出消息，我觉得我的每次点击费用和广告可见率下降了。它可能是正确的，或者只是安慰剂？ 我是否需要使用 cookie 插件，或者如果我启用 adsense 自己的 GDPR 在 adsense 面板上显示警告并仅在欧洲显示就足够了？因为我的流量 99% 是美国。 我应该对美国流量使用 cookie 警告吗？   由   提交 /u/Jayonsticks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azwnq4/i_feel_like_my_cpc_and_ad_visibility_rate/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>应用内浏览器不支持 lvh 和 svh 单位？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</link>
-      <description><![CDATA[这让我发疯。我的网站是基于 lvh 的，但它似乎无法与 Facebook Instagram 和 LinkedIn 使用的这些糟糕的应用内浏览器一起使用？当您随着标题进出而上下滚动时，我的内容会到处弹跳。 这些新的 css 单元是否真的不受此支持？   div&gt;  由   提交 /u/1conflictedconfusion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+      <title>我厌倦了必须向下滚动到职位描述才能找到所需的最低经验年限，因此编写了一个脚本来为我做到这一点。现在，它在职位名称下方添加了所需的经验，以便我可以快速评估我的资格。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</link>
+      <description><![CDATA[       由   提交 /u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>有没有一种简单的方法可以将数据传输到设备？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azp55i/is_there_an_easy_way_to_get_data_to_a_device/</link>
-      <description><![CDATA[上下文：我正在开发一个电视应用程序，它应该与自托管后端服务进行通信。 自从放置在服务的 URL 和 API 密钥中在电视上执行此操作很繁琐，我一直在寻找一种更轻松的自动化方法。 一个想法可能是粘贴 JSON（包括 api- url 和密钥）到pastebin.com，并使用电视应用程序上的短网址来抓取和解析它。 还有其他服务允许免费存储/检索小文本内容吗？&lt; /p&gt;   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azp55i/is_there_an_easy_way_to_get_data_to_a_device/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:26:38 GMT</pubDate>
+      <title>有哪些适合简历的 Javascript 项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</link>
+      <description><![CDATA[在当今的环境下，您认为什么是好的项目，可以让您的简历脱颖而出？（使用 Node 的项目.js/react.js、html 和 css） PS-我知道它要求太高，但如果该项目不是太困难或者有在线资源来了解该项目，我会很感激   由   提交 /u/PandeyyJi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>Twitter 状态页面 SSL 已过期？难道只有我这边吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azovjr/twitter_status_page_ssl_expired_is_it_only_on_my/</link>
-      <description><![CDATA[我知道这不是发帖的最佳位置。但由于我知道这个小组有精通技术的成员，这与 Web 开发有些关系，我不知道还能去哪里问... 转到 Twitter/X 的主页 (https://twitter.com/）并单击页脚中的“状态”应该会引导您进入 https://status.twitterstat.us/。这个 SSL 证书真的已于 2023 年 8 月 30 日过期吗？还是我这边出了问题？ P.S.有人可以向我解释为什么许多大公司使用这些单独的域来提供不同的服务吗？为什么不使用子域（例如 status.twitter.com）而不是看起来像可疑网络钓鱼的域？有什么好的理由吗？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azovjr/twitter_status_page_ssl_expired_is_it_only_on_my/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:14:08 GMT</pubDate>
+      <title>网络开发和游戏领域的人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</link>
+      <description><![CDATA[您好，只是对从事 Web 开发和工作的人员感到好奇。您也是游戏玩家，您每天在电脑/游戏机上盯着屏幕有多少小时？我是一名业余网络开发人员，做过自由职业，但主要使用 &amp;想要创业和创业的技能我想经营在线业务，而且我喜欢学习它。我从来都不是一个大玩家。 15 年前，18 岁时就完全停止了。我知道有很多专业网络开发人员也经常玩游戏，我很好奇你在屏幕上花费的时间，如果你曾经做过屏幕排毒，我知道游戏可以是社交的，但你仍然坐着花费大量时间进行和学习 Web 开发，身体或精神都不健康。   由   提交/u/redsnflr-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>从 JS/React 控制 VisionOS 的 RealityKit 场景</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azoi7d/controlling_visionoss_realitykit_scene_from/</link>
-      <description><![CDATA[      我想测试从 JS 端对实体进行动画处理是否会导致抖动。实际上看起来相当顺利！ 如果人们对此感兴趣，我可以将其清理到一个库中，以便人们可以使用它。 如果允许，我会在这里发布进度或者在我的 Twitter 上： https://twitter.com/_asadmemon   由   提交/u/twokiloballs   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azoi7d/controlling_visionoss_realitykit_scene_from/</guid>
-      <pubDate>Sun, 25 Feb 2024 13:56:58 GMT</pubDate>
+      <title>这里的菜鸟，我需要去掉这个边框，但我似乎找不到它写在哪里。我正在使用 React 和 Tailwind。我如何追踪其根本原因？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</link>
+      <description><![CDATA[   /u/iiexistenzeii  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>星期六炫耀...我需要codesandbox 方面的帮助:(</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azocp9/showoff_saturday_i_need_help_with_codesandbox/</link>
-      <description><![CDATA[     &lt; td&gt;   提交者    /u/Kktonic   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azocp9/showoff_saturday_i_need_help_with_codesandbox/</guid>
-      <pubDate>Sun, 25 Feb 2024 13:49:41 GMT</pubDate>
+      <title>我有一个域名，我应该使用什么来部署和托管我的个人投资组合网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</link>
+      <description><![CDATA[大家好！  我获得了一个域名，目前正在开发我的个人作品集网站。我应该使用什么免费托管服务来部署我的网站？  我听说过 Vercel、GitHub Pages、Render.com 等，但我不知道该选择哪个。&lt; /p&gt;   由   提交/u/NightShadowGR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>对不良网站 Tampermonkey 的非常小的脚本请求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azo2mm/very_minor_script_request_for_bad_website/</link>
-      <description><![CDATA[您好，我在访问一个网站时遇到了困难，该网站上有我想阅读的教程，但除了主页之外的每个页面都被移出屏幕，无法阅读。  我安装了 Tampermonkey，并希望有一个脚本可以修复每个页面的错误。 以前的方法有点乏味（手动更改每个页面的页面源），而且会喜欢与其他人分享解决方案，因为该网站的所有者似乎并不关心并且已经放弃了该网站或其他东西。 ​ https://wiki.beyondunreal.com/ ​ 我之前有人帮助我的方法是更改  div#column-content { margin-left: -12.2em; } ​ 通过从全局包装器下的列内容中的 -12.2em 中删除 - 。 ​ 如果有人想帮助我，我真的很感激 ​ ​ ​   由   提交 /u/Blablablubblubloeder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azo2mm/very_minor_script_request_for_bad_website/</guid>
-      <pubDate>Sun, 25 Feb 2024 13:35:45 GMT</pubDate>
+      <title>此流量合法吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>开发工具中网络选项卡中不同类型的缓存</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azniil/different_types_of_cache_in_network_tab_in_dev/</link>
-      <description><![CDATA[      在 devTools 网络选项卡中查看时，“磁盘缓存”、“内存缓存”和“ServiceWorker”有什么区别？ &amp; #x200b; https:// Preview.redd.it/at3pawwadqkc1.png?width=901&amp;format=png&amp;auto=webp&amp;s=97ed35f050ac83889935b06ebc40fd0629fbbf02   由   提交/u/Fancy_Payment_800   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azniil/different_types_of_cache_in_network_tab_in_dev/</guid>
-      <pubDate>Sun, 25 Feb 2024 13:08:08 GMT</pubDate>
+      <title>寻求反馈：如何改进 Jean Fernand Setti 网站以提高用户参与度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azuy27/seeking_feedback_how_can_i_improve_the_jean/</link>
+      <description><![CDATA[大家好， 我目前正在致力于增强 Jean Fernand Setti 的网站，他是一位杰出的男中音低音歌剧歌手，我正在寻求您的专业知识和反馈。我们的目标不仅是展示他的才华和即将到来的表演，而且还要确保该网站具有吸引力、信息丰富且可供所有访问者访问。 以下是该网站的链接：www.jeanfernandsetti.fr 我对您对以下方面的想法特别感兴趣：  用户体验和导航：如何使网站更加直观和用户友好？ 内容呈现：是否有更有效的方式来呈现有关 Jean Fernand 的职业、表演和录音的信息？ 视觉设计：对于如何改进网站的美感以更好地体现 Jean Fernand 的艺术才华有什么建议吗？ 性能和可访问性：有关提高所有用户的网站速度、响应能力和可访问性的提示。 性能和可访问性：有关提高网站速度、响应能力和所有用户可访问性的提示。 li&gt;  如果您能提供任何反馈、批评或建议，我们将不胜感激。我们渴望让这个网站对粉丝和新人来说尽可能有效和有吸引力。预先感谢您的帮助！   由   提交 /u/JackTroyl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azuy27/seeking_feedback_how_can_i_improve_the_jean/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>当今时代：《Clean Code》不是一本书，而是 VS Code 中的点击式 AI CodeLens</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azmkge/todays_generations_clean_code_isnt_a_book_its/</link>
-      <description><![CDATA[      刚开始开发的时候，我花了一些时间阅读《清洁代码》一书，然后不断回头一遍又一遍地重读某些部分来检查我的代码。 这些天，似乎有点不同 https://preview.redd.it/zlg33hu14qkc1.png?width=1721&amp;format= png&amp;auto=webp&amp;s=84b3ab1581a76b6bce40ed099a8523a542ef4c71   由   提交/u/findurself020   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azmkge/todays_generations_clean_code_isnt_a_book_its/</guid>
-      <pubDate>Sun, 25 Feb 2024 12:16:04 GMT</pubDate>
+      <title>为什么 iframe 中发生的用户输入事件（如单击或鼠标移动）不会在父窗口中触发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azuohp/why_are_user_input_events_like_click_or_mousemove/</link>
+      <description><![CDATA[我知道存在安全限制，并且它们的存在有充分的理由，但这似乎太过分了，对吧？而且也是违反直觉的。如果我作为用户单击网站上的某些内容，我希望我所在的网页知道我单击了它。假设我有一个显示多个 iframe 的网站（其中的内容我无法控制，因此无法选择任何基于消息的花哨解决方案），并且这些 iframe 可以通过鼠标单击和拖动来拖动。唯一的问题是，只要鼠标位于 iframe 上方，我就无法拖动它。作为该网站的用户，我会发现这非常烦人和不合逻辑。那么为什么会这样对待呢？如果我尝试提出更改来解决此问题，它会被拒绝吗？ Tldr：为什么输入事件被视为需要从其他窗口上下文中隐藏？这能实现什么额外的安全性？仅仅是因为不共享事件的更广泛政策吗？ （在我看来，这似乎有点短视）   由   提交/u/Johnny_Thunder314   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azuohp/why_are_user_input_events_like_click_or_mousemove/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>帮助建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azmdrt/help_with_building_a_website/</link>
-      <description><![CDATA[您好，我不知道这是发布此内容的正确位置，但是 我是一名 MIS 学生，我现在有我的毕业项目，需要我们从头开始编写一个网站，我们有网站的想法和一切，但我们没有人有足够的编程知识来建立一个网站，（我们的专业只有几门与编码，他们只教你基础知识），我可以使用什么工具，网站，任何东西来构建网站，构建数据库并完成所有这些，它不必看起来很漂亮，它只需要工作，保持请记住，大量的标记都在书面代码上，我该如何开始？   由   提交/u/MahmoudAZ02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azmdrt/help_with_building_a_website/</guid>
-      <pubDate>Sun, 25 Feb 2024 12:05:21 GMT</pubDate>
+      <title>有没有办法确定用户是否设置了 12 小时制还是 24 小时制？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azu87y/is_there_a_way_to_determine_if_the_user_has_12/</link>
+      <description><![CDATA[我已经尝试过 Intl 对象以及我在堆栈溢出时遇到的其他几个对象，但我就是不能为我的生活弄清楚如何确定如何按照用户的预期向他们显示时间。   由   提交 /u/blakealex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azu87y/is_there_a_way_to_determine_if_the_user_has_12/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:59:13 GMT</pubDate>
     </item>
     <item>
-      <title>Javascript zip 提取器和服务器安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azm6s0/javascript_zip_extractor_and_server_security/</link>
-      <description><![CDATA[嗨， 我想在我的网站上使用此 ZIP 提取应用程序 (html/javascript) - https://gildas-lormeau.github.io/zip.js/demos/demo-read-file.html  我可以问你一个问题吗？我不是程序员，而是图形设计师。如果我上传这个 html/javascript 应用程序以在我的服务器上解压缩 zip 存档，那么我的服务器应该安全吗？ Zip 存档可能包含病毒和恶意软件，但这是一个“前端应用程序”。文件不存储在我的服务器上，但它们在互联网浏览器中进行处理。我是否正确理解我的服务器无法通过此 JavaScript 应用程序受到某些恶意软件的攻击？感谢您的回复   由   提交/u/pixsector  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azm6s0/javascript_zip_extractor_and_server_security/</guid>
-      <pubDate>Sun, 25 Feb 2024 11:53:55 GMT</pubDate>
+      <title>作为 WordPress 开发人员，寻找学习 MERN 堆栈的灵感。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aztvcm/looking_for_inspiration_to_learn_mern_stack_as_a/</link>
+      <description><![CDATA[在过去的 7 年里，我一直是 WordPress 开发人员，我希望提高自己的技能，并关注市场趋势 MERN 显然是我的想法我的下一步是学习。 我相信通过构建来学习。 但我仍然找不到一个很好的理由来说明为什么某个特定项目会做得更好在 MERN 中，而不是在传统的 WordPress/PHP/Javascript 堆栈中，显然它的构建和部署速度更快。 有人可以帮助我解决这个困境，并告诉我应该尝试构建什么，这将展示 MERN 如何进行构建明显优于 WordPress？ 我知道 MERN 在构建具有巨大流量的大型系统时会有所帮助，但我无法自己测试这些系统，因为我不是用它来建立业务。 &lt; /div&gt;  由   提交 /u/slamdunk6662003   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aztvcm/looking_for_inspiration_to_learn_mern_stack_as_a/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关处理 dayjs 对象的帮助。我怎样才能让他们在当地时间进行算术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azlyjr/seeking_help_on_handling_dayjs_objects_how_can_i/</link>
-      <description><![CDATA[      仅供参考，我住在新西兰，目前处于 GMT+13。目前发布于 2 月 25 日 我正在使用 `dayjs` 库，我需要创建一个格式化日期数组，给定最小和最大日期。我根据用户界面中选择的今天的偏移量计算最小值。我根据预先确定的日期计算最大值。 我最初的尝试如下， 导出函数generateLabelRange(): string[] { const minimumDate = getMinimumDate(); const MaximumDate = getMaximumDateFromGoalInformation(); const labelRange = MaximumDate.diff(minimumDate, &#39;天&#39;); let labels = [] for (let offSet = 0; offSet &lt;= labelRange; offSet++) { labels.push(minimumDate.add(offSet, &#39;days&#39;).format(&quot;YYYY-MM-DD&quot;));返回标签； }  在此示例中，“minimumDate”是通过“dayjs().subtract(dateRange, &#39;days&#39;)”创建的，“maximumDate”是通过“dayjs(”YYYY- MM-DD”）`。导致该问题的示例如下： const minimumDate = dayjs().subtract(14, &#39;days&#39;); // 正确的是 2 月 11 日 const MaximumDate = dayjs(&quot;2024-03-05&quot;); // 显示为 3 月 4 日  我遇到的问题是 `dayjs(&quot;2024-03-05&quot;)` 表示的对象实际上是 3 月 4 日，而不是第五。格式化的时候只是第五次。这意味着，“maximumDate.diff(minimumDate, &#39;days&#39;)”将得到 22。但是，这是 3 月 4 日和 2 月 11 日之间的差异，而不是我用来创建日期的原始日期，即3月5日。正确的结果应该是 23，但它只循环了 22 次。因此，我的标签生成方法将关闭 1，具体取决于提供的最大日期。  因此，为了现在解决这个问题，我现在比较格式化的日期，  export functiongenerateLabelRange(): string[] { constminimumDate = getMinimumDate(); const MaximumDate = getMaximumDateFromGoalInformation().format(“YYYY-MM-DD”);让日期=最小日期； let formattedDate = date.format(&#39;YYYY-MM-DD&#39;);让标签：字符串[] = []； while (formattedDate !== MaximumDate) { labels.push(formattedDate); date = date.add(1, &#39;天&#39;); formattedDate = date.format(&quot;YYYY-MM-DD&quot;); } labels.push(formattedDate);返回标签； }  虽然这感觉不太好，但是。如何更改“dayjs”以根据其格式化的日期执行加/减？  我也不明白为什么 dayjs, startOf 结果是前一天的日期，例如 感谢您的帮助。 ​ https://preview.redd.it/jicbepwixpkc1.png?width=268&amp;format=png&amp;auto=webp&amp;s=76251b1a51d37d0a5 a9c9354130eecc9e632e806&lt; /p&gt; https://preview.redd。 it/d7el7andxpkc1.png?width=403&amp;format=png&amp;auto=webp&amp;s=bc06abaf75e1dc94782fe6336d72b707deb11bfb   由   提交/u/Chance_Rhubarb_46   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azlyjr/seeking_help_on_handling_dayjs_objects_how_can_i/</guid>
-      <pubDate>Sun, 25 Feb 2024 11:39:14 GMT</pubDate>
+      <title>英国前端开发人员的职业发展</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aztp9v/career_progression_for_front_end_devs_in_uk/</link>
+      <description><![CDATA[你们中有人有从常规前端开发角色跳到更专业/薪水更高的角色的经验吗？ 就上下文而言，我是所谓的普通前端开发人员，在一家设计机构工作，在 Wordpress、Shopify 等中构建网站。我每天都使用 HTML、CSS、Vanilla JS、Vue.js。中等规模的开发商，年收入略高于 4 万英镑。 8 年经验。 我并不是对这个职位不满意，而是我很清楚，在金融科技等行业中还有更高薪的职位。我见过的薪水高达 12 万英镑。 你们中有没有人经历过类似的职位而跳槽到其中一个职位？  您是否学习过任何可能不属于您之前技能的特定内容？（数据可视化、Web 服务开发、单元测试、集成测试、数据结构、设计模式等） ） 您作为设计机构类型开发人员的经验对申请过程有帮助吗？ 过渡需要多长时间？ 提供的薪水是多少？该行业的新手？   由   提交/u/benr89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aztp9v/career_progression_for_front_end_devs_in_uk/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>对 Deno 幻灭</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azlfmc/disillusioned_with_deno/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azlfmc/disillusioned_with_deno/</guid>
-      <pubDate>Sun, 25 Feb 2024 11:06:30 GMT</pubDate>
+      <title>您的第一个项目每小时收费多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aztp7u/what_sort_of_hourly_would_you_charge_for_your/</link>
+      <description><![CDATA[我的朋友知道我热衷于构建网站，并为我提供了一份为他构建网站的工作。他希望我在 Wordpress 上为他建立一个非常详细的 50 页网站。我需要做的是精确地重新设计设计，并使其全部正常工作并链接在一起。我对 WordPress 的经验有限，我只使用 HTML、CSS 和 JavaScript 制作过网站，我以前也在那里制作过网站，但没有任何接近这个大小或规模的网站。我绝对可以在给我的时间内做到这一点，我只是觉得付款有点低。他知道我必须学习如何使用 Wordpress，但将其视为培训，因此如果我超过 25 小时的时间，我不会获得更多报酬，我肯定会学习，因为它是一个大型网站。为此，他出价 250 英镑。这太低了吗？   由   提交/u/thatwentverywrong  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aztp7u/what_sort_of_hourly_would_you_charge_for_your/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:37:55 GMT</pubDate>
     </item>
     <item>
-      <title>您的显示器设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azkzph/whats_your_monitor_setup/</link>
-      <description><![CDATA[继这篇文章之后...  您的显示器设置是什么，以及每个显示器的用途是什么？    由   提交/u/Interesting_Buy_5039   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azkzph/whats_your_monitor_setup/</guid>
-      <pubDate>Sun, 25 Feb 2024 10:38:04 GMT</pubDate>
+      <title>我需要学习什么才能构建我想要制作的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azthw7/what_do_i_need_to_learn_to_build_an_app_i_want_to/</link>
+      <description><![CDATA[我现在了解 python 的基础知识。我想构建一个应用程序，您可以在其中填写一份调查问卷，并根据您的答案将您与与您兼容的人相匹配。有些问题在匹配中比其他问题具有更大的权重，我希望用户能够在一段时间后报告他们是否对与他们匹配的人感到满意，并让该信息细化问题的权重以更准确地反映什么会给出很好的匹配。想必这需要一些机器学习。当两个人匹配时，我希望为他们提供一种文本聊天，他们可以从选项中选择适合他们俩进行视频通话的时间（实际上无法在该时间之外发短信）。然后他们当然可以互相视频通话。为了制作这个应用程序，我需要学习哪些确切的主题、技能和堆栈或其他内容？最好主要是用Python。谢谢 （我的计划是先构建一些其他需要相同技能和知识的更简单的东西，一旦我知道所需的技能和知识是什么，然后再尝试整个应用程序。它将第一次可能会很糟糕，但是一旦我让它工作起来，我就可以从错误中吸取教训，再​​次构建整个东西）    由   提交 /u/TakingNamesFan69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azthw7/what_do_i_need_to_learn_to_build_an_app_i_want_to/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:29:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
