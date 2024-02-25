@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 09:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:15:22 GMT</lastBuildDate>
     <item>
-      <title>[媒体]“意外叛逃”一文探讨了无意造成的概念 [...]</title>
-      <link>https://t.me/hn_summary/76002</link>
-      <description><![CDATA[意外叛逃 – 分析型人才的常见缺陷 (2010)&lt; /a&gt;
-“意外叛逃”一文探讨了由于缺乏社交技能而无意中造成伤害或冒犯的概念，尤其是在高度分析的个人中。作者借鉴博弈论和现实生活中的例子，认为只有具备基本的社交技能，了解博弈论才有效。这篇文章深入探讨了沟通中外交、机智和修辞的重要性，强调聪明人可能会因为不考虑言语的影响而无意中树敌。文章强调理性主义者需要了解社交技能的价值，以避免无意的背叛并改善合作。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76002</guid>
-      <pubDate>Sun, 25 Feb 2024 09:11:12 GMT</pubDate>
+      <title>[媒体] 在俄勒冈州纽波特的当地海洋海鲜公司，使命很明确：支持当地渔业 [...]</title>
+      <link>https://t.me/hn_summary/76045</link>
+      <description><![CDATA[永远有目标地工作
+俄勒冈州纽波特的 Local Ocean Seafoods 的使命很明确：支持当地渔业社区。联合创始人劳拉·安德森 (Laura Anderson) 和她的合伙人二十年前开设了这家餐厅，为当地海鲜提供市场，促进经济发展并保护沿海价值。面对出售业务同时保留其遗产的困境，安德森发现了永续目的信托（PPT）结构。这种独特的商业模式确保 Local Ocean 将继续秉承其创始价值观运营，造福员工和社区。通过采用这种创新方法，安德森确保了餐厅的未来，同时保留了对当地海鲜的承诺。]]></description>
+      <guid>https://t.me/hn_summary/76045</guid>
+      <pubDate>Sun, 25 Feb 2024 15:15:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 与雌性龙虾一起潜入奇怪而迷人的水下性爱世界 [...]</title>
-      <link>https://t.me/hn_summary/76001</link>
-      <description><![CDATA[奇怪而美妙的海底性爱世界 
-潜入奇特而迷人的水下性交世界，雌性龙虾以尿液作为爱情药水，深海琵琶鱼与配偶融合，雌雄同体的海洋扁虫用双叉阴茎击剑。从鱼类的性别流动性到具有欺骗性的头足类动物，海洋充满了惊喜。了解海洋生物如何适应广阔的公海中繁殖的挑战，从同步珊瑚产卵到发光的介形类交配展示。尽管有些奇怪，但水下交配行为有一个相关的方面，可以帮助我们对共同生活在这个星球上的生物建立同理心。]]></description>
-      <guid>https://t.me/hn_summary/76001</guid>
-      <pubDate>Sun, 25 Feb 2024 08:55:01 GMT</pubDate>
+      <title>dotLang 是一种基于 C、Go 和 Haskell 的强大编程语言，专为简单 [...]</title>
+      <link>https://t.me/hn_summary/76044</link>
+      <description><![CDATA[dotLang – 一种基于 C、Go 和哈斯克尔
+dotLang 是一种基于 C、Go 和 Haskell 的强大编程语言，专为简单、强大和速度而设计。 dotLang 注重极简主义和一致性，提供模块系统、泛型支持、完全不变性和强大的并发模型等功能。该语言是命令式的、静态类型的、垃圾收集的、函数式的，强调数据结构和函数而不是对象和类。目标是创建一种易于编写、阅读和理解的语言，同时通过本机代码编译提供高性能。 dotLang 旨在简化软件开发，同时保持强大的功能。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76044</guid>
+      <pubDate>Sun, 25 Feb 2024 15:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 omkar.xyz 上的这篇博文中，我深入研究了 GGM 的高效推理世界 [...]</title>
-      <link>https://t.me/hn_summary/76000</link>
-      <description><![CDATA[展示 HN：GGML 实验：高效推理初学者指南&lt; /a&gt;
-在这篇关于 omkar.xyz 的博文中，我深入研究了这个世界使用 GGML 进行高效推理，GGML 是一个 C 库，使大型语言模型 (LLM) 等复杂模型能够在通用硬件上运行。尽管最初面临文档有限的挑战，但我通过训练微型神经网络并在 C/C++ 中运行推理，开始了实践学习之旅。通过探索 GGML 二进制文件格式和 C/C++ 推理代码，我发现了简化模型以使其更广泛使用背后的魔力。这篇文章以使用 GGML 成功构建模型作为结束，暗示了等待探索的巨大可能性。查看 GitHub 上的 GGML 存储库以获取更多示例和贡献！]]></description>
-      <guid>https://t.me/hn_summary/76000</guid>
-      <pubDate>Sun, 25 Feb 2024 08:46:55 GMT</pubDate>
+      <title>[媒体]即将出版的回忆录《反社会者》的作者帕特里克·加涅 (Patric Gagne) 挑战了这些误解 [...]</title>
+      <link>https://t.me/hn_summary/76043</link>
+      <description><![CDATA[成为反社会者是什么感觉
+帕特里克·加涅 (Patric Gagne) 是即将出版的回忆录《反社会人格》(Sociopath) 的作者，他挑战了有关反社会人格障碍 (现称为反社会人格障碍) 的误解。加涅分享了她的情感冷漠、犯罪行为和缺乏同理心的经历，旨在消除这种疾病的污名。她讨论了她独特的共生爱情经历，并解释了她如何建立基于社会规则和利益的道德感。加涅还提供了与反社会人格者互动的见解，并强调了神经典型和神经分歧个体之间公开对话的重要性。最终，她认为自己的反社会人格是有益的，强调了它所带来的免于内疚和羞耻的自由。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76043</guid>
+      <pubDate>Sun, 25 Feb 2024 15:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]shopify.engineering 上有关“What Is Nix (2020)”的文章提供了关于 [...]</title>
-      <link>https://t.me/hn_summary/75999</link>
-      <description><![CDATA[什么是 Nix (2020)
-shopify.engineering 提供了解 Nix 的速成课程，Nix 是一项有价值且颠覆性的技术。它解释了 Nix 如何通过在 Nix 存储中创建依赖关系图来明确软件依赖关系，其中每个条目都是一个具有它们之间关系的节点。本文深入探讨了 Nix 的构建模块，包括 Nix 商店、派生、沙盒和 Nix 语言。它强调了依赖关系、不变性的概念，以及 Nix 在管理软件依赖关系方面的魔力。本文还涉及 Nix 在确定依赖关系方面的可靠性以及派生在 Nix Store 中构建节点的重要性。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75999</guid>
-      <pubDate>Sun, 25 Feb 2024 08:45:51 GMT</pubDate>
+      <title>[媒体]作为一名曾经认为没有必要改进自己的笔迹的软件开发人员 [...]</title>
+      <link>https://t.me/hn_summary/76042</link>
+      <description><![CDATA[关于手写和切换到草书
+作为一名软件开发人员，我曾经相信在数字时代没有必要提高自己的笔迹，但我发现自己又回到了手写艺术。重新发现笔和纸的乐趣后，我开始了提高草书书写的旅程，从二年级起我就没有使用过草书了。令人惊讶的是，我发现自己在短短四个月内就草书写了两百多页。虽然我的笔迹并不完美，但手写的表现力让我着迷，现在我的大部分写作都默认为草书。我希望我能早点掌握这项技能。]]></description>
+      <guid>https://t.me/hn_summary/76042</guid>
+      <pubDate>Sun, 25 Feb 2024 15:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在Notification Harbor，我们提供了一个客户参与平台，可让您发送[...]</title>
-      <link>https://t.me/hn_summary/75998</link>
-      <description><![CDATA[显示 HN：使用 LLM 自动且个性化的推送通知和电子邮件
-在Notification Harbor，我们提供一个客户参与平台，允许您使用LLM技术发送个性化的推送通知和电子邮件。我们的平台可帮助您通过高度针对性的移动通知和自动个性化电子邮件最大限度地提高客户互动。通过根据用户行为和偏好对订阅者进行细分并定制通信，您可以确保更高的参与度和相关性。通过深入分析，您可以跟踪沟通策略的有效性并做出数据驱动的决策以增强结果。我们的独特之处在于我们的开源 SDK，提供无限的灵活性和自定义扩展，以满足您的需求。使用通知港以前所未有的方式与您的客户互动。]]></description>
-      <guid>https://t.me/hn_summary/75998</guid>
-      <pubDate>Sun, 25 Feb 2024 08:44:16 GMT</pubDate>
+      <title>[媒体]全球最先进的芯片生产商台积电在建设工厂方面面临挑战 [...]</title>
+      <link>https://t.me/hn_summary/76041</link>
+      <description><![CDATA[台积电在日本的建设比在美国的运气更好
+全球最先进的芯片生产商台积电在美国建厂正面临挑战，工期延误和劳资纠纷等问题令人头疼。相比之下，他们在日本的扩张则更为顺利，当地合作伙伴和政府补贴有助于促进这一进程。两国之间的对比凸显了劳资关系、当地合作伙伴关系和政府支持在半导体行业的重要性。日本在庆祝台积电工厂开业的同时，也在期待未来生产尖端 2 纳米芯片的更雄心勃勃的计划。日美的经验差异为半导体行业提供了宝贵的经验教训。]]></description>
+      <guid>https://t.me/hn_summary/76041</guid>
+      <pubDate>Sun, 25 Feb 2024 15:10:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]位于德克萨斯州敖德萨的 SolarCycle 在回收报废太阳能电池板方面处于领先地位 [...]</title>
-      <link>https://t.me/hn_summary/75997</link>
-      <description><![CDATA[随着太阳能电池板老化，回收商希望从中获利
-位于德克萨斯州敖德萨的 SolarCycle 在回收报废太阳能电池板方面处于领先地位，提取银、铜和硅等有价值的材料。虽然美国的大多数面板由于成本原因最终被填埋，但回收倡导者看到了重复利用材料以促进循环经济的潜力。到 2050 年，太阳能电池板原材料的可回收价值可能超过 150 亿美元。然而，挑战仍然存在，包括缺乏回收率数据和错误的测试方法。加利福尼亚州和华盛顿州等州正在颁布法律来解决光伏组件回收问题，而欧盟则在电子废物回收标准方面苦苦挣扎。尽管存在障碍，太阳能电池板回收的未来看起来还是充满希望的。]]></description>
-      <guid>https://t.me/hn_summary/75997</guid>
-      <pubDate>Sun, 25 Feb 2024 08:35:10 GMT</pubDate>
+      <title>[媒体] 在 www.w3.org 上了解日语文本布局的基本要求。</title>
+      <link>https://t.me/hn_summary/76040</link>
+      <description><![CDATA[日语文本布局要求
+在 www.w3.org。从标点符号到数字和字母，每个字符都配有相应的日语翻译。了解每个符号的独特特征以及它们如何按比例间隔以获得最佳可读性。通过这份综合指南，深入了解日语排版的世界，并增强您对文本布局的理解。 （根据故事文本的 5% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76040</guid>
+      <pubDate>Sun, 25 Feb 2024 15:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我分享了我修复 30 年前任天堂娱乐的经验 [...]</title>
-      <link>https://t.me/hn_summary/75996</link>
-      <description><![CDATA[修复 30 年前的任天堂教会了我什么权利修复
-在这篇文章中，我将分享我修复一台已有 30 年历史的任天堂娱乐系统 (NES) 的经验，并反思修复权的重要性。尽管控制台的状况很差，但我能够用最少的技术知识和可疑的焊接技能将其恢复生机。这个过程需要时间、耐心以及在线复古游戏爱好者的指导。 NES 的耐用性和可修复性与经常被丢弃而不是修复的现代设备形成鲜明对比。这次经历凸显了修理和维护我们的财产的价值，挑战了当今消费文化中计划报废的趋势。]]></description>
-      <guid>https://t.me/hn_summary/75996</guid>
-      <pubDate>Sun, 25 Feb 2024 08:29:04 GMT</pubDate>
+      <title>零售商、赌场和杂货店使用一种称为时间扭曲的策略来使顾客 [...]</title>
+      <link>https://t.me/hn_summary/76039</link>
+      <description><![CDATA[你几乎在商场里从来没有看到过时钟&lt; br/&gt;
+零售商、赌场和杂货店使用一种称为时间扭曲的策略来让顾客忘记时间并花更多的钱。尤其是赌场，通过消除时钟和自然光来完善这一策略，让赌徒处于幻想世界中。零售商店也采用类似的策略来让购物者停留更长时间。随着智能手机的兴起，创建沉浸式环境变得更具挑战性。然而，未来可能会通过虚拟现实带来更加身临其境的体验，其中干扰被最小化，时间变得无关紧要。归根结底，忘记时间是生活中很自然的一部分，无论是在赌场、商场还是日常生活中。]]></description>
+      <guid>https://t.me/hn_summary/76039</guid>
+      <pubDate>Sun, 25 Feb 2024 15:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>Kent Overstreet 宣布对 bcachefs 磁盘统计系统进行重大更新，地址 [...]</title>
-      <link>https://t.me/hn_summary/75995</link>
-      <description><![CDATA[Bcachefs磁盘计费重写
-Kent Overstreet 宣布对 bcachefs 磁盘统计系统进行重大更新，解决可扩展性问题并提高效率。新方案采用 btree 结构作为计数器，使更新更加高效且可扩展。还实现了并行内存记账系统，以便更快地访问计数器。该更新与旧的磁盘记帐格式不兼容，升级或降级时需要重新生成记帐数据。肯特强调了测试的必要性，并提到了旧版本用户的潜在兼容性问题。该更新预计将在下一个窗口中合并，并计划进一步改进。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75995</guid>
-      <pubDate>Sun, 25 Feb 2024 08:21:58 GMT</pubDate>
+      <title>[媒体] 艾伦·瓦茨 (Alan Watts) 谈金钱与金钱</title>
+      <link>https://t.me/hn_summary/76038</link>
+      <description><![CDATA[艾伦·瓦茨论金钱与财富
+在这篇发人深省的文章中，艾伦·瓦茨挑战了我们社会对金钱和财富的痴迷，敦促我们重新考虑对真正繁荣的理解。他认为，金钱只是财富的象征，而不是财富本身，我们对两者的混淆正在阻碍我们迈向更加公平和可持续的未来。瓦茨呼吁意识转变，强调与自然世界和谐相处并认识到我们与所有生物的相互联系的重要性。他的见解在今天和 20 世纪 70 年代一样具有现实意义，有力地提醒人们重新定义我们与物质的关系的变革潜力。]]></description>
+      <guid>https://t.me/hn_summary/76038</guid>
+      <pubDate>Sun, 25 Feb 2024 15:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项开创性的研究中，研究人员探索使用合成图像来改进 [...]</title>
-      <link>https://t.me/hn_summary/75994</link>
-      <description><![CDATA[合成图像有助于识别人造艺术品赝品
-在这项开创性的研究中，研究人员探索使用合成图像来提高对人造艺术品赝品的检测。通过将人造艺术品纳入训练数据集，伪造检测的准确性显着提高。该研究重点关注文森特·梵高、阿梅代奥·莫迪利亚尼和拉斐尔等著名艺术家，研究表明合成赝品不仅可以提高对人造赝品的识别，还有助于检测人工智能生成的赝品。这种创新方法为艺术品鉴定开辟了新的可能性，挑战了传统方法并突破了艺术品伪造检测的界限。]]></description>
-      <guid>https://t.me/hn_summary/75994</guid>
-      <pubDate>Sun, 25 Feb 2024 07:55:18 GMT</pubDate>
+      <title>JDK 21 中引入的 Oracle Java 虚拟线程一直受到“固定”问题的困扰 [...]</title>
+      <link>https://t.me/hn_summary/76037</link>
+      <description><![CDATA[Java 虚拟线程遇到固定问题
+Oracle 在 JDK 21 中引入的 Java 虚拟线程一直受到影响性能和可扩展性的“固定”问题的困扰。这个问题是由同步方法或语句引起的，当对象的监视器由另一个线程持有时，会导致虚拟线程停顿或阻塞。然而，Java 项目 Loom 的新早期访问版本旨在通过对对象监视器实现进行更改来解决此问题。尽管遇到了这样的挫折，虚拟线程仍因其简化并发应用程序开发的能力而受到 Java 社区的好评。我们鼓励开发人员测试更新后的对象监视器并向 Loom 邮件列表报告任何问题。]]></description>
+      <guid>https://t.me/hn_summary/76037</guid>
+      <pubDate>Sun, 25 Feb 2024 15:06:12 GMT</pubDate>
     </item>
     <item>
-      <title>您好，欢迎来到我的主页！</title>
-      <link>https://t.me/hn_summary/75993</link>
-      <description><![CDATA[我吻你
-您好，欢迎来到我的主页！我是一名记者、音乐和体育老师以及心理学医生。我喜欢音乐、运动、旅行和摄影。我身高 6.2 英尺，体重 78 公斤，有一双绿色的眼睛。我独自住在土耳其伊兹密尔海边。我会说土耳其语、英语和俄语，并且我渴望学习更多语言。我愿意结交来自不同国家的朋友，甚至邀请他们住在我家。请随时通过电话、传真或电子邮件与我联系。让我们联系并分享我们的经验！]]></description>
-      <guid>https://t.me/hn_summary/75993</guid>
-      <pubDate>Sun, 25 Feb 2024 07:45:12 GMT</pubDate>
+      <title>在此网络内容中，作者讨论了理解和干预的重要性 [...]</title>
+      <link>https://t.me/hn_summary/76036</link>
+      <description><![CDATA[如何更改系统
+在此网络内容中，作者讨论了理解和干预系统以解决饥饿、贫困和环境退化等复杂问题的重要性。他们重点介绍了 Donella Meadows 的工作，她确定了从弱到强的 12 种不同的战略干预系统的方法。作者采用了梅多斯的方法，使其更容易被各个领域的专业人士所理解和相关。他们讨论系统中的杠杆点，例如提供事实、技能、资源、服务、缓冲区和修改物理基础设施。作者强调了采取系统方法来创造持久变革的重要性。 （根据故事文本的 30% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76036</guid>
+      <pubDate>Sun, 25 Feb 2024 15:04:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
