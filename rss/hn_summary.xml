@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 12:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:16:00 GMT</lastBuildDate>
     <item>
-      <title>在科幻电影的世界中，反乌托邦的未来经常通过真实的场景变得栩栩如生 [...]</title>
-      <link>https://t.me/hn_summary/76186</link>
-      <description><![CDATA[14 个科幻反乌托邦的真实地点
-在科幻电影的世界中，反乌托邦的未来经常通过现实世界的地点而变得栩栩如生。从《银翼杀手》中洛杉矶标志性的布拉德伯里大厦到巴西使用的令人毛骨悚然的伦敦千年磨坊，电影制片人巧妙地结合了现有的结构来创造他们的未来世界。令人惊讶的是，《饥饿游戏》中第 12 区的场景是北卡罗来纳州废弃的亨利河米尔村，而《千钧一发》的场景则是加利福尼亚州的马林县市政中心。这些现实世界的地点为屏幕上描绘的反乌托邦景象增添了一层真实性。 （根据 56% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76186</guid>
-      <pubDate>Mon, 26 Feb 2024 12:20:27 GMT</pubDate>
+      <title>Apache Superset 是一种现代、轻量级且高度可扩展的数据可视化工具，它 [...]</title>
+      <link>https://t.me/hn_summary/76202</link>
+      <description><![CDATA[Apache 超级集
+Apache Superset 是一种现代、轻量级且高度可扩展的数据可视化工具，不会向现有数据基础架构添加另一层。它利用您当前设置的强大功能，使其易于使用且高效。这意味着您可以轻松分析和可视化数据，而不需要额外的资源。 Apache Superset 是数据可视化领域的游戏规则改变者，为希望充分利用数据的企业提供简单而有效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76202</guid>
+      <pubDate>Mon, 26 Feb 2024 15:16:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]计费系统对于寻求货币化的企业来说是不可避免的罪恶，但它们[...]</title>
-      <link>https://t.me/hn_summary/76185</link>
-      <description><![CDATA[构建自己的计费系统的 14 个痛点&lt; br/&gt;
-对于寻求货币化的企业来说，计费系统是不可避免的祸患，但它们非常复杂且经常被忽视。构建自己的系统可能会导致一系列问题，从幂等性问题到收入确认挑战。计费系统的三种常见模式是自行开发的、完全第三方的或两者的混合。将尽可能多的问题转移给 Chargebee 或 Stripe 等可靠的计费解决方案，以避免日后出现麻烦，这一点至关重要。请记住，计费不仅仅是一个工程问题；它也是一个问题。这是一个多方面的问题，需要专家处理。]]></description>
-      <guid>https://t.me/hn_summary/76185</guid>
-      <pubDate>Mon, 26 Feb 2024 12:19:23 GMT</pubDate>
+      <title>[媒体]被誉为“世界上最聪明的女人”的玛丽莲·沃斯·莎万特 (Marilyn vos Savant) 引发了一场热烈的统计 [...]</title>
+      <link>https://t.me/hn_summary/76201</link>
+      <description><![CDATA[玛丽莲·沃斯·萨凡特和蒙蒂·霍尔问题 (2015)
+被誉为“世界上最聪明的女人”的玛丽莲·沃斯·萨万特在她著名的“问玛丽莲”专栏中对蒙蒂·霍尔问题的正确答案引发了一场激烈的统计大战。尽管遭到了数千名学者的强烈反对，沃斯·萨万特仍然坚持自己的观点，即换门可以将赢得汽车的几率提高到 2/3。围绕她的回应的争议凸显了决策中理性化和认知失调的心理。蒙蒂霍尔问题是一个具有欺骗性的概率难题，继续引发一些最聪明的头脑的争论，挑战传统的统计直觉。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76201</guid>
+      <pubDate>Mon, 26 Feb 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Genie：生成交互环境是一个涉及团队的协作项目 [...]</title>
-      <link>https://t.me/hn_summary/76184</link>
-      <description><![CDATA[Genie：生成交互环境
-Genie：生成交互环境是一个协作项目，涉及来自不同机构的研究人员和工程师团队。这个创新平台允许用户使用生成模型创建交互式环境。该团队包括机器学习、人工智能和交互设计方面的专家。该项目由 Ashley Edwards 和 Jack Parker-Holder 领导，如需进一步询问，请联系他们。该项目的独特之处在于能够生成交互式环境，为创意表达和探索开辟新的可能性。请联系他们以获取有关这一开创性项目的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/76184</guid>
-      <pubDate>Mon, 26 Feb 2024 12:15:17 GMT</pubDate>
+      <title>R2R 项目是一个开源框架，旨在创建生产级 RAG（检索 [...]</title>
+      <link>https://t.me/hn_summary/76200</link>
+      <description><![CDATA[显示 HN：R2R – 生产级 RAG 的开源框架
+R2R 项目是一个开源框架，旨在创建生产级 RAG（检索增强生成）系统。它旨在简化生产环境中 RAG 管道的部署、适配和维护，为易用性和有效性树立新的行业基准。该项目优先考虑简单性和实用性，提供快速部署、灵活标准化、易于修改、版本控制、可扩展性和部署支持。它的与众不同之处在于为摄取、嵌入和 RAG 管道提供核心抽象，以及与各种 VectorDB、LLM 和嵌入模型的集成。该项目还包括基本示例和用于视觉智能的 Web 应用程序。]]></description>
+      <guid>https://t.me/hn_summary/76200</guid>
+      <pubDate>Mon, 26 Feb 2024 15:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 ViHN，一个 Firefox 和 Chrome 的浏览器扩展，用于使用 Vim 浏览黑客新闻 - [...]</title>
-      <link>https://t.me/hn_summary/76183</link>
-      <description><![CDATA[ViHN：Vim 黑客新闻
-我创建了 ViHN，这是一个适用于 Firefox 和 Chrome 的浏览器扩展，可以使用类似 Vim 的键绑定来浏览 Hacker News，而无需使用鼠标。厌倦了浪费时间用鼠标排列窗口，我转而使用像 Ratpoison 这样的平铺窗口管理器。 Hacker News 是一个讨论商业想法、安全缺陷和技术主题的论坛，但其基于树的讨论格式可能很麻烦。 ViHN 允许高效的基于键盘的导航、快速回复/编辑/删除评论以及管理请求以避免速率限制。 ViHN 采用 Vanilla JS 编写，可实现最佳性能，简化了键盘爱好者浏览黑客新闻的过程。]]></description>
-      <guid>https://t.me/hn_summary/76183</guid>
-      <pubDate>Mon, 26 Feb 2024 12:03:08 GMT</pubDate>
+      <title>[媒体]aboutideasnow.com 上的内容深入探讨了人工智能与人类专业的交叉点 [...]</title>
+      <link>https://t.me/hn_summary/76199</link>
+      <description><![CDATA[显示 HN：AboutIdeasNow – 搜索 /about、/ideas、/now超过 7000 个个人网站的页面
+aboutideasnow.com 上的内容深入探讨了人工智能与人类的交集特殊性，探索大型语言模型（LLM）进步的影响。像 GPT-4 这样的法学硕士的出人意料的出现，能够在各种任务中超越人类的表现，引发了人们对人工智能的未来及其对社会影响的疑问。作者讨论了从人工智能超越人类到失败的不同场景，并强调了通过“正义主义”和“目标转移”淡化人工智能成就的倾向。这些发人深省的内容促使读者思考人工智能进步的哲学含义及其潜在后果。 （根据故事文本的 30% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76199</guid>
+      <pubDate>Mon, 26 Feb 2024 15:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户在 [...]</title>
-      <link>https://t.me/hn_summary/76182</link>
-      <description><![CDATA[显示 HN：Mail Clipper 将 mailto 链接复制到剪贴板
-Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户将电子邮件链接复制到剪贴板，而不用打开电子邮件应用程序。该项目旨在简化用户复制电子邮件地址的过程。与其他类似项目不同，Mail Clipper 提供了只需单击一下即可直接复制电子邮件链接的便利。用户还可以通过打开拉取请求或任何所需功能的问题来为项目做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/76182</guid>
-      <pubDate>Mon, 26 Feb 2024 11:40:58 GMT</pubDate>
+      <title>本文讨论了通过现场视频拒绝求职者的有争议的做法 [...]</title>
+      <link>https://t.me/hn_summary/76198</link>
+      <description><![CDATA[被拒绝的最糟糕的工作方式，这可能是已发送电子邮件
+本文讨论了通过实时视频通话而不是电子邮件拒绝求职者的有争议的做法。虽然一些招聘经理认为这是一种更加个性化和深思熟虑的方法，但许多候选人认为这是残酷且不必要的。这篇文章分享了一些候选人的个人经历，他们因视频通话或电话拒绝而措手不及，导致他们感到沮丧和毫无准备。作者建议，拒绝不一定是针对个人的，并建议采取更尊重的方式，例如首先通过电子邮件分享消息，并在需要时拨打电话寻求反馈。该文章强调了招聘过程中同理心和考虑的必要性。]]></description>
+      <guid>https://t.me/hn_summary/76198</guid>
+      <pubDate>Mon, 26 Feb 2024 14:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 最近在资源中宣布了有关 iOS、Safari 和 App Store 的更改 [...]</title>
-      <link>https://t.me/hn_summary/76181</link>
-      <description><![CDATA[当苹果把欧盟委员会当傻瓜时：初步概述
-苹果最近宣布针对欧盟《数字市场法案》对 iOS、Safari 和 App Store 进行更改，引发了争议。虽然苹果现在被迫允许替代应用程序商店和“侧面加载”，但他们对这些义务的解释是狭隘且不能令人满意的。欧盟 iOS 应用的佣金减少和新业务条款带来的额外费用可能会给应用开发者带来负担。 Apple 的 DMA 实施方式似乎将自身利益置于公平竞争和用户选择之上。该公司的好斗立场引发了人们对其遵守 DMA 的情况的质疑。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76181</guid>
-      <pubDate>Mon, 26 Feb 2024 11:36:53 GMT</pubDate>
+      <title>[媒体] Plex 帐户被禁用的趋势似乎令人担忧，有报道称 [...]</title>
+      <link>https://t.me/hn_summary/76197</link>
+      <description><![CDATA[Plex 帐户被禁用
+Plex 帐户被禁用的趋势似乎令人担忧，有报道称即使是临时用户的帐户也被关闭。我认识的两个人成为了这个问题的受害者，尽管他们没有将 Plex 用于商业目的。突如其来的账户被禁用浪潮让许多用户感到困惑和沮丧。是什么导致了对 Plex 用户的大规模镇压？围绕这些帐户停用的争议正在 Plex 社区中引起混乱和担忧。]]></description>
+      <guid>https://t.me/hn_summary/76197</guid>
+      <pubDate>Mon, 26 Feb 2024 14:47:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目介绍了 Google Gemini，这是一种基于 AI 的摘要工具 [...]</title>
-      <link>https://t.me/hn_summary/76180</link>
-      <description><![CDATA[显示 HN：使用 Google Gemini 解锁 PDF 见解：人工智能驱动的摘要
-这个 GitHub 项目介绍了 Google Gemini，这是一款基于 Google Bard 的人工智能摘要工具，旨在简化从 PDF 文档中提取关键信息的过程。通过利用Google Bard先进的AI技术，用户可以快速高效地汇总PDF文件，节省时间并提高信息处理效率。该项目因其支持多种语言、实时信息更新、类人对话以及与谷歌产品的集成而脱颖而出。它还提供了优化 PDF 文档摘要的最佳实践，并提供了最大限度提高 Google Bard 摘要功能有效性的提示。尽管存在一些限制，例如令牌长度和文件大小限制，Google Bard 仍然是智能文档处理的一个有价值的工具。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76180</guid>
-      <pubDate>Mon, 26 Feb 2024 11:35:49 GMT</pubDate>
+      <title>[媒体]在这篇发人深省的文章中，作者深入探讨了有争议的工作话题[...]</title>
+      <link>https://t.me/hn_summary/76196</link>
+      <description><![CDATA[职位头衔都是废话
+在这篇发人深省的文章中，作者深入探讨了软件开发和质量工程领域内有争议的职称话题。作者根据在不同公司的个人经历和最近的求职经历，强调了围绕职位名称的差异和混乱，特别是在工程级别领域。作者对整个行业对职称和级别的接受程度提出质疑，指出对高级工程师等职位缺乏明确的定义和期望。作者承认比较不同组织的成就的复杂性，但强调讨论和解决与职称和薪酬公平相关的问题的重要性。最终，作者主张实事求是，提高职称透明度，以确保行业的清晰度和公平性。]]></description>
+      <guid>https://t.me/hn_summary/76196</guid>
+      <pubDate>Mon, 26 Feb 2024 14:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>micro 上的第一个虚拟机（sweet 16）？</title>
-      <link>https://t.me/hn_summary/76179</link>
-      <description><![CDATA[micro 上的第一个虚拟机（sweet 16）？&lt; br/&gt;
-www.6502.org 上的文章讨论了Sweet 16 是 Steve Wozniak 为 Apple II 创建的元处理器，适用于其他基于 6502 的系统。 Sweet 16 为 8 位 CPU 提供 16 位功能，具有减少代码大小和更轻松编程等优点。本文包括源代码、历史记录、编程说明和移植说明。它强调了移植的挑战，例如零页寄存器位置、代码基地址和保存/恢复例程。作者强调移植 Sweet 16 的简单性，并鼓励使用 Sweet 16 操作码增强 6502 汇编器。本文还引用了 BYTE 杂志文章和 Usenet 帖子以获取更多信息。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76179</guid>
-      <pubDate>Mon, 26 Feb 2024 11:34:43 GMT</pubDate>
+      <title>[媒体] 隆重推出 Mistral Large，这是我们拥有顶级推理能力的尖端语言模型 [...]</title>
+      <link>https://t.me/hn_summary/76195</link>
+      <description><![CDATA[米斯特拉尔大型
+隆重推出 Mistral Large，这是我们的尖端语言模型，它拥有顶级的推理能力和令人印象深刻的多语言能力。 Mistral Large 通过 la Plateforme 提供，现已在 Azure AI 上提供，正在为文本生成和代码生成树立新标准。我们与 Microsoft 合作，将我们的模型引入 Azure，让前沿人工智能变得无处不在。除了 Mistral Large 之外，我们还发布了 Mistral Small，针对低延迟工作负载进行了优化。凭借 JSON 格式和函数调用等新功能，Mistral 模型正在彻底改变开发人员与 AI 交互的方式。立即尝试 Mistral Large 和 Mistral Small，体验 AI 技术的未来。]]></description>
+      <guid>https://t.me/hn_summary/76195</guid>
+      <pubDate>Mon, 26 Feb 2024 14:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我探索了《德军总部 3D》源代码的编译过程 [...]</title>
-      <link>https://t.me/hn_summary/76178</link>
-      <description><![CDATA[让我们像 1992 年一样进行编译
-在本文中，我探索了使用 DosBox 和 Borland C++ 3.1 编译 1992 年《德军总部 3D》源代码的过程。尽管年代久远，但如果您重新创建环境，游戏仍然可以编译。令人惊讶的是，当尝试运行游戏并由于编译的游戏索引与原始资产文件不匹配而遇到奇怪的视觉效果时。该解决方案涉及重新生成 VGA 资源以匹配索引，最终导致游戏成功运行。这个过程提供了对 90 年代初游戏开发复杂性的独特见解。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76178</guid>
-      <pubDate>Mon, 26 Feb 2024 11:31:37 GMT</pubDate>
+      <title>微软最近与 Mistral 合作，努力扩大他们的合作范围 [...]</title>
+      <link>https://t.me/hn_summary/76194</link>
+      <description><![CDATA[微软与 Mistral 达成协议，推动 OpenAI 之外的发展&lt; br/&gt;
+Microsoft 最近与 Mistral 合作，努力扩大与 OpenAI 的合作范围。此项优惠为标准数字访问提供高达 40% 的限时折扣，让您可以在任何设备上访问高质量的《金融时报》新闻。订阅者可以随时取消订阅续订，这对于那些希望随时了解情况的人来说是一个灵活且经济高效的选择。此次合作标志着微软在数字领域不断扩大影响力的过程中迈出的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/76194</guid>
+      <pubDate>Mon, 26 Feb 2024 14:35:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]丹麦已结束对北溪管道爆炸的调查，原因是[...]</title>
-      <link>https://t.me/hn_summary/76177</link>
-      <description><![CDATA[丹麦结束北溪爆炸调查，但指责蓄意破坏 
-丹麦结束了对北溪管道爆炸的调查，将其归咎于蓄意破坏。爆炸将甲烷释放到空气中，造成严重破坏。俄罗斯和西方国家否认参与其中，紧张局势因莫斯科入侵乌克兰而升级。瑞典也以管辖权问题为由结束了调查。与此同时，俄罗斯军队继续在乌克兰推进，泽连斯基总统在维持支持和弹药方面面临挑战。欧洲领导人将在巴黎举行会议，反击俄罗斯的侵略。局势仍然不稳定，有可能发生进一步的冲突，正在采取外交努力来解决危机。]]></description>
-      <guid>https://t.me/hn_summary/76177</guid>
-      <pubDate>Mon, 26 Feb 2024 11:20:30 GMT</pubDate>
+      <title>[媒体]谷歌的AI工具Gemini因给印度总理纳贴上标签而引发争议 [...]</title>
+      <link>https://t.me/hn_summary/76193</link>
+      <description><![CDATA[印度就 Gemini AI 工具的“法西斯莫迪”反应与谷歌对峙
+谷歌的人工智能工具 Gemini 将印度总理纳伦德拉·莫迪的政策贴上“法西斯”的标签，引发争议。记者阿纳布·雷（Arnab Ray）对该平台的实验表明，人们对莫迪的反应存在偏见，而对其他世界领导人的反应则更为中立。这导致谷歌与印度政府发生冲突，信息技术初级部长指责谷歌违反了印度法律。谷歌回应承认这个问题，并表示 Gemini 对于政治话题可能并不总是可靠。这一事件加剧了大型科技公司与印度政府之间围绕“反印度”内容的持续冲突。]]></description>
+      <guid>https://t.me/hn_summary/76193</guid>
+      <pubDate>Mon, 26 Feb 2024 14:31:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
