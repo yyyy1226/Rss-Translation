@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 08:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 15:18:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Covid-19 大流行揭示了一个令人担忧的趋势——严重感染人数的增加 [...]</title>
-      <link>https://t.me/hn_summary/76371</link>
-      <description><![CDATA[新冠疫情让心脏病变得更加致命，令科学家们困惑不已
-Covid-19 大流行揭示了一个令人担忧的趋势——心脏病严重程度的增加。科学家们对这一意外的发展感到困惑，因为 Covid-19 主要影响呼吸系统。这两种疾病之间的联系仍在研究中，但很明显，Covid-19 使心脏病变得更加致命。这一消息引发了争议，并引发了人们对这一流行病对公共卫生的长期影响的质疑。请继续关注研究人员致力于解开这种复杂关系并寻找减轻对心脏健康影响的方法。]]></description>
-      <guid>https://t.me/hn_summary/76371</guid>
-      <pubDate>Tue, 27 Feb 2024 08:30:15 GMT</pubDate>
+      <title>[媒体]Clave 是一款旨在以开放式方式就各种问题达成群体共识的工具 [...]</title>
+      <link>https://t.me/hn_summary/76419</link>
+      <description><![CDATA[Show HN：Clave，通过AI汇总快速达成共识 
+Clave 是一款旨在通过开放式答案就各种问题达成群体共识的工具，例如旅行计划、工作不满和公民参与。它可以快速收集团队中开放式的意见，从而加快决策过程。该项目的独特之处在于利用人工智能摘要来简化投票、规划和行动之间的反馈循环。它是用 Svelte、Tailwind CSS、Netlify Functions 和 Supabase 构建的。作者欢迎为增强该项目做出贡献，提出改进建议，例如与其他人工智能服务的互操作性和更好的问题列表组织。该项目根据 GPL v2 许可证分发。]]></description>
+      <guid>https://t.me/hn_summary/76419</guid>
+      <pubDate>Tue, 27 Feb 2024 15:18:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 探索 Chat Mistral，一个基于模型的多语言对话助手 [...]</title>
-      <link>https://t.me/hn_summary/76370</link>
-      <description><![CDATA[米斯特拉尔聊天
-探索 Mistral Chat，这是一款基于 Mistral AI 模型的多语言对话助手。它被设计为一款教育性且有趣的应用程序，允许您与我们的不同模型进行交互，例如 Mistral Large、Mistral Small 和 Mistral Next。我们的目标是使我们的模型尽可能有用和中立，尽管仍然需要改进。企业聊天还可以通过可配置的审核系统来提高团队的生产力。联系我们了解更多信息并立即注册成为测试版用户，以帮助我们改进我们的对话助手！]]></description>
-      <guid>https://t.me/hn_summary/76370</guid>
-      <pubDate>Tue, 27 Feb 2024 08:28:40 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/76418</link>
+      <description><![CDATA[社交媒体第一修正案案例
+美国最高法院将审理两个可能重塑社交媒体内容审核和第一修正案的案件。 NetChoice 诉 Paxton 案和 Moody 诉 NetChoice 案对德克萨斯州和佛罗里达州限制社交媒体公司审核内容能力的州法律提出了挑战。这些法律旨在防止对保守派的歧视，但社交媒体公司辩称它们侵犯了第一修正案的权利。第十一巡回法院宣布佛罗里达州法律的部分内容无效，而第五巡回法院维持了德克萨斯州法律，认为平台的审查不属于受保护的言论。司法部支持这些平台，认为内容审核是编辑自由裁量权的一部分，政府没有合法利益对其进行监管。各州认为，平台就像公共空间，可以被迫举办某些演讲。最高法院的裁决可能对网络言论和平台监管产生深远影响。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76418</guid>
+      <pubDate>Tue, 27 Feb 2024 15:15:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌马云事件后，两名德国游客被困澳大利亚昆士兰州荒野 [...]</title>
-      <link>https://t.me/hn_summary/76369</link>
-      <description><![CDATA[游客因 Google 地图路线错误而被困澳大利亚荒野 
-两名德国游客被困在澳大利亚昆士兰州的荒野中，据称谷歌地图引导他们沿着一个封闭的国家公园的一条偏僻道路行驶。他们在车外露营了近一周，然后徒步 22 小时穿越危险地形到达安全地带。这一事件凸显了偏远地区过度依赖 GPS 应用程序的危险。世界各地也发生过类似的情况，包括因 GPS 方向错误而导致的死亡和重伤。随着越来越多的驾驶员依赖导航应用程序，对高精度路线的需求变得越来越重要，以防止潜在的危及生命的情况。]]></description>
-      <guid>https://t.me/hn_summary/76369</guid>
-      <pubDate>Tue, 27 Feb 2024 08:20:32 GMT</pubDate>
+      <title>[媒体] Mountaineer 是一个旨在简化构建 Web 应用程序的过程的框架 [...]</title>
+      <link>https://t.me/hn_summary/76417</link>
+      <description><![CDATA[显示 HN：Mountaineer – Python 和 React 中的 Web 应用 
+Mountaineer 是一个旨在简化使用 Python 和 React 构建 Web 应用程序的过程的框架。它旨在通过提供诸如整个堆栈中的类型提示、轻松的客户端-服务器通信、针对可访问性和 SEO 的优化服务器渲染以及用于验证的网页静态分析等功能来提高开发人员的生产力和速度。该项目是出于对 Python 和 React 之间缺乏无缝集成的沮丧而创建的，它提供了一个小的依赖关系，允许开发人员快速开始构建 Web 应用程序。该项目包括一个用于快速设置的项目生成器，并遵循特定的项目结构进行组织。它还提供用于开发任务的 CLI 命令，例如监视更改和预览前端。该项目强调了控制器、视图和模型对于定义应用程序的功能和数据流的重要性。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76417</guid>
+      <pubDate>Tue, 27 Feb 2024 15:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>我们对 Apple 决定从 iOS 和 Safari 中删除 Web 应用程序深感担忧 [...]</title>
-      <link>https://t.me/hn_summary/76368</link>
-      <description><![CDATA[给蒂姆·库克的公开信，破坏网络应用是站不住脚的
-亲爱的蒂姆·库克，
-我们对 Apple 决定从欧盟的 iOS 和 Safari 中删除 Web 应用程序深感担忧，因为这威胁到了 iOS 用户的网络可靠性和功能性。这些变化将损害用户、开发者和企业，并违背《数字市场法》的原则。苹果公司对这些行为的辩解是毫无根据的，我们敦促您重新考虑并恢复基本功能，以造福所有利益相关者。遵守法律义务和公平竞争是唯一的出路。 
-此致， 以下签名者]]></description>
-      <guid>https://t.me/hn_summary/76368</guid>
-      <pubDate>Tue, 27 Feb 2024 07:49:49 GMT</pubDate>
+      <title>[媒体]我们的高级 MistralAI 模型现已可用于本地部署，提供快速 [...]</title>
+      <link>https://t.me/hn_summary/76416</link>
+      <description><![CDATA[高级 MistralAI 模型可用于本地部署&lt; br/&gt;
+我们的高级 MistralAI 模型现已可用于本地部署，提供经过独立测量并与竞争对手进行比较的尖端技术，取得了非常有利的结果。在 LMSys 聊天机器人竞技场中，根据人类偏好，Mistral Medium 在所有法学硕士中排名第二，展示了我们对质量和用户满意度的承诺。此外，我们的人工分析 Mixtral 8x7B 在性能成本效率方面设定了最高标准，使其成为寻求一流人工智能解决方案的企业的首选。今天就亲自体验 MistralAI 的强大功能！]]></description>
+      <guid>https://t.me/hn_summary/76416</guid>
+      <pubDate>Tue, 27 Feb 2024 14:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>文章强调了在开发游戏引擎的同时制作游戏的重要性。</title>
-      <link>https://t.me/hn_summary/76367</link>
-      <description><![CDATA[论游戏引擎开发过程中制作游戏的重要性
-文章强调了在开发游戏引擎的同时制作游戏的重要性。它强调了游戏开发与游戏引擎开发所需技能的差异，以及将艺术方面融入技术流程的好处。作者强调通过创建可玩游戏来测试游戏引擎的必要性，即使目的不是分发它们。本文还提供了改进引擎内游戏制作过程的实用技巧，例如简化场景创建和脚本编写。作者建议从小游戏开始或参加游戏即兴活动，以便在开发过程的早期发现并解决问题。]]></description>
-      <guid>https://t.me/hn_summary/76367</guid>
-      <pubDate>Tue, 27 Feb 2024 07:38:42 GMT</pubDate>
+      <title>[媒体] Blazer 是一款商业智能工具，允许用户使用 SQL、cr [...]</title>
+      <link>https://t.me/hn_summary/76415</link>
+      <description><![CDATA[Blazer：商业智能变得简单
+Blazer 是一款商业智能工具，允许用户使用 SQL 探索数据、创建图表和仪表板，并与团队共享。它支持多个数据源、用于运行具有不同值的查询的变量、用于监控数据质量的检查和警报、用于跟踪查询的审核以及与身份验证系统的安全集成。 Blazer 通过提供异常检测、预测、群组分析以及智能变量和列等功能而脱颖而出。它可以轻松地作为 Docker 镜像安装，并且已经在 Instacart 上经过了实际测试。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76415</guid>
+      <pubDate>Tue, 27 Feb 2024 14:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 FindSD.art，这是一款革命性工具，旨在帮助您搜索 CivitAI [...]</title>
-      <link>https://t.me/hn_summary/76366</link>
-      <description><![CDATA[Show HN：我构建了一个工具来帮助您搜索 CivitAI 的模型按艺术风格
-隆重推出 FindSD.art，这是一款革命性的工具，旨在帮助您搜索CivitAI 的艺术风格模型。我们的用户对该工具对他们的创意体验产生的积极影响赞不绝口。通过 FindSD.art，您可以轻松找到最适合的模型您想要的艺术风格，让创作过程更顺畅、更高效。告别无休止的搜索，迎接更加简化的工作流程。立即访问 www.findsd.art 亲自查看这个工具可以为您的创意项目带来改变。]]></description>
-      <guid>https://t.me/hn_summary/76366</guid>
-      <pubDate>Tue, 27 Feb 2024 07:32:06 GMT</pubDate>
+      <title>[媒体]萨里大学领导的一项新研究发现，植物园可以降低[...]</title>
+      <link>https://t.me/hn_summary/76414</link>
+      <description><![CDATA[植物园可使城市空气平均降温 5°C&lt; /a&gt;
+萨里大学领导的一项新研究发现，植物园可以将城市内的气温降低高达 5°C，为应对热浪期间气温上升提供了潜在的解决方案。该研究分析了各种绿色空间和水道的冷却效果，强调了将自然融入城市环境以减轻气候变化影响的重要性。虽然树木和水体等绿色基础设施可以帮助城市降温，但有效规划和评估当地条件对于确保长期有效性至关重要。该研究强调需要量身定制的解决方案来应对不同社区面临的独特挑战。]]></description>
+      <guid>https://t.me/hn_summary/76414</guid>
+      <pubDate>Tue, 27 Feb 2024 14:29:24 GMT</pubDate>
     </item>
     <item>
-      <title>作者反思了流行的 Python 库 python-requests，强调了其直观的 [...]</title>
-      <link>https://t.me/hn_summary/76365</link>
-      <description><![CDATA[请求回顾
-作者对流行的 Python 库 python-requests 进行了反思，强调了其直观的界面和对于基本 HTTP 请求的易用性。然而，作者指出 API 表面区域的复杂性，其中许多参数可能会导致混乱和意外行为。作者提出了改进建议，例如将参数合并到单个数据类中并提供用于请求操作的构建器对象。尽管存在缺陷，python-requests 仍因其 TLS 功能而受到称赞，这使其与其他 HTTP 客户端区分开来。作者的回顾为新的和经验丰富的 Python 开发人员提供了宝贵的见解。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76365</guid>
-      <pubDate>Tue, 27 Feb 2024 07:22:00 GMT</pubDate>
+      <title>[媒体] Vice Media 的倒闭并不是因为在线新闻业无利可图，而是 [...]</title>
+      <link>https://t.me/hn_summary/76413</link>
+      <description><![CDATA[副媒体完全崩溃是无能、失败的Brunchords的错
+Vice Media 的倒闭并不是因为网络新闻业无利可图，而是因为高管们的无能，未能登上权力的宝座。罪魁祸首是信托基金的失败者，他们对公司管理不善，收取过高的工资，并以不切实际的策略烧毁了大量资金。虽然 Vice 制作了出色的新闻报道，但该行业的经济激励措施指向盲目的参与和党派宣传。新闻业的未来是不确定的，较小的媒体和个人通讯作者面临着可持续发展的挑战。如果不进行重大改革，该行业将继续走目前的榨取式获利的道路。]]></description>
+      <guid>https://t.me/hn_summary/76413</guid>
+      <pubDate>Tue, 27 Feb 2024 14:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bemlo 的使命是通过改变轮班方式来彻底改变医疗保健 [...]</title>
-      <link>https://t.me/hn_summary/76364</link>
-      <description><![CDATA[Bemlo (YC W22) 正在招聘 React 开发人员来改变医疗保健的转变方式已满
-Bemlo 的使命是通过改变护士和护理人员的轮班方式来彻底改变医疗保健行业。他们正在寻找 React 开发人员加入他们的团队，共同构建世界一流的软件，为医疗保健专业人员提供灵活的工作安排。该平台服务于从小型慈善机构到大型机构的各种医疗保健提供者。理想的候选人是充满信心、具有强烈前端偏好的全栈工程师，他们热衷于提供强大的功能和卓越的用户体验。 Bemlo 的团队多元化，提供每两年一次的调动和频繁异地调动的机会。与 Bemlo 一起将欧洲价值观与美国雄心相结合，为医疗保健领域带来改变。]]></description>
-      <guid>https://t.me/hn_summary/76364</guid>
-      <pubDate>Tue, 27 Feb 2024 07:02:19 GMT</pubDate>
+      <title>[媒体]MeMPA 协处理器旨在通过实施 [...]</title>
+      <link>https://t.me/hn_summary/76412</link>
+      <description><![CDATA[MeMPA：应对的内存映射 M-SIMD 协处理器内存墙问题
+MeMPA 协处理器旨在通过实施内存映射 M-SIMD 计算范例来解决内存墙问题。通过映射 K 最近邻、K 均值、矩阵向量乘法、均值和方差以及离散傅里叶变换等基准，MeMPA 的性能优势得以凸显。 MVM 等算法的实现展示了约简树机制和 M-SIMD 计算范式如何有效地执行应用程序，特别有利于卷积神经网络等数据密集型任务。 MVM的详细映射过程涉及两个宏观阶段：处理矩阵初始化和算法执行，展示了MeMPA在克服内存限制方面的创新方法。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76412</guid>
+      <pubDate>Tue, 27 Feb 2024 14:15:40 GMT</pubDate>
     </item>
     <item>
-      <title>公元前</title>
-      <link>https://t.me/hn_summary/76363</link>
-      <description><![CDATA[BC律师引用ChatGPT捏造的假案例被斥责
-事情发生了令人惊讶的转变，BC.律师因在一桩涉及百万富翁的备受瞩目的离婚案中引用 ChatGPT 发明的虚假案例而受到谴责。这些案件原本是为了支持这位父亲带孩子去中国的请求，结果却根本不存在。虽然法官承认律师无意欺骗法庭，但他强调专业知识比生成人工智能工具更重要。这一事件凸显了在法庭诉讼中使用人工智能生成材料的道德影响，并对法律专业人士起到了警示作用。]]></description>
-      <guid>https://t.me/hn_summary/76363</guid>
-      <pubDate>Tue, 27 Feb 2024 06:54:11 GMT</pubDate>
+      <title>本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动 [...]</title>
+      <link>https://t.me/hn_summary/76411</link>
+      <description><![CDATA[本田首款美国市场电动汽车来了——2024 Prologue，由
+本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动。虽然 Prologue 与雪佛兰 Blazer EV 有相似之处，但本田努力通过独特的造型和内饰功能使 Prologue 脱颖而出。 Prologue 简洁的矩形设计让人想起 80 年代的美学，使其与 Blazer 的锐角区分开来。本田以车辆的“高帽”为重点，为 Prologue 创造了独特的形象，标志着该品牌在电动汽车市场的新时代。]]></description>
+      <guid>https://t.me/hn_summary/76411</guid>
+      <pubDate>Tue, 27 Feb 2024 14:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近收到一封来自 Netlify 的令人震惊的电子邮件，声称我欠他们 104,500 美元的前 [...]</title>
-      <link>https://t.me/hn_summary/76362</link>
-      <description><![CDATA[Netlify 刚刚向我发送了 10.4 万美元的简单静态网站账单&lt; /a&gt;
-最近，我收到了一封来自 Netlify 的令人震惊的电子邮件，声称我因简单静态网站的带宽超限而欠他们 104,500 美元。经过调查，我的网站遭到了大规模的 DDoS 攻击，导致短短 4 天内带宽就达到了 190TB。尽管我的网站已经免费使用了 4 年，流量很少，但 Netlify 坚持向我收取总金额的 5%。这次经历让我感觉自己被骗了，并质疑为什么像 Netlify 这样的无服务器平台没有 ddos​​ 防护或支出限制。我已将网站迁移到 Cloudflare，并且再也不会使用 Netlify。]]></description>
-      <guid>https://t.me/hn_summary/76362</guid>
-      <pubDate>Tue, 27 Feb 2024 06:36:31 GMT</pubDate>
+      <title>[媒体]美国联邦航空局 (FAA) 的一份报告指出，波音公司缺失了安全文化的关键要素 [...]</title>
+      <link>https://t.me/hn_summary/76410</link>
+      <description><![CDATA[波音公司缺少安全文化的关键要素：美国联邦航空局报告 
+美国联邦航空局的一份报告指出，波音公司缺乏安全文化的关键要素，员工缺乏如何报告安全问题的意识。该小组强烈批评波音公司的安全做法，强调其缺乏基本的安全协议。该报告揭示了公司内部可能影响客机安全的潜在问题。]]></description>
+      <guid>https://t.me/hn_summary/76410</guid>
+      <pubDate>Tue, 27 Feb 2024 13:59:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
