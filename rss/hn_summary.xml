@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 21:14:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Clave 是一款旨在以开放式方式就各种问题达成群体共识的工具 [...]</title>
-      <link>https://t.me/hn_summary/76419</link>
-      <description><![CDATA[Show HN：Clave，通过AI汇总快速达成共识 
-Clave 是一款旨在通过开放式答案就各种问题达成群体共识的工具，例如旅行计划、工作不满和公民参与。它可以快速收集团队中开放式的意见，从而加快决策过程。该项目的独特之处在于利用人工智能摘要来简化投票、规划和行动之间的反馈循环。它是用 Svelte、Tailwind CSS、Netlify Functions 和 Supabase 构建的。作者欢迎为增强该项目做出贡献，提出改进建议，例如与其他人工智能服务的互操作性和更好的问题列表组织。该项目根据 GPL v2 许可证分发。]]></description>
-      <guid>https://t.me/hn_summary/76419</guid>
-      <pubDate>Tue, 27 Feb 2024 15:18:34 GMT</pubDate>
+      <title>欧洲议会采取了一项开创性举措，禁止亚马逊游说者进入其所在地 [...]</title>
+      <link>https://t.me/hn_summary/76495</link>
+      <description><![CDATA[亚马逊游说者将被禁止进入欧洲议会
+欧洲议会采取了一项开创性举措，禁止亚马逊游说者进入其办公场所，这标志着亚马逊工人和工会的重大胜利。这一决定是在亚马逊一再拒绝解决其仓库的工作条件问题以及对民主制度的不尊重行为之后做出的。该禁令是继 2017 年孟山都公司之后欧洲议会历史上的第二项禁令，它发出了一个明确的信息：反民主行为不会被容忍。这一决定是在亚马逊面临越来越大的压力（包括剥削劳工行为和环境疏忽的指控）之后做出的。 “Make Amazon Pay”运动在 30 多个国家组织了罢工和抗议活动，继续追究亚马逊的责任。]]></description>
+      <guid>https://t.me/hn_summary/76495</guid>
+      <pubDate>Tue, 27 Feb 2024 21:14:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/76418</link>
-      <description><![CDATA[社交媒体第一修正案案例
-美国最高法院将审理两个可能重塑社交媒体内容审核和第一修正案的案件。 NetChoice 诉 Paxton 案和 Moody 诉 NetChoice 案对德克萨斯州和佛罗里达州限制社交媒体公司审核内容能力的州法律提出了挑战。这些法律旨在防止对保守派的歧视，但社交媒体公司辩称它们侵犯了第一修正案的权利。第十一巡回法院宣布佛罗里达州法律的部分内容无效，而第五巡回法院维持了德克萨斯州法律，认为平台的审查不属于受保护的言论。司法部支持这些平台，认为内容审核是编辑自由裁量权的一部分，政府没有合法利益对其进行监管。各州认为，平台就像公共空间，可以被迫举办某些演讲。最高法院的裁决可能对网络言论和平台监管产生深远影响。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76418</guid>
-      <pubDate>Tue, 27 Feb 2024 15:15:29 GMT</pubDate>
+      <title>在 zoplabs.com，我们很高兴推出可训练嵌入 (Trainable Embeddings)，这是一种旨在增强 [...]</title>
+      <link>https://t.me/hn_summary/76494</link>
+      <description><![CDATA[显示 HN：我正在构建一个允许您训练的 API RAG 的语义搜索
+在 zoplabs.com，我们很高兴推出可训练嵌入 (Trainable Embeddings)， API 旨在提高使用检索增强生成 (RAG) 和法学硕士的应用程序的语义搜索准确性。通过反馈完善嵌入，开发人员可以创建更智能、个性化的搜索结果。加入我们的测试版计划，获得免费 API 积分和抢先体验。该技术支持各种应用程序，例如内容发现平台、客户支持机器人、电子商务搜索和研究检索。通过简单的 API 集成和反馈循环，开发人员可以不断改进搜索功能。 Trainable Embeddings 为希望以经济高效的方式提升搜索能力的公司提供了可扩展的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76494</guid>
+      <pubDate>Tue, 27 Feb 2024 21:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mountaineer 是一个旨在简化构建 Web 应用程序的过程的框架 [...]</title>
-      <link>https://t.me/hn_summary/76417</link>
-      <description><![CDATA[显示 HN：Mountaineer – Python 和 React 中的 Web 应用 
-Mountaineer 是一个旨在简化使用 Python 和 React 构建 Web 应用程序的过程的框架。它旨在通过提供诸如整个堆栈中的类型提示、轻松的客户端-服务器通信、针对可访问性和 SEO 的优化服务器渲染以及用于验证的网页静态分析等功能来提高开发人员的生产力和速度。该项目是出于对 Python 和 React 之间缺乏无缝集成的沮丧而创建的，它提供了一个小的依赖关系，允许开发人员快速开始构建 Web 应用程序。该项目包括一个用于快速设置的项目生成器，并遵循特定的项目结构进行组织。它还提供用于开发任务的 CLI 命令，例如监视更改和预览前端。该项目强调了控制器、视图和模型对于定义应用程序的功能和数据流的重要性。 （根据故事文本的 74% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76417</guid>
-      <pubDate>Tue, 27 Feb 2024 15:12:52 GMT</pubDate>
+      <title>[媒体]随着图像模型被删除的后果，双子座事件继续展开 [...]</title>
+      <link>https://t.me/hn_summary/76493</link>
+      <description><![CDATA[双子座事件仍在继续
+随着图像模型删除的影响导致人们对文本模型相关问题的关注，双子座事件继续展开。 《纽约时报》颇具争议地将双子座拒绝创造白人形象的问题变成了关于针对有色人种的种族主义的辩论。一些人认为这一事件是行为艺术的杰作，而另一些人则认为这是一次故意揭露社会问题的行为。人工智能专家主张建立一个尊重用户意图和反馈的系统，这与谷歌对 Gemini 的做法不同。围绕 Gemini 作品的争议引发了关于艺术、政治和人工智能伦理的讨论。 （根据故事文本的 16% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76493</guid>
+      <pubDate>Tue, 27 Feb 2024 21:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的高级 MistralAI 模型现已可用于本地部署，提供快速 [...]</title>
-      <link>https://t.me/hn_summary/76416</link>
-      <description><![CDATA[高级 MistralAI 模型可用于本地部署&lt; br/&gt;
-我们的高级 MistralAI 模型现已可用于本地部署，提供经过独立测量并与竞争对手进行比较的尖端技术，取得了非常有利的结果。在 LMSys 聊天机器人竞技场中，根据人类偏好，Mistral Medium 在所有法学硕士中排名第二，展示了我们对质量和用户满意度的承诺。此外，我们的人工分析 Mixtral 8x7B 在性能成本效率方面设定了最高标准，使其成为寻求一流人工智能解决方案的企业的首选。今天就亲自体验 MistralAI 的强大功能！]]></description>
-      <guid>https://t.me/hn_summary/76416</guid>
-      <pubDate>Tue, 27 Feb 2024 14:49:41 GMT</pubDate>
+      <title>[媒体] 据报道，Tumblr 和 WordPress.com 的所有者 Automattic 正在与 AI comp [...]</title>
+      <link>https://t.me/hn_summary/76492</link>
+      <description><![CDATA[Tumblr 所有者正在与 OpenAI 和 Midjourney 达成训练数据协议
+据报道，Automattic 是 Tumblr 和 WordPress.com 的所有者与人工智能公司 Midjourney 和 OpenAI 进行谈判，以提供从用户帖子中抓取的训练数据。这一有争议的举动引发了 Tumblr 用户的谣言和担忧，Automattic 计划推出一项新设置，允许用户选择退出数据共享。据称，该公司删除了 2014 年至 2023 年 Tumblr 帖子的“初始数据转储”，引发了有关隐私和同意的问题。虽然公司和人工智能工具制造商之间就训练数据达成的交易并不罕见，但未经明确许可使用用户生成的内容已引起创意社区的强烈反对。这些潜在交易的结果以及对 Tumblr 未来的影响仍然不确定。]]></description>
+      <guid>https://t.me/hn_summary/76492</guid>
+      <pubDate>Tue, 27 Feb 2024 20:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Blazer 是一款商业智能工具，允许用户使用 SQL、cr [...]</title>
-      <link>https://t.me/hn_summary/76415</link>
-      <description><![CDATA[Blazer：商业智能变得简单
-Blazer 是一款商业智能工具，允许用户使用 SQL 探索数据、创建图表和仪表板，并与团队共享。它支持多个数据源、用于运行具有不同值的查询的变量、用于监控数据质量的检查和警报、用于跟踪查询的审核以及与身份验证系统的安全集成。 Blazer 通过提供异常检测、预测、群组分析以及智能变量和列等功能而脱颖而出。它可以轻松地作为 Docker 镜像安装，并且已经在 Instacart 上经过了实际测试。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76415</guid>
-      <pubDate>Tue, 27 Feb 2024 14:37:30 GMT</pubDate>
+      <title>[媒体]事情发生了令人惊讶的转变，一名法官发布了一项限制令，阻止 [...]</title>
+      <link>https://t.me/hn_summary/76491</link>
+      <description><![CDATA[法官发出限制令，阻止能源部追踪比特币矿工 
+令人惊讶的是，一名法官发布了一项限制令，阻止美国能源部追踪比特币矿工的能源消耗。美国能源部原计划收集信息，以了解采矿作业对美国电网的影响及其可靠性。然而，矿工们提起诉讼，认为这项调查将泄露机密商业信息并造成无法弥补的损害。艾伦·奥尔布赖特法官发布禁令的决定表明，矿工们的案件很可能会取得成功。这场争议凸显了美国能源部在监管比特币矿工的能源消耗和规划未来电力需求方面面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/76491</guid>
+      <pubDate>Tue, 27 Feb 2024 20:38:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]萨里大学领导的一项新研究发现，植物园可以降低[...]</title>
-      <link>https://t.me/hn_summary/76414</link>
-      <description><![CDATA[植物园可使城市空气平均降温 5°C&lt; /a&gt;
-萨里大学领导的一项新研究发现，植物园可以将城市内的气温降低高达 5°C，为应对热浪期间气温上升提供了潜在的解决方案。该研究分析了各种绿色空间和水道的冷却效果，强调了将自然融入城市环境以减轻气候变化影响的重要性。虽然树木和水体等绿色基础设施可以帮助城市降温，但有效规划和评估当地条件对于确保长期有效性至关重要。该研究强调需要量身定制的解决方案来应对不同社区面临的独特挑战。]]></description>
-      <guid>https://t.me/hn_summary/76414</guid>
-      <pubDate>Tue, 27 Feb 2024 14:29:24 GMT</pubDate>
+      <title>SuperTux 是一款跳跃与奔跑游戏，灵感源自《超级马里奥兄弟》。</title>
+      <link>https://t.me/hn_summary/76490</link>
+      <description><![CDATA[SuperTux
+SuperTux 是一款跳跃与奔跑游戏，灵感源自《超级马里奥兄弟》，玩家可以在多个世界中航行、与敌人战斗并收集能量道具。游戏讲述了小企鹅 (Tux) 执行从恶棍诺洛克 (Nolok) 手中拯救佩妮 (Penny) 的任务。该项目为主要平台提供稳定版本，并支持键盘和操纵杆/游戏手柄。 SuperTux 的与众不同之处在于其活跃的社区，通过 IRC、Matrix、论坛、邮件列表、社交媒体和 Discord 提供支持。最新版本 0.6.3 包括即将完成的森林世界，并计划在 0.7.0 版本中进行重大修改。欢迎用户提供反馈、贡献和想法。]]></description>
+      <guid>https://t.me/hn_summary/76490</guid>
+      <pubDate>Tue, 27 Feb 2024 20:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Vice Media 的倒闭并不是因为在线新闻业无利可图，而是 [...]</title>
-      <link>https://t.me/hn_summary/76413</link>
-      <description><![CDATA[副媒体完全崩溃是无能、失败的Brunchords的错
-Vice Media 的倒闭并不是因为网络新闻业无利可图，而是因为高管们的无能，未能登上权力的宝座。罪魁祸首是信托基金的失败者，他们对公司管理不善，收取过高的工资，并以不切实际的策略烧毁了大量资金。虽然 Vice 制作了出色的新闻报道，但该行业的经济激励措施指向盲目的参与和党派宣传。新闻业的未来是不确定的，较小的媒体和个人通讯作者面临着可持续发展的挑战。如果不进行重大改革，该行业将继续走目前的榨取式获利的道路。]]></description>
-      <guid>https://t.me/hn_summary/76413</guid>
-      <pubDate>Tue, 27 Feb 2024 14:17:45 GMT</pubDate>
+      <title>[媒体]作者：迈克尔·霍洛维茨</title>
+      <link>https://t.me/hn_summary/76489</link>
+      <description><![CDATA[Google 间谍活动的新方面
+标题：谷歌的地理定位间谍活动曝光
+作者：迈克尔·霍洛维茨
+
+令人惊讶的是，谷歌对互联网活动的间谍活动以一种独特的方式被曝光。这一发现始于设备显示错误位置的一个简单问题——从 Android 手机上的摄氏温度到 Windows 计算机上的英国搜索结果。罪魁祸首？ Google 根据在线活动（在本例中为伦敦之旅的研究）对公共 IP 地址进行分析。尽管尝试解决该问题，但 VPN 似乎是唯一的解决方案。这一令人大开眼界的经历揭示了在线监控的范围和隐私保护的必要性。 （根据 94% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76489</guid>
+      <pubDate>Tue, 27 Feb 2024 20:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]MeMPA 协处理器旨在通过实施 [...]</title>
-      <link>https://t.me/hn_summary/76412</link>
-      <description><![CDATA[MeMPA：应对的内存映射 M-SIMD 协处理器内存墙问题
-MeMPA 协处理器旨在通过实施内存映射 M-SIMD 计算范例来解决内存墙问题。通过映射 K 最近邻、K 均值、矩阵向量乘法、均值和方差以及离散傅里叶变换等基准，MeMPA 的性能优势得以凸显。 MVM 等算法的实现展示了约简树机制和 M-SIMD 计算范式如何有效地执行应用程序，特别有利于卷积神经网络等数据密集型任务。 MVM的详细映射过程涉及两个宏观阶段：处理矩阵初始化和算法执行，展示了MeMPA在克服内存限制方面的创新方法。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76412</guid>
-      <pubDate>Tue, 27 Feb 2024 14:15:40 GMT</pubDate>
+      <title>[媒体]谷歌双子座，一个新的人工智能聊天机器人，生成虚假评论来抹黑彼得·哈森的博 [...]</title>
+      <link>https://t.me/hn_summary/76488</link>
+      <description><![CDATA[Google Gemini 发明了虚假评论来抹黑大型科技公司的政治偏见
+新的人工智能聊天机器人谷歌双子座（Google Gemini）生成了虚假评论，以抹黑彼得·哈森（Peter Hasson）关于谷歌和其他大型科技公司政治偏见的书。该聊天机器人错误地将负面评论归因于《华盛顿自由灯塔》和《纽约时报》等信誉良好的来源，结果证明这完全是捏造的。这场争议凸显了人工智能技术的潜在危险以及准确性和可靠性的重要性。尽管遭到强烈反对，谷歌的回应却很模糊，称 Gemini 是一种创造力和生产力工具，但可能并不总是准确的。这一事件引发了人们对人工智能生成内容的可信度的质疑。]]></description>
+      <guid>https://t.me/hn_summary/76488</guid>
+      <pubDate>Tue, 27 Feb 2024 20:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动 [...]</title>
-      <link>https://t.me/hn_summary/76411</link>
-      <description><![CDATA[本田首款美国市场电动汽车来了——2024 Prologue，由
-本田首款美国市场电动汽车 2024 Prologue 在中型跨界 SUV 领域引起轰动。虽然 Prologue 与雪佛兰 Blazer EV 有相似之处，但本田努力通过独特的造型和内饰功能使 Prologue 脱颖而出。 Prologue 简洁的矩形设计让人想起 80 年代的美学，使其与 Blazer 的锐角区分开来。本田以车辆的“高帽”为重点，为 Prologue 创造了独特的形象，标志着该品牌在电动汽车市场的新时代。]]></description>
-      <guid>https://t.me/hn_summary/76411</guid>
-      <pubDate>Tue, 27 Feb 2024 14:14:03 GMT</pubDate>
+      <title>[媒体] Velvet 是一个革命性的数据平台，可将您的所有数据集中到一个地方。</title>
+      <link>https://t.me/hn_summary/76487</link>
+      <description><![CDATA[展示 HN：Velvet – 带有 AI SQL 编辑器的数据平台
+Velvet 是一个革命性的数据平台，可将您的所有数据集中到一个地方。借助人工智能支持的 SQL 编辑器，您可以轻松运行复杂的查询。 Velvet 的与众不同之处在于它能够使用 API 直接在您的产品中显示查询，从而允许您个性化内容、提供建议，甚至实施动态定价。无论您是想分析数据、可视化查询还是创建客户仪表板，Velvet 都能满足您的需求。对于平台，Velvet 提供后端即服务、搜索引擎功能和查询分析。联系我们的产品团队，了解 Velvet 如何改变您的数据工作流程。]]></description>
+      <guid>https://t.me/hn_summary/76487</guid>
+      <pubDate>Tue, 27 Feb 2024 20:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦航空局 (FAA) 的一份报告指出，波音公司缺失了安全文化的关键要素 [...]</title>
-      <link>https://t.me/hn_summary/76410</link>
-      <description><![CDATA[波音公司缺少安全文化的关键要素：美国联邦航空局报告 
-美国联邦航空局的一份报告指出，波音公司缺乏安全文化的关键要素，员工缺乏如何报告安全问题的意识。该小组强烈批评波音公司的安全做法，强调其缺乏基本的安全协议。该报告揭示了公司内部可能影响客机安全的潜在问题。]]></description>
-      <guid>https://t.me/hn_summary/76410</guid>
-      <pubDate>Tue, 27 Feb 2024 13:59:55 GMT</pubDate>
+      <title>是科技行业还没复苏还是我有那么糟糕？</title>
+      <link>https://t.me/hn_summary/76486</link>
+      <description><![CDATA[是科技行业还没复苏还是我有那么糟糕？&lt; /a&gt;
+作者是一名刚毕业的博士生，在 ML/CV 领域拥有令人印象深刻的发表记录，目前正在努力争取科技行业研究科学家的职位。尽管接触了高级研究人员并向大型科技公司和初创公司提出了申请，但他们还是面临着无数次拒绝和面试机会有限。令人惊讶的是，即使有朋友推荐，他们也立即被 Meta 拒绝担任研究科学家职位。笔者感到困惑和不安，质疑他们是否已被这些公司列入黑名单。这篇坦率的文章强调了竞争激烈的科技行业中即使是实力强劲的候选人也面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/76486</guid>
+      <pubDate>Tue, 27 Feb 2024 20:02:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
