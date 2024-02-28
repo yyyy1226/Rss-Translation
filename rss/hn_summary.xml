@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 08:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 12:33:08 GMT</lastBuildDate>
     <item>
-      <title>通用域类型是编程语言中的一个强大概念，允许创建 [...]</title>
-      <link>https://t.me/hn_summary/76569</link>
-      <description><![CDATA[通用域类型
-通用域类型是编程语言中的一个强大概念，允许创建与基础类型共享表示的不同类型。新类型和 typedef 是定义域类型的常见方法，新类型提供灵活性，但需要更多代码实现。 Haskell 和 Rust 等语言支持新类型，而 Go、D 和 Ada 则提供 typedef。本文探讨了不同类别的域类型，例如标识符、数量、基因座和数量，每种类型都有特定的要求和数学模型。使用维度分析来建模复杂类型交互被强调为有效组合不同域类型的值的一种方式。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76569</guid>
-      <pubDate>Wed, 28 Feb 2024 08:50:16 GMT</pubDate>
+      <title>[媒体] 1 位 LLM 时代：所有大型语言模型均采用 1.58 位，介绍了 BitNet b1 [...]</title>
+      <link>https://t.me/hn_summary/76603</link>
+      <description><![CDATA[1 位 LLM 时代：所有大型语言模型都已进入1.58位
+1 位 LLM 时代：所有大型语言模型均采用 1.58 位 引入了 BitNet b1.58，这是一种突破性的 1 位大型语言模型，彻底改变了该领域。这种具有三元参数的创新模型可与全精度模型的性能相匹配，同时在延迟、内存、吞吐量和能耗方面更加高效。 1 位法学硕士的新时代不仅为高性能和经济高效的模型树立了新标准，而且还为针对这一尖端技术优化的专用硬件打开了大门。这项研究发表于 2024 年 2 月 27 日，为语言模型的未来铺平道路。]]></description>
+      <guid>https://t.me/hn_summary/76603</guid>
+      <pubDate>Wed, 28 Feb 2024 12:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美军已利用人工智能技术对伊拉克和叙利亚进行了超过85次空袭 [...]</title>
-      <link>https://t.me/hn_summary/76568</link>
-      <description><![CDATA[美军扣动扳机，利用人工智能瞄准空袭
-美国军方今年在伊拉克和叙利亚发动了超过 85 次空袭，其中 Project Maven 自 2017 年以来一直处于领先地位。虽然谷歌因员工强烈反对而退出了该项目，但其他科技公司已介入提供协助。五角大楼的目标是将软件与政府情报收集平台集成。美国中央司令部已成功使用人工智能算法来识别目标，但该技术有其局限性。尽管担心落后于对手，国防部仍在推动人工智能在作战行动中的整合。人工智能在战争中的未来是不确定的，潜在的好处和风险都需要考虑。]]></description>
-      <guid>https://t.me/hn_summary/76568</guid>
-      <pubDate>Wed, 28 Feb 2024 08:45:12 GMT</pubDate>
+      <title>[媒体]欧盟委员会正在调查微软对 Mistral 的 1500 万欧元投资 [...]</title>
+      <link>https://t.me/hn_summary/76602</link>
+      <description><![CDATA[欧洲调查微软持有人工智能新贵 Mistral 1500 万欧元的股份 
+欧盟委员会正在调查微软对 Mistral 的 1500 万欧元投资，Mistral 是一家法国初创公司，最近发布了一个大型语言模型以与 OpenAI 竞争。 Mistral 由 Google DeepMind 和 Meta 的研究人员创立，已从投资者那里筹集了超过 3.85 亿欧元，目前估值约为 18 亿欧元。这家初创公司的最新型号 Mistral Large 引起了担心人工智能与大型科技公司合并的监管机构的关注。欧盟委员会正在分析数字市场参与者和人工智能开发商之间的协议，以确保公平竞争并防止市场扭曲。此次调查正值欧盟准备对 Mistral Large 等高影响力人工智能系统执行规则之际。]]></description>
+      <guid>https://t.me/hn_summary/76602</guid>
+      <pubDate>Wed, 28 Feb 2024 12:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]海洋科学家 Terry Hughes 发现大量机器人账户在推特上发布奇怪的混乱信息 [...]</title>
-      <link>https://t.me/hn_summary/76567</link>
-      <description><![CDATA[X 成为人工智能生成垃圾邮件的机器人“鬼城”内容充斥互联网
-海洋科学家 Terry Hughes 发现大量机器人帐户在 X（以前称为 Twitter）上发布有关大堡礁的奇怪消息。尽管埃隆·马斯克承诺消除机器人，但随着人工智能生成的内容充斥互联网，问题只会变得更糟。机器人与其他机器人进行毫无意义的对话，降低了在线对话的质量。机器人制造行业的兴起导致了为各种目的创建机器人的蓬勃发展的市场。 X 的机器人问题非常严重，研究人员很难估计其规模。随着人工智能生成的垃圾邮件内容淹没搜索引擎，平台正在争先恐后地寻找解决方案来解决这一日益严重的问题。]]></description>
-      <guid>https://t.me/hn_summary/76567</guid>
-      <pubDate>Wed, 28 Feb 2024 08:30:04 GMT</pubDate>
+      <title>[媒体]谷歌为独立出版商推出了一项私人计划，提供对[...]的访问</title>
+      <link>https://t.me/hn_summary/76601</link>
+      <description><![CDATA[Google 向出版商付费，让其测试 AI 工具，该工具可抓取网站以制作新内容
+谷歌为独立出版商推出了一项私人计划，提供未发布的人工智能平台的访问权限，以换取反馈和内容创作。这项有争议的计划允许出版商在未经同意的情况下从外部来源抓取和总结文章，这可能会损害原创者的利益。虽然谷歌坚称该工具旨在帮助小型出版商制作高质量的新闻，但批评者认为，它可能会窃取内容并从原始来源转移流量，从而破坏了新闻的使命。该计划是 Google 新闻计划的一部分，引发了不同的反应，一些人质疑 Google 的动机以及对出版业的影响。]]></description>
+      <guid>https://t.me/hn_summary/76601</guid>
+      <pubDate>Wed, 28 Feb 2024 12:21:58 GMT</pubDate>
     </item>
     <item>
-      <title>该研究探讨了欧洲夏季天气与北大西洋淡水之间的联系[...]</title>
-      <link>https://t.me/hn_summary/76566</link>
-      <description><![CDATA[欧洲夏季天气与北大西洋淡水异常有关&lt; br /&gt;
-该研究探讨了欧洲夏季天气与北大西洋淡水异常之间的联系，揭示了格陵兰融水对深水形成的影响。关于北极放大对中纬度恶劣天气的影响的相互矛盾的观点引起了争议。令人惊讶的发现包括格陵兰岛淡水异常在北大西洋最近的淡水化中的作用。该研究深入研究了北大西洋夏季风暴路径变化的驱动机制及其对欧洲气候的影响。这项综合分析为北大西洋地区海洋环流、大气模式和极端天气事件之间复杂的相互作用提供了宝贵的见解。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76566</guid>
-      <pubDate>Wed, 28 Feb 2024 08:23:59 GMT</pubDate>
+      <title>[媒体]什么是自由软件？</title>
+      <link>https://t.me/hn_summary/76600</link>
+      <description><![CDATA[什么是免费软件？
+网站 www.gnu.org 解释了免费的概念软件，强调的是自由，而不是价格。用户可以自由地运行、复制、分发、研究、更改和改进软件。该网站区分了“自由软件”和“开源”，强调了自由软件的商业使用、开发和分发的重要性。它还讨论了定义自由软件的四个基本自由，并澄清了自由软件和非自由软件之间的界限。该网站倡导 Copyleft 以保护这些自由，并解释了有关包装和分发细节的可接受规则。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76600</guid>
+      <pubDate>Wed, 28 Feb 2024 12:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“为以 CPU 为中心的程序员揭秘 GPU”一文中，作者分享了他们的旅程 [...]</title>
-      <link>https://t.me/hn_summary/76565</link>
-      <description><![CDATA[为以 CPU 为中心的程序员揭秘 GPU
-在“为以 CPU 为中心的程序员揭秘 GPU”一文中，作者分享了他们从与 CPU 密切合作到深入研究 GPU 世界的旅程，特别是在 AI 工作负载的背景下。作者解释了 CUDA 编程的基础知识，重点介绍了 CPU 和 GPU 执行模型之间的差异。他们讨论了 CUDA 中内核的概念、从 CPU 在 GPU 上启动内核的过程，以及与 CPU 线程相比 GPU 线程创建和调度的效率。作者还介绍了通过 GPU 上的 warp 来优化线程执行。总体而言，本文为希望了解 GPU 及其在现代计算中的作用的以 CPU 为中心的程序员提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/76565</guid>
-      <pubDate>Wed, 28 Feb 2024 07:59:48 GMT</pubDate>
+      <title>问 HN：我不使用人工智能。</title>
+      <link>https://t.me/hn_summary/76599</link>
+      <description><![CDATA[问 HN：我不使用人工智能。我究竟错过了什么？
+news.ycombinator.com 上这篇文章的作者是质疑人工智能在他们生活中的价值，特别提到他们对 ChatGPT 的使用有限，并且缺乏进一步探索的兴趣。他们将人工智能视为智能助手，但认为谷歌已经有效地履行了这一角色。作者表示担心人工智能只提供一种观点，而谷歌允许对一个主题有多种观点。争议在于作者对人工智能的好处的怀疑以及他们为讨论带来的独特视角。]]></description>
+      <guid>https://t.me/hn_summary/76599</guid>
+      <pubDate>Wed, 28 Feb 2024 12:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大众汽车支持的电动汽车制造商江淮汽车集团旗下亿威推出了首款钠离子电池[...]</title>
-      <link>https://t.me/hn_summary/76564</link>
-      <description><![CDATA[大众汽车支持的电动汽车制造商推出首款钠离子电池电动汽车
-大众汽车支持的电动汽车制造商江淮汽车集团旗下的亿威推出了中国首款钠离子电池驱动的电动汽车。采用海纳电池钠离子圆柱电池的新款江淮翼威电动汽车将于下个月上市。虽然钠离子电池的能量密度比锂离子电池低，但它们具有更好的低温性能、更快的充电速度以及由于原材料更便宜而降低成本等优点。此举标志着以更实惠的价格推动电动汽车的大规模采用迈出了重要一步。]]></description>
-      <guid>https://t.me/hn_summary/76564</guid>
-      <pubDate>Wed, 28 Feb 2024 07:55:43 GMT</pubDate>
+      <title>欢迎加入 onread.io，与 Richard G 一起深入了解第九届年度 Technology.fm 炉边谈话 [...]</title>
+      <link>https://t.me/hn_summary/76598</link>
+      <description><![CDATA[Show HN：我构建了一个社交 RSS 提要聚合器（使用 Go、 Tailwind 和 Htmx）
+加入我们onread.io，我们将深入探讨第九届年度&lt; a href=&quot;https://tg.i-c-a.su/rss/Technology.fm&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Technology.fm 与来自智能家居展和家居的 Richard Gunther 进行炉边聊天： 在。我们回顾过去一年的行业新闻并讨论各种观点。不要错过这次关于科技世界的富有洞察力的对话。]]></description>
+      <guid>https://t.me/hn_summary/76598</guid>
+      <pubDate>Wed, 28 Feb 2024 12:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>在 2010 年的这篇博客文章中，作者解释了为什么 Python 的整数除法返回 flo [...]</title>
-      <link>https://t.me/hn_summary/76563</link>
-      <description><![CDATA[为什么 Python 的整数除法层 (2010)
-在 2010 年的这篇博文中，作者解释了为什么 Python 的整数除法返回结果的下取整，而不是像 C 那样截断到零。作者深入研究了这一选择背后的数学原因，强调了整数除法运算和取模之间的关系手术。通过数论和计算机图形学等实际应用的示例来解释将结果降低到负无穷大的决定。作者还提到了 C 语言不遵循这种方法的历史原因，并引用了硬件限制。这篇文章最后注释了在 Python 中使用 // 代替 / 进行整数除法。]]></description>
-      <guid>https://t.me/hn_summary/76563</guid>
-      <pubDate>Wed, 28 Feb 2024 07:48:38 GMT</pubDate>
+      <title>隆重推出 ChatMate，这是一款革命性的聊天机器人，由尖端的 RAG 技术提供支持，可实现轻 [...]</title>
+      <link>https://t.me/hn_summary/76597</link>
+      <description><![CDATA[显示 HN：聊天的关键见解
+隆重推出 ChatMate，这是一款革命性的聊天机器人，采用尖端的 RAG 技术，可实现闪电般的信息检索。自定义您的小部件，使其与您的品牌和网站设计无缝融合，并包含入门消息和示例问题。我们精心调整的法学硕士旨在积极与客户互动，解决他们的痛点并提高转化率。通过 ChatMate 体验客户服务的未来。]]></description>
+      <guid>https://t.me/hn_summary/76597</guid>
+      <pubDate>Wed, 28 Feb 2024 12:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 eugeneyan.co 上的文章“不要在单元测试中模拟你的机器学习模型”中 [...]</title>
-      <link>https://t.me/hn_summary/76562</link>
-      <description><![CDATA[不要在单元测试中模拟你的机器学习模型
-在 eugeneyan 上的文章“不要在单元测试中模拟你的机器学习模型”中.com，作者讨论了将传统单元测试实践应用于机器学习代码的挑战。与常规软件不同，机器学习涉及编写从数据中学习逻辑而不是包含数据的代码。作者强调需要重新考虑机器学习代码的单元测试，并强调在某些情况下针对实际模型进行测试的重要性。本文提供了对 ML 代码和模型进行单元测试的指南，包括使用小型、简单的数据样本以及针对随机或空权重进行测试。作者邀请您就单元测试机器学习的最佳实践提供反馈和进一步讨论。]]></description>
-      <guid>https://t.me/hn_summary/76562</guid>
-      <pubDate>Wed, 28 Feb 2024 07:44:33 GMT</pubDate>
+      <title>[媒体]你是否厌倦了自由职业时因佣金而赔钱？</title>
+      <link>https://t.me/hn_summary/76596</link>
+      <description><![CDATA[展示 HN：免费发票生成器
+您是否厌倦了自由职业时因佣金而赔钱？ Contra 就是您的最佳选择，它是一款免费发票生成器，它彻底改变了我的工作方式。借助 Contra，您可以创建令人惊叹的投资组合、快速发送发票并立即收到付款。使用《魂斗罗》告别沮丧，迎接高效。加入我和无数其他人，体验这个改变游戏规则的平台的纯粹令人惊叹的因素。 Ahmed Bensalah，Framer 设计师。]]></description>
+      <guid>https://t.me/hn_summary/76596</guid>
+      <pubDate>Wed, 28 Feb 2024 12:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]五角大楼使用有针对性的广告来跟踪其自己的任务和人员，以及[...]</title>
-      <link>https://t.me/hn_summary/76561</link>
-      <description><![CDATA[五角大楼如何学会使用定向广告来寻找目标 - 以及普京
-五角大楼使用有针对性的广告来跟踪自己的任务和人员，以及普京等潜在对手，是通过机车数据揭露的。该数据显示，美国特种作战人员正在叙利亚一处未经宣布的军事设施中集结，并可通过 UberMedia 的广告数据获得精确、实时的坐标。包括外国政府在内的任何人都可以购买这些信息，其潜在的安全风险引起了人们的担忧。尽管 Locomotive 的情报能力令人印象深刻，但 PlanetRisk 内部仍存在关于向政府提供这些数据的最佳方法的争论。强调了将商业数据用于军事情报目的的争议和道德影响。]]></description>
-      <guid>https://t.me/hn_summary/76561</guid>
-      <pubDate>Wed, 28 Feb 2024 07:31:26 GMT</pubDate>
+      <title>[媒体]GreenCode 是一个 Visual Studio Code 扩展，旨在提高编码效率和 [...]</title>
+      <link>https://t.me/hn_summary/76595</link>
+      <description><![CDATA[展示HN：我做了一个简单易用的插件可持续编码
+GreenCode 是 Visual Studio Code 的扩展，旨在提高编码效率并促进生态友好的编程实践。它提供对代码的实时洞察，突出优化机会并促进更清晰、更高效的编码。该项目通过集成人工智能驱动的功能来进行 SQL 查询的高级分析和优化，从而脱颖而出。用户可以设置他们的环境来利用人工智能建议，但建议谨慎，因为并非所有建议都可能直接适用。该扩展还包括增强低效模式检测和交互式严重性导航等功能。通过首先关注高影响力的变更，开发人员可以系统地提高代码的性能，并为可持续的软件开发实践做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/76595</guid>
+      <pubDate>Wed, 28 Feb 2024 11:56:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一份声明中，谷歌首席执行官谈到了围绕 Gemini AI 的争议 [...]</title>
-      <link>https://t.me/hn_summary/76560</link>
-      <description><![CDATA[Google CEO 表示 Gemini AI 多样性错误“完全不可接受”
-在最近的一份声明中，谷歌首席执行官解决了围绕 Gemini AI 应用程序的争议，承认文本和图像响应中的错误“完全不可接受”。该公司正在努力纠正问题并提高应用程序的性能。尽管人工智能新兴领域面临挑战，谷歌仍致力于为用户提供有用、准确和公正的信息。他们正在实施结构变革、更新指南和严格评估，以确保产品质量。在从过去的错误中吸取教训的同时，谷歌还专注于改进其人工智能模型，以创造用户可以信任和依赖的产品。]]></description>
-      <guid>https://t.me/hn_summary/76560</guid>
-      <pubDate>Wed, 28 Feb 2024 07:27:22 GMT</pubDate>
+      <title>[媒体] 隆重推出 Aviator FlexReview，这是 Codeowners 的一个改变游戏规则的替代方案。</title>
+      <link>https://t.me/hn_summary/76594</link>
+      <description><![CDATA[展示 HN：Aviator FlexReview – Codeowners 的替代方案 
+隆重推出 Aviator FlexReview，这是 Codeowners 的一个改变游戏规则的替代方案。借助本地支持，您现在可以在自己的基础设施中部署和管理应用程序，从而确保更强的数据隐私和安全性。告别对第三方访问的担忧，并以前所未有的方式控制您的代码审查流程。访问 www.aviator.co 了解有关这一创新的更多信息解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76594</guid>
+      <pubDate>Wed, 28 Feb 2024 11:52:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
