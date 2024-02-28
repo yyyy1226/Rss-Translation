@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 28 Feb 2024 18:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 21:17:15 GMT</lastBuildDate>
     <item>
-      <title>姆佩斯</title>
-      <link>https://www.opensourceagenda.com/projects/mpes</link>
-      <description><![CDATA[多维光电子能谱 (MPES) 的分布式数据处理例程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mpes</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:58 GMT</pubDate>
+      <title>韦姆青蛙</title>
+      <link>https://www.opensourceagenda.com/projects/wevm-frog</link>
+      <description><![CDATA[Farcaster 框架框架 🐸 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wevm-frog</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>物理学</title>
-      <link>https://www.opensourceagenda.com/projects/physipy</link>
-      <description><![CDATA[用于计算所有类型物理公式的 Python 库，用于计算和研究]]></description>
-      <guid>https://www.opensourceagenda.com/projects/physipy</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:57 GMT</pubDate>
+      <title>Qsqclxas9afc</title>
+      <link>https://www.opensourceagenda.com/projects/qsqclxas9afc</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qsqclxas9afc</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>星形发动机</title>
-      <link>https://www.opensourceagenda.com/projects/radial-engine</link>
-      <description><![CDATA[带有使用 OpenGL 的编辑器 (Qt) 的 3D 游戏引擎]]></description>
-      <guid>https://www.opensourceagenda.com/projects/radial-engine</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:57 GMT</pubDate>
+      <title>Qd13harlck1p7fy</title>
+      <link>https://www.opensourceagenda.com/projects/qd13harlck1p7fy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qd13harlck1p7fy</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>确定性物理学</title>
-      <link>https://www.opensourceagenda.com/projects/deterministic-physics</link>
-      <description><![CDATA[deterministic physics engine for lock-step 3D game development.  能为3D帧同步游戏提供一致性、确定性的物理引擎。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/deterministic-physics</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:56 GMT</pubDate>
+      <title>S5酷</title>
+      <link>https://www.opensourceagenda.com/projects/s5kue</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/s5kue</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>阿里迪斯特</title>
-      <link>https://www.opensourceagenda.com/projects/alidist</link>
-      <description><![CDATA[构建 ALICE 软件的秘诀]]></description>
-      <guid>https://www.opensourceagenda.com/projects/alidist</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:56 GMT</pubDate>
+      <title>wwwjm71624</title>
+      <link>https://www.opensourceagenda.com/projects/wwjm71624</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wwjm71624</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>脓肿</title>
-      <link>https://www.opensourceagenda.com/projects/pytopomat</link>
-      <description><![CDATA[Python 拓扑材料 (pytopomat) 是一种用于对拓扑材料进行简单、高通量分析的代码。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pytopomat</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:56 GMT</pubDate>
+      <title>9mrqz2xha8</title>
+      <link>https://www.opensourceagenda.com/projects/9mrqz2xha8</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/9mrqz2xha8</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>移动世界</title>
-      <link>https://www.opensourceagenda.com/projects/movingworld</link>
-      <description><![CDATA[想要移动玩家制作的结构的 Minecraft 模组库。由虚假承诺提供动力。由 darkevilmac 维护。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/movingworld</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:55 GMT</pubDate>
+      <title>8b4vv93</title>
+      <link>https://www.opensourceagenda.com/projects/8b4vv93</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/8b4vv93</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>PolaronMobility.jl</title>
-      <link>https://www.opensourceagenda.com/projects/polaronmobilityjl</link>
-      <description><![CDATA[Feynman 的 Fröhlich 极化子变分路径积分模型。计算与温度相关的极化子迁移率和其他极化子可观测值。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/polaronmobilityjl</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:55 GMT</pubDate>
+      <title>Wskl9azgsdh0w8x</title>
+      <link>https://www.opensourceagenda.com/projects/wskl9azgsdh0w8x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wskl9azgsdh0w8x</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>创意编码笔记本</title>
-      <link>https://www.opensourceagenda.com/projects/creative-coding-notebooks</link>
-      <description><![CDATA[🎨 一套有关创意编码和计算机艺术的 Python 基础教程的作者。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/creative-coding-notebooks</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:54 GMT</pubDate>
+      <title>9yi2emxc03vskj</title>
+      <link>https://www.opensourceagenda.com/projects/9yi2emxc03vskj</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/9yi2emxc03vskj</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>伊辛蒙特卡洛</title>
-      <link>https://www.opensourceagenda.com/projects/isingmontecarlo</link>
-      <description><![CDATA[针对 2D 方格 Ising 模型和自旋块重整化实现 Metropolis Monte Carlo 的程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/isingmontecarlo</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:54 GMT</pubDate>
+      <title>Ybp3ubju90gc</title>
+      <link>https://www.opensourceagenda.com/projects/ybp3ubju90gc</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ybp3ubju90gc</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>模拟QCD</title>
-      <link>https://www.opensourceagenda.com/projects/simulateqcd</link>
-      <description><![CDATA[SIMULATeQCD 是一个多 GPU 晶格 QCD 框架，使物理学家能够轻松实现晶格 QCD 公式，同时仍然提供有竞争力的性能。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/simulateqcd</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:54 GMT</pubDate>
+      <title>0nknxgl52cq7a</title>
+      <link>https://www.opensourceagenda.com/projects/0nknxgl52cq7a</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/0nknxgl52cq7a</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>神经网络PDF</title>
-      <link>https://www.opensourceagenda.com/projects/nnpdf</link>
-      <description><![CDATA[用于局部分布全局分析的开源机器学习框架。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nnpdf</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:53 GMT</pubDate>
+      <title>乌尔7奥索伊格</title>
+      <link>https://www.opensourceagenda.com/projects/ur7osojg</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ur7osojg</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>地质包装</title>
-      <link>https://www.opensourceagenda.com/projects/geopack</link>
-      <description><![CDATA[Python 版本的 geopack 和 Tsyganenko 模型]]></description>
-      <guid>https://www.opensourceagenda.com/projects/geopack</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:53 GMT</pubDate>
+      <title>Rx3fkztuq4mt7</title>
+      <link>https://www.opensourceagenda.com/projects/rx3fkztuq4mt7</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rx3fkztuq4mt7</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>Aframe 球投掷</title>
-      <link>https://www.opensourceagenda.com/projects/aframe-ball-throw</link>
-      <description><![CDATA[支持物理和 Vive 控制器的基本 A-Frame 演示。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aframe-ball-throw</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:53 GMT</pubDate>
+      <title>GitHub 软件</title>
+      <link>https://www.opensourceagenda.com/projects/github-software</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/github-software</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:11 GMT</pubDate>
     </item>
     <item>
-      <title>公司公司</title>
-      <link>https://www.opensourceagenda.com/projects/com-py-compy</link>
-      <description><![CDATA[“计算建模和可视化”资源库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/com-py-compy</guid>
-      <pubDate>Wed, 28 Feb 2024 18:23:52 GMT</pubDate>
+      <title>拉23dpuu</title>
+      <link>https://www.opensourceagenda.com/projects/la23dpuu</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/la23dpuu</guid>
+      <pubDate>Wed, 28 Feb 2024 21:17:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
