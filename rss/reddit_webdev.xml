@@ -4,25 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 03:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 06:24:27 GMT</lastBuildDate>
+    <item>
+      <title>我发现这个东西很有趣，他们是如何阻止使用打开检查器的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</link>
+      <description><![CDATA[https://itjobzy.com/加拿大的非技术工作/   由   提交 /u/sohail_ansari   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</guid>
+      <pubDate>Thu, 29 Feb 2024 06:12:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>迫切需要帮助查找 WordPress 安装中内存使用的原因</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</link>
+      <description><![CDATA[我安装的 WordPress 使用了 98% 的服务器内存并导致一切崩溃。每当访问该网站时，我都会遇到数据库连接错误。 我禁用了所有插件并设置为默认 WordPress 主题，但问题仍然发生。 我希望备份该网站较早的日期，但显然，由于服务器磁盘空间问题，WHM 中的备份无法正常运行。最早的备份是从 2022 年开始的。 服务器是带有 HostGator 的 VPS，具有 8GB 内存、4 核 CPU 和 240GB 空间。 数据库非常大。比如17GB。 Hostgator 支持一直为 0 帮助。 我很害怕，因为这非常紧急并导致了很多业务问题。 非常感谢任何建议。 &lt; /div&gt;  由   提交/u/WranglerReasonable91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达首席执行官预测编码的消亡——黄仁勋表示人工智能将完成这项工作，所以孩子们不需要学习</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</link>
+      <description><![CDATA[       由   提交/u/kickrocksbawd  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人在 reddit 上找到好的项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</link>
+      <description><![CDATA[我会查看最流行的子 Reddit 搜索，例如  r/forhire r/hire r/freelance 等。 这么多新手和垃圾邮件发送者，每个帖子可能有 1 个点赞和 0 个评论。看起来很悲伤。但在 reddit 上找工作的想法非常有吸引力 ಠ_ಠ   由   提交 /u/sslimmshaddy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:22:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>这家伙认为我可以在这个 2 分钟的教程之后找到一份 UI/UX 工作 lmao</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2salg/this_guy_thinks_i_can_get_a_uiux_job_after_this_2/</link>
+      <description><![CDATA[https://www.youtube.com /watch?v=9EHVUEXunhk 不敢相信现在 youtube 允许推出什么 smh（是我）  &amp; #32；由   提交 /u/tallwalldesigns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2salg/this_guy_thinks_i_can_get_a_uiux_job_after_this_2/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>有 HTML/CSS 的样式指南吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</link>
-      <description><![CDATA[好！这里是菜鸟开发人员。 （希望这不是一个愚蠢的问题）是否有类似“推荐”的内容？处理 HTML/CSS 的方式？ 这些是我从不同资源收集的东西： 1) 重点关注语义 HTML。 2) 每页最多有一个 H1。 3) 使用 aria 属性来获得可访问性的好处。 4）总是（尝试）使用外部CSS。内联 css 只能用于永久样式。 5）尝试将结构、布局和样式隔离开来。 6) 不要使用 ID 选择器，并在实现 Javascript 时使用 ID。 7) 不要使用 HTML 表格标签进行布局。请改用网格。 8) 添加“延迟”到 JS 脚本标签，以便它在 CSS 之后加载（经过几个小时的搜索后才了解到这一点）。 9) 给出充分代表元素的良好类名。 10) 使用连字符大小写（我的 Java 混蛋，习惯了驼峰命名法，现在用这个很难了，哈哈）。 我应该养成习惯的其他有用的东西？    由   提交 /u/noobjaish   [链接] [评论]]]></description>
+      <description><![CDATA[好！这里是菜鸟开发人员。 （希望这不是一个愚蠢的问题）是否有类似“推荐”的内容？处理 HTML/CSS 的方式？ 这些是我从不同资源收集的东西： 1) 重点关注语义 HTML。 2) 每页最多有一个 H1。 3) 使用 aria 属性来获得可访问性的好处。 4）总是（尝试）使用外部CSS。内联 css 只能用于永久样式。 5）尝试将结构、布局和样式隔离开来。 6) 不要使用 ID 选择器，并在实现 Javascript 时使用 ID。 7) 不要使用 HTML 表格标签进行布局。使用网格代替。 8) 添加“延迟”到 JS 脚本标签，以便它在 CSS 之后加载（经过几个小时的搜索后才了解到这一点）。 9) 给出充分代表元素的良好类名。 10) 使用连字符大小写（我的 Java 混蛋，习惯了驼峰命名法，现在用这个很难了，哈哈）。 我应该养成习惯的其他有用的东西？    由   提交 /u/noobjaish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</guid>
       <pubDate>Thu, 29 Feb 2024 03:21:20 GMT</pubDate>
     </item>
     <item>
       <title>治疗师网站和 HIPAA 合规性</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</link>
-      <description><![CDATA[所以我看到很多治疗师使用的 Squarespace/Wix 网站不符合 HIPAA。我希望将单独执业的治疗师作为我的客户群。这个问题主要针对具有 HIPAA 工作经验的网络开发人员。 这个想法是构建基本网站，其中包括以下内容： - 办公地点 &lt; p&gt;- 治疗师的电话/电子邮件 - 关于治疗师及其理念 对于涉及 PHI 的其他所有内容，我会使用符合 HIPAA 的 EMR 服务，例如 TherapyAppointment 等： - 客户端消息传递 - 计费 - 预约安排 所以这是我的问题：只要我使用像 TherapyAppointment 这样符合 HIPAA 要求的 EMR 服务，我不必担心要承担任何责任，对吗？因为他们将处理 PHI，而不是我。我看到的唯一潜在问题是，如果我设置 EMR 帐户，我就可以访问登录凭据，从而访问将来收集的任何 PHI。因此，解决方案似乎很简单：确保治疗师在我完成设置后更改登录凭据。那行得通吗？这个想法是否存在一些我忽视的明显问题？ 虽然我认识到处理 HIPAA 相关工作风险很大，但我希望通过使用上述 EMR 服务来消除风险。治疗师似乎是很好的目标客户，因为他们中的一些人赚了很多钱，而且当 HIPAA 合规性在他们的工作中至关重要时，在网站上销售他们会更容易。此外，许多治疗师在管理其实践的各个方面效率低下，例如计费、预约安排等，这些可以部分或完全自动化，因此他们可以将更多时间花在临床工作上。这两件事看起来确实是很大的卖点。 您认为这种方法存在哪些问题？是否可以在不涉及律师的情况下完成，或者是否有必要？ ​   由   提交 /u/nottapsycho   [链接] [评论]]]></description>
+      <description><![CDATA[所以我看到很多治疗师使用的 Squarespace/Wix 网站不符合 HIPAA。我希望将单独执业的治疗师作为我的客户群。这个问题主要针对具有 HIPAA 工作经验的网络开发人员。 这个想法是构建基本网站，其中包括以下内容： - 办公地点 &lt; p&gt;- 治疗师的电话/电子邮件 - 关于治疗师及其理念 对于涉及 PHI 的其他所有内容，我会使用符合 HIPAA 的 EMR 服务，例如 TherapyAppointment 等： - 客户端消息 - 计费 - 预约安排 所以这是我的问题：只要我使用像 TherapyAppointment 这样符合 HIPAA 要求的 EMR 服务，我不必担心要承担任何责任，对吗？因为他们将处理 PHI，而不是我。我看到的唯一潜在问题是，如果我设置 EMR 帐户，我就可以访问登录凭据，从而访问将来收集的任何 PHI。因此，解决方案似乎很简单：确保治疗师在我完成设置后更改登录凭据。那行得通吗？这个想法是否存在一些我忽视的明显问题？ 虽然我认识到处理与 HIPAA 相关的工作风险很大，但我希望通过使用上述 EMR 服务来消除风险。治疗师似乎是很好的目标客户，因为他们中的一些人赚了很多钱，而且当 HIPAA 合规性在他们的工作中至关重要时，在网站上销售他们会更容易。此外，许多治疗师在管理其实践的各个方面效率低下，例如计费、预约安排等，这些可以部分或完全自动化，因此他们可以将更多时间花在临床工作上。这两件事看起来确实是很大的卖点。 您认为这种方法存在哪些问题？是否可以在不涉及律师的情况下完成，或者是否有必要？ ​   由   提交 /u/nottapsycho   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</guid>
       <pubDate>Thu, 29 Feb 2024 03:16:12 GMT</pubDate>
     </item>
     <item>
       <title>是否有域名/托管服务允许承包商/开发人员创建具有有限控制的“子帐户”（他们自己的帐户在单个主帐户下）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</link>
-      <description><![CDATA[我和我的朋友意识到我们处于一个独特的位置 - 我们可以接触到数十万不懂技术但需要技术的潜在客户一个基本的网站，并且有资金可以花费。 我们在技术上都没有足够的能力来有效地建立一个专业的网站，所以我们决定将这项工作外包给开发人员，并将我们的精力集中在业务开发和客户的成功。  我们很难找到能够满足我们一项突出需求的服务。我们正在尝试寻找一个域名+托管服务，允许我们的开发人员社区在我们的主/主帐户下创建自己的帐户。我们可能有多个开发人员同时工作，并希望尽量避免只为单个帐户传递一个登录凭据，更不用说让他们访问我们的付款信息了。  有类似的事情吗？我们研究了 Namecheap 的经销商计划 - 它允许创建“CPanel 帐户” - 但这些帐户不允许某人购买域名并设置 Cpanels。我不是这个世界上最精通的人，但似乎我们想要“经销商”计划以外的东西。 ​   由   提交 /u/ffirsttimerr   [链接] [评论]]]></description>
+      <description><![CDATA[我和我的朋友意识到我们处于一个独特的位置 - 我们可以接触到成千上万不懂技术但需要技术的潜在客户一个基本的网站，并且有资金可以花费。 我们在技术上都没有足够的能力来有效地建立一个专业的网站，因此我们决定将这项工作外包给开发人员，并将我们的精力集中在业务开发和客户的成功。  我们很难找到能够满足我们一项突出需求的服务。我们正在尝试寻找一个域名+托管服务，允许我们的开发人员社区在我们的主/主帐户下创建自己的帐户。我们可能有多个开发人员同时工作，并希望尽量避免只为单个帐户传递一个登录凭据，更不用说让他们访问我们的付款信息了。  有类似的事情吗？我们研究了 Namecheap 的经销商计划 - 它允许创建“CPanel 帐户” - 但这些帐户不允许某人购买域名并设置 Cpanels。我不是这个世界上最精通的人，但似乎我们想要“经销商”计划以外的东西。 ​   由   提交 /u/ffirsttimerr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</guid>
       <pubDate>Thu, 29 Feb 2024 03:10:03 GMT</pubDate>
     </item>
@@ -50,12 +85,12 @@
     <item>
       <title>帮助使用 Gravatar</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2ofu9/help_with_gravatar/</link>
-      <description><![CDATA[您好 -  我有一个 Wordpress.org&lt; /a&gt; 网站在我的所有帖子上都会显示默认的头像（此处插入图片）。我一辈子都不知道如何插入我的照片。我已询问过 Bluehost，他们将我引导至 Wordpress.com。还是想不通。  帮助？   由   提交/u/Haunting-Distance-79   [链接] [评论]]]></description>
+      <description><![CDATA[您好 -  我有一个Wordpress.org&lt; /a&gt; 网站在我的所有帖子上都会显示默认的 Gravatar（此处插入图片）。我一辈子都不知道如何插入我的照片。我已询问过 Bluehost，他们将我引导至 Wordpress.com。还是想不通。  帮助？   由   提交/u/Haunting-Distance-79   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2ofu9/help_with_gravatar/</guid>
       <pubDate>Thu, 29 Feb 2024 01:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>小企业主寻求建立数据库</title>
+      <title>寻求建立数据库的小企业主</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2nvfk/small_business_owner_seeking_to_build_database/</link>
       <description><![CDATA[我拥有一家房屋检查公司，我希望建立一个网站，以便可以搜索我的检查。我需要能够将 PDF、图片和信息拖放到同一屏幕上。我可以用 Wix、Wordpress 等来做这件事吗？ - 如果有人想通过 DM 告诉我一个小时或报价，那就太棒了。    由   提交/u/rhouston25  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2nvfk/small_business_owner_seeking_to_build_database/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[我的客户想要为他们的网站提供商店定位器，用户可以在其中输入邮政编码并查看其所在地区的商店地图。是否有一个可靠的 WordPress 插件，或者我最好从头开始构建它？    由   提交/u/raybanshee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2n4il/store_locator_for_wordpress_site/</guid>
       <pubDate>Thu, 29 Feb 2024 00:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让网站的标志看起来不模糊？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2mpqo/how_to_make_logo_for_website_not_look_blurry/</link>
-      <description><![CDATA[       由   提交/u/Scared_Fix_9096   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2mpqo/how_to_make_logo_for_website_not_look_blurry/</guid>
-      <pubDate>Thu, 29 Feb 2024 00:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以教我如何发送冷电子邮件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2m60s/can_somebody_please_teach_me_how_to_do_cold_emails/</link>
-      <description><![CDATA[或者可能建议其他一些寻找客户和公司工作的方式。 什么对你有效？ 什么对你有效？ p&gt;   由   提交 /u/FiggyHunter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2m60s/can_somebody_please_teach_me_how_to_do_cold_emails/</guid>
-      <pubDate>Thu, 29 Feb 2024 00:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳导航设计选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2l1jl/best_navigation_design_choice/</link>
-      <description><![CDATA[我在 Web 开发和设计选择方面相对较新，我的任务是将我们当前的 4 个静态网站压缩为一个允许用户访问的网站将所有常用资源集中在一处。其他 4 个站点是由其他早已退休的人建立和维护的。每个网站都有指向其他企业资源的链接，并包含一些组织特定的工具和数据，并且非常过时。 我想使用水平导航栏，因此我正在考虑是否尝试使用大型菜单但我以前从未使用过，并且不确定它是否是实现该目标的最实际选择...... 我估计总共有 20 个左右的 URL 需要分为大约 4 个-5个不同的类别并显示在索引页上。   由   提交 /u/Otherwise-Mammoth865    reddit.com/r/webdev/comments/1b2l1jl/best_navigation_design_choice/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2l1jl/best_navigation_design_choice/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个支持月视图和周视图的日历组件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2kmq5/looking_for_a_calendar_component_that_supports/</link>
-      <description><![CDATA[我发现的大多数日历似乎只支持月视图。有谁知道一个支持两者的好图书馆（付费或免费）？不是在寻找调度程序。只是我可以看到日期，也许还可以添加每天的一些定价信息。   由   提交 /u/tsteuwer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2kmq5/looking_for_a_calendar_component_that_supports/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次使用 Node.JS，试图理解为什么我的程序使用不正确。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2kkva/first_time_nodejs_user_trying_to_understand_why/</link>
-      <description><![CDATA[大家好， 我第一次尝试使用node.js，现在使用anime.js 作为我的第一个图书馆。我使用它来访问我在 HTML 文件中创建的 svg 路径。不幸的是，我没有意识到 Node 只是服务器端并且没有 DOM 元素。 但是，当我查看 anime github page，它给出了使用 npm 进行安装并使用 require 的说明。这也是我想做的，通过 npm 让一切变得简单且易于管理。我的问题是，我做错了什么吗？在我的例子中，DOM 实际上可以与anime.js 一起使用吗？或者我应该只使用经典的脚本标签？或者，有没有办法在没有 Node.js 服务器项目的情况下使用 npm 中的模块（用于管理）？ 提前致谢！   由   提交 /u/ozzonated1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2kkva/first_time_nodejs_user_trying_to_understand_why/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:08:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
