@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 29 Feb 2024 06:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 12:33:01 GMT</lastBuildDate>
     <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2te2a/help/</link>
-      <description><![CDATA[您好，我需要 Marvin 练习方面的帮助，42 Shell 01 ex05 您可以帮助我吗？ .   由   提交/u/Fonsecach24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2te2a/help/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:12:29 GMT</pubDate>
+      <title>我们能比 Fediverse 更加去中心化吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2z026/can_we_get_more_decentralised_than_the_fediverse/</link>
+      <description><![CDATA[ 由   提交/u/lorean_victor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2z026/can_we_get_more_decentralised_than_the_fediverse/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>Mantra.js CSS 游戏引擎 - Alpha Playground</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2sivk/mantrajs_css_game_engine_alpha_playground/</link>
-      <description><![CDATA[ 由   提交/u/_Marak_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2sivk/mantrajs_css_game_engine_alpha_playground/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:24:02 GMT</pubDate>
+      <title>ANY_VALUE 聚合函数：SQL:2023 中的新增功能 — 以及 1999 年以来的更好功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2yy5k/the_any_value_aggregate_function_new_in_sql2023/</link>
+      <description><![CDATA[ 由   提交 /u/MarkusWinand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2yy5k/the_any_value_aggregate_function_new_in_sql2023/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>分布式系统中的时间、时钟和事件顺序</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2s4ly/time_clocks_and_the_ordering_of_events_in_a/</link>
+      <title>Uber 的 CacheFront 每秒可读取 4000 万次，并显着降低延迟</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2yc5k/ubers_cachefront_powers_40m_reads_per_second_with/</link>
+      <description><![CDATA[ 由   提交/u/estiller  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2yc5k/ubers_cachefront_powers_40m_reads_per_second_with/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用更新计划保护变更</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2yb91/safeguarding_changes_using_update_plans/</link>
+      <description><![CDATA[ 由   提交 /u/T_N1ck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2yb91/safeguarding_changes_using_update_plans/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Astrojs 和 Tailwind CSS 创建动态特征网格</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2xjm5/how_to_create_a_dynamic_feature_grid_with_astrojs/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2xjm5/how_to_create_a_dynamic_feature_grid_with_astrojs/</guid>
+      <pubDate>Thu, 29 Feb 2024 10:51:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出可以创建视频游戏的人工智能精灵</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2vru7/google_unveils_genie_ai_which_can_create_video/</link>
+      <description><![CDATA[ 由   提交 /u/brianstoolshed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2vru7/google_unveils_genie_ai_which_can_create_video/</guid>
+      <pubDate>Thu, 29 Feb 2024 08:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫敦促采用内存安全的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2vmsl/white_house_urges_adoption_of_memorysafe/</link>
+      <description><![CDATA[ 由   提交/u/Hopeful_Law_6924   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2vmsl/white_house_urges_adoption_of_memorysafe/</guid>
+      <pubDate>Thu, 29 Feb 2024 08:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何聘请自由职业者，在哪里？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2vkek/how_to_hire_a_freelancer_and_where/</link>
+      <description><![CDATA[嗨，我有一个应用程序的想法，我想开始实施。我在一个简单的 python 脚本中进行了概念验证。我将如何让某人将其制作为应用程序（可能使用节点js或类似的东西）它是一个简单的转换吗？你会建议多长时间（理解这取决于需要做什么……但是大概）以及我如何防止有人只是接受我的想法并将其据为己有？ 是upwork是一个好的起点吗？谢谢   由   提交 /u/nicesliceoice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2vkek/how_to_hire_a_freelancer_and_where/</guid>
+      <pubDate>Thu, 29 Feb 2024 08:32:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 挑战 24：当前时间获取器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2vcmj/python_challenge_24_current_time_getter/</link>
+      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2vcmj/python_challenge_24_current_time_getter/</guid>
+      <pubDate>Thu, 29 Feb 2024 08:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术项目经理的角色</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2v6zt/the_role_of_a_technical_program_manager/</link>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2v6zt/the_role_of_a_technical_program_manager/</guid>
+      <pubDate>Thu, 29 Feb 2024 08:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>乐于聊天 GPT 测试（这会让测试变得更好吗？）</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2uwym/being_nice_to_chatgpt_test_does_that_make_it_work/</link>
+      <description><![CDATA[ 由   提交/u/Uberhipster  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2uwym/being_nice_to_chatgpt_test_does_that_make_it_work/</guid>
+      <pubDate>Thu, 29 Feb 2024 07:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>C 语言的批量哈希计算器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2uv0q/bulk_hash_calculator_in_c/</link>
+      <description><![CDATA[ 由   提交 /u/1B72BF3DFAAD79D9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2uv0q/bulk_hash_calculator_in_c/</guid>
+      <pubDate>Thu, 29 Feb 2024 07:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于开源获得报酬</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2ure8/on_getting_paid_for_open_source/</link>
+      <description><![CDATA[ 由   提交/u/radekmie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2ure8/on_getting_paid_for_open_source/</guid>
+      <pubDate>Thu, 29 Feb 2024 07:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>重写Linux。为了娱乐。谢谢您的帮助！</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2ulz9/rewriting_linux_for_fun_thanks_for_the_help/</link>
+      <description><![CDATA[ 由   提交/u/_ironsides  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2ulz9/rewriting_linux_for_fun_thanks_for_the_help/</guid>
+      <pubDate>Thu, 29 Feb 2024 07:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 如何构建 iCloud 来存储数十亿个数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2u9w9/how_apple_built_icloud_to_store_billions_of/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2s4ly/time_clocks_and_the_ordering_of_events_in_a/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有问题的白痴</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2s1hc/idiot_with_questions/</link>
-      <description><![CDATA[最近观看了一个有人玩所有灵魂游戏的视频，但他们每隔几分钟就会随机交换一次。我想知道这是否是一个为无主之地系列重制的复杂脚本，我不擅长编码，但我假设总体思路只是某种随机暂停游戏和 alt 选项卡的脚本，但我不这样做首先不知道如何开始制作脚本   由   提交/u/detro253  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2s1hc/idiot_with_questions/</guid>
-      <pubDate>Thu, 29 Feb 2024 04:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Amiga 上编码动画“woosh”屏幕</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2ret2/coding_the_anime_woosh_screen_on_amiga/</link>
-      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2ret2/coding_the_anime_woosh_screen_on_amiga/</guid>
-      <pubDate>Thu, 29 Feb 2024 04:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 JavaScript 中的事件传播：冒泡与捕获</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2qgjl/mastering_event_propagation_in_javascript/</link>
-      <description><![CDATA[ 由   提交 /u/Any-Willingness2683   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2qgjl/mastering_event_propagation_in_javascript/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>RSA 看似简单（而且有趣）</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2pu68/rsa_is_deceptively_simple_and_fun/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2pu68/rsa_is_deceptively_simple_and_fun/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 架构对决 - Rest vs graphQL vs gRPC</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2lsme/api_architecture_showdown_rest_vs_graphql_vs_grpc/</link>
-      <description><![CDATA[ 由   提交/u/pedantic-sagan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2lsme/api_architecture_showdown_rest_vs_graphql_vs_grpc/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>改变世界的微小代码片段</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2ktjb/tiny_snippets_of_code_that_changed_the_world/</link>
-      <description><![CDATA[ 由   提交/u/citidotio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2ktjb/tiny_snippets_of_code_that_changed_the_world/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越蜂鸣声和节省睡眠：优化 On-Call 体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2ics9/beyond_the_beep_and_saving_sleep_optimizing_the/</link>
-      <description><![CDATA[ 由   提交 /u/Wirbelwind   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2ics9/beyond_the_beep_and_saving_sleep_optimizing_the/</guid>
-      <pubDate>Wed, 28 Feb 2024 21:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>risor v1.4.0：go 和 defer 关键字、http 服务器和 cli 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2hfxf/risor_v140_go_and_defer_keywords_http_servers_and/</link>
-      <description><![CDATA[ 由   提交/u/mzcr  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2hfxf/risor_v140_go_and_defer_keywords_http_servers_and/</guid>
-      <pubDate>Wed, 28 Feb 2024 21:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 开关控件</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2frw7/an_html_switch_control/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2frw7/an_html_switch_control/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:01:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>BlockLike：弥合块编程和 JavaScript 之间的差距</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2erb4/blocklike_bridging_the_gap_between_block/</link>
-      <description><![CDATA[BlockLike 今天已经 6 岁了。在我看来，教孩子们编码在今天和当时一样重要，尽管不那么流行。   由   提交/u/ronilan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2erb4/blocklike_bridging_the_gap_between_block/</guid>
-      <pubDate>Wed, 28 Feb 2024 19:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程师们，加入早期初创公司在经济上并不值得！</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2e9nq/engineers_joining_an_earlystage_startup_isnt/</link>
-      <description><![CDATA[ 由   提交 /u/buildtechcareer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2e9nq/engineers_joining_an_earlystage_startup_isnt/</guid>
-      <pubDate>Wed, 28 Feb 2024 19:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 代码 2024 年 2 月</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2d6tw/visual_studio_code_february_2024/</link>
-      <description><![CDATA[ 由   提交/u/dwaxe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2d6tw/visual_studio_code_february_2024/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:21:41 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1b2u9w9/how_apple_built_icloud_to_store_billions_of/</guid>
+      <pubDate>Thu, 29 Feb 2024 07:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
