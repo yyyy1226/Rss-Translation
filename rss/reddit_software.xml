@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 01:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 03:22:45 GMT</lastBuildDate>
+    <item>
+      <title>司机都是超级越野车</title>
+      <link>https://www.reddit.com/r/software/comments/1b3hk6e/drivers_are_super_buggy/</link>
+      <description><![CDATA[是的，原始驱动程序可以工作，但上传速度延迟较高，并且其他驱动程序将无法工作，因为 RTWlanE“未启动”驱动程序将 oem.67 更改为 oem.61 这就是我要问的所有问题，如果你能帮忙的话   由   提交/u/spank_bunk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b3hk6e/drivers_are_super_buggy/</guid>
+      <pubDate>Fri, 01 Mar 2024 01:22:18 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsApp 验证</title>
       <link>https://www.reddit.com/r/software/comments/1b3hcea/whatsapp_verification/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找具有滑块来控制风扇速度并超越系统控制（例如微星加力燃烧器）的东西。 该死的风扇是跑来跑去，这让我发疯。我尝试了风扇控制和speedfan，但我不明白如何使用它们。它非常复杂，我正在寻找一种方法来使用滑块查看风扇速度并完成。 感谢任何帮助    ;由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b2us0l/control_speed_of_cpu_fan_with_easy_to_use_software/</guid>
       <pubDate>Thu, 29 Feb 2024 07:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>用什么软件制作手绘图像的视频？</title>
-      <link>https://www.reddit.com/r/software/comments/1b2tt8w/what_software_is_used_for_making_videos_where_a/</link>
-      <description><![CDATA[ 由   提交/u/EmbarrassedLobster37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b2tt8w/what_software_is_used_for_making_videos_where_a/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
