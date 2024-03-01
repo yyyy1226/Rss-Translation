@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 01:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 06:03:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 属于 YX International 的数据库泄露，该公司是一家技术公司，为数百万用户提供路由 [...]</title>
-      <link>https://t.me/hn_summary/76923</link>
-      <description><![CDATA[泄露的数据库泄露了科技巨头的 2FA 代码 
-YX International 是一家每天发送数百万条短信的科技公司，属于该公司的一个泄露数据库暴露了敏感数据，包括 Facebook、谷歌和 TikTok 等科技巨头的一次性安全代码。安全研究人员 Anurag Sen 发现了暴露的数据库，其中包含带有密码和密码重置链接的短信。这一漏洞凸显了依赖短信进行双因素身份验证的潜在风险，因为短信很容易被拦截。在收到 TechCrunch 的警报后，YX International 迅速保护了暴露的数据库，但有关数据可访问多长时间以及还有谁可能访问过这些数据的问题仍然存在。]]></description>
-      <guid>https://t.me/hn_summary/76923</guid>
-      <pubDate>Fri, 01 Mar 2024 01:02:32 GMT</pubDate>
+      <title>[媒体]互联网变成了拥挤的商场。</title>
+      <link>https://t.me/hn_summary/76955</link>
+      <description><![CDATA[互联网变成了一个拥挤的购物中心。现在你需要一家街角商店
+互联网已经从一个小社区变成了一个拥挤的商场，很难脱颖而出。拥有数十亿的网站和内容，想要引起注意是很困难的。解决方案在于创建利基、专注的社区，例如 Facebook 群组或论坛，志趣相投的人可以在其中进行联系。建立 1,000 名忠实粉丝的忠实追随者可以帮助创作者在这个饱和的数字环境中蓬勃发展。关键是找到与受众互动并提供有价值的内容的独特方式。在规模成为问题的世界中，更小、更专注的社区可能是在拥挤的在线空间中脱颖而出的答案。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76955</guid>
+      <pubDate>Fri, 01 Mar 2024 06:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 推出 OfflineLLM，这是一款革命性的 Vision Pro 应用程序，可直接在 [...]</title>
-      <link>https://t.me/hn_summary/76922</link>
-      <description><![CDATA[显示 HN：OfflineLLM – 在设备上运行 TinyLlama 的 Vision Pro 应用&lt; /a&gt;
-隆重推出 OfflineLLM，这是一款革命性的 Vision Pro 应用程序，可直接在您的设备上运行 TinyLlama。该应用程序由 Konrad Gnat 开发，不收集任何数据，优先考虑用户隐私。借助 OfflineLLM，您可以享受先进视觉处理的优势，而无需牺牲您的个人信息。通过这款创新的应用程序探索新的隐私和便利水平。立即在 App Store 上下载，随时随地体验 TinyLlama 的强大功能。]]></description>
-      <guid>https://t.me/hn_summary/76922</guid>
-      <pubDate>Fri, 01 Mar 2024 01:01:27 GMT</pubDate>
+      <title>[媒体] 在一项开创性的判决中，美国法院命令电力制造商 NSO 集团 [...]</title>
+      <link>https://t.me/hn_summary/76954</link>
+      <description><![CDATA[法院命令 Pegasus 间谍软件制造商将代码移交给 WhatsApp
+在一项开创性的裁决中，美国法院命令强大 Pegasus 间谍软件的制造商 NSO Group 将其代码移交给 WhatsApp，作为正在进行的法律斗争的一部分。 WhatsApp 取得这一胜利之前，该公司声称 NSO 的间谍软件被用来攻击其 1,400 名用户。虽然 NSO 反对这一决定，但菲利斯·汉密尔顿法官做出了有利于 WhatsApp 的裁决，命令 NSO 在特定时期内生成所有相关间谍软件代码。 NSO 的 Pegasus 软件以其破解手机和访问敏感信息的能力而闻名。围绕 NSO 客户的争议及其技术的潜在滥用已引起全球关注。]]></description>
+      <guid>https://t.me/hn_summary/76954</guid>
+      <pubDate>Fri, 01 Mar 2024 05:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>在博客文章上注明日期的重要性怎么强调也不为过。</title>
-      <link>https://t.me/hn_summary/76921</link>
-      <description><![CDATA[在您的博文上注明日期 (2014) 
-在博客文章上注明日期的重要性怎么强调也不为过。如果没有时间戳，读者就会对作品创作的背景一无所知。就像了解经典小说的写作时间有助于我们解释其主题一样，了解博客文章的写作时间可以帮助我们了解作者的动机和偏见。无论是技术主题、政治还是科学，内容的价值都与其编写的背景直接相关。因此，下次您撰写博客文章时，请不要忘记注明日期！]]></description>
-      <guid>https://t.me/hn_summary/76921</guid>
-      <pubDate>Fri, 01 Mar 2024 00:56:22 GMT</pubDate>
+      <title>[媒体] 埃克森美孚公司</title>
+      <link>https://t.me/hn_summary/76953</link>
+      <description><![CDATA[埃克森美孚首席执行官指责公众未能解决气候变化问题 
+埃克森美孚公司首席执行官达伦·伍兹将未能解决气候变化问题归咎于公众，并表示客户不愿意为更清洁的化石燃料付费。伍兹认为，碳捕获技术对于向净零排放过渡至关重要，但其价格昂贵，客户负担不起。这种有争议的立场与推动可再生能源的发展相矛盾，可再生能源已经在与化石燃料的竞争中胜出。关于谁负责计算排放量、客户还是化石燃料公司的争论仍然是争论的焦点。伍兹坚持认为最终用户必须为解决气候危机付出代价。]]></description>
+      <guid>https://t.me/hn_summary/76953</guid>
+      <pubDate>Fri, 01 Mar 2024 05:34:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.lisep.org，我们使用 Bure 的数据深入研究了真实失业率 [...]</title>
-      <link>https://t.me/hn_summary/76920</link>
-      <description><![CDATA[真实失业率
-在www.lisep.org，我们深入研究了真实的使用劳工统计局的数据计算失业率。该比率追踪的是美国劳动力中缺乏全职工作、渴望一份全职工作、没有工作或税前年收入低于 25,000 美元的人。这项措施旨在让政策制定者和分析师更准确地了解美国人的财务健康状况。正如可靠的人口普查对于公平的社区资金至关重要一样，准确的经济指标对于制定有效的经济政策也至关重要。 LISEP 的真实失业率为了解美国真实就业状况提供了独特的视角。]]></description>
-      <guid>https://t.me/hn_summary/76920</guid>
-      <pubDate>Fri, 01 Mar 2024 00:55:19 GMT</pubDate>
+      <title>在 Matt Welsh 的文章“编程的终结”中，传统编程的思想是 [...]</title>
+      <link>https://t.me/hn_summary/76952</link>
+      <description><![CDATA[“编程结束”看起来很像编程
+在马特·威尔士 (Matt Welsh) 的《编程的终结》一文中，探讨了传统编程被经过训练而不是编程的人工智能系统取代的想法。 Fixie.ai 的首席执行官威尔士认为，人工智能将超过软件开发任务的责任，导致一个可能不再需要软件开发人员的世界。然而，作者对这一愿景表示怀疑，强调了确保人工智能准确实现业务需求的挑战。本文讨论了人工智能在软件开发中的两个可能的方向，强调了形式化系统行为的重要性以及文化背景和自我意识的需要。最后，作者认为，虽然人工智能可能在自动化中发挥作用，但软件开发固有的复杂性可能需要更深入地了解自动化如何以及何时能够成功。]]></description>
+      <guid>https://t.me/hn_summary/76952</guid>
+      <pubDate>Fri, 01 Mar 2024 04:49:36 GMT</pubDate>
     </item>
     <item>
-      <title>加利福尼亚州的快餐法免除了帕内拉州长的责任。</title>
-      <link>https://t.me/hn_summary/76919</link>
-      <description><![CDATA[加州快餐法豁免帕内拉州长纽瑟姆的关系 
-加州新法律规定快餐店工人最低工资为 20 美元，由于 Panera Bread 和类似连锁店的豁免，据称受到州长纽瑟姆与亿万富翁 Panera 特许经营商格雷格·弗林 (Greg Flynn) 关系的影响，引发了争议。立法者呼吁对该交易进行调查，并指控其偏袒和政治捐赠影响了政策决定。尽管遭到批评者的反对，但豁免仍保留在最终立法中，凸显了立法过程中谈判和妥协的复杂性。纽瑟姆于 2023 年签署的这项法律对新法规下不同企业待遇的公平性和透明度提出了质疑。]]></description>
-      <guid>https://t.me/hn_summary/76919</guid>
-      <pubDate>Fri, 01 Mar 2024 00:54:14 GMT</pubDate>
+      <title>网络内容讨论了对 Netlify 平台和网络带宽限制的担忧 [...]</title>
+      <link>https://t.me/hn_summary/76951</link>
+      <description><![CDATA[如果我超出带宽限制，您可以让我的网站离线吗
+网页内容讨论了对 Netlify 平台带宽限制的担忧，以及由于 DDoS 攻击或流行度突然飙升而超出这些限制的潜在财务影响。用户表示担心因意外的流量激增而被收取数千美元的费用，并质疑缺乏安全网或预警系统。首席执行官向用户保证，免费网站不会在流量高峰期间被关闭，任何合理的错误都将被原谅。争议在于免费套餐帐户缺乏带宽限制以及用户潜在的经济负担。 （根据 72% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76951</guid>
+      <pubDate>Fri, 01 Mar 2024 04:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Struct 是一个革命性的聊天平台，它通过 Combini 重新定义了搜索功能 [...]</title>
-      <link>https://t.me/hn_summary/76918</link>
-      <description><![CDATA[展示 HN：Struct – 以 Feed 为中心的聊天平台
-Struct 是一个革命性的聊天平台，通过将先进的搜索技术与语义分析相结合，重新定义了搜索功能。凭借即时、准确的搜索结果，用户只需按一下按钮即可快速找到所需内容。人工智能生成的摘要和标题提供了上下文和信心，使您更容易跟上并参与对话。 Structbot 利用过去的对话来提供主动答案，由 OpenAI 的 GPT-4 提供支持。该平台的简约设计确保了无干扰的工作环境，并提供键盘快捷键和深色模式以提高效率。 Struct 是聊天平台的未来，人工智能与协作无缝结合。]]></description>
-      <guid>https://t.me/hn_summary/76918</guid>
-      <pubDate>Fri, 01 Mar 2024 00:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“很棒的自闭症技术”项目是与自闭症相关的技术的精选列表[...]</title>
-      <link>https://t.me/hn_summary/76917</link>
-      <description><![CDATA[显示 HN：与自闭症谱系障碍相关的技术精选列表（自闭症谱系障碍（ASD）
-“Awesome Autism Tech”项目是与自闭症谱系障碍 (ASD) 相关的技术的精选列表。它包括新闻、黑客马拉松、数据收集、实践管理、个性化计划、AR/VR 和开源存储库等类别。该项目旨在为自闭症社区的初创公司、开发者和服务提供商提供资源。该项目的与众不同之处在于它专注于专门针对 ASD 量身定制的技术，包括用于治疗的 AR/VR 可穿戴设备以及与自闭症治疗相关的代码的开源存储库。欢迎贡献，该项目由 @hbcondo 维护。]]></description>
-      <guid>https://t.me/hn_summary/76917</guid>
-      <pubDate>Fri, 01 Mar 2024 00:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 跑到登机口赶早班航班？</title>
-      <link>https://t.me/hn_summary/76916</link>
-      <description><![CDATA[跑到登机口赶早班航班？美国现在将把你拒之门外
-美国航空正在更改其候补政策，限制大多数乘客跑到登机口搭乘较早航班的能力。只有顶级忠诚度计划会员才能在登机口申请候补，其他会员则需要至少提前 45 分钟使用自助服务渠道。这一有争议的举措并没有受到顾客的欢迎，他们现在可能会错过提早回家或避免独自在机场过夜的机会。这些变化明显体现了航空公司对节省成本和自动化措施的重视，但这些变化并未向乘客充分宣传。]]></description>
-      <guid>https://t.me/hn_summary/76916</guid>
-      <pubDate>Fri, 01 Mar 2024 00:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：学习你的第 N 种编程语言？</title>
-      <link>https://t.me/hn_summary/76915</link>
-      <description><![CDATA[问 HN：学习你的第 N 种编程语言？&lt; br/&gt;
-标题：问 HN：学习你的第 N 种编程语言？
+      <title>标题：灵活的模式是心灵杀手 – Ludicity</title>
+      <link>https://t.me/hn_summary/76950</link>
+      <description><![CDATA[灵活的模式是致命的——愚蠢
+标题：灵活的模式是心灵杀手 - Ludicity
 
-您是一位经验丰富的开发人员，希望学习新的编程语言，但苦苦寻找超出基础知识的资源吗？ news.ycombinator.com 上的讨论探讨了编译等主题模型、包管理、并发模型等等。用户不是从 HelloWorld 和基本语法开始，而是分享对不同语言独特方面的见解，可以帮助您提高技能。加入对话以发现最常用的语言实现、常见构建工具以及需要注意的未定义行为的来源。通过这次富有洞察力的讨论，将您的编程知识提升到一个新的水平。]]></description>
-      <guid>https://t.me/hn_summary/76915</guid>
-      <pubDate>Fri, 01 Mar 2024 00:11:48 GMT</pubDate>
+在这个扣人心弦的故事中，作者讲述了他们与一位名叫德里克（Derek）的“灵活”模式爱好者的痛苦经历。 Derek 受雇创建一个简单的 CRUD 应用程序，但由于缺乏版本控制、文档和正确的数据库设计，导致了一场史诗般的噩梦。 GitHub 上敏感医疗数据的曝光让作者不寒而栗，突显了软件开发中疏忽的危险。这个故事是关于不受控制的灵活性的危险和勤奋处理数据的重要性的警示故事，它会让您三思而行，让您的项目信任谁。 （根据 65% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76950</guid>
+      <pubDate>Fri, 01 Mar 2024 04:41:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《消费者报告》发现，亚马逊一些最畅销的视频门铃具有 [...]</title>
-      <link>https://t.me/hn_summary/76914</link>
-      <description><![CDATA[亚马逊最畅销的视频门铃没有安全性&lt; br/&gt;
-《消费者报告》发现，亚马逊一些最畅销的视频门铃存在重大安全缺陷，陌生人只需按一下按钮即可将手机与该设备配对。这些门铃以不同品牌出售，但由同一个移动应用程序控制，缺乏基本的安全措施，对隐私构成严重威胁。无需凭据即可访问静态图像的能力尤其令人担忧，这使得潜在的跟踪者很容易在个人不知情的情况下对其进行监视。尽管收到了有关该问题的警报，亚马逊仍继续将这些品牌推荐为亚马逊精选品牌，突显其选择过程缺乏透明度。坚持使用支持 Apple HomeKit 安全视频的摄像头，以获得更好的安全性。]]></description>
-      <guid>https://t.me/hn_summary/76914</guid>
-      <pubDate>Fri, 01 Mar 2024 00:04:42 GMT</pubDate>
+      <title>[媒体]政府监管机构近日对美国进行了一次测试</title>
+      <link>https://t.me/hn_summary/76949</link>
+      <description><![CDATA[政府监管机构入侵美国联邦机构以对其安全性进行压力测试
+政府监管机构最近对美国内政部的云基础设施进行了测试，通过窃取虚假个人数据来检查安全漏洞。测试显示，该部门的网络安全防御无法检测或防止模拟数据泄露，从而使敏感信息面临风险。该报告强调需要改进安全措施以防止未经授权的访问。监察长办公室进行的这项受控实验旨在找出系统中的弱点并提供加强安全性的建议。令人惊讶的是，这次违规行为并不是由真正的对手实施的，而是由政府监管机构本身实施的。]]></description>
+      <guid>https://t.me/hn_summary/76949</guid>
+      <pubDate>Fri, 01 Mar 2024 04:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Docusign 最近令人惊讶地承认，他们使用客户数据来培训 [...]</title>
+      <link>https://t.me/hn_summary/76948</link>
+      <description><![CDATA[Docusign 刚刚承认他们使用客户数据来训练人工智能
+Docusign 最近令人惊讶地承认，他们使用客户数据来训练他们的人工智能技术。这一消息在关注隐私和个人信息安全的用户中引发了争议。 Docusign 决定利用客户数据进行人工智能培训，这引发了有关科技行业数据保护和透明度的重要问题。对于公司来说，向客户坦白其数据的使用方式并在其运营的各个方面优先考虑隐私和安全至关重要。]]></description>
+      <guid>https://t.me/hn_summary/76948</guid>
+      <pubDate>Fri, 01 Mar 2024 04:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]《沙丘》：第二部分规模宏大，非常棒，可以用来保存电影</title>
+      <link>https://t.me/hn_summary/76947</link>
+      <description><![CDATA[沙丘：第二部分巨大，有点伟大，就在这里保存电影
+《沙丘：第二部分》是一部独立的大型续集，导演丹尼斯·维伦纽夫熟练地驾驭了弗兰克·赫伯特小说的复杂叙事。这部电影讲述了赞达亚和蒂莫西·柴勒梅德之间迷人的爱情故事、惊心动魄的兄弟对抗，以及夏洛特·兰普林和克里斯托弗·沃肯等人的精彩表演。跳过第一部分，潜入寒冷的阿拉基斯沙漠星球，因为维伦纽夫的愿景既宏伟又连贯，使这部续集成为必看的电影，有可能拯救电影的未来。]]></description>
+      <guid>https://t.me/hn_summary/76947</guid>
+      <pubDate>Fri, 01 Mar 2024 04:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 亚洲的可再生能源成本已比煤炭便宜 13%，预计将便宜 32% [...]</title>
+      <link>https://t.me/hn_summary/76946</link>
+      <description><![CDATA[公用事业太阳能取代煤炭成为亚洲最便宜的能源
+根据 Wood Mackenzie 的一项研究，亚洲的可再生能源成本已比煤炭便宜 13%，预计到 2030 年将下降 32%。中国在公用事业规模的太阳能、风能和海上风电成本大幅降低方面处于领先地位。到 2023 年，太阳能发电成本将下降 23%，使公用太阳能成为亚太地区 15 个国家中 11 个国家最便宜的能源。分布式太阳能也变得更加经济实惠，到 2023 年将下降 26%。虽然陆上风电的成本高于太阳能，但预计到 2030 年将下降 30%。在亚太市场，海上风电与煤炭和天然气的竞争日益激烈。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/76946</guid>
+      <pubDate>Fri, 01 Mar 2024 04:10:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
