@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 21:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 02:51:19 GMT</lastBuildDate>
     <item>
-      <title>[媒体]全世界有超过 10 亿人肥胖，其中 8.8 亿成年人和 1.59 亿人肥胖。</title>
-      <link>https://t.me/hn_summary/77083</link>
-      <description><![CDATA[研究表明，全球有超过 10 亿人肥胖 
-根据最近的研究，全世界有超过 10 亿人患有肥胖症，其中 8.8 亿成年人和 1.59 亿儿童受到影响。令人震惊的是，汤加和美属萨摩亚等一些岛国的成年人肥胖率高达 70-80%。英国男性肥胖率排名第 55 位，女性肥胖率排名第 87 位。研究还发现，美国男性排名第 10 位，女性排名第 36 位。肥胖率的迅速上升令人震惊，体重不足的成年人比例下降了 50%。世界卫生组织强调需要采取紧急行动应对这一全球健康危机。]]></description>
-      <guid>https://t.me/hn_summary/77083</guid>
-      <pubDate>Fri, 01 Mar 2024 21:16:46 GMT</pubDate>
+      <title>[媒体]俄罗斯联邦安全局最近因成功拦截一名高级格姆而成为头条新闻 [...]</title>
+      <link>https://t.me/hn_summary/77129</link>
+      <description><![CDATA[俄罗斯联邦安全局成功拦截德国空军高层 Webex 通话
+俄罗斯联邦安全局最近因成功拦截德国空军高层 Webex 电话而成为头条新闻。这种安全漏洞引发了人们对在线通信平台容易受到外国监视的担忧。该事件清楚地提醒我们安全通信渠道的重要性，特别是在处理敏感信息时。围绕这一事件的争议凸显了俄罗斯与西方国家之间持续的紧张关系，以及加强网络安全措施以防止未来发生此类违规行为的必要性。]]></description>
+      <guid>https://t.me/hn_summary/77129</guid>
+      <pubDate>Sat, 02 Mar 2024 02:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]阿尔茨海默病长期以来被认为是一种由β-淀粉样蛋白引起的脑部疾病 [...]</title>
-      <link>https://t.me/hn_summary/77082</link>
-      <description><![CDATA[专家透露，阿尔茨海默氏症可能不是一种脑部疾病 
-阿尔茨海默病长期以来一直被认为是一种由β-淀粉样蛋白团块引起的脑部疾病，但新的研究挑战了这一观点。多伦多大学的唐纳德·韦弗博士提出了一个开创性的理论，即阿尔茨海默氏症实际上是一种自身免疫性疾病，大脑的免疫系统错误地攻击脑细胞。这种新的视角为超越传统方法的新治疗方法打开了大门。由于痴呆症影响着全世界数百万人，像这样的创新想法对于解决阿尔茨海默氏症的公共卫生危机至关重要。该文章强调需要更好地了解这种疾病及其病因，以改善对阿尔茨海默病患者的护理。]]></description>
-      <guid>https://t.me/hn_summary/77082</guid>
-      <pubDate>Fri, 01 Mar 2024 21:09:40 GMT</pubDate>
+      <title>[媒体]Epic Games、Spotify 和其他开发商已向欧盟委员会写了一封信 [...]</title>
+      <link>https://t.me/hn_summary/77128</link>
+      <description><![CDATA[Spotify、Epic Games 致 EC 的笔信，声称苹果已做出DMA的“嘲讽”
+Epic Games、Spotify 和其他开发商已致信欧盟委员会，指责苹果嘲弄新的《数字市场法案》(DMA)。苹果的新规则被批评为没有为开发者创造公平的竞争环境，而是引入了阻碍竞争的核心技术费。这封信敦促欧盟委员会对苹果采取行动，以保护开发者。苹果的回应是强调安全和信任，但也面临着改变决定和遵守 DMA 的压力。欧盟委员会已警告苹果等大型科技公司，如果不遵守规定，将会迅速执法。]]></description>
+      <guid>https://t.me/hn_summary/77128</guid>
+      <pubDate>Sat, 02 Mar 2024 02:50:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“Mojo Language Syntax Highing for Vim”项目提供了语法 hi [...]</title>
-      <link>https://t.me/hn_summary/77081</link>
-      <description><![CDATA[显示 HN：Vim 的 Mojo 语言语法突出显示&lt; br/&gt;
-GitHub 上的“Mojo 语言语法突出显示 for Vim”项目为 Vim 中的 Mojo 语言提供了语法突出显示插件。可以通过在 vimrc 文件中添加一行来安装该插件。该项目的目的是让使用 Mojo 语言的开发人员更轻松地在 Vim 中编写和阅读代码。作者提到，该项目与其他项目的不同之处在于，它特别关注 Mojo 语言的语法突出显示，为使用该语言的开发人员提供了专门的工具。]]></description>
-      <guid>https://t.me/hn_summary/77081</guid>
-      <pubDate>Fri, 01 Mar 2024 21:06:35 GMT</pubDate>
+      <title>[媒体] 推出“请勿回复卡”，这是一种表达您不想回复的独特方式 [...]</title>
+      <link>https://t.me/hn_summary/77127</link>
+      <description><![CDATA[显示 HN：不回复卡片
+推出“请勿回复卡”，这是一种独特的方式来传达您不希望收到对您的消息的任何回复，除非收件人对当前主题有直接经验。这些卡片是一种巧妙的解决方案，可以防止不必要的回复并简化沟通。只需在您的消息中添加“请勿回复”卡即可明确您的意图。访问 donotreply.cards 了解有关这一创新通信工具的更多信息。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/77127</guid>
+      <pubDate>Sat, 02 Mar 2024 02:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]返岗还是隐形裁员？</title>
-      <link>https://t.me/hn_summary/77080</link>
-      <description><![CDATA[重返办公室计划还是秘密裁员？为什么不两者都呢？
-科技公司正在裁员，同时坚持要求远程员工返回办公室以提高生产力。戴尔被指控试图通过提供限制员工机会的选择来强迫员工重返办公室，从而迫使他们辞职。亚马逊网络服务公司被指控利用重返办公室强制令将员工赶出公司。一些公司利用 RTO 指令作为启动裁员的一种方式，而无需支付公关和人力资源成本，这可能违反劳动法。 RTO 指令被批评为没有商业意义，并且是无能的管理层寻找员工替罪羊的一种方式。工作的未来在于家庭和灵活的工作。]]></description>
-      <guid>https://t.me/hn_summary/77080</guid>
-      <pubDate>Fri, 01 Mar 2024 21:05:32 GMT</pubDate>
+      <title>达洛尔 (Dallol) 位于埃塞俄比亚东北部，是一个独特的陆地热液系统，因 [...]</title>
+      <link>https://t.me/hn_summary/77126</link>
+      <description><![CDATA[达洛尔
+达洛尔位于埃塞俄比亚东北部，是一个独特的陆地热液系统，以其色彩缤纷的水池和矿物图案而闻名。该地点由阿法尔人命名，以酸性液体、氧化铁、硫磺和盐漠平原为特色。热泉排出盐水和酸性液体，具有极端的物理化学特性，使达洛尔成为地球上为数不多的“多极端”地点之一。最近的研究表明，由于高酸和高盐环境，达洛尔的多重极端池塘中没有生命。该地点的动态性质、不断变化的颜色和不寻常的矿物图案使达洛尔成为天体生物学研究的关键系统。 （根据 72% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77126</guid>
+      <pubDate>Sat, 02 Mar 2024 02:39:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇关于人工智能政治经济学的长文中，作者提出了三个关键观察者[...]</title>
-      <link>https://t.me/hn_summary/77079</link>
-      <description><![CDATA[地图正在吞噬领土：人工智能的政治经济学
-在这篇关于人工智能政治经济学的长文中，作者提出了三个关键观察结果。首先，他们认为大型语言模型（LLM）不是自主参与者，而是既有用又存在问题的“文化技术”。其次，他们讨论了搜索引擎创建的信息地图现在如何吞没他们所描述的领域，从而导致优先考虑利润的扭曲摘要。最后，他们强调了围绕大型科技和知识产权的斗争的转变，左倾活动人士现在不信任谷歌等平台公司。作者建议将法学硕士理解为文化技术可以帮助塑造人工智能的部署和未来发展，并强调在此过程中政治和集体行动的必要性。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77079</guid>
-      <pubDate>Fri, 01 Mar 2024 20:34:20 GMT</pubDate>
+      <title>[媒体]美国人目前在食品上的支出占其收入的比例是 30 年来最大 [...]</title>
+      <link>https://t.me/hn_summary/77125</link>
+      <description><![CDATA[美国人在食品上的支出占收入的比例是 3 年来最大
+目前，美国人在食品上的支出占其收入的比例是 30 年来最大，到 2022 年，超过 11% 的可支配收入将用于食品。尽管失业率较低且工资不断上涨，但这一增长归因于高食品价格和持续的通货膨胀。餐馆价格比去年上涨 5.1%，也导致食品支出增加。劳动力成本，包括 22 个州最低工资的上涨，是推高餐馆和食品制造商价格的关键因素。有专家指出，企业以通胀为借口提价，引发争议和强烈抵制。]]></description>
+      <guid>https://t.me/hn_summary/77125</guid>
+      <pubDate>Sat, 02 Mar 2024 02:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇发人深省的文章中，作者讨论了创始人之间的一个共同趋势，即 [...]</title>
-      <link>https://t.me/hn_summary/77078</link>
-      <description><![CDATA[我买时社会主义，我卖时资本主义&lt; br/&gt;
-在这篇发人深省的文章中，作者讨论了创始人之间的一个共同趋势，即他们在购买产品或服务时主张政府干预，但在销售自己的产品时抵制政府干预。作者强调了这种行为的例子，例如创始人希望政府设定工资的最高零售价和医院的标准手术费率。作者还深入研究了最近围绕谷歌执行应用内计费规则的争议，企业家现在呼吁政府干预以绕过这些规定。作者强调了遵守规则和规定对于在全球竞争中的重要性，并敦促在文化中自我完善。]]></description>
-      <guid>https://t.me/hn_summary/77078</guid>
-      <pubDate>Fri, 01 Mar 2024 20:20:12 GMT</pubDate>
+      <title>[媒体]Threads 是 Instagram 的另类 Twitter 应用程序，以三倍的 [...]</title>
+      <link>https://t.me/hn_summary/77124</link>
+      <description><![CDATA[Threads 拉大了与 X 的差距，iOS 上的每日下载量是其三倍
+Instagram 的另类 Twitter 应用程序 Threads 正在主导市场，其每日下载量是 iOS 上 X（以前的 Twitter）的三倍。尽管早期受到母公司 Meta 的推动，Threads 的下载量一直超过 X，这标志着微博平台的潜在转变。随着 Meta 对 Threads 的编辑控制以及 X 面临的自动化帐户问题，Threads 可能会成为用户选择的平台。 Mastodon 和 Bluesky 等去中心化替代方案正在努力竞争，但 Bluesky 最近的公开发布和联盟开放可能会带来未来的增长。微博霸主之争正在白热化。]]></description>
+      <guid>https://t.me/hn_summary/77124</guid>
+      <pubDate>Sat, 02 Mar 2024 02:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 来自朝鲜的臭名昭著的 Lazarus 集团最近被发现利用零日漏洞 [...]</title>
-      <link>https://t.me/hn_summary/77077</link>
-      <description><![CDATA[Lazarus 组织观察到利用管理员到内核的 Windows 零日漏洞
-来自朝鲜的臭名昭著的 Lazarus 组织最近被发现利用 Windows 零日漏洞进行一系列恶意活动。 Avast 研究人员发现了这一漏洞，微软在二月份的补丁星期二中解决了这个问题。 Lazarus Group 的先进技术不断让专家感到惊讶，他们最新的 Rootkit 在隐秘性和功能性方面显示出显着的进步。此事件凸显了防范内核级攻击的重要性，因为攻击者可以绕过安全措施并访问敏感数据。尽管没有被积极利用，但该漏洞的严重性凸显了老练的攻击者所构成的持续威胁。]]></description>
-      <guid>https://t.me/hn_summary/77077</guid>
-      <pubDate>Fri, 01 Mar 2024 20:18:07 GMT</pubDate>
+      <title>[媒体]《自然》杂志上发表的一项开创性的新研究颠覆了我们对端粒的理解 [...]</title>
+      <link>https://t.me/hn_summary/77123</link>
+      <description><![CDATA[新研究改变了我们对端粒生物学的理解
+《自然》杂志上发表的一项开创性的新研究颠覆了我们对端粒生物学的理解。此前，人们认为端粒酶是末端复制问题的解决方案，但新的研究表明实际上存在两个问题，而不是一个。 CST-Polα-引物酶复合物在解决滞后链末端复制问题中发挥着至关重要的作用，对现有模型提出了挑战。这一发现不仅改变了教科书，而且对患有端粒疾病的个体具有潜在的临床意义。研究结果强调了端粒维持的复杂性，并为研究和治疗开辟了新途径。]]></description>
+      <guid>https://t.me/hn_summary/77123</guid>
+      <pubDate>Sat, 02 Mar 2024 02:26:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界正面临肥胖流行病，目前有超过十亿人患有肥胖症 [...]</title>
-      <link>https://t.me/hn_summary/77076</link>
-      <description><![CDATA[科学家确认世界上现在有超过 1B 的肥胖者 
-世界正面临肥胖流行病，目前有超过 10 亿人患有肥胖症，这一数字自 1990 年以来增加了四倍多。肥胖症的增加对较贫穷国家的影响尤其严重，儿童和青少年的肥胖率增长速度快于成人。这种慢性且复杂的疾病伴随着因心脏病、糖尿病和某些癌症而死亡的更大风险。该研究强调了通过饮食、身体活动和适当护理来预防和控制肥胖的重要性。虽然针对糖尿病的新疗法可以帮助对抗肥胖，但它们并不能解决问题。]]></description>
-      <guid>https://t.me/hn_summary/77076</guid>
-      <pubDate>Fri, 01 Mar 2024 20:17:03 GMT</pubDate>
+      <title>在这篇关于 Bash 调试的文章中，我分享了一些提示和技巧，以帮助您排除故障并修复错误 [...]</title>
+      <link>https://t.me/hn_summary/77122</link>
+      <description><![CDATA[Bash 调试
+在这篇有关 Bash 调试的文章中，我分享了一些提示和技巧，可帮助您排除故障并修复脚本中的错误。从使用 set -x 命令跟踪脚本的执行到使用 echo 命令打印变量和值，我涵盖了调试过程的所有要点更顺畅。无论您是初学者还是经验丰富的 Bash 用户，这些技术都将帮助您快速识别和解决问题。订阅我的时事通讯，每周六都会收到更多类似这样的有用内容！]]></description>
+      <guid>https://t.me/hn_summary/77122</guid>
+      <pubDate>Sat, 02 Mar 2024 02:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克批评 OpenAI 不够开放，引发了人们对 Pote 的担忧 [...]</title>
-      <link>https://t.me/hn_summary/77075</link>
-      <description><![CDATA[OpenAI 对 Elon 来说不够开放
-埃隆·马斯克批评 OpenAI 不够开放，引发了对潜在误导投资者的担忧。有报道称，美国证券交易委员会正在调查此事，OpenAI 创始人 Sam Altman 此前因缺乏坦诚而被解雇。尽管存在争议，但由于 OpenAI 是一个非营利组织，这不太可能构成证券欺诈。非营利组织拥有营利性子公司的独特情况增加了问题的复杂性。 OpenAI 缺乏透明度和内部斗争的故事读起来很有趣。]]></description>
-      <guid>https://t.me/hn_summary/77075</guid>
-      <pubDate>Fri, 01 Mar 2024 19:56:54 GMT</pubDate>
+      <title>boston.conman.org 上网页内容的作者正在尝试将 IEEE-754 f 转换为 [...]</title>
+      <link>https://t.me/hn_summary/77121</link>
+      <description><![CDATA[将 IEEE-754 浮点转换为 Color BASIC 浮点
+boston.conman.org 上网页内容的作者正在尝试将 IEEE-754 浮点转换为 6809 处理器的 Color BASIC 浮点。 Color BASIC 格式早于 IEEE-754 标准，并且不完全兼容。通过使用 IEEE-754 双精度并调整结果值，作者能够获得接近的匹配。 Color BASIC ROM 中的一些浮点常数存在差异，导致计算值存在差异。作者还澄清了 Color BASIC Unraveled II 的作者身份，并讨论了浮点常数的潜在问题。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77121</guid>
+      <pubDate>Sat, 02 Mar 2024 01:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在提及人工智能优化订单积压后，戴尔股价飙升 16% [...]</title>
-      <link>https://t.me/hn_summary/77074</link>
-      <description><![CDATA[提及人工智能服务器积压，戴尔股价上涨 16%
-尽管 2024 财年销售额总体下降，但在提及人工智能优化服务器订单积压后，戴尔股价飙升 16%。该公司对人工智能技术和卓越运营的关注有助于维持稳健的每股收益和出色的现金流。戴尔在人工智能市场中定位良好，其人工智能优化的服务器产品组合需求强劲。人们已经注意到在财报电话会议上讨论人工智能可能带来的通胀影响，因为仅仅提及人工智能就可能导致股价飙升。尽管营业额有所下降，戴尔全年利润仍增长了32%，达到31.95亿美元。]]></description>
-      <guid>https://t.me/hn_summary/77074</guid>
-      <pubDate>Fri, 01 Mar 2024 19:52:49 GMT</pubDate>
+      <title>[媒体] Spotify 终止后我的音乐库会怎样？</title>
+      <link>https://t.me/hn_summary/77120</link>
+      <description><![CDATA[Spotify 终止后我的音乐库会怎样？ （2021）
+在这篇发人深省的文章中，作者反思了过去二十年音乐消费的演变，从 CD 到 Spotify 等流媒体服务。作者努力应对数字音乐图书馆的无常性以及未来是否可访问的不确定性。本文强调了面对技术进步和不断变化的行业格局，保存个人音乐收藏所面临的挑战。作者对失去音乐库的焦虑与流媒体平台提供的便利和庞大的目录并存。最终，这篇文章提出了有关数字音乐收藏的寿命以及听众在数字时代与音乐互动的方式的重要问题。]]></description>
+      <guid>https://t.me/hn_summary/77120</guid>
+      <pubDate>Sat, 02 Mar 2024 01:10:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
