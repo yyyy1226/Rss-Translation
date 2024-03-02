@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 09:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 12:29:40 GMT</lastBuildDate>
+    <item>
+      <title>有没有一些带有无限消息的 NSFV 人工智能聊天？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4mkff/is_there_some_nsfv_ai_chat_with_untilimited/</link>
+      <description><![CDATA[我不介意它没有照片，也没有机会创建你自己的人工智能，但至少可以在没有订阅或无限消息的情况下写作。谢谢:)   由   提交 /u/AccomplishedStick623   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4mkff/is_there_some_nsfv_ai_chat_with_untilimited/</guid>
+      <pubDate>Sat, 02 Mar 2024 11:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇才和 PPO</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4lbp7/wizards_and_ppo/</link>
+      <description><![CDATA[ 由   提交/u/nurgle100  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4lbp7/wizards_and_ppo/</guid>
+      <pubDate>Sat, 02 Mar 2024 10:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>帮我制定一个研究计划</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4jzuz/help_me_make_a_research_proposal/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如何判断 Hugging Face 中法学硕士推理所需的 RAM</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/</link>
-      <description><![CDATA[嘿伙计们，我正在看这个 LLM TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ (https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ/discussions）我似乎看不到任何描述说明推理所需的 RAM 是多少？有谁知道并可以对此提供帮助吗？ 此外，如果您知道这一点，一般来说，您如何找到 Hugging Face 中提供的任何 LLM 进行推理所需的 RAM？我在模型卡中没有看到它们。 如果您知道上述任一答案，我将不胜感激。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我正在看这个 LLM TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ (https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ）和我似乎看不到任何说明说明推理所需的 RAM 是多少？有谁知道并可以对此提供帮助吗？ 此外，如果您知道这一点，一般来说，您如何找到 Hugging Face 中提供的任何 LLM 进行推理所需的 RAM？我在模型卡中没有看到它们。 如果您知道上述任一答案，我将不胜感激。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/</guid>
       <pubDate>Sat, 02 Mar 2024 07:59:10 GMT</pubDate>
     </item>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 埃隆·马斯克起诉OpenAI和山姆·奥尔特曼因“背叛”非营利性人工智能使命。[1] 戴尔股价在超出盈利预期后飙升 15%，理由是对人工智能服务器的需求不断增长。[2] 来自宾夕法尼亚大学和 Vector Institute 的研究人员推出了 DataDreamer：一个开源 Python 库，允许研究人员编写简单的代码来实施强大的 LLM 工作流程。[3 ] 苹果、微软、亚马逊、Alphabet 和 Nvidia 都投资了语音识别软件。这是一只可能呈抛物线走势的人工智能 (AI) 股票。[4] Vimeo 推出新的 AI 视频工具，帮助员工轻松浏览长达数小时的市政厅和培训视频。 [5]  来源：https://bushaicave .com/2024/03/01/3-1-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4dipu/oneminute_daily_ai_news_312024/</guid>
       <pubDate>Sat, 02 Mar 2024 02:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些工作/专业不会被人工智能取代？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4d71s/which_jobs_specialisations_will_not_be_replaced/</link>
-      <description><![CDATA[我不太了解人工智能，但我担心将来我可能会被它取代，并想为工作保障而努力。  哪些工作不会受到人工智能进步的影响？  哪些学位/培训项目现在值得投资，随着人工智能的发展，它们会带来丰厚的利润？    由   提交 /u/CairoChai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4d71s/which_jobs_specialisations_will_not_be_replaced/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:32:02 GMT</pubDate>
     </item>
     <item>
       <title>很棒的 14 分钟。视频介绍了为什么 GroqChip 是迄今为止许多中小型人工智能初创公司的最佳芯片。</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[我一直在尝试使用 ChatGPT 作为辅助工具来帮助我在大学学习数学科目，但我很快意识到这在大学里很糟糕数学。有谁知道任何擅长数学的免费聊天机器人吗？   由   提交 /u/Agent0486_deltaTANGO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b42ses/best_free_ai_for_mathematics/</guid>
       <pubDate>Fri, 01 Mar 2024 19:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI PC 与 Apple M 系列现有产品有何不同？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b41ejj/what_differentiates_an_ai_pc_from_what_apples/</link>
-      <description><![CDATA[我看过很多关于每个 PC 制造商如何致力于构建具有 NPU（神经处理单元）以支持本地推理的 AI PC 的讨论. 这些 NPU 与 Mac 和 iPad 中已有的 M 系列芯片以及 iPhone 中的 A 系列芯片中的 Apple Neural Engine 内核有何不同？ 未来的“AI PC”源自今天的 Mac？   由   提交 /u/lightsd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b41ejj/what_differentiates_an_ai_pc_from_what_apples/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:22:24 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 对 OpenAI 和山姆·奥尔特曼 (Sam Altman) 提起诉讼</title>
