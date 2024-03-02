@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 12:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 15:16:13 GMT</lastBuildDate>
     <item>
-      <title>有没有一些带有无限消息的 NSFV 人工智能聊天？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4mkff/is_there_some_nsfv_ai_chat_with_untilimited/</link>
-      <description><![CDATA[我不介意它没有照片，也没有机会创建你自己的人工智能，但至少可以在没有订阅或无限消息的情况下写作。谢谢:)   由   提交 /u/AccomplishedStick623   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4mkff/is_there_some_nsfv_ai_chat_with_untilimited/</guid>
-      <pubDate>Sat, 02 Mar 2024 11:51:59 GMT</pubDate>
+      <title>埃隆·马斯克宣布与萨姆·奥尔特曼开战</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ppel/elon_musk_has_announced_war_against_sam_altman/</link>
+      <description><![CDATA[阅读全文   由   提交 /u/Agitated-Spell3979    reddit.com/r/ArtificialInteligence/comments/1b4ppel/elon_musk_has_announced_war_against_sam_altman/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ppel/elon_musk_has_announced_war_against_sam_altman/</guid>
+      <pubDate>Sat, 02 Mar 2024 14:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么双子座的记忆力那么差？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ntj1/why_is_geminis_memory_so_bad/</link>
+      <description><![CDATA[我很喜欢 Gemini 的编码能力，但它的记忆力太差了，在 3 个回复后它就忘记了我正在做的项目的背景，而且它让我提醒一下。而 GPT 3.5 会记住我在整个对话中告诉它的所有内容，数十次甚至数百次来回。从技术角度来看，是什么让人工智能具有良好的记忆力或缺乏记忆力？为什么 Google 不采取行动呢？   由   提交/u/FordCEO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ntj1/why_is_geminis_memory_so_bad/</guid>
+      <pubDate>Sat, 02 Mar 2024 13:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>照片编辑器人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ns6m/photo_editor_ai/</link>
+      <description><![CDATA[大家好 我是 AI 新手，我想要一些关于 AI 照片编辑器的建议，比如 Photoshop 生成器填补，但免费。 我愿意尝试任何其他可能存在的内容。有吗？ 如果你不知道有免费的，我需要付多少钱？    由   提交 /u/Soggy-Aspect7614    reddit.com/r/ArtificialInteligence/comments/1b4ns6m/photo_editor_ai/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4ns6m/photo_editor_ai/</guid>
+      <pubDate>Sat, 02 Mar 2024 13:02:17 GMT</pubDate>
     </item>
     <item>
       <title>奇才和 PPO</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[嘿伙计们，我正在看这个 LLM TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ (https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ）和我似乎看不到任何说明说明推理所需的 RAM 是多少？有谁知道并可以对此提供帮助吗？ 此外，如果您知道这一点，一般来说，您如何找到 Hugging Face 中提供的任何 LLM 进行推理所需的 RAM？我在模型卡中没有看到它们。 如果您知道上述任一答案，我将不胜感激。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4j1e0/how_to_tell_the_ram_required_for_inferencing_for/</guid>
       <pubDate>Sat, 02 Mar 2024 07:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 API 实现最佳照片真实感文本到图像？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4huoj/best_photo_realistic_texttoimage_with_api/</link>
-      <description><![CDATA[我个人认为 Midjourney 是目前最好的文本到图像服务，但它没有 API。  对于逼真的图像，提供 API 的最佳替代方案是什么？   由   提交/u/The-Road  /u/The-Road  reddit.com/r/ArtificialInteligence/comments/1b4huoj/best_photo_realistic_texttoimage_with_api/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4huoj/best_photo_realistic_texttoimage_with_api/</guid>
-      <pubDate>Sat, 02 Mar 2024 06:44:49 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 3/1/2024</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[正如标题所示，我应该对使用 AI 感到难过吗？特别是对于一所学校来说，自从去年 ChatGPT 和其他人工智能出现以来，我基本上相信，如果我让自己使用这些工具，我就会降低我的学习成本，并且不会获得我可以从诸如以下项目中获得的技能文本分析和写作。此外，特别是因为学费如此之高，我问自己，获得学位的是人工智能，还是我？我一直坚信这一信念，但最近，既然人工智能已经存在了一段时间，我想知道回避它是否是错误的。人工智能现在是否只是我们未来不可避免的一部分，没有必要试图阻止它？我很想听听其他人的意见。   由   提交/u/Weak_Smell478   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b48u8v/should_i_feel_bad_about_using_ai_like_chatgpt_for/</guid>
       <pubDate>Fri, 01 Mar 2024 23:17:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的免费数学人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b42ses/best_free_ai_for_mathematics/</link>
-      <description><![CDATA[我一直在尝试使用 ChatGPT 作为辅助工具来帮助我在大学学习数学科目，但我很快意识到这在大学里很糟糕数学。有谁知道任何擅长数学的免费聊天机器人吗？   由   提交 /u/Agent0486_deltaTANGO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b42ses/best_free_ai_for_mathematics/</guid>
-      <pubDate>Fri, 01 Mar 2024 19:17:21 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 对 OpenAI 和山姆·奥尔特曼 (Sam Altman) 提起诉讼</title>
