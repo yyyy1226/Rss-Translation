@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 15:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 21:09:09 GMT</lastBuildDate>
     <item>
-      <title>[媒体]世界各地的奢侈品市场现在为富裕人士提供了机会 [...]</title>
-      <link>https://t.me/hn_summary/77187</link>
-      <description><![CDATA[富人的热门新奢侈品：空气 
-世界各地的奢侈品市场现在为富裕的个人提供了在印度的空气过滤室和中国的地下防空洞变成公共呼吸区等空间中购买清洁空气的机会。在纽约，疫情期间人们更加关注空气质量，通风成为重中之重。高端建筑现在配备了可以引入、过滤和净化外部空气的技术，同时在必要时也能与外界隔绝。然而，创造真正清洁的室内空气是一个复杂且成本高昂的过程，需要能够在室外和室内空气之间切换、密封各个公寓，并提供高水平的过滤和消毒技术。]]></description>
-      <guid>https://t.me/hn_summary/77187</guid>
-      <pubDate>Sat, 02 Mar 2024 15:13:17 GMT</pubDate>
+      <title>[媒体] 一名联邦法官以民事藐视法庭罪判处调查记者凯瑟琳·赫里奇 [...]</title>
+      <link>https://t.me/hn_summary/77248</link>
+      <description><![CDATA[记者拒绝透露消息来源，法官判定其构成民事藐视法庭
+调查记者凯瑟琳·赫里奇 (Catherine Herridge) 拒绝透露福克斯新闻报道中有关联邦调查局 (FBI) 调查的一名华裔美国科学家的消息来源，一名联邦法官以民事藐视法庭罪处以民事藐视法庭罪。法官每天处以 800 美元的罚款，直到赫里奇遵守规定，这引发了有关新闻自由和消息来源保护的争议。科学家陈彦平因泄露调查细节而起诉政府，引发了一场新闻诚信与隐私权之间的法律斗争。此案凸显了新闻自由与司法权威之间的微妙平衡，对调查性新闻的未来具有影响。]]></description>
+      <guid>https://t.me/hn_summary/77248</guid>
+      <pubDate>Sat, 02 Mar 2024 21:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] EFF – 我们驾驶飞机飞越旧金山以对抗 E 提案。</title>
-      <link>https://t.me/hn_summary/77186</link>
-      <description><![CDATA[EFF – 我们驾驶飞机飞越旧金山以对抗 E 提案。原因如下
-电子前沿基金会 (EFF) 敦促旧金山民众对 E 提案投反对票，这是一项危险的投票措施，将破坏对旧金山警察局的监督，并允许不受限制地使用监控技术。尽管遭到《旧金山纪事报》的反对和警方的担忧，支持者仍筹集了超过 100 万美元来推动这项有争议的措施。如果通过，E 提案将允许警方在公众不知情或不知情的情况下使用可能有害的技术。 EFF 甚至驾驶飞机飞越城市上空，以提高人们对旧金山 E 提案危险性的认识，对监视国家说“不”，并于 3 月 5 日对 E 提案投反对票。]]></description>
-      <guid>https://t.me/hn_summary/77186</guid>
-      <pubDate>Sat, 02 Mar 2024 14:41:01 GMT</pubDate>
+      <title>Linux From Scratch (LFS) 刚刚发布了 12.1 版本，为 [...]</title>
+      <link>https://t.me/hn_summary/77247</link>
+      <description><![CDATA[Linux from Scratch v12.1 发布
+Linux From Scratch (LFS) 刚刚发布了 12.1 版本，提供了从源代码构建您自己的自定义 Linux 系统的分步说明。该项目包括用于扩展系统的 BLFS、用于自动化的 ALFS 以及拥有古代版本的博物馆等子项目。补丁项目还提供了有用补丁的中央存储库。无论您是经验丰富的 Linux 用户还是想要定制您的系统，Linux From Scratch 都能满足您的需求。准备好利用最新版本进入 DIY Linux 的世界吧！]]></description>
+      <guid>https://t.me/hn_summary/77247</guid>
+      <pubDate>Sat, 02 Mar 2024 21:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>我们忘记的痛苦网站利用 e [...] 深入探讨了编程中被忽视的困难。</title>
-      <link>https://t.me/hn_summary/77185</link>
-      <description><![CDATA[我们忘记的痛苦
-我们忘记的痛苦网站深入研究了编程中被忽视的困难，使用简单的午餐订单应用程序的示例来强调所涉及的复杂性。作者强调需要一个更加用户友好的编程环境，并指出初学者的进入门槛很高。他们讨论了设置开发环境、在线寻求帮助、编写代码、运行代码、管理状态和调试的挑战。文章认为传统的编程工具已经过时，并提出了创新的解决方案，使编程变得更容易、更高效。有争议的方面是对当前编程实践和工具的批评，提倡更加以用户为中心的方法。 （根据 73% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77185</guid>
-      <pubDate>Sat, 02 Mar 2024 14:39:57 GMT</pubDate>
+      <title>[媒体]Gum 是一个用于创建迷人的 shell 脚本和别名的工具，无需编写 [...]</title>
+      <link>https://t.me/hn_summary/77246</link>
+      <description><![CDATA[Gum – 迷人的 shell 脚本工具
+Gum 是一个无需编写任何 Go 代码即可创建迷人的 shell 脚本和别名的工具。它提供了即用型实用程序，只需几行代码即可编写有用的 shell 脚本和点文件别名。 Gum 通过提供高度可配置的组件而脱颖而出，这些组件可以进行定制以适应不同的主题和用例。它包括输入提示、文件选择、微调器、表格、样式、格式化、日志记录等功能。可以使用各种包管理器或直接下载二进制文件轻松安装 Gum。它被设计为嵌入到脚本中并支持广泛的交互以增强 shell 脚本功能。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77246</guid>
+      <pubDate>Sat, 02 Mar 2024 20:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]马斯克薪酬案的律师正在寻求支付 60 亿美元的特斯拉股票费用，作为他们的辩护律师 [...]</title>
-      <link>https://t.me/hn_summary/77184</link>
-      <description><![CDATA[马斯克的律师向特斯拉股票支付 60 亿美元的费用&lt; /a&gt;
-马斯克薪酬案的律师正在寻求 60 亿美元特斯拉股票的费用，作为他们成功辩称埃隆·马斯克 2018 年薪酬方案不合法的报酬。如果获得法官批准，这笔费用将创纪录。律师们说服特拉华州法院撤销马斯克 560 亿美元的薪酬方案，称这对股东不公平。他们要求马斯克获得略高于 11% 的特斯拉股票，价值约为 59.6 亿美元。律师们以特斯拉股票作为报酬，以表明他们的承诺，并避免影响特斯拉的资产负债表。]]></description>
-      <guid>https://t.me/hn_summary/77184</guid>
-      <pubDate>Sat, 02 Mar 2024 14:32:52 GMT</pubDate>
+      <title>该文章讨论了最高法院口头辩论期间围绕第 230 条的混乱 [...]</title>
+      <link>https://t.me/hn_summary/77245</link>
+      <description><![CDATA[如果人们歪曲第 230 条，我们就无法对其进行认真讨论
+本文讨论了最高法院在关于社交媒体内容审核法的口头辩论中围绕第 230 条的混乱。托马斯和戈萨奇法官似乎误解了第 230 条在优先于与其相抵触的州法律方面的作用。该文章批评 Steven Brill 关于第 230 条的错误信息，强调了他的不准确和误导性陈述。 Brill 错误地声称第 230 条赋予社交媒体平台免除所有责任，而实际上它只为第三方内容提供有限的豁免。文章澄清了第 230 条、第一修正案和第四修正案之间的关系，强调了关于第 230 条讨论中准确信息的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77245</guid>
+      <pubDate>Sat, 02 Mar 2024 20:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>Konilo 是一个用 Forth 编写的独特个人计算系统，运行在一个小型虚拟机上 [...]</title>
-      <link>https://t.me/hn_summary/77183</link>
-      <description><![CDATA[Konilo：Forth 的个人计算系统
-Konilo 是一个用 Forth 编写并在微型虚拟计算机上运行的独特个人计算系统。它具有双堆栈架构、64k 内存单元、基于块的数据存储和直接线程 Forth。 Konilo 的最低系统要求较低，包括块编辑器、工具和文档。该系统是开源的，并由 Patreon 上的专门团队提供支持。 Konilo 的发展得益于 Kiyoshi Yoneda、Lobo 等贡献者的慷慨支持。探索 Konilo 的不同个人计算方法。]]></description>
-      <guid>https://t.me/hn_summary/77183</guid>
-      <pubDate>Sat, 02 Mar 2024 14:26:47 GMT</pubDate>
+      <title>问 HN：米斯特拉尔回答他是 GPT，这正常吗？</title>
+      <link>https://t.me/hn_summary/77244</link>
+      <description><![CDATA[问 HN：Mistral 回答他是 GPT 正常吗？
+标题：问 HN：米斯特拉尔回答他是 GPT，这正常吗？
+我最近向 Mistral 询问了他的版本号，他回答说作为 GPT-3.5 模型，他没有传统的模型号。 Mistral 分享说，他是 GPT-3 的改进版本，在更大、更多样化的文本语料库上进行训练，以实现更好的自然语言理解和生成。该人工智能旨在为各种问题和请求提供连贯且相关的响应。令人惊讶的方面是米斯特拉尔的自我意识和传达其在语言处理方面的进步的能力。在此处查看对话屏幕截图：屏幕截图链接。]]></description>
+      <guid>https://t.me/hn_summary/77244</guid>
+      <pubDate>Sat, 02 Mar 2024 20:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]KamilaLisp 是一个功能强大、灵活且简洁的 Lisp，其灵感来自于 Haskell 和 APL，并且 [...]</title>
-      <link>https://t.me/hn_summary/77182</link>
-      <description><![CDATA[KamilaLisp – 一种实用、灵活且简洁的 Lisp&lt; br/&gt;
-KamilaLisp 是一种函数式、灵活且简洁的 Lisp，其灵感来自于 Haskell 和 APL，具有 Actor 编程、数组编程、数学函数、面向对象编程等功能。它允许各种编程范例并包括集成开发环境。与其他软件不同的是，KamilaLisp 提供了广泛的功能，包括符号计算、并行处理、网络和图形操作。该项目正在积极开发中，并制定了概述未来版本的路线图。 KamilaLisp 根据 GNU 通用公共许可证 v3 分发。]]></description>
-      <guid>https://t.me/hn_summary/77182</guid>
-      <pubDate>Sat, 02 Mar 2024 14:24:43 GMT</pubDate>
+      <title>摘要：作者讨论了使用代码重写后手动暂存 hunk 的挑战 [...]</title>
+      <link>https://t.me/hn_summary/77243</link>
+      <description><![CDATA[Git：程序化暂存
+摘要：作者讨论了使用代码重写工具后手动暂存 hunk 的挑战，并提出了一种使用 Expect 工具根据搜索词自动执行暂存过程的解决方案。通过创建名为 git-add-match 的脚本，用户可以轻松地暂存包含特定字符串的块，从而简化清理过程。此外，lobste.rs。这种在 Git 中进行编程暂存的创新方法可以显着提高代码重构工作流程的生产力和效率。]]></description>
+      <guid>https://t.me/hn_summary/77243</guid>
+      <pubDate>Sat, 02 Mar 2024 20:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]俄罗斯航天官员承认俄罗斯航天部门持续漏气 [...]</title>
-      <link>https://t.me/hn_summary/77181</link>
-      <description><![CDATA[俄罗斯承认其空间站部分持续漏气
-俄罗斯航天官员承认国际空间站俄罗斯部分持续漏气，但保证不会对机组人员构成危险。泄漏情况已得到监控，工作人员定期寻找并修复可能的泄漏点。尽管太空前哨站已经老化，但维修和保养仍在继续。令人惊讶的是，空间站各个部分的冷却剂泄漏都是由微小流星体撞击造成的，而不是制造缺陷。在莫斯科在乌克兰的军事行动引发的紧张局势中，俄罗斯与西方在空间站上的持续合作显得尤为突出。 NASA 及其合作伙伴的目标是继续运营该空间站直至 2030 年。]]></description>
-      <guid>https://t.me/hn_summary/77181</guid>
-      <pubDate>Sat, 02 Mar 2024 14:20:38 GMT</pubDate>
+      <title>[媒体]在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现了他的[...]</title>
+      <link>https://t.me/hn_summary/77242</link>
+      <description><![CDATA[梦游作为谋杀辩护
+在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现自己站在垂死的婆婆身边，却不记得自己是如何到达那里的。尽管有证据表明帕克斯参与了犯罪，但他以梦游为由，被判谋杀罪和谋杀未遂罪不成立。这起案件引发了人们对清醒和睡眠之间模糊界限的质疑，以及梦游是否可以用来掩盖谋杀。随着睡眠取证成为一个不断发展的领域，人们正在探索睡眠障碍与犯罪行为之间的联系，从而揭示人类思维的奥秘。]]></description>
+      <guid>https://t.me/hn_summary/77242</guid>
+      <pubDate>Sat, 02 Mar 2024 20:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]数学家终于证明了乔治·波利亚 (George Pólya) 的特征值猜想 [...]</title>
-      <link>https://t.me/hn_summary/77180</link>
-      <description><![CDATA[数学家证明了波利亚关于圆盘特征值的猜想 
-数学家们终于证明了乔治波利亚关于圆盘特征值的猜想，这个问题困扰了数学家 70 年。 Iosif Polterovich 和他的团队去年夏天破解了这个具有挑战性的案例，展示了数学的普遍性。虽然他们的结果主要是理论上的，但证明方法在计算数学中具有潜在的应用。波尔特罗维奇将证明数学猜想比作一项运动，而寻找优雅的解决方案则是一门艺术。这一突破凸显了数学发现的美丽和实用性，强调了找到正确应用的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77180</guid>
-      <pubDate>Sat, 02 Mar 2024 14:08:29 GMT</pubDate>
+      <title>[媒体]随着地方政府再次反击，美国对绿色能源的反抗已经开始 [...]</title>
+      <link>https://t.me/hn_summary/77241</link>
+      <description><![CDATA[美国人对绿色能源的反抗已经开始
+随着地方政府抵制拟议的工业用地，美国对绿色能源的反抗已经开始。保护利益相关者权利（包括动物、植物、水和空气）所需的漫长而复杂的许可程序被视为必要的障碍。气候危言耸听者和全球主义精英推动威权政策以实现气候目标，但在民主国家遇到了阻力。在美国能源行业工作了 40 年的戴维·布莱克蒙 (David Blackmon) 认为，强制的、高额补贴的能源转型侵犯了利益相关者的权利，并且与自由社会不相容。核心难题在于气候目标与个人权利之间的权衡。]]></description>
+      <guid>https://t.me/hn_summary/77241</guid>
+      <pubDate>Sat, 02 Mar 2024 20:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇发人深省的文章中，作者回顾了他们在信息领域的悠久历史[...]</title>
-      <link>https://t.me/hn_summary/77179</link>
-      <description><![CDATA[对内存安全的反动态度
-在这篇发人深省的文章中，作者回顾了他们在信息安全方面的悠久历史以及 C 和 C++ 等编程语言中正在进行的内存安全斗争。尽管人们越来越多地呼吁采用内存安全语言，包括白宫最近的指导，但作者对这是网络安全中最紧迫问题的观点提出了质疑。他们认为，大多数安全事件源于其他漏洞，并且强制转换为内存安全语言可能并不像一些人认为的那么有效。最终，作者质疑这种转变所需的资源是否最好用在网络安全领域的其他地方。]]></description>
-      <guid>https://t.me/hn_summary/77179</guid>
-      <pubDate>Sat, 02 Mar 2024 13:52:22 GMT</pubDate>
+      <title>[媒体]国际能源署（IEA）报告称，全球排放量上升[...]</title>
+      <link>https://t.me/hn_summary/77240</link>
+      <description><![CDATA[IEA：2023 年全球新车销量中有 20% 是电动汽车，这抑制了石油需求
+国际能源署 (IEA) 报告称，如果没有电动汽车、太阳能、风能和核能的增长，过去五年全球排放量的增幅将增加三倍。尽管2023年与能源相关的排放量有所增加，但清洁能源技术的持续扩展有助于遏制这一增长。在可再生能源部署、煤改气和能源效率提高的推动下，发达经济体的排放量出现创纪录的下降。清洁能源的部署限制了对化石燃料的需求，预计到 2023 年，电动汽车将占全球新车销量的 20%，这有助于防止石油需求超过疫情前的水平。]]></description>
+      <guid>https://t.me/hn_summary/77240</guid>
+      <pubDate>Sat, 02 Mar 2024 20:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在一项突破性的发现中，德克萨斯大学埃尔帕索分校的科学家们 [...]</title>
-      <link>https://t.me/hn_summary/77178</link>
-      <description><![CDATA[科学家捕捉到的第一张已知的“迷失鸟类”照片
-在一项突破性的发现中，德克萨斯大学埃尔帕索分校的科学家在刚果民主共和国拍摄到了第一张“迷失之鸟”黄冠盔鵙的照片。在迈克尔·哈维博士的带领下，研究小组徒步穿越伊通布韦地块，不仅发现了这种难以捉摸的鸟类，还重新发现了红腹吱吱蛙。这一发现为该物种在面临采矿和森林砍伐等威胁时生存带来了希望。这次非凡的探险展示了 UTEP 研究工作的全球影响力，并强调了保护在保护独特和濒危物种方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77178</guid>
-      <pubDate>Sat, 02 Mar 2024 13:47:17 GMT</pubDate>
+      <title>在 arxiv.org 上发表的这项观察性研究中，我们探讨了大麻有毒物的影响 [...]</title>
+      <link>https://t.me/hn_summary/77239</link>
+      <description><![CDATA[高期望：编程和大麻中毒的观察研究 
+在 arxiv.org 上发表的这项观察性研究中，我们探讨了其影响大麻中毒对编程性能的影响。与普遍看法相反，我们的研究结果表明，受大麻影响的个体在编码时实际上可能表现出更高水平的创造力和解决问题的能力。这项有争议的研究挑战了工作场所吸毒的传统观念，并开启了关于大麻对认知任务的潜在益处的对话。我们的研究揭示了物质使用和生产力之间的复杂关系，为编程和大麻中毒的交叉点提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/77239</guid>
+      <pubDate>Sat, 02 Mar 2024 20:18:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
