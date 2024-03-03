@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 21:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 03:03:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 一名联邦法官以民事藐视法庭罪判处调查记者凯瑟琳·赫里奇 [...]</title>
-      <link>https://t.me/hn_summary/77248</link>
-      <description><![CDATA[记者拒绝透露消息来源，法官判定其构成民事藐视法庭
-调查记者凯瑟琳·赫里奇 (Catherine Herridge) 拒绝透露福克斯新闻报道中有关联邦调查局 (FBI) 调查的一名华裔美国科学家的消息来源，一名联邦法官以民事藐视法庭罪处以民事藐视法庭罪。法官每天处以 800 美元的罚款，直到赫里奇遵守规定，这引发了有关新闻自由和消息来源保护的争议。科学家陈彦平因泄露调查细节而起诉政府，引发了一场新闻诚信与隐私权之间的法律斗争。此案凸显了新闻自由与司法权威之间的微妙平衡，对调查性新闻的未来具有影响。]]></description>
-      <guid>https://t.me/hn_summary/77248</guid>
-      <pubDate>Sat, 02 Mar 2024 21:09:09 GMT</pubDate>
+      <title>[媒体]已针对苹果提出集体诉讼，指控该公司 [...]</title>
+      <link>https://t.me/hn_summary/77288</link>
+      <description><![CDATA[针对 Apple 5GB iCloud 限制和 iOS 备份限制的集体诉讼
+有人对苹果提起集体诉讼，指控该公司不公平地抬高 iCloud 价格，并限制 iOS 备份只能通过 iCloud 进行管理。该诉讼称，苹果的 5GB 免费存储限制对于大多数用户来说不够，迫使他们购买额外的存储计划。原告声称，苹果对设备备份的限制限制了 iCloud 相对于竞争对手云平台的竞争和优势。主要原告由 Hagens Berman 律师事务所代表，该律师事务所因处理之前针对苹果的集体诉讼而闻名。有兴趣加入诉讼的人可以通过 Hagens Berman 网站进行操作。]]></description>
+      <guid>https://t.me/hn_summary/77288</guid>
+      <pubDate>Sun, 03 Mar 2024 03:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>Linux From Scratch (LFS) 刚刚发布了 12.1 版本，为 [...]</title>
-      <link>https://t.me/hn_summary/77247</link>
-      <description><![CDATA[Linux from Scratch v12.1 发布
-Linux From Scratch (LFS) 刚刚发布了 12.1 版本，提供了从源代码构建您自己的自定义 Linux 系统的分步说明。该项目包括用于扩展系统的 BLFS、用于自动化的 ALFS 以及拥有古代版本的博物馆等子项目。补丁项目还提供了有用补丁的中央存储库。无论您是经验丰富的 Linux 用户还是想要定制您的系统，Linux From Scratch 都能满足您的需求。准备好利用最新版本进入 DIY Linux 的世界吧！]]></description>
-      <guid>https://t.me/hn_summary/77247</guid>
-      <pubDate>Sat, 02 Mar 2024 21:08:06 GMT</pubDate>
+      <title>[媒体]算法思维（第二版）</title>
+      <link>https://t.me/hn_summary/77287</link>
+      <description><![CDATA[算法思维（第二版）
+“《算法思维》（第二版）是面向 C 编程语言学生和软件开发专业人士的全面且用户友好的教学资源。Daniel Zingaro 精选了一系列具有挑战性的编程问题，并对算法和数据结构进行了清晰的解释。这本书受到称赞其详细的分步解决方案和引人入胜的编程竞赛问题选择。关于随机算法的新章节是一个亮点，提供了算法思维的独特视角。行业专业人士和学者的评论强调了这一更新的实践和理论价值。版，使其成为那些希望提高编程技能的人的必读之作。”]]></description>
+      <guid>https://t.me/hn_summary/77287</guid>
+      <pubDate>Sun, 03 Mar 2024 02:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Gum 是一个用于创建迷人的 shell 脚本和别名的工具，无需编写 [...]</title>
-      <link>https://t.me/hn_summary/77246</link>
-      <description><![CDATA[Gum – 迷人的 shell 脚本工具
-Gum 是一个无需编写任何 Go 代码即可创建迷人的 shell 脚本和别名的工具。它提供了即用型实用程序，只需几行代码即可编写有用的 shell 脚本和点文件别名。 Gum 通过提供高度可配置的组件而脱颖而出，这些组件可以进行定制以适应不同的主题和用例。它包括输入提示、文件选择、微调器、表格、样式、格式化、日志记录等功能。可以使用各种包管理器或直接下载二进制文件轻松安装 Gum。它被设计为嵌入到脚本中并支持广泛的交互以增强 shell 脚本功能。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77246</guid>
-      <pubDate>Sat, 02 Mar 2024 20:59:00 GMT</pubDate>
+      <title>[媒体] 介绍我们的最新创新：使用 GPT-4 技术帮助您购买服装 [...]</title>
+      <link>https://t.me/hn_summary/77286</link>
+      <description><![CDATA[显示 HN：使用 GPT-4 购买我喜欢的电影服装和电视节目
+介绍我们的最新创新：使用 GPT-4 技术帮助您从最喜欢的电影和电视节目中购买您喜欢的服装。借助我们的人工智能工具，您可以轻松复制并购买那些在屏幕上吸引您眼球的时尚外观。只需上传一张图片，然后让我们的技术完成剩下的工作。有疑问或反馈吗？请填写我们网站上的表格，我们将与您联系。告别时尚 FOMO，迎接您的梦想衣橱！立即访问 tryon.trydisto.com 尝试一下。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/77286</guid>
+      <pubDate>Sun, 03 Mar 2024 02:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>该文章讨论了最高法院口头辩论期间围绕第 230 条的混乱 [...]</title>
-      <link>https://t.me/hn_summary/77245</link>
-      <description><![CDATA[如果人们歪曲第 230 条，我们就无法对其进行认真讨论
-本文讨论了最高法院在关于社交媒体内容审核法的口头辩论中围绕第 230 条的混乱。托马斯和戈萨奇法官似乎误解了第 230 条在优先于与其相抵触的州法律方面的作用。该文章批评 Steven Brill 关于第 230 条的错误信息，强调了他的不准确和误导性陈述。 Brill 错误地声称第 230 条赋予社交媒体平台免除所有责任，而实际上它只为第三方内容提供有限的豁免。文章澄清了第 230 条、第一修正案和第四修正案之间的关系，强调了关于第 230 条讨论中准确信息的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77245</guid>
-      <pubDate>Sat, 02 Mar 2024 20:57:57 GMT</pubDate>
+      <title>[媒体]世界上最大的机场，位于沙特阿拉伯利雅得的萨勒曼国王国际机场 [...]</title>
+      <link>https://t.me/hn_summary/77285</link>
+      <description><![CDATA[最大机场将于 2030 年开放，拥有 6 条跑道，每年接待 1.2 亿乘客
+世界上最大的机场——位于沙特阿拉伯利雅得的萨勒曼国王国际机场将于 2030 年投入使用，拥有 6 条跑道，每年可容纳 1.2 亿乘客。该机场占地 57 平方公里，设有娱乐设施和零售空间。该机场由福斯特建筑事务所设计，旨在打造一个注重客户体验和创新的“航空大都市”。尽管该地区冲突不断，但前往利雅得的旅行被认为是安全的。此外，波兰和意大利等其他国家也在开发新机场，以增强连通性和旅客增长。]]></description>
+      <guid>https://t.me/hn_summary/77285</guid>
+      <pubDate>Sun, 03 Mar 2024 02:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：米斯特拉尔回答他是 GPT，这正常吗？</title>
-      <link>https://t.me/hn_summary/77244</link>
-      <description><![CDATA[问 HN：Mistral 回答他是 GPT 正常吗？
-标题：问 HN：米斯特拉尔回答他是 GPT，这正常吗？
-我最近向 Mistral 询问了他的版本号，他回答说作为 GPT-3.5 模型，他没有传统的模型号。 Mistral 分享说，他是 GPT-3 的改进版本，在更大、更多样化的文本语料库上进行训练，以实现更好的自然语言理解和生成。该人工智能旨在为各种问题和请求提供连贯且相关的响应。令人惊讶的方面是米斯特拉尔的自我意识和传达其在语言处理方面的进步的能力。在此处查看对话屏幕截图：屏幕截图链接。]]></description>
-      <guid>https://t.me/hn_summary/77244</guid>
-      <pubDate>Sat, 02 Mar 2024 20:56:53 GMT</pubDate>
+      <title>问 HN：您日常使用什么笔记本电脑来驱动 Linux？</title>
+      <link>https://t.me/hn_summary/77284</link>
+      <description><![CDATA[问HN：你日常使用什么笔记本电脑来驱动Linux？&lt; /a&gt;
+正在寻找一台笔记本电脑来日常运行 Linux？避免像我使用 Dell XPS 15 时那样令人头痛的 Nvidia 显卡问题。许多用户推荐 AMD 笔记本电脑以获得更流畅的 Linux 体验。在 HN 上分享您首选的 Linux 笔记本电脑并加入讨论！]]></description>
+      <guid>https://t.me/hn_summary/77284</guid>
+      <pubDate>Sun, 03 Mar 2024 02:16:39 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：作者讨论了使用代码重写后手动暂存 hunk 的挑战 [...]</title>
-      <link>https://t.me/hn_summary/77243</link>
-      <description><![CDATA[Git：程序化暂存
-摘要：作者讨论了使用代码重写工具后手动暂存 hunk 的挑战，并提出了一种使用 Expect 工具根据搜索词自动执行暂存过程的解决方案。通过创建名为 git-add-match 的脚本，用户可以轻松地暂存包含特定字符串的块，从而简化清理过程。此外，lobste.rs。这种在 Git 中进行编程暂存的创新方法可以显着提高代码重构工作流程的生产力和效率。]]></description>
-      <guid>https://t.me/hn_summary/77243</guid>
-      <pubDate>Sat, 02 Mar 2024 20:51:48 GMT</pubDate>
+      <title>[媒体] 在 tylercipriani.com 上的这篇文章中，作者分享了他们对永恒的解决方案 [...]</title>
+      <link>https://t.me/hn_summary/77283</link>
+      <description><![CDATA[永恒的 Bash 历史
+在 tylercipriani.com 上的这篇文章中，作者分享了他们的解决方案历史上丢失重要 bash 命令的永恒斗争。通过将超过 750,000 行 bash 历史记录存储在一个名为 ~/.muhhistory 的 102MB 文件中，他们创建了自 2016 年以来的可搜索存档。他们还引入了一个名为 hist 的命令来搜索这段广泛的历史记录。作者解释了他们如何使用 PROMPTCOMMAND 变量保存历史记录，并讨论了他们系统的权衡和问题，强调了谨慎注意安全性的必要性以及使用 bash 内置历史记录的局限性。他们还提供了对 McFly 和 Atuin 等替代解决方案的见解。]]></description>
+      <guid>https://t.me/hn_summary/77283</guid>
+      <pubDate>Sun, 03 Mar 2024 02:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现了他的[...]</title>
-      <link>https://t.me/hn_summary/77242</link>
-      <description><![CDATA[梦游作为谋杀辩护
-在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现自己站在垂死的婆婆身边，却不记得自己是如何到达那里的。尽管有证据表明帕克斯参与了犯罪，但他以梦游为由，被判谋杀罪和谋杀未遂罪不成立。这起案件引发了人们对清醒和睡眠之间模糊界限的质疑，以及梦游是否可以用来掩盖谋杀。随着睡眠取证成为一个不断发展的领域，人们正在探索睡眠障碍与犯罪行为之间的联系，从而揭示人类思维的奥秘。]]></description>
-      <guid>https://t.me/hn_summary/77242</guid>
-      <pubDate>Sat, 02 Mar 2024 20:32:38 GMT</pubDate>
+      <title>[媒体]本文探讨了使用序列微积分作为编译的中间语言[...]</title>
+      <link>https://t.me/hn_summary/77282</link>
+      <description><![CDATA[作为编译器中间语言的序列微积分 (2016) [pdf]( https://news.ycombinator.com/item?id=39570423)
+本文探讨了序列微积分作为编译器中间语言的使用，并将其与流行的 λ 微积分进行了比较。作者介绍了 Sequent Core，一种基于 Sequent Calculus 的类型化演算，并在 Glasgow Haskell 编译器中实现了它。令人惊讶的是，Sequent Core 在优化方面优于现有的 Core 语言，特别是在处理连接点方面。该语言类似于延续传递风格，为编译器带来控制流和延续，而不妨碍现有的优化。作者希望将顺序微积分引入编译器设计领域，为函数式编程语言和中间表示技术提供新的视角。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77282</guid>
+      <pubDate>Sun, 03 Mar 2024 02:08:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着地方政府再次反击，美国对绿色能源的反抗已经开始 [...]</title>
-      <link>https://t.me/hn_summary/77241</link>
-      <description><![CDATA[美国人对绿色能源的反抗已经开始
-随着地方政府抵制拟议的工业用地，美国对绿色能源的反抗已经开始。保护利益相关者权利（包括动物、植物、水和空气）所需的漫长而复杂的许可程序被视为必要的障碍。气候危言耸听者和全球主义精英推动威权政策以实现气候目标，但在民主国家遇到了阻力。在美国能源行业工作了 40 年的戴维·布莱克蒙 (David Blackmon) 认为，强制的、高额补贴的能源转型侵犯了利益相关者的权利，并且与自由社会不相容。核心难题在于气候目标与个人权利之间的权衡。]]></description>
-      <guid>https://t.me/hn_summary/77241</guid>
-      <pubDate>Sat, 02 Mar 2024 20:20:31 GMT</pubDate>
+      <title>在本文中，作者认为初创企业不应回避挑战垄断 [...]</title>
+      <link>https://t.me/hn_summary/77281</link>
+      <description><![CDATA[更多初创公司应该挑战垄断
+在本文中，作者认为初创企业不应回避挑战其行业的垄断地位。作者根据播客和有声读物的个人经验，强调了具有挑战性的老牌玩家如何能够带来创新、市场增长和消费者利益。作者强调，垄断企业通常效率低下，缺乏创新动力，因此很容易被敏捷初创企业颠覆。通过打破垄断所设置的障碍，初创企业可以创造更健康的市场、更好的产品，并最终创造更快乐的消费者。文章鼓励创始人拥抱竞争，不要害怕挑战现状。]]></description>
+      <guid>https://t.me/hn_summary/77281</guid>
+      <pubDate>Sun, 03 Mar 2024 02:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国际能源署（IEA）报告称，全球排放量上升[...]</title>
-      <link>https://t.me/hn_summary/77240</link>
-      <description><![CDATA[IEA：2023 年全球新车销量中有 20% 是电动汽车，这抑制了石油需求
-国际能源署 (IEA) 报告称，如果没有电动汽车、太阳能、风能和核能的增长，过去五年全球排放量的增幅将增加三倍。尽管2023年与能源相关的排放量有所增加，但清洁能源技术的持续扩展有助于遏制这一增长。在可再生能源部署、煤改气和能源效率提高的推动下，发达经济体的排放量出现创纪录的下降。清洁能源的部署限制了对化石燃料的需求，预计到 2023 年，电动汽车将占全球新车销量的 20%，这有助于防止石油需求超过疫情前的水平。]]></description>
-      <guid>https://t.me/hn_summary/77240</guid>
-      <pubDate>Sat, 02 Mar 2024 20:19:27 GMT</pubDate>
+      <title>[媒体] 在一个宣传和阴谋论猖獗的世界里，塞夫顿·德尔默的反 [...]</title>
+      <link>https://t.me/hn_summary/77280</link>
+      <description><![CDATA[从二战中塞夫顿·德尔默的反纳粹宣传中吸取的教训
+在一个宣传和阴谋论猖獗的世界里，塞夫顿·德尔默在二战期间的反纳粹宣传工作提供了宝贵的教训。德尔默的创新策略，包括创建假广播电台和利用心理洞察力，吸引了德国观众并削弱了希特勒政权。通过了解观众的兴趣和需求，德尔默能够有效地突破纳粹的宣传。然而，创造“袜子傀儡”媒体可能会适得其反，正如人们对他的作品的负面反应所示。德尔默与观众世界互动并提供相关信息的方法至今仍然具有现实意义，正如在乌克兰接触俄罗斯观众的努力所体现的那样。最终，理解受众并与受众互动是对抗宣传的关键。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77280</guid>
+      <pubDate>Sun, 03 Mar 2024 02:06:20 GMT</pubDate>
     </item>
     <item>
-      <title>在 arxiv.org 上发表的这项观察性研究中，我们探讨了大麻有毒物的影响 [...]</title>
-      <link>https://t.me/hn_summary/77239</link>
-      <description><![CDATA[高期望：编程和大麻中毒的观察研究 
-在 arxiv.org 上发表的这项观察性研究中，我们探讨了其影响大麻中毒对编程性能的影响。与普遍看法相反，我们的研究结果表明，受大麻影响的个体在编码时实际上可能表现出更高水平的创造力和解决问题的能力。这项有争议的研究挑战了工作场所吸毒的传统观念，并开启了关于大麻对认知任务的潜在益处的对话。我们的研究揭示了物质使用和生产力之间的复杂关系，为编程和大麻中毒的交叉点提供了新的视角。]]></description>
-      <guid>https://t.me/hn_summary/77239</guid>
-      <pubDate>Sat, 02 Mar 2024 20:18:23 GMT</pubDate>
+      <title>[媒体] Z世代俚语在不断演变，新术语不断涌现。</title>
+      <link>https://t.me/hn_summary/77279</link>
+      <description><![CDATA[Z世代俚语列表
+Z 世代俚语在不断演变，新术语不断涌现。从“af”到“boujee”再到“drip”，这个列表涵盖了当今年轻人使用的最新俚语。一些术语，如“BDE”和“clapback”，已经广泛流行，而其他术语，如“fanum Tax”，则更为小众。无论您是想跟上最新趋势还是只是想了解孩子们在说什么，此列表都能满足您的需求。因此，下次当您听到有人说“下注”或“额外”时，您就会确切地知道他们的意思。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77279</guid>
+      <pubDate>Sun, 03 Mar 2024 02:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
