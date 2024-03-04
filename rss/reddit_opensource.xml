@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 03:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 07:09:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有适用于 Gear S2 的三星手表应用程序的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/</link>
+      <description><![CDATA[三星的官方手表应用程序似乎无法与 microG 配合使用（说我缺少 gear s 插件），是否有任何开源替代方案？ Gadgetbridge 似乎不支持它。 我使用的是运行 crDroid 9 (android 13) 的 Samsung Galaxy S6。 Watch 是一款 Samsung Gear S2，运行最新的 Tizen。   由   提交/u/Lost-Entrepreneur439  /u/Lost-Entrepreneur439 reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/</guid>
+      <pubDate>Mon, 04 Mar 2024 04:39:51 GMT</pubDate>
+    </item>
     <item>
       <title>对于想要获得工作荣誉的个人来说，是否有任何理由期望获得许可合规性？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/gsilvamartin   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b4coyg/github_gsilvamartindotnetgeminisdk_net_sdk_for/</guid>
       <pubDate>Sat, 02 Mar 2024 02:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大会偷走所有拥有开源技能的移民吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b47i5h/will_canada_steal_all_the_immigrants_with_open/</link>
-      <description><![CDATA[这个文章涵盖了加拿大的一项提案，该提案根据潜在移民的开源贡献给予积分。该提案的显着特点之一是，对开源项目相对有限的贡献为全球社区提供了巨大的价值。来自论文，它是基于 - 即使是 Open Office 的平均贡献者也做了类似 0.00716 的事情代码产生的价值在 $94,089 – $134 万之间！   由   提交 /u/OpenSustainability   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b47i5h/will_canada_steal_all_the_immigrants_with_open/</guid>
-      <pubDate>Fri, 01 Mar 2024 22:24:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
