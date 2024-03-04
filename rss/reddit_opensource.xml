@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 01:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 03:47:53 GMT</lastBuildDate>
     <item>
       <title>对于想要获得工作荣誉的个人来说，是否有任何理由期望获得许可合规性？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</link>
-      <description><![CDATA[我的灵感来自于 /u/Qwert-4 的主题 以及我最近经历的事件。 一些不良行为者通过忽视许可条款滥用了我在开源许可下发布的内容，最重要的是归属条款。我不知道美国以外的情况如何，但为此类许可违规行为寻求法律补救措施可能会付出高昂的代价。我认为众所周知，许多人在开源许可下发布内容并没有从此类内容中赚到很多钱，因此执行许可条款并不经济。 也许我&#39;我遗漏了一些东西，但如果您不打算投入必要的资金来执行这些条款，我很难找到使用这些许可证的理由。似乎优秀的演员都希望避免抄袭带来的道德问题，并且无论许可如何，都希望将功劳归功于原创者。坏演员将继续是坏演员，您仍然可以指责他们的行为不道德。   由   提交 /u/TomOwens   [链接] [评论]]]></description>
+      <description><![CDATA[我的灵感来自于 /u/Qwert-4 的主题 以及我最近经历的事件。 一些不良行为者通过忽视许可条款滥用了我在开源许可下发布的内容，最重要的是归属条款。我不知道美国以外的情况如何，但为此类许可违规行为寻求法律补救措施可能会付出高昂的代价。我认为众所周知，许多人在开源许可下发布内容并没有从此类内容中赚到很多钱，因此执行许可条款并不经济。 也许我&#39;我遗漏了一些东西，但如果您不打算投入必要的资金来执行这些条款，我很难找到使用这些许可证的理由。似乎优秀的演员都希望避免抄袭带来的道德问题，并且无论许可如何，都希望将功劳归功于原创者。坏演员将继续是坏演员，你仍然可以指责他们的行为不道德。 编辑：我不小心在最后删掉了几句话，但我很好奇为什么人们应该这样做如果 CC0、MIT-0、0BSD 或 The Unlicense 等替代方案与个人执行许可证的方式更加一致，则不喜欢这些替代方案，这意味着他们无论如何都无法采取任何执法行动。    由   提交 /u/TomOwens   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</guid>
       <pubDate>Mon, 04 Mar 2024 01:15:09 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>Microsoft Fluent Emoji：动画版本是否包含在开源中？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</link>
-      <description><![CDATA[您好，我知道开源 Fluent Emoji 存在某些例外情况（clippy、世界国旗、某些使用 Microsoft 品牌的表情符号等），但是我很好奇 3D 动画版本是否也是开源的？ 3D 动画版本参考此处。我不相信这些在原始的 MSFT GitHub 存储库中，但它们列在 Emojipedia 上，所以我只是想确认一下。谢谢！   由   提交 /u/SkinADeer   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我知道开源 Fluent Emoji 存在某些例外情况（clippy、世界国旗、某些使用 Microsoft 品牌的表情符号等），但是我很好奇 3D 动画版本是否也是开源的？ 3D 动画版本参考此处。我不相信这些在原始的 MSFT GitHub 存储库中，但它们列在 Emojipedia 上，所以我只想确认一下。谢谢！   由   提交 /u/SkinADeer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</guid>
       <pubDate>Sat, 02 Mar 2024 02:54:35 GMT</pubDate>
     </item>
