@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 04 Mar 2024 15:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 21:16:57 GMT</lastBuildDate>
     <item>
-      <title>Golang 中预分配 Slice 内存对性能的影响</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6cxjl/the_impact_of_preallocating_slice_memory_on/</link>
-      <description><![CDATA[ 由   提交 /u/oilbeater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6cxjl/the_impact_of_preallocating_slice_memory_on/</guid>
-      <pubDate>Mon, 04 Mar 2024 14:58:35 GMT</pubDate>
+      <title>无生命周期的借用检查</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6mfow/borrow_checking_without_lifetimes/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6mfow/borrow_checking_without_lifetimes/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>迅速隐藏的宝石💎</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6bm7p/swift_hidden_gems/</link>
-      <description><![CDATA[探索 Swift 的未知领域！ Swift 开发者：不要错过这篇隐藏的宝石文章！立即查看！   由   提交/u/iamankurjain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6bm7p/swift_hidden_gems/</guid>
-      <pubDate>Mon, 04 Mar 2024 14:02:24 GMT</pubDate>
+      <title>嵌入式系统的 Rust：现状、挑战和未解决的问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6mfmt/rust_for_embedded_systems_current_state/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6mfmt/rust_for_embedded_systems_current_state/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>闪光版本1</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6b7n7/gleam_version_1/</link>
-      <description><![CDATA[ 由   提交/u/avinassh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6b7n7/gleam_version_1/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:44:10 GMT</pubDate>
+      <title>Revy – Bevy 游戏引擎的概念验证时间旅行调试器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6mf4d/revy_proofofconcept_timetravel_debugger_for_the/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6mf4d/revy_proofofconcept_timetravel_debugger_for_the/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>通过避免模拟来提高测试保真度</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6b6rg/increase_test_fidelity_by_avoiding_mocks/</link>
-      <description><![CDATA[ 由   提交/u/ghled  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6b6rg/increase_test_fidelity_by_avoiding_mocks/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:42:56 GMT</pubDate>
+      <title>Polaris：Golang 中的工作流程编排器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6mf2l/polaris_workflow_orchestrator_in_golang/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6mf2l/polaris_workflow_orchestrator_in_golang/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>vince,vince 是 Google Analytics 的高性能、仅 API、分布式、内存中替代品,下载vince的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6akaf/github_vinceanalyticsvince_vince_is_a_high/</link>
-      <description><![CDATA[ 由   提交/u/gernest_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6akaf/github_vinceanalyticsvince_vince_is_a_high/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:11:58 GMT</pubDate>
+      <title>使用 Linux Flowtable 提高网络性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6medj/improving_network_performance_with_linux/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6medj/improving_network_performance_with_linux/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:14:54 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用对象关系映射器而不学习 SQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6af5o/how_to_use_an_object_relational_mapper_and_never/</link>
-      <description><![CDATA[ 由   提交/u/mixteenth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6af5o/how_to_use_an_object_relational_mapper_and_never/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:04:39 GMT</pubDate>
+      <title>寻找缺失的数据类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6me0t/the_hunt_for_the_missing_data_type/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6me0t/the_hunt_for_the_missing_data_type/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:14:31 GMT</pubDate>
     </item>
     <item>
-      <title>POV：您是 QA 手动 rn，想切换到自动化，您会选择哪种语言）？</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6ae6y/pov_you_are_qa_manual_rn_and_want_to_switch_to/</link>
-      <description><![CDATA[ 由   提交 /u/Rommchikk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6ae6y/pov_you_are_qa_manual_rn_and_want_to_switch_to/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:03:21 GMT</pubDate>
+      <title>EC2 中的节点应用程序部署</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6lh1w/node_app_deployment_in_ec2/</link>
+      <description><![CDATA[ 由   提交/u/kyprogramming  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6lh1w/node_app_deployment_in_ec2/</guid>
+      <pubDate>Mon, 04 Mar 2024 20:37:43 GMT</pubDate>
     </item>
     <item>
-      <title>离开 LinkedIn：选择卓越工程而不是权宜之计</title>
-      <link>https://www.reddit.com/r/programming/comments/1b69ntl/leaving_linkedin_choosing_engineering_excellence/</link>
-      <description><![CDATA[ 由   提交/u/agbell  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b69ntl/leaving_linkedin_choosing_engineering_excellence/</guid>
-      <pubDate>Mon, 04 Mar 2024 12:24:23 GMT</pubDate>
+      <title>使用 Emscripten 和 VSCode 进行 WASM 调试</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6l63t/wasm_debugging_with_emscripten_and_vscode/</link>
+      <description><![CDATA[ 由   提交/u/waozen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6l63t/wasm_debugging_with_emscripten_and_vscode/</guid>
+      <pubDate>Mon, 04 Mar 2024 20:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>SQLC - 将 SQL 查询转换为 GO 代码 - 第 07 部分 - SQLLC 配置和自定义 [pt-br]</title>
-      <link>https://www.reddit.com/r/programming/comments/1b69bxf/sqlc_transformando_sql_queries_em_código_go_parte/</link>
-      <description><![CDATA[ 由   提交/u/robsongomes84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b69bxf/sqlc_transformando_sql_queries_em_código_go_parte/</guid>
-      <pubDate>Mon, 04 Mar 2024 12:06:36 GMT</pubDate>
+      <title>人工智能应用的高级架构（AKA AAAA！）</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6kyu7/advanced_architecture_for_ai_application_aka_aaaa/</link>
+      <description><![CDATA[ 由   提交 /u/Stegosource   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6kyu7/advanced_architecture_for_ai_application_aka_aaaa/</guid>
+      <pubDate>Mon, 04 Mar 2024 20:17:36 GMT</pubDate>
     </item>
     <item>
-      <title>本机、混合、跨平台开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1b690im/native_vs_hybrid_vs_crossplatform_development/</link>
-      <description><![CDATA[ 由   提交 /u/Slight-Astronaut-737   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b690im/native_vs_hybrid_vs_crossplatform_development/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:48:48 GMT</pubDate>
+      <title>艾尔到底是什么鬼？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6kkhj/what_the_hell_is_elle/</link>
+      <description><![CDATA[ 由   提交/u/MarqWilliams  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6kkhj/what_the_hell_is_elle/</guid>
+      <pubDate>Mon, 04 Mar 2024 20:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用输入动作的 Unity 状态机战斗功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1b68tq4/unity_state_machine_combat_feature_using_input/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b68tq4/unity_state_machine_combat_feature_using_input/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:37:26 GMT</pubDate>
+      <title>每个开发人员都应该了解的数据库知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6k82j/what_every_developer_should_know_about_databases/</link>
+      <description><![CDATA[ 由   提交/u/inelp  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6k82j/what_every_developer_should_know_about_databases/</guid>
+      <pubDate>Mon, 04 Mar 2024 19:47:33 GMT</pubDate>
     </item>
     <item>
-      <title>PostgreSQL：保护表免遭意外删除</title>
-      <link>https://www.reddit.com/r/programming/comments/1b68nmy/postgresql_protect_tables_against_accidental/</link>
-      <description><![CDATA[ 由   提交/u/stjohn_piano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b68nmy/postgresql_protect_tables_against_accidental/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:27:14 GMT</pubDate>
+      <title>使用 Golang 和 Goroutines 加速快速排序📈📈！ 🌟</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6htu3/quickening_quick_sort_with_golang_and_its/</link>
+      <description><![CDATA[ 由   提交/u/JrJaro18  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6htu3/quickening_quick_sort_with_golang_and_its/</guid>
+      <pubDate>Mon, 04 Mar 2024 18:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>CNCF 调查：一半组织在 Kubernetes 上花费更多，主要是由于过度配置</title>
-      <link>https://www.reddit.com/r/programming/comments/1b68jsa/cncf_survey_half_of_organizations_spend_more_with/</link>
-      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b68jsa/cncf_survey_half_of_organizations_spend_more_with/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:20:41 GMT</pubDate>
+      <title>用 Rust 编写最快的*小型 matmul</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6h5vb/writing_the_fastest_tiny_matmul_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/reflexpr-sarah-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6h5vb/writing_the_fastest_tiny_matmul_in_rust/</guid>
+      <pubDate>Mon, 04 Mar 2024 17:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>Python 集合和元组：包含 10 个示例的综合初学者指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1b68ifo/python_sets_and_tuples_a_comprehensive_beginners/</link>
-      <description><![CDATA[ 由   提交/u/Competitive_Carry_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b68ifo/python_sets_and_tuples_a_comprehensive_beginners/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:18:33 GMT</pubDate>
+      <title>比较 Postgres 托管服务：AWS、Azure、GCP 和 Supabase</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6h0le/comparing_postgres_managed_services_aws_azure_gcp/</link>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6h0le/comparing_postgres_managed_services_aws_azure_gcp/</guid>
+      <pubDate>Mon, 04 Mar 2024 17:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>编码挑战 - Waymo - Robotaxis 每日利润计算</title>
-      <link>https://www.reddit.com/r/programming/comments/1b68daf/coding_challenge_waymo_robotaxis_daily_profit/</link>
-      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b68daf/coding_challenge_waymo_robotaxis_daily_profit/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:09:40 GMT</pubDate>
+      <title>高性能 Swift 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6gub2/high_performance_swift_apps/</link>
+      <description><![CDATA[ 由   提交 /u/jacobs-tech-tavern   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6gub2/high_performance_swift_apps/</guid>
+      <pubDate>Mon, 04 Mar 2024 17:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
