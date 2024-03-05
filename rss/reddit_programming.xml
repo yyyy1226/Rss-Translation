@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 05 Mar 2024 03:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 09:17:59 GMT</lastBuildDate>
     <item>
-      <title>NVIDIA 首席执行官表示：“不要学习编码，这是浪费时间”</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6tqgi/dont_learn_to_code_it_is_a_waste_of_time_says/</link>
-      <description><![CDATA[NVIDIA 首席执行官黄仁勋最近表示，孩子们不应该学习编码，这是浪费时间，因为每个人都会成为一个程序员感谢人工智能。此外，编程对我们来说应该更像是一种人类语言。  我完全不同意这一点，他这样说确实令人印象深刻。编程不是使用工具，而是理解问题并解决它。每个人肯定都知道如何使用计算器，但这并不意味着你是一名数学家或你会从事数学家的工作。每个人都知道如何写作，但这并不能让你成为一名作家。 人工智能确实会改变我们编码的方式，但仅此而已。人工智能将像一个通用计算器，涵盖各种技能，生成视频、图像、编码以及更多领域。 令人印象深刻的是，人们实际上向这位首席执行官给出了原因。他们不知道编码、学习和了解根源的美妙之处。或者也许我是错的，但我不这么认为。 你对此有何看法。    ;由   提交/u/Dramatic_Disaster837   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6tqgi/dont_learn_to_code_it_is_a_waste_of_time_says/</guid>
-      <pubDate>Tue, 05 Mar 2024 02:21:39 GMT</pubDate>
+      <title>生成式人工智能的异构生产力效应 - 来自 Github 的证据</title>
+      <link>https://www.reddit.com/r/programming/comments/1b70lze/the_heterogeneous_productivity_effects_of/</link>
+      <description><![CDATA[ 由   提交/u/datainspace  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b70lze/the_heterogeneous_productivity_effects_of/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员之路</title>
+      <link>https://www.reddit.com/r/programming/comments/1b70ez5/the_programmers_pathway/</link>
+      <description><![CDATA[ 由   提交/u/jdegoes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b70ez5/the_programmers_pathway/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rune 宣布为多人网页游戏提供开源资助</title>
+      <link>https://www.reddit.com/r/programming/comments/1b702g6/rune_announces_open_source_grant_for_multiplayer/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b702g6/rune_announces_open_source_grant_for_multiplayer/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpine.js 创建动画登录模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1b7004a/how_to_create_an_animated_log_in_modal_with/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建动画登录模态[评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b7004a/how_to_create_an_animated_log_in_modal_with/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>C# 中的动态对象及代码示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6z76f/dynamic_objects_in_c_with_code_samples/</link>
+      <description><![CDATA[ 由   提交/u/pandiyancool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6z76f/dynamic_objects_in_c_with_code_samples/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在本地启动并运行大型语言模型。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b6vvsg/get_up_and_running_with_large_language_models/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b6vvsg/get_up_and_running_with_large_language_models/</guid>
+      <pubDate>Tue, 05 Mar 2024 04:02:05 GMT</pubDate>
     </item>
     <item>
       <title>短读：数据库分片源自网络游戏！？</title>
@@ -69,46 +104,11 @@
       <pubDate>Mon, 04 Mar 2024 21:22:29 GMT</pubDate>
     </item>
     <item>
-      <title>重新发明 Google 的后端子集：设计一种可减少连接流失的算法，以取代确定性子集</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6mld4/reinventing_backend_subsetting_at_google/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6mld4/reinventing_backend_subsetting_at_google/</guid>
-      <pubDate>Mon, 04 Mar 2024 21:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>微小的预测文本</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6ml1b/tiny_predictive_text/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6ml1b/tiny_predictive_text/</guid>
-      <pubDate>Mon, 04 Mar 2024 21:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>暂停的危险(2)</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6mkdk/the_perils_of_pause2/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6mkdk/the_perils_of_pause2/</guid>
-      <pubDate>Mon, 04 Mar 2024 21:21:22 GMT</pubDate>
-    </item>
-    <item>
       <title>在运动中练习乐语法</title>
       <link>https://www.reddit.com/r/programming/comments/1b6mkcc/practicing_raku_grammars_on_exercism/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b6mkcc/practicing_raku_grammars_on_exercism/</guid>
       <pubDate>Mon, 04 Mar 2024 21:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>测验：快速 OpenZFS 开发的工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6mjiy/quiz_a_tool_for_rapid_openzfs_development/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6mjiy/quiz_a_tool_for_rapid_openzfs_development/</guid>
-      <pubDate>Mon, 04 Mar 2024 21:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>从编译的二进制文件逆向工程 Protobuf 定义</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6mj46/reverse_engineering_protobuf_definitions_from/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6mj46/reverse_engineering_protobuf_definitions_from/</guid>
-      <pubDate>Mon, 04 Mar 2024 21:20:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
