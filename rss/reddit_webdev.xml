@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:19:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 21:17:28 GMT</lastBuildDate>
     <item>
-      <title>一个非常非常基本的聊天机器人样板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b77iyf/a_very_very_basic_chatbot_boilerplate/</link>
-      <description><![CDATA[这是基于 Nextjs 构建的聊天机器人应用程序的开源样板：https://github.com/deathg0d/next-chat 我发现的其他样板已经很庞大，有太多选项。   由   提交/u/holduphusky  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b77iyf/a_very_very_basic_chatbot_boilerplate/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:12:12 GMT</pubDate>
+      <title>我无法进步</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7fn9r/i_cant_progress/</link>
+      <description><![CDATA[我不是 Web 开发的新手，但不幸的是，在后来的几年里，我发现自己忘记了已经学到的东西。  很多时候我不记得了。我几乎忘记了一切。我已经无法再进步了看来我还是个新手。我无法改进 php，我尝试了 javascript，但我也无法进步，这太难了。我尝试过 Laravel，但我很难理解基本概念。 我曾经知道如何编写 sql，现在不知道了。我很难记住。我以前知道类是什么，现在所有这些概念对我来说都模糊了。 我应该放弃吗？如果我不能再学习这些概念，我就不想再花时间了。    由   提交/u/icex34  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7fn9r/i_cant_progress/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:29:34 GMT</pubDate>
     </item>
     <item>
-      <title>作为开发者，您对 Figma 的开发模式有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b77gz0/opinions_on_figmas_dev_mode_as_a_developer/</link>
-      <description><![CDATA[我在一家不使用 Figma 的公司工作，但我个人使用它。我是一名产品设计人员，但我了解前端开发（HTML、CSS、JavaScript、React、Vue、AngularJS 等）。然而，自从我开发任何东西以来已经有一段时间了，我没有时间作为开发者实际测试开发模式。作为一名设计师，我对它有足够的接触，它看起来很有用，但不会破坏交易。 我希望我的公司改用Figma，但它似乎取决于一些我能力范围之外的因素，其中之一是如何它实际上会帮助开发人员访问开发模式。所以我想知道这里是否有人使用它以及它的影响有多大。   由   提交 /u/Tebianco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b77gz0/opinions_on_figmas_dev_mode_as_a_developer/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:09:49 GMT</pubDate>
+      <title>如果你找不到进入这个行业的途径，那么难得的志愿者经历值得追求吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7f8lm/is_infrequent_volunteer_experience_worth_pursuing/</link>
+      <description><![CDATA[如果您无法进入该行业，那么自愿花时间编写实际代码是否值得？ ​ ; 编辑：我知道这个行业对无偿工作存在很大的耻辱，但我们现在先把它放在一边。这种体验有真正的好处吗？   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7f8lm/is_infrequent_volunteer_experience_worth_pursuing/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 Web 蓝牙 API 将 BBQ 连接到互联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b777kn/i_connected_my_bbq_to_the_internet_using_the_web/</link>
-      <description><![CDATA[       由   提交/u/schrik  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b777kn/i_connected_my_bbq_to_the_internet_using_the_web/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:59:21 GMT</pubDate>
+      <title>创建一个包含大量数据和图表的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7f4d8/creating_a_website_which_is_heavy_on_data_and/</link>
+      <description><![CDATA[大家好 这里很新，但希望了解 Web 开发。我希望有人能帮助我走出不同 CMS 选项、订阅模型和小部件的泥潭！ 我希望实现的目标：  我有一个对个人理财有浓厚兴趣，并希望建立一个可访问的网站，用于税务规划、养老金储蓄和预算等内容 正如您所想象的，这将包含大量数据和图表 - 我希望用户能够能够输入自己的财务状况并以动态图表和见解的形式查看输出 理想情况下，他们能够创建登录并保存以前的工作 我正在寻找以最大限度地减少我必须做的实际编码量。我有大学Python/C++背景，所以我理解其中的逻辑，如果需要的话可以深入了解，但这不是核心优势  到目前为止我发现很难确定哪种 CMS 适合我，并且很难找到任何构建动态图表的好选择，特别是在这些图表由用户定义的变量生成的情况下。 有人对这方面有什么建议吗？从哪儿开始？真的很感激。   由   提交/u/reford89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7f4d8/creating_a_website_which_is_heavy_on_data_and/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>你有什么建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b775tr/what_do_you_suggest/</link>
-      <description><![CDATA[我目前正在尝试为实体企业创建一个网站，但我需要我的客户能够输入报价，以便我可以看到哪些服务他们需要我以前从未真正制作过网站，所以任何人都可以建议某个地方或某个人，我不介意付钱给某人，但不支付任何费用    由   提交/u/Redditboul87   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b775tr/what_do_you_suggest/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:57:23 GMT</pubDate>
+      <title>控制台.delight</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7f0e4/consoledelight/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7f0e4/consoledelight/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:04:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何编写完美的现代香草CSS？需要遵循哪些标准？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74wqn/how_to_write_perfect_modern_vanilla_css_what_are/</link>
-      <description><![CDATA[嗨，我正在寻找一个可以指导我如何编写简单而现代的普通 CSS 的资源（使用诸如自定义之类的东西）特性）。一篇文章、文档或 github 项目。  我主要使用 SCSS，但现在我需要使用普通 CSS，我希望我的代码看起来不错、干净、组织良好且现代，而不仅仅是一长串选择器和属性。  我面临的主要挑战之一是媒体查询，我是否应该只编写一个媒体查询并在其中编写所有代码，或者我可以为每个部分使用多个媒体查询？  如果您可以分享一个可以帮助我编写我想编写的 CSS 的资源，我将不胜感激。美好的一天！   由   提交/u/turambaaaar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74wqn/how_to_write_perfect_modern_vanilla_css_what_are/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:14:31 GMT</pubDate>
+      <title>网站克隆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7ekrd/website_cloning/</link>
+      <description><![CDATA[我和我的商业伙伴正在启动一个活动策划网站。一位朋友建议我们使用网站克隆工具来提供总体布局，因此我们之后要做的就是进行一些更改，例如更新颜色、字体和图片。  我使用 HTTrack 克隆了一个网站，但现在的问题是我不知道如何编辑文件以进行必要的更改。我们不是网络开发人员（尽管我在大学时曾经做过一些 C++ 编程）。有没有办法将所述克隆导入 Squarespace、wix 等并以这种方式进行编辑？还是我们必须手动编辑代码？ 我还听说过 Mac 版的 Sitesucker。使用它有好处吗？ 任何意见都将不胜感激   由   提交/u/Junior_Passenger_606   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7ekrd/website_cloning/</guid>
+      <pubDate>Tue, 05 Mar 2024 19:47:25 GMT</pubDate>
     </item>
     <item>
-      <title>构建 Pinkary：在 SQLite 上运行的社交媒体，服务器成本为 7 美元/月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74sxq/building_pinkary_a_social_media_that_runs_on/</link>
-      <description><![CDATA[WebDev 社区您好， 让我向您介绍 Pinkary ()：一个链接可容纳您的所有社交活动 - 是的，它是 LinkTree 的替代方案。我们在短短 24 小时内就覆盖了超过 450 名用户，三周后，我们已经拥有 1,200 名拥有经过验证的电子邮件的用户。 Pinkary 允许您创建一个最小的个人资料页面，其中显示您希望访问的所有重要链接与您的关注者分享。此外，您还可以提出问题（类似于ask.fm或CuriousCat) 与其他用户互动。 目前，Pinkary 在 PHP 8.3、Laravel、Tailwind、Pest、Livewire、Alpine 上运行，我们使用 Mailcoach 处理电子邮件。哦，还有我们都在使用 SQLite - 将它用于数据库、队列、会话和缓存。 此外，运行成本为 7.80 美元：  Digital Ocean 上的 Droplet 费用为 6.00 美元：1 个 CPU、1GB RAM、25GB 磁盘大小。 Digital Ocean 上的每日备份费用为 1.80 美元。  让我知道您的想法，或者如果您有任何疑问！我愿意接受各种反馈。 这是登陆页面：https://pinkary.com 这是我的个人资料：https://pinkary.com/@nunomaduro &lt; !-- SC_ON --&gt;  由   提交/u/nunomaduro  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74sxq/building_pinkary_a_social_media_that_runs_on/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:09:00 GMT</pubDate>
+      <title>Render.com 的部署问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7ej83/rendercom_issues_with_deployment/</link>
+      <description><![CDATA[嗨。我有 Nest 应用程序，我正在尝试将其部署到 render.com 上。我收到的错误是找不到模块@nestjs/jwt。我仔细检查了我的依赖项，甚至重新安装了我的所有节点模块几次。仔细检查我的导入和 jwt 配置。在我的开发环境中它运行完美。有任何想法吗？    由   提交/u/Araghast667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7ej83/rendercom_issues_with_deployment/</guid>
+      <pubDate>Tue, 05 Mar 2024 19:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>Flask-缓存安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74pm1/flaskcaching_security_issue/</link>
-      <description><![CDATA[我希望针对我遇到的问题获得一些帮助和建议。 我有一个 Python Flask 应用程序，它使用Flask-Caching (SimpleCache) 来缓存视图函数。视图函数的开头如下所示： @app.route(&quot;/ist/data&quot;,methods=[&quot;POST&quot;]) @cache.cached(timeout=300) async def ist_data(): 昨晚，我正在使用我的应用程序我随机能够看到另一个用户的缓存页面！大安全问题。我注意到这个用户与我同时使用该应用程序。 知道什么会导致类似的事情发生吗？ 顺便说一句，我正在使用带有 2 个的 Gunicorn    由   提交/u/blackboyx9x  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74pm1/flaskcaching_security_issue/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:04:07 GMT</pubDate>
+      <title>每个试图销售课程/书籍/训练营或任何与软件生产力相关的技术大佬</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7dlog/every_tech_tuber_trying_to_sell/</link>
+      <description><![CDATA[    /u/tac-OSS   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7dlog/every_tech_tuber_trying_to_sell/</guid>
+      <pubDate>Tue, 05 Mar 2024 19:09:15 GMT</pubDate>
     </item>
     <item>
-      <title>生产环境需要登录什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74lop/what_to_log_in_production/</link>
-      <description><![CDATA[我是一名新手开发人员，我正在完成我的第一个 Web 应用程序。 何时部署它我应该记录什么？  我很想记录所有内容。使用相对会话 ID 登录以及与该会话 ID 关联的每个操作以及所有未处理的错误。 这是一个好的做法吗？这样安全吗？   由   提交/u/aquilaruspante1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74lop/what_to_log_in_production/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:58:54 GMT</pubDate>
+      <title>Safari 17.4 中的 WebKit 功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7dee8/webkit_features_in_safari_174/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7dee8/webkit_features_in_safari_174/</guid>
+      <pubDate>Tue, 05 Mar 2024 19:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>是否有非交互式图表的颤动图表的替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74f6p/is_there_an_alternative_to_tremor_charts_for/</link>
-      <description><![CDATA[      我使用 tremor 为我的英雄部分制作了这个面积图。我对它的外观很满意，但它给我的网站增加了 95kB，在我看来，对于一个不应该是交互式的、仅用于视觉目的的图表来说，这已经太多了。是否有一种更轻的替代方案，仅用于视觉效果，而不具有颤抖或重新图表提供的所有额外功能？我考虑过导出一个 svg 并使用它而不是库，但是 tremor 会根据容器的宽度和高度更改 svg，我想保留它。   由   提交/u/LexxxaKING  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74f6p/is_there_an_alternative_to_tremor_charts_for/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:49:36 GMT</pubDate>
+      <title>如何找到合适的人？请帮忙！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7da1c/how_to_find_the_right_people_please_help/</link>
+      <description><![CDATA[您好， 我已经找到了销售职位，我的工作是找到符合以下条件的人： 想要开发、维护或扩展 SaaS 产品，或者面临任何软件开发挑战的人员， 并让他们与运行为您量身定制的 SaaS 业务的软件团队预约。  我的问题是，对于我来说，寻找此类线索的理想社区、reddit 版块、Facebook 群组等是什么？  我的薪水取决于一定数量的预约，而且我已经发现入不敷出，所以真的需要专家的帮助 我会非常感谢您的回复，谢谢！   由   提交/u/Zubair_Shahid_32   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7da1c/how_to_find_the_right_people_please_help/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>反应页面无响应..</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74e84/react_page_going_unresponsive/</link>
-      <description><![CDATA[嘿，开发者，初学者反应学习者在这里..我试图使用 MERN 实现一个聊天应用程序..所以在页面中我添加了个人资料按钮来打开显示聊天用户详细信息的模式..所以问题是当我打开和关闭该模式时，我的页面没有响应..我无法单击任何选项..整个页面变得静态...我应该保持手动刷新页面以使其恢复正常..请帮我找到可能是什么错误..这太令人沮丧了.. 抱歉我的英语不好，解释也不好..请尝试理解  p&gt;   由   提交 /u/Jarvis_negotiater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74e84/react_page_going_unresponsive/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:48:12 GMT</pubDate>
+      <title>如何连接 WooCommerce 和 Clover POS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7d74p/how_to_connect_woocommerce_and_clover_pos/</link>
+      <description><![CDATA[是否有人在不使用每笔交易费用为 1 美元的 weeconnect 支付网关的情况下成功连接了这些？我的客户想要免费这样做，可以吗？   由   提交 /u/DogeCoinRocket   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7d74p/how_to_connect_woocommerce_and_clover_pos/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:53:33 GMT</pubDate>
     </item>
     <item>
-      <title>有人参与过具有类似功能的候选人测试工具项目吗？寻找见解！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b74bu8/has_anyone_worked_on_a_project_for_candidate/</link>
-      <description><![CDATA[Reddit 社区您好， 我目前正在开发一个项目，开发一个候选人测试工具，用于评估空缺职位的候选人。该工具将涉及存储用户信息、候选人详细信息、测试信息、测试问题和候选人回答。  我想知道这里是否有人有从事类似项目的经验，或者遇到过与候选测试工具相关的任何开源项目或资源，这些工具具有用户注册、测试管理、自动化测试等功能，结果分析和数据库集成。 任何有关技术、最佳实践或开发过程中面临的挑战的见解、技巧或建议将不胜感激。预先感谢您的帮助！   由   提交 /u/qassym   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b74bu8/has_anyone_worked_on_a_project_for_candidate/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:44:37 GMT</pubDate>
+      <title>今天我对 MySpace.com 的前 3 次点击</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7cgkc/my_first_3_clicks_on_myspacecom_today/</link>
+      <description><![CDATA[      导致了这个有趣的错误消息： myspace服务器端js错误消息 ​ 你认为他们是哪个JS运行时使用？   由   提交 /u/cocinci   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7cgkc/my_first_3_clicks_on_myspacecom_today/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:25:08 GMT</pubDate>
     </item>
     <item>
-      <title>建立餐厅网站的最佳平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b73rqa/best_platform_for_building_a_restaurant_website/</link>
-      <description><![CDATA[大家好！我希望为我的快餐店建立一个网站，主要用于显示菜单，并有可能在线订购。由于我很少更新菜单，我试图避免按月订阅，但我知道这几乎是不可能的。有什么推荐的最好的在线订购平台，无需支付高额月费吗？谢谢你们！   由   提交/u/23AndyRT  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b73rqa/best_platform_for_building_a_restaurant_website/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:13:31 GMT</pubDate>
+      <title>这是什么工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7cak5/what_tool_is_this/</link>
+      <description><![CDATA[在这个网页上，你认为这是一个什么样的插件？ https://www.mmha.com/Education/Education-Calendar 我需要我的非营利组织的志愿者活动的类似日历，我很想弄清楚这是什么。说真的，我需要它！我们正在使用一个糟糕的谷歌日历插件，它很糟糕！  谢谢！  ​ ​   由   提交/u/ElegantBuy7210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7cak5/what_tool_is_this/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>如何在网络上创建这样的 3D 建模器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b723vr/how_to_create_such_3d_modeller_in_the_web/</link>
-      <description><![CDATA[嘿，我环顾四周发现了这个。如何制作这样的东西？我相信应该使用诸如 Three.js 之类的东西，但除此之外，您还需要什么？也许已经有某种类型的库可以用于此目的。是否需要为此事先制作所有资源，某种模型等？ https:// kampu.lt/item/?aryid=6554   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b723vr/how_to_create_such_3d_modeller_in_the_web/</guid>
-      <pubDate>Tue, 05 Mar 2024 10:28:51 GMT</pubDate>
+      <title>需要有关创建我的第一个完整网站的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7bvwx/need_advice_on_creating_my_first_full_website/</link>
+      <description><![CDATA[嘿伙计们！ 我的理发师正在开一家小理发店，他问我是否可以制作他的网站，因为我&#39;我是一名刚毕业的计算机科学毕业生。 我所说的“网站”是什么意思？在这种情况下：   无论是外观还是功能都不是很复杂。可能会有主页、价格、书籍、画廊、联系方式等页面。  需要一个数据库来存储预订，很可能在 SQL 数据库中。还需要某种后端，因为他希望拥有一个带有自动电子邮件的系统（可能是预订确认和提醒）() 需要部署  我目前的经验是：我做过多个仅前端的网站，大部分都是用React。我也开始深入研究 Next.js，但还没有疯狂的经验。我还了解一些Java和Python。  我的主要问题是：  您会推荐 React 还是 Next.js？我听说 Next.js 更容易部署，所以我目前很想使用它。如果我错了，请改变主意。 您推荐什么部署平台？我对 AWS 的经验有限，但我听说 Heroku 和 Vercel 是一些值得考虑的不错选择。请帮助我理解为什么我应该选择其中之一。  您对自动电子邮件有何建议？如果更容易，我也可能会研究自动短信（例如电话号码），但我觉得使用电子邮件更容易。 我应该在后端使用什么？ （如果我什至需要的话） 我应该费心创建用户帐户还是我做得太过分了？ 我应该创建一个单独的“管理员”帐户吗？ （为我的理发师）管理预订等的平台？如果没有，请给我一些关于我可以做什么的想法。  我知道数量很多，但我没有太多构建网站的经验，所以我正在寻找咨询。  谢谢！  ​   由   提交/u/Septy28  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7bvwx/need_advice_on_creating_my_first_full_website/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>何时以及如何在抽象类 (PHP) 中使用构造函数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b722dp/when_and_how_to_use_constructors_in_abstract/</link>
-      <description><![CDATA[       由   提交/u/RichardMendes90  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b722dp/when_and_how_to_use_constructors_in_abstract/</guid>
-      <pubDate>Tue, 05 Mar 2024 10:26:00 GMT</pubDate>
+      <title>构建 WP 网站的现代方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7bidp/what_is_the_modern_way_of_building_wp_sites/</link>
+      <description><![CDATA[正如标题所述，你们代理人员现在都做什么？ 如果您正在使用 WordPress，您还在使用 WordPress用树枝/刀片进行ACFing？或者你正在做简单的PHP？块编辑器还是仅 ACF？ 如果您不使用 WP，您还开发其他什么 CMS？你喜欢它吗？   由   提交/u/LISCoxH1Gj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7bidp/what_is_the_modern_way_of_building_wp_sites/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>我还能如何将我的项目列入简历？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b71k3x/how_else_can_i_put_my_projects_on_cv/</link>
-      <description><![CDATA[无法将它们发布到 github 上，这让我发疯，我还能如何发布它们？   由   提交/u/jason82829  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b71k3x/how_else_can_i_put_my_projects_on_cv/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:51:51 GMT</pubDate>
+      <title>如何在网站上放置库存图像的许可证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b7bfqy/how_to_put_licence_of_stock_images_on_websites/</link>
+      <description><![CDATA[我从 IStock 购买了图像，但找不到许可证链接。据我了解，  标签有一个 rel 属性，可用于链接许可证？我可以在不申请许可证并陷入法律麻烦的情况下使用 IStock 图像吗？什么是正确的方法？   由   提交 /u/Artur_exe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b7bfqy/how_to_put_licence_of_stock_images_on_websites/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:45:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

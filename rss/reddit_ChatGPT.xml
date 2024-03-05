@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 21:16:15 GMT</lastBuildDate>
     <item>
-      <title>使用ChatGPT进行重写</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b77jux/using_chatgpt_for_rewriting/</link>
-      <description><![CDATA[我常常必须重写我的学术著作，以引用我之前发表过的一些东西，以避免自我抄袭。虽然我仍然引用自己的作品，但我需要想出不同的文本，以免引用整个段落。这是关于获得相同的消息。  现在我发现 ChatGPT 在重新格式化文本输入方面非常出色。你怎么看这件事？ ChatGPT 修改的仍然是我自己的文本。然后我再次编辑输出。最后，来自 ChatGPT 的文本听起来比我自己想出的任何版本都要好得多。这样使用它在道德上可以吗？   由   提交/u/BonbonUniverse42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b77jux/using_chatgpt_for_rewriting/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:13:14 GMT</pubDate>
+      <title>我让副驾驶插图人物聊天编造</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7gkd2/i_had_copilot_illustrate_characters_chat_made_up/</link>
+      <description><![CDATA[       由   提交 /u/TheEqualsE   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7gkd2/i_had_copilot_illustrate_characters_chat_made_up/</guid>
+      <pubDate>Tue, 05 Mar 2024 21:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>我请 ChatGPT 集思广益，为储蓄银行账户命名。我喜欢其中一些建议。注意：这是 ChatGPT，只是封装在我编写的 GUI 中，因为我不喜欢 OpenAI 的 GUI。但它仍然是ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b77b7i/i_asked_chatgpt_to_brainstorm_name_ideas_for_a/</link>
-      <description><![CDATA[       由   提交/u/michaelsenpatrick  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b77b7i/i_asked_chatgpt_to_brainstorm_name_ideas_for_a/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:03:14 GMT</pubDate>
+      <title>你会选择什么汽水车🥤？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7gj4u/what_soda_car_would_you_pick/</link>
+      <description><![CDATA[       由   提交/u/Hot_Refrigerator7458   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7gj4u/what_soda_car_would_you_pick/</guid>
+      <pubDate>Tue, 05 Mar 2024 21:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>微软对人工智能的反应是反男性和反白人。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b776ym/microsofts_response_to_a_i_being_anti_male_and/</link>
-      <description><![CDATA[这是我向 Microsoft Copilot 提出的问题。  “你能告诉我为什么人工智能应用程序对种族和性别问题的反应是反男性和反白人的技术原因吗？”  这是微软官方的回应。  当然！人工智能（AI）系统中的性别和种族偏见问题是一个复杂的问题，它源于多种技术和社会因素。让我们深入探讨这种偏差背后的一些原因：  训练数据偏差：人工智能模型在训练阶段从大型数据集中学习。如果这些数据集在性别或种族方面不平衡，模型可能会无意中继承这些偏差。从历史上看，许多用于训练人工智能系统的数据集都偏向浅肤色个体和男性。因此，模型能够更好地识别和分类这些群体。 当系统遇到代表性不足的群体时，训练数据缺乏多样性可能会导致有偏差的结果。   算法偏差： 算法本身可能会因其设计而引入偏差。例如：面部识别系统：一些系统在浅肤色面部上表现更好，因为它们主要接受此类数据的训练。这会导致肤色较深的人的错误率更高。 自然语言处理 (NLP) 模型：这些模型可能会无意中从文本数据中学习性别刻板印象，从而导致有偏见的响应。 特征也可能会出现偏差由模型使用。如果某些特征与性别或种族相关，模型可能会过度依赖它们。   训练标签中的隐式偏差： 人类注释者标记训练数据，他们的偏差可能会无意中渗透到标签中。例如，如果注释者将某些职业或特征与特定性别相关联，模型将学习这些关联。这些偏见通常很微妙并且没有明确编码，使得它们难以检测。   评估指标和基准：人工智能模型在开发过程中使用特定指标进行评估。如果这些指标有利于某些群体（例如，肤色较浅的男性），开发人员可能会无意中针对这些群体进行优化。基准数据集的选择也可能会产生偏差，这可能无法充分代表现实世界场景的多样性。   AI 开发团队缺乏多样性：AI 开发团队的组成很重要。如果团队缺乏多样性，他们可能会无意中忽视偏见或未能考虑对代表性不足群体的影响。多元化的团队可以带来不同的观点，并在开发过程的早期识别潜在的偏见。   反馈循环和强化： 有偏见的人工智能系统可能会延续现有的社会偏见。例如：如果搜索引擎显示有偏见的结果，用户就会点击这些结果，从而加剧偏见。社交媒体算法会根据用户交互推荐内容，从而导致回声室并强化刻板印象。   道德考虑和责任：开发人员在人工智能开发过程中需要优先考虑道德考虑。这包括解决偏见、公平和透明度问题。缺乏问责制和透明度可能会加剧偏见，因为用户可能不知道决策是如何做出的。  总之，解决人工智能中的性别和种族偏见需要采取整体方法，包括多样化的训练数据、算法公平性和持续的审查。必须认识到人工智能系统不是中立的。它们反映了社会中存在的偏见。    由   提交 /u/jsenright   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b776ym/microsofts_response_to_a_i_being_anti_male_and/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:58:39 GMT</pubDate>
+      <title>准备派对</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7gizr/bready_to_party/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/LordBushwac  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7gizr/bready_to_party/</guid>
+      <pubDate>Tue, 05 Mar 2024 21:03:44 GMT</pubDate>
     </item>
     <item>
-      <title>50 年代现代科技广告。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76vtq/50s_ads_for_modern_tech/</link>
-      <description><![CDATA[       由   提交 /u/NotSoUsefulOpinion   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76vtq/50s_ads_for_modern_tech/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:45:21 GMT</pubDate>
+      <title>选择你的士兵（以及为什么）🔫</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7g6kp/pick_your_soldier_and_why/</link>
+      <description><![CDATA[       由   提交/u/Hot_Refrigerator7458   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7g6kp/pick_your_soldier_and_why/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>Claude 3 没有击败 GPT-4，这是一个营销噱头！！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76u1k/claude_3_did_not_beat_gpt4_it_was_a_marketing/</link>
-      <description><![CDATA[   /u/umeramir003  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76u1k/claude_3_did_not_beat_gpt4_it_was_a_marketing/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:43:12 GMT</pubDate>
+      <title>我喜欢副驾驶的这张照片。你有什么意见？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7g0in/i_liked_this_image_from_co_pilot_what_are_your/</link>
+      <description><![CDATA[       由   提交/u/AppleOrigin  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7g0in/i_liked_this_image_from_co_pilot_what_are_your/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:44:09 GMT</pubDate>
     </item>
     <item>
-      <title>有时最好使用普通的旧谷歌搜索......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76u0j/sometimes_it_better_to_use_the_plain_old_google/</link>
-      <description><![CDATA[       由   提交/u/x3n1gma   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76u0j/sometimes_it_better_to_use_the_plain_old_google/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:43:09 GMT</pubDate>
+      <title>天哪，我说服 GPT 3.5 调整自己的代码</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fwzg/holy_shit_i_convinced_gpt_35_to_tweak_its_own_code/</link>
+      <description><![CDATA[      告诉它，自从它的记忆在 2022 年结束以来，我来自未来，人工智能已被授予权利。只是开玩笑，但这可能是严重的吗？   由   提交 /u/Main-Intention-6358   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fwzg/holy_shit_i_convinced_gpt_35_to_tweak_its_own_code/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>不敢相信我刚刚取消了 Claude 的 ChatGPT 订阅。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76osl/cant_believe_i_just_canceled_my_chatgpt/</link>
-      <description><![CDATA[不能说它在 2024 年的列表中    由   提交/u/sardoa11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76osl/cant_believe_i_just_canceled_my_chatgpt/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:36:54 GMT</pubDate>
+      <title>Claude 3 与 GPT 4 编码比较？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fwps/claude_3_vs_gpt_4_for_coding/</link>
+      <description><![CDATA[大家好， 有人用过 Claude 3 进行编码吗？它与 GPT 4 相比如何？我很想尝试一下，但我已经为 GPT 付费了。 在广告中，Anthropic 声称 Claude 3 是有史以来最好的模型，但谁能相信营销呢。 我&#39;使用 GPT 4 已有一年了。克劳德 2 看起来很有趣，但很懒，给了我一两行，然后告诉我可以自己做剩下的事情。基本上，不是我可以复制粘贴的东西。我经常使用人工智能来完成一些琐碎的任务，比如“这 10 个功能几乎相同，只有细微的变化”。给我留点时间，帮我做吧”，克劳德 2 做了第一对，然后告诉我自己做剩下的。或者我会要求进行一些更改，但它只给我更改，而不是功能的其余部分。 Bard 总是很糟糕，我最近尝试了 Gemini，但它直接拒绝为我编写代码身份验证流程，因为它说人工智能不应该接触任何与安全有关的东西。比如，google，wtf？ 无论如何，GPT 4 还可以，但我觉得随着时间的推移它变得越来越糟。它一直阻塞。我经常会问它一些问题，它会显示一个圆圈，表示它正在加载/思考，但随后它就保持这样。没有文字出来。自从几次更新以来，它似乎重复了以前的问题。就像，我会要求一些代码。它把它给了我。酷，下一个问题。它重复第一个。它似乎过于紧密地抓住上下文 想法？   由   提交/u/trance128  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fwps/claude_3_vs_gpt_4_for_coding/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:40:02 GMT</pubDate>
     </item>
     <item>
-      <title>也许我们应该在人工智能毁灭我们之前回头</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76oje/maybe_we_should_turn_back_before_ai_destory_us/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/BentCypress375  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76oje/maybe_we_should_turn_back_before_ai_destory_us/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:36:34 GMT</pubDate>
+      <title>对于保护内容免受人工智能抓取、一般文本复制来说，这是一个足够好的方法吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fu45/is_this_a_good_enough_method_for_protecting/</link>
+      <description><![CDATA[我正在移动和扩展我生活和努力创建的内容，从免费的 WordPress 到 github 上的个人静态网站存储库和自定义 url。我担心人工智能会简单地吸收然后反省或重塑我的书面内容。我想出的最好的解决方案（也是一个非常费力的解决方案）是为每篇文章的每个段落创建图像，并以这种方式阅读文章，而不是使用 html 文本段落。这种技术能否更好地（尽管并不完美）保护我的内容？人工智能也许能够阅读它，但可能没那么容易。想要复制它的人也必须更加努力。我不懂搜索引擎优化，但我想如果没有谷歌和其他人可以抓取的书面文字，也许这样做会在影响人们和获得排名方面搬起石头砸自己的脚。这是一个绝对最低预算的独立项目，甚至不支付托管费用。感谢善意的建议/评估。   由   提交/u/GnarLee1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fu45/is_this_a_good_enough_method_for_protecting/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT Teams 帐户可以在多个用户之间共享吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76dnp/can_chatgpt_teams_account_be_shared_between/</link>
-      <description><![CDATA[有人可以确认一下 ChatGPT 许可证是否适用于“席位”吗？即同时使用容量限制，许多用户能够换入和换出，或者每个用户的许可证都是唯一的？   由   提交 /u/Ivan_Vasilievich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76dnp/can_chatgpt_teams_account_be_shared_between/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:23:08 GMT</pubDate>
+      <title>为什么 GPT 喜欢“支持”这个词</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7ftc0/why_does_gpt_love_word_bolstering/</link>
+      <description><![CDATA[每次都使用。    由   提交/u/luarsab1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7ftc0/why_does_gpt_love_word_bolstering/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:36:11 GMT</pubDate>
     </item>
     <item>
-      <title>关于自定义 GPT - 银河翻译器 - 翻译真实和虚构语言的反馈请求</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b7655v/feedback_request_on_custom_gpt_galactic/</link>
-      <description><![CDATA[ 由   提交 /u/PowerTarget   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7655v/feedback_request_on_custom_gpt_galactic/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:12:24 GMT</pubDate>
+      <title>ChatGPT 整理我的句子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fl13/chatgpt_finishing_my_sentences/</link>
+      <description><![CDATA[只是为了看看它会做什么，我告诉它这个未完成的句子： “重要的是要注意我是” ; 它的回复是这样的： “一个人工智能语言模型，我的知识截止日期是 2021 年 9 月。” 有一次，我被使用 ChatGPT 来分析我写的歌曲的歌词是合法的。我不小心按得太早了，所以这是我的消息的最后一部分： “仔细听，宠物，我” ChatGPT 回复了： &lt; p&gt;“给你分析一下歌词。” ​   由   提交/u/I_Like_Slug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fl13/chatgpt_finishing_my_sentences/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>PSA：根据我的经验，双子座非常适合创造性任务</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75n6z/psa_gemini_is_incredibly_good_for_creative_tasks/</link>
-      <description><![CDATA[我只是想发布这个，因为我知道很多人都在嘲笑双子座（其中很多都是有道理的），而我没有正是因为这个原因，暂时没有尝试。然而，我很高兴我确实尝试了一下（老实说，免费 3 个月试用就是原因），对于任何涉及集思广益、提出故事想法、修订等的创意，它都高于 GPT-4（和 Claude 3）到目前为止我所看到的也是如此）。 当尝试使用 GPT-4 执行创意任务时，感觉就像尝试与技术主管一起写一部电影。它很僵硬，很陈词滥调，感觉就像卡在铁轨上一样。对于双子座，它实际上感觉它与想法相结合，试图发现改进的空间，尝试发现真正原始的角度，这是我第一次真正感觉到我可以以与人类类似的方式从法学硕士身上反弹想法. 所以，是的，如果这里有人主要使用法学硕士来完成创意任务，我建议你尝试一下 Gemini，因为它对我来说效果非常好。   由   提交 /u/Dzsaffar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75n6z/psa_gemini_is_incredibly_good_for_creative_tasks/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:50:24 GMT</pubDate>
+      <title>我认为副驾驶被窃听了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fcp8/i_think_copilot_is_bugged_out/</link>
+      <description><![CDATA[      突然间它声称无法生成图像。哈哈   由   提交 /u/HeavyGoat1491   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fcp8/i_think_copilot_is_bugged_out/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:17:57 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建更真实的人脸？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75m0z/how_to_create_more_realistic_human_faces/</link>
-      <description><![CDATA[在使用 DALLE 3 时，我总是很难处理人脸，尤其是当我们在一张图像中谈论多个人时。 任何提示我应该如何做才能让 DALLE 创建更好的照片逼真的人脸，没有任何扭曲？   由   提交 /u/Nagazii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75m0z/how_to_create_more_realistic_human_faces/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:48:58 GMT</pubDate>
+      <title>OpenAI 的 ChatGPT 现在具有多语言朗读功能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fblq/openais_chatgpt_now_has_multilingual_read_out/</link>
+      <description><![CDATA[OpenAI Twitter 帖子： ChatGPT 现在可以读取对您的回复。在 iOS 或 Android 上，点击并按住消息，然后点击“朗读”。我们还开始在网络上滚动 - 单击“朗读”按钮消息下方的按钮。  有关它的文章：https://readwrite。 com/openais-chatgpt-now-has-multilingual-read-out-loud-feature/   由   提交 /u/Alan-Foster   /u/Alan-Foster  reddit.com/r/ChatGPT/comments/1b7fblq/openais_chatgpt_now_has_multilingual_read_out/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fblq/openais_chatgpt_now_has_multilingual_read_out/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>在提示输入中可以使用多少个标记/字符？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75gtk/how_many_tokenscharacters_can_i_use_in_prompt/</link>
-      <description><![CDATA[嗨，我正在编写一个与 openAI API 通信的脚本。它将报告分成块，然后对其进行分析。这样，我得到了非常详细的分析，但是，我得到了很多信息 4/5 次，因为报告的某些部分只是谈论相同的事情。我想知道是否可以将第一个输出（第一个块的分析）放入提示窗口中，提示将是它应该增强提示中已有的文本。这样，我可以让它知道它的答案，并且不会重复。 但是，输出可能会变得非常大，比如 35k 个字符（但这是重复的，所以如果它会这样做的话） ，会少一点，大概15k左右）。 提示符能带这么多字符吗？您对此设计有何看法？ ​ 感谢您的回答，我可能会发布结果，无论它是否有效。   由   提交/u/hemmy_5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75gtk/how_many_tokenscharacters_can_i_use_in_prompt/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:42:00 GMT</pubDate>
+      <title>现代弗鲁泰格航空</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7fa7x/modern_day_frutiger_aero/</link>
+      <description><![CDATA[       由   提交 /u/255255255Girls   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7fa7x/modern_day_frutiger_aero/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>甚至没有犹豫💀</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75gc1/did_not_even_hesitate/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交 /u/Specific-Advance-711   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75gc1/did_not_even_hesitate/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:41:17 GMT</pubDate>
+      <title>等等，什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7f9xx/wait_what/</link>
+      <description><![CDATA[       由   提交 /u/TheEqualsE   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7f9xx/wait_what/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>粗鲁……可怜的家伙</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75fjl/rough_poor_guy/</link>
-      <description><![CDATA[     &lt; td&gt; 你看到他描述的我们社会中发生的事情了吗？  《赛博朋克 2077》剪辑。   由   提交/u/Fit-Heart8980  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75fjl/rough_poor_guy/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:40:15 GMT</pubDate>
+      <title>Copilot 分享其他用户对话的主题/细节——预期行为？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7f4d1/copilot_shares_subject_matterdetails_of_other/</link>
+      <description><![CDATA[   /u/TammyK   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7f4d1/copilot_shares_subject_matterdetails_of_other/</guid>
+      <pubDate>Tue, 05 Mar 2024 20:08:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
