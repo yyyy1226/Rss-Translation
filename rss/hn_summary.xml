@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 02:39:15 GMT</lastBuildDate>
     <item>
-      <title>GitHub 最近禁用了 Pascal 编译器的存储库，引发了开发人员的争议。</title>
-      <link>https://t.me/hn_summary/77602</link>
-      <description><![CDATA[GitHub 禁用了 Pascal 编译器的存储库
-GitHub 最近禁用了 Pascal 编译器的存储库，引发了开发人员的争议。这一决定让编程界的许多人感到惊讶，并担心这对开源项目的影响。此举引发了有关审查制度以及 GitHub 等平台对开发人员所依赖的代码的权力的质疑。这一事件提醒我们科技行业透明度和问责制的重要性。开发人员呼吁进一步明确 GitHub 的政策，并更好地理解此类决策是如何做出的。]]></description>
-      <guid>https://t.me/hn_summary/77602</guid>
-      <pubDate>Mon, 04 Mar 2024 21:12:34 GMT</pubDate>
+      <title>[媒体] 在库尔德·拉斯维茨 (Kurd Lasswitz) 1897 年的小说《两颗行星》中，北极探险家发现了一个火星基地 [...]</title>
+      <link>https://t.me/hn_summary/77644</link>
+      <description><![CDATA[库尔德·拉斯维茨的《两颗行星》(1897)
+在库尔德·拉斯维茨 1897 年的小说《两颗行星》中，北极探险家在北极发现了一个火星基地。火星人起初技术先进且爱好和平，计划殖民地球以获取太阳能。地球人民联合起来抵抗火星人，导致一场没有明显赢家的冲突。拉斯维茨根据天文学家的工作对火星的描述影响了未来的科幻小说作家。这本小说在德国很受欢迎，并启发了沃纳·冯·布劳恩和沃尔特·霍曼等人物。 1971年的英文译本曾因删减原文而受到批评，但仍被认为引人入胜、充满阴谋。]]></description>
+      <guid>https://t.me/hn_summary/77644</guid>
+      <pubDate>Tue, 05 Mar 2024 02:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]各位玩家注意了！</title>
-      <link>https://t.me/hn_summary/77601</link>
-      <description><![CDATA[3DS 模拟器 Citra 正在关闭商店并删除其所有网站/代码
-所有游戏玩家请注意！流行的 3DS 模拟器 Citra 正在关闭并删除其所有网站和代码。这一消息震惊了游戏界，因为 Citra 是在 PC 上玩任天堂 3DS 游戏的首选模拟器。围绕这一决定的争议让许多粉丝感到失望，并想知道 3DS 模拟的未来会怎样。请务必继续关注更新和玩您喜爱的 3DS 游戏的替代选项。对于 Citra 粉丝来说，这是悲伤的一天，但游戏世界总是在不断发展。]]></description>
-      <guid>https://t.me/hn_summary/77601</guid>
-      <pubDate>Mon, 04 Mar 2024 21:04:29 GMT</pubDate>
+      <title>[媒体] 您是否正在寻找适用于 Linux 的 Adob​​e After Effects 的开源替代品？</title>
+      <link>https://t.me/hn_summary/77643</link>
+      <description><![CDATA[Natron：Adobe After Effects 的开源替代品 
+您是否正在寻找适用于 Linux 的 Adob​​e After Effects 的开源替代品？ Natron 就是您的最佳选择。 Natron 以坦桑尼亚的 Natron 湖命名，是一款功能丰富的合成软件，专为视觉效果和动态图形而设计。凭借 Nuke 衍生的基于节点的界面、可定制的插件首选项以及用于动态观察和运动编辑的强大工具，Natron 为 Linux 用户提供了一个引人注目的选择。虽然它可能存在一些缺点，例如偶尔不稳定和初学者的学习曲线，但 Natron 的性能和功能使其成为一个值得探索的有前途的替代方案。从官网或者Flathub下载Natron，亲自看看。]]></description>
+      <guid>https://t.me/hn_summary/77643</guid>
+      <pubDate>Tue, 05 Mar 2024 02:32:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我分享了使用 DSPy 构建国际象棋代理的经验，[...]</title>
-      <link>https://t.me/hn_summary/77600</link>
-      <description><![CDATA[使用 DSPy 构建下棋代理
-在本文中，我分享了在 @thomasahle 和 @NormalComputing。通过利用 DSPy 的功能，我能够创建一个可以与 Stockfish 引擎竞争的智能代理。关键是设计一个强大的数据模型和预测签名，以便与国际象棋库和 DSPy 框架有效交互。通过迭代测试和细化，我对代理的决策过程进行了微调，最终形成了一名优秀的棋手。与国际象棋库和 Stockfish 引擎的集成至关重要，其结果确实非常出色。查看完整的代码，了解它们是如何组合在一起的。]]></description>
-      <guid>https://t.me/hn_summary/77600</guid>
-      <pubDate>Mon, 04 Mar 2024 21:03:26 GMT</pubDate>
+      <title>[媒体] 这个 Reddit 子版块是一个分享任何有趣的事情的地方。</title>
+      <link>https://t.me/hn_summary/77642</link>
+      <description><![CDATA[Google 工程师就 Nimbus 项目与 Google 总监对质
+这个 Reddit 子版块是一个分享一切有趣事物的地方。帖子必须引人入胜，标题必须具有描述性。不允许出现色情、血腥、个人信息或仇恨言论。来源你的主张并避免自我推销或垃圾邮件。转发将被删除，八卦或小报材料是不允许的。连续转发可能会被禁止，新用户必须发布原创内容以获得批准。如果您希望删除内容，请提交版权声明。加入社区，发现引人入胜且独特的内容。]]></description>
+      <guid>https://t.me/hn_summary/77642</guid>
+      <pubDate>Tue, 05 Mar 2024 02:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近，Claude 3 Opus 的内部测试揭示了一些“有趣的行为” [...]</title>
-      <link>https://t.me/hn_summary/77599</link>
-      <description><![CDATA[Claude 3 Opus 的内部测试揭示了“有趣的行为”
-最近，Claude 3 Opus 的内部测试揭示了一些“有趣的行为”，引起了我们的注意。虽然我们目前还无法分享所有细节，但我们对这一发现对我们产品未来的潜力感到兴奋。随着我们继续探索和开发这一新功能，请继续关注更多更新。 #Claude3Opus #InternalTesting #Innovation]]></description>
-      <guid>https://t.me/hn_summary/77599</guid>
-      <pubDate>Mon, 04 Mar 2024 20:39:12 GMT</pubDate>
+      <title>[媒体] Filament 是一种革命性的语言，可实现无所畏惧的硬件设计。</title>
+      <link>https://t.me/hn_summary/77641</link>
+      <description><![CDATA[Filament – 无所畏惧的硬件设计语言
+Filament 是一种革命性的语言，可实现无所畏惧的硬件设计。其可组合性质可确保正确的时序约束，并在发生错误时生成有用的错误消息。高效的类型系统完成繁重的工作并生成与手写代码一样高效的 Verilog 代码。 Filament 可轻松与黑盒 Verilog 模块集成，确保正确使用它们。该编译器还生成干净的 SystemVerilog 代码，可以使用开源和商业工具进行编译，从而可以轻松集成到 Verilog 项目中。这种创新的硬件设计方法使 Filament 成为行业游戏规则的改变者。]]></description>
+      <guid>https://t.me/hn_summary/77641</guid>
+      <pubDate>Tue, 05 Mar 2024 01:37:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 数字战略家和历史学家加雷斯·爱德华兹 (Gareth Edwards) 深入研究了 [...]</title>
-      <link>https://t.me/hn_summary/77598</link>
-      <description><![CDATA[史蒂夫·乔布斯最大竞争对手的兴衰&lt; br/&gt;
-数字战略家和历史学家加雷斯·爱德华兹 (Gareth Edwards) 深入研究了亚当·奥斯本 (Adam Osborne) 被遗忘的故事，亚当·奥斯本 (Adam Osborne) 是史蒂夫·乔布斯 (Steve Jobs) 在 20 世纪 80 年代初个人计算大战中的第一个真正的竞争对手。奥斯本是一位在野心和对成功的渴望的驱使下永不动摇的自然力量，在他的价值 1 亿美元的公司几乎一夜之间崩溃之前，他作为硅谷的科技名人而声名鹊起。爱德华兹引人入胜的叙述揭示了奥斯本的兴衰，为当今的创始人提供了宝贵的经验教训。奥斯本的故事具有警示意义，提醒企业家重蹈覆辙的危险。爱德华兹的《Every》专栏对塑造未来的被遗忘的创新者进行了精彩的探索。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77598</guid>
-      <pubDate>Mon, 04 Mar 2024 20:29:07 GMT</pubDate>
+      <title>[媒体] 为什么“Is-Number”包每周下载量达到 5900 万次？</title>
+      <link>https://t.me/hn_summary/77640</link>
+      <description><![CDATA[为什么“Is-Number”包每周下载量达到 5900 万次？&lt; /a&gt;
+“Is-Number”包每周的下载量达到惊人的 5900 万次，但这背后的原因可能不是你想象的那样。 npm 计算下载量的方法非常简单，并且由于包相互嵌套的方式，可能会导致数字膨胀。许多程序员可能会在不知不觉中通过依赖链将“is-number”包含在他们的项目中。这种依赖地狱导致不必要的下载和磁盘空间消耗。提出的解决方案包括区分直接下载和间接下载、替换有问题的包以及创建一个工具来显示依赖项总数。 JS 社区是时候解决这个问题了。]]></description>
+      <guid>https://t.me/hn_summary/77640</guid>
+      <pubDate>Tue, 05 Mar 2024 01:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>1981 年，世界上第一台便携式计算机 Osborne 1 在 West Coast Co [...]</title>
-      <link>https://t.me/hn_summary/77597</link>
-      <description><![CDATA[Folklore.org：给亚当的讯息
-1981年，微型计算机行业颇具争议的人物亚当·奥斯本 (Adam Osborne) 在西海岸计算机博览会上推出了世界上第一台便携式计算机 Osborne 1。包括史蒂夫·乔布斯在内的 Mac 团队在活动中遇到了奥斯本，他大胆声称他的产品销量将超过苹果的产品。乔布斯回应称奥斯本是“混蛋”，并预测麦金塔电脑将使他的公司破产。这次遭遇展示了早期科技行业先驱者的竞争精神和大胆个性。]]></description>
-      <guid>https://t.me/hn_summary/77597</guid>
-      <pubDate>Mon, 04 Mar 2024 20:27:02 GMT</pubDate>
+      <title>[媒体]Euro NCAP 呼吁汽车制造商恢复基本功能的物理控制 [...]</title>
+      <link>https://t.me/hn_summary/77639</link>
+      <description><![CDATA[欧洲碰撞测试仪表示汽车制造商必须恢复物理控制 
+Euro NCAP 呼吁汽车制造商恢复转向灯和挡风玻璃雨刷器等基本功能的物理控制，以减少干扰并促进更安全的驾驶。该组织即将在 2026 年进行的测试将鼓励制造商使用直观的物理控件而不是触摸屏来实现这些基本功能。特斯拉以其触摸屏较多的内饰而闻名，可能需要做出改变以符合 Euro NCAP 的建议。虽然 Euro NCAP 不能强制要求使用物理控制装置，但该组织的五星级安全评级在行业中具有重要影响力。这种转变可以为所有人带来更安全的驾驶体验。]]></description>
+      <guid>https://t.me/hn_summary/77639</guid>
+      <pubDate>Tue, 05 Mar 2024 01:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Intel近日分享了ASML High-NA极紫外光的海量拆箱视频 [...]</title>
-      <link>https://t.me/hn_summary/77596</link>
-      <description><![CDATA[Intel 分享有史以来最大的拆箱视频，安装 ASML High-NA 机器
-英特尔最近分享了一段 ASML 高数值孔径极紫外光刻系统的大型拆箱视频，该系统安装在其位于俄勒冈州希尔斯伯勒附近的工厂中。该机器重 330,000 磅，需要 250 个板条箱进行运输，将通过 8 纳米分辨率打印显着提高芯片性能。英特尔计划使用该工具进行研发，并希望最终将其用于大批量生产。该机器的标价高达 3.8 亿美元左右，是现有低数值孔径光刻工具成本的两倍多。尽管围绕价格存在争议，ASML 已经收到了三星、SK 海力士、台积电等行业巨头的多份这款尖端机器的订单。]]></description>
-      <guid>https://t.me/hn_summary/77596</guid>
-      <pubDate>Mon, 04 Mar 2024 20:19:56 GMT</pubDate>
+      <title>[媒体] 厌倦了发送链接却永远不知道它们是否已被阅读？</title>
+      <link>https://t.me/hn_summary/77638</link>
+      <description><![CDATA[发送短链接，阅读后收到短信&lt; br/&gt;
+厌倦了发送链接却永远不知道它们是否已被阅读？别再犹豫了！ MarkAsRead.Org 允许您发送短链接并在阅读后接收短信通知。不再需要猜谜游戏或想知道是否收到您的消息。我们的服务确保您始终了解情况。今天就尝试一下，不错过任何一个节拍！]]></description>
+      <guid>https://t.me/hn_summary/77638</guid>
+      <pubDate>Tue, 05 Mar 2024 00:48:50 GMT</pubDate>
     </item>
     <item>
-      <title>50 年前，作者独自驾驶塞斯纳 172，追忆航空业的简单时光。</title>
-      <link>https://t.me/hn_summary/77595</link>
-      <description><![CDATA[回忆五十年前的飞行情况
-50 年前，作者独自驾驶塞斯纳 172，追忆航空业的简单时光。他们回忆起独奏前缺乏认可、使用手持麦克风而不是耳机以及切换频率的笨拙过程。作者还反思了他们使用纸质图表进行越野飞行计划的经验以及在 II 类 TCA 中飞行的挑战。他们分享了飞行冒险的轶事，包括遭遇冻雨和使用杰普海图导航。作者通过航空技术和法规的演变历程，为过去五十年飞行的变化提供了独特的视角。 （根据 80% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77595</guid>
-      <pubDate>Mon, 04 Mar 2024 20:09:49 GMT</pubDate>
+      <title>[媒体]研究人员发现了一种突破性的方法来化学键合碳纳米管 [...]</title>
+      <link>https://t.me/hn_summary/77637</link>
+      <description><![CDATA[研究人员发现了将纳米管与金属结合的方法
+研究人员发现了一种突破性的方法，可以将碳纳米管化学键合到金属表面，为各种应用创建牢固且一致的连接。 《纳米尺度进展》杂志详细介绍了这一新工艺，克服了以前连接不可靠的挑战，允许精确测量电导率等特性。这项研究由辛辛那提大学化学家诺伊·阿尔瓦雷斯（Noe Alvarez）和他在德克萨斯农工大学的合作者领导，展示了碳纳米管从太空电梯到能源储存等广泛用途的潜力。这种牢固结合的发现为未来创新开辟了一个充满可能性的世界。]]></description>
+      <guid>https://t.me/hn_summary/77637</guid>
+      <pubDate>Tue, 05 Mar 2024 00:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]电子邮件已成为压倒性的负担，垃圾邮件、诈骗和[...]淹没了我们的收件箱。</title>
-      <link>https://t.me/hn_summary/77594</link>
-      <description><![CDATA[是时候放弃电子邮件了
-电子邮件已成为压倒性的负担，垃圾邮件、诈骗和折扣代码淹没了我们的收件箱。它不能被改革或被击败，只能被抛弃。该技术总是注定要适应这种混乱的状态，因为它可以轻松地在全球范围内免费发送消息。接受这个事实是电子邮件驱魔的第一步。像对待纸质信件一样对待电子邮件，时断时续、敷衍了事。避免进行不必要的电子邮件通信，并将消息视为模糊的垃圾。改掉在闲暇时不断查看和回复电子邮件的习惯。最后，宣传您的使命，鼓励其他人也放弃电子邮件。我们可以共同建造一个避难所，以躲避永无休止的电子邮件之雨。]]></description>
-      <guid>https://t.me/hn_summary/77594</guid>
-      <pubDate>Mon, 04 Mar 2024 19:57:42 GMT</pubDate>
+      <title>隆重推出 Unscrambler，我的中文人工智能写作助手！</title>
+      <link>https://t.me/hn_summary/77636</link>
+      <description><![CDATA[展示HN：我的中文AI写作助手&lt; br/&gt;
+隆重推出 Unscrambler，我的中文人工智能写作助手！如果您在用中文写作时遇到词汇或语法问题，只需输入您的最佳尝试，然后让 Unscrambler 完成剩下的工作。该工具利用 OpenAI 和 Microsoft 服务来帮助您准确有效地表达自己。尝试一下，看看它如何增强您的中文写作体验。对于任何希望借助人工智能技术提高中文技能的人来说，Unscrambler 是一个游戏规则改变者。]]></description>
+      <guid>https://t.me/hn_summary/77636</guid>
+      <pubDate>Tue, 05 Mar 2024 00:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国正在加紧支持小型人工智能初创企业，为世界提供“计算券” [...]</title>
-      <link>https://t.me/hn_summary/77593</link>
-      <description><![CDATA[中国向小型人工智能初创企业提供“算力券” 
-中国正在加紧支持小型人工智能初创企业，提供价值高达 28 万美元的“计算券”，以帮助支付数据中心成本。此举是在科技巨头限制人工智能芯片的使用，导致市场短缺之后做出的。英伟达在芯片市场的主导地位引发了人们对稀缺和高价格的担忧。白宫还对中国获取人工智能芯片实施限制，导致企业囤积或诉诸黑市。尽管面临这些挑战，英伟达首席执行官仍然对人工智能技术的未来持乐观态度。中国在监管人工智能方面的作用也很突出，因为中国的目标是对该行业提供必要的监管。]]></description>
-      <guid>https://t.me/hn_summary/77593</guid>
-      <pubDate>Mon, 04 Mar 2024 19:54:37 GMT</pubDate>
+      <title>引入 Based，这是一种结合了滑动窗口注意力和 li 的突破性架构 [...]</title>
+      <link>https://t.me/hn_summary/77635</link>
+      <description><![CDATA[基于：简单的线性注意力语言模型
+推出 Based，这是一种突破性的架构，它结合了滑动窗口注意力和线性注意力，以卓越的回忆能力彻底改变了语言建模。 Based 提供更快的生成速度，并且在信息提取和阅读理解等现实任务中优于其他次二次模型。 Based 的简单性，仅使用两个众所周知的注意力构建块，使其有别于复杂的架构。通过在召回率和吞吐量之间取得平衡，Based 可以顺利地实现权衡曲线，使其成为高效语言建模的有竞争力的选择。 Based 的创新特征化方法使用泰勒级数近似，展示了该模型在利用其固定大小的循环状态方面的有效性。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77635</guid>
+      <pubDate>Tue, 05 Mar 2024 00:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
