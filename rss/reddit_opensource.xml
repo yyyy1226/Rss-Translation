@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 01:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 03:17:16 GMT</lastBuildDate>
+    <item>
+      <title>一个模拟引擎，带有AI LLM代理，用自己的大脑来感知世界</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b8iu47/a_simulation_engine_with_ai_llm_agents_with_their/</link>
+      <description><![CDATA[    /u/stylizebot   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b8iu47/a_simulation_engine_with_ai_llm_agents_with_their/</guid>
+      <pubDate>Thu, 07 Mar 2024 02:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>用于维护劳工标准的开源应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8e32p/open_source_application_for_labor_standards/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/Many_Yogurtcloset_15   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b7qrup/superrag_superperformat_rag_pipelines_for_ai/</guid>
       <pubDate>Wed, 06 Mar 2024 04:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免为开源做出贡献的常见陷阱</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b7q5hg/avoiding_common_pitfalls_contributing_to_open/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b7q5hg/avoiding_common_pitfalls_contributing_to_open/</guid>
-      <pubDate>Wed, 06 Mar 2024 04:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
