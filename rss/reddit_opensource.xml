@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:33:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 15:19:05 GMT</lastBuildDate>
+    <item>
+      <title>ELI5请求：F/OSS许可证类型之间的差异</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b9q55h/eli5_request_difference_between_types_of_foss/</link>
+      <description><![CDATA[有人可以 ELI5 说明不同类型的自由/开源软件许可证之间的差异、您可能使用它们的原因以及它们在实践中如何发挥作用来保护您或者你的软件？   由   提交 /u/SimplifyAndAddCoffee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b9q55h/eli5_request_difference_between_types_of_foss/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:04:57 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了纸上钢琴，不知何故我确实成功了，但它确实需要一些细节，例如光线、相机角度、距离等。我已将其上传到 Git Hub，如果我们可以进一步改进，我将很高兴！链接：https://github.com/Mayuresh1611/Paper-Piano.git</title>
       <link>https://www.reddit.com/r/opensource/comments/1b9l1c2/i_made_piano_on_paper_somehow_i_did_managed_to/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/mitousa  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8m9pn/fully_opensourced_my_internet_os_after_3_years_of/</guid>
       <pubDate>Thu, 07 Mar 2024 05:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于维护劳工标准的开源应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8e32p/open_source_application_for_labor_standards/</link>
-      <description><![CDATA[嗨， 我正在寻找一个关于劳工标准的小型应用程序。 劳工标准是定义为一个人在零售中采取的行动。测量单位是秒。标准的属性是标准名称、时间。标准可以是 2 级深。 示例： 第 1 级：在面包店制作蛋糕 15 分钟 第 2 级：搅拌蛋糕粉 10 分钟，放入烤箱 4 分钟 第 3 级：获取面粉2分钟，鸡蛋1分钟 用例很简单。  允许用户创建、更新、删除标准 版本控制&lt; /li&gt; 流式传输或拥有一个 API，允许将标准中的更改推送/拉入另一个下游系统 允许轻松地将标准下载到 Excel 或从 Excel 上传标准  是否有一个开源应用程序具有相对现代的数据库，我可以将其用于此类用例？    由   提交 /u/gmehtaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8e32p/open_source_application_for_labor_standards/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
