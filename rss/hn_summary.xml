@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:20:44 GMT</lastBuildDate>
     <item>
-      <title>[媒体]“Vim ChatGPT”插件允许用户与大型人进行可编辑的交互式聊天 [...]</title>
-      <link>https://t.me/hn_summary/78292</link>
-      <description><![CDATA[显示 HN：直接使用缓冲区的 Vim ChatGPT 插件
-“Vim ChatGPT”插件允许用户直接在 Vim 编辑器中与大型语言模型进行可编辑的交互式聊天。与其他工具不同，该插件直接使用缓冲区，允许立即保存和编辑对话。用户甚至可以编辑聊天机器人的响应来改变对话流程。使用 Pathogen 和 Python OpenAI 模块安装非常简单。为了方便起见，用户可以将 llmchat#send() 调用映射到按键序列。该插件适用于 llmchat 文件类型，允许用户修改聊天机器人的“个性”并在编辑器中进行对话。目前仅支持 OpenAI 作为提供者。]]></description>
-      <guid>https://t.me/hn_summary/78292</guid>
-      <pubDate>Fri, 08 Mar 2024 12:21:46 GMT</pubDate>
+      <title>[媒体]随着四款新型号的发布，GPT-4 障碍终于被打破了 [...]</title>
+      <link>https://t.me/hn_summary/78335</link>
+      <description><![CDATA[GPT-4 屏障已被打破
+随着过去四个星期内四款新模型的发布，GPT-4 障碍终于被打破。 Google Gemini 1.5、Mistral Large、Claude 3 Opus 和 Inflection-2.5 都是基准测试接近或高于 GPT-4 的竞争者。然而，令人失望的是缺乏公开许可的模型和训练数据的透明度。争议源于对未经许可的受版权数据进行训练的诉讼，以及围绕这些模型构建的黑暗基础的道德担忧。尽管取得了这些进步，作者仍然希望将来能有一个针对公共领域或许可内容进行训练的模型。]]></description>
+      <guid>https://t.me/hn_summary/78335</guid>
+      <pubDate>Fri, 08 Mar 2024 18:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 第二次世界大战期间，失败的小说家胡安·普霍尔·加西亚 (Juan Pujol García) 成为德国间谍，但 [...]</title>
-      <link>https://t.me/hn_summary/78291</link>
-      <description><![CDATA[二战：失败的小说家成为德国间谍，编造假货间谍网络
-第二次世界大战期间，失败的小说家胡安·普霍尔·加西亚 (Juan Pujol García) 成为德国间谍，但随后转而为英国担任双重间谍。他创建了一个虚假的间谍网络，并向德国人提供虚假信息，帮助欺骗他们有关诺曼底入侵的信息。普霍尔的巧妙策略，包括发明虚构的次级特工和使用公共资源进行报告，为他赢得了英国人的代号“嘉宝”。他独特的间谍活动方式，以及对政治极端主义的深恶痛绝，使他成为坚韧行动的关键人物。普霍尔获得了战争双方颁发的军事勋章，展示了他非凡的间谍技巧。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78291</guid>
-      <pubDate>Fri, 08 Mar 2024 12:20:42 GMT</pubDate>
+      <title>[媒体] Epic Games 在欧盟的好消息！</title>
+      <link>https://t.me/hn_summary/78334</link>
+      <description><![CDATA[Apple 恢复 Epic 在欧盟的账户
+Epic Games 在欧盟的好消息！ Apple 已恢复他们的帐户，使他们能够继续在 App Store 上提供热门游戏。此前，两家科技巨头就 App Store 费用和政策展开了一场颇具争议的法律斗争。这一决定对 Epic 来说是一次胜利，并为其他寻求挑战苹果做法的开发者树立了先例。请继续关注这个正在进行的传奇故事的更多更新。 #EpicGames #Apple #AppStore #EU #legalbattle]]></description>
+      <guid>https://t.me/hn_summary/78334</guid>
+      <pubDate>Fri, 08 Mar 2024 18:15:39 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 cunoFS，这是一种无需使用 FUSE 即可挂载 S3/AZ/GCP 存储的革命性方法。</title>
-      <link>https://t.me/hn_summary/78290</link>
-      <description><![CDATA[显示 HN：cunoFS – 挂载 S3/AZ/GCP 存储 *不带* FUSE，比s3fs快60倍
-隆重推出 cunoFS，这是一种无需使用 FUSE 即可挂载 S3/AZ/GCP 存储的革命性方法。这项创新技术比 s3fs 快 60 倍，为访问云存储提供无缝、高效的解决方案。使用 cunoFS 告别缓慢的性能，迎接闪电般的速度。访问 cuno.io 了解有关这个改变游戏规则的工具的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/78290</guid>
-      <pubDate>Fri, 08 Mar 2024 12:16:37 GMT</pubDate>
+      <title>[媒体]由于缺乏“不冷不热”的常用反义词，导致一些创造性的英语演讲[...]</title>
+      <link>https://t.me/hn_summary/78333</link>
+      <description><![CDATA[“Lukewarm”和“Lukecool”（2021） 
+由于“lukewarm”缺乏常用的反义词，一些有创意的英语使用者建议使用“lukecool”，尽管它被认为是不标准的。虽然“luke”最初的意思是适度温暖，但“lukewarm”在词源上是“luke”的夸大版本。 “lukecool”一词在词源上是一个矛盾修辞法，因为“luke”传统上与温暖联系在一起。尽管如此，这个词偶尔会出现在正式的写作和演讲中，例子可以追溯到 20 世纪 70 年代。语言学家 D. Gary Miller 注意到英语中“lukewarm”反义词的空白，这表明如果更多人开始使用“lukecool”，它可能会被普遍接受。]]></description>
+      <guid>https://t.me/hn_summary/78333</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在提供更多 [...]</title>
-      <link>https://t.me/hn_summary/78289</link>
-      <description><![CDATA[ComflowySpace：更好的 ComfyUI 的开源版本 
-Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在为 SDWebUI 和 ComfyUI 提供更加用户友好且易于访问的替代方案。该项目解决了通常与人工智能生成工具相关的复杂性，使用户更容易创建和管理工作流程。主要功能包括简化安装、工作流程管理、模板使用以及整体更友好的用户体验。该项目欢迎社区的贡献，并鼓励用户报告错误或建议新功能。 Comflowyspace 旨在让所有用户都能更轻松地生成 AI 图像和视频。]]></description>
-      <guid>https://t.me/hn_summary/78289</guid>
-      <pubDate>Fri, 08 Mar 2024 12:10:33 GMT</pubDate>
+      <title>[媒体] 我们可以放弃机场安检剧院了吗？</title>
+      <link>https://t.me/hn_summary/78332</link>
+      <description><![CDATA[我们可以在机场安检剧院认输了吗？&lt; /a&gt;
+美国运输安全管理局正在拉斯维加斯哈里里德国际机场测试新的自助安检通道，承诺缩短等待时间，并为 TSA PreCheck 乘客提供更顺畅的流程。该自动化系统旨在减少与运输安全管理局官员的互动，并最大限度地减少人工搜查。虽然美国运输安全管理局将这次试验作为原型进行宣传，但批评者认为该机构总是落后且效率低下。目标是最终将该计划扩展到其他机场。争议在于这二十年的安全战区是否值得，以及当前的系统是否过于繁琐。令人惊讶的元素是使用全自动检查系统和紫外线发射箱返回来保持物品卫生。]]></description>
+      <guid>https://t.me/hn_summary/78332</guid>
+      <pubDate>Fri, 08 Mar 2024 18:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。</title>
-      <link>https://t.me/hn_summary/78288</link>
-      <description><![CDATA[Rolldown：用 Rust 编写的 Rollup 兼容捆绑器
-隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。通过兼容 Rollup 的 API，Rolldown 提供了速度和兼容性的独特组合。告别缓慢的捆绑时间，迎接与现有工作流程的无缝集成。通过 Rolldown 体验 Rust 在优化 JavaScript 项目方面的强大功能。请访问 rolldown.rs 了解更多信息并立即尝试。]]></description>
-      <guid>https://t.me/hn_summary/78288</guid>
-      <pubDate>Fri, 08 Mar 2024 12:09:29 GMT</pubDate>
+      <title>[媒体] 汤姆·亨伯斯通 (Tom Humberstone) 在他发人深省的连环漫画中探讨了我们可以学到的教训 [...]</title>
+      <link>https://t.me/hn_summary/78331</link>
+      <description><![CDATA[勒德分子可以教给我们什么关于抵制自动化的未来 
+汤姆·亨伯斯通在他发人深省的连环漫画中探讨了我们可以从勒德分子那里学到的关于抵制未来日益自动化的教训。通过巧妙的插图和富有洞察力的评论，他要求我们思考技术对社会的影响以及保持进步与人类劳动之间平衡的重要性。亨伯斯通的独特视角揭示了围绕自动化的争议性争论，并为我们如何驾驭这个快速变化的环境提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/78331</guid>
+      <pubDate>Fri, 08 Mar 2024 17:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大英图书馆网络事件评论提供了网络攻击的详细说明 [...]</title>
-      <link>https://t.me/hn_summary/78287</link>
-      <description><![CDATA[从网络攻击中吸取教训：大英图书馆网络事件回顾 [pdf](https://news.ycombinator.com/item?id=39640190)
-大英图书馆网络事件审查详细介绍了 2023 年 10 月发生的网络攻击，该攻击影响了图书馆的运营和基础设施。报告概述了此次攻击的时间表，包括犯罪团伙窃取数据和破坏服务器的情况。讨论了图书馆的应对和恢复工作，强调了恢复服务和重建基础设施所面临的挑战。该文件还讨论了袭击对图书馆使命和公共目的的影响。分享从该事件中汲取的经验教训，以帮助同行机构和组织加强其网络安全措施。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78287</guid>
-      <pubDate>Fri, 08 Mar 2024 12:02:25 GMT</pubDate>
+      <title>Airbnb 对加拿大住房的影响，特别是蒙特利尔的 Hochelaga-Maisonneuve 邻居 [...]</title>
+      <link>https://t.me/hn_summary/78330</link>
+      <description><![CDATA[Airbnb 对加拿大住房的毁灭性影响
+Airbnb 对加拿大住房市场的影响，尤其是蒙特利尔 Hochelaga-Maisonneuve 社区的影响，对于让-弗朗索瓦·雷蒙德 (Jean-François Raymond) 等长期居民来说是毁灭性的。将公寓改为短期出租的驱逐令许多人在租金飞涨的城市中难以找到经济适用房。 Airbnb 的兴起加剧了住房金融化，大公司以牺牲长期租房者的利益为代价来获利。尽管Airbnb吹捧了经济利益，但长期租赁单位的流失使得居民越来越难以找到稳定的住房。围绕短期租赁的争议凸显了迫切需要改变政策以保护租房者并保留加拿大城市的经济适用房。 （根据 63% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78330</guid>
+      <pubDate>Fri, 08 Mar 2024 17:46:14 GMT</pubDate>
     </item>
     <item>
-      <title>孟买的生活面临着独特的住房危机，一半人口居住在贫民窟 [...]</title>
-      <link>https://t.me/hn_summary/78286</link>
-      <description><![CDATA[孟买废墟——Asterisk
-孟买的生活面临着独特的住房危机，一半人口居住在贫民窟或狭窄的居住条件中。该市严格的容积率（FAR）限制限制了建筑高度和密度，阻碍了增长并加剧了过度拥挤。与其他主要城市相比，孟买的容积率明显较低，抑制了发展并迫使居民居住在更小的居住空间中。此外，严格的租金管制法削弱了租赁市场，阻碍了房东投资新房。放宽这些限制可以改善孟买居民的生活条件、降低成本并促进经济增长。该市的住房政策迫切需要改革，以应对不断上升的人口密度和住房挑战。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78286</guid>
-      <pubDate>Fri, 08 Mar 2024 11:04:01 GMT</pubDate>
+      <title>[媒体]微软已确认俄罗斯网络间谍窃取源代码并访问内部 [...]</title>
+      <link>https://t.me/hn_summary/78329</link>
+      <description><![CDATA[微软确认俄罗斯间谍窃取源代码并访问内部系统
+微软已确认俄罗斯网络间谍在持续的违规行为中窃取了源代码并访问了内部系统。 Midnight Blizzard（也称为 Cozy Bear）的入侵最初于 1 月份披露，其目标是微软的企业电子邮件帐户。虽然没有证据表明客户系统受到损害，但间谍正试图使用​​窃取的信息访问更多帐户。该漏洞始于 11 月，在没有多因素身份验证的情况下对帐户进行了密码喷射攻击。尽管二月份的攻击有所增加，但微软仍保证不会对财务造成影响。由于 Midnight Blizzard 的复杂攻击构成了全球威胁，调查仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/78329</guid>
+      <pubDate>Fri, 08 Mar 2024 17:42:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 悉尼新的西悉尼国际（南希-伯德沃尔顿）机场 (WSI) 将 [...]</title>
-      <link>https://t.me/hn_summary/78285</link>
-      <description><![CDATA[悉尼国际机场率先推出澳大利亚首个数字空中交通管制系统
-悉尼新的西悉尼国际（南希-伯德沃尔顿）机场（WSI）将成为澳大利亚首个数字空中交通管制系统的先驱，该系统无需传统的有人驾驶塔台即可运行。空域管制员将使用带有 20 个摄像头的 45 米长桅杆来监控 20 公里外数据中心的实时反馈，以提供机场的 360 度视图。这项技术已在其他几个国家使用，被视为安全性和效率方面的重大飞跃。尽管有这项创新，专家们相信传统的控制塔仍将在行业中占有一席之地，WSI 系统将成为未来进步的“入门”。]]></description>
-      <guid>https://t.me/hn_summary/78285</guid>
-      <pubDate>Fri, 08 Mar 2024 10:59:56 GMT</pubDate>
+      <title>[媒体]Instagram 凭借其 Reel 超越 TikTok 成为全球下载次数最多的应用程序 [...]</title>
+      <link>https://t.me/hn_summary/78328</link>
+      <description><![CDATA[Instagram 取代 TikTok 成为下载次数最多的应用
+Instagram 凭借模仿 TikTok 短视频格式的 Reels 功能，超越 TikTok 成为全球下载次数最多的应用。尽管面临来自 TikTok 的激烈竞争，Instagram 的快速反应和更广泛的受众吸引力帮助其重新获得了受欢迎程度。然而，TikTok 仍然是一个严重威胁，对中国政府访问用户数据的担忧导致美国的政治反对，并要求 TikTok 的母公司字节跳动剥离该应用程序。两大社交媒体巨头之间的竞争持续加剧，马克·扎克伯格承认 TikTok 的快速增长以及 Meta 的应对措施。]]></description>
+      <guid>https://t.me/hn_summary/78328</guid>
+      <pubDate>Fri, 08 Mar 2024 17:33:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]毒死蜱是一种广泛使用的杀虫剂，与人类脑损伤密切相关[...]</title>
-      <link>https://t.me/hn_summary/78284</link>
-      <description><![CDATA[毒死蜱：与儿童脑损伤有关的农药&lt; br/&gt;
-毒死蜱是一种广泛使用的杀虫剂，与儿童脑损伤密切相关，导致多个国家和美国一些州禁止使用。尽管游说成功，拜登政府还是于 2021 年 8 月宣布禁止毒死蜱，理由是毒死蜱对儿童存在危险。然而，美国第八巡回上诉法院于 2023 年 11 月推翻了该禁令，这是一项颇具争议的举措。科学研究​​表明，产前接触毒死蜱会导致婴儿出生体重下降、智商下降、注意力障碍和运动发育迟缓。孩子们。这种化学物质还与急性农药中毒甚至死亡有关。欧洲食品安全局已禁止销售毒死蜱，美国一些州也禁止其在农业中使用。尽管有这些发现，美国环保局还是干扰了全球减少接触这种神经毒性杀虫剂的努力。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78284</guid>
-      <pubDate>Fri, 08 Mar 2024 10:17:40 GMT</pubDate>
+      <title>[媒体] 隆重推出 Simply News，这是一个由人工智能团队提供支持的革命性新闻平台。</title>
+      <link>https://t.me/hn_summary/78327</link>
+      <description><![CDATA[Show HN：简单新闻 – 只是新闻，由团队运营AI的
+隆重推出 Simply News，这是一个由人工智能团队提供支持的革命性新闻平台。告别有偏见的报道和标题诱饵，因为我们的人工智能代理将事实直接传递到您的屏幕上。 Qurrent 是 Simply News 背后的框架，它利用人工智能提供准确且公正的信息，正在改变我们消费新闻的方式。加入我们 www.simplynews.ai 并体验诸如从未。争议：有些人可能质疑人工智能生成新闻的可靠性。独特之处：利用人工智能技术，以简单、公正的方式传递新闻。]]></description>
+      <guid>https://t.me/hn_summary/78327</guid>
+      <pubDate>Fri, 08 Mar 2024 17:16:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]休达的西班牙士兵正在将性别从男性改为女性，以更好地利用 [...]</title>
-      <link>https://t.me/hn_summary/78283</link>
-      <description><![CDATA[西班牙士兵将性别改为女性以获得更多福利、更高工资
-休达的西班牙士兵正在将性别从男性改为女性，以享受只有女性才能享受的福利，例如更高的工资和更好的宿舍。这一重大决定是在 2023 年 3 月《跨性别法》实施后做出的，该法允许年仅 14 岁的个人在不进行心理或医学评估的情况下改变性别认同。这一有争议的举动引发了争论，一些人认为这是对法律的一种反抗，而另一些人则认为这是获得晋升和加薪的一种方式。令人惊讶的是，许多士兵完好无损地保留了男性身份的所有其他方面，包括生殖器和面部毛发。]]></description>
-      <guid>https://t.me/hn_summary/78283</guid>
-      <pubDate>Fri, 08 Mar 2024 10:00:31 GMT</pubDate>
+      <title>[媒体] 在 nesslabs.com，我们相信了解思维过程和工作习惯 [...]</title>
+      <link>https://t.me/hn_summary/78326</link>
+      <description><![CDATA[杰出思想家——思维过程、工作习惯、决策原则&lt; /a&gt;
+在nesslabs.com，我们相信理解思维过程并工作杰出思想家的习惯可以帮助你提高自己的智力进步。通过站在巨人的肩膀上并借鉴他们的见解，您可以培养集体智慧并产生有意义的影响。我们的系列肖像探讨了挑战现状的有影响力的思想家的决策原则。我们很荣幸能与才华横溢的艺术家 Aya Senousy 合作，以视觉方式捕捉这些才华横溢的思想的精髓。订阅我们的 Maker Mind 时事通讯，每周获取在不牺牲心理健康的情况下实现更多目标的灵感。]]></description>
+      <guid>https://t.me/hn_summary/78326</guid>
+      <pubDate>Fri, 08 Mar 2024 17:09:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
