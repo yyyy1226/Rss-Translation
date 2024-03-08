@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 06:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 12:21:46 GMT</lastBuildDate>
     <item>
-      <title>嘿，模因爱好者！</title>
-      <link>https://t.me/hn_summary/78269</link>
-      <description><![CDATA[最伟大的模因模板
-嘿，模因爱好者！今天，我们将深入探讨有史以来最伟大的模因模板的世界：El Risitas，也被称为“西班牙笑鬼”。这个标志性的表情包以胡安·霍亚·博尔哈 (Juan Joya Borja) 为主角，他富有感染力的笑声俘获了全世界互联网用户的心。从比特币事故到企业失误，“西班牙笑柄”模因已被用来搞笑地记录各种事故。但除了笑声之外，博尔哈的故事也是一个引人入胜的故事，从他在塞维利亚的卑微出身到他在网络上的成名。加入我们，探索这个传奇模因的起源和持久吸引力。请记住，笑确实是最好的良药！ （根据 68% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78269</guid>
-      <pubDate>Fri, 08 Mar 2024 06:17:36 GMT</pubDate>
+      <title>[媒体]“Vim ChatGPT”插件允许用户与大型人进行可编辑的交互式聊天 [...]</title>
+      <link>https://t.me/hn_summary/78292</link>
+      <description><![CDATA[显示 HN：直接使用缓冲区的 Vim ChatGPT 插件
+“Vim ChatGPT”插件允许用户直接在 Vim 编辑器中与大型语言模型进行可编辑的交互式聊天。与其他工具不同，该插件直接使用缓冲区，允许立即保存和编辑对话。用户甚至可以编辑聊天机器人的响应来改变对话流程。使用 Pathogen 和 Python OpenAI 模块安装非常简单。为了方便起见，用户可以将 llmchat#send() 调用映射到按键序列。该插件适用于 llmchat 文件类型，允许用户修改聊天机器人的“个性”并在编辑器中进行对话。目前仅支持 OpenAI 作为提供者。]]></description>
+      <guid>https://t.me/hn_summary/78292</guid>
+      <pubDate>Fri, 08 Mar 2024 12:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么“重置”命令包含延迟？</title>
-      <link>https://t.me/hn_summary/78268</link>
-      <description><![CDATA[为什么 `reset` 命令包含延迟？
-reset 命令包含延迟，因为真正的硬件终端需要它才能正确重置。虽然对于终端模拟器来说无害，但延迟是 1979 年 3BSD 的遗留功能。延迟允许终端在发送初始化字符串后稳定下来。这种做法在 ncurses 中得到了发展，保持延迟以确保正常运行。争议在于假设所有终端都是真实的，但由于缺乏传统的区分方法，因此将延迟作为预防措施包括在内。这一历史实践在现代终端使用中仍然具有相关性。]]></description>
-      <guid>https://t.me/hn_summary/78268</guid>
-      <pubDate>Fri, 08 Mar 2024 06:12:31 GMT</pubDate>
+      <title>[媒体] 第二次世界大战期间，失败的小说家胡安·普霍尔·加西亚 (Juan Pujol García) 成为德国间谍，但 [...]</title>
+      <link>https://t.me/hn_summary/78291</link>
+      <description><![CDATA[二战：失败的小说家成为德国间谍，编造假货间谍网络
+第二次世界大战期间，失败的小说家胡安·普霍尔·加西亚 (Juan Pujol García) 成为德国间谍，但随后转而为英国担任双重间谍。他创建了一个虚假的间谍网络，并向德国人提供虚假信息，帮助欺骗他们有关诺曼底入侵的信息。普霍尔的巧妙策略，包括发明虚构的次级特工和使用公共资源进行报告，为他赢得了英国人的代号“嘉宝”。他独特的间谍活动方式，以及对政治极端主义的深恶痛绝，使他成为坚韧行动的关键人物。普霍尔获得了战争双方颁发的军事勋章，展示了他非凡的间谍技巧。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78291</guid>
+      <pubDate>Fri, 08 Mar 2024 12:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加沙卫生部被指控在长期攻击期间伪造伤亡数字</title>
-      <link>https://t.me/hn_summary/78267</link>
-      <description><![CDATA[加沙卫生部如何伪造伤亡数字&lt; br/&gt;
-加沙卫生部被指控在持续冲突期间伪造伤亡数字，有证据表明报告的数据存在不一致和异常现象。该部声称，大多数伤亡者是妇女和儿童，但统计分析显示，报告的数字之间缺乏相关性。此外，哈马斯承认损失了 6,000 名武装分子，这引发了人们对其数字准确性的质疑。国际观察员缺席，导致难以核实伤亡人数。以色列估计的平民伤亡人数要少得多，这表明真实的伤亡总数可能被夸大了。关于加沙伤亡数字准确性的争议仍未解决。]]></description>
-      <guid>https://t.me/hn_summary/78267</guid>
-      <pubDate>Fri, 08 Mar 2024 06:07:27 GMT</pubDate>
+      <title>隆重推出 cunoFS，这是一种无需使用 FUSE 即可挂载 S3/AZ/GCP 存储的革命性方法。</title>
+      <link>https://t.me/hn_summary/78290</link>
+      <description><![CDATA[显示 HN：cunoFS – 挂载 S3/AZ/GCP 存储 *不带* FUSE，比s3fs快60倍
+隆重推出 cunoFS，这是一种无需使用 FUSE 即可挂载 S3/AZ/GCP 存储的革命性方法。这项创新技术比 s3fs 快 60 倍，为访问云存储提供无缝、高效的解决方案。使用 cunoFS 告别缓慢的性能，迎接闪电般的速度。访问 cuno.io 了解有关这个改变游戏规则的工具的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/78290</guid>
+      <pubDate>Fri, 08 Mar 2024 12:16:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenGFW 是一个开源项目，允许用户创建自己的 Chi 版本 [...]</title>
-      <link>https://t.me/hn_summary/78266</link>
-      <description><![CDATA[OpenGFW 是中国防火墙的开源实现 
-OpenGFW 是一个开源项目，允许用户在 Linux 上创建自己的中国防火墙版本，提供灵活且易于使用的审查功能。它提供了完整的 IP/TCP 重组、各种协议的协议分析器以及基于机器学习的流量分类等功能。该项目旨在使用户能够控制和过滤互联网流量，以实现广告拦截、家长控制和 VPN/代理服务滥用预防等目的。 OpenGFW 通过提供强大的规则引擎、可扩展框架和正在开发的 Web UI 来脱颖而出。该项目仍处于早期阶段，欢迎贡献者帮助实现更多协议。]]></description>
-      <guid>https://t.me/hn_summary/78266</guid>
-      <pubDate>Fri, 08 Mar 2024 06:05:23 GMT</pubDate>
+      <title>Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在提供更多 [...]</title>
+      <link>https://t.me/hn_summary/78289</link>
+      <description><![CDATA[ComflowySpace：更好的 ComfyUI 的开源版本 
+Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在为 SDWebUI 和 ComfyUI 提供更加用户友好且易于访问的替代方案。该项目解决了通常与人工智能生成工具相关的复杂性，使用户更容易创建和管理工作流程。主要功能包括简化安装、工作流程管理、模板使用以及整体更友好的用户体验。该项目欢迎社区的贡献，并鼓励用户报告错误或建议新功能。 Comflowyspace 旨在让所有用户都能更轻松地生成 AI 图像和视频。]]></description>
+      <guid>https://t.me/hn_summary/78289</guid>
+      <pubDate>Fri, 08 Mar 2024 12:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>Rathole 是一个用 Rust 编写的轻量级反向代理，旨在提供安全、稳定的 [...]</title>
-      <link>https://t.me/hn_summary/78265</link>
-      <description><![CDATA[Rathole – Rust 中的轻量级反向代理，如 frp 和 ngrok
-Rathole 是一个用 Rust 编写的轻量级反向代理，旨在为 NAT 穿越提供安全、稳定、高性能的解决方案。与 frp 和 ngrok 类似，Rathole 帮助通过具有公共 IP 的服务器将 NAT 后面的服务公开到互联网。与 frp 相比，它具有更高的吞吐量和稳定性，消耗更少的内存，并提供安全功能，例如强制服务令牌和使用噪声协议的可选加密。 Rathole 还支持服务热重载，并且可以使用 TOML 文件轻松配置。此外，它还提供了基准测试结果和未来功能的计划，例如用于配置的 HTTP API。]]></description>
-      <guid>https://t.me/hn_summary/78265</guid>
-      <pubDate>Fri, 08 Mar 2024 05:58:18 GMT</pubDate>
+      <title>隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。</title>
+      <link>https://t.me/hn_summary/78288</link>
+      <description><![CDATA[Rolldown：用 Rust 编写的 Rollup 兼容捆绑器
+隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。通过兼容 Rollup 的 API，Rolldown 提供了速度和兼容性的独特组合。告别缓慢的捆绑时间，迎接与现有工作流程的无缝集成。通过 Rolldown 体验 Rust 在优化 JavaScript 项目方面的强大功能。请访问 rolldown.rs 了解更多信息并立即尝试。]]></description>
+      <guid>https://t.me/hn_summary/78288</guid>
+      <pubDate>Fri, 08 Mar 2024 12:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，作者探讨了“稳健可容忍”的概念，并且 [...]</title>
-      <link>https://t.me/hn_summary/78264</link>
-      <description><![CDATA[当稳健的可容忍击败不稳定的最佳
-在这篇博文中，作者探讨了“稳健可容忍”的概念，以及它如何通常比“不稳定的最优”更有价值。他们讨论了稳健可容忍的事物如何在各种情况下充分运行，从而降低它们发生灾难性失败的可能性。作者举例说明了在高风险情况下（例如大规模治理结构或关键决策过程）如何保持稳健的容忍度至关重要。他们警告不要为了性能或敏捷性而忽视稳健性的重要性，因为这可能导致“稳健平庸”的状态。总的来说，这篇文章强调了考虑最坏情况的重要性，以及在失败成本很高的领域中稳健容忍的价值。]]></description>
-      <guid>https://t.me/hn_summary/78264</guid>
-      <pubDate>Fri, 08 Mar 2024 05:52:12 GMT</pubDate>
+      <title>[媒体]大英图书馆网络事件评论提供了网络攻击的详细说明 [...]</title>
+      <link>https://t.me/hn_summary/78287</link>
+      <description><![CDATA[从网络攻击中吸取教训：大英图书馆网络事件回顾 [pdf](https://news.ycombinator.com/item?id=39640190)
+大英图书馆网络事件审查详细介绍了 2023 年 10 月发生的网络攻击，该攻击影响了图书馆的运营和基础设施。报告概述了此次攻击的时间表，包括犯罪团伙窃取数据和破坏服务器的情况。讨论了图书馆的应对和恢复工作，强调了恢复服务和重建基础设施所面临的挑战。该文件还讨论了袭击对图书馆使命和公共目的的影响。分享从该事件中汲取的经验教训，以帮助同行机构和组织加强其网络安全措施。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78287</guid>
+      <pubDate>Fri, 08 Mar 2024 12:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国CISA</title>
-      <link>https://t.me/hn_summary/78263</link>
-      <description><![CDATA[CISA 宣布加强开源包注册表安全的举措
-CISA、美国’领先的网络防御机构正在与开源社区合作，以增强关键基础设施的安全性。最近的开源软件安全峰会强调了 OSS 的重要性以及改进安全措施的必要性。软件包注册表是一个重点关注点，CISA 和开源安全基金会正在开发最佳实践框架。包括 Rust 基金会和 Python 软件基金会在内的五个主要软件包注册中心已承诺实施这些安全措施。 CISA 主任 Jen Easterly 强调了政府在不实施监管的情况下增强 OSS 安全性的支持作用，并认识到社区驱动发展的重要性。]]></description>
-      <guid>https://t.me/hn_summary/78263</guid>
-      <pubDate>Fri, 08 Mar 2024 05:43:06 GMT</pubDate>
+      <title>孟买的生活面临着独特的住房危机，一半人口居住在贫民窟 [...]</title>
+      <link>https://t.me/hn_summary/78286</link>
+      <description><![CDATA[孟买废墟——Asterisk
+孟买的生活面临着独特的住房危机，一半人口居住在贫民窟或狭窄的居住条件中。该市严格的容积率（FAR）限制限制了建筑高度和密度，阻碍了增长并加剧了过度拥挤。与其他主要城市相比，孟买的容积率明显较低，抑制了发展并迫使居民居住在更小的居住空间中。此外，严格的租金管制法削弱了租赁市场，阻碍了房东投资新房。放宽这些限制可以改善孟买居民的生活条件、降低成本并促进经济增长。该市的住房政策迫切需要改革，以应对不断上升的人口密度和住房挑战。 （根据 71% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78286</guid>
+      <pubDate>Fri, 08 Mar 2024 11:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mandala 是 GitHub 上的一个项目，用作测试像素逻辑模式的游乐场。</title>
-      <link>https://t.me/hn_summary/78262</link>
-      <description><![CDATA[曼陀罗：用于测试像素逻辑模式的小广场 
-Mandala 是 GitHub 上的一个项目，用作测试像素逻辑模式的游乐场。它允许用户生成屏幕效果，但由于 400x240 屏幕需要逐像素处理，因此不适合实时使用。作者建议改为预渲染或缓存效果。该项目可用于试验不同的像素模式和逻辑。作者提到可能可以进行优化来提高性能。该项目根据 MIT 许可证获得许可。更多信息可以在作者的 Twitter 帐户上找到。]]></description>
-      <guid>https://t.me/hn_summary/78262</guid>
-      <pubDate>Fri, 08 Mar 2024 05:38:01 GMT</pubDate>
+      <title>[媒体] 悉尼新的西悉尼国际（南希-伯德沃尔顿）机场 (WSI) 将 [...]</title>
+      <link>https://t.me/hn_summary/78285</link>
+      <description><![CDATA[悉尼国际机场率先推出澳大利亚首个数字空中交通管制系统
+悉尼新的西悉尼国际（南希-伯德沃尔顿）机场（WSI）将成为澳大利亚首个数字空中交通管制系统的先驱，该系统无需传统的有人驾驶塔台即可运行。空域管制员将使用带有 20 个摄像头的 45 米长桅杆来监控 20 公里外数据中心的实时反馈，以提供机场的 360 度视图。这项技术已在其他几个国家使用，被视为安全性和效率方面的重大飞跃。尽管有这项创新，专家们相信传统的控制塔仍将在行业中占有一席之地，WSI 系统将成为未来进步的“入门”。]]></description>
+      <guid>https://t.me/hn_summary/78285</guid>
+      <pubDate>Fri, 08 Mar 2024 10:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这份经验报告中，来自 Interval Research Corporation 的 Tim Rowledge 详细介绍了 [...]</title>
-      <link>https://t.me/hn_summary/78261</link>
-      <description><![CDATA[在 Smalltalk 中构建实时操作系统内核的经验 [pdf](https ://news.ycombinator.com/item?id=39636076)
-在这份经验报告中，Interval Research Corporation 的 Tim Rowledge 详细介绍了该团队在 Smalltalk 中构建实时操作系统内核的项目。目标是使用 Smalltalk 为媒体处理服务器/网络控制器创建一个完整的操作系统，涵盖从设备驱动程序到用户应用程序的所有内容。尽管该项目在完成前被取消，但团队还是成功构建了一个可靠的 alpha 系统。他们面临诸如实现低中断响应时间、实现实时垃圾收集器以及优化 BitBLT 操作等挑战。使用名为“slang”的 Smalltalk 子集进行 VM 设计和创新的字节码调度机制是他们工作的主要亮点。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78261</guid>
-      <pubDate>Fri, 08 Mar 2024 05:34:57 GMT</pubDate>
+      <title>[媒体]毒死蜱是一种广泛使用的杀虫剂，与人类脑损伤密切相关[...]</title>
+      <link>https://t.me/hn_summary/78284</link>
+      <description><![CDATA[毒死蜱：与儿童脑损伤有关的农药&lt; br/&gt;
+毒死蜱是一种广泛使用的杀虫剂，与儿童脑损伤密切相关，导致多个国家和美国一些州禁止使用。尽管游说成功，拜登政府还是于 2021 年 8 月宣布禁止毒死蜱，理由是毒死蜱对儿童存在危险。然而，美国第八巡回上诉法院于 2023 年 11 月推翻了该禁令，这是一项颇具争议的举措。科学研究​​表明，产前接触毒死蜱会导致婴儿出生体重下降、智商下降、注意力障碍和运动发育迟缓。孩子们。这种化学物质还与急性农药中毒甚至死亡有关。欧洲食品安全局已禁止销售毒死蜱，美国一些州也禁止其在农业中使用。尽管有这些发现，美国环保局还是干扰了全球减少接触这种神经毒性杀虫剂的努力。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78284</guid>
+      <pubDate>Fri, 08 Mar 2024 10:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>去年十月，在一次远足假期期间，我对随机生成器着迷。</title>
-      <link>https://t.me/hn_summary/78260</link>
-      <description><![CDATA[随机性入门
-去年十月，在一次远足假期期间，我对随机生成器着迷。它们以可测量和利用的方式散发信息。对称密码学依赖于随机性，研究随机生成器有助于理解科学方法。混合和搅拌信息至关重要，正如遗传算法和机器学习等优化算法所见。真正的随机性无法证明，但可以实现近似值。可逆生成器可防止输出相关性和固定点。扩散和混淆是密码原语的关键。虽然早期的 PRNG（例如 IBM 的 RANDU）表现不佳，但在研究和提高发电机质量方面已经取得了进步。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78260</guid>
-      <pubDate>Fri, 08 Mar 2024 05:32:52 GMT</pubDate>
+      <title>[媒体]休达的西班牙士兵正在将性别从男性改为女性，以更好地利用 [...]</title>
+      <link>https://t.me/hn_summary/78283</link>
+      <description><![CDATA[西班牙士兵将性别改为女性以获得更多福利、更高工资
+休达的西班牙士兵正在将性别从男性改为女性，以享受只有女性才能享受的福利，例如更高的工资和更好的宿舍。这一重大决定是在 2023 年 3 月《跨性别法》实施后做出的，该法允许年仅 14 岁的个人在不进行心理或医学评估的情况下改变性别认同。这一有争议的举动引发了争论，一些人认为这是对法律的一种反抗，而另一些人则认为这是获得晋升和加薪的一种方式。令人惊讶的是，许多士兵完好无损地保留了男性身份的所有其他方面，包括生殖器和面部毛发。]]></description>
+      <guid>https://t.me/hn_summary/78283</guid>
+      <pubDate>Fri, 08 Mar 2024 10:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
