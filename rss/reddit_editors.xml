@@ -4,20 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 09 Mar 2024 03:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 06:24:20 GMT</lastBuildDate>
+    <item>
+      <title>广播传送参数出现问题 (DVCPRO HD i60)</title>
+      <link>https://www.reddit.com/r/editors/comments/1ba936n/trouble_with_broadcast_delivery_parameters_dvcpro/</link>
+      <description><![CDATA[您好！ 我目前是一家制作公司的 A.E.，我们在满足隔行扫描的 QC 标准方面遇到了困难我们正在向客户提供一些电视节目的片段进行广播。 因此，这是规格摘要： 我们需要提供最终交付具有这些规格  编解码器 - DVCPRO HD 108i60 包装器 - Quicktime Selfcontained 帧速率 - 29.97 fps 分辨率 - 1280x1080本机 扫描 - 隔行扫描 主场 - 上场 视频比特率 - 100-120 Mbps  我们使用这些规格在R3D Raptor上拍摄。它以23.97 fps 逐行扫描拍摄。 我们在 Premiere Pro 2023 上进行编辑。我们使用 R3D RAW 进行在线编辑23.97 序列上的片段。然后我们在 ProRes 422 HQ 中为调色师进行了渲染，仍然是 23.97，以便他们在 DaVinci 中工作。我们在 Avid DNxHR 23.97 中得到了它。 在这里，我们决定将其放在24 fps 序列上，为隔行扫描做好准备，并制作我们的最终渲染为 DVCPRO HD。 这些是该序列的设置。 从这里我们使用 这些设置。 QC 告诉我们，我们的镜头呈现“阻塞”状态。如此处所示，当查看使用“剪辑中的新序列”制作的序列上的渲染时，从 Premiere 中的节目监视器显示上场优先。 只有从一个镜头过渡到另一个镜头时才会明显。 此外，我们正在讨论是否会出现这种情况此处，同时使用两个字段进行监控是正常的。与上面的示例一样，仅在从一个镜头到另一个镜头的过渡帧上才明显。 作为一个长镜头，在尝试不同方法来避免这些伪像时，我们：  使用这些设置对 DVCPRO HDi60 序列上的颜色传递进行去隔行处理，然后再次在 DVCPRO HD 上进行渲染（这是同事的建议）。 我们是否使用 DVCPRO 在原始 23.97 fps 在线编辑序列上进行渲染高清设置。这是使用 R3D RAW 素材。 我们是否对使用 DVCPRO HD 设置的 23.97 fps 颜色获得的原始文件进行渲染。  这些显示了与以前相同的工件。 在此过程中为使我们的材料符合广播标准而提供的任何帮助或指导将不胜感激。谢谢！   由   提交 /u/KubrickStared   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ba936n/trouble_with_broadcast_delivery_parameters_dvcpro/</guid>
+      <pubDate>Sat, 09 Mar 2024 04:32:34 GMT</pubDate>
+    </item>
     <item>
       <title>片场摄像机社交媒体安全区指南</title>
       <link>https://www.reddit.com/r/editors/comments/1ba1ir3/social_media_safe_zone_guide_for_cameras_on_set/</link>
       <description><![CDATA[有人知道可以提供指导的摄像机/监视器现场工具吗？我曾经用胶带粘住相机显示屏，但这是一个不完美的解决方案。 ng 技巧，使镜头很好地适合安全区域，并为文本留出空间。您可以告诉制片人/导演/摄影指导拍摄比他们习惯的更宽的次数的次数有限。 有人知道可以提供指导的摄像机/监视器的现场工具吗？我曾经用胶带粘住相机显示屏，但这是一个不完美的解决方案。 ng 技巧，使镜头很好地适合安全区域，并为文本留出空间。你只能告诉制片人/导演/摄影指导拍摄比他们习惯的更宽的次数。   由   提交 /u/toastedonry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ba1ir3/social_media_safe_zone_guide_for_cameras_on_set/</guid>
       <pubDate>Fri, 08 Mar 2024 22:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣传视频模板</title>
-      <link>https://www.reddit.com/r/editors/comments/1b9v9tq/promo_video_template/</link>
-      <description><![CDATA[嘿，我一直在寻找促销视频的模板，因为我的商店需要一个。我找到了一个我认为非常好的例子，但我还没有找到任何有这样的模板的网站。有谁知道哪里可以找到这样的模板吗？它必须是免费软件。我最常使用 Capcut，但只要它免费就没关系 https://www.etsy.com/dk-en/listing/1560787426/ultimate-luxury-car-watches-money-video?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp; ga_search_query=lifestyle+motivation+clips&amp;ref=sr_gallery-1-1&amp;pro=1&amp;bes=1&amp;dd=1&amp;search_preloaded_img=1&amp;organic_search_click=1  （链接为到一个网站，那里有一个我认为看起来不错的视频）   由   提交 /u/ConversationFew2700   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b9v9tq/promo_video_template/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:26:41 GMT</pubDate>
     </item>
     <item>
       <title>[咆哮] 在我处理这个最新项目时 Premiere 崩溃的原因列表</title>
