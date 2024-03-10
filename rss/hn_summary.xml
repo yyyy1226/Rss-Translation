@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 15:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 21:12:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体]我们的论文介绍了 01.ai 开发的一种新的开放基金会模型 Yi。</title>
-      <link>https://t.me/hn_summary/78627</link>
-      <description><![CDATA[Yi：01.ai 的开放基础模型&lt; br/&gt;
-我们的论文介绍了 Yi，一种由 01.ai。 Yi 旨在为构建和训练深度学习模型提供灵活高效的框架。通过利用 Yi，研究人员和开发人员可以轻松尝试不同的架构、优化器和数据管道，以实现最佳性能。 Yi 的独特之处在于它能够与现有深度学习库无缝集成，使其成为人工智能社区的多功能工具。我们的工作旨在实现尖端人工智能技术的民主化，并帮助用户突破该领域的可能性。]]></description>
-      <guid>https://t.me/hn_summary/78627</guid>
-      <pubDate>Sun, 10 Mar 2024 15:16:05 GMT</pubDate>
+      <title>[媒体] 为 PC 版《侠盗猎车手：圣安地列斯》做好准备，改进的图形和游戏玩法 [...]</title>
+      <link>https://t.me/hn_summary/78663</link>
+      <description><![CDATA[侠盗猎车手：圣安地列斯问答 – 幕后花絮 ( 2006）
+准备好在 PC 上玩《侠盗猎车手：圣安地列斯》吧，改进的图形和游戏玩法修改充分利用了平台的优势。游戏开发者分享了关于新的流地图、脚本引擎改进和圣安地列斯的巨大规模的见解。了解 PC 版本如何通过增加对象密度和剪辑距离来增强体验。从新的游戏功能到 CJ 的重新设计选项，本次问答让您一睹当时最受欢迎的游戏之一的幕后花絮。不要错过以前所未有的方式探索 90 年代帮派生活的机会。]]></description>
+      <guid>https://t.me/hn_summary/78663</guid>
+      <pubDate>Sun, 10 Mar 2024 21:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>想要开怀大笑吗？</title>
-      <link>https://t.me/hn_summary/78626</link>
-      <description><![CDATA[我最喜欢的数学笑话
-想要开怀大笑吗？在 arxiv.org 上查看我最喜欢的数学笑话！从有关虚数的双关语到涉及微积分的巧妙双关语，这些笑话一定会逗乐您。无论您是数学爱好者还是只是想找点乐子，您都会在这个系列中找到喜欢的东西。所以，喝杯咖啡，坐下来，准备好通过一些最好的数学笑话来开怀大笑吧。谁知道数学可以这么有趣？]]></description>
-      <guid>https://t.me/hn_summary/78626</guid>
-      <pubDate>Sun, 10 Mar 2024 15:12:31 GMT</pubDate>
+      <title>GitHub 上的内核强化项目旨在增强 Linux 用户帐户的安全设置 [...]</title>
+      <link>https://t.me/hn_summary/78662</link>
+      <description><![CDATA[内核强化 – 保护 Linux 用户帐户免受暴力攻击
+GitHub 上的内核强化项目旨在增强 Linux 用户帐户的安全设置，以防止暴力攻击。受内核自我保护项目 (KSPP) 的启发，它实现了推荐的 Linux 内核设置和其他措施来防止利用。该项目的独特之处在于将内核指针、ptrace 系统调用、eBPF 和 userfaultfd 系统调用限制为特定功能，并启用各种强化技术，例如 mmap ASLR 和内存归零。它还包括网络强化措施和蓝牙安全增强功能，使用户能够更好地控制系统的安全性。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78662</guid>
+      <pubDate>Sun, 10 Mar 2024 20:53:16 GMT</pubDate>
     </item>
     <item>
-      <title>在“副本的副本：FDA 医疗器械清关的故事”中，作者深入研究了 [...]</title>
-      <link>https://t.me/hn_summary/78625</link>
-      <description><![CDATA[一份副本的副本：FDA医疗的故事设备间隙
-在《副本的副本：FDA 医疗器械审批的故事》一书中，作者深入研究了 FDA 的医疗器械审批流程，特别关注颇具争议的 510(k) 流程，该流程允许设备在不需任何许可的情况下进行快速审批。如果它们被认为与现有设备“基本等效”，则进行临床试验。作者揭示了通过图形模型追踪这些设备谱系的复杂性，强调了在 FDA 数据中查找谓词设备的挑战。尽管遇到障碍，作者还是成功地抓取和分析了数据以揭示见解，最终创建了一个网站，510k.fyi，可视化并与公众分享这些信息。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78625</guid>
-      <pubDate>Sun, 10 Mar 2024 15:09:58 GMT</pubDate>
+      <title>[媒体]我使用 HackerNews 分数创建了一个 h 指数计算器，以帮助找到优质博客 [...]</title>
+      <link>https://t.me/hn_summary/78661</link>
+      <description><![CDATA[HN-索引
+我使用 HackerNews 分数创建了一个 h 指数计算器，以帮助找到要关注的优质博客。通过使用这个指标，我可以对 HN 用户进行评分，并根据他们的影响决定是否关注他们。该过程涉及从 HackerNews API 获取用户和项目数据并计算索引。我的网站上提供了该实现，但 Web 版本比 Python 脚本慢。列出了 h 指数最高的顶级用户，显示他们的提交数量、h 指数和业力。有趣的是，有些用户的 h 指数较低，这表明他们的大部分业力来自于评论。]]></description>
+      <guid>https://t.me/hn_summary/78661</guid>
+      <pubDate>Sun, 10 Mar 2024 20:44:11 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者深入研究了 Snowflake 的工作原理，Snowflake 是一种专有的分析数据 [...]</title>
-      <link>https://t.me/hn_summary/78624</link>
-      <description><![CDATA[雪花，失踪的底漆
-在本文中，作者深入研究了 Snowflake 的工作原理，这是一个只能通过订阅才能获得的专有分析数据库。作者强调了Snowflake与Postgres等传统数据库的区别，强调Snowflake独特的存储方式，缺乏事务、索引和约束。本文还讨论了集群密钥、称为“仓库”的虚拟服务器以及 Snowflake 积分的定价结构。作者的结论是，虽然 Snowflake 可能很昂贵，但其速度和可靠性使其成为数据分析的宝贵选择，特别是能够通过免费试用来试用。]]></description>
-      <guid>https://t.me/hn_summary/78624</guid>
-      <pubDate>Sun, 10 Mar 2024 15:07:25 GMT</pubDate>
+      <title>Shawn Murphy 开发了一种由 Arduino GIGA R1 WiFi 控制的太阳能电动汽车充电系统，p [...]</title>
+      <link>https://t.me/hn_summary/78660</link>
+      <description><![CDATA[使用 Arduino GIGA R1 WiFi 控制 3.6kW 太阳能电动汽车充电&lt; /a&gt;
+Shawn Murphy 开发了一种由 Arduino GIGA R1 WiFi 控制的太阳能电动汽车充电系统，为他的福特 Lightning 电动皮卡车提供动力。他使用了 10 块旧的 360 瓦太阳能电池板和一个备用电池阵列，目标是在四到五年内实现成本平衡，使电力基本免费。 Arduino 板控制面板的倾斜以最大限度地提高效率，将输出提高 20-25%。墨菲继续进行改进，努力为他的卡车实现“免费”能源。这个创新项目展示了家庭发电为电动汽车提供动力的潜力。]]></description>
+      <guid>https://t.me/hn_summary/78660</guid>
+      <pubDate>Sun, 10 Mar 2024 20:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>我们需要在现代系统上进行交换吗？</title>
-      <link>https://t.me/hn_summary/78623</link>
-      <description><![CDATA[现代系统上需要交换吗？
-在这本关于现代系统上交换必要性的综合指南中，红帽深入探讨了虚拟内存管理、过度使用、分页、交换和抖动的重要性。本文解释了何时使用交换、它如何影响系统性能以及现代系统的建议交换量（通常为 RAM 的 20%）。争议在于系统是否应该在没有交换的情况下运行，红帽支持这两种配置，但强调需要了解内存压力下的系统行为。令人惊讶的细节包括交换对系统性能的影响以及可用于优化交换使用的各种调整选项。此外，红帽还提供专门的技术客户经理来提供主动支持和问题解决。]]></description>
-      <guid>https://t.me/hn_summary/78623</guid>
-      <pubDate>Sun, 10 Mar 2024 15:04:51 GMT</pubDate>
+      <title>[媒体] 在 20 世纪 70 年代，AM2900 系列位片 CPU 通过允许 [...]</title>
+      <link>https://t.me/hn_summary/78659</link>
+      <description><![CDATA[20 世纪 70 年代的计算机：计算的一部分
+在 20 世纪 70 年代，AM2900 系列位片 CPU 允许用户构建适合其特定需求的定制 CPU，从而彻底改变了计算。这些芯片（如 AMD AM2901）为创建计算机系统提供了灵活、快速的解决方案。通过将多个芯片链接在一起，用户可以设计具有不同数据路径和功能的 CPU。 AM2900 系列在从工作站到视频游戏的各种应用中取得了成功。虽然其他公司也生产类似的设备，但 AM2900 因其速度和多功能性仍然是许多人的最佳选择。如今，爱好者仍然可以探索和模拟这些突破性的 CPU。]]></description>
+      <guid>https://t.me/hn_summary/78659</guid>
+      <pubDate>Sun, 10 Mar 2024 20:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kākāpō 是一个带有上下文的 Nix 字符串的网络打包器，以不会飞的鹦鹉命名。</title>
-      <link>https://t.me/hn_summary/78622</link>
-      <description><![CDATA[Kākāpō – 具有上下文的 Nix 字符串的 Web 捆绑器 
-Kākāpō 是一个带有上下文的 Nix 字符串的网络打包器，以不会飞的鹦鹉命名。作者创建这个项目的动机是使用像 //users/sterni/nix/html/README.md 更实用。它允许用户从派生编写捆绑包或从属性集捆绑文件树。该项目通过提供一种独特的方法来将 Web 内容捆绑到 Nix 字符串中而脱颖而出。它还提供与 htmlNix 的集成。]]></description>
-      <guid>https://t.me/hn_summary/78622</guid>
-      <pubDate>Sun, 10 Mar 2024 15:02:17 GMT</pubDate>
+      <title>PaperMC/Paper 是一款高性能 Minecraft 服务器，旨在修复游戏玩法和机制 [...]</title>
+      <link>https://t.me/hn_summary/78658</link>
+      <description><![CDATA[PaperMC/Paper：使用最广泛的高性能 Minecraft 服务器&lt; /a&gt;
+PaperMC/Paper 是一款高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题。它被广泛使用，并通过论坛和 Discord 提供支持。该项目为服务器管理员和插件开发人员提供文档，以及从源代码编译 jar 的说明。该项目的独特之处在于其通过 Open Collective 建立的透明财务支持系统，让用户可以看到捐款的使用情况。特别感谢 YourKit 和 JetBrains 的支持。总的来说，PaperMC/Paper 是一个可靠且积极维护的 Minecraft 服务器解决方案。]]></description>
+      <guid>https://t.me/hn_summary/78658</guid>
+      <pubDate>Sun, 10 Mar 2024 20:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇发人深省的文章中，保罗·冯·希佩尔 (Paul von Hippel) 讨论了被驳斥论文的问题 [...]</title>
-      <link>https://t.me/hn_summary/78621</link>
-      <description><![CDATA[被驳斥的论文继续被引用多于失败的复制：可以搜索eng 
-在这篇发人深省的文章中，保罗·冯·希佩尔讨论了学术研究中被驳斥的论文继续被引用的问题，而不是失败的重复论文的问题。希佩尔将法律界对引文索引的使用与学术搜索引擎的现状进行了比较，强调学者需要一个更全面、更可靠的系统来评估研究的严谨性和可靠性。这篇文章提出了关于复制研究的有效性以及学术搜索引擎对延续可疑发现的影响的质疑。改进学术搜索引擎以减少偏见并优先考虑可靠性的提议为这一持续存在的争议提供了一个有希望的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/78621</guid>
-      <pubDate>Sun, 10 Mar 2024 14:41:08 GMT</pubDate>
+      <title>[媒体]作者讨论了他们使用 Rust 和 Astro 进行服务器端渲染的经验 [...]</title>
+      <link>https://t.me/hn_summary/78657</link>
+      <description><![CDATA[使用 Rust 服务 Astro
+作者讨论了他们在 JustFax 项目中使用 Rust 和 Astro 进行服务器端渲染的经验。他们强调了维护 HTML 模板和传递变量的挑战，以及模板引擎的局限性。他们探索了使用 Astro 生成静态站点、解决模板数据和本地化问题的好处。作者最终决定使用 axum Web 框架通过 Rust 为其 Astro 网站提供服务，克服了服务目录和实现自定义 404 处理程序方面的挑战。这种独特的方法展示了作者解决问题的能力和网络开发方面的专业知识。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78657</guid>
+      <pubDate>Sun, 10 Mar 2024 19:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：法学硕士什么时候可以打断或插话？</title>
-      <link>https://t.me/hn_summary/78620</link>
-      <description><![CDATA[问 HN：LLM 何时能够打断或插入？&lt; /a&gt;
-作者正在寻求有关语言模型 (LLM) 何时能够打断或插入对话的见解。这引发了人们对人工智能技术的进步及其模仿人类交流的能力的质疑。法学硕士能够通过控制或添加评论来积极参与讨论的想法既有趣又充满争议。它引发了关于人工智能的未来及其对人类互动的潜在影响的讨论。]]></description>
-      <guid>https://t.me/hn_summary/78620</guid>
-      <pubDate>Sun, 10 Mar 2024 14:28:01 GMT</pubDate>
+      <title>[媒体]动物文化并非人类独有，因为像大黄蜂这样的非人类物种也 [...]</title>
+      <link>https://t.me/hn_summary/78656</link>
+      <description><![CDATA[大黄蜂的社交学习行为过于复杂，无法单独创新&lt; br/&gt;
+动物文化并非人类独有，因为像大黄蜂这样的非人类物种已被证明能够通过社会方式学习复杂的行为，而这些行为很难单独创新。这挑战了只有人类才拥有累积文化的观念，在这种文化中，有益的创新是随着时间的推移在社会上传播和建立的。大黄蜂能够通过社交学习获得两步打开拼图盒的行为，这表明它们学习行为的能力超出了个体的能力。这项研究揭示了动物通过社会学习发展文化传统的潜力，扩大了我们对非人类物种认知能力的理解。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78656</guid>
+      <pubDate>Sun, 10 Mar 2024 19:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LlamaGym 是一个旨在简化大型语言模型（LL [...]</title>
-      <link>https://t.me/hn_summary/78619</link>
-      <description><![CDATA[显示 HN：LlamaGym – 通过在线强化学习微调 LLM 代理
-LlamaGym 是一个旨在通过在线强化学习简化大型语言模型（LLM）代理的微调的项目。传统的强化学习代理离线学习，而 LlamaGym 允许持续实时学习。该项目提供了一个Agent抽象类，用于处理在 Gym 环境中训练 LLM 代理所涉及的各种复杂性，从而更容易地试验代理提示和超参数。 LlamaGym 旨在简化在 RL 环境中训练 LLM 代理的过程并鼓励贡献。该项目承认在线强化学习收敛的难度，并提出了潜在的改进和优化建议。]]></description>
-      <guid>https://t.me/hn_summary/78619</guid>
-      <pubDate>Sun, 10 Mar 2024 14:20:27 GMT</pubDate>
+      <title>DBeaver 是一款开源多平台数据库客户端，专为开发人员、SQL 程序 [...]</title>
+      <link>https://t.me/hn_summary/78655</link>
+      <description><![CDATA[DBeaver – 开源数据库客户端
+DBeaver 是一款开源多平台数据库客户端，专为开发人员、SQL 程序员、数据库管理员和分析师而设计。它支持任何具有 JDBC 驱动程序的数据库，并且还提供支持非 JDBC 数据源（如 MongoDB、Cassandra 等）的商业版本。该项目包括元数据编辑器、SQL 编辑器、数据编辑器、ERD、数据导出/导入和 SQL 执行计划等功能。 DBeaver基于Eclipse平台，采用插件架构，为各种数据库提供附加功能。该项目鼓励贡献并提供具有附加功能和支持的商业版本。此外，对于那些寻求基于 Web 的数据库管理工具的人来说，还可以使用名为 CloudBeaver 的基于 Web 的版本。]]></description>
+      <guid>https://t.me/hn_summary/78655</guid>
+      <pubDate>Sun, 10 Mar 2024 19:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>家乐氏首席执行官建议晚餐吃麦片作为应对食品通胀的解决方案，这一建议引起了 [...]</title>
-      <link>https://t.me/hn_summary/78618</link>
-      <description><![CDATA[“让他们吃麦片”“贪婪通货膨胀”如何激起消费者的愤怒家乐氏
-家乐氏首席执行官建议晚餐吃麦片作为食品通胀的解决方案，这一建议引发了争议并呼吁抵制。 #letthemeatcereal 运动正在获得关注，TikTok 视频和专门网站鼓励顾客抵制家乐氏产品。人们正在讨论“贪婪通货膨胀”的概念，将其视为食品价格上涨的一个因素，家乐氏就是一个典型的例子。抵制活动的成功已经显现，家乐氏谷物食品在一些商店以大幅降价出售。该运动正在扩大到其他公司，如 Netstlé、可口可乐和埃克森美孚。]]></description>
-      <guid>https://t.me/hn_summary/78618</guid>
-      <pubDate>Sun, 10 Mar 2024 14:17:23 GMT</pubDate>
+      <title>[媒体] 在 16 世纪的意大利，奢侈法规定了男性和女性可以穿什么，Ge [...]</title>
+      <link>https://t.me/hn_summary/78654</link>
+      <description><![CDATA[16世纪意大利的时尚警察
+在 16 世纪的意大利，奢侈法规定了男性和女性的着装，由热那亚的时尚警察负责执行这些法律。朱利亚·加拉斯特罗 (Giulia Galastro) 的研究表明，男性比女性更有可能违反这些法律，装饰有贵金属缝线的黑色丝绸服装是一种常见的违法行为。即使是工匠在制作奢侈品时也面临审查，这突显了社会与纺织品之间错综复杂的关系。这些记录让我们得以一窥当时奢华而叛逆的时尚文化，炫耀昂贵的服装是热那亚熙熙攘攘的街道上的一种表演形式。]]></description>
+      <guid>https://t.me/hn_summary/78654</guid>
+      <pubDate>Sun, 10 Mar 2024 19:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
