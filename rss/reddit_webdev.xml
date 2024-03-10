@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 03:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 06:22:04 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法完全模仿本地服务器的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb2dfy/is_there_a_way_to_completely_mimic_a_website_from/</link>
+      <description><![CDATA[嘿，我只是想知道这一点，如果我有一个网站，在导航到它时，它的第一个请求会设置 cookie，允许您继续导航它，是否可以保存网站并提供这些 cookie？   由   提交 /u/HackerArgento   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb2dfy/is_there_a_way_to_completely_mimic_a_website_from/</guid>
+      <pubDate>Sun, 10 Mar 2024 05:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求简单的 AI Wordpress 插件，仅索引 5 个 pdf 文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb1bu2/seeking_easy_ai_wordpress_plugin_that_only/</link>
+      <description><![CDATA[我有一个网站，试图破译列出对某些人的福利的政府文件。 政府提供了 5 个特定的 pdf详细说明了这些细节的文档，但它们很冗长，有时甚至在某些部分令人困惑和矛盾。 所以我试图找到一个只索引这 5 个文档的 AI 搜索引擎，并允许用户输入搜索词，例如： “我是一名 65 岁的男性。在什么情况下可以申请x补助。” 我希望有一个AI辅助搜索插件可以仅根据这5个pdf文档给出书面答复。 有没有这样的工具这可以帮助我实现这一目标吗？   由   提交 /u/TrichoSearch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb1bu2/seeking_easy_ai_wordpress_plugin_that_only/</guid>
+      <pubDate>Sun, 10 Mar 2024 04:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这个特定的用例中，网络抓取合法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb0aen/would_web_scraping_be_legal_in_this_particular/</link>
+      <description><![CDATA[开发者们好， 我有一个想法，想要制作一个应用程序来存储在社交媒体上找到的模因/照片。基本上，用户在网上找到一张他们想要保存的照片，但该应用程序不是保存整个照片，而是找到图像本身的 url 并将其保存到数据库中（或者后端从帖子的页面中抓取图像本身的链接）网址）。然后，当用户打开应用程序时，应用程序使用 URL 加载所有图像，从而使用户避免用已在线托管的照片填满存储空间。然后，用户可以使用该应用程序将照片复制到剪贴板，然后发送给朋友。该应用程序的唯一盈利方式是解锁文件夹和自定义主题等功能，而不是通过实际照片盈利。 我对网络抓取进行了一些研究。由于我没有将内容本身货币化，所以它不会在网上重新发布，无论如何，它都是公开的内容，并且由于保存这些照片是社交媒体网站允许的操作，我假设它在技术上是合法的？我能想到的唯一问题是，如果由于某种原因我的应用程序变得流行，可能会说我给他们的服务器造成了负担，尽管很难做出任何与这些巨大的社交媒体的服务器负载相比的东西网站已经处理过。 我是对的还是我只是太天真？我想听听您的意见。我认为这将是一个有趣的项目，但我不想开始一些事情，如果它最终只是浪费我的时间。  &amp;# 32；由   提交/u/Zev18  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb0aen/would_web_scraping_be_legal_in_this_particular/</guid>
+      <pubDate>Sun, 10 Mar 2024 03:19:56 GMT</pubDate>
+    </item>
     <item>
       <title>在初创公司运行基础设施 4 年后，我认可或后悔的每一个基础设施决策</title>
       <link>https://www.reddit.com/r/webdev/comments/1bb006f/every_infrastructure_decision_i_endorse_or_regret/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好， 这里是全栈自由 Web 开发人员。我一开始只从事网络开发的编程方面，但现在我希望能够提供一个全面的软件包，我还可以帮助客户建立他们的在线形象。  在 SEO 领域，哪些付费或无付费工具是您不可或缺的。我对各种不同的工具有点迷失。目前仅使用基础知识 Moz 和 Google Analytics。这足以真正扩大他们的影响力吗？   由   提交/u/twolf59  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bav51q/seo_process_and_tools/</guid>
       <pubDate>Sat, 09 Mar 2024 23:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将 Swiggy API 用于 React 项目，但它不起作用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bau07z/trying_to_use_swiggy_api_for_react_project_but/</link>
-      <description><![CDATA[www.swiggy.com/dapi/menu/v4/full?lat=12.9351929&amp;lng=77.62448069999999&amp;menuId=219:1  &lt; code&gt; 无法加载资源：服务器响应状态为 403 ()  此错误不断出现，无法访问数据   由   提交/u/lame_hub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bau07z/trying_to_use_swiggy_api_for_react_project_but/</guid>
-      <pubDate>Sat, 09 Mar 2024 22:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控设置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1batzr5/monitor_setup/</link>
-      <description><![CDATA[所以我刚刚完成学士学位，作为礼物，我的父母为我提供了一台显示器设置和办公桌，因为我目前的工作允许我在家工作每周 3 天。  我有一台 49 英寸 QHD 120hz 显示器，仅用于模拟赛车。  我很幸运，拥有 Windows 电脑和工作提供的 MacBook Pro，我一直用它来编写代码。  目前，我一直将 iPad 用作 Mac Pro 旁边的第二台显示器，因此显然需要良好的设置才能高效、专业地工作。  我的选择是  3 x 27 英寸 QHD 高刷新率显示器，一个横向在中间，另外两个纵向在两侧。 （我在工作中的设置是为了在两个方面保持工作流程相似） 2x 32” 4k 60hz 显示器。 （低刷新率会很明显，但分辨率会超过负面影响） 最后使用我目前拥有的 49 英寸，但这会使我的模拟赛车毫无用处，因为我不会有一个屏幕。   任何其他建议。    由   提交 /u/FarQ_PayMe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1batzr5/monitor_setup/</guid>
-      <pubDate>Sat, 09 Mar 2024 22:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>分布式系统阅读清单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1batm30/a_distributed_systems_reading_list/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1batm30/a_distributed_systems_reading_list/</guid>
-      <pubDate>Sat, 09 Mar 2024 22:06:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
