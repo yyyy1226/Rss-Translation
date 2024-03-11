@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 10 Mar 2024 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 01:15:51 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一封每日时事通讯，每天告诉您计算机科学中的一件新事物。使用促销代码：FREINDS 免费 3 个月！</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbqq60/i_made_a_daily_newletter_that_tells_you_about_one/</link>
+      <description><![CDATA[ 由   提交/u/Deep-Cheek-8599   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbqq60/i_made_a_daily_newletter_that_tells_you_about_one/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>日志上队列的优点</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbo8vk/the_advantages_of_queues_on_logs/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbo8vk/the_advantages_of_queues_on_logs/</guid>
+      <pubDate>Sun, 10 Mar 2024 23:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>解析postgres协议 | Kviklet 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1bbl7q0/parsing_the_postgres_protocol_kviklet_blog/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>简洁代码：简洁命名的艺术</title>
       <link>https://www.reddit.com/r/programming/comments/1bbaqli/clean_code_the_art_of_clean_naming/</link>
-      <description><![CDATA[ 由   提交 /u/Ejroby   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Ejroby  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bbaqli/clean_code_the_art_of_clean_naming/</guid>
       <pubDate>Sun, 10 Mar 2024 13:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器学习泛化</title>
-      <link>https://www.reddit.com/r/programming/comments/1bba8ki/machine_learning_generalization/</link>
-      <description><![CDATA[ 由   提交 /u/ml_dnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bba8ki/machine_learning_generalization/</guid>
-      <pubDate>Sun, 10 Mar 2024 13:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助自己在科技职位搜索中脱颖而出的技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1bb8rg5/tips_to_help_yourself_stand_out_during_a_tech_job/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bb8rg5/tips_to_help_yourself_stand_out_during_a_tech_job/</guid>
-      <pubDate>Sun, 10 Mar 2024 12:01:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
