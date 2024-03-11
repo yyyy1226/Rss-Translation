@@ -4,7 +4,37 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 11 Mar 2024 03:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 06:26:21 GMT</lastBuildDate>
+    <item>
+      <title>我做出了一个大胆的举动，公开展示了我们 SaaS 1800 多个客户的数据，接下来发生的事情如下！</title>
+      <link>https://feed.indiehackers.world/post/eda3c73501</link>
+      <description><![CDATA[✅ 独特访问✅ 按指定细分✅ 按部门细分✅ 按公司规模细分
+统计信息每 24 小时刷新一次，以减少每次页面加载的数据库命中率。
+我们如何收集这些数据？
+用户注册后，验证电子邮件后，我们会向他们显示一个入门屏幕来填写此信息。
+我们为什么这样做？
+作为创始人，我喜欢提供客户支持，因为它可以帮助我了解用户用例、他们遇到的困难的步骤以及解决问题的方法。我们可以做出的改进。
+每当我们收到售前问题时，我经常回复以 - 结尾的电子邮件
+**让您知道，我们在全球拥有 1000 多个客户很多
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/eda3c73501</guid>
+      <pubDate>Mon, 11 Mar 2024 06:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是如何在第一次转型后 30 分钟内获得第一位客户的！</title>
+      <link>https://feed.indiehackers.world/post/a0e1856a9d</link>
+      <description><![CDATA[我现在也开始研究免费工具并开始研究 SEO。我将在这个社区分享更多经验！
+产品搜索启动
+如果您想支持我作为独立创始人的旅程，请考虑在我们今天推出产品搜寻时为我的产品投票。这确实会帮助我成长并获得吸引力。
+产品搜寻链接
+非常感谢您阅读我的旅程。我很想得到您对业务的反馈。期待与大家交谈！ 
+
+高塔姆
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a0e1856a9d</guid>
+      <pubDate>Mon, 11 Mar 2024 05:25:23 GMT</pubDate>
+    </item>
     <item>
       <title>通过电子邮件潜在客户开发最大限度提高投资回报率</title>
       <link>https://feed.indiehackers.world/post/ea79e04843</link>
@@ -144,26 +174,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/89702dc2b5</guid>
       <pubDate>Sun, 10 Mar 2024 14:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nomad Bootstrappers 如何定位社交媒体帖子以吸引其他国家/地区的受众？</title>
-      <link>https://feed.indiehackers.world/post/6e23ab58dd</link>
-      <description><![CDATA[如何有效地将我的自然社交媒体帖子定位到特定国家或地区？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6e23ab58dd</guid>
-      <pubDate>Sun, 10 Mar 2024 11:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要你帮助构建 Rocketgraph</title>
-      <link>https://feed.indiehackers.world/post/3480359e29</link>
-      <description><![CDATA[
-Postgres 记录器用于检查和审计您的数据库
-大量资源和文档可帮助您入门
-
-但是如果您不懂编程，不用担心我可以为您构建它。如果您想在自己的初创公司中与 Rocketgraph 合作或进行试验，请与我联系，看看是否可以节省 $$。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3480359e29</guid>
-      <pubDate>Sun, 10 Mar 2024 11:27:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
