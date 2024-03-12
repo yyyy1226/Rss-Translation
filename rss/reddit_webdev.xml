@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 01:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 03:22:33 GMT</lastBuildDate>
+    <item>
+      <title>宣布 freenginx.org</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcn31j/announcing_freenginxorg/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcn31j/announcing_freenginxorg/</guid>
+      <pubDate>Tue, 12 Mar 2024 03:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从 PERN 应用程序的联系页面发送电子邮件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</link>
+      <description><![CDATA[我参加了一个教授 PERN 堆栈的训练营，现在正在将我的个人资料页面放在一起（哇！）。 对于联系页面，我制作了一个表格供用户联系我，我希望这些消息发送到我的电子邮件。是否有 NPM 库或任何我可以用来做到这一点的东西？我找到了nodemailer，但希望不需要通过gmail 来执行此操作。   由   提交/u/sad_throaway13579   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>电容器社区/条纹 vs @revenuecat/购买电容器 vs glassfy</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</link>
+      <description><![CDATA[我目前在使用这 3 种之一之间陷入困境，我已经使用 Ionic、Angular、Capacitor 大约 4 年了，但我从未实现过付款苹果/安卓。我严格来说只需要 3 个订阅。然而我不知道哪一个是最好的选择。如果必须的话，我个人不想接触任何后端（C#）。更愿意使用 API。   由   提交 /u/CEOTRAMMELL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>对所有项目使用相同的域/DNS/电子邮件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bckfjq/use_the_same_domaindnsemail_for_all_projects/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>WSL2 使用 Stripe API + 推送到 git 时速度很慢。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</link>
-      <description><![CDATA[嘿。我最近从 Mac 切换到 Windows，并且一直在使用 WSL2 - Ubuntu。除了我在标题中提到的以外，一切都很完美。我经常使用 Stripe API，对于像 stripe.createSubscription 这样的简单方法，可能需要大约 6 秒的时间。它可能看起来不是很多，但是对于如此简单的事情，当我必须不断地测试东西时，我不希望这种延迟。 此外，当推送到分支时，它可以在 1GB 连接上大约需要 10 秒。以前在 Mac 上，所有这些小事情都是即时的。 我没有挂载 Windows 文件夹。我的所有工作都直接在 Ubuntu 系统中进行。 这里还有其他人使用 WSL2 吗？如果是的话，你有没有经历过和我一样的事情？有解决办法吗？   由   提交/u/artFlix  [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我最近从 Mac 切换到 Windows，并且一直在使用 WSL2 - Ubuntu。除了我在标题中提到的以外，一切都很完美。我经常使用 Stripe API，对于像 stripe.createSubscription 这样的简单方法，可能需要大约 6 秒的时间。它可能看起来不是很多，但是对于如此简单的事情，当我必须不断地测试东西时，我不希望这种延迟。 此外，当推送到分支时，它可以在 1GB 连接上大约需要 10 秒。以前在 Mac 上，所有这些小事情都是即时的。 我没有挂载 Windows 文件夹。我的所有工作都直接在 Ubuntu 系统中进行。 这里还有其他人使用 WSL2 吗？如果有的话，你有没有经历过和我一样的事情？有解决办法吗？   由   提交/u/artFlix  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</guid>
       <pubDate>Tue, 12 Mar 2024 01:09:53 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>我需要职业建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</link>
-      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交/u/Constant_Ad7811   [链接] [评论]]]></description>
+      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交 /u/Constant_Ad7811   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</guid>
       <pubDate>Mon, 11 Mar 2024 23:54:41 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[     &lt; /td&gt;  由   提交/u/Elfet  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcewum/fx_json_viewer_now_supports_yaml/</guid>
       <pubDate>Mon, 11 Mar 2024 21:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这有多糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bce7sf/how_bad_is_this/</link>
-      <description><![CDATA[       由   提交/u/dan55907  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bce7sf/how_bad_is_this/</guid>
-      <pubDate>Mon, 11 Mar 2024 21:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以举办纹身店的图片库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcdry8/where_to_host_image_gallery_for_a_tattoo_shop/</link>
-      <description><![CDATA[所以我正在制作一个包含管理仪表板的纹身店网站。这样他们就可以编辑他们的画廊。  您将在哪里托管图像？这些图片大约有 250 张，预计网站每日流量较低。    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcdry8/where_to_host_image_gallery_for_a_tattoo_shop/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读和理解开源代码的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcd4j7/tips_for_reading_and_understanding_open_source/</link>
-      <description><![CDATA[大家好，我想通过阅读和贡献开源来提高我的编码技能。我会利用你们的一些帮助来阅读和理解开源代码库。    由   提交/u/sovereignchris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcd4j7/tips_for_reading_and_understanding_open_source/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:17:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
