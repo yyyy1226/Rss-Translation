@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 14 Mar 2024 09:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:33:49 GMT</lastBuildDate>
     <item>
       <title>周四提示！ 3 月 14 日星期四一周</title>
       <link>https://www.reddit.com/r/editors/comments/1begsae/tip_thursday_week_of_thu_mar_14/</link>
@@ -106,7 +106,7 @@
     <item>
       <title>达到极致</title>
       <link>https://www.reddit.com/r/editors/comments/1bd6u51/delivering_to_extreme_reach/</link>
-      <description><![CDATA[我过去曾向 ER 交付过，但总是从 Avid 交付。这次我在 Premiere 中，想知道如何最好地设置 5.1 环绕声序列以遵循 ER 规范。我一直在网上阅读相互矛盾的信息，但没有找到可靠的答案 根据 ER 要求，8 通道 5.1 音频。 - 我在首映中看到要设置一个8 多通道序列，全单声道。和潘奇左和偶右。然后导出 SMPTE DTV (L,R,C,LFE,LS,RS,LT,RT) - 我发现的另一个资源说不能平移赔率和偶数。而是将每个单声道通道居中平移。 - 另一个视频表示要使用 5.1 音轨设置序列，并在轨道编辑器中编辑它们以平移左前、中置、右前等。 - p&gt; 有人对此有任何见解吗？ ​ 系统规格： Mac Pro 2017 Monterey 12.7.3 &gt; 首映 2024.1 RAM 64 ​   由   提交/u/hambone_bowler  [链接] [评论]]]></description>
+      <description><![CDATA[我过去曾向 ER 交付过，但总是从 Avid 交付。这次我在 Premiere 中，想知道如何最好地设置 5.1 环绕声序列以遵循 ER 规范。我一直在网上阅读相互矛盾的信息，但没有找到可靠的答案 根据 ER 要求，8 通道 5.1 音频。 - 我在首映中看到要设置一个8 多通道序列，全单声道。和潘奇左和偶右。然后导出 SMPTE DTV (L,R,C,LFE,LS,RS,LT,RT) - 我发现的另一个资源说不能平移赔率和偶数。而是将每个单声道通道居中平移。 - 另一个视频表示要使用 5.1 音轨设置序列，并在轨道编辑器中对其进行编辑以平移左前、中置、右前等。 - p&gt; 有人对此有任何见解吗？ ​ 系统规格： Mac Pro 2017 Monterey 12.7.3 &gt; 首映 2024.1 RAM 64 ​   由   提交/u/hambone_bowler  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bd6u51/delivering_to_extreme_reach/</guid>
       <pubDate>Tue, 12 Mar 2024 19:57:11 GMT</pubDate>
     </item>
