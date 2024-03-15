@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 18:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 21:16:17 GMT</lastBuildDate>
+    <item>
+      <title>翻译也很重要</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bfln43/translations_are_important_too/</link>
+      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bfln43/translations_are_important_too/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，😙随着我们发布新版本的 Jami，我们不仅提高了源代码的可靠性，还为您提高了可靠性！请阅读以下内容：</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bfllj4/hello_everyone_as_we_release_a_new_version_of/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/GNUJami   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bfllj4/hello_everyone_as_we_release_a_new_version_of/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放游戏后端：适用于所有游戏和工具的开源模块化后端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bfll6d/open_game_backend_opensource_modular_backend_for/</link>
+      <description><![CDATA[       由   提交/u/_AngelOnFira_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bfll6d/open_game_backend_opensource_modular_backend_for/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>重新利用 USB-C 壁式电源，将其变成无线台式电源！ :)</title>
       <link>https://www.reddit.com/r/opensource/comments/1bfkl92/repurposing_a_usbc_wall_wart_turning_it_into_a/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿大家👋:) 我最近又开始从事业余项目了。 我想轻松...  跨项目重用代码 替换项目中的模块 部署新想法  &lt; p&gt;​ 花了一些时间，但我终于得到了我喜欢的编排。 它还远未成熟，但这是一个很好的起点。 ​ 我计划继续研究它，但有些人可能需要它。 所以，我分享它是为了帮助他们身边的人项目或小型企业。 ​ https://github.com/whatis277 /收获   由   提交/u/7ad29b72   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</guid>
       <pubDate>Thu, 14 Mar 2024 08:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open-Source Leg：开放硬件和软件系统的新网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1be9vj3/opensource_leg_new_website_for_open_hardware_and/</link>
-      <description><![CDATA[https://www.opensourceleg.org   由   提交 /u/__newerest__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1be9vj3/opensource_leg_new_website_for_open_hardware_and/</guid>
-      <pubDate>Thu, 14 Mar 2024 02:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰政府将其电子政务应用程序 Diia 开源。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</link>
-      <description><![CDATA[   /u/TheNightSkyDude  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</guid>
-      <pubDate>Wed, 13 Mar 2024 18:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数字助理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdxrfx/open_source_digital_assistant/</link>
-      <description><![CDATA[嗨，我想知道是否有 Siri、Goog&#39;e、Cortana 等的替代品，而无需将我的麦克风交给 Apple 等。没有不一定像那些那样发达，但是一个很酷的小语音命令机器人，可以让我在洗碗时控制我的音乐。  大家欢呼 *不是编码专家。只掌握了基础知识。如果我的查询需要的话，不怕介入   由   提交 /u/Chat_Sage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdxrfx/open_source_digital_assistant/</guid>
-      <pubDate>Wed, 13 Mar 2024 17:47:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
