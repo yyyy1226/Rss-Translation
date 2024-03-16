@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 16 Mar 2024 18:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 21:16:47 GMT</lastBuildDate>
     <item>
-      <title>木匠实验室</title>
-      <link>https://www.opensourceagenda.com/projects/mizar-labs</link>
-      <description><![CDATA[用于构建金融机器学习模型的 Python 库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mizar-labs</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:25 GMT</pubDate>
+      <title>CF工人TEXT2KV</title>
+      <link>https://www.opensourceagenda.com/projects/cf-workers-text2kv</link>
+      <description><![CDATA[这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cf-workers-text2kv</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>让他们动摇</title>
-      <link>https://www.opensourceagenda.com/projects/scutquant</link>
-      <description><![CDATA[scutquant是一个开源的离线量化投资平台，由华南理工大学量化投资协会负责维护. 该框架具有低耦合, 高内聚的特点]]></description>
-      <guid>https://www.opensourceagenda.com/projects/scutquant</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:25 GMT</pubDate>
+      <title>狗狗币矿工</title>
+      <link>https://www.opensourceagenda.com/projects/dogecoin-miner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dogecoin-miner</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>智能量化交易</title>
-      <link>https://www.opensourceagenda.com/projects/intelligent-quantitative-trading</link>
-      <description><![CDATA[包含有关量化交易、利用 NLP 进行金融、回测、阿尔法因子的详细而广泛的注释研究、投资组合管理和优化。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/intelligent-quantitative-trading</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:24 GMT</pubDate>
+      <title>十字线X</title>
+      <link>https://www.opensourceagenda.com/projects/crosshair-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crosshair-x</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>Jupyter 量化</title>
-      <link>https://www.opensourceagenda.com/projects/jupyter-quant</link>
-      <description><![CDATA[dockerized Jupyter Quant 研究环境。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jupyter-quant</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:24 GMT</pubDate>
+      <title>莱特币矿工</title>
+      <link>https://www.opensourceagenda.com/projects/litecoin-miner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/litecoin-miner</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>Tatwan 人工智能交易</title>
-      <link>https://www.opensourceagenda.com/projects/tatwan-ai-for-trading</link>
-      <description><![CDATA[用于交易纳米学位项目的人工智能]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tatwan-ai-for-trading</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:24 GMT</pubDate>
+      <title>LLM4反编译</title>
+      <link>https://www.opensourceagenda.com/projects/llm4decompile</link>
+      <description><![CDATA[逆向工程：使用大型语言模型反编译二进制代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llm4decompile</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>雷纳托沃托·诺查丹玛斯</title>
-      <link>https://www.opensourceagenda.com/projects/renatovotto-nostradamus</link>
-      <description><![CDATA[使用机器学习和情绪分析对算法交易策略进行回溯测试。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/renatovotto-nostradamus</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:23 GMT</pubDate>
+      <title>民族解放阵线巨大的主要</title>
+      <link>https://www.opensourceagenda.com/projects/the-fnls-tremendous-main</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/the-fnls-tremendous-main</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>高频交易量化策略</title>
-      <link>https://www.opensourceagenda.com/projects/quant-strategies-hft</link>
-      <description><![CDATA[来源：http://coin.wne.uw.edu.pl/pwojcik/ hfd_en.html]]></description>
-      <guid>https://www.opensourceagenda.com/projects/quant-strategies-hft</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:23 GMT</pubDate>
+      <title>AndrewNei 比特币矿工</title>
+      <link>https://www.opensourceagenda.com/projects/andrewnei-bitcoin-miner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/andrewnei-bitcoin-miner</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>U基金小程序</title>
-      <link>https://www.opensourceagenda.com/projects/ufund-miniprogram</link>
-      <description><![CDATA[Qbot 微信小程序: 自选基金/股票助手、策略选股、股票盯盘、量化投研智库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ufund-miniprogram</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:22 GMT</pubDate>
+      <title>十字准线免费</title>
+      <link>https://www.opensourceagenda.com/projects/crosshair-free</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crosshair-free</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>基于机器学习方法的库存预测与定量分析</title>
-      <link>https://www.opensourceagenda.com/projects/stock-prediction-and-quantitative-analysis-based-on-machine-learning-method</link>
-      <description><![CDATA[该项目研究通过机器法分析中证800指数中股票的多重因素与投资价值的内在关系。基于XGBoost提升树模型，投资系统流程已实现，包括数据获取、数据预处理、模型调优和选择。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/stock-prediction-and-quantitative-analysis-based-on-machine-learning-method</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:22 GMT</pubDate>
+      <title>TradVie Ebajuta 主要</title>
+      <link>https://www.opensourceagenda.com/projects/tradvie-ebajuta-main</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tradvie-ebajuta-main</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>库存热门论文</title>
-      <link>https://www.opensourceagenda.com/projects/stock-top-papers</link>
-      <description><![CDATA[股价预测、量化交易的热门论文合集。涵盖KDD、TKDE、CIKM、AAAI、IJCAI、ACL、EMNLP等顶级会议和期刊。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/stock-top-papers</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:22 GMT</pubDate>
+      <title>Solana NFT 薄荷 Ijunodu 主要</title>
+      <link>https://www.opensourceagenda.com/projects/solana-nft-mint-ijunodu-main</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/solana-nft-mint-ijunodu-main</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>菲比</title>
-      <link>https://www.opensourceagenda.com/projects/fypy</link>
-      <description><![CDATA[支持定量研发的普通和奇异期权定价库。专注于为有趣/有用的模型和合约定价（包括布莱克-斯科尔斯模型和合约），以及根据市场数据校准金融模型。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fypy</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:21 GMT</pubDate>
+      <title>Qhvd5j</title>
+      <link>https://www.opensourceagenda.com/projects/qhvd5j</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qhvd5j</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>开始量化</title>
-      <link>https://www.opensourceagenda.com/projects/startquant</link>
-      <description><![CDATA[本仓库为公众号FinHack炼金术《从零开始卷量化》系列文章示例代码，带你零基础入门量化交易！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/startquant</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:21 GMT</pubDate>
+      <title>Loboevil10 Fl Studio Pro</title>
+      <link>https://www.opensourceagenda.com/projects/loboevil10-fl-studio-pro</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/loboevil10-fl-studio-pro</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>数量金融概论</title>
-      <link>https://www.opensourceagenda.com/projects/introduction-to-quantitative-finance</link>
-      <description><![CDATA[量化投资学习资料整理：学界（行为金融、投资者情绪、常用程序函数，etc）；业界（公开资料整理，数据源，回测框架，卖方金工研报及复现，量化研究学习路线，etc）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/introduction-to-quantitative-finance</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:20 GMT</pubDate>
+      <title>召回工具 B T C</title>
+      <link>https://www.opensourceagenda.com/projects/recall-tool-b-t-c</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/recall-tool-b-t-c</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>虽然</title>
-      <link>https://www.opensourceagenda.com/projects/noba</link>
-      <description><![CDATA[Noba不仅作为量化投资平台，还使用bokeh进行可视化，可以获得更丰富的剧情效果。此外，Noba还提供“Ioc容器”、“事件系统”、“数据库抽象层”、“管道系统”等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/noba</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:20 GMT</pubDate>
+      <title>最佳 TradBot 主要</title>
+      <link>https://www.opensourceagenda.com/projects/the-best-tradbot-main</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/the-best-tradbot-main</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>量化工作</title>
-      <link>https://www.opensourceagenda.com/projects/quant-jobs</link>
-      <description><![CDATA[在量化金融领域找到工作或实习的终极指南。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/quant-jobs</guid>
-      <pubDate>Sat, 16 Mar 2024 18:24:20 GMT</pubDate>
+      <title>Rsgv6hv</title>
+      <link>https://www.opensourceagenda.com/projects/rsgv6hv</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rsgv6hv</guid>
+      <pubDate>Sat, 16 Mar 2024 21:16:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
