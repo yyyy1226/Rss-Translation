@@ -4,12 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 16 Mar 2024 03:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 06:22:31 GMT</lastBuildDate>
+    <item>
+      <title>Show IH：人工智能文档翻译器 - 更高的质量、更低的价格</title>
+      <link>https://feed.indiehackers.world/post/f86534ff97</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f86534ff97</guid>
+      <pubDate>Sat, 16 Mar 2024 03:28:05 GMT</pubDate>
+    </item>
     <item>
       <title>新增内容：反馈 > 收入</title>
       <link>https://feed.indiehackers.world/post/d5556d1e08</link>
       <description><![CDATA[
-提供免费模板作为铅磁铁来构建电子邮件列表。 
+提供铅磁铁等免费模板来构建电子邮件列表。 
 使用联属网络营销来让其他人分享您的模板。
 
 如何获利
@@ -173,15 +180,6 @@ b) 用户：这个产品更多的是教育用户存在问题；也许有人对�
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8b566cdd42</guid>
       <pubDate>Fri, 15 Mar 2024 12:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gen AI 工具的创意？</title>
-      <link>https://feed.indiehackers.world/post/2eee46b1e4</link>
-      <description><![CDATA[我刚刚构建了一个用于图像和音频生成的生成式人工智能工具。然而，我觉得它只是另一个 Gen AI 工具，因为它没有什么特别的。
-您建议添加什么才能使其成为开箱即用的工具？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2eee46b1e4</guid>
-      <pubDate>Fri, 15 Mar 2024 12:16:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
