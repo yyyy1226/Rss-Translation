@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 18:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 21:18:36 GMT</lastBuildDate>
+    <item>
+      <title>对您公司的文档游戏进行排名并说明原因！ （1-10 级）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh7xax/rank_your_companys_documentation_game_and_why/</link>
+      <description><![CDATA[我听说过很多关于文档在不同工作场所要么令人惊叹要么糟糕的事情，我希望亲眼看看大多数人的情况如何！  1 = 最差 10 = 最好   由   提交 /u/TMNTBrian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh7xax/rank_your_companys_documentation_game_and_why/</guid>
+      <pubDate>Sun, 17 Mar 2024 20:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>类型谓词推断：TS 5.5 出人意料的功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh6op1/type_predicate_inference_the_ts_55_feature_no_one/</link>
+      <description><![CDATA[   /u/SitsBehindPiano   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh6op1/type_predicate_inference_the_ts_55_feature_no_one/</guid>
+      <pubDate>Sun, 17 Mar 2024 19:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在著名网站/网络应用程序编辑器中使用过技术吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh6f4j/used_technologies_in_famous_website_web_app/</link>
+      <description><![CDATA[大家好！ 我们正在开发一个协作式 Web 组件编辑器，我很好奇采用了哪些技术（后端、前端）框架）构建了类似的应用程序？例如：  TelportHQ Builder.io Framer Webflow  有人知道它们是如何构建的吗？或者建议您知道其架构的任何其他内容？这些工具是基于 Node js / React / Nextjs 构建的吗？ 非常感谢！   由   提交/u/Gyurmatag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh6f4j/used_technologies_in_famous_website_web_app/</guid>
+      <pubDate>Sun, 17 Mar 2024 19:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday]我为任何网站构建了一个开源低代码数据提取工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh66yx/showoff_saturday_i_built_an_open_source_low_code/</link>
+      <description><![CDATA[ 由   提交/u/GeekLifer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh66yx/showoff_saturday_i_built_an_open_source_low_code/</guid>
+      <pubDate>Sun, 17 Mar 2024 19:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何管理开发团队？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh5rrl/how_do_you_manage_a_team_of_developers/</link>
+      <description><![CDATA[我正在与另一位开发人员一起构建我的第一家初创公司，我们分别拥有 4 年和 6 年的经验。如果进展顺利，在不久的将来我们可能会开始招聘。 我们大部分时间都在自己的开发机构工作，我们是自学成才，所以我们没有公司背景。&lt; /p&gt; 当你只有两岁的时候构建项目很简单，当你 4/5 的时候，它就会变得与众不同。 你对我们如何开始管理第一个雇用的开发人员有什么建议吗？ 、管理和规划开发流程等等？ 哪里可以深入了解这个？非常感谢！ 编辑：我还没有招聘，这只是为了提供信息。请不要私信我找工作   由   提交/u/Ale9xs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh5rrl/how_do_you_manage_a_team_of_developers/</guid>
+      <pubDate>Sun, 17 Mar 2024 19:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>XAMPP 不加载 CSS 图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bh4iaj/xampp_not_loading_css_images/</link>
+      <description><![CDATA[所以我是一个完全的网络开发菜鸟，但我来这里是为了一个非常具体的问题，我无法通过谷歌解决  我使用 vsc 创建了我的网站并使用了实时服务器，它正确地显示了我的所有内容。  我将文件复制到 htdocs 中，一切都按预期显示，只有 css 英雄图像未加载。 html 文件中的任何图像都会照常加载，只有 css 中的文件不会加载。 我能做什么？   由   提交/u/mediumrareperson  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bh4iaj/xampp_not_loading_css_images/</guid>
+      <pubDate>Sun, 17 Mar 2024 18:22:37 GMT</pubDate>
+    </item>
     <item>
       <title>请推荐一些适用于 Node 应用程序的免费托管服务。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh4g7t/please_suggest_some_free_hosting_services_for/</link>
@@ -13,30 +55,16 @@
       <pubDate>Sun, 17 Mar 2024 18:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>害怕凯文会抢走我的工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh4fel/scared_kevin_is_going_to_take_my_job/</link>
-      <description><![CDATA[我见过 Kevin 的安全工作，这是首屈一指的。对于这么年轻的人来说，这是相当可怕的。尤其是在圣诞节前后，每个人都在度假。我从未见过有人像这样对待入侵者。  跟进并在纽约做大更令人印象深刻。我真的很担心凯文会抢走我的工作。    由   提交/u/lunar515  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh4fel/scared_kevin_is_going_to_take_my_job/</guid>
-      <pubDate>Sun, 17 Mar 2024 18:19:31 GMT</pubDate>
-    </item>
-    <item>
       <title>阻止整个线程出现每个关键字？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh40xv/blocking_an_entire_thread_from_appearing_per/</link>
-      <description><![CDATA[这个有趣的帖子出现在 Steam 论坛上，用户不希望看到某些主题被显示。例如，在 reddit 上，隐藏整个线程，使其在浏览时不显示。使用关键字。 我想象存在某种类型的家长过滤器来帮助她。您是否知道类似的东西，为您过滤话题主题的扩展程序或网站？ https://steamcommunity.com/discussions/forum/12/6679473667138907892/?tscn=1710698230   由   提交/u/blitz4  [链接] [评论]]]></description>
+      <description><![CDATA[这个有趣的帖子出现在 Steam 论坛上，用户不希望看到某些主题被显示。例如，在 reddit 上，隐藏整个线程，使其在浏览时不显示。使用关键字。 我想象存在某种类型的家长过滤器来帮助她。您是否知道类似的东西，为您过滤线程主题的扩展程序或网站？ https://steamcommunity.com/discussions/forum/12/6679473667138907892/?tscn=1710698230   由   提交/u/blitz4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh40xv/blocking_an_entire_thread_from_appearing_per/</guid>
       <pubDate>Sun, 17 Mar 2024 18:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>在哪里雇用全栈开发人员（React 和 Supabase）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh38ce/where_to_hire_fullstack_developer_react_and/</link>
-      <description><![CDATA[您好，我最近的项目 ringodating.com 已经获得了一些关注，并且我决定投资聘请一名开发人员。我需要熟悉 Supabase 和 PostgreSQL 的人。我应该去哪里看？ Upwork好用吗？优秀开发商的现行利率是多少？谢谢！   由   提交 /u/ellisbud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh38ce/where_to_hire_fullstack_developer_react_and/</guid>
-      <pubDate>Sun, 17 Mar 2024 17:30:08 GMT</pubDate>
-    </item>
-    <item>
       <title>s3 存储对于个人网站来说太过分了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh2mcb/s3_storage_overkill_for_personal_website/</link>
-      <description><![CDATA[我有大约 3000 张图像（压缩前总计约 15GB），每个图像都有自己的一组具有不同数据类型的信息。目前的计划是将所有图像放入 s3 存储桶中，并使用 mySQL 作为数据库来存储上述所有信息+对图像的引用，然后使用 php 或 javascript 来提供数据 但是这个网站很小（只是一个个人“闲逛”网站，没有用户提交数据）每月最多 1GB 带宽，所以我开始觉得这有点矫枉过正，想知道是否最好将它们放入 gdrive 并创建一个 API，或者更有趣的是，只需将它们全部扔到 github 存储库中并从 CDN 提供它们（免费...哈哈？） 如果我对我的用例有任何建议，请纠正我，如果我误解了任何内容过程中，我还在学习很多东西   由   提交 /u/LiteralHatsy   [链接] [评论]]]></description>
+      <description><![CDATA[我有大约 3000 张图像（压缩前总计约 15GB），每个图像都有自己的一组具有不同数据类型的信息。目前的计划是将所有图像放入 s3 存储桶中，并使用 mySQL 作为所有上述信息的数据库 + 对图像的引用，然后使用 php 或 javascript 来提供数据 但是这个网站很小（只是一个个人“闲逛”网站，没有用户提交数据）每月最多 1GB 带宽，所以我开始觉得这有点矫枉过正，想知道是否最好将它们放入 gdrive 并创建一个 API，或者更有趣的是，只需将它们全部扔到 github 存储库中并从 CDN 提供它们（免费...哈哈？） 如果我对我的用例有任何建议，请纠正我，如果我误解了任何内容过程中，我还在学习很多东西   由   提交 /u/LiteralHatsy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh2mcb/s3_storage_overkill_for_personal_website/</guid>
       <pubDate>Sun, 17 Mar 2024 17:04:52 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>请在部署时需要帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1bh0ujs/need_help_in_deploying_please/</link>
-      <description><![CDATA[大家好！我需要一些帮助来将我的代码部署到铁路，特别是使用 CouchDB 的数据库。 我的项目后端使用 springboot，对于数据库，我有 SQL、MongoDB 和 CouchDB 作为我的数据库。 p&gt; 所以我创建了一个空项目来部署我的后端项目。在里面，我必须创建 3 个环境变量。在铁路中部署时，在我的项目变量下，将有3个变量：一个用于SQL、MongdoDB和CouchDB。对于铁路，添加 SQL 和 MongoDB 后，会自动添加 URL 的环境变量，但 CouchDB 则不是这样！ 因此，对于我的空项目，其环境变量下，我将这个：SPRING_DATASOURCE_URL 放在我的变量名称和参考我这样写：jdbc:${{MySQL.MYSQL_URL}}。这是针对 SQL 的。 我将这个：SPRING_DATA_MONGODB_URI 放在我的变量名下，作为参考，我将这个：${{MongoDB.MONGO_URL}}/products?authSource=admin。这是针对 MongoDB 的。 那么对于 CouchDB，我应该设置什么变量名称以及作为我的参考？ 非常感谢！   由   提交 /u/digitalghost_   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我需要一些帮助来将我的代码部署到铁路，特别是使用 CouchDB 的数据库。 我的项目后端使用 springboot，对于数据库，我有 SQL、MongoDB 和 CouchDB 作为我的数据库。 p&gt; 所以我创建了一个空项目来部署我的后端项目。在里面，我必须创建 3 个环境变量。在铁路中部署时，在我的项目变量下，将有3个变量：一个用于SQL、MongdoDB和CouchDB。对于铁路，添加 SQL 和 MongoDB 后，会自动添加 URL 的环境变量，但 CouchDB 则不是这样！ 因此，对于我的空项目，其环境变量下，我将这个：SPRING_DATASOURCE_URL 放在我的变量名称和参考我这样写：jdbc:${{MySQL.MYSQL_URL}}。这是针对 SQL 的。 我将这个：SPRING_DATA_MONGODB_URI 放在我的变量名称下，作为参考，我将这个：${{MongoDB.MONGO_URL}}/products?authSource=admin。这是针对 MongoDB 的。 那么对于 CouchDB，我应该设置什么变量名称以及作为我的参考？ 非常感谢！   由   提交 /u/digitalghost_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bh0ujs/need_help_in_deploying_please/</guid>
       <pubDate>Sun, 17 Mar 2024 15:51:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[      当我尝试在渲染中部署并且我有时出现错误，提示找不到模块完成了express的安装，它也在package.json中   由   提交/u/RustyGenius_98   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgzope/help/</guid>
       <pubDate>Sun, 17 Mar 2024 15:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>背景颜色的 CSS 过渡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgzn72/css_transitions_for_background_color/</link>
-      <description><![CDATA[嗨，我一直在为我的react-responsive-carousel 创建自定义指示器设置，除了 CSS 的转换之外，一切正常属性backgroundColor  renderIndicator={(onClickHandler, isSelected, index, label) =&gt;; { const defStyle = { marginLeft：10，宽度：10，高度：10，borderRadius：&#39;5px&#39;，backgroundColor：&#39;白色&#39;，光标：&#39;指针&#39;，显示：&#39;内联块&#39;，过渡：&#39;宽度0.3s轻松,backgroundColor 0.3s 缓动&#39; }; const 样式 = isSelected ? { ...defStyle, 宽度: 20, 背景颜色: &#39;rgb(232, 0, 113)&#39; } : { ...defStyle }; return ( ); }}  我尝试添加 MozTransition: &#39;width 0.3s escape, backgroundColor 0.3s escape&#39;  但这也没有帮助。我该怎么做才能确保颜色也过渡？   由   提交/u/SerFuxAIot  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgzn72/css_transitions_for_background_color/</guid>
-      <pubDate>Sun, 17 Mar 2024 15:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>REST API 设计。按 ID 筛选还是按名称筛选？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgytir/rest_api_design_filter_by_ids_or_by_names/</link>
-      <description><![CDATA[如果我有一个订单，并且我想创建端点以按多个订单状态进行过滤，最佳实践是什么？ &lt; p&gt;使用每个状态的名称进行过滤，如下所示： status=active,inactive,processing,pending  使用每个状态的 id 进行过滤，像这样： status=activeStatusUUID,inactiveStatusUUID,processingStatusUUID,pendingStatusUUID  在第二个中，想象这些是 UUID，而不是我放入其中的内容。但你明白了。 什么是最好的设计？   由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgytir/rest_api_design_filter_by_ids_or_by_names/</guid>
-      <pubDate>Sun, 17 Mar 2024 14:27:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于社交媒体网站的 PHP 还是 JS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgyi91/php_or_js_for_a_social_media_site/</link>
-      <description><![CDATA[哪个更好？我希望该应用程序性能良好且易于管理，但也希望它在服务器上运行起来很容易，因为我无法在云上花费太多，因此需要有效地使用资源。  ​   由   提交/u/SpaciousCoder78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgyi91/php_or_js_for_a_social_media_site/</guid>
-      <pubDate>Sun, 17 Mar 2024 14:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hostinger 是注册域名的好网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgyfz5/is_hostinger_a_good_site_to_register_my_domain/</link>
-      <description><![CDATA[抱歉问了这么多问题。这似乎是最吸引人的，但请告诉我。   由   提交 /u/Big-Contribution4896    reddit.com/r/webdev/comments/1bgyfz5/is_hostinger_a_good_site_to_register_my_domain/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgyfz5/is_hostinger_a_good_site_to_register_my_domain/</guid>
-      <pubDate>Sun, 17 Mar 2024 14:10:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 12:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 21:05:23 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在 JavaScript 中处理许多字节大小的 bool 字段可能会令人沮丧。</title>
-      <link>https://t.me/hn_summary/79836</link>
-      <description><![CDATA[更痛苦的事情之一：许多带有字节大小布尔值的布尔字段
-在 JavaScript 中处理许多字节大小的 bool 字段可能会令人沮丧。管理这些字段的痛苦可能是巨大的，尤其是在尝试优化代码以提高性能时。争议在于处理这些字节大小的布尔值所带来的低效率和复杂性。对于开发人员来说，这是一个常见的难题，但找到巧妙的解决方案来简化此过程可以显着提高代码效率。]]></description>
-      <guid>https://t.me/hn_summary/79836</guid>
-      <pubDate>Sun, 17 Mar 2024 12:25:36 GMT</pubDate>
+      <title>[媒体] Meticulous 是一家总部位于伦敦的 YC 公司，正在通过 Elimina 彻底改变前端测试 [...]</title>
+      <link>https://t.me/hn_summary/79906</link>
+      <description><![CDATA[Meticulous (YC S21) 正在招聘以消除 UI 测试
+Meticulous 是一家总部位于伦敦的 YC 公司，正在通过消除 UI 测试的需要来彻底改变前端测试。使用被动记录会话的工具，Meticulous 生成一个全面的测试套件，无需任何开发人员干预即可捕获 UI 错误和回归。该团队由来自顶级科技公司的工程师组成，正在聘请一名创始工程师来塑造公司并解决诸如构建用于重播会话的分布式系统等挑战。一丝不苟重视透明度、坦诚的反馈和持续改进，为个人成长提供指导和机会。如果您是一位技术出色、对软件工程充满热情的工程师，Meticulous 希望您加入他们的团队。]]></description>
+      <guid>https://t.me/hn_summary/79906</guid>
+      <pubDate>Sun, 17 Mar 2024 21:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>十年前，随着经济增长和工资上涨，政治格局更加平静。</title>
-      <link>https://t.me/hn_summary/79835</link>
-      <description><![CDATA[托马斯·皮凯蒂失败的革命
-十年前，随着经济增长和工资上涨，政治格局更加平静。随后，托马斯·皮凯蒂（Thomas Piketty）的著作《二十一世纪的资本》风靡全球，重点关注财富不平等和顶层 1% 的权力。皮凯蒂的分析与“占领”和“英国未削减”等运动产生了共鸣，强调了代际不公平以及继承在财富积累中的作用。尽管皮凯蒂提出了全球财富税等解决方案，但左派一直在努力将反对意见转化为变革性的政治行动。随着社会努力应对日益严重的不平等和资产所有权问题，皮凯蒂的著作提出了关于资本主义的未来以及扭转根深蒂固趋势的挑战的问题。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79835</guid>
-      <pubDate>Sun, 17 Mar 2024 12:11:30 GMT</pubDate>
+      <title>[媒体]《数字市场法案》(DMA) 给 Apple 的 iOS 生态系统带来了重大变化 [...]</title>
+      <link>https://t.me/hn_summary/79905</link>
+      <description><![CDATA[由于您不在该范围内而无法获得的新 iOS 功能欧盟
+《数字市场法案》(DMA) 给苹果在欧盟的 iOS 生态系统带来了重大变化，迫使该公司允许第三方应用商店，包括《堡垒之夜》回归 iPhone。开发人员现在可以在 App Store 之外分发应用程序、从其网站提供直接下载、更改 Safari 等默认应用程序以及访问新的 API 以实现互操作性。苹果还致力于为希望转向 Android 的用户开发数据便携解决方案。尽管苹果的“恶意合规”引发了争议，但 DMA 却给欧盟 iOS 用户带来了积极的变化，让欧盟以外的用户羡慕不已。]]></description>
+      <guid>https://t.me/hn_summary/79905</guid>
+      <pubDate>Sun, 17 Mar 2024 20:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>七年前，我怀着利用人类驾驶技术的愿景踏上了 comma.ai 的旅程 [...]</title>
-      <link>https://t.me/hn_summary/79834</link>
-      <description><![CDATA[模仿学习
-七年前，我踏上了 comma.ai 的旅程使用人类驾驶数据来训练自动驾驶模型的愿景。从图像预测转向角的最初尝试失败了，导致开发了车道位置模型作为校正因子。尽管在定义车道线的基本事实方面遇到了困难，但我们在将它们从系统中删除方面取得了进展。现在，我们已经找到了行为克隆的潜在解决方案，强调了训练模型中反相关错误的重要性。关键在于准确估计累积误差以实现成功的端到端驾驶。]]></description>
-      <guid>https://t.me/hn_summary/79834</guid>
-      <pubDate>Sun, 17 Mar 2024 12:10:25 GMT</pubDate>
+      <title>[媒体] Pine64 三月更新充满了令人兴奋的新产品和开发。</title>
+      <link>https://t.me/hn_summary/79904</link>
+      <description><![CDATA[Pine64 3 月更新：掀起波澜
+Pine64 三月更新充满了令人兴奋的新产品和开发。 PineVox 是一款基于 BL606P 的家庭助理智能扬声器，正在开发中，具有硬件麦克风终止开关等功能，可保护用户隐私。此外，采用 Allwinner SoC 的新型 SBC 即将推出，其中包括前景广阔的 Allwinner A527。 IronOS 2.22 为 Pinecilv2 带来了改进，而 PineTime 项目则凭借新功能和优化继续蓬勃发展。 Danctnix 项目更新包括新的 Arch 映像和改进的 Wi-Fi/蓝牙稳定性的计划。令人兴奋的发展和社区合作正在塑造 Pine64 产品的未来。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79904</guid>
+      <pubDate>Sun, 17 Mar 2024 20:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，谷歌学术搜索“当然，这里是”揭示了一个完整的[...]</title>
-      <link>https://t.me/hn_summary/79833</link>
-      <description><![CDATA[Google 学术搜索：“当然，这里是”-ChatGPT -LLM 
-令人惊讶的是，谷歌学术搜索“当然，这里是”显示了大量学术论文，其中包含明显由 ChatGPT 撰写的部分。这些部分通常以“当然，这是所提供部分的简明摘要”开头，使它们很容易被发现。争议在于学术论文中人工智能生成内容的使用，引发了对学术工作真实性和原创性的质疑。访问 simonwillison.net 深入研究这一有趣的发现。]]></description>
-      <guid>https://t.me/hn_summary/79833</guid>
-      <pubDate>Sun, 17 Mar 2024 11:37:12 GMT</pubDate>
+      <title>Neato 是一个即将推出的内容管理和发布系统，它将易于使用、有趣、 [...]</title>
+      <link>https://t.me/hn_summary/79903</link>
+      <description><![CDATA[Neato
+Neato 是即将推出的内容管理和发布系统，它将易于使用、有趣且文档齐全。作者几十年来一直致力于此类系统，他对这个新项目感到兴奋，并承诺它值得等待。作者反思了过去匆忙的项目以及花时间把事情做好的重要性。 Neato 将作为一项独立服务提供，并集成到 Web 1 Land 和 omg.lol 中。请继续关注 neato.pub 的更新并为测试版做好准备几个月后推出。]]></description>
+      <guid>https://t.me/hn_summary/79903</guid>
+      <pubDate>Sun, 17 Mar 2024 20:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]分析师警告称，随着微软计划分阶段实施，企业将面临挑战 [...]</title>
-      <link>https://t.me/hn_summary/79832</link>
-      <description><![CDATA[经典 Outlook for Windows 即将终结&lt; br/&gt;
-分析师警告说，企业将面临挑战，因为微软计划逐步淘汰经典的 Outlook for Windows，支持最早可能会在 2029 年结束。新的 Outlook 缺乏关键功能，例如离线支持和与 COM 加载项的兼容性。微软敦促公司转向网络插件，但一些客户对此表示怀疑。与 Teams 和 Copilot 的集成已经在进行中，预计将于 2025 年过渡到新的 Outlook。虽然有些人认为 Slack 等消息传递平台是未来，但微软对电子邮件采取了谨慎的态度，并计划集成更新的协作技术从长远来看。]]></description>
-      <guid>https://t.me/hn_summary/79832</guid>
-      <pubDate>Sun, 17 Mar 2024 11:20:05 GMT</pubDate>
+      <title>[媒体]这篇文章深入探讨了奢侈时尚品牌 Loro Piana 的争议问题 [...]</title>
+      <link>https://t.me/hn_summary/79902</link>
+      <description><![CDATA[骆驼毛衣和 9000 美元的毛衣
+这篇文章深入探讨了 LVMH 旗下奢侈时装公司 Loro Piana 的争议问题，该公司依靠秘鲁原住民社区的免费劳动力生产价值 9,000 美元的骆马毛衣。尽管价格很高，秘鲁安第斯山脉的原住民，比如 75 岁的安德里亚·巴里恩托斯 (Andrea Barrientos)，只获得了他们劳动价值的一小部分。骆马毛贸易一度因偷猎而几近灭绝，但并没有显着改善相关贫困社区的生活。文章强调了奢侈时尚行业的利润与供应链底层面临的严酷现实之间的差距。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79902</guid>
+      <pubDate>Sun, 17 Mar 2024 20:38:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Liebreich：净零排放将比你想象的更难 - 也更容易。</title>
-      <link>https://t.me/hn_summary/79831</link>
-      <description><![CDATA[Liebreich：净零将比您想象的更难 - 也更容易。第二部分：更容易
-在文章的第二部分中，Michael Liebreich 探讨了净零转型的牛市案例，介绍了转型的五位超级英雄。第一个超级英雄是指数级增长，展示了太阳能光伏、风能和电池技术的快速进步。第二个超级英雄是系统解决方案，强调采用综合方法解决可再生能源变化的重要性。第三个超级英雄是大国竞争，突出了钢铁、航运和水泥等难以减排行业的脱碳进展。利布里奇的乐观态度源于清洁能源技术的显着增长和投资，为更加可持续的未来铺平了道路。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79831</guid>
-      <pubDate>Sun, 17 Mar 2024 11:14:00 GMT</pubDate>
+      <title>[媒体]Radicle 是一个革命性的开源点对点协作平台，它挑战 [...]</title>
+      <link>https://t.me/hn_summary/79901</link>
+      <description><![CDATA[Radicle：开源、点对点、GitHub替代方案
+Radicle 是一个革命性的开源点对点协作平台，挑战了 GitHub 等服务的中心化性质。 Radicle 专注于安全性和容错性，使用公钥加密和八卦协议来确保整个网络的广泛数据共享。用户可以在其硬件上运行全栈节点，甚至可以离线运行，这对于那些偶尔访问互联网的人来说是理想的选择。 Zulipchat 上的活跃社区热闹非凡，为希望摆脱传统平台的开发者提供了独特的选择。此外，Radicle 还提供私有 Git 服务器和 Gitless 等选项，适合每个人。]]></description>
+      <guid>https://t.me/hn_summary/79901</guid>
+      <pubDate>Sun, 17 Mar 2024 20:32:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：Twitter 帐户“海绵宝宝的引力崩溃”探讨了幽默 [...]</title>
-      <link>https://t.me/hn_summary/79830</link>
-      <description><![CDATA[海绵宝宝重力塌陷
-摘要：推特账户“海绵宝宝的重力崩溃”探讨了如果海绵宝宝经历重力崩溃会发生什么的幽默和荒谬的概念。通过巧妙而独特的推文，该帐户想象了心爱的卡通人物被吸进黑洞或在自身重量下崩溃的情景。虽然有些人可能会因为主题的黑暗性质而觉得内容有争议，但海绵宝宝的粉丝会欣赏角色冒险中的创意和娱乐性转折。跟随我们一起探索大家最喜爱的海绵的异想天开和超凡脱俗。]]></description>
-      <guid>https://t.me/hn_summary/79830</guid>
-      <pubDate>Sun, 17 Mar 2024 10:58:52 GMT</pubDate>
+      <title>此更新的 SAML v2.0 部署配置文件是根据经验广泛输入的结果 [...]</title>
+      <link>https://t.me/hn_summary/79900</link>
+      <description><![CDATA[用于联合互操作性的 SAML v2.0 部署配置文件&lt; br /&gt;
+此更新的 SAML v2.0 部署配置文件是经验丰富的实施者和部署者广泛投入的结果，提供了 15 年来开发的最佳实践。虽然重点关注大规模联合部署，但这些要求适用于任何重要的 SAML SSO 部署。该配置文件强调特定条件下的主体识别和特定 SAML 属性，并可以选择失败。它澄清不需要披露个人身份信息，由 IdP 自行决定。该文档还概述了 SAML 2.0 规范的符号、术语和参考，以提供明确的实施指南。]]></description>
+      <guid>https://t.me/hn_summary/79900</guid>
+      <pubDate>Sun, 17 Mar 2024 20:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>LLM4Decompile 是一个开源项目，专注于使用 Large Language 反编译二进制代码 [...]</title>
-      <link>https://t.me/hn_summary/79829</link>
-      <description><![CDATA[LLM4Decompile：用LLM反编译二进制代码
-LLM4Decompile 是一个开源项目，专注于使用大型语言模型 (LLM) 反编译二进制代码。该项目旨在通过创建一个评估反编译代码的可重新编译性和可重新执行性的基准来评估反编译过程。通过在汇编源对数据集上训练 DeepSeek-Coder 模型，该项目通过强调反编译过程中语法完整性（可重新编译性）和语义正确性（可重新执行性）的重要性而脱颖而出。该项目提供了各种具有不同参数大小的LLM模型，并提供了如何使用模型进行反编译的指导。此外，该项目还包括一个评估工具 Decompile-Eval，用于评估反编译代码的质量。]]></description>
-      <guid>https://t.me/hn_summary/79829</guid>
-      <pubDate>Sun, 17 Mar 2024 10:43:46 GMT</pubDate>
+      <title>Vector 是一个高性能可观测数据管道，允许用户收集、传输 [...]</title>
+      <link>https://t.me/hn_summary/79899</link>
+      <description><![CDATA[向量：高性能可观测性数据管道&lt; br /&gt;
+Vector 是一种高性能可观测性数据管道，允许用户收集、转换日志和指标并将其路由到任何供应商。它旨在降低可观测成本、提高数据质量并提高洞察力。 Vector 的与众不同之处在于其可靠性、作为代理或聚合器的端到端部署，以及处理日志、指标和跟踪的能力。它是开源的，比其他替代方案快 10 倍。 Vector 被 Atlassian 和 T-Mobile 等公司使用，每天的下载量超过 100,000 次，并拥有 100 多个贡献者。性能测试显示了它相对于该领域其他工具的优越性。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79899</guid>
+      <pubDate>Sun, 17 Mar 2024 20:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何开始使用本地语言模型？</title>
-      <link>https://t.me/hn_summary/79828</link>
-      <description><![CDATA[询问 HN：如何开始使用本地语言模型？
-news.ycombinator.com 上这篇文章的作者是努力了解如何开始使用本地语言模型。他们涉足了各种工具和安装，例如 Talk to a Transformer 和 Umbrel LlamaGPT，但在可用信息的海洋中感到迷失，尤其是自从 llama 模型发布以来。他们提到了 HuggingFace 的混乱以及由于文件大小限制而在 Windows 上运行 Mozilla Llamafiles 的困难。作者正在寻求有关如何掌握这些技术并跟上该领域快节奏进步的建议。]]></description>
-      <guid>https://t.me/hn_summary/79828</guid>
-      <pubDate>Sun, 17 Mar 2024 10:40:41 GMT</pubDate>
+      <title>关于 C++ Exit-Time Destructors 的文章深入研究了对象销毁的复杂性 [...]</title>
+      <link>https://t.me/hn_summary/79898</link>
+      <description><![CDATA[C++ 退出时析构函数
+关于 C++ 退出时析构函数的文章深入研究了具有静态和线程存储持续时间的 C++ 程序中对象销毁的复杂性。它探讨了使用 cxaatexit 代替 atexit 来注册析构函数，强调了处理动态库卸载等优点。该文章还讨论了禁用退出时析构函数的方法，例如使用指向动态分配对象的指针或使用具有空析构函数的类模板。令人惊讶的是，它揭示了针对无操作析构函数的编译器优化，并在 Clang 中引入了诸如 [[clang::nodestroy]] 之类的属性。本文最后对 LLVM 的 ManagedStatic 及其对程序拆卸效率的影响进行了案例研究。]]></description>
+      <guid>https://t.me/hn_summary/79898</guid>
+      <pubDate>Sun, 17 Mar 2024 20:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 拒绝邀请就是为了控制您的时间并优先考虑真正的事情 [...]</title>
-      <link>https://t.me/hn_summary/79827</link>
-      <description><![CDATA[拒绝邀请
-拒绝邀请就是为了控制您的时间并优先考虑对您真正重要的事情。跳过那些不会给你的生活增加价值的活动和会议的有争议的建议可能会引起一些人的注意，但当你参加时留下难忘的时刻的想法是一个独特的转折。礼貌地拒绝邀请并提供传统社交聚会替代方案的建议巧妙且令人耳目一新。最终，信息很明确：明智地、毫无歉意地度过你的时间，专注于给你带来快乐和成就感的事情。]]></description>
-      <guid>https://t.me/hn_summary/79827</guid>
-      <pubDate>Sun, 17 Mar 2024 10:18:32 GMT</pubDate>
+      <title>[媒体]微软通过在其 Copilot p 上免费提供 GPT-4-Turbo 来震撼人工智能世界 [...]</title>
+      <link>https://t.me/hn_summary/79897</link>
+      <description><![CDATA[Microsoft 向 Copilot 用户免费提供 GPT-4-Turbo 访问权限
+微软通过在其 Copilot 平台上免费提供 GPT-4-Turbo 来震撼人工智能世界，这一举措以前只能通过付费订阅才能实现。这种强大的语言模型具有更大的上下文窗口，可以在一次聊天中接受数万个单词。微软对 Copilot 的慷慨提供给免费用户，使其与 OpenAI 等仅免费提供 GPT-3.5 的竞争对手区分开来。 OpenAI 的 GPT-4.5-Turbo 模型的潜在泄露增加了人工智能社区的兴奋和猜测。微软的这一举措改变了游戏规则，体现了他们致力于让所有用户都能使用人工智能的承诺。]]></description>
+      <guid>https://t.me/hn_summary/79897</guid>
+      <pubDate>Sun, 17 Mar 2024 20:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
