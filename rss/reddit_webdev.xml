@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 01:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 03:19:36 GMT</lastBuildDate>
+    <item>
+      <title>Remilia 金库被黑客入侵，损失超过 100 万美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bglvjk/remilia_treasury_got_hacked_for_over_1_million/</link>
+      <description><![CDATA[该区块链/NFT 项目背后的团队尚未宣布导致问题的原因，但查看 etherscan 上的交易日志，发现所有权已转移在袭击发生之前。私钥泄漏似乎是利用的可能原因。 https://open.substack.com/pub/cryptocsec/p/hack-alert-remilia-treasury-drained   由   提交/u/Majestic-AI-6018  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bglvjk/remilia_treasury_got_hacked_for_over_1_million/</guid>
+      <pubDate>Sun, 17 Mar 2024 01:39:13 GMT</pubDate>
+    </item>
     <item>
       <title>帮助托管网站。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgjd4f/help_with_hosting_a_website/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用 Next.js 和 Talwindcss 构建。由我在 Figma 上设计。    由   提交/u/diegovs05  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</guid>
       <pubDate>Sat, 16 Mar 2024 20:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的开源项目制作了一个变更日志页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</link>
-      <description><![CDATA[   /u/ascendence  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</guid>
-      <pubDate>Sat, 16 Mar 2024 20:01:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
