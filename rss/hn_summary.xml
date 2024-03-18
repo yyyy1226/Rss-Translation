@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 12:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 15:16:34 GMT</lastBuildDate>
     <item>
-      <title>Raspberry Pi 5 的新固件突破了其极限，允许过度 [...]</title>
-      <link>https://t.me/hn_summary/79997</link>
-      <description><![CDATA[如何将 Raspberry Pi 5 超频至 3 GHz 以上 
-Raspberry Pi 5 的新固件突破了其极限，允许超频至 3.1 GHz。虽然有些人尝试了更高的速度，但超过 3.2 GHz 后稳定性就成为问题。为了实现这种超频，适当的冷却解决方案对于防止损坏 Raspberry Pi 至关重要。该过程包括下载实验固件、更新 Raspberry Pi 操作系统以及编辑配置文件以调整 CPU 速度和电压。通过谨慎使用正确的工具，用户可以对 Raspberry Pi 5 进行涡轮增压以提高性能，但要做好应对潜在风险和挑战的准备。]]></description>
-      <guid>https://t.me/hn_summary/79997</guid>
-      <pubDate>Mon, 18 Mar 2024 12:30:37 GMT</pubDate>
+      <title>[媒体] 福特前首席执行官马克·菲尔兹 (Mark Fields) 警告称，向电动汽车 (EV) 的过渡将 [...]</title>
+      <link>https://t.me/hn_summary/80017</link>
+      <description><![CDATA[前福特首席执行官警告电动汽车初创公司面临“真正的财务困境” 
+福特前首席执行官马克·菲尔兹 (Mark Fields) 警告称，向电动汽车 (EV) 的转型将需要比预期更长的时间，从而给电动汽车初创公司带来财务困境。尽管电动汽车销量在增长，但未达到汽车制造商的预期，导致价格下降和库存增加。主流消费者优先考虑成本和便利性，这给电动汽车制造商带来了挑战。混合动力汽车销售蓬勃发展，使丰田和福特等公司受益。 Fisker、Rivian 和 Lucid 等陷入困境的电动汽车初创公司面临破产、市值暴跌和生产延迟。电动汽车转型是不可避免的，但对于业内许多人来说，前进的道路充满坎坷。]]></description>
+      <guid>https://t.me/hn_summary/80017</guid>
+      <pubDate>Mon, 18 Mar 2024 15:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：最好的多代理框架？</title>
-      <link>https://t.me/hn_summary/79996</link>
-      <description><![CDATA[询问 HN：最佳多代理框架？&lt; br /&gt;
-正在寻找有关最佳多代理框架的建议？加入 news.ycombinator.com 上用户分享的讨论他们在 AutoGen、CrewAI 和 Agency Swarm 等热门选项方面的经验。了解每个框架的优缺点，以便为您的项目做出明智的决定。在这个充满活力的技术爱好者社区中分享您的见解并向其他人学习。准备好进入多代理系统的世界并找到适合您需求的完美框架。]]></description>
-      <guid>https://t.me/hn_summary/79996</guid>
-      <pubDate>Mon, 18 Mar 2024 12:26:32 GMT</pubDate>
+      <title>[媒体]哈佛大学筹划已久的大气地球工程实验因事实而暂停</title>
+      <link>https://t.me/hn_summary/80016</link>
+      <description><![CDATA[哈佛大学已停止其计划已久的大气地球工程实验 
+哈佛大学计划已久的大气地球工程实验在面临公众的抵制以及土著团体和环保组织的批评后被叫停。该项目名为 SCoPEx，旨在测试太阳能地球工程技术，但根据咨询委员会的建议被取消。尽管存在争议，但研究人员因其透明度和以小规模、受控方式开展该项目的努力而受到赞扬。其他团体，例如风险投资支持的初创公司 Make Sunsets 和独立研究员安德鲁·洛克利 (Andrew Lockley)，仍在继续开展自己的与地球工程相关的工作。哈佛项目的取消被一些业内人士视为不幸，但它为年轻研究人员探索这一重要课题打开了大门。]]></description>
+      <guid>https://t.me/hn_summary/80016</guid>
+      <pubDate>Mon, 18 Mar 2024 15:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]云的发展超越了 Linux，并激发了新的操作系统”探讨了 da [...]</title>
-      <link>https://t.me/hn_summary/79995</link>
-      <description><![CDATA[云超越了 Linux，并催生了新的操作系统
-云超越了 Linux，催生了新的操作系统”探讨了 Michael Stonebraker 和 Matei Zaharia 创建的数据库操作系统 (DBOS) 的想法。这种创新方法通过在其核心集成数据库，颠覆了传统操作系统模型. DBOS 旨在提供可靠的执行、增强的安全性和更轻松的系统分析。该项目已获得初始种子资金，并基于分布式键值存储 FoundationDB 构建。DBOS 云在 AWS 上提供免费层，并为更高级的用户。这一开创性的概念挑战了传统操作系统的格局。]]></description>
-      <guid>https://t.me/hn_summary/79995</guid>
-      <pubDate>Mon, 18 Mar 2024 12:22:29 GMT</pubDate>
+      <title>返回办公室授权的隐私政策概述了个人数据的收集和使用，在 [...]</title>
+      <link>https://t.me/hn_summary/80015</link>
+      <description><![CDATA[显示 HN：重返办公室任务很糟糕
+Return To Office Mandate 的隐私政策概述了个人数据的收集和使用，包括浏览历史记录和设备详细信息等信息。该公司使用 cookie 和跟踪技术来改善服务和个性化用户体验。个人数据可能会与服务提供商、附属公司、业务合作伙伴和其他用户共享。用户有权删除自己的数据，公司保证数据安全。不过，该政策并不针对13岁以下的儿童。争议的方面可能是与各个实体共享个人数据，而强调数据安全是一个积极的亮点。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80015</guid>
+      <pubDate>Mon, 18 Mar 2024 14:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]明尼阿波利斯市议会推翻了市长的否决权，实施了最低PA [...]</title>
-      <link>https://t.me/hn_summary/79994</link>
-      <description><![CDATA[Uber 和 Lyft 离开明尼阿波利斯 最低工资超过 15 美元&lt; br /&gt;
-明尼阿波利斯市议会推翻了市长的否决，对拼车司机实施最低工资要求，引发了一系列事件，导致 Uber 和 Lyft 威胁要离开该市。该法令规定，在城市范围内打车的最低工资为每英里 1.40 美元，每分钟 51 美分，这促使拼车巨头宣布退出明尼阿波利斯。虽然一些人担心重大活动期间对交通的影响，但另一些人则认为其他乘车共享公司将介入以填补空白。出租车司机的业务因拼车竞争而下滑，他们希望能得到缓解。]]></description>
-      <guid>https://t.me/hn_summary/79994</guid>
-      <pubDate>Mon, 18 Mar 2024 12:18:25 GMT</pubDate>
+      <title>[媒体]围绕俄罗斯空袭乌克兰的争议在于，他们可能使用 [...]</title>
+      <link>https://t.me/hn_summary/80014</link>
+      <description><![CDATA[俄罗斯利用美国公司的卫星图像对乌克兰进行空袭
+围绕俄罗斯空袭乌克兰的争议在于，他们可能利用美国公司提供的卫星图像来瞄准袭击目标。乌克兰官员怀疑，导弹袭击后的卫星图像序列过于频繁，不可能是随机的。文章强调了卫星图像可能被滥用的情况，一些图像显示了云层覆盖，另一些图像则显示了军事目标。文章还讨论了美国卫星公司在审查客户以防止间接援助俄罗斯方面面临的挑战。整篇文章都强调呼吁对卫星图像的分发进行监管和更严格的控制。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80014</guid>
+      <pubDate>Mon, 18 Mar 2024 14:52:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cranelift 是 WebAssembly 的代码生成后端，已作为 [...] 集成到 Rust 中</title>
-      <link>https://t.me/hn_summary/79993</link>
-      <description><![CDATA[Rust 提供 Cranelift 代码生成
-Cranelift 是 WebAssembly 的代码生成后端，已作为其夜间工具链中的可选组件集成到 Rust 中。 Cranelift 专为快速代码生成而设计，使用等式图进行优化，为编译器设计提供了独特的方法。虽然它的目标是解决 Rust 中的编译时间问题，但其与 LLVM 和自定义 JIT 编译器相比的性能仍在评估中。 Cranelift 由 Rust 编译器团队成员开发，现已可在 Rust 项目中进行测试，展示了编译器优化和代码生成的不同视角。]]></description>
-      <guid>https://t.me/hn_summary/79993</guid>
-      <pubDate>Mon, 18 Mar 2024 12:14:21 GMT</pubDate>
+      <title>在巴黎，自行车数量在短短一年内翻了一番，显示出 [...]</title>
+      <link>https://t.me/hn_summary/80013</link>
+      <description><![CDATA[得益于投资，巴黎骑行人数一年内翻倍 
+在巴黎，自行车数量在短短一年内翻了一番，显示出向可持续交通和城市更新的重大转变。副市长戴维·贝利亚德 (David Belliard) 指出，自行车运动已成为该城市形象的一个基本方面，尽管面临恶劣天气等挑战，骑自行车的人仍创下了新的出勤记录。这一成功归功于自 2015 年以来在市长 Anne Hidalgo 的带领下对自行车基础设施的大量投资。随着巴黎继续投资自行车基础设施，这座标志性城市的自行车运动的未来看起来充满希望，计划将巴黎打造成“100％自行车城市”，并有可能将自行车革命传播到整个法国。]]></description>
+      <guid>https://t.me/hn_summary/80013</guid>
+      <pubDate>Mon, 18 Mar 2024 14:48:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cognition 的人工智能软件工程师 Devin 以其创新引起了我的注意 [...]</title>
-      <link>https://t.me/hn_summary/79992</link>
-      <description><![CDATA[人工智能软件工程师 Devin 的热门观点&lt; br /&gt;
-Cognition 的人工智能软件工程师 Devin 以其创新的用户体验设计吸引了我的注意，这种设计让人感觉像是对未来的一瞥。然而，我不禁想知道它的竞争优势有多深。经过仔细检查，SWE 基准测试中的性能改进似乎可以归因于提示技术的转变，类似于 Google DeepMind 的 Self-Discover 方法。将 Cyborg AI 风格集成到现有 IDE 中的概念很有趣，其暂停和步骤按钮等功能让人想起策略游戏。如果提示继续推动人工智能技术的进步，DX 的未来看起来很有希望。]]></description>
-      <guid>https://t.me/hn_summary/79992</guid>
-      <pubDate>Mon, 18 Mar 2024 12:04:12 GMT</pubDate>
+      <title>在placesjournal.org 上的“逐步：思考并超越维修手册”中，aut [...]</title>
+      <link>https://t.me/hn_summary/80012</link>
+      <description><![CDATA[分步：深入思考并超越维修手册
+在 placesjournal.org 上的“逐步：思考并超越维修手册”中，作者探讨了维修手册的概念以及它们如何塑造我们对维修事物的理解。本文深入研究了维修手册的历史和演变，质疑其局限性并提出了维修手册的替代思考方式。作者挑战读者将修复视为一个创造性和关键的过程，强调了超越一步一步指导的思考的重要性。这篇发人深省的文章为维修文化提供了全新的视角，并鼓励读者以更具创新性和整体性的方式来解决问题。]]></description>
+      <guid>https://t.me/hn_summary/80012</guid>
+      <pubDate>Mon, 18 Mar 2024 14:44:09 GMT</pubDate>
     </item>
     <item>
-      <title>在发现 Firebase 中的一个漏洞后，该漏洞容易导致 securi 配置错误 [...]</title>
-      <link>https://t.me/hn_summary/79991</link>
-      <description><![CDATA[900 个站点、1.25 亿个帐户、1 个漏洞
-在发现 Firebase 中容易导致安全规则配置错误的漏洞后，我们的团队扫描了互联网，发现 900 个网站暴露了总共 1.25 亿条用户记录，包括明文密码和敏感的账单信息。尽管最初遇到了内存泄漏的挑战，但我们开发了一个扫描仪并识别了受影响最严重的网站，例如一个带有被操纵的旋转和轻浮的客户支持的在线赌博网络。在通知网站所有者后，只有 24% 的网站修复了该问题，只有 0.2% 的网站提供了错误赏金。此事件凸显了适当的安全措施在保护用户数据方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/79991</guid>
-      <pubDate>Mon, 18 Mar 2024 11:54:06 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，研究人员发现数万亿细菌[...]</title>
+      <link>https://t.me/hn_summary/80011</link>
+      <description><![CDATA[新研究显示，我们的细菌比我们想象的更加个性化
+在一项开创性的研究中，研究人员发现我们体内数万亿的细菌就像指纹一样独特，塑造了我们各自的微生物组。由 Michael Snyder 博士领导的这项研究在六年内追踪了 86 名个体的微生物群，揭示了个人微生物群比之前认为的更稳定、对健康更重要。令人惊讶的是，身体不同部位的微生物组高度相关，而免疫系统在连接它们方面发挥着至关重要的作用。这项研究挑战了普遍理想微生物组的理念，强调了个性化微生物组对代谢和免疫健康的重要性。]]></description>
+      <guid>https://t.me/hn_summary/80011</guid>
+      <pubDate>Mon, 18 Mar 2024 14:40:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Yagrad是一个基于micrograd的标量autograd引擎，具有sup [...]的独特功能</title>
-      <link>https://t.me/hn_summary/79990</link>
-      <description><![CDATA[Yagrad – 具有复数和固定 DAG 的 100 SLOC autograd 引擎
-Yagrad是一个基于micrograd的标量自动梯度引擎，其独特之处在于支持复数进行梯度计算，并利用固定的有向无环图（DAG）来避免训练过程中的对象分配。该项目旨在提供一个简单且具有教育意义的工具来理解自动微分。 Yagrad 只有 100 行代码，与其他 autograd 引擎的区别在于它注重简单性和效率。无需安装，用户可以通过执行“python train.py 来运行项目”在终端中。灵感来源于 micrograd、tinygrad、picograd 和 nanograd。]]></description>
-      <guid>https://t.me/hn_summary/79990</guid>
-      <pubDate>Mon, 18 Mar 2024 11:50:02 GMT</pubDate>
+      <title>Lumina 益生菌正在利用转基因细菌彻底改变牙科护理，这些细菌可以 [...]</title>
+      <link>https://t.me/hn_summary/80010</link>
+      <description><![CDATA[修改口腔细菌以消除蛀牙
+Lumina 益生菌利用转基因细菌彻底改变了牙科护理，这种细菌可以通过不分泌乳酸来消除蛀牙。我们独特的菌株的一次性应用取代了口腔中现有的细菌，提供持久的牙齿弹性。请访问我们的网站，了解有关口腔健康这一突破性创新背后的科学的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/80010</guid>
+      <pubDate>Mon, 18 Mar 2024 14:31:55 GMT</pubDate>
     </item>
     <item>
-      <title>设计网站的另一种观点——event.preventDeault();</title>
-      <link>https://t.me/hn_summary/79989</link>
-      <description><![CDATA[设计网站的另一种观点 – event.preventDeault();
-在马克西米利安·基佩（Maximilian Kiepe）的《设计网站的另一种观点》中，作者深入探讨了 2019 年网页设计的通用性和客观性，并将其与早期网络时代的创意实验进行了对比。探索了网页设计的历史，从浏览器的引入到响应式设计的出现。争议在于主导网络景观的通用模板设计的盛行，作者批评过分强调可用性和搜索引擎优化。内容的独特之处在于作者呼吁探索网页设计中除可用性之外的其他品质，强调创造力和个性的重要性。 （根据 19% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79989</guid>
-      <pubDate>Mon, 18 Mar 2024 11:45:59 GMT</pubDate>
+      <title>[媒体] 据报道，苹果正在考虑与谷歌合作，使用 Gemini AI 模型 [...]</title>
+      <link>https://t.me/hn_summary/80009</link>
+      <description><![CDATA[Apple 正在探索与 Google 合作，在 iPhone 上提供由 Gemini 驱动的功能&lt; /a&gt;
+据报道，苹果正在考虑与谷歌合作，将 Gemini AI 模型用于 iPhone 的功能，并可能在今年晚些时候推出人工智能驱动的更新。此举正值苹果面临与 OpenAI 和微软等其他人工智能领导者竞争的压力之际。虽然苹果一直在开发自己的生成式人工智能工具，但与谷歌合作的讨论表明需要外部帮助。然而，谷歌面临着与 Gemini 的争议，包括图像生成方面的历史错误。尽管如此，谷歌已经与三星合作，在 Galaxy S24 系列上提供由 Gemini 驱动的功能。 Apple-Google 潜在的合作伙伴关系可以为 iPhone 带来独特的人工智能功能。]]></description>
+      <guid>https://t.me/hn_summary/80009</guid>
+      <pubDate>Mon, 18 Mar 2024 14:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，指出 [...]</title>
-      <link>https://t.me/hn_summary/79988</link>
-      <description><![CDATA[亲爱的 Paul Graham，没有 Cookie 横幅法 
-在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，并表示没有法律要求这样做。事实是，欧盟并不强制要求使用 cookie 横幅，但公司却强制要求。公司可以简单地避免完全跟踪或提供更用户友好的同意选项，而不是用侵入性横幅轰炸用户。 Stephan 是一位经验丰富的首席技术官和开发人员，他强调了 cookie 横幅带来的不必要的不​​便，并提出了更透明和用户友好的替代方案。最终，实施 cookie 横幅的选择权在于公司，而不是法律要求。现在是采取更加以用户为中心的数据隐私方法的时候了。]]></description>
-      <guid>https://t.me/hn_summary/79988</guid>
-      <pubDate>Mon, 18 Mar 2024 11:39:53 GMT</pubDate>
+      <title>[媒体]淡路网近日发布了对现代数据过度膨胀的详细分析[...]</title>
+      <link>https://t.me/hn_summary/80008</link>
+      <description><![CDATA[现代网络膨胀意味着某些页面加载 21MB 的数据 
+Danluu.com最近发布了针对数据过度膨胀的详细分析现代网页，某些页面加载了高达 21MB 的数据。这可能会导致加载时间变慢，某些页面需要长达 33 秒的时间才能加载或完全加载失败。令人惊讶的是，可以运行 PUBG 等流行游戏的入门级设备很难加载这些臃肿的页面。该报告强调了现代网页设计中带宽和处理能力不断增加的不切实际的假设，即使像 Quora 这样的基本网站也比高性能游戏更难运行。完整报告包括网络开发人员的引述以及对不同设备上各种网站的性能测量的见解。]]></description>
+      <guid>https://t.me/hn_summary/80008</guid>
+      <pubDate>Mon, 18 Mar 2024 13:55:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
