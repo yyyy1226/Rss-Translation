@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 01:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 03:20:25 GMT</lastBuildDate>
+    <item>
+      <title>[寻求软件替代] Google Picasa 替代品 - 急需的图像管理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bheude/seeking_software_replacement_google_picasa/</link>
+      <description><![CDATA[您好，有人知道类似 Google Picasa 的应用程序吗？我确实需要一个应用程序来扫描整个 PC 中的图像。 我需要一个更新的应用程序，因为我的系统可能有各种分散在 .AVIF、.WEBP 以及 Picasa 没有的各种较新格式的文件展示。如有任何软件推荐，我们将不胜感激！   由   提交 /u/Ill_Assistant_9543   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bheude/seeking_software_replacement_google_picasa/</guid>
+      <pubDate>Mon, 18 Mar 2024 01:32:18 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找与 imap 配合使用的“智能”电子邮件客户端。</title>
       <link>https://www.reddit.com/r/software/comments/1bhcc3p/looking_for_a_smart_email_client_that_works_with/</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[我的目的是能够打开应用程序，在屏幕上放置一些音符，然后让应用程序向我播放这些音符。 我的标准不高，我不需要全套的音频处理工具，甚至不需要控制正在使用的乐器。我既不懂编辑软件的技术，也不懂我对音乐制作领域很有了解，所以我真的不知道我正在寻找的到底是什么。我没有任何专业的最终目标，我只是在寻找一个可以让我作为新手玩弄音符的程序。这并不意味着我不愿意学习具体细节，但用户友好的东西可能会更好。  任何帮助将不胜感激！   由   提交/u/Jus2590  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bhc86k/im_having_trouble_finding_a_simple_musicmaking/</guid>
       <pubDate>Sun, 17 Mar 2024 23:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有特定要求的 OCR 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bhawkg/looking_for_ocr_software_with_specific/</link>
+      <description><![CDATA[我有一个文件夹，其中包含 .docx、从 .docx 生成的 .pdf、从扫描生成的 .pdf 以及 .tiff 文件。我需要一个 OCR 程序，它可以索引所有这些文件中的文本，并允许我在一次搜索中搜索所有这些文件。 它必须是免费的，最好基于 Linux，但可以模拟 Windows。 它必须是免费的，最好是基于 Linux 的，但可以模拟 Windows。 &gt; 如果支持正则表达式或 glob 模式，则加分。 是否存在类似的东西？   由   提交 /u/ExpectiveMachine1342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bhawkg/looking_for_ocr_software_with_specific/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:36:06 GMT</pubDate>
     </item>
     <item>
       <title>不使用人工智能语音的最佳 TTS？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我需要合并从 PDF 转换而来的图片照片。所以这些是整页 (8 1/2 x 11) 。不是那些微小的裁剪（宝丽来）大学照片 我正在使用 PhotoMerge，但是。我的第二张照片被裁剪或缩小了。我正在使用 PhotoScape X，但无法进行合并。我正在使用这个程序的树视图。 我还有其他程序可以做其他事情 Reoconverter AVS Suite Nitro Suite 和一整套转换器 谢谢   由   提交/u/AWESOMEGAMERSWAGSTAR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bgzl04/looking_for_full_page_photo_merger_software/</guid>
       <pubDate>Sun, 17 Mar 2024 15:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>运营一个类似 Reddit 的社交媒体来捐款？</title>
-      <link>https://www.reddit.com/r/software/comments/1bgy3aj/running_a_reddit_like_social_media_on_donations/</link>
-      <description><![CDATA[大家好。 我是大学最后一年的软件工程专业学生。我心里有这个想法，但我不知道它是否可行，而且我不知道这是否是正确的 Reddit 子版块来询问它。 基本上这个想法是一个类似 Reddit 的论坛/具有老式（90 年代）美学和功能的社交媒体网站。该网站不会有任何跟踪或广告。我想知道的是，仅靠捐款是否可以开展这样的活动？我能想到的唯一费用是 AWS 上的服务器/存储成本或其他费用。  如果我遗漏了一些隐藏费用，尤其是其中的捐赠方面，请告诉我。   由   提交 /u/SushiSwoosh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bgy3aj/running_a_reddit_like_social_media_on_donations/</guid>
-      <pubDate>Sun, 17 Mar 2024 13:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解锁 Nicegram 上的地理封锁内容</title>
-      <link>https://www.reddit.com/r/software/comments/1bgwgr4/how_to_unlock_geo_blocked_content_on_nicegram/</link>
-      <description><![CDATA[ 由   提交 /u/Ajgreatking   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bgwgr4/how_to_unlock_geo_blocked_content_on_nicegram/</guid>
-      <pubDate>Sun, 17 Mar 2024 12:33:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
