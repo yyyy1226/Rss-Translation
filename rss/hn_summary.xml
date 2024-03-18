@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 21:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 01:13:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Meticulous 是一家总部位于伦敦的 YC 公司，正在通过 Elimina 彻底改变前端测试 [...]</title>
-      <link>https://t.me/hn_summary/79906</link>
-      <description><![CDATA[Meticulous (YC S21) 正在招聘以消除 UI 测试
-Meticulous 是一家总部位于伦敦的 YC 公司，正在通过消除 UI 测试的需要来彻底改变前端测试。使用被动记录会话的工具，Meticulous 生成一个全面的测试套件，无需任何开发人员干预即可捕获 UI 错误和回归。该团队由来自顶级科技公司的工程师组成，正在聘请一名创始工程师来塑造公司并解决诸如构建用于重播会话的分布式系统等挑战。一丝不苟重视透明度、坦诚的反馈和持续改进，为个人成长提供指导和机会。如果您是一位技术出色、对软件工程充满热情的工程师，Meticulous 希望您加入他们的团队。]]></description>
-      <guid>https://t.me/hn_summary/79906</guid>
-      <pubDate>Sun, 17 Mar 2024 21:05:23 GMT</pubDate>
+      <title>[媒体]印度迅速改变了要求政府批准人工智能服务的决定[...]</title>
+      <link>https://t.me/hn_summary/79940</link>
+      <description><![CDATA[印度迅速放宽政府批准人工智能的要求&lt; br /&gt;
+印度迅速改变了要求政府批准人工智能服务的决定，现在重点关注提供商的义务。最初的禁令被澄清为仅适用于支持印度初创企业的大型科技公司。美国商务部长雷蒙多称赞菲律宾和泰国的半导体供应链潜力，而阿里巴巴计划在韩国投资 11 亿美元。中国正在向日本施压，要求其就福岛废水进行赔偿，而印度浦那则拒绝了 Uber 和 Ola 的牌照申请。亚太地区新闻方面，丰田越南与 Synology 合作，BDx 在新加坡收购数据中心，OKX 在新加坡获得批准，凸版控股 (Toppan Holdings) 计划在新加坡投资 3.38 亿美元建设半导体工厂。思科任命新西兰新负责人。]]></description>
+      <guid>https://t.me/hn_summary/79940</guid>
+      <pubDate>Mon, 18 Mar 2024 01:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《数字市场法案》(DMA) 给 Apple 的 iOS 生态系统带来了重大变化 [...]</title>
-      <link>https://t.me/hn_summary/79905</link>
-      <description><![CDATA[由于您不在该范围内而无法获得的新 iOS 功能欧盟
-《数字市场法案》(DMA) 给苹果在欧盟的 iOS 生态系统带来了重大变化，迫使该公司允许第三方应用商店，包括《堡垒之夜》回归 iPhone。开发人员现在可以在 App Store 之外分发应用程序、从其网站提供直接下载、更改 Safari 等默认应用程序以及访问新的 API 以实现互操作性。苹果还致力于为希望转向 Android 的用户开发数据便携解决方案。尽管苹果的“恶意合规”引发了争议，但 DMA 却给欧盟 iOS 用户带来了积极的变化，让欧盟以外的用户羡慕不已。]]></description>
-      <guid>https://t.me/hn_summary/79905</guid>
-      <pubDate>Sun, 17 Mar 2024 20:59:48 GMT</pubDate>
+      <title>问 HN：我怎样才能摆脱对 HN 的依赖？</title>
+      <link>https://t.me/hn_summary/79939</link>
+      <description><![CDATA[问HN：如何戒除HN成瘾？&lt; /a&gt;
+寻求有关如何摆脱在 新闻上浏览 HN 的建议。 ycombinator.com。承认过度好奇并承认这可能是一个耗时的习惯。作者质疑他们不断浏览是否是出于 FOMO 而不是真正的好奇心。争议可能源于平衡好奇心和生产力的斗争，以及令人惊讶的认识到“害怕错过”可能是成瘾的根源。]]></description>
+      <guid>https://t.me/hn_summary/79939</guid>
+      <pubDate>Mon, 18 Mar 2024 01:11:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Pine64 三月更新充满了令人兴奋的新产品和开发。</title>
-      <link>https://t.me/hn_summary/79904</link>
-      <description><![CDATA[Pine64 3 月更新：掀起波澜
-Pine64 三月更新充满了令人兴奋的新产品和开发。 PineVox 是一款基于 BL606P 的家庭助理智能扬声器，正在开发中，具有硬件麦克风终止开关等功能，可保护用户隐私。此外，采用 Allwinner SoC 的新型 SBC 即将推出，其中包括前景广阔的 Allwinner A527。 IronOS 2.22 为 Pinecilv2 带来了改进，而 PineTime 项目则凭借新功能和优化继续蓬勃发展。 Danctnix 项目更新包括新的 Arch 映像和改进的 Wi-Fi/蓝牙稳定性的计划。令人兴奋的发展和社区合作正在塑造 Pine64 产品的未来。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79904</guid>
-      <pubDate>Sun, 17 Mar 2024 20:48:42 GMT</pubDate>
+      <title>询问 HN：在线发布内容最具弹性的方式是什么？</title>
+      <link>https://t.me/hn_summary/79938</link>
+      <description><![CDATA[询问 HN：在线发布内容的最具弹性的方式是什么？ 
+news.ycombinator.com 上这篇文章的作者是寻求有关在线发布内容的最具弹性的方式的建议，特别是在面临来自国家和其他不良行为者的潜在攻击时。他们建议像 IPFS 这样的去中心化技术作为一种可能的解决方案，但也愿意探索其他选择。争议在于在线内容的潜在威胁，而该帖子的独特之处在于关注弹性以及尽管试图删除内容但仍保持内容可用的决心。]]></description>
+      <guid>https://t.me/hn_summary/79938</guid>
+      <pubDate>Mon, 18 Mar 2024 01:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>Neato 是一个即将推出的内容管理和发布系统，它将易于使用、有趣、 [...]</title>
-      <link>https://t.me/hn_summary/79903</link>
-      <description><![CDATA[Neato
-Neato 是即将推出的内容管理和发布系统，它将易于使用、有趣且文档齐全。作者几十年来一直致力于此类系统，他对这个新项目感到兴奋，并承诺它值得等待。作者反思了过去匆忙的项目以及花时间把事情做好的重要性。 Neato 将作为一项独立服务提供，并集成到 Web 1 Land 和 omg.lol 中。请继续关注 neato.pub 的更新并为测试版做好准备几个月后推出。]]></description>
-      <guid>https://t.me/hn_summary/79903</guid>
-      <pubDate>Sun, 17 Mar 2024 20:45:35 GMT</pubDate>
+      <title>[媒体] 隆重推出 Decipher，这是一款由人工智能驱动的创新错误监控工具。</title>
+      <link>https://t.me/hn_summary/79937</link>
+      <description><![CDATA[展示 HN：Decipher – 人工智能驱动的错误监控工具
+隆重推出 Decipher，这是一款由人工智能驱动的创新错误监控工具。告别手动错误管理，因为 Decipher 通过为您确定错误的优先级来帮助您有效地处理和解决错误。该下一代系统旨在简化错误解决过程，节省您的时间和精力。在我们的网站上查看我们的框架文档，了解 Decipher 如何彻底改变您的错误监控体验。使用 Decipher 体验错误管理的未来。]]></description>
+      <guid>https://t.me/hn_summary/79937</guid>
+      <pubDate>Mon, 18 Mar 2024 00:31:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章深入探讨了奢侈时尚品牌 Loro Piana 的争议问题 [...]</title>
-      <link>https://t.me/hn_summary/79902</link>
-      <description><![CDATA[骆驼毛衣和 9000 美元的毛衣
-这篇文章深入探讨了 LVMH 旗下奢侈时装公司 Loro Piana 的争议问题，该公司依靠秘鲁原住民社区的免费劳动力生产价值 9,000 美元的骆马毛衣。尽管价格很高，秘鲁安第斯山脉的原住民，比如 75 岁的安德里亚·巴里恩托斯 (Andrea Barrientos)，只获得了他们劳动价值的一小部分。骆马毛贸易一度因偷猎而几近灭绝，但并没有显着改善相关贫困社区的生活。文章强调了奢侈时尚行业的利润与供应链底层面临的严酷现实之间的差距。 （根据故事文本的 72% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79902</guid>
-      <pubDate>Sun, 17 Mar 2024 20:38:30 GMT</pubDate>
+      <title>[媒体]科技行业在 2024 年前两个月出现了大幅裁员潮， [...]</title>
+      <link>https://t.me/hn_summary/79936</link>
+      <description><![CDATA[2024 年前两个月科技行业裁员 46,000 人
+2024 年前两个月，科技行业出现大幅裁员潮，据报道裁员超过 46,000 人。这一趋势可以追溯到疫情爆发后，谷歌、Meta 和微软等科技巨头开始缩小规模，以弥补疫情引发的需求激增期间的过度建设。初创企业现在面临严峻的融资环境，风险投资家收紧资金，种子期融资大幅下降。然而，当前的经济不确定性也为初创公司提供了在招聘和融资策略中展示弹性和创造力的机会。尽管面临挑战，但报告显示，初创企业招聘情况预计将在 2024 年上半年有所改善。]]></description>
+      <guid>https://t.me/hn_summary/79936</guid>
+      <pubDate>Mon, 18 Mar 2024 00:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Radicle 是一个革命性的开源点对点协作平台，它挑战 [...]</title>
-      <link>https://t.me/hn_summary/79901</link>
-      <description><![CDATA[Radicle：开源、点对点、GitHub替代方案
-Radicle 是一个革命性的开源点对点协作平台，挑战了 GitHub 等服务的中心化性质。 Radicle 专注于安全性和容错性，使用公钥加密和八卦协议来确保整个网络的广泛数据共享。用户可以在其硬件上运行全栈节点，甚至可以离线运行，这对于那些偶尔访问互联网的人来说是理想的选择。 Zulipchat 上的活跃社区热闹非凡，为希望摆脱传统平台的开发者提供了独特的选择。此外，Radicle 还提供私有 Git 服务器和 Gitless 等选项，适合每个人。]]></description>
-      <guid>https://t.me/hn_summary/79901</guid>
-      <pubDate>Sun, 17 Mar 2024 20:32:54 GMT</pubDate>
+      <title>为 2023 年春季斯坦福大学的 CS 168：现代算法工具箱做好准备！</title>
+      <link>https://t.me/hn_summary/79935</link>
+      <description><![CDATA[CS 168：现代算法工具箱 (2023) 
+为 2023 年春季斯坦福大学的 CS 168：现代算法工具箱做好准备！该课程将涵盖从哈希到线性代数技术的一系列主题，每周都有实践小型项目。有争议的是，该课程将深入研究深度学习中的泛化理论，引发专家之间的争论。令人惊讶的是，学生将通过遗传 SNP 数据分析等现实示例探索 PCA 和 SVD 等算法的实际应用。不要错过这个加深您对算法及其对现代世界影响的理解的机会。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79935</guid>
+      <pubDate>Mon, 18 Mar 2024 00:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>此更新的 SAML v2.0 部署配置文件是根据经验广泛输入的结果 [...]</title>
-      <link>https://t.me/hn_summary/79900</link>
-      <description><![CDATA[用于联合互操作性的 SAML v2.0 部署配置文件&lt; br /&gt;
-此更新的 SAML v2.0 部署配置文件是经验丰富的实施者和部署者广泛投入的结果，提供了 15 年来开发的最佳实践。虽然重点关注大规模联合部署，但这些要求适用于任何重要的 SAML SSO 部署。该配置文件强调特定条件下的主体识别和特定 SAML 属性，并可以选择失败。它澄清不需要披露个人身份信息，由 IdP 自行决定。该文档还概述了 SAML 2.0 规范的符号、术语和参考，以提供明确的实施指南。]]></description>
-      <guid>https://t.me/hn_summary/79900</guid>
-      <pubDate>Sun, 17 Mar 2024 20:23:18 GMT</pubDate>
+      <title>[媒体] Stack Overflow 上这篇文章的作者正在寻求 with [...]</title>
+      <link>https://t.me/hn_summary/79934</link>
+      <description><![CDATA[显示 HN： 的本机实现带复选框
+Stack Overflow 上这篇文章的作者正在寻求带有复选框的  的本机实现。他们发现按住 Ctrl 键选择项目的传统方法有点俗气，并且希望有一个更加用户友好的解决方案。作者已经实现了一些代码，但面临一个问题，即选择的项目在选择后会弹回列表顶部。他们专门寻找在 Chrome 中运行良好的解决方案，对替代解决方案不感兴趣。非常感谢任何帮助或建议。]]></description>
+      <guid>https://t.me/hn_summary/79934</guid>
+      <pubDate>Mon, 18 Mar 2024 00:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>Vector 是一个高性能可观测数据管道，允许用户收集、传输 [...]</title>
-      <link>https://t.me/hn_summary/79899</link>
-      <description><![CDATA[向量：高性能可观测性数据管道&lt; br /&gt;
-Vector 是一种高性能可观测性数据管道，允许用户收集、转换日志和指标并将其路由到任何供应商。它旨在降低可观测成本、提高数据质量并提高洞察力。 Vector 的与众不同之处在于其可靠性、作为代理或聚合器的端到端部署，以及处理日志、指标和跟踪的能力。它是开源的，比其他替代方案快 10 倍。 Vector 被 Atlassian 和 T-Mobile 等公司使用，每天的下载量超过 100,000 次，并拥有 100 多个贡献者。性能测试显示了它相对于该领域其他工具的优越性。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79899</guid>
-      <pubDate>Sun, 17 Mar 2024 20:20:44 GMT</pubDate>
+      <title>[媒体]爱达荷州面临医生严重短缺，在所有 50 个州中排名垫底 [...]</title>
+      <link>https://t.me/hn_summary/79933</link>
+      <description><![CDATA[爱达荷州需要医生：但很多人不想来
+爱达荷州正面临医生严重短缺的问题，人均医生数量在所有 50 个州中垫底。 Saltzer Health 等医疗团体的关闭和严格的堕胎禁令等因素正在驱赶医生。该禁令可能会对提供必要护理的医生提出刑事指控，导致产科医生和母胎医学专家大量外流。乡村医院正在关闭待产和接生科，难以招募新员工。有争议的政策和缺乏州领导层的尊重正在阻碍医生在爱达荷州执业，加剧了患者的漫长等待时间。 （根据故事文本的 54% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79933</guid>
+      <pubDate>Mon, 18 Mar 2024 00:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>关于 C++ Exit-Time Destructors 的文章深入研究了对象销毁的复杂性 [...]</title>
-      <link>https://t.me/hn_summary/79898</link>
-      <description><![CDATA[C++ 退出时析构函数
-关于 C++ 退出时析构函数的文章深入研究了具有静态和线程存储持续时间的 C++ 程序中对象销毁的复杂性。它探讨了使用 cxaatexit 代替 atexit 来注册析构函数，强调了处理动态库卸载等优点。该文章还讨论了禁用退出时析构函数的方法，例如使用指向动态分配对象的指针或使用具有空析构函数的类模板。令人惊讶的是，它揭示了针对无操作析构函数的编译器优化，并在 Clang 中引入了诸如 [[clang::nodestroy]] 之类的属性。本文最后对 LLVM 的 ManagedStatic 及其对程序拆卸效率的影响进行了案例研究。]]></description>
-      <guid>https://t.me/hn_summary/79898</guid>
-      <pubDate>Sun, 17 Mar 2024 20:18:10 GMT</pubDate>
+      <title>兰利空军基地最近连续几周被神秘无人机包围，引发了重大事件 [...]</title>
+      <link>https://t.me/hn_summary/79932</link>
+      <description><![CDATA[神秘无人机连续几周涌入兰利空军基地
+兰利空军基地最近连续几周被神秘无人机包围，引发美国政府做出重大反应。整个 12 月份发生的入侵事件引发了人们对飞行安全和国家安全的担忧。空军证实了这些事件，但细节仍然有限。兰利的情况凸显了无人航空系统日益增长的威胁以及改进防御措施的必要性。无人机在受限空域的存在对军事行动和资产构成潜在风险。这些事件引发了关于空中威胁不断变化的性质以及加强保护措施的必要性的讨论。]]></description>
+      <guid>https://t.me/hn_summary/79932</guid>
+      <pubDate>Mon, 18 Mar 2024 00:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软通过在其 Copilot p 上免费提供 GPT-4-Turbo 来震撼人工智能世界 [...]</title>
-      <link>https://t.me/hn_summary/79897</link>
-      <description><![CDATA[Microsoft 向 Copilot 用户免费提供 GPT-4-Turbo 访问权限
-微软通过在其 Copilot 平台上免费提供 GPT-4-Turbo 来震撼人工智能世界，这一举措以前只能通过付费订阅才能实现。这种强大的语言模型具有更大的上下文窗口，可以在一次聊天中接受数万个单词。微软对 Copilot 的慷慨提供给免费用户，使其与 OpenAI 等仅免费提供 GPT-3.5 的竞争对手区分开来。 OpenAI 的 GPT-4.5-Turbo 模型的潜在泄露增加了人工智能社区的兴奋和猜测。微软的这一举措改变了游戏规则，体现了他们致力于让所有用户都能使用人工智能的承诺。]]></description>
-      <guid>https://t.me/hn_summary/79897</guid>
-      <pubDate>Sun, 17 Mar 2024 20:10:35 GMT</pubDate>
+      <title>[媒体] 英特尔酷睿 i9-14900KS 特别版处理器拥有最高的时钟频率 [...]</title>
+      <link>https://t.me/hn_summary/79931</link>
+      <description><![CDATA[6.2 GHz 英特尔酷睿 I9-14900KS 评测
+英特尔酷睿 i9-14900KS 特别版处理器拥有所有台式电脑处理器中最高的时钟频率（6.2 GHz），使其成为世界上最快的台式处理器。它的售价为 689 美元，可与 AMD 的 Ryzen 7000X3D 处理器争夺游戏霸主地位。 14900KS 是英特尔新品牌计划之前的最后一款酷睿 i9 处理器。由于功耗高、发热大，因此需要坚固的组件才能实现最佳性能。尽管性能出色，14900KS 仍是为财力雄厚的发烧友和超频玩家而设计的。在游戏基准测试中，AMD 的 Ryzen X3D 处理器保持领先，但 14900KS 以更高的成本显示出轻微的性能提升。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79931</guid>
+      <pubDate>Sun, 17 Mar 2024 23:59:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
