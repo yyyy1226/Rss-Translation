@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 15:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 21:19:21 GMT</lastBuildDate>
     <item>
-      <title>第一个项目：加尔各答拍卖</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhst6v/first_project_calcutta_auction/</link>
-      <description><![CDATA[我创建了一个小型网络应用程序并想与人们分享。加尔各答拍卖是您对球队进行竞价的地方，当他们赢得比赛时，您将获得更大的底池份额。问题在于底池大小等于所有中标出价的总和，因此您在拍卖开始时不知道最终底池大小。它是免费的，希望您喜欢！ www.calcuttasports.net ​ &lt;!-- SC_ON - -&gt;  由   提交/u/Huge_Two5416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhst6v/first_project_calcutta_auction/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:59:49 GMT</pubDate>
+      <title>创建潜在客户开发网站：最佳路线？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi28qv/to_create_a_lead_generation_site_best_route/</link>
+      <description><![CDATA[您好， 我知道我们使用一个网站购买服务潜在客户。然而，情况非常糟糕，我在这里看到了机会。  建立网站销售线索的最佳/最快/最便宜的途径是什么？您会推荐一个特定的建筑商吗？从头开始的开发人员（多少钱）？  提前谢谢大家   由   提交/u/JYanezez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi28qv/to_create_a_lead_generation_site_best_route/</guid>
+      <pubDate>Mon, 18 Mar 2024 21:17:22 GMT</pubDate>
     </item>
     <item>
-      <title>切换到内联样式可以节省 15% 或更多的页面速度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhsrg3/switching_to_inline_styles_could_save_you_15_or/</link>
-      <description><![CDATA[       由   提交/u/http203  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhsrg3/switching_to_inline_styles_could_save_you_15_or/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:57:48 GMT</pubDate>
+      <title>我可以使用密钥吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi284u/can_i_use_passkeys/</link>
+      <description><![CDATA[https://caniuse.com/passkeys 全球 89.42% ...我使用 Ubuntu。据我所知，这个密钥无法开箱即用。 到目前为止，我提供了“使用 Google 登录”的方法。和“用户名和密码”在我的网站上。 我正在计划一个新网站。 我喜欢使用密钥而不是其他两种方法。 我如何处理 Linux用户和过时 Windows 的用户？   由   提交 /u/guettli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi284u/can_i_use_passkeys/</guid>
+      <pubDate>Mon, 18 Mar 2024 21:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>一位家庭成员要求我为他们建立一个网站，设计一个徽标并创建他们的社交媒体，寻求建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhrsoo/a_family_member_asked_me_to_build_them_a_website/</link>
-      <description><![CDATA[我通过学校教育拥有一些 Web 开发背景，但我已经多年没有使用它了，并且有很多图形设计经验。 （我最近建立了一个简单的 Shopify 网站，但大约 5 年来没有做过任何 HTML 或 CSS） 该网站本质上只需要一个在线名片即可启动，但能够添加所提供服务的照片库。他们只是想引导客户访问他们的电子邮件。  业务是定制车间和工厂。可以送货到顾客家中的桑拿房。我很好奇我是否应该使用网站构建器或仅使用 WordPress 和 WordPress托管服务 我正在考虑的另一个因素是我已经有了一个网站，并且我一直想进一步发展它并从 Shopify 进行更改。我举办了一个音乐节并拥有一个艺术家团体。我想要一个网站来出售门票和门票商品。这可能不切实际，但我也希望该网站成为一个展示音乐和推广发行的博客。我还想添加健康和幸​​福视频的链接。最后一部分绝对是较低优先级，我主要是寻找有关家庭成员请求的信息。  感谢您的任何意见:)  ​   由   提交/u/themissedlink420  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhrsoo/a_family_member_asked_me_to_build_them_a_website/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:16:39 GMT</pubDate>
+      <title>网络课程 SCORM 的替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi26au/alternative_to_scorm_for_web_courses/</link>
+      <description><![CDATA[嗨， 我被要求将网络课程集成到现有系统中，并且有几个要求具有挑战性。基本上我有三个主要功能：  支持 SCORM 格式的课程。这基本上是一个 zip 存档，其中包含元数据和一个 html 文件形式的播放器。该播放器调用一些 JavaScript 方法来跟踪进度。我希望这是正确的，因为我对整个主题都很陌生。 我们必须使用另一个 API，它通过 API 提供一些学习信息，但不是通过 SCORM，因此需要一个自定义播放器。我还不确定这些内容的更新频率，但手动将它们转换为 SCORM 可能会更便宜。 这些内容项目被分组到更大的课程中，这些课程有自己的进度跟踪。 &gt;  我真的很讨厌...  我讨厌 SCORM 中内容和演示文稿之间的耦合，这使得更新样式和整个演示文稿变得非常困难。 内容包非常大，因为它们包含图像、字体等，其中很多资源只是正常的布局项目，而不是课程本身的一部分。 我们最终可能会这样与多个玩家。 由于 SCORM 包是黑匣子，我们无法跟踪各个项目的进度，估计完成课程所需的时间以及所有这些事情。  有在该主题方面有经验的人吗？学习材料有更好的标准吗？   由   提交/u/sebastianstehle  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi26au/alternative_to_scorm_for_web_courses/</guid>
+      <pubDate>Mon, 18 Mar 2024 21:14:49 GMT</pubDate>
     </item>
     <item>
-      <title>已经太久了...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhrgpx/been_too_long/</link>
-      <description><![CDATA[我最近为我的乐队建立了一个网站，并在 nixihost.com 上托管它。通过 Donain.com 购买了我的域名。  现在，距离我推出网站已经过去了大约一年半的时间。目前我的托管在 github 上，但只是因为我的大脑变得愚蠢了。对于我的一生，我不记得如何设置 nixihost 和域的 DNS。有人可以帮忙吗   由   提交 /u/Cheesypoooof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhrgpx/been_too_long/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:02:00 GMT</pubDate>
+      <title>人工智能和编码的未来：合作还是竞争？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi1by7/ai_and_the_future_of_coding_collaboration_or/</link>
+      <description><![CDATA[朋友还是敌人？人工智能对技术劳动力的影响？您是否认为人工智能法学硕士（大型语言模型）最终会达到我们无法在编码方面与他们竞争的地步，就像计算机可以在国际象棋中击败人类或计算速度更快一样？人工智能最终会在设计、规划和其他领域产生同样的效果吗？还是始终需要人工干预？   由   提交 /u/Dereference_operator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi1by7/ai_and_the_future_of_coding_collaboration_or/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>网站从头开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhrcql/website_from_scratch/</link>
-      <description><![CDATA[一些朋友向我询问具有几个页面和电子商务设置的基本网站。 我使用我的正常工作需要使用 React 和 Node，但是对于设置和托管此类基本网站，你们会推荐什么来快速而简单地进行操作。   由   提交 /u/chriswft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhrcql/website_from_scratch/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:57:15 GMT</pubDate>
+      <title>烤我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi19kj/roast_my_site/</link>
+      <description><![CDATA[大家好， 之前提交了其中一项。我开发了一个网站来与当地抵押贷款顾问建立联系。 我对主页非常满意（除了缺少徽标，但很快就会出现）。 可以你烤我的表格（他们还不会提交）和整个网站？ www.yourmortgageadvisor.co。 uk   由   提交/u/Bretttles1986   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi19kj/roast_my_site/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>作为学生收到录取通知书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhra9b/received_an_offer_as_a_student/</link>
-      <description><![CDATA[嘿，我是一名学生，我的一个朋友收到了一份要约，要求申请一家餐厅来管理其人员。现在他让我和一个朋友跳上来帮助他制作，但我们正在考虑用什么来制作它的选择，我想得到一些关于我们的选择的反馈。  ​ 我们应该如何制作它 所以我们正在考虑专门为那家餐厅制作它或者制作它更通用，以便其他企业也可以使用我们的应用程序。  我们更喜欢让它适用于多个企业，这样我们就可以利用它来开展我们自己的业务。但这需要更多的工作。这意味着我们可以选择在我们开发这个应用程序时让他们为我们提供资金，他们将获得股份作为回报，或者如果他们接受就永远免费使用该应用程序。另一种选择是，我们只是在空闲时间完成，没有资金，这对我们来说意味着更大的风险，因为我们基本上必须处理包括创建公司在内的所有事情，但我们确信我们将完全控制应用程序。 仅为该餐厅制作的另一种选择意味着我们可以获得有保证的资金，但随后我们将无法扩展它，他们将拥有我们开发的应用程序。 &amp;# x200b; 我们应该做什么 我们将制作一个网站作为与 API 通信的仪表板。对于 api，我们正在考虑使用 c#、laravel 和expressjs，因为这是我们所知道的语言。我个人不喜欢 Laravel，因为它的速度，但根据我们 3 个人的经验，这是我们选择中最简单的一个。  至于数据库，我正在考虑将所有人员数据放入 mongodb 中，并使用 MySQL 进行配置，但我不知道这是否是最佳选择，或者我们是否可以完全使用 MySQL或 MongoDB。 我们正在考虑将其作为渐进式 Web 应用程序或 Flutter 应用程序的前端。我们没有 Flutter 和 PWA 方面的经验，但我们在 html 方面确实有很多经验。 ​ 请记住，今年之后我们有 1再学习一年，然后我们就会去工作/创办自己的公司或其他什么。因此，如果我们想创办一家公司，现在是最好的时机，因为我们有很多可以求助的帮助热线。而且价格便宜得多。 ​ 欢迎任何反馈。    由   提交 /u/iVyperion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhra9b/received_an_offer_as_a_student/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:54:16 GMT</pubDate>
+      <title>后续：作为学生收到录取通知书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi0fr6/followup_received_an_offer_as_a_student/</link>
+      <description><![CDATA[您好。 我在这里对我之前的帖子进行跟进：https://www.reddit.com/r/webdev/comments/1bhra9b/received_an_offer_as_a_student/ 因此，首先我们想提供更多有关我们要为其制作的公司的信息。该公司将拥有 100 多名员工，背后有多个投资者。他们希望在明年之前完成申请，因为那将是他们开门的时间。 现在我们决定（正如很多人建议的那样）专门为要求我们的公司制作它但我们仍然会告诉他们我们未来使其更具可扩展性的想法。我们还将坚持使用 MySQL 作为数据库，使用 Laravel 作为后端，然后将 Vue.js 项目用于所需的仪表板。 现在我们仍然想知道是否应该将员工的应用程序制作成一个PWA 应用程序或制作一个 flutter 应用程序。这需要日历集成，我读到这很难做到，所以我们仍在考虑应该为应用程序选择哪一个。 最后，我们还想知道应该向他们询问什么价格对于这个应用程序，因为我们知道这在专业环境中是一个昂贵的应用程序，但由于我们只有 3 名学生，所以我们有点迷失在这里。 我知道为此定价很难，所以这里是有关我们具体要做什么的更多信息。 餐厅仪表板  管理员工（灵活员工和永久员工） &lt; li&gt;上传正式员工的轮班表  员工APP  灵活员工 选择上班时间  永久员工 提供可用时间  两者 查看总计小时 总收入 一些其他统计数据   我们不必使用算法来计算轮班表，他们会自己做，然后将其上传到应用程序供其正式员工查看。 还将建立一个系统，让经验丰富的员工获得更高的薪水。 （我们不必管理付款） 他们也会在一栋大楼内拥有多个房间 P.S.：我们在同一个班级，我们的毕业主题是软件和人工智能开发，所以不是全栈，但我们已经研究 IT 4-5 年了，完成了相当多的项目。目前，我们还在 Laravel 中为一个节日制作一个网站，其中有 2 个网上商店。   由   提交 /u/iVyperion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi0fr6/followup_received_an_offer_as_a_student/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>抖音DeepLink方案是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhr1ru/what_is_the_deeplink_scheme_for_tiktok/</link>
-      <description><![CDATA[嗨， 我想深层链接到 TikTok。不幸的是，他们还没有像 YouTube 那样提供 API。 例如YouTube 深层链接方案“vnd.youtube://”。 有谁知道如何自己编写 API 或拥有可用于可以深度链接到 TikTok 吗？    由   提交 /u/MrLufus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhr1ru/what_is_the_deeplink_scheme_for_tiktok/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:43:35 GMT</pubDate>
+      <title>为什么网页设计/开发如此昂贵？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi013u/why_is_web_designdev_so_expensive/</link>
+      <description><![CDATA[哪些因素导致网页设计/开发成本高昂？这个询问并不是为了批评，而是出于好奇。   由   提交 /u/Existing-Target-6485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi013u/why_is_web_designdev_so_expensive/</guid>
+      <pubDate>Mon, 18 Mar 2024 19:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>有人要去 EpicWeb.dev 会议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhqx77/anybody_going_to_epicwebdev_conference/</link>
-      <description><![CDATA[我几天前刚刚参加了这次会议，正在考虑研讨会和会议日的费用是否值得？ &lt; p&gt;对于为期两天的会议/研讨会来说，大约 900 美元是否很多（仅会议费用为 375 美元），或者这是此类活动的典型价格？看起来科技界的一些知名人士要参加/演讲。 这里有人有票并且要参加吗？   由   提交 /u/DBaack11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhqx77/anybody_going_to_epicwebdev_conference/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:37:35 GMT</pubDate>
+      <title>精疲力竭，想要出去</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhycuc/burnt_out_and_wanting_out/</link>
+      <description><![CDATA[成为全栈开发人员已有 6 年了。在过去的几年里，我确实经历了倦怠和冒名顶替综合症的潮起潮落。我想我现在已经准备好结束我科技职业生涯的这一章了，日复一日的苦差事和互联网的总体趋势对我来说太令人沮丧和压力了。我觉得在现实世界中工作会更快乐，用我的双手/身体工作，而不是整天活在我的脑海里坐在屏幕前。有人能实现职业生涯180度这样的转变吗？我应该去贸易学校吗？感觉每隔几个月我就会陷入同样的​​心态......不知道从这里该去哪里   由   提交/u/fuzzy_cola  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhycuc/burnt_out_and_wanting_out/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:44:41 GMT</pubDate>
     </item>
     <item>
-      <title>Golang 与 Django - 哪一个用于前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhqoct/golang_vs_django_which_one_for_frontend/</link>
-      <description><![CDATA[Golang 与 Django - 哪一个用于前端？ Golang 与 Django - 哪一个提供服务我的前端可以更快地开发？ 我想坚持使用 golang 来开发我的 api。 我正在考虑使用 golang 来开发 也为前端提供服务。但这似乎很耗时。所以我决定使用 Angular/NodeJS 并学习这些概念。相对于 ReactJS，我真的更喜欢 Angular。 但我决定不使用基于 javascript 的前端开发。因此，我寻找其他选项。 我正在考虑使用 PHP 。但从开发速度来看Django似乎更胜一筹。学习曲线也没有那么耗时。 我真的应该使用基于 javascript 的前端吗？ - 我真的不想..如果有充分的理由，我会尝试一下。我应该使用Django或PHP还是Golang for frontend &gt; 服务我的前端 请根据您的意见提出建议。   由   提交/u/Mahesh-Thought  /u/Mahesh-Thought  reddit.com/r/webdev/comments/1bhqoct/golang_vs_django_which_one_for_frontend/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhqoct/golang_vs_django_which_one_for_frontend/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:26:09 GMT</pubDate>
+      <title>嘿，伙计们正在寻找有关导航栏的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhy85y/hey_guys_looking_for_some_advice_on_a_nav_bar/</link>
+      <description><![CDATA[      目前正在尝试使我的导航栏像这样，但希望使中心下拉有关如何做到这一点的任何建议，请添加 YouTube、GitHub 以及与此相关的任何链接，谢谢    由   提交/u/Jawwkneee__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhy85y/hey_guys_looking_for_some_advice_on_a_nav_bar/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:39:37 GMT</pubDate>
     </item>
     <item>
-      <title>如今，您会使用什么从头开始构建网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhqc43/what_would_you_use_to_build_a_site_from_scratch/</link>
-      <description><![CDATA[我是一名 React/NodeJS（以及一些 NextJS）开发人员。有人要求我从头开始构建几个网站。一种是具有几个页面的占位符类型网站。另一个可能有一些商业东西（购买服务的能力）。我想知道这些天您会从头到尾托管/构建一个网站吗？   由   提交​​ /u/dsound   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhqc43/what_would_you_use_to_build_a_site_from_scratch/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:09:47 GMT</pubDate>
+      <title>提供静态页面 CMS 功能的最简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhxy8e/easiest_way_to_give_a_static_page_cms/</link>
+      <description><![CDATA[不太熟悉 CMS 网站，客户已经有一个工作页面（不是我完成的），只是想在需要时添加一些帖子。他们说他们被推荐使用 Wordpress，但他们的页面是一个非常复杂的 HTML CSS 静态页面，所以我猜不可能将类似的东西迁移到 Wordpress，他们没有后端，页面托管在 netlify 中，任何想法能做什么？   由   提交 /u/Esternocleido   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhxy8e/easiest_way_to_give_a_static_page_cms/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>VUE 3 + FFMPEG WASM</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhq695/vue_3_ffmpeg_wasm/</link>
-      <description><![CDATA[嘿伙计们！我正在我的应用程序中开发一个修剪视频长度的功能，我记得使用了像 FFMPEG WASM 这样的东西（它应该是在前端运行），并且我正在遵循文档，并且在本地环境中遇到“加载 ffmpeg-core.js” 的问题。消息。 不显示任何错误，也不继续！  async functiontoggleCropping() { const baseURL = &quot;https://unpkg.com/@ffmpeg/core- mt@0.12.6/dist/esm”； const videoURL =“https://raw.githubusercontent.com/ffmpegwasm/testdata/master/video-15s.avi”; message.value = &quot;正在加载 ffmpeg-core.js&quot;; ffmpeg.on(“log”, ({ message: msg }: LogEvent) =&gt; { message.value = msg; });等待 ffmpeg.load({ coreURL: 等待 toBlobURL( `${baseURL}/ffmpeg-core.js`, &quot;text/javascript&quot; ), wasmURL: 等待 toBlobURL( `${baseURL}/ffmpeg-core.wasm`, “application/wasm”），workerURL：await toBlobURL（“${baseURL}/ffmpeg-core.worker.js”，“text/javascript”），}）； message.value = &quot;开始转码&quot;;等待 ffmpeg.writeFile(“test.avi”, 等待 fetchFile(videoURL));等待 ffmpeg.exec([“-i”, “test.avi”, “test.mp4”]); message.value = &quot;完成转码&quot;; const data = wait ffmpeg.readFile(“test.mp4”); video.value = URL.createObjectURL( new Blob([(data as Uint8Array).buffer], { type: &quot;video/mp4&quot; }) ); }  Nuxt.config：  optimizationDeps：{ 排除：[“@ffmpeg/ffmpeg”，“@ffmpeg/util”]， } , security: { headers: { crossOriginEmbedderPolicy: &quot;require-corp&quot;, crossOriginOpenerPolicy: &quot;same-origin&quot;, }, },  你能帮我吗？   由   提交 /u/upsips   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhq695/vue_3_ffmpeg_wasm/</guid>
-      <pubDate>Mon, 18 Mar 2024 13:01:48 GMT</pubDate>
+      <title>在应用程序中使用 HSL 或 HEX 代码哪个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhxwi0/whats_better_to_use_hsl_or_hex_codes_in_your/</link>
+      <description><![CDATA[大家好，我在 next JS 和 tailwind CSS 中开始了一个新项目。当我尝试根据自己的喜好自定义主题时，我决定使用 SHADCN UI 库。我看到 SHADCN 颜色是用 HSL 表示的。但我通常使用 HEX，所以我应该将整个主题转换为 HEX 还是只使用 HSL？我希望您的意见能够了解哪个更好？业内首选！谢谢。   由   提交/u/Musashi-13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhxwi0/whats_better_to_use_hsl_or_hex_codes_in_your/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>将 PostgreSQL 替换为 2,000 个 SQLite 数据库 - 疯狂的实验还是天才？ 🤔</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhq246/swapping_postgresql_for_2000_sqlite_databases_a/</link>
-      <description><![CDATA[大家好！只是想分享我开始的一个有趣的实验：将单个 PostgreSQL 数据库转换为多达 2,000 个 SQLite 数据库。是的，你没看错！ 🤓  受到我对 Turso 分布式 SQLite 数据库世界的深入研究的启发，我突然灵光一现：为什么不将 PostgreSQL 数据库分割成数千个微型数据库，每个数据库专用于个人用户或小组？这种方法旨在简化租户分离，并有可能提高利基场景的性能。 结果出乎意料地引人注目。将用户数据隔离到单独的数据库中带来了一些明显的优势，包括简化的数据管理，以及令人惊讶的是，在特定设置中提供可靠的性能指标。 但值得注意的是，这纯粹是实验性的，远非实验性的。现场生产环境的严格性。在现实场景中，管理如此大量的数据库需要广泛的自动化，以避免陷入数据库管理的泥潭。 至少可以说，结果发人深省。单独处理用户数据的概念带来了显着的好处，例如简化的数据管理，并且尽管困难重重，在某些条件下仍具有令人印象深刻的性能。 您对此有何看法？是陷入疯狂还是针对特定用例的潜在游戏规则改变者？ 🚀💡   由   提交/u/h4nshoi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhq246/swapping_postgresql_for_2000_sqlite_databases_a/</guid>
-      <pubDate>Mon, 18 Mar 2024 12:56:28 GMT</pubDate>
+      <title>当多种技术看起来都合适时，您如何选择使用哪种技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhx40a/how_do_you_choose_which_technology_to_use_when/</link>
+      <description><![CDATA[我目前期待创建自己的网站，但不确定是否应该使用 Hugo、Astro 或 11ty，因为它们看起来都非常相似。那么，在浏览文档、尝试并阅读“评论”之后，您如何选择一种技术？他们看起来都一样吗？您是否只是凭着勇气并抱有最好的希望，您是否会更好地研究技术，直到找到明显的赢家？   由   提交/u/lollo3001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhx40a/how_do_you_choose_which_technology_to_use_when/</guid>
+      <pubDate>Mon, 18 Mar 2024 17:55:25 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能使用Javascript（包括动画）实现这样的东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhozex/how_can_i_implement_something_like_this_using/</link>
-      <description><![CDATA[       由   提交/u/DazzlingAppearance32  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhozex/how_can_i_implement_something_like_this_using/</guid>
-      <pubDate>Mon, 18 Mar 2024 12:00:05 GMT</pubDate>
+      <title>您如何大致了解企业主想要什么样的网站设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhwh4l/how_do_you_get_a_general_idea_of_what_kind_of/</link>
+      <description><![CDATA[目前我只是要求他们向我发送他们喜欢的网站的链接。通常他们会向我发送他们正在寻找的竞争对手。 ​ 有人有大量可供选择的示例吗？ &lt; !-- SC_ON --&gt;  由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhwh4l/how_do_you_get_a_general_idea_of_what_kind_of/</guid>
+      <pubDate>Mon, 18 Mar 2024 17:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>AiFormat 新版本 - CLI 工具，可将文件转换为针对 Claude 优化的格式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhoumk/new_version_for_aiformat_cli_tool_that_converts/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/zeJaeger   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhoumk/new_version_for_aiformat_cli_tool_that_converts/</guid>
-      <pubDate>Mon, 18 Mar 2024 11:52:36 GMT</pubDate>
+      <title>寻找快速 Unity 和 Kinect Photobooth 项目的开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhweuf/seeking_developer_for_a_quick_unity_kinect/</link>
+      <description><![CDATA[我正在寻找一位熟练的 Unity 开发人员，具有 Photobooth 项目 Kinect 集成经验。我的截止日期很紧，需要帮助才能在明天早上之前完成此任务。   由   提交/u/RoundHighlight5823  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhweuf/seeking_developer_for_a_quick_unity_kinect/</guid>
+      <pubDate>Mon, 18 Mar 2024 17:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>用户可以将文件上传到 Manifest V3 浏览器扩展吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bh2lj1/can_users_upload_files_to_manifest_v3_browser/</link>
-      <description><![CDATA[例如，在选项卡会话管理器的设置页面中，您可以单击上传按钮将 JSON 会话文件从您的设备上传到插件。我查了一下 UBlock Origin Lite（UBlock Origin 与 Manifest v3 的重新实现）是否支持自定义过滤器列表，所有结果都说不，由于 Manifest V3 的限制，它不能。 OTOH我发现了StackOverflow 帖子 和 Google 网上论坛讨论表示其可以通过文件系统 API 实现。   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bh2lj1/can_users_upload_files_to_manifest_v3_browser/</guid>
-      <pubDate>Sun, 17 Mar 2024 17:03:52 GMT</pubDate>
+      <title>你最好的业余项目是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhw2ti/what_was_your_best_side_project/</link>
+      <description><![CDATA[您最好的副业项目是什么以及发布之前需要多长时间。您的堆栈是什么，您获得了多少用户以及收入是多少（如果有）。   由   提交 /u/wookeydookey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhw2ti/what_was_your_best_side_project/</guid>
+      <pubDate>Mon, 18 Mar 2024 17:13:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
