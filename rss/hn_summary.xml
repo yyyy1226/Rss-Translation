@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 01:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 06:09:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 据传 HashiCorp 正在考虑出售，因为该公司面临着 [...]</title>
-      <link>https://t.me/hn_summary/80117</link>
-      <description><![CDATA[据报道 HashiCorp 正在考虑出售
-据传 HashiCorp 正在考虑出售，因为该公司面临市场挑战。这一决定是在商业源代码许可证的采用引起争议之后做出的，该许可证招致了开源社区的批评。联合创始人的离职以及对许可变更的审查加剧了该公司的困境。尽管没有证实这些传言，HashiCorp 的首席执行官还是暗示其他初创公司不可避免地会采取类似的举措。随着股价和市值的下降，出售可以为投资者提供价值，同时吸引对公司云管理工具感兴趣的潜在买家。]]></description>
-      <guid>https://t.me/hn_summary/80117</guid>
-      <pubDate>Tue, 19 Mar 2024 01:02:30 GMT</pubDate>
+      <title>.NET 开发者乞求生态系统被破坏</title>
+      <link>https://t.me/hn_summary/80148</link>
+      <description><![CDATA[.NET开发者乞求生态系统毁灭
+ASP.NET GitHub 线程“Epic：事件”上的 .NET 开发人员.NET 9”中的框架分为两个群体：那些重视供应商多元化和选择的群体，以及那些担心第三方OSS项目并要求微软提供解决方案的群体。恐惧驱动的群体相信遵守微软标准可以避免受到指责，而选择寻求者则主张竞争和选择。争议在于，尽管历史上有过放弃项目的例子，但恐惧驱动的人群对微软产品的盲目信任。令人惊讶的是一些 .NET 开发人员公开支持破坏生态系统，这凸显了社区内部的独特分歧。最终，争论的焦点是 .NET 生态系统中选择和竞争的重要性。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80148</guid>
+      <pubDate>Tue, 19 Mar 2024 06:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]专家系统是旨在模拟决策能力的计算机系统[...]</title>
-      <link>https://t.me/hn_summary/80116</link>
-      <description><![CDATA[专家系统
-专家系统是旨在通过以 if-then 规则表示的知识体系进行推理来模拟人类专家决策能力的计算机系统。第一个专家系统出现于 20 世纪 70 年代，并在 20 世纪 80 年代获得普及，其中著名的例子有医疗领域的 MYCIN 和 CADUCEUS。专家系统的发展导致了向基于知识的方法的转变，基于 Prolog 的系统在欧洲受到关注。 20 世纪 80 年代客户端-服务器计算的兴起彻底改变了专家系统市场，使它们更容易使用。虽然“专家系统”一词在 20 世纪 90 年代逐渐消失，但该技术在 2000 年代以基于规则的系统的形式复兴，并集成到主要业务应用程序中。 （根据故事文本的 24% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80116</guid>
-      <pubDate>Tue, 19 Mar 2024 00:58:26 GMT</pubDate>
+      <title>“Not Even Wrong”博客庆祝成立 20 周年，反思物理的演变 [...]</title>
+      <link>https://t.me/hn_summary/80147</link>
+      <description><![CDATA[20 年“甚至没有错”
+“Not Even Wrong”博客庆祝成立 20 周年，反思物理博客的演变和基础理论的衰落。现年 66 岁的作者对主导该领域的推测性想法的失败以及由于实验限制而缺乏进展感到遗憾。精英机构未能提供必要的培训，导致研究项目停滞不前。最近发生的事件，例如有争议的计划和宣传噱头，粉碎了对该领域未来的任何剩余希望。尽管如此，作者仍然对个人进步和新想法保持乐观，同时对整个物理学的未来感到担忧。]]></description>
+      <guid>https://t.me/hn_summary/80147</guid>
+      <pubDate>Tue, 19 Mar 2024 06:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 波音举报人的最后几天讲述了约翰·巴尼特 (John Barnett) 的悲惨结局，他是一名飞行员 [...]</title>
-      <link>https://t.me/hn_summary/80115</link>
-      <description><![CDATA[波音举报人的最后日子
-波音举报人的最后几天讲述了前波音质量经理约翰·巴尼特的悲惨结局，他举报了北查尔斯顿工厂的安全问题。巴尼特一直在起诉波音公司进行报复，他被发现死于假日酒店停车场，自杀身亡。他的突然去世震惊了他的律师和朋友，他们形容他是一个正派而慷慨的人。巴尼特对工厂的安全漏洞表示担忧，包括钛条、紧急氧气设备故障以及将飞机赶出工厂的文化。他的死亡引发了调查，并引发了有关工作场所安全和举报人保护的问题。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80115</guid>
-      <pubDate>Tue, 19 Mar 2024 00:54:21 GMT</pubDate>
+      <title>Twstalker.com 是一个 Twitter 替代前端，优先考虑社区安全和隐私。</title>
+      <link>https://t.me/hn_summary/80146</link>
+      <description><![CDATA[Twstalker.com 作为 Twitter 替代前端&lt; br /&gt;
+Twstalker.com 是一个 Twitter 替代前端，优先考虑社区安全和隐私。该网站强调良好的就业、资源和邻里关怀对于创建更安全的社区的重要性。它反对不受控制的监视，特别指出面部识别无人机和摄像头对安全构成威胁。该网站强烈反对 E 提案，认为这是一项危及城市安全的危险措施。 Twstalker.com 提供了关于社区安全和隐私的独特视角，使得它是传统社交媒体平台的一个引人注目的替代品。]]></description>
+      <guid>https://t.me/hn_summary/80146</guid>
+      <pubDate>Tue, 19 Mar 2024 05:37:14 GMT</pubDate>
     </item>
     <item>
-      <title>在排除影响较大的软件故障时，沉默既自然又有用，但是 [...]</title>
-      <link>https://t.me/hn_summary/80114</link>
-      <description><![CDATA[事件通话中气氛平静
-在排除影响较大的软件故障时，沉默既自然又有用，但作为事件指挥官，了解沉默可能具有的不同含义至关重要。这篇博文探讨了事件指挥官在事件场景中打破或保持僵局的作用。它强调了有效沟通、审核思维过程以及确保每个参与者了解团队最新进展的重要性。这篇文章还讨论了功能性死气沉沉的概念，如果提前协商，沉默可以达到目的。有效的事件响应需要不断的沟通和协作，以推动问题解决工作的进展。]]></description>
-      <guid>https://t.me/hn_summary/80114</guid>
-      <pubDate>Tue, 19 Mar 2024 00:50:12 GMT</pubDate>
+      <title>[媒体]神经网络如何学习？</title>
+      <link>https://t.me/hn_summary/80145</link>
+      <description><![CDATA[神经网络如何学习？
+神经网络正在彻底改变人工智能，但其内部运作方式仍然是个谜。加州大学圣地亚哥分校的研究人员发现了一个数学公式，可以解释这些网络如何学习数据中的相关模式，从而揭示它们的决策过程。这一突破可能会带来更简单、更高效、更可解释的机器学习模型，从而实现人工智能的民主化。通过了解神经网络的工作原理，我们可以构建需要更少计算能力且更易于理解的系统。这项发表在《科学》杂志上的研究标志着揭开人工智能技术黑匣子的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/80145</guid>
+      <pubDate>Tue, 19 Mar 2024 05:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]华为HarmonyOS预计到2024年在中国移动操作系统市场超越iOS，紧随其后[...]</title>
-      <link>https://t.me/hn_summary/80113</link>
-      <description><![CDATA[鸿蒙操作系统预计 2024 年中国移动操作系统市场份额将超越 iOS 
-继Mate 60系列取得成功后，华为HarmonyOS预计到2024年将在中国移动操作系统市场超越iOS。即将推出的 HarmonyOS Next 将不支持 Android 应用程序，这一大胆举措可能会震动整个行业。由于华为的激进策略，苹果可能在中国市场面临激烈的竞争。敬请期待鸿蒙操作系统继续在移动世界掀起波澜。]]></description>
-      <guid>https://t.me/hn_summary/80113</guid>
-      <pubDate>Tue, 19 Mar 2024 00:46:08 GMT</pubDate>
+      <title>[媒体]微软推出了 Garnet，一个开源缓存存储系统，旨在加速 [...]</title>
+      <link>https://t.me/hn_summary/80144</link>
+      <description><![CDATA[Garnet – 开源、下一代、更快的缓存存储用于加速应用程序
+微软推出了 Garnet，这是一种开源缓存存储系统，与 Redis 和 KeyDB 等现有系统相比，旨在通过提供更好的可扩展性、吞吐量和更低的延迟来加速应用程序。 Garnet 的独特功能包括跨平台支持、丰富的 API 以及用于分片和复制的集群模式。通过实验，Garnet 在吞吐量和延迟方面表现出了卓越的性能，使其成为应对现代数据存储挑战的有前途的解决方案。 Garnet 专注于可扩展性和性能优化，旨在彻底改变缓存存储行业，使开发人员能够构建更快、更高效的应用程序。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80144</guid>
+      <pubDate>Tue, 19 Mar 2024 05:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]计算机科学领域的许多人可能都在使用 GPT（生成式预训练 [...]</title>
-      <link>https://t.me/hn_summary/80112</link>
-      <description><![CDATA[“CS 领域的很多人（几乎肯定）都在使用 GPT他们的同行评审”
-计算机科学领域的许多人可能会使用 GPT（生成式预训练变压器）技术来协助同行评审。这种有争议的做法引发了人们对学术研究的真实性和完整性的质疑。 GPT 技术可以生成模仿人类书写的文本，从而很难区分真实内容和人工智能生成的内容。这一趋势凸显了学术环境中对人工智能的日益依赖，引发了关于在研究和同行评审过程中使用人工智能的伦理影响的争论。这是一个令人惊讶且令人担忧的发展，挑战了传统的学术诚信观念。]]></description>
-      <guid>https://t.me/hn_summary/80112</guid>
-      <pubDate>Tue, 19 Mar 2024 00:35:02 GMT</pubDate>
+      <title>[媒体]在最近发表在《美国国家科学院院刊》上的一项研究中，重新 [...]</title>
+      <link>https://t.me/hn_summary/80143</link>
+      <description><![CDATA[更新世第一次冰川作用可能推动了非洲的迁徙&lt; /a&gt;
+最近发表在《美国国家科学院院刊》上的一项研究中，研究人员乔瓦尼·穆托尼 (Giovanni Muttoni) 和丹尼斯·肯特 (Dennis Kent) 提出，大约 100 万年前古人类从非洲迁徙可能是由更新世第一次大冰川引发的。通过分析岩石沉积层中的氧同位素，他们确定冰河时代的开始时间约为 90 万年前。这一发现与大约同一时期人口瓶颈的遗传证据相一致，表明气候变化在推动移民方面发挥了重要作用。这项研究挑战了之前的研究，并为古人类的早期运动提供了新的线索。]]></description>
+      <guid>https://t.me/hn_summary/80143</guid>
+      <pubDate>Tue, 19 Mar 2024 04:31:43 GMT</pubDate>
     </item>
     <item>
-      <title>问HN：如何保护用户免受社会工程攻击？</title>
-      <link>https://t.me/hn_summary/80111</link>
-      <description><![CDATA[询问 HN：如何保护用户免受社交工程攻击？
-作为开发人员或企业主，保护用户免受社会工程攻击至关重要。虽然强密码和多重身份验证很重要，但还有其他方法可以增强网络安全。在黑客新闻的讨论中，用户正在分享他们的见解和防范社会工程策略的策略。从对用户进行常见诈骗的教育到实施严格的访问控制，有多种方法可供考虑。加入对话并了解如何更好地保护您的用户和您的企业免受恶意攻击。]]></description>
-      <guid>https://t.me/hn_summary/80111</guid>
-      <pubDate>Tue, 19 Mar 2024 00:27:57 GMT</pubDate>
+      <title>[媒体]模拟漏洞是数字作品复制保护方案中的一个漏洞，允许 [...]</title>
+      <link>https://t.me/hn_summary/80142</link>
+      <description><![CDATA[模拟漏洞
+模拟漏洞是数字作品复制保护方案中的一个漏洞，允许通过模拟方式进行复制。尽管努力弥补这个漏洞，模拟信号仍然可以被捕获和再现。电影行业已经讨论了解决这一问题的立法，但也一直在寻求私营部门的解决方案。 Macrovision 等技术试图阻止录制，但存在可以抵消这些措施的设备。虽然一些播放设备已经消除了模拟输出，但盗版者仍然可以绕过保护措施。争议在于内容创作者和那些试图规避版权保护的人之间正在进行的斗争。]]></description>
+      <guid>https://t.me/hn_summary/80142</guid>
+      <pubDate>Tue, 19 Mar 2024 04:20:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“Enigma Breaker in Rust”项目名为 ultra，是一个 Rust 实现 [...]</title>
-      <link>https://t.me/hn_summary/80110</link>
-      <description><![CDATA[Rust 中的 Engima Breaker
-GitHub 上的“Enigma Breaker in Rust”项目名为 ultra，是 Enigma 机的 Rust 实现，可以解密密文。它可用于使用特定 Enigma 设置或随机设置来加密和解密消息。该项目的与众不同之处在于，它使用重合索引、二元组和四元组频率的组合来推断用于解密的原始恩尼格玛机设置。作者提到短于 500 个字符的消息可能无法正确解密。该项目已获得 MIT 许可，并受到 James Lyons 的文章和 Computerphile 视频的启发。]]></description>
-      <guid>https://t.me/hn_summary/80110</guid>
-      <pubDate>Tue, 19 Mar 2024 00:23:54 GMT</pubDate>
+      <title>令人惊讶的是，一项针对 20,000 多名成年人的研究发现，经过 8 小时的休息 [...]</title>
+      <link>https://t.me/hn_summary/80141</link>
+      <description><![CDATA[8 小时限时饮食与心血管疾病风险增加 91% 相关死亡
+令人惊讶的是，一项针对 20,000 多名成年人的研究发现，遵循 8 小时限时饮食计划（一种流行的间歇性禁食形式）与心血管疾病死亡风险增加 91% 相关。这项研究挑战了限时饮食可以改善心脏健康和延长寿命的观点。这项在美国心脏协会会议上发表的研究强调了个性化饮食建议的重要性，特别是对于患有心脏病或癌症的个人。虽然限时饮食可能会带来短期好处，但对心血管健康的长期影响令人担忧。需要进一步的研究来了解这些发现背后的生物学机制。]]></description>
+      <guid>https://t.me/hn_summary/80141</guid>
+      <pubDate>Tue, 19 Mar 2024 04:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：编程很糟糕</title>
-      <link>https://t.me/hn_summary/80109</link>
-      <description><![CDATA[编程很糟糕
-标题：编程很糟糕
-
-摘要：该博客的作者一直专注于自然摄影而不是编码，分享了有关摄影的见解和建议。他们强调实践和实验的重要性，而不是完美。他们讨论了最适合初学者的相机、设备对摄影的影响，以及找到一台让您满意的相机的重要性。作者还深入研究了镜头的世界，为不同类型的摄影选择合适的镜头提供了指导。它们涉及自动、JPEG 和 Raw 等不同模式的拍摄，并提供有关白平衡和手动拍摄的提示。最终，作者鼓励读者享受学习和探索摄影的过程。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80109</guid>
-      <pubDate>Tue, 19 Mar 2024 00:17:49 GMT</pubDate>
+      <title>[媒体] 1998 年，Google 只是由拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建的一个简单的搜索引擎 [...]</title>
+      <link>https://t.me/hn_summary/80140</link>
+      <description><![CDATA[Google (1998)
+1998年，谷歌只是一个简单的搜索引擎，由拉里·佩奇和谢尔盖·布林在斯坦福大学就读时创建。这个来自 Wayback Machine 的存档网页让我们一睹 Google 的早期风采，展示了其简约的设计和基本功能。看到谷歌自那时以来取得了多大的进步，发展成为我们今天所知道的科技巨头，真是令人着迷。这张快照提醒我们世界上最具影响力的公司之一的卑微起步。]]></description>
+      <guid>https://t.me/hn_summary/80140</guid>
+      <pubDate>Tue, 19 Mar 2024 04:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 GR00T 项目是一项创新举措，旨在彻底改变游戏 [...]</title>
-      <link>https://t.me/hn_summary/80108</link>
-      <description><![CDATA[Nvidia 的 GR00T 项目
-Nvidia 的 GR00T 项目是一项创新举措，旨在彻底改变游戏行业。凭借尖端技术和对可持续发展的关注，Nvidia 正在突破游戏领域的极限。围绕该项目的争议在于其使用先进的人工智能和机器学习，引发了有关道德和隐私的问题。然而，将技术与环保意识相结合的独特方法必将使 Project GR00T 成为游戏世界的游戏规则改变者。请继续关注 Nvidia 这一激动人心的开发成果的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/80108</guid>
-      <pubDate>Tue, 19 Mar 2024 00:08:41 GMT</pubDate>
+      <title>[媒体]微软和 Adob​​e 联手增强 Microsoft 的 PDF 查看体验 [...]</title>
+      <link>https://t.me/hn_summary/80139</link>
+      <description><![CDATA[微软将于 2025 年初从 Edge 中删除旧版 PDF 查看器
+Microsoft 和 Adob​​e 联手将 Adob​​e Acrobat PDF 引擎集成到浏览器中，增强 Microsoft Edge 中的 PDF 查看体验。旧的 PDF 引擎将于 2025 年初删除，并从今年夏天开始向托管设备推出。用户现在可以通过在 Edge 设置中启用“新 PDF 查看器”标志来选择新体验。不过，此更新还包括宣传 Adob​​e Acrobat 订阅的“使用 Adob​​e 编辑”广告。喜欢旧版 PDF 查看器的用户可以恢复，但它最终会被淘汰。]]></description>
+      <guid>https://t.me/hn_summary/80139</guid>
+      <pubDate>Tue, 19 Mar 2024 03:59:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
