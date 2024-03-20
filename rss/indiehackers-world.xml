@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 20 Mar 2024 01:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 03:20:37 GMT</lastBuildDate>
+    <item>
+      <title>iPhone 的极简启动器</title>
+      <link>https://feed.indiehackers.world/post/9a64352982</link>
+      <description><![CDATA[我正处于创建极简主义“哑手机”的最后阶段。 iPhone 启动器。我称之为“傻瓜化”。
+手机成瘾问题日益引起人们的关注，Dumbify 旨在通过将您的 iPhone 变成哑手机来解决这个问题。
+它将于今年四月推出，我已经等不及了！
+如果您想成为第一批收到发布通知的人，我已经创建了一个候补名单：
+https://tally.so/r/npKL8q
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9a64352982</guid>
+      <pubDate>Wed, 20 Mar 2024 02:08:20 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一个（约会）概念模板</title>
       <link>https://feed.indiehackers.world/post/4ad2ea402d</link>
@@ -147,13 +159,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/74430f5cf6</guid>
       <pubDate>Tue, 19 Mar 2024 15:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Essembi 启动与 Microsoft Teams 的集成</title>
-      <link>https://feed.indiehackers.world/post/c4c43e4cdf</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c4c43e4cdf</guid>
-      <pubDate>Tue, 19 Mar 2024 15:02:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

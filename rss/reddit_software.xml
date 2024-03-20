@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 01:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 03:19:52 GMT</lastBuildDate>
+    <item>
+      <title>哪种编解码器是长期存储数小时播客的最佳编解码器？</title>
+      <link>https://www.reddit.com/r/software/comments/1bj307z/which_is_the_best_codec_to_long_term_storage_of/</link>
+      <description><![CDATA[我在存储数小时的学术播客时遇到了问题，似乎迄今为止最好的编解码器是低比特率的作品。&lt; /p&gt; 所以我有两个问题 1）opus 是最好的编解码器吗？ 2）我可以降到多低？🫥 64 比特率立体声？ 32？ 16？ PS：存储在我的国家并不便宜。因此购买另一个 Na 不是一个选择。   由   提交 /u/Optimal_Package8748   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bj307z/which_is_the_best_codec_to_long_term_storage_of/</guid>
+      <pubDate>Wed, 20 Mar 2024 02:36:57 GMT</pubDate>
+    </item>
     <item>
       <title>有没有链接检查网站？</title>
       <link>https://www.reddit.com/r/software/comments/1bj0iwh/are_there_any_link_checker_websites/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[除了 Windows 之外，我还需要购买其他软件才能让我的电脑工作吗？或者它们是免费的（如 amd 驱动程序等） &lt; /div&gt;  由   提交/u/NikolaGM   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bih4j0/softwere_required/</guid>
       <pubDate>Tue, 19 Mar 2024 10:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索本地图片的高分辨率版本的程序</title>
-      <link>https://www.reddit.com/r/software/comments/1bigiov/programm_that_searches_for_higher_res_versions_of/</link>
-      <description><![CDATA[大家好， 我正在寻找一个程序来搜索我本地保存的图片的更高分辨率版本。我有一个相当大的背景壁纸文件夹，它随着过去几年的增长而增长，现在我有一个比过去更高分辨率的显示器。现在他们中的许多人不再有足够的分辨率。是否有一个程序可以自动在线查找它们的高分辨率版本？就像谷歌反向图像搜索一样，但是是自动化的？遗憾的是，手工制作的图片太多了。  谢谢！   由   提交 /u/Gamefreak1a   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bigiov/programm_that_searches_for_higher_res_versions_of/</guid>
-      <pubDate>Tue, 19 Mar 2024 09:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
