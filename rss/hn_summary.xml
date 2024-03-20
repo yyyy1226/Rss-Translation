@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 01:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 05:20:58 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国国土安全部正计划使用生成式人工智能来训练immig [...]</title>
-      <link>https://t.me/hn_summary/80309</link>
-      <description><![CDATA[国土安全部将测试使用 GenAI 来培训美国移民官员
-美国国土安全部正计划使用生成式人工智能来培训移民官员，尽管存在潜在的不准确和偏见风险。该机构尚未透露参与该项目的人工智能供应商，但旨在加强决策和培训流程。尽管担心人工智能产生的错误信息和偏见，国土安全部仍致力于负责任且值得信赖的人工智能使用。该机构在人工智能的使用（包括面部识别技术）方面有着争议性的历史，但仍在继续推进人工智能项目以确保安全。国土安全部路线图概述了人工智能实施计划，包括调查和减灾试点项目。]]></description>
-      <guid>https://t.me/hn_summary/80309</guid>
-      <pubDate>Wed, 20 Mar 2024 01:00:27 GMT</pubDate>
+      <title>[媒体] Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初是 [...]</title>
+      <link>https://t.me/hn_summary/80346</link>
+      <description><![CDATA[Open Salamander 是一款快速可靠的 Windows 两面板文件管理器
+Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初由 Petr Šolín 于 1997 年开发，名为 Servant Salamander。该项目后来更名为 Altap Salamander，并最终于 2023 年作为 Open Salamander 5.0 开源。该项目的独特之处在于它是一个纯WinAPI应用程序，不使用任何MFC等框架。它欢迎贡献并提供各种功能和插件，尽管某些插件可能需要更新或替换。 Open Salamander 根据 GPLv2 及更高版本获得许可。]]></description>
+      <guid>https://t.me/hn_summary/80346</guid>
+      <pubDate>Wed, 20 Mar 2024 05:20:58 GMT</pubDate>
     </item>
     <item>
-      <title>我们对 MindEye2 的研究引入了一种突破性的方法，可以将功能磁共振成像数据结合起来 [...]</title>
-      <link>https://t.me/hn_summary/80308</link>
-      <description><![CDATA[MindEye2：共享受试者模型启用 fMRI 到图像 1数据小时
-我们对 MindEye2 的研究引入了一种突破性的方法，只需一小时的数据收集即可将 fMRI 数据转换为图像。通过利用共享主体模型，我们能够准确地从大脑活动中重建视觉刺激。这种创新方法有可能彻底改变神经科学领域，并为理解人脑开辟新的可能性。我们的研究结果已发布在 arxiv.org 上，以供进一步探索和讨论在科学界内。使用 MindEye2 探索 fMRI 转图像技术的未来。]]></description>
-      <guid>https://t.me/hn_summary/80308</guid>
-      <pubDate>Wed, 20 Mar 2024 00:55:22 GMT</pubDate>
+      <title>问 HN：你是如何摆脱困境的？</title>
+      <link>https://t.me/hn_summary/80345</link>
+      <description><![CDATA[问 HN：你是如何摆脱困境的？&lt; /a&gt;
+标题：问 HN：你是如何摆脱困境的？
+
+您是否因抑郁、失业、缺乏信心或恐惧而陷入困境？我们中的许多人都体验到了巨大的潜力，但感觉我们已经浪费了它。如果您已成功克服这些挑战并且现在过着令您自豪的生活，我们希望收到您的来信。分享您如何扭转局面的故事和建议，并激励其他可能陷入困境的人。加入 news.ycombinator.com 上的讨论。]]></description>
+      <guid>https://t.me/hn_summary/80345</guid>
+      <pubDate>Wed, 20 Mar 2024 05:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>Frederick Reines 是一位传奇物理学家，为了追捕侦探，差点轰炸了内华达 [...]</title>
-      <link>https://t.me/hn_summary/80307</link>
-      <description><![CDATA[诺贝尔奖获得者差点轰炸内华达州
-弗雷德里克·雷因斯是一位传奇物理学家，为了探测中微子（最微小的亚原子粒子），他差点轰炸了内华达州。他的实验最初计划使用20公斤重的核弹，最终转移到核反应堆以获得更好的结果。莱因斯和他的同事克莱德·考恩 (Clyde Cowan) 成为第一批探测到中微子的科学家，莱因斯因此获得了 1995 年诺贝尔物理学奖。伦纳德·科尔 (Leonard Cole) 的传记《追逐幽灵》深入探讨了莱因斯的大胆实验，包括创造了一个中微子。尽管学术界对种族隔离国家实施了制裁，但南非金矿的中微子实验室仍然存在。这本书突出了雷因斯的超凡魅力、有时甚至引起争议的个性，展示了他对中微子研究领域的影响。]]></description>
-      <guid>https://t.me/hn_summary/80307</guid>
-      <pubDate>Wed, 20 Mar 2024 00:51:18 GMT</pubDate>
+      <title>[媒体]“不要问，只问”网站解决了人们进入[...]的常见问题</title>
+      <link>https://t.me/hn_summary/80344</link>
+      <description><![CDATA[不要问问，只问&lt; br /&gt;
+“不要问，只问”网站解决了人们进入在线聊天室并询问周围是否有专家但没有实际说明他们的问题的常见问题。这被认为是懒惰的行为，并且会阻止知识渊博的人提供帮助。解决方案是直接提出您的问题，提供相关信息。通过这样做，您更有可能收到有用的回复。这种方法鼓励在线社区内的责任感、信心和包容性。该网站还引用了其他常见的沟通陷阱，并提供了有效提问的资源。]]></description>
+      <guid>https://t.me/hn_summary/80344</guid>
+      <pubDate>Wed, 20 Mar 2024 05:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DARPA 和诺斯罗普·格鲁曼公司正在合作开发月球-ba 的突破性概念 [...]</title>
-      <link>https://t.me/hn_summary/80306</link>
-      <description><![CDATA[诺斯罗普和 DARPA 设想月球“铁路”用于月球物流
-美国国防部高级研究计划局 (DARPA) 和诺斯罗普·格鲁曼公司正在合作开发月球铁路网的突破性概念，旨在为月球表面的商业企业运输人员、物资和资源。这一创新想法是 DARPA 月球架构能力研究的一部分，该研究旨在确定未来月球基础设施的基础技术。这项研究是在美国、国际合作伙伴和商业公司展望未来绕月活动之际进行的。天军也对地月作战表现出兴趣，并计划探索在该环境下作战的军事效益。到 2035 年，月球经济的潜力变得越来越明显。]]></description>
-      <guid>https://t.me/hn_summary/80306</guid>
-      <pubDate>Wed, 20 Mar 2024 00:47:13 GMT</pubDate>
+      <title>这项研究挑战了传统观念，即火和烹饪是人类的关键因素 [...]</title>
+      <link>https://t.me/hn_summary/80343</link>
+      <description><![CDATA[研究认为发酵食品而不是火是人脑的关键时刻成长
+这项研究挑战了传统观念，即火和烹饪是人类大脑生长的关键因素，并提出发酵食品发挥着关键作用。外部发酵假说认为，我们的祖先无意中食用了发酵食品，从而更容易吸收和消化营养，为大脑发育释放能量。这一意外发现可能对人类进化产生重大影响，并可能影响肠道健康和心理健康的现代研究。该研究强调了发酵食品在维持健康的肠道微生物组和整体健康方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/80343</guid>
+      <pubDate>Wed, 20 Mar 2024 05:02:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员利用生成人工智能取得了突破性的发现[...]</title>
-      <link>https://t.me/hn_summary/80305</link>
-      <description><![CDATA[“具有里程碑意义的时刻”：科学家利用人工智能从头开始设计抗体
-研究人员首次利用生成人工智能设计全新的抗体，取得了突破性的发现。这种创新方法有可能彻底改变价值数十亿美元的治疗性抗体市场。使用的人工智能工具 RFdiffusion 改变了蛋白质设计，使研究人员能够创建识别细菌和病毒蛋白质特定区域以及癌症药物靶点的抗体。虽然这是向前迈出的重要一步，但设计抗体在达到临床使用之前还有很长的路要走。尽管面临挑战，这项研究代表了抗体设计领域的一个里程碑式时刻。]]></description>
-      <guid>https://t.me/hn_summary/80305</guid>
-      <pubDate>Wed, 20 Mar 2024 00:25:04 GMT</pubDate>
+      <title>作者讨论了 Rust 编译时间慢的常见痛点，并探索了 [...]</title>
+      <link>https://t.me/hn_summary/80342</link>
+      <description><![CDATA[我将 Rust 编译时间提高了 75%&lt; br /&gt;
+作者讨论了 Rust 编译时间慢的常见痛点，并探索了改进方法，重点关注了前端 Rust Web 框架 Leptos。它们涵盖了诸如调整 opt-level、使用名为 Mold 的新链接器以及名为 Cranelift 的替代代码生成器等优化。作者提供了有关如何实现这些优化的详细说明，并分享了比较他们自己的站点和更复杂的站点的干净和增量编译时间的基准测试结果。本文提供了改进 Rust 编译时间的实用见解和解决方案，使其成为寻求优化工作流程的开发人员的宝贵资源。 （根据 52% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80342</guid>
+      <pubDate>Wed, 20 Mar 2024 04:58:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着比特币、以太坊和 XRP 价格暴跌，加密货币市场陷入混乱，抹去了 [...]</title>
-      <link>https://t.me/hn_summary/80304</link>
-      <description><![CDATA[随着交易员准备迎接美联储冲击，300B 美元的加密货币价格暴跌加速&lt; /a&gt;
-随着比特币、以太坊和 XRP 价格暴跌，加密货币市场陷入混乱，市值蒸发了 3000 亿美元。交易员们紧张不安，预计拜登政府可能会采取镇压行动。令人惊讶的是，摩根大通首席执行官突然转向比特币，这增加了不确定性。埃隆·马斯克重返市场又增添了一层不可预测性。美联储即将做出的利率决定可能会进一步影响价格。尽管混乱不堪，但华尔街比特币ETF的推出已为市场注入了数十亿美元，导致投资者极度贪婪。未来仍不确定，但一些专家预测来年将出现反弹并创下历史新高。]]></description>
-      <guid>https://t.me/hn_summary/80304</guid>
-      <pubDate>Wed, 20 Mar 2024 00:16:58 GMT</pubDate>
+      <title>[媒体] 在此 Web 内容中，我们探索使用 C 程序创建 Tree-sitter 语法。</title>
+      <link>https://t.me/hn_summary/80341</link>
+      <description><![CDATA[让我们创建一个 Tree-sitter 语法
+在此 Web 内容中，我们探索使用 C 程序创建 Tree-sitter 语法。语法是用 JavaScript 描述的，但用于生成 C 中的解析器。通过在自定义 C 代码中实现外部扫描器，我们可以覆盖解析器优先级并跟踪上下文状态。内容深入探讨了在遇到特定标记时尽早结束段落、在 C 中实现外部扫描器以及在解析器中管理块结构。作者强调了数据结构在编程中的重要性，并提供了实现功能性 Tree-sitter 语法的详细见解。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80341</guid>
+      <pubDate>Wed, 20 Mar 2024 04:54:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Htmlq 是一个类似于 jq 的工具，但针对 HTML 文件，允许用户提取内容 [...]</title>
-      <link>https://t.me/hn_summary/80303</link>
-      <description><![CDATA[Htmlq：与 Jq 类似，但针对 HTML
-Htmlq 是一个类似于 jq 的工具，但针对 HTML 文件，允许用户使用 CSS 选择器提取内容。可以使用各种包管理器安装它。该项目提供了检测基本 URL、忽略空格、漂亮的打印输出和选择特定属性等功能。示例包括通过 ID 查找内容、提取链接、获取文本内容以及在输出之前删除节点。 Htmlq 还支持使用 bat 进行语法高亮显示。该项目因其易用性和从 HTML 文件中提取特定内容的灵活性而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/80303</guid>
-      <pubDate>Wed, 20 Mar 2024 00:05:52 GMT</pubDate>
+      <title>[媒体] 这个 GitHub 项目提供了一个程序，可以计算至少 n o [...]</title>
+      <link>https://t.me/hn_summary/80340</link>
+      <description><![CDATA[显示 HN：至少 n
+这个 GitHub 项目提供了一个程序，用于计算 N 个给定概率中至少有 n 个解析为 true 的概率。该解决方案基于数学公式，该程序简化了计算过程。作者一步步解释了解决方案，展示了如何递归计算概率。该项目因其对数学概念的清晰解释和实现而脱颖而出，使其成为解决涉及多个事件的概率问题的有用工具。]]></description>
+      <guid>https://t.me/hn_summary/80340</guid>
+      <pubDate>Wed, 20 Mar 2024 04:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Nvidia 与 Hippocratic AI 合作，提供生成式 AI 护士，每人仅需 9 美元 [...]</title>
-      <link>https://t.me/hn_summary/80302</link>
-      <description><![CDATA[Nvidia AI 护士可能会让医院每小时花费 9 美元&lt; br /&gt;
-Nvidia 与 Hippocratic AI 合作，以每小时 9 美元的价格提供生成式 AI 护士，低于每小时 90 美元的真人护士。人工智能护士通过视频通话实时为患者提供医疗建议，提供一系列专业服务。希波克拉底宣传其人工智能护士在床边态度、教育和满意度方面优于人类护士。人工智能医疗保健代理的推出正值护理行业动荡之际，数千名护士将在 2023 年举行罢工。虽然与 Nvidia 的合作只是 2024 年 GTC 大会上众多公告之一，但它引发了关于可能取代人类的争议人工智能护士。]]></description>
-      <guid>https://t.me/hn_summary/80302</guid>
-      <pubDate>Tue, 19 Mar 2024 23:59:48 GMT</pubDate>
+      <title>[媒体] Meta，以前称为 Facebook，正在展示其与 fediverse 的集成 [...]</title>
+      <link>https://t.me/hn_summary/80339</link>
+      <description><![CDATA[Meta 展示 Threads Fediverse 集成
+Meta（以前称为 Facebook）正在通过其 Threads 应用程序展示其与联邦宇宙的集成。这种集成将允许用户在不同平台上分享他们的帖子，同时覆盖多个受众。然而，围绕集成存在一些争议，例如无法保证其他链接平台上的帖子删除以及当前 alpha 测试中的功能有限。尽管存在怀疑，Meta 仍保证他们有良好的意图，并希望成为 Fediverse 社区的积极成员。 FediForum 会议为开发者提供了在 Fediverse 中展示其工作的机会，促进透明度和协作。]]></description>
+      <guid>https://t.me/hn_summary/80339</guid>
+      <pubDate>Wed, 20 Mar 2024 04:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《光环》的联合创始人兼 Ridgeline Games 的创始人马库斯·莱托 (Marcus Lehto) 在 [...]</title>
-      <link>https://t.me/hn_summary/80301</link>
-      <description><![CDATA[Halo 联合创作者在发行商的安排下加入 EA离开整个团队
-《光环》的联合创作者兼 Ridgeline Games 的创始人马库斯·莱托 (Marcus Lehto) 在 EA 解雇了整个团队开发一款以故事为重点的新《战地》游戏时感到“心痛不已”。自愿离开 EA 的 Lehto 表达了对裁员的失望和悲伤，并表示才华横溢的开发人员遭受了不必要的痛苦。与 DICE 共同开发的单人战役的命运尚不确定。 Lehto 在考虑自己是否想重返这个行业时，宣布他将暂停游戏一段时间，以制定下一步计划。裁员带来的争议和情感影响在他的言论中显而易见。]]></description>
-      <guid>https://t.me/hn_summary/80301</guid>
-      <pubDate>Tue, 19 Mar 2024 23:41:40 GMT</pubDate>
+      <title>[媒体]IMDEA材料研究所的研究人员在[...]</title>
+      <link>https://t.me/hn_summary/80338</link>
+      <description><![CDATA[研究人员展示了碳纳米管片的突破性可回收性
+IMDEA 材料研究所的研究人员在碳纳米管 (CNT) 片材的可回收性方面取得了突破性突破，同时保持了其基本特性。这项研究发表在《Carbon》杂志上，标志着朝着可持续纳米结构材料和碳纳米管纤维彻底改变绿色能源的潜力迈出了重要一步。 Anastasiia Mikhalchan 博士强调了这项工作的重要性，强调回收的碳纳米管材料可以保留其机械和电气性能，为二氧化碳密集型材料提供可持续的替代品。该研究采用 FCCVD 合成工艺的创新方法为高性能碳纳米管材料在各行业的广泛采用奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/80338</guid>
+      <pubDate>Wed, 20 Mar 2024 04:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>尼古拉斯·霍克斯 (Nicholas Hawkes) 是英格兰第一位被定罪的网络闪光者，被判处 5 年以上监禁 [...]</title>
-      <link>https://t.me/hn_summary/80300</link>
-      <description><![CDATA[第一个根据英国新法律被定罪的“网络闪光者”，罪名超过 5年监禁
-尼古拉斯·霍克斯 (Nicholas Hawkes) 是英格兰第一位被定罪的网络爆料者，因主动向一名少女和一名妇女发送生殖器照片而被判处 5 年以上监禁。此案是根据新《在线安全法》首次定罪，该法将网络闪光定为刑事犯罪。霍克斯是一名被定罪的性犯罪者，他承认了这一罪行，但声称这是由于创伤后压力造成的。法官驳回了这一说法，强调网络闪现的严重性及其对受害者的持久影响。此案凸显了犯罪者因网络犯罪而面临的后果，挑战了此类行为无害的观念。]]></description>
-      <guid>https://t.me/hn_summary/80300</guid>
-      <pubDate>Tue, 19 Mar 2024 23:33:35 GMT</pubDate>
+      <title>[媒体]在最近的一项研究中，研究人员发现，一些长期经历过的脑雾[...]</title>
+      <link>https://t.me/hn_summary/80337</link>
+      <description><![CDATA[长时间的新冠脑雾可能是由于大脑血管受损造成的
+在最近的一项研究中，研究人员发现，一些长期新冠患者经历的脑雾可能是由于大脑血管受损造成的。这一发现揭示了该病毒的神经系统症状，并可能为那些遭受长期影响的人带来新的治疗选择。该研究强调了了解 Covid-19 对身体的全面影响的重要性，而不仅仅是最初的感染。这项研究在探索病毒对大脑的长期影响方面具有开创性，为那些与挥之不去的症状作斗争的人带来了希望。]]></description>
+      <guid>https://t.me/hn_summary/80337</guid>
+      <pubDate>Wed, 20 Mar 2024 04:35:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
