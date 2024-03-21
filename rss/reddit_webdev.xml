@@ -4,11 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 01:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 03:20:42 GMT</lastBuildDate>
+    <item>
+      <title>哪些功能最有说服力地包含在全栈投资组合项目中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjvkym/what_features_are_some_of_the_most_convincing_to/</link>
+      <description><![CDATA[我列出了一个列表，感觉很像任务蔓延，但话又说回来，这可能是值得的： &lt; ul&gt; 用户注册/登录 两因素身份验证 单点登录 社交媒体集成，即“在...上分享本文”&lt; /li&gt; 延迟加载 深色模式/浅色模式 语言切换 数据可视化 SEO 最佳实践：语义标签、站点地图等... 购物车 基于角色的权限 用于添加产品的管理界面 产品配置器 具有上下文知识的集成 LLM 聊天机器人 响应能力 汉堡菜单 集成支付网关 延迟加载/无限滚动&lt; /li&gt; CI/CD 管道：Kubernetes/Jenkins/自动化测试/部署 集成 Google 地图 GIT 需求分析 UX 设计阶段 UI 设计阶段 移动优先设计 跨站脚本防护 文档 Swagger API 访问 错误记录 完整测试覆盖 测试驱动开发？ ...？    由   提交/u/Fspz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjvkym/what_features_are_some_of_the_most_convincing_to/</guid>
+      <pubDate>Thu, 21 Mar 2024 02:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>谁能帮我获取 DeepL API 密钥？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bjt8ig/can_anyone_help_me_get_a_deepl_api_key/</link>
-      <description><![CDATA[您好，我需要一个免费层 api 密钥，但我无法获取它，因为我住在巴西，并且由于某种原因在此处不可用。 .. 我需要任何 DeepL 可用国家/地区的有效信用卡https://www.deepl。 com/pro-api（向下滚动一点即可看到可用的国家/地区）。有人可以帮我吗？如果有必要，我愿意付费，我不知道你是否可以注册 API 密钥，然后他们会删除你的信用卡或其他东西，然后给我凭据，只要 api 密钥也可以，正如我所说，我愿意付款...或者如果有人知道我如何获得 api 密钥或以某种方式获得信用卡...我已经尝试过使用预付信用卡，但它不起作用。 如果您能帮助我，请给我发一条 DM。 谢谢！   由   提交 /u/christiangusukuma   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我需要一个免费层 api 密钥，但我无法获取它，因为我住在巴西，并且由于某种原因在此处不可用。 .. 我需要任何 DeepL 可用国家/地区的有效信用卡https://www.deepl。 com/pro-api（向下滚动一点即可看到可用的国家/地区）。有人可以帮我吗？如果有必要，我愿意付费，我不知道你是否可以注册 API 密钥，然后他们会删除你的信用卡或其他东西，然后给我凭据，只是 api 密钥也可以，正如我所说的那样愿意付款...或者如果有人知道我如何获得 api 密钥或以某种方式获得信用卡...我已经尝试使用预付信用卡，但它不起作用。 如果您能帮助我，请给我发一条 DM。 谢谢！   由   提交 /u/christiangusukuma   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bjt8ig/can_anyone_help_me_get_a_deepl_api_key/</guid>
       <pubDate>Thu, 21 Mar 2024 00:26:33 GMT</pubDate>
     </item>
@@ -62,16 +69,9 @@
       <pubDate>Wed, 20 Mar 2024 21:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>作为一名网络开发人员，我构建了一个免费的竞争对手分析工具，我很高兴与大家分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjp5jm/as_a_web_developer_i_built_a_free_competitor/</link>
-      <description><![CDATA[       由   提交/u/sameed_a  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjp5jm/as_a_web_developer_i_built_a_free_competitor/</guid>
-      <pubDate>Wed, 20 Mar 2024 21:35:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Digital Ocean AppPlatform 间歇性链接错误的 SSL 证书域名</title>
       <link>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</link>
-      <description><![CDATA[这里有一个奇怪的问题，想知道其他人是否经历过： 间歇性地，我们在 DigitalOcean 的 AppPlatform 上托管的应用程序的用户会导航到我们的域时看到网站不安全警告。当我看到这个时，我看到由 Sectigo Limited（CA）颁发给与我们不同的域（*couchdrop.io）的 SSL 证书。意外。当证书有效时，它会从 Google Trust Services, LLC 正确颁发到我们的域。预期。 据我了解，DO 的 AppPlatform 管理证书创建和续订，因此这似乎是他们的问题。我已经创建了一个支持票证，希望他们能够及时解决这个问题。 也就是说，如果有人以前见过这种情况并且知道应用程序的配置如何可能导致他们的设备出现这种情况AppPlatform 我将不胜感激任何见解。理想情况下，这是我可以解决的问题，但是，如果是他们的问题而我无法修复它，我们将不得不迁移到另一个主机，这是我不愿意做的。    由   提交/u/Abstract-Abacus   /u/Abstract-Abacus reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[这里有一个奇怪的问题，想知道其他人是否经历过： 间歇性地，我们在 DigitalOcean 的 AppPlatform 上托管的应用程序的用户会导航到我们的域时看到网站不安全警告。当我看到这个时，我看到由 Sectigo Limited（CA）颁发给与我们不同的域（*couchdrop.io）的 SSL 证书。意外。当证书有效时，它会从 Google Trust Services, LLC 正确颁发到我们的域。预期。 据我了解，DO 的 AppPlatform 管理证书创建和续订，因此这似乎是他们的问题。我已经创建了一个支持票证，希望他们能够及时解决这个问题。 也就是说，如果有人以前见过这种情况并且知道应用程序的配置如何可能导致他们的设备出现这种情况AppPlatform 我将不胜感激任何见解。理想情况下，这是我可以解决的问题，但如果是他们的问题而我无法解决，我们将不得不迁移到另一个主机，这是我不愿意做的。    由   提交/u/Abstract-Abacus   /u/Abstract-Abacus reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</guid>
       <pubDate>Wed, 20 Mar 2024 21:05:42 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>将会话数据存储在非 http-only cookie 中</title>
       <link>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</link>
-      <description><![CDATA[我想改进我的宠物网络应用程序中身份验证的用户体验。 只是澄清一下标题：我是谈论存储会话数据，而不是会话令牌。您不能使用会话数据来验证您的请求 - 请求是使用存储在仅 http cookie 中的会话令牌进行验证的。会话数据基本上是您的用户 ID、用户名、电子邮件以及会话过期时间。现在它只是存储在客户端的内存中。 可以将这些数据存储在 JS 中可访问的 cookie 中吗？这样我就可以：1）通过在我的中间件中检查他们没有会话数据/会话数据已过期，立即将未经授权的用户重定向到登录页面。 2) 授权用户将更快地呈现页面，因为会话数据已经在 cookie 中 - 无需另一个服务器往返。 如果有人尝试设置会话，则不会出现模拟或类似情况的安全问题手动数据 cookie，那么，他们的所有 API 请求要么未经授权，要么至少使用其实际数据进行身份验证，而不是模拟数据。 因此，基本上诚实的用户将获得更快、响应更快的体验，并防止恶意行为者将无法访问他们不应该访问的任何数据。 所以我唯一担心的是 - 也许将用户的电子邮件存储在 JS 可以访问的 cookie 中是不行的，例如，这样 chrome 扩展程序就可以访问它。这不是一个巨大的安全问题，但有些人可能不喜欢他们的电子邮件被公开。 那么这可以吗？ 如果可以的话，请提供一步一步的解释使其更加清晰。 当前：  向页面发出请求 服务器发回HTML响应 客户端渲染页面，然后向服务器发出请求以获取会话数据 客户端通过会话获取响应数据，存储在内存中，使用它来呈现个人资料页面  我想做的：  提出请求对于页面 服务器发送回 HTML 响应以及带有会话数据的 cookie 客户端呈现页面，获取会话数据来自 cookie，使用它来呈现个人资料页面    由   提交 /u/HugeLetters   [链接] [评论]]]></description>
+      <description><![CDATA[我想改进我的宠物网络应用程序中身份验证的用户体验。 只是澄清一下标题：我是谈论存储会话数据，而不是会话令牌。您不能使用会话数据来验证您的请求 - 请求是使用存储在仅 http cookie 中的会话令牌进行验证的。会话数据基本上是您的用户 ID、用户名、电子邮件以及会话过期时间。现在它只是存储在客户端的内存中。 将这些数据存储在 JS 中可访问的 cookie 中可以吗？这样我就可以：1）通过在我的中间件中检查他们没有会话数据/会话数据已过期，立即将未经授权的用户重定向到登录页面。 2) 授权用户将更快地呈现页面，因为会话数据已经在 cookie 中 - 无需另一个服务器往返。 如果有人尝试设置会话，则不会出现模拟或类似情况的安全问题手动数据 cookie，那么，他们的所有 API 请求要么未经授权，要么至少使用其实际数据进行身份验证，而不是模拟数据。 因此，基本上诚实的用户将获得更快、响应更快的体验，并防止恶意行为者将无法访问他们不应该访问的任何数据。 所以我唯一担心的是 - 也许将用户的电子邮件存储在 JS 可以访问的 cookie 中是不行的，例如，这样 chrome 扩展程序就可以访问它。这不是一个巨大的安全问题，但有些人可能不喜欢他们的电子邮件被公开。 那么这可以吗？ 如果可以的话，请提供一步一步的解释使其更加清晰。 当前：  向页面发出请求 服务器发回HTML响应 客户端渲染页面，然后向服务器发出请求以获取会话数据 客户端通过会话获取响应数据，存储在内存中，使用它来呈现个人资料页面  我想做的：  提出请求对于页面 服务器发送回 HTML 响应以及带有会话数据的 cookie 客户端呈现页面，获取会话数据来自 cookie，使用它来呈现个人资料页面    由   提交 /u/HugeLetters   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</guid>
       <pubDate>Wed, 20 Mar 2024 20:14:50 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Wed, 20 Mar 2024 20:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>音乐家想要创建一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</link>
-      <description><![CDATA[大家好，请向比我更有知识的人寻求一些建议！ 我是一名音乐家，正在考虑建立一个网站用于推销自己和管理预订。我正在寻找的两个网站是 wix 和 Hostinger ，我现在不想花太多钱，而且我不想要超过 12 个月的期限。 有什么建议吗？最好有免费的域名和网站构建器。我非常精通技术，但这是一个我没有经验的领域，因此非常感谢任何建议   由   提交/u/thirdcheersfortrench  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</guid>
-      <pubDate>Wed, 20 Mar 2024 19:48:37 GMT</pubDate>
+      <title>创建自定义 CDN 的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjjlx1/what_is_the_best_way_to_create_a_custom_cdn/</link>
+      <description><![CDATA[我正在创建一个项目，在其中降低图像大小，然后将其保存到我的 CDN，但我有一个问题如何将该图像保存在自定义中cdn 然后我可以使用该自定义 cdn 在我的网站中显示它，最好和最便宜的方法是什么？   由   提交/u/Reddet99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjjlx1/what_is_the_best_way_to_create_a_custom_cdn/</guid>
+      <pubDate>Wed, 20 Mar 2024 17:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
