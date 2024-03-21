@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 12:32:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:19:58 GMT</lastBuildDate>
+    <item>
+      <title>Alt Photoshop，我忘记名字了</title>
+      <link>https://www.reddit.com/r/software/comments/1bk79m1/alt_photoshop_that_i_forget_the_name/</link>
+      <description><![CDATA[因此，一旦在旧的 reddit 帖子上发现了这个，这是某人制作并在 Reddit 上共享的替代 Photoshop，它是基于网络的，而且实际上是免费的。无需下载、安装，只需点击网站、登录即可使用。这正是我现在需要的，但忘记了该网站的名称。有人知道吗？   由   提交 /u/UOSenki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bk79m1/alt_photoshop_that_i_forget_the_name/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:02:59 GMT</pubDate>
+    </item>
     <item>
       <title>将 JPG (OCR) 中的文本提取到它自己的元数据中</title>
       <link>https://www.reddit.com/r/software/comments/1bk5erd/extracting_text_from_jpg_ocr_into_its_own_metadata/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>灯光秀软件</title>
       <link>https://www.reddit.com/r/software/comments/1bk4pnc/lightshow_software/</link>
-      <description><![CDATA[我正在寻找一款可以设计自己的灯光秀的软件。例如，像音乐节上演的那样。我家里没有米氏闪电。我有一台激光组合器，上面有一些频闪灯。但它一点也不专业（比如100美元）。因此，如果可能的话，它应该是数字的。  我对此一无所知，但我想开始（我想朝这个方向做一份工作）。所以我想也许有人可以告诉我哪种软件适合初学者。如果该软件免费，我将不胜感激，但这不是必须的。  一个重要的问题是，是否有程序可以导入其他人设计的阶段？  我希望这一切都是可以理解的，我的英语不是最好的。    由   提交 /u/MuscleMarv   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一款可以设计自己的灯光秀的软件。例如，像音乐节上演的那样。我家里没有米氏闪电。我有一台激光组合器，上面有一些闪光灯。但它一点也不专业（比如100美元）。因此，如果可能的话，它应该是数字的。  我对此一无所知，但我想开始（我想朝这个方向做一份工作）。所以我想也许有人可以告诉我哪种软件适合初学者。如果该软件免费，我将不胜感激，但这不是必须的。  一个重要的问题是，是否有程序可以导入其他人设计的阶段？  我希望这一切都是可以理解的，我的英语不是最好的。    由   提交 /u/MuscleMarv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bk4pnc/lightshow_software/</guid>
       <pubDate>Thu, 21 Mar 2024 11:51:20 GMT</pubDate>
     </item>
@@ -29,16 +36,9 @@
     <item>
       <title>从 HTML 文件批量下载 YouTube/X</title>
       <link>https://www.reddit.com/r/software/comments/1bk4a7l/bulk_youtubex_downloader_from_html_file/</link>
-      <description><![CDATA[大家好， 我只是想为我每天执行的工作流程找出一个自动化解决方案。 每天我都会创建一个 Google 文档，其中包含大约 30 个指向当前新闻剪辑的超链接，我需要从 YouTube 或 X (Twitter) 下载这些链接。 我目前手动下载每个内容并命名.mp4 文件与 Google 文档中的超链接名称。 我正在寻找一种可以自动执行此过程的方法，可以使用现有的软件，也可以使用简单的脚本会为我做这件事。 Google 文档允许我导出到 HTML 文件，所以我猜我会导出到 HTML 文件，然后将该文件导入到程序中以下载并重命名每个剪辑YouTube/X。 有人对此有一个绝妙的解决方案吗？ 非常感谢您提前提供的帮助！ Jim   由   提交 /u/jimnrd   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我只是想为我每天执行的工作流程找出一个自动化解决方案。 每天我都会创建一个 Google 文档，其中包含大约 30 个指向当前新闻剪辑的超链接，我需要从 YouTube 或 X (Twitter) 下载这些链接。 我目前手动下载每个内容并命名.mp4 文件，其名称为 Google 文档中的超链接。 我正在寻找一种可以自动执行此过程的方法，可以使用现有的软件，也可以使用简单的脚本会为我做这件事。 Google 文档允许我导出到 HTML 文件，所以我猜我会导出到 HTML 文件，然后将该文件导入到程序中以下载并重命名每个剪辑YouTube/X。 有人对此有一个绝妙的解决方案吗？ 非常感谢您提前提供的帮助！ Jim   由   提交 /u/jimnrd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bk4a7l/bulk_youtubex_downloader_from_html_file/</guid>
       <pubDate>Thu, 21 Mar 2024 11:25:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对外包业务有何看法？我对此很困惑</title>
-      <link>https://www.reddit.com/r/software/comments/1bk3oa9/what_are_your_thoughts_on_outsourcing_your/</link>
-      <description><![CDATA[读完这篇文章后，我只剩下一个问题：我应该选择哪家公司来外包我的项目？强烈推荐！  https ://www.inconceptlabs.com/blog/why-non-tech-companies-should-not-hire-their-in-house-development-teams   由   提交 /u/Lopside-Variety1530    reddit.com/r/software/comments/1bk3oa9/what_are_your_thoughts_on_outsource_your/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bk3oa9/what_are_your_thoughts_on_outsourcing_your/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:48:29 GMT</pubDate>
     </item>
     <item>
       <title>可以管理脚手架租赁的软件。付费/免费/云/本地</title>
@@ -71,21 +71,21 @@
     <item>
       <title>无法复制粘贴时自动输入长数学方程</title>
       <link>https://www.reddit.com/r/software/comments/1bjnwvo/automatically_input_long_math_equations_when_you/</link>
-      <description><![CDATA[如果您正在处理又长又复杂的数学方程并且必须手动输入它们，这个免费程序可以自动执行这个繁琐的过程。尝试将 3x/(5^(e^x)) 粘贴到 Desmos 中。它不起作用。 我制作这个工具是因为我厌倦了手动将长方程输入到程序中，而当粘贴方程时，这些方程不起作用。 这通常是因为他们有一些格式。例如，输入 ^（指数键）后，您需要按向右箭头才能离开该范围。 MathInput 分析给定的数学方程并相应地按右箭头，因此所有格式都会保留，并且可以轻松输入方程。 https: //desktoptools.net/mathinput/ 我希望这能为学生、教师和科学家节省时间。  任何反馈表示赞赏。如果这对您有帮助，请告诉我！    由   提交 /u/MysteriousShadow__   [链接] [评论]]]></description>
+      <description><![CDATA[如果您正在处理又长又复杂的数学方程并且必须手动输入它们，这个免费程序可以自动执行这个繁琐的过程。尝试将 3x/(5^(e^x)) 粘贴到 Desmos 中。它不起作用。 我制作了这个工具，因为我厌倦了手动将长方程输入到程序中，而当粘贴方程时，这些方程不起作用。 这通常是因为他们有一些格式。例如，输入 ^（指数键）后，您需要按向右箭头才能离开该范围。 MathInput 分析给定的数学方程并相应地按右箭头，因此所有格式都会保留，并且可以轻松输入方程。 https: //desktoptools.net/mathinput/ 我希望这能为学生、教师和科学家节省时间。  任何反馈表示赞赏。如果这对您有帮助，请告诉我！    由   提交 /u/MysteriousShadow__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjnwvo/automatically_input_long_math_equations_when_you/</guid>
       <pubDate>Wed, 20 Mar 2024 20:46:03 GMT</pubDate>
     </item>
     <item>
       <title>离线照片整理软件</title>
       <link>https://www.reddit.com/r/software/comments/1bjkz1g/offline_photo_organization_software/</link>
-      <description><![CDATA[如果不允许则删除 我和妈妈正在寻找一个离线程序来帮助她整理和标记数千张家庭照片 她是一名业余摄影爱好者，不需要云存储，也不需要编辑软件。 照片目前存储在外部硬盘上，不需要总大小超过 1TB。  有什么建议吗？ 预算为 100 - 150 美元 如果可以离线使用，我们假设这是终身软件购买。 &gt; 蒂亚！！ :)   由   提交 /u/Charl0tterug3r   [链接] [评论]]]></description>
+      <description><![CDATA[如果不允许则删除 我和妈妈正在寻找一个离线程序来帮助她整理和标记数千张家庭照片 她是一名业余摄影爱好者，不需要云存储，也不需要编辑软件。 照片现在存储在外部硬盘上，不需要总大小超过 1TB。  有什么建议吗？ 预算为 100 - 150 美元 如果可以离线使用，我们假设这是终身软件购买。 &gt; 蒂亚！！ :)   由   提交 /u/Charl0tterug3r   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjkz1g/offline_photo_organization_software/</guid>
       <pubDate>Wed, 20 Mar 2024 18:45:25 GMT</pubDate>
     </item>
     <item>
       <title>有没有一种软件可以让 Windows 认为它​​在 720p 显示器上运行在 1080p 显示器上？</title>
       <link>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</link>
-      <description><![CDATA[所以我有一个朋友root了他的iPhone 7。他得到了这个软件，可以让手机“以更高分辨率运行”。显然，它实际上并没有显示更高的分辨率，但手机认为它是，所以文本和应用程序的大小看起来更小。有时它看起来真的很酷，但有时它使文本看起来像垃圾。我记得他说过“增加像素密度”之类的话。但我不确定。遗憾的是我无法再联系到他了。 有没有办法在 Windows 上获得类似的结果？   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
+      <description><![CDATA[所以我有一个朋友root了他的iPhone 7。他得到了这个软件，可以让手机“以更高分辨率运行”。显然，它实际上并没有显示更高的分辨率，但手机认为它是，所以文本和应用程序的大小看起来更小。有时它看起来真的很酷，但有时它让文字看起来很糟糕。我记得他说过“增加像素密度”之类的话。但我不确定。遗憾的是我再也联系不到他了。 有没有办法在 Windows 上获得类似的结果？   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</guid>
       <pubDate>Wed, 20 Mar 2024 18:08:36 GMT</pubDate>
     </item>
