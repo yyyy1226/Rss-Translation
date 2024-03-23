@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 01:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 03:20:15 GMT</lastBuildDate>
+    <item>
+      <title>具有效果的 Microsoft Store 相机应用</title>
+      <link>https://www.reddit.com/r/software/comments/1blid3a/microsoft_store_camera_app_with_effects/</link>
+      <description><![CDATA[我正在寻找我认为是我小时候在家用计算机上使用的 MS Store 应用程序。它基本上是一个相机应用程序，你可以尝试使用一堆很酷的效果和滤镜。我唯一记得的是像剧院幕布打开这样你就可以看到你的网络摄像头，而且我认为还有黑色淡出效果。我知道我的描述很模糊，但我太年轻了，几乎不记得任何事情。如果您认为您知道我在说什么，请告诉我，并提前谢谢您。   由   提交 /u/itsryp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1blid3a/microsoft_store_camera_app_with_effects/</guid>
+      <pubDate>Sat, 23 Mar 2024 03:19:05 GMT</pubDate>
+    </item>
     <item>
       <title>抖音直播间</title>
       <link>https://www.reddit.com/r/software/comments/1blfo7o/tiktok_live_studio/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有想要保护的文件，但即使我无法访问安装了 WinRAR 或 7-Zip 的计算机，仍然可以访问这些文件。是否有这样一种格式，Windows可以读取和打开，但仍然具有“加密文件名”？功能？   由   提交 /u/Damariobros   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bkkz2c/is_there_a_zip_format_that_can_have_encrypted/</guid>
       <pubDate>Thu, 21 Mar 2024 23:31:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>EPUB 转换</title>
-      <link>https://www.reddit.com/r/software/comments/1bkhw2n/epub_conversion/</link>
-      <description><![CDATA[大家好，我正在紧急寻找一款可以将 PDF 或 InDesign 文件转换为 EPUBS 的软件。没有什么比 Calibre 更好，因为据我所知，这通常对可访问性没有帮助。我正在尝试找到符合 WCAG 标准的东西，或者至少检查可访问性问题。任何帮助，将不胜感激。谢谢。   由   提交/u/prosecutorpbug   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bkhw2n/epub_conversion/</guid>
-      <pubDate>Thu, 21 Mar 2024 21:23:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
