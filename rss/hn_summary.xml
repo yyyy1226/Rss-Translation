@@ -4,90 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:06:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 标题：Taurus：将 JMeter 负载测试编写为代码</title>
-      <link>https://t.me/hn_summary/80838</link>
-      <description><![CDATA[Taurus：将 JMeter 负载测试编写为代码
-标题：Taurus：将 JMeter 负载测试编写为代码
-
-JMeter 是一种广泛使用的负载测试工具，由于其 GUI 和复杂的 JMX 格式，使用起来可能具有挑战性。 Taurus 提供了一种解决方案，允许用户以简单的 YAML 格式编写测试计划。从基本的 GET 请求到带有标头和 cookie 的高级场景，Taurus 简化了流程。用户还可以参数化值、将场景拆分为多个文件以及使用 CSV 文件中的数据。对于更复杂的任务，可以使用 JavaScript 和 Groovy 等脚本语言。 Taurus 简化了负载测试并增强了团队成员之间的协作。]]></description>
-      <guid>https://t.me/hn_summary/80838</guid>
-      <pubDate>Sat, 23 Mar 2024 03:19:47 GMT</pubDate>
+      <title>[媒体] 在 dynomight.net 上的这篇文章中，作者探讨了数据 vi 中轴线的使用 [...]</title>
+      <link>https://t.me/hn_summary/80862</link>
+      <description><![CDATA[利用轴线行善或作恶
+在 dynomight.net 上的这篇文章中，作者探讨了数据可视化中的轴线，认为它们是可选的，应该根据绘制的数据有策略地使用。作者提供了何时包含轴线的示例和原则，强调了有意义的基线和比较的重要性。这篇文章还深入探讨了围绕迈尔斯-布里格斯性格测试的争议及其与生活结果的相关性，展示了数据的巧妙视觉表示。此外，作者还批评了 Matplotlib 的轴线默认设置，并提供了有关使用刻度线的见解。]]></description>
+      <guid>https://t.me/hn_summary/80862</guid>
+      <pubDate>Sat, 23 Mar 2024 09:06:06 GMT</pubDate>
     </item>
     <item>
-      <title>Soupault 是一个独特的静态网站生成器，可在 HTML 元素树级别上工作，允许 [...]</title>
-      <link>https://t.me/hn_summary/80837</link>
-      <description><![CDATA[Soupault：静态网站管理工具
-Soupault 是一个独特的静态网站生成器，可在 HTML 元素树级别上工作，允许根据您的规则自动操作 HTML 页面。与其他 SSG 不同，Soupault 将 HTML 视为一流格式，从而实现了以前不可能实现的各种功能和用例。 Soupault 能够以任何格式存储页面并将外部工具引入您的工作流程，因此可以完全控制网站生成过程。 Soupault 以法国作家 Philippe Soupault 的名字命名，具有高度可配置性、可扩展性，并且经久耐用。 Soupault 由 Daniil Baturin 开发，对于那些寻求不同静态站点生成方法的人来说是一个强大的工具。]]></description>
-      <guid>https://t.me/hn_summary/80837</guid>
-      <pubDate>Sat, 23 Mar 2024 03:11:39 GMT</pubDate>
+      <title>[媒体] 在 2009 年的这篇博文中，作者讨论了提高用户体验的重要性 [...]</title>
+      <link>https://t.me/hn_summary/80861</link>
+      <description><![CDATA[如果您不更改 UI，没有人会注意到 (2009) 
+在 2009 年的这篇博文中，作者讨论了改进软件用户界面以使其更具视觉吸引力和用户友好性的重要性。作者强调了微软对 Windows 7 中计算器应用程序的改进，以此证明他们正在关注操作系统的可见部分。这篇文章还深入探讨了计算器应用程序的技术改进，强调了进行用户可以实际看到和欣赏的更改的重要性。作者最后强调了进行用户可见的改进以增强整体用户体验的重要性。]]></description>
+      <guid>https://t.me/hn_summary/80861</guid>
+      <pubDate>Sat, 23 Mar 2024 08:26:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：Noland Arbaugh（第一位 Neuralink 患者）问答视频</title>
-      <link>https://t.me/hn_summary/80836</link>
-      <description><![CDATA[Noland Arbaugh（第一位 Neuralink 患者）问答视频
-标题：Noland Arbaugh（第一位 Neuralink 患者）问答视频
-
-观看 Noland Arbaugh 的独家问答视频，他是第一位接受 Neuralink 植入的患者。在这段开创性的视频中，Noland 分享了他的植入经验，并回答了有关 Neuralink 技术的流程、优点和潜在争议的问题。不要错过这个直接聆听第一个将大脑连接到计算机的人的独特机会。立即在 twitter.com 上观看！]]></description>
-      <guid>https://t.me/hn_summary/80836</guid>
-      <pubDate>Sat, 23 Mar 2024 03:04:33 GMT</pubDate>
+      <title>[媒体] 正在寻找一种快速简便的方法来为 SQLite 数据库生成架构图？</title>
+      <link>https://t.me/hn_summary/80860</link>
+      <description><![CDATA[SQLite 架构图生成器
+正在寻找一种快速、简单的方法来为 SQLite 数据库生成架构图？别再犹豫了！我们的 SQLite 架构图生成器工具使您只需单击几下即可可视化数据库的结构。只需输入您的数据库文件，然后让该工具完成其余的工作。这是了解数据库中表和字段之间关系的一种便捷有效的方法。告别手动绘图，转而使用我们的工具进行自动可视化。今天就尝试一下，简化您的数据库管理流程。]]></description>
+      <guid>https://t.me/hn_summary/80860</guid>
+      <pubDate>Sat, 23 Mar 2024 08:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>如何用小钱交易软件？</title>
-      <link>https://t.me/hn_summary/80835</link>
-      <description><![CDATA[如何用小钱交易软件？
-关于 www.scattered-thoughts.net 的文章讨论作为软件行业的小企业主赚钱的挑战。作者强调了在免费选项丰富的市场中获得有价值的软件付费的困难。他们探索了各种定价模型，例如按席位收费或按安装收费，并讨论了网络应用程序定价的复杂性。本文还深入探讨了将图书馆封装在 SaaS 模型中的选项、支持和咨询服务的可行性以及赞助在资助软件项目中的作用。作者质疑 SaaS 公司的盛行以及风险投资对非 SaaS 商业模式的影响。]]></description>
-      <guid>https://t.me/hn_summary/80835</guid>
-      <pubDate>Sat, 23 Mar 2024 03:00:29 GMT</pubDate>
+      <title>[媒体]贾斯敏·帕里斯 (Jasmin Paris) 创造了历史，成为第一位完成巴克利马拉松的女性，[...]</title>
+      <link>https://t.me/hn_summary/80859</link>
+      <description><![CDATA[Jasmin Paris 成为第一位完成最艰难比赛的女性&lt; br /&gt;
+贾斯敏·帕里斯 (Jasmin Paris) 创造了历史，成为巴克利马拉松 (Barkley Marathons) 38 年历史上第一位完成比赛的女性，巴克利马拉松是世界上最艰难的赛跑。她以59小时58分21秒的成绩完成了这场艰苦的比赛，略低于60小时的时间限制。帕里斯与其他四名选手一起打破了之前三人完赛的纪录。贾里德坎贝尔也创造了历史，第四次完成比赛，这是该赛事历史上的第一次。来自乌克兰/加拿大的伊霍尔·弗里斯 (Ihor Verys) 是 2024 年巴克利马拉松赛的第一位完赛者。这场比赛让跑步界惊叹不已，并猜测明年将会发生什么。]]></description>
+      <guid>https://t.me/hn_summary/80859</guid>
+      <pubDate>Sat, 23 Mar 2024 08:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 卡尔加里大学的突破性研究表明，肺部沟通 [...]</title>
-      <link>https://t.me/hn_summary/80834</link>
-      <description><![CDATA[肺部与大脑沟通报告感染、改变行为 
-卡尔加里大学的突破性研究表明，肺部在感染过程中直接与大脑沟通，挑战了关于疾病反应的传统观点。对小鼠的研究表明，神经通路，而不仅仅是免疫反应，会引发疾病症状。这一发现表明，治疗呼吸道感染可能需要同时针对神经系统和病原体。令人惊讶的是，雄性小鼠比雌性小鼠表现出更严重的疾病行为，这表明患病期间神经元通讯存在性别差异。这一发现可能为“人流感”现象提供科学支持。了解这种肺-脑对话可能会彻底改变呼吸系统疾病的治疗。]]></description>
-      <guid>https://t.me/hn_summary/80834</guid>
-      <pubDate>Sat, 23 Mar 2024 02:49:21 GMT</pubDate>
+      <title>无界递归可能会产生致命的后果，正如行军蚂蚁遵循 [...]</title>
+      <link>https://t.me/hn_summary/80858</link>
+      <description><![CDATA[无界递归
+无界递归可能会产生致命的后果，就像行军蚂蚁不断循环直到精疲力尽的情况一样。童谣和笑话也运用了无限回归的概念，例如“没有结束的歌曲”和格雷斯·默里·霍珀因无限递归而用完洗发水等例子。图像和卡通中常见的德罗斯特效应会在图像中创建图像的无限循环。悖论，例如时间旅行悖论，凸显了涉及自身的陈述的复杂性。无界递归不仅仅是一个计算机科学概念，而且是一种令人着迷、有时甚至是幽默的现象，可以在各种形式的媒体中找到。 （根据 74% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80858</guid>
+      <pubDate>Sat, 23 Mar 2024 08:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]橡树岭国家实验室的科学家发现了一种突破性的超级传感器 [...]</title>
-      <link>https://t.me/hn_summary/80833</link>
-      <description><![CDATA[科学家发现最小尺度的超级传感器
-橡树岭国家实验室的科学家们发现了一种突破性的超级传感器，可以检测极少量的物质，低至阿克水平。通过利用塞贝克效应（一种热电现象），该团队能够识别轻至 40 阿克的分子的热和光特征。这一发现有可能彻底改变安全技术和量子传感器的开发。研究中使用的探头经济高效且高度灵敏，非常适合从安全检查站到采矿等各种应用。该团队计划进一步测试探测器进行更小检测的能力，从而有可能促进量子传感器的发展。]]></description>
-      <guid>https://t.me/hn_summary/80833</guid>
-      <pubDate>Sat, 23 Mar 2024 02:46:16 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了 Elixir 中对象存储的基础知识，分享了 [...]</title>
+      <link>https://t.me/hn_summary/80857</link>
+      <description><![CDATA[Elixir 中对象存储的基础知识
+在这篇博文中，作者讨论了 Elixir 中对象存储的基础知识，并分享了最近关于该主题的直播的见解。作者回顾了存储系统的演变，强调了 NFS 等网络文件系统过去面临的挑战。强调了对象存储（尤其是 Elixir）的简单性和可扩展性，并提供了使用对象存储基础知识的实际示例。作者还探索了预签名 URL 和分段上传等高级功能，展示了利用对象存储服务进行高效数据管理的优势。 （根据 68% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80857</guid>
+      <pubDate>Sat, 23 Mar 2024 07:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦福大学的研究人员开发了一种高速微型 3D 打印技术 [...]</title>
-      <link>https://t.me/hn_summary/80832</link>
-      <description><![CDATA[高速微型3D打印
-斯坦福大学的研究人员开发了一种高速微型 3D 打印技术，每天可以生产多达 100 万个高度详细且可定制的微型颗粒。这种新方法称为卷对卷 CLIP (r2rCLIP)，比当前的高分辨率打印机快 5 到 10 倍，并且允许在单个物体中使用多种类型的树脂。这项创新背后的跨学科团队希望它将推动药物输送、微电子等领域的进步。 3D 打印的速度和分辨率之间的平衡是一个关键焦点，其应用范围从陶瓷到水凝胶。]]></description>
-      <guid>https://t.me/hn_summary/80832</guid>
-      <pubDate>Sat, 23 Mar 2024 02:40:11 GMT</pubDate>
+      <title>[媒体]早发癌症是一种新出现的全球流行病吗？</title>
+      <link>https://t.me/hn_summary/80856</link>
+      <description><![CDATA[早发性癌症是一种新兴的全球流行病吗？ （2022）
+最近的研究引起了人们对全球早发癌症发病率不断上升的担忧，重点是年轻人中的结直肠癌、乳腺癌和其他类型的癌症。青少年和年轻人癌症发病率的上升引发了人们呼吁采取进一步的研究和预防措施。有争议的是，一些研究人员认为青春期生长与后代患乳腺癌风险之间存在联系，强调了早期干预和预防策略的重要性。早发癌症的这一新趋势强调需要持续监测和调查，以应对这一潜在的全球流行病。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80856</guid>
+      <pubDate>Sat, 23 Mar 2024 07:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]增长的极限 (1972)</title>
-      <link>https://t.me/hn_summary/80831</link>
-      <description><![CDATA[增长的极限（1972）
-《增长的极限》是 1972 年的一份报告，利用计算机模拟探讨了有限资源下指数级经济和人口增长的后果。这项受罗马俱乐部委托进行的研究预测，人口和工业能力将急剧下降，而资源利用不会发生重大变化。尽管面临批评，但随后的研究支持了其预测。该报告继续引发争论，并引发了几份后续出版物。该研究的结果强调了迫切需要采取可持续的做法来避免全球崩溃。批评者质疑模拟和假设的准确性，从而引发了关于地球未来的持续讨论。 （根据故事文本的 26% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80831</guid>
-      <pubDate>Sat, 23 Mar 2024 02:37:06 GMT</pubDate>
+      <title>[媒体] 回到过去，探索 19 世纪充满活力的牛仔沙龙文化 [...]</title>
+      <link>https://t.me/hn_summary/80855</link>
+      <description><![CDATA[罕见照片揭示 19 世纪充满活力的牛仔沙龙文化&lt; /a&gt;
+通过这些罕见的历史照片，时光倒流，探索 19 世纪充满活力的牛仔沙龙文化。从枪战到酗酒，这些标志性场所确实名副其实。探索经常光顾这些酒吧的不同顾客，从牛仔到矿工，以及让他们流连忘返的游戏和娱乐活动。围绕排斥妇女和少数族裔的做法存在争议，而一些酒吧则通过禁止鸦片馆和妓院等活动来维持“受人尊敬”的形象。这些照片让我们得以一睹狂野西部历史的过去时代。]]></description>
+      <guid>https://t.me/hn_summary/80855</guid>
+      <pubDate>Sat, 23 Mar 2024 07:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Apple M1、M2 中发现了一个名为“GoFetch”的重大安全漏洞，[...]</title>
-      <link>https://t.me/hn_summary/80830</link>
-      <description><![CDATA[新芯片缺陷袭击 Apple Silicon 并从系统缓存中窃取加密密钥&lt; /a&gt;
-Apple 的 M1、M2 和 M3 芯片中发现了一个名为“GoFetch”的重大安全漏洞，攻击者可以利用该漏洞从 CPU 缓存中窃取加密密钥。此缺陷抵消了恒定时间编程的影响，使敏感数据容易被盗。虽然无法修复芯片中的漏洞，但基于软件的缓解措施可能会降低加密和解密性能。有趣的是，尽管英特尔的 Raptor Lake CPU 架构与苹果的芯片共享相同的预取器，但并没有这个漏洞。苹果预计将在年内发布修复程序。这一启示来自来自多所著名大学的研究团队。]]></description>
-      <guid>https://t.me/hn_summary/80830</guid>
-      <pubDate>Sat, 23 Mar 2024 02:33:02 GMT</pubDate>
+      <title>[媒体] Relacy Race Detector 是一个强大的工具，可有效执行 [...]</title>
+      <link>https://t.me/hn_summary/80854</link>
+      <description><![CDATA[Relacy Race Detector
+Relacy Race Detector 是一个强大的工具，用于在 C++0x 中高效执行同步算法的单元测试。它将用户线程表示为纤程，并系统地控制它们之间的交错。该工具提供了不同的调度程序选项，用于执行线程之间的各种交错，并为竞争和内存访问提供详尽的验证。它支持宽松的 ISO C++0x 内存模型、原子库、内存栅栏等。该工具易于使用，并提供有关如何设置测试套件和开始验证的详细说明。它确保没有误报，并提供失败测试的详细执行历史记录。免费下载该库并立即开始测试您的同步算法！]]></description>
+      <guid>https://t.me/hn_summary/80854</guid>
+      <pubDate>Sat, 23 Mar 2024 07:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]天文学家渴望将人类送上火星，但最近的研究表明，p [...]</title>
-      <link>https://t.me/hn_summary/80829</link>
-      <description><![CDATA[火星对于人类来说不安全，没有人能够生存超过4年
-天文学家渴望将人类送上火星，但最近的研究表明，这个星球不适合长期居住。多个机构的研究表明，人类在火星上受到的辐射威胁在短短四年后就会超过安全水平。虽然将人类送上火星的技术可能会在 2030 年代出现，但辐射暴露的潜在风险构成了重大挑战。科学家建议，火星任务不应超过四年，以确保宇航员的安全。尽管存在局限性，探索火星可以为我们星球的过去和未来提供宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/80829</guid>
-      <pubDate>Sat, 23 Mar 2024 02:30:56 GMT</pubDate>
+      <title>1982 年，Lisa 软件团队通过每周编写的代码行来跟踪工程师的进度。</title>
+      <link>https://t.me/hn_summary/80853</link>
+      <description><![CDATA[-2000 行代码
+1982 年，Lisa 软件团队通过每周编写的代码行来跟踪工程师的进度。主要实施者比尔·阿特金森 (Bill Atkinson) 认为该指标鼓励了草率的代码。他优化了 Quickdraw，使其速度更快并节省了 2,000 行。当要求报告他的代码行数时，他写了 -2000，这让管理层感到惊讶。他们很快就不再要求他填写表格，因为认识到他更注重质量而不是数量。阿特金森的聪明举动凸显了高效、有效的编码实践比简单地编写代码行的重要性。]]></description>
+      <guid>https://t.me/hn_summary/80853</guid>
+      <pubDate>Sat, 23 Mar 2024 06:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
