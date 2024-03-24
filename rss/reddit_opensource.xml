@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 03:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 06:24:11 GMT</lastBuildDate>
+    <item>
+      <title>请说出一些适用于 Windows 和 Linux 的开源视频播放器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</link>
+      <description><![CDATA[玩家不需要跨平台。我正在寻找适用于两个平台的优秀视频播放器，它可能不是同一个应用程序。例如，对于Linux，有MPV，对于Windows，有MPC-HC，我对这两个有问题，所以我需要更改。此外，VLC 在我的两个操作系统上都存在问题，因此请建议我使用 VLC、MPV 和 MPC-HC 以外的其他操作系统。   由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</guid>
+      <pubDate>Sun, 24 Mar 2024 04:20:16 GMT</pubDate>
+    </item>
     <item>
       <title>语义版本 GitHub 操作</title>
       <link>https://www.reddit.com/r/opensource/comments/1bm8qzg/semantic_version_github_action/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/Haarolean  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkzmjg/kafbat_ui_for_apache_kafka_v10_is_out/</guid>
       <pubDate>Fri, 22 Mar 2024 13:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一个平台可以请求开发开源插件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bkvcgl/is_there_a_platform_to_request_opensource_plugins/</link>
-      <description><![CDATA[ 由   提交/u/gilzonme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bkvcgl/is_there_a_platform_to_request_opensource_plugins/</guid>
-      <pubDate>Fri, 22 Mar 2024 09:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
