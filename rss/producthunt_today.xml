@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 01:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 03:22:11 GMT</lastBuildDate>
     <item>
       <title>丽莎：进化博物馆</title>
       <link>https://www.producthunt.com/posts/lisa-evolution-museum</link>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 24 Mar 2024 02:23:36 GMT</pubDate>
     </item>
     <item>
-      <title>薇芙漫画</title>
+      <title>薇薇漫画</title>
       <link>https://www.producthunt.com/posts/veve-comics</link>
       <description><![CDATA[
             一种令人兴奋的阅读和收集漫画书的新方式
@@ -32,6 +32,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/veve-comics</guid>
       <pubDate>Sun, 24 Mar 2024 01:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>意外之财 - 财务追踪</title>
+      <link>https://www.producthunt.com/posts/windfall-finance-tracker</link>
+      <description><![CDATA[
+            简单、私密且强大
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/windfall-finance-tracker</guid>
+      <pubDate>Sat, 23 Mar 2024 21:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>顺风到 WordPress 区块</title>
+      <link>https://www.producthunt.com/posts/tailwind-to-wordpress-blocks</link>
+      <description><![CDATA[
+            将 Tailwind 转换为可编辑的 WP Block 样式 - 开发速度更快
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tailwind-to-wordpress-blocks</guid>
+      <pubDate>Sat, 23 Mar 2024 21:11:12 GMT</pubDate>
     </item>
     <item>
       <title>Askreferral.io</title>
@@ -62,18 +90,32 @@
       <pubDate>Sat, 23 Mar 2024 20:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>激进.sh</title>
-      <link>https://www.producthunt.com/posts/radical-sh</link>
+      <title>奖金QR</title>
+      <link>https://www.producthunt.com/posts/bonusqr</link>
       <description><![CDATA[
-            在几分钟内生成 Spring Boot/Nest JS API
+            小型企业的忠诚度申请
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/radical-sh</guid>
-      <pubDate>Sat, 23 Mar 2024 07:26:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bonusqr</guid>
+      <pubDate>Sat, 23 Mar 2024 17:29:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alexi学习 |述情障碍和自闭症应用程序</title>
+      <link>https://www.producthunt.com/posts/alexilearn-alexithymia-and-autism-app</link>
+      <description><![CDATA[
+            具有许多学习功能的创新型教育人工智能应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/alexilearn-alexithymia-and-autism-app</guid>
+      <pubDate>Sat, 23 Mar 2024 12:28:23 GMT</pubDate>
     </item>
     <item>
       <title>希尔什</title>
@@ -88,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/hyr-sh</guid>
       <pubDate>Fri, 22 Mar 2024 22:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Decentro 的 HyperStreams 和 UIStreams</title>
-      <link>https://www.producthunt.com/posts/hyperstreams-uistreams-by-decentro</link>
-      <description><![CDATA[
-            打造有史以来最快的身份验证体验
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/hyperstreams-uistreams-by-decentro</guid>
-      <pubDate>Thu, 21 Mar 2024 06:47:19 GMT</pubDate>
     </item>
     <item>
       <title>戴瓦</title>
@@ -130,34 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/self-care-planner</guid>
       <pubDate>Sun, 17 Mar 2024 07:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>概念圈</title>
-      <link>https://www.producthunt.com/posts/notioncircles</link>
-      <description><![CDATA[
-            最佳概念模板市场
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/notioncircles</guid>
-      <pubDate>Sat, 16 Mar 2024 10:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>纪录片</title>
-      <link>https://www.producthunt.com/posts/docuopia</link>
-      <description><![CDATA[
-            释放 AI 在文档写作中的魔力
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/docuopia</guid>
-      <pubDate>Wed, 13 Mar 2024 07:12:49 GMT</pubDate>
     </item>
     <item>
       <title>地点侦察</title>
