@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 15:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 18:14:32 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 [...]</title>
-      <link>https://t.me/hn_summary/81357</link>
-      <description><![CDATA[Pinnacle – 对 1986 年经典作品《哨兵》的现代致敬
-Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 Viperfish.com.au。 Mac Gatekeeper 最初可能会阻止该应用程序运行，但用户可以通过右键单击 .app 文件并选择打开来轻松绕过此操作。 Pinnacle 的创建者不支付加入开发者计划的费用，因此用户在尝试安装该软件时可能会遇到麻烦。这个独特的项目为《哨兵》的粉丝提供了有趣的体验，而无需支付传统的开发人员费用。]]></description>
-      <guid>https://t.me/hn_summary/81357</guid>
-      <pubDate>Tue, 26 Mar 2024 15:11:07 GMT</pubDate>
+      <title>[媒体] 在 yzena.com 上的这篇文章中，作者反思了计算理论的重要性 [...]</title>
+      <link>https://t.me/hn_summary/81406</link>
+      <description><![CDATA[计算机不能做什么：图灵完备性的后果
+在 yzena.com 上的这篇文章中，作者反思了计算机科学教育中的计算理论和图灵完备性的概念。作者讨论了计算机可以做什么的软限制、即使是无限的时间和空间也无法克服的硬限制，以及停机问题的含义。这篇文章深入探讨了通用图灵机的重要性以及它们如何支撑解释器和编译器的概念。作者强调了图灵完备性的普遍性和有害性，强调了证明程序正确性的挑战。这篇文章最后探讨了图灵完备的含义以及实现图灵完备的要求。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81406</guid>
+      <pubDate>Tue, 26 Mar 2024 18:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>嗨，HN！</title>
-      <link>https://t.me/hn_summary/81356</link>
-      <description><![CDATA[推出 HN：CommodityAI (YC W24) – 为商品交易者提供货运管理
-嗨，HN！我们是 CommodityAI 的联合创始人，该平台可以简化管理商品运输的复杂流程。全球商品贸易涉及大量流程、文件和协调，导致代价高昂的错误和低效率。我们的人工智能驱动解决方案简化了数据预处理，使用 OCR 和索引方法自动化业务流程，并使用户能够更有效地采取行动和工作流程。我们的平台已经为客户节省了时间和金钱，美国最大的农产品贸易商之一使用它处理了超过一百万份文件。观看我们的视频，看看它是如何工作的！我们欢迎熟悉商品交易行业的人士提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/81356</guid>
-      <pubDate>Tue, 26 Mar 2024 15:03:29 GMT</pubDate>
+      <title>[媒体]Blender 4.1 版本为 sca [...] 时的图像/电影过滤带来了令人兴奋的改进</title>
+      <link>https://t.me/hn_summary/81405</link>
+      <description><![CDATA[Blender 4.1 版本
+Blender 4.1 版本为缩放和旋转片段时的图像/电影过滤带来了令人兴奋的改进。 Strips 现在可以根据缩放因子智能地选择最合适的过滤器，例如用于无缩放/旋转的“Nearest”（最近的）、用于放大 2 倍以上的“Cubic Mitchel”（立方米切尔）、用于缩小 2 倍以上的“Box”（框）以及作为后备的“Bilinear”（双线性）。此更新增强了用户体验并简化了编辑过程，使您可以更轻松地获得高质量的结果。 Blender 不断创新并突破 3D 动画和设计领域的界限。]]></description>
+      <guid>https://t.me/hn_summary/81405</guid>
+      <pubDate>Tue, 26 Mar 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>该项目是 CVE-2024-1086 的概念验证漏洞利用，这是一种通用本地权限 Esca [...]</title>
-      <link>https://t.me/hn_summary/81355</link>
-      <description><![CDATA[针对 CVE-2024-1086 的 Debian/Ubuntu 权限提升 PoC 漏洞&lt; /a&gt;
-该项目是 CVE-2024-1086 的概念验证漏洞，CVE-2024-1086 是一个通用本地权限提升漏洞，影响 v5.14 和 v6.6 之间的 Linux 内核，包括 Debian、Ubuntu 和 KernelCTF。该漏洞在 KernelCTF 图像中的成功率为 99.4%。作者在他们的博客上提供了该漏洞的详细描述。该项目包含一些警告，例如某些内核配置的兼容性问题以及网络活动频繁的系统上的网络不稳定。该漏洞可以在 Debian、Ubuntu 和 KernelCTF 系统上轻松配置、构建和运行，并提供预编译的二进制文件。作者强调，该项目仅用于教育/研究目的，不纵容任何恶意或非法使用。]]></description>
-      <guid>https://t.me/hn_summary/81355</guid>
-      <pubDate>Tue, 26 Mar 2024 15:00:53 GMT</pubDate>
+      <title>[媒体] 隆重推出 Faune.ai，这是一个注重隐私的人工智能聊天平台，允许用户参与 [...]</title>
+      <link>https://t.me/hn_summary/81404</link>
+      <description><![CDATA[显示 HN：动态多 LLM AI 聊天&lt; br/&gt;
+隆重推出 Faune.ai，这是一个注重隐私的 AI 聊天平台，允许用户无需用户帐户即可参与动态的多法学硕士对话。这确保了所有交互的完全匿名性和安全性。告别隐私问题，迎接与 Faune.ai.]]></description>
+      <guid>https://t.me/hn_summary/81404</guid>
+      <pubDate>Tue, 26 Mar 2024 17:55:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们关于基于波形的音乐处理和深度学习的教程 [...]</title>
-      <link>https://t.me/hn_summary/81354</link>
-      <description><![CDATA[在波形域中生成音乐（2020）&lt; br/&gt;
-作者讨论了他们在 ISMIR 2019 上提出的基于波形的音乐处理和深度学习的教程。他们深入研究了在波形域中建模音乐背后的动机，强调了挑战和好处。他们解释了波形在捕捉声音中的重要性以及相位建模的复杂性。这篇文章涵盖了生成模型，包括隐式和显式模型，以及使用条件信号来影响样本生成。讨论还涉及基于可能性的模型和密集调节信号的重要性。作者旨在引发讨论并提供对波形领域音乐生成的见解。 （根据故事文本的 22% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81354</guid>
-      <pubDate>Tue, 26 Mar 2024 14:58:16 GMT</pubDate>
+      <title>在这篇关于多动症生产力基础的文章中，作者强调了简单 [...]</title>
+      <link>https://t.me/hn_summary/81403</link>
+      <description><![CDATA[多动症生产力基础知识
+在这篇关于多动症生产力基础知识的文章中，作者强调了生产力工具简单性和个性化的重要性。他们强调写下所有内容、有效使用列表以及安排任务以有效管理时间的重要性。作者还提供了他们自己的选择生产力工具的指南，强调了简单性和易用性的必要性。这篇文章鼓励读者简化工作流程、消除混乱并减少选择以提高生产力。总体而言，作者的目标是激励读者通过微小而有意义的改进找到自己的生产力之路。]]></description>
+      <guid>https://t.me/hn_summary/81403</guid>
+      <pubDate>Tue, 26 Mar 2024 17:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>BAML 是一种新的编程语言，旨在简化调用大型语言的过程 [...]</title>
-      <link>https://t.me/hn_summary/81353</link>
-      <description><![CDATA[显示 HN - BAML：一种用于获取结构化数据的新编程语言法学硕士
-BAML 是一种新的编程语言，旨在简化在代码中调用大型语言模型 (LLM) 的过程。该项目旨在解决将通常讲英语的法学硕士与使用类型的代码集成的挫败感。 BAML 采用类型优先的方法，允许用户在 BAML 文件中定义输入和输出的类型、提示模板、重试和回退。该项目的独特之处在于为 LLM 提供类型安全保证、提供出色开发人员体验的工具以及对 OpenAI 和 Azure 等各种 LLM 提供商的支持。该项目还提供工具、VSCode 扩展和入门项目以方便集成。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81353</guid>
-      <pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate>
+      <title>[媒体] 哈里王子发现自己卷入了针对迪迪的性交易诉讼，迪迪 [...]</title>
+      <link>https://t.me/hn_summary/81402</link>
+      <description><![CDATA[哈里王子卷入针对迪迪提起的性交易诉讼 
+哈里王子发现自己卷入了一场针对迪迪的性贩运诉讼，迪迪被指控性侵犯和贩运。虽然哈利没有直接参与任何不当行为，但他已被任命为说唱歌手的党友。诉讼称，迪迪的派对吸引了包括哈里王子在内的名人，而起诉迪迪的制片人受到说唱歌手的骚扰和威胁。联邦执法部门甚至调查了吹牛老爹的两处与指控有关的财产。哈利与迪迪的联系可能并不令人惊讶，因为这位叛逆的皇室成员过去曾与名人交往过。]]></description>
+      <guid>https://t.me/hn_summary/81402</guid>
+      <pubDate>Tue, 26 Mar 2024 17:53:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我对 2015 年讨论 functi 的一篇热门文章做出了迟来的回应 [...]</title>
-      <link>https://t.me/hn_summary/81352</link>
-      <description><![CDATA[异步函数没有颜色
-在这篇文章中，我对 2015 年讨论异步编程中的函数着色的热门文章做出了最新回应。虽然原始文章提出了有趣的规则和概念，但我认为 async/await 的引入通过解决许多回调式问题彻底改变了环境。我深入研究了从同步函数调用异步函数的细微差别，强调了最终结果的重要性及其提供的灵活性。我还谈到了不同执行模型的重要性以及采用异步原语的好处。总的来说，我主张对函数着色和异步编程的不断发展的本质有更细致的理解。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81352</guid>
-      <pubDate>Tue, 26 Mar 2024 14:19:25 GMT</pubDate>
+      <title>[媒体] NixOS-generators 项目是 VM 和容器磁盘映像构建器的集合，用于 [...]</title>
+      <link>https://t.me/hn_summary/81401</link>
+      <description><![CDATA[NixOS-generators – NixOS 的虚拟机和容器磁盘映像构建器的集合
+NixOS-generators 项目是 NixOS 的 VM 和容器磁盘映像构建器的集合，允许用户使用相同的 NixOS 配置生成不同目标格式的输出。只需将配置放入configuration.nix并调用映像生成器之一，您就可以为各种平台（例如Amazon EC2、Microsoft Azure、Docker、Google Compute等）创建映像。该项目的突出之处在于提供广泛的支持格式以及自定义图像大小、针对不同架构进行交叉编译以及集成为 NixOS 模块或 Flake 输入以方便图像构建的能力。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81401</guid>
+      <pubDate>Tue, 26 Mar 2024 17:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>固定电话正在消失。</title>
-      <link>https://t.me/hn_summary/81351</link>
-      <description><![CDATA[固定电话正在消失。但对某些人来说，它们是生命线
-在华盛顿州恩努克劳等农村地区，固定电话是许多人的生命线，尤其是在停电和紧急情况下。尽管固定电话用户数量急剧下降，并且 AT&amp;T 等提供商希望逐步淘汰该服务，但数百万人仍然依赖铜线固定电话来确保安全。 AT&amp;T 试图停止加州部分地区的固定电话服务，引发了对老年人、残疾人和低收入人群安全的担忧。尽管人们正在推动蜂窝或 VoIP 服务等替代服务的发展，但传统固定电话的可靠性和安全性对于那些依赖传统固定电话的人来说仍然是无与伦比的。]]></description>
-      <guid>https://t.me/hn_summary/81351</guid>
-      <pubDate>Tue, 26 Mar 2024 14:18:21 GMT</pubDate>
+      <title>[媒体]备受期待的 Rabbit R1，一款使用 AI 的现实生活中类似 Pokédex 的袖珍设备，[...]</title>
+      <link>https://t.me/hn_summary/81400</link>
+      <description><![CDATA[最受期待的人工智能小工具之一现已确定发布日期
+备受期待的 Rabbit R1 是一款类似 Pokédex 的袖珍设备，使用人工智能、摄像头和麦克风，在 CES 2024 上引起轰动后，终于确定了发布日期。R1 的售价为 199 美元，无需订阅，是首款突破性产品。掀起了新一轮人工智能产品浪潮。目前已售出 100,000 份预订，人们的兴趣非常浓厚。相比之下，Humane Ai Pin 的价格为 700 美元，订阅费为 24 美元/月，这使得它的销售难度更大。这些人工智能小工具即将发布，标志着独立设备的回归，利用人工智能来了解周围的世界，挑战智能手机的主导地位。]]></description>
+      <guid>https://t.me/hn_summary/81400</guid>
+      <pubDate>Tue, 26 Mar 2024 17:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的知识图语言 (KGL) 项目提供了一种用于交互的查询语言 [...]</title>
-      <link>https://t.me/hn_summary/81350</link>
-      <description><![CDATA[显示HN：KGL，一种知识图查询语言
-GitHub 上的知识图语言 (KGL) 项目提供了一种查询语言，通过接受语义三元组并对它们进行索引以进行查询，从而与图进行交互。它可用于查找与节点关联的属性、返回连接的节点、根据条件过滤查询以及描述图中节点之间的关系。该项目通过提供过滤器查询、内省模式和描述运算符等功能而脱颖而出。它还提供了用于创建和查询知识图的Python API。该项目的自述文件作为官方语言参考，并根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/81350</guid>
-      <pubDate>Tue, 26 Mar 2024 14:05:35 GMT</pubDate>
+      <title>[媒体]加州一些快餐连锁店在新的 20 美元最低工资标准之前正在裁员 [...]</title>
+      <link>https://t.me/hn_summary/81399</link>
+      <description><![CDATA[加州食品连锁店在新的最低工资法出台之前裁员
+新的 20 美元最低工资法将于 4 月生效，加州一些快餐连锁店正在裁员。必胜客和其他连锁店已宣布裁员送货司机，一些特许经营店完全停止送货服务。此举是为了应对运营成本上升，一些连锁店将送货服务转移给第三方提供商。批评者认为，工资法将导致失业和客户价格上涨，而支持者则强调该行业需要公平工资。当 Panera Bread 最初获得法律豁免的消息被披露后，引发了争议，并引发了政治偏袒的指控。]]></description>
+      <guid>https://t.me/hn_summary/81399</guid>
+      <pubDate>Tue, 26 Mar 2024 17:49:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hybrid-Net 是一个人工智能驱动的多模式项目，专注于音乐，利用 Transfor [...]</title>
-      <link>https://t.me/hn_summary/81349</link>
-      <description><![CDATA[Hybrid-Net：实时音源分离，生成歌词，和弦、节拍
-Hybrid-Net 是一个专注于音乐的人工智能多模式项目，它利用基于 Transformer 的模型实时生成任何歌曲的和弦、节拍、歌词、旋律和标签。该项目包括各种 Transformer 模型，例如 U-Net、Pitch-Net、Beat-Net、Chord-Net 和 Segment-Net，它们协同工作以建立音乐不同方面之间的关联。该项目提供和弦检测、节拍跟踪、音高跟踪、音乐结构分析、歌词识别和人工智能生成的标签等功能。它还支持音源分离、速度调整和音调转换。该项目通过在实时环境中提供一整套与音乐相关的功能而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/81349</guid>
-      <pubDate>Tue, 26 Mar 2024 14:04:29 GMT</pubDate>
+      <title>标题：构建 WOPR：7x4090 AI 服务器</title>
+      <link>https://t.me/hn_summary/81398</link>
+      <description><![CDATA[构建 WOPR：7x4090 AI 服务器
+标题：构建 WOPR：7x4090 AI 服务器
+
+2023 年 12 月，作者开始构建一个强大的 AI 训练服务器，并选择了 DIY 的方式进行业余爱好项目。我们的目标是通过 Nvidia 4090 最大限度地提高 GPU 性能，我们选择 Nvidia 4090 是因为它们的功能和效率。选择 ASROCK Rack ROMED8-2T 主板是因为它能够以完整的 PCIe 4.0x16 连接支持 7 个 GPU。以折扣价购买了工程样品 Epyc 7763 CPU，为训练任务提供了令人印象深刻的性能。该系统配备了 512GB RDIMM RAM，可支持苛刻的 AI 工作负载。虽然该设置并非没有 PCIe 错误，但事实证明它对于训练任务是有效的，展示了作者构建高性能 AI 服务器的创新且经济高效的方法。]]></description>
+      <guid>https://t.me/hn_summary/81398</guid>
+      <pubDate>Tue, 26 Mar 2024 17:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。</title>
-      <link>https://t.me/hn_summary/81348</link>
-      <description><![CDATA[如果不提供 Google 私人签名密钥，VLC 无法在 Android 上更新&lt; /a&gt;
-不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。 Google 要求用户提供私人签名密钥才能更新其设备上的 VLC。谷歌这一有争议的举动引发了关注隐私和安全的用户的愤怒。如果不提供这些密钥，用户将无法接收流行媒体播放器的更新。这引发了关于谷歌等科技巨头对我们在设备上使用的应用程序的控制权的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/81348</guid>
-      <pubDate>Tue, 26 Mar 2024 14:01:55 GMT</pubDate>
+      <title>欧几里得太空望远镜最近在太空中成功进行了除冰过程，获得了[...]</title>
+      <link>https://t.me/hn_summary/81397</link>
+      <description><![CDATA[Euclid成功除冰，灵敏度提高15% 
+欧几里德太空望远镜最近在太空中成功进行了除冰过程，恢复了 15% 的光透射率。卫星和太空望远镜中的水污染是不可避免的，会影响灵敏度和图像质量。净化过程包括加热镜子和仪器以蒸发积聚的冰，从而显着增加光透射率。这项由欧几里得联盟、欧空局和行业合作伙伴精心策划的成功活动，可以在不影响望远镜巡天计划的情况下进行未来潜在的净化工作。欧几里得继续探索宇宙暗区的使命，并提高了灵敏度和清晰度。]]></description>
+      <guid>https://t.me/hn_summary/81397</guid>
+      <pubDate>Tue, 26 Mar 2024 17:45:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
