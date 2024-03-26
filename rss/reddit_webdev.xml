@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 06:25:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 12:34:16 GMT</lastBuildDate>
+    <item>
+      <title>完整的 webdev 初学者在这里，从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo62ig/complete_webdev_beginner_here_where_to_get_started/</link>
+      <description><![CDATA[我开发软件已经有大约 20 年了。 C、C++、Siemens 和 Allen-Bradley PLC：s、python、VB 和 VBA、SQL。 在工作中，我们正在考虑更新我们的一个软件包，并考虑向其添加 Web UI . 我们的要求如下：  应用程序将用 go 编写。 它将是一个独立的可执行文件（这就是我们首先考虑 go 的原因）。 它需要很小（我们经常更新互联网连接较差或通过 3G 调制解调器的网站） 它会通过单个 SQLite DB 文件进行配置。 （同样是为了简化文件传输）。 它将作为 Windows 服务或通过命令行运行。 它不能假定任何外部 Internet 连接可用。  li&gt; 它需要尽可能向后兼容（Internet Explorer 10 就很好，最好是旧版本） 它需要尽可能向前兼容。  Web UI 应该能够：  查看系统的动态状态。它将连接到许多其他系统（工业 PLC、SCADA 系统等）。我们希望能够看到动态更新的状态（连接状态、消息日志、聚合数据、错误）。 在管理模式下编辑配置。  我的网络编程经验如下：  观看 Douglas Crockford 的演讲从 2011 年开始  所以我的问题是：我从哪里开始？所有 Web 框架似乎都假设您正在运行 npm、打字稿转译器、从 Web 获取内容等。   由   提交 /u/headhunglow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo62ig/complete_webdev_beginner_here_where_to_get_started/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:57:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的飞溅艺术从哪里来？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo5tjh/where_do_you_get_your_splash_art_from/</link>
+      <description><![CDATA[我在 RN 项目中工作，我想知道在哪里可以找到首次屏幕、注销模态等的启动画面。因为我第一次单独开发，最好有免费资源   由   提交 /u/ThXnDiEaGaIn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo5tjh/where_do_you_get_your_splash_art_from/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 对于我的社交媒体网站来说是一个不错的选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo5kij/is_php_a_good_option_for_my_social_media_site/</link>
+      <description><![CDATA[我正在构建一个社交媒体网站。我们目前正在使用 React 和 TypeScript，但我想我们很快就会遇到问题，因为我的团队充满了学习者。  我正在考虑通过在 php 中重新设计网站来构建网站的基本版本，也许使用一些更好的框架，然后稍后再重新设计网站，您觉得怎么样？ &lt; !-- SC_ON --&gt;  由   提交/u/SpaciousCoder78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo5kij/is_php_a_good_option_for_my_social_media_site/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有超过 .com / .co.uk 的域名有什么好处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo5jup/is_there_any_benefit_to_having_more_then_com_couk/</link>
+      <description><![CDATA[您好， 所以目前我只注册了一个 .com，我在英国境外工作，但我将远程工作我将为国际客户工作。  我想知道使用 .co.uk、/ca、.io、.org 或 .net 等托管网站是否对 SEO/其他原因有任何好处。    由   提交 /u/Kitchen-Frosting3923    reddit.com/r/webdev/comments/1bo5jup/is_there_any_benefit_to_having_more_then_com_couk/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo5jup/is_there_any_benefit_to_having_more_then_com_couk/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找在所有设备上看起来完全相同的单色字体（如果存在）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo5hx7/looking_for_a_mono_font_that_looks_exactly_the/</link>
+      <description><![CDATA[标题，原因是我的英雄部分有一个很酷的 ASCII 艺术，它是使用 JavaScript 进行动画的。 但是，在 IOS 中，它在某些设备上看起来超级拉伸，而在其他设备上看起来很正常（谈论 IOS）。因此，在 IOS 上更改 css 并不是一个解决方案。 它在各种 Android 和 Windows 设备和浏览器上似乎都很好。 或者我应该切换到 svg 或其他东西?   由   提交/u/Saad5400  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo5hx7/looking_for_a_mono_font_that_looks_exactly_the/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Webflow 网站上的移动性能非常差</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo575i/very_poor_mobile_performance_on_my_webflow_site/</link>
+      <description><![CDATA[       由   提交/u/Dirty_Harryson  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo575i/very_poor_mobile_performance_on_my_webflow_site/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node.JS 系统信息库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo563e/system_information_library_for_nodejs/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo563e/system_information_library_for_nodejs/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查：3D 网页模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo4z7e/survey_3d_web_template/</link>
+      <description><![CDATA[你好Reddit，我想请求你无限的智慧。我目前正处于我的（Bsc）项目的启动阶段，我正在创建一个我称之为“3D-Web-Template”的框架。使用游戏引擎作为基础。该框架旨在简化3D网站的开发过程，希望鼓励更多用户探索这项技术。我的目标是找出用户在考虑开发 3D 网站时想要什么功能。 Three.js 是我的主要竞争对手。 例如，相机移动和控制。该功能允许您选择相机动画和地图控制键以在 3D 空间中自由移动。 这是我的问题： 在创建或设想 3D 网站时，什么是您希望在您正在使用的框架中看到的前 5 个特性或功能？ 感谢您的时间和投入！  &amp; #32；由   提交 /u/Sure-Standard1572    reddit.com/r/webdev/comments/1bo4z7e/survey_3d_web_template/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo4z7e/survey_3d_web_template/</guid>
+      <pubDate>Tue, 26 Mar 2024 10:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有 VS 代码扩展可以通过选择并按箭头按钮来增加数值？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo4ygq/is_there_a_vs_code_extension_to_increase_number/</link>
+      <description><![CDATA[特别是关于 CSS，如果我可以选择我想要的值并使用箭头键更改它，那就太好了。  TIA   由   提交 /u/ViSuo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo4ygq/is_there_a_vs_code_extension_to_increase_number/</guid>
+      <pubDate>Tue, 26 Mar 2024 10:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>永久使用 Windows 主机文件进行域重定向以预览站点版本的缺点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo4pa2/downsides_of_using_windows_hosts_file_permanently/</link>
+      <description><![CDATA[我在 Windows 主机文件中添加了一个条目，例如“IP_address yourdomain.com www.yourdomain.com&quot;将我的域重定向到本地新的 IP 地址。这似乎是在开发期间或传播 DNS 更改之前查看网站正确版本的简单方法。但几周后，在 DNS 传播后，我删除了该条目，但我仍然看不到我网站的正确版本。 我在该线程中解释了该问题：https://www.reddit.com/r/webhosting/comments/1bnn3pt/changed_a_records_to_new_host_and_edited_windows/ 由于我已经在这方面花费了数小时并且没有解决方案有效，所以我想知道是否可以将此条目永久地放回到我的主机文件中。这样做有什么缺点？ 此外，如果您有其他建议来解决我的第一个问题，我很想听听它们。 谢谢提前征求您的见解和建议！   由   提交/u/thedurudi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo4pa2/downsides_of_using_windows_hosts_file_permanently/</guid>
+      <pubDate>Tue, 26 Mar 2024 10:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想知道如何仅使用 CSS 甚至 CSS 和 JavaScript 来创建这种效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo45py/im_wondering_how_this_effect_could_be_created/</link>
+      <description><![CDATA[这是包含该效果的网站 当您滚动时，图像会在背景中移动，这就是这种效果 我最初的想法是（作为前端开发人员，我仍然不先进）我们可以抛出使用 z-index 属性以及 position:fixed 将它们放在所有内容后面，然后在它们上面使用透明的 div 元素，但如果我们这样做这样图像就不会跟随 div 元素，效果也不会按照我们想要的方式工作。 您对我们如何实现这种效果有什么建议吗？ &lt; /div&gt;  由   提交 /u/PROMCz11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo45py/im_wondering_how_this_effect_could_be_created/</guid>
+      <pubDate>Tue, 26 Mar 2024 10:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为开发人员如何节省时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo3xgf/how_can_i_save_time_as_a_developer/</link>
+      <description><![CDATA[作为一名开发人员，我开始设计自己的产品作为一个业余项目，我的目标是在闲暇时专注于我的产品来完成该项目白天工作。正如你可以想象的，我没有很多时间，这就是为什么我的进展比我预期的要慢。目前我在经济上也不可能聘请另一位开发商来完成该项目。因此，您对加快项目速度有什么建议吗？   由   提交 /u/HumbleFreedom6295   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo3xgf/how_can_i_save_time_as_a_developer/</guid>
+      <pubDate>Tue, 26 Mar 2024 09:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用内浏览器：您从未听说过的对用户选择最严重的侵蚀 - 开放网络倡导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo341x/inapp_browsers_the_worst_erosion_of_user_choice/</link>
+      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo341x/inapp_browsers_the_worst_erosion_of_user_choice/</guid>
+      <pubDate>Tue, 26 Mar 2024 08:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome devtool 对比度很差</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bo2pa1/chrome_devtool_contrast_is_just_bad/</link>
+      <description><![CDATA[       也许我老了，但我几乎看不出选中和未选中按钮之间的区别... 未选择 已选择   由   提交 /u/lepiou   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bo2pa1/chrome_devtool_contrast_is_just_bad/</guid>
+      <pubDate>Tue, 26 Mar 2024 08:24:03 GMT</pubDate>
+    </item>
     <item>
       <title>有没有类似 https://javascript.info/ 但针对 css 和 html 的网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bo0vph/is_there_a_site_like_httpsjavascriptinfo_but_for/</link>
       <description><![CDATA[这个 javascript 站点非常适合向您展示您应该了解的所有主要主题，以了解现代 javascript 和良好实践。是否有类似的 css 和 html 网站？ 值得注意的主题显然是响应能力、语义 html、动画等内容    ;由   提交 /u/elaboratemushy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bo0vph/is_there_a_site_like_httpsjavascriptinfo_but_for/</guid>
       <pubDate>Tue, 26 Mar 2024 06:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计一个较短的 URL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo0auq/designing_a_url_shorterner/</link>
-      <description><![CDATA[1) 应使用哪种基数转换？我见过提到的基数 62，还有其他基数，例如基数 10、基数 58 等。Unicode 和 ASCII（我相信它们代表英语和其他语言）和基数转换之间有什么关系？位（例如 64 位）与上述主题之间有何关系？  2) “唯一 ID 生成器的设计：在列出设计要求后，我们讨论生成唯一 ID 的三种方法：使用 UUID、使用数据库和使用范围处理程序...我们在设计中使用基于范围的排序器，这确保了服务器和短 URL 之间的基本级别映射。我们可以将请求重定向到相应的数据库以进行快速搜索。”我用谷歌搜索了范围处理程序，但没有任何结果。使用范围处理程序与设计定序器有何关系？  TIA。   由   提交/u/CautiousAd6486   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo0auq/designing_a_url_shorterner/</guid>
-      <pubDate>Tue, 26 Mar 2024 05:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>mozilla/readability：提取 HTML 文档的可读部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnzoch/mozillareadability_extract_readable_portions_of/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnzoch/mozillareadability_extract_readable_portions_of/</guid>
-      <pubDate>Tue, 26 Mar 2024 05:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 TypeScript 之外，还值得学习一些 Typed JavaScript 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnzjxt/is_it_worth_learning_some_typed_javascript_in/</link>
-      <description><![CDATA[作为标题。我刚刚在一些博客文章中读到了一些 PureScript 和 ReScript 的提及（我不喜欢这种教程）。您认为编写一种与 javascript 完全不同的语法来拥有强类型（或者可能有其他好处，但我还没有学过这些语言）怎么样？  &amp;# 32；由   提交/u/rainning0513  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnzjxt/is_it_worth_learning_some_typed_javascript_in/</guid>
-      <pubDate>Tue, 26 Mar 2024 04:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求建议：考虑在主 PC 上使用自托管后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnzirc/seeking_advice_considering_selfhosting_backend_on/</link>
-      <description><![CDATA[我想自行托管我的一个 webshit 项目的后端，但我不能在 VLAN 上为其提供一台单独的机器，因为我只目前有一台电脑。那么，将其托管在我的主电脑上有多大风险？我可以采取哪些措施来降低风险？   由   提交 /u/CtrlAltPizza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnzirc/seeking_advice_considering_selfhosting_backend_on/</guid>
-      <pubDate>Tue, 26 Mar 2024 04:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>从长期 Web 开发合作伙伴转变</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bny3ag/transitioning_from_a_longterm_web_development/</link>
-      <description><![CDATA[我们面临着充满挑战的局面，可以从你们的集体智慧中受益匪浅。我们的组织与一家网络开发公司合作已有十多年了。在此期间，我们的经历好坏参半，其特点是后续行动不一致、人员流动频繁以及对网站进行必要的更新或升级出现延误。 目前，我们正在开发一个新网站，该项目由于各种延误而延长了一年多。开发工作已完成约90%。我们最初的计划是维持与当前开发人员的关系，以确保从旧站点顺利过渡到新站点，包括数据迁移。此外，我们与他们的安排包括从旧网站的销售中分享利润。 但是，我们遇到了重大障碍。在新站点商定的竣工日期，我们被告知要额外延迟 30 天，这一更改直到最后一刻才传达。这种情况让我们感到陷入困境，并考虑在没有他们参与的情况下继续前进的选择。我觉得这是最后一根稻草。  以下是我们需要您指导的地方： 1. 获得旧网站的控制权：他们目前托管我们的旧网站。我们可以采取哪些步骤来独立控制我们的旧网站及其数据？ 2. 过渡未完成的工作：新网站已完成 80%，是否可以在不损失重大进展的情况下将迄今为止完成的工作转移给新开发人员？ 我们的首要目标是重新获得对我们网站的控制权。网络存在并确保在单独的 URL 上完成我们的新网站，同时远离我们当前的开发人员。我们正在寻求有关如何顺利、有效地完成这一过渡的建议。 如果您向具有此类过渡经验的开发者提供任何建议、指导或推荐，我们将不胜感激。 谢谢！   由   提交/u/AngrySumBitch  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bny3ag/transitioning_from_a_longterm_web_development/</guid>
-      <pubDate>Tue, 26 Mar 2024 03:35:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以下载旧版本的 Safari？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnxmgu/where_can_i_download_old_versions_of_safari/</link>
-      <description><![CDATA[我发现的大多数资源只提供 swcdn.apple.com 链接，例如Safari 16.5。 但是，Apple 自此对它们进行了限制，许多链接现在返回 403 Forbidden。 使用 SUS Inspector，Apple 仍可使用以下版本的 Safari：https://imgur.com/a/xBswx7T 是否有任何地方可以自行托管旧版 Safari 版本供我下载？   由   提交 /u/267aa37673a9fa659490   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnxmgu/where_can_i_download_old_versions_of_safari/</guid>
-      <pubDate>Tue, 26 Mar 2024 03:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>责任合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnxggj/accountability_partner/</link>
-      <description><![CDATA[我喜欢学习软件开发，但是很容易偷懒。我希望有人回顾一下我们所做的事情、我们学到的东西以及我们目前所坚持的事情。理想情况下，周一至周五只需 5 至 10 分钟即可办理登机手续。    由   提交/u/Wild-Silver-4244  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnxggj/accountability_partner/</guid>
-      <pubDate>Tue, 26 Mar 2024 03:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为网络开发人员，您能否对您为客户构建的网站类型负责？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnw03b/as_a_web_developer_can_you_be_held_liable_for_the/</link>
-      <description><![CDATA[让我们假设一个场景，您为客户开发一个接受某种类型的评论或用户评级系统的网站。如果有人觉得自己在这个平台上受到诽谤，并决定起诉网站运营商，那么作为开发者，如果您只是开发了该网站并且没有参与其审核或运营，那么您作为开发者是否需要承担任何责任？  我们的网络开发人员是否考虑过像网络主机这样的“服务提供商”？他们是否为客户最终决定使用其网站的目的提供了相同的保护？    由   提交 /u/AcademicF   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnw03b/as_a_web_developer_can_you_be_held_liable_for_the/</guid>
-      <pubDate>Tue, 26 Mar 2024 01:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否参加高级职位的编码测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnvz7c/do_you_take_coding_tests_for_senior_positions/</link>
-      <description><![CDATA[一家公司向我寻求首席前端职位，我们说进展顺利，但他们希望我参加编码测试。我觉得这很奇怪，因为你不通过编码测试来测试首席工程师的技能。  我的想法错了吗？这是正常的吗？你会做什么？   由   提交 /u/hiccupq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnvz7c/do_you_take_coding_tests_for_senior_positions/</guid>
-      <pubDate>Tue, 26 Mar 2024 01:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的 .com 名称中使用 LLC 更好...还是使用 .us 更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnu94k/is_it_better_to_have_llc_in_my_com_name_or_to_use/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/mbswpedjqkqc1.png?width=468&amp;a​​mp;format=png&amp; ;auto=webp&amp;s=fd2580a84de5a409bf001bd978bc523e08ea029b   由   提交 /u/Choice-Safety-9499   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnu94k/is_it_better_to_have_llc_in_my_com_name_or_to_use/</guid>
-      <pubDate>Tue, 26 Mar 2024 00:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该为此应用程序使用什么后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnstde/what_backend_should_i_use_for_this_application/</link>
-      <description><![CDATA[各位 Web 开发人员，大家好，我计划为家庭成员的餐厅开发一个 PWA，您可以在那里订餐并付款。我将使用 Vue.js 作为前端，想问一下你们会为这种应用程序推荐什么样的设置/堆栈/后端？之所以问这个问题，是因为我是前端人员，对后端并没有真正的经验。    由   提交/u/DucAnh95  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnstde/what_backend_should_i_use_for_this_application/</guid>
-      <pubDate>Mon, 25 Mar 2024 23:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于编辑支付表单字体 WordPress woocommerce 的 CSS 或 html？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnsnl3/css_or_html_for_editing_payment_form_font/</link>
-      <description><![CDATA[      大家好 - 有人可以提供一个解决方案来更改 Stripe 付款的字体和大小吗WooCommerce/WordPress 上的网关？ 所需的字体系列是“palmerlakeprint-regular” 提供到需要应用的页面的链接 TYIA https://www.gonzovino.com/checkout/ https://preview.redd.it/l368lzzyekqc1.png?width=933&amp;格式=png&amp;auto=webp&amp;s=8c84b1c672bc6abd9b301172c3a225557a37d985   由   提交/u/gonzo_vino   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnsnl3/css_or_html_for_editing_payment_form_font/</guid>
-      <pubDate>Mon, 25 Mar 2024 23:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助入门...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnsdj7/help_on_getting_started/</link>
-      <description><![CDATA[我是一名拥有 10 年以上经验的后端和数据库工程师。由于复杂的原因，我最终承担了为某些东西制作前端的任务。我真的不知道要谷歌什么，所以我在这里问不是寻找解决方案，而是主要是开始弄清楚事物是如何被调用的。  我编了一个例子来解释我的用例。假设我正在制作一个食谱网站。在后端，这很容易。食谱有步骤，每个步骤都有成分。在每个端点和表上，以及成分和步骤之间的中间表，因为它是多对多的。用户可以制作自己的菜谱、搜索其他菜谱或仅查看现有菜谱。 但是，实际上，在前端，我希望用户能够提供菜谱名称以及步骤它们各自的成分。创建配方是一次 API 调用，每个步骤都是另一次调用。  所以，这就是我的问题所在。从前端方面来看，这些进行多次调用的表单有名称吗？或者多次调用是一种反模式吗？在令人眼花缭乱的框架中，是否有任何候选框架可以使这变得更容易？该 API 已经存在。另外，vanilla JS 仍然可以扩展吗？   由   提交 /u/ksco92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnsdj7/help_on_getting_started/</guid>
-      <pubDate>Mon, 25 Mar 2024 23:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议 - 快速获得此类编辑器 MVP 的方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnrzz5/advice_wanted_quick_way_to_mvp_this_type_of_editor/</link>
-      <description><![CDATA[      我是一名独立开发者，想要构建一个产品的 MVP，基于根据我收集的要求，我认为这种类型的编辑器是理想的；它具有可以定位和连接以创建“流”的节点和边缘。这些节点具有与其关联的用户可编辑内容。  我发现这些不同产品的屏幕截图看起来与我想要构建的产品非常相似。我希望有开源包甚至付费产品的建议，我可以用它们来快速组合这种编辑器。 顺便说一句，我目前正在使用 NextJS，但愿意接受人们提出的任何建议有。 TIA https://preview.redd.it/m0pdsc1i9kqc1.png?width=1207&amp;format=png&amp;auto=webp&amp;s=6fa52de27f37c48b27797f0877e8f1f8bf04ff3 2 https://preview.redd.it/uzbbhg1i9kqc1.png?width=1189&amp;format=png ＆amp; ;auto=webp&amp;s=27230365000cb44b47e309466f773e14f3e47c42   由   提交/u/goughjo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnrzz5/advice_wanted_quick_way_to_mvp_this_type_of_editor/</guid>
-      <pubDate>Mon, 25 Mar 2024 23:01:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
