@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 18:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:15:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在 yzena.com 上的这篇文章中，作者反思了计算理论的重要性 [...]</title>
-      <link>https://t.me/hn_summary/81406</link>
-      <description><![CDATA[计算机不能做什么：图灵完备性的后果
-在 yzena.com 上的这篇文章中，作者反思了计算机科学教育中的计算理论和图灵完备性的概念。作者讨论了计算机可以做什么的软限制、即使是无限的时间和空间也无法克服的硬限制，以及停机问题的含义。这篇文章深入探讨了通用图灵机的重要性以及它们如何支撑解释器和编译器的概念。作者强调了图灵完备性的普遍性和有害性，强调了证明程序正确性的挑战。这篇文章最后探讨了图灵完备的含义以及实现图灵完备的要求。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81406</guid>
-      <pubDate>Tue, 26 Mar 2024 18:14:32 GMT</pubDate>
+      <title>谁杀死了网络交换机？</title>
+      <link>https://t.me/hn_summary/81434</link>
+      <description><![CDATA[谁杀死了网络交换机？一个傲慢的错误故事
+在 cliffle.com 上这篇有趣的文章中，作者深入研究了Hubris 操作系统中发现的错误，揭示了开发过程。该错误最初是正确的代码，但由于更改而变成了错误，影响了网络交换机的电源排序，使其变得无用。作者探讨了该错误如何源于优化 RAM 使用的功能，从而导致内存访问违规。作者通过对Hubris设计细节和IPC的详细解释，揭开了bug背后的谜团，展示了嵌入式系统调试的复杂性。这篇文章提供了对操作系统开发世界的独特见解。 （根据 41% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81434</guid>
+      <pubDate>Tue, 26 Mar 2024 21:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Blender 4.1 版本为 sca [...] 时的图像/电影过滤带来了令人兴奋的改进</title>
-      <link>https://t.me/hn_summary/81405</link>
-      <description><![CDATA[Blender 4.1 版本
-Blender 4.1 版本为缩放和旋转片段时的图像/电影过滤带来了令人兴奋的改进。 Strips 现在可以根据缩放因子智能地选择最合适的过滤器，例如用于无缩放/旋转的“Nearest”（最近的）、用于放大 2 倍以上的“Cubic Mitchel”（立方米切尔）、用于缩小 2 倍以上的“Box”（框）以及作为后备的“Bilinear”（双线性）。此更新增强了用户体验并简化了编辑过程，使您可以更轻松地获得高质量的结果。 Blender 不断创新并突破 3D 动画和设计领域的界限。]]></description>
-      <guid>https://t.me/hn_summary/81405</guid>
-      <pubDate>Tue, 26 Mar 2024 18:08:57 GMT</pubDate>
+      <title>Spinner-mouse：基于 Arduino 的 USB 旋转控制器，适用于 Arkanoid、Tempest 等。</title>
+      <link>https://t.me/hn_summary/81433</link>
+      <description><![CDATA[Spinner-mouse：基于 Arduino 的 USB 旋转控制器，适用于 Arkanoid、Tempest等等
+GitHub 上的 Spinner 鼠标游戏控制器项目为 Arkanoid 和 Tempest 等游戏提供基于 Arduino 的 USB 旋转控制器，旨在提供更真实的街机游戏体验。该项目旨在通过提供旋转控制器选项来解决使用操纵杆在模拟器上玩这些游戏的问题。该控制器具有平滑的增量旋转编码器、街机风格的微动开关按钮以及连接踏板以实现附加功能的选项。作者强调了定制选项，例如调整鼠标移动速度和按钮映射，以及通过串行端口命令切换控制器模式的能力。]]></description>
+      <guid>https://t.me/hn_summary/81433</guid>
+      <pubDate>Tue, 26 Mar 2024 21:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Faune.ai，这是一个注重隐私的人工智能聊天平台，允许用户参与 [...]</title>
-      <link>https://t.me/hn_summary/81404</link>
-      <description><![CDATA[显示 HN：动态多 LLM AI 聊天&lt; br/&gt;
-隆重推出 Faune.ai，这是一个注重隐私的 AI 聊天平台，允许用户无需用户帐户即可参与动态的多法学硕士对话。这确保了所有交互的完全匿名性和安全性。告别隐私问题，迎接与 Faune.ai.]]></description>
-      <guid>https://t.me/hn_summary/81404</guid>
-      <pubDate>Tue, 26 Mar 2024 17:55:50 GMT</pubDate>
+      <title>[媒体] OneText 是一家由 YC 支持的湾区初创公司，正在寻找首席设计和用户体验工程师 [...]</title>
+      <link>https://t.me/hn_summary/81432</link>
+      <description><![CDATA[OneText (YC W23) 正在招聘首席设计/用户体验工程师&lt; /a&gt;
+OneText 是一家由 YC 支持的湾区初创公司，正在寻找一位首席设计和用户体验工程师来掌控其平台的用户体验。他们正在寻找能够重新定义商家仪表板和结账流程等关键体验的人，同时也是一位精通设计工具、React 和 CSS 的优秀全能工程师。这个角色的独特之处在于强调个人愿景和所有权，而不是由委员会设计。该公司重视打造新颖独特的产品，挑战抄袭竞争对手的诱惑。首席设计和用户体验工程师还将负责提升整个工程团队的用户体验技能。]]></description>
+      <guid>https://t.me/hn_summary/81432</guid>
+      <pubDate>Tue, 26 Mar 2024 21:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇关于多动症生产力基础的文章中，作者强调了简单 [...]</title>
-      <link>https://t.me/hn_summary/81403</link>
-      <description><![CDATA[多动症生产力基础知识
-在这篇关于多动症生产力基础知识的文章中，作者强调了生产力工具简单性和个性化的重要性。他们强调写下所有内容、有效使用列表以及安排任务以有效管理时间的重要性。作者还提供了他们自己的选择生产力工具的指南，强调了简单性和易用性的必要性。这篇文章鼓励读者简化工作流程、消除混乱并减少选择以提高生产力。总体而言，作者的目标是激励读者通过微小而有意义的改进找到自己的生产力之路。]]></description>
-      <guid>https://t.me/hn_summary/81403</guid>
-      <pubDate>Tue, 26 Mar 2024 17:54:17 GMT</pubDate>
+      <title>[媒体]观看这个 MarineTraffic 播放视频，显示一艘货船与 Ke [...]</title>
+      <link>https://t.me/hn_summary/81431</link>
+      <description><![CDATA[海上交通回放显示货船与基桥相撞&lt; br /&gt;
+观看这个 MarineTraffic 播放视频，显示一艘货船与基桥相撞。这段视频捕捉到了撞击的瞬间和碰撞的后果。随着当局调查事故原因，该事件引发争议。这段罕见的镜头提供了关于在繁忙水道中驾驶大型船只的危险的独特视角。请继续关注这个发展故事的更新。 #MarineTraffic #KeyBridgeCollision]]></description>
+      <guid>https://t.me/hn_summary/81431</guid>
+      <pubDate>Tue, 26 Mar 2024 20:58:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 哈里王子发现自己卷入了针对迪迪的性交易诉讼，迪迪 [...]</title>
-      <link>https://t.me/hn_summary/81402</link>
-      <description><![CDATA[哈里王子卷入针对迪迪提起的性交易诉讼 
-哈里王子发现自己卷入了一场针对迪迪的性贩运诉讼，迪迪被指控性侵犯和贩运。虽然哈利没有直接参与任何不当行为，但他已被任命为说唱歌手的党友。诉讼称，迪迪的派对吸引了包括哈里王子在内的名人，而起诉迪迪的制片人受到说唱歌手的骚扰和威胁。联邦执法部门甚至调查了吹牛老爹的两处与指控有关的财产。哈利与迪迪的联系可能并不令人惊讶，因为这位叛逆的皇室成员过去曾与名人交往过。]]></description>
-      <guid>https://t.me/hn_summary/81402</guid>
-      <pubDate>Tue, 26 Mar 2024 17:53:13 GMT</pubDate>
+      <title>[媒体]自埃隆·马斯克 (Elon Musk) 接手并重新命名以来，美国 Twitter 的使用率骤降了 20% 以上 [...]</title>
+      <link>https://t.me/hn_summary/81430</link>
+      <description><![CDATA[自埃隆·马斯克接管以来，美国的 Twitter 使用率“下降了五分之一” 
+Sensor Tower 的数据显示，自从埃隆·马斯克 (Elon Musk) 接管并将该平台重新命名为 X 以来，Twitter 在美国的使用率已下降了 20% 以上。这种大幅下滑在主要社交网络中是史无前例的，其中 TikTok 的跌幅最接近，接近 10%。尽管 X 声称每天有 2.5 亿用户，但富达已大幅贬值该公司，自马斯克收购以来该公司股价下跌了 71.5%。马斯克对反数字仇恨中心提起的诉讼最近被加州法官驳回，该诉讼强调了该平台上的极端主义内容。围绕X的衰落和马斯克的法律纠纷的争议仍在继续展开。]]></description>
+      <guid>https://t.me/hn_summary/81430</guid>
+      <pubDate>Tue, 26 Mar 2024 20:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] NixOS-generators 项目是 VM 和容器磁盘映像构建器的集合，用于 [...]</title>
-      <link>https://t.me/hn_summary/81401</link>
-      <description><![CDATA[NixOS-generators – NixOS 的虚拟机和容器磁盘映像构建器的集合
-NixOS-generators 项目是 NixOS 的 VM 和容器磁盘映像构建器的集合，允许用户使用相同的 NixOS 配置生成不同目标格式的输出。只需将配置放入configuration.nix并调用映像生成器之一，您就可以为各种平台（例如Amazon EC2、Microsoft Azure、Docker、Google Compute等）创建映像。该项目的突出之处在于提供广泛的支持格式以及自定义图像大小、针对不同架构进行交叉编译以及集成为 NixOS 模块或 Flake 输入以方便图像构建的能力。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81401</guid>
-      <pubDate>Tue, 26 Mar 2024 17:52:06 GMT</pubDate>
+      <title>摘要：www.timokats.xyz 上的文章讨论了商业界领导的人工智能话语的兴起 [...]</title>
+      <link>https://t.me/hn_summary/81429</link>
+      <description><![CDATA[人工智能话语是无才华的商科学生试图给年轻工程师带来创伤后应激障碍
+摘要：关于 www.timokats.xyz 的文章讨论了由缺乏技术经验的商科学生主导的人工智能话语的兴起。这些人经常声称编码已死，人工智能将取代许多工作，这引起了年轻工程师的焦虑。作者认为，虽然人工智能可以自动化某些任务，但创意和艺术角色不太可能被取代。文章鼓励读者关注当下，不要过度担心未来，强调享受当下、做好本职工作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/81429</guid>
+      <pubDate>Tue, 26 Mar 2024 20:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]备受期待的 Rabbit R1，一款使用 AI 的现实生活中类似 Pokédex 的袖珍设备，[...]</title>
-      <link>https://t.me/hn_summary/81400</link>
-      <description><![CDATA[最受期待的人工智能小工具之一现已确定发布日期
-备受期待的 Rabbit R1 是一款类似 Pokédex 的袖珍设备，使用人工智能、摄像头和麦克风，在 CES 2024 上引起轰动后，终于确定了发布日期。R1 的售价为 199 美元，无需订阅，是首款突破性产品。掀起了新一轮人工智能产品浪潮。目前已售出 100,000 份预订，人们的兴趣非常浓厚。相比之下，Humane Ai Pin 的价格为 700 美元，订阅费为 24 美元/月，这使得它的销售难度更大。这些人工智能小工具即将发布，标志着独立设备的回归，利用人工智能来了解周围的世界，挑战智能手机的主导地位。]]></description>
-      <guid>https://t.me/hn_summary/81400</guid>
-      <pubDate>Tue, 26 Mar 2024 17:51:01 GMT</pubDate>
+      <title>[媒体] vrosasv.substack.com 上分享的有争议的观点认为，工程管理 [...]</title>
+      <link>https://t.me/hn_summary/81428</link>
+      <description><![CDATA[工程经理不应该存在
+vrosasv.substack.com 上分享的有争议的观点认为工程经理不应该存在，因为他们经常扮演各种角色，而且在任何一个角色上都没有效率。作者本身就是一名工程经理，他认为产品经理才是团队真正的领导者，而工程师才是真正完成工作的人。作者还强调了团队内部的权力动态，其中经理的影响力甚至比最高级别的工程师还要大。作者认为，最好的团队是那些没有经理密切关注、让他们能够集中注意力并提高工作效率的团队。作者还对“项目负责人+职业教练”的咨询模式表示赞赏，认为这是一种更有效的职责分工。]]></description>
+      <guid>https://t.me/hn_summary/81428</guid>
+      <pubDate>Tue, 26 Mar 2024 20:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州一些快餐连锁店在新的 20 美元最低工资标准之前正在裁员 [...]</title>
-      <link>https://t.me/hn_summary/81399</link>
-      <description><![CDATA[加州食品连锁店在新的最低工资法出台之前裁员
-新的 20 美元最低工资法将于 4 月生效，加州一些快餐连锁店正在裁员。必胜客和其他连锁店已宣布裁员送货司机，一些特许经营店完全停止送货服务。此举是为了应对运营成本上升，一些连锁店将送货服务转移给第三方提供商。批评者认为，工资法将导致失业和客户价格上涨，而支持者则强调该行业需要公平工资。当 Panera Bread 最初获得法律豁免的消息被披露后，引发了争议，并引发了政治偏袒的指控。]]></description>
-      <guid>https://t.me/hn_summary/81399</guid>
-      <pubDate>Tue, 26 Mar 2024 17:49:56 GMT</pubDate>
+      <title>贝叶斯畏缩是一个术语，用于描述贝叶斯统计学家对你的犹豫 [...]</title>
+      <link>https://t.me/hn_summary/81427</link>
+      <description><![CDATA[贝叶斯危机 (2021)
+贝叶斯畏缩是一个术语，用于描述贝叶斯统计学家在模型中使用先验信息的犹豫。这种态度源于这样一种信念，即非贝叶斯方法是默认方法，并且只有在有充分理由的情况下才应使用贝叶斯方法。然而，人们正在转向接受信息丰富的先验作为诱导稳定性和改进模型预测的一种方式。正则化术语的使用有助于摆脱贝叶斯的畏缩，强调部分池化到先验以获得更好结果的重要性。尽管有些人仍然持有反贝叶斯观点，但趋势是利用所有可用信息进行更准确的建模。]]></description>
+      <guid>https://t.me/hn_summary/81427</guid>
+      <pubDate>Tue, 26 Mar 2024 20:24:54 GMT</pubDate>
     </item>
     <item>
-      <title>标题：构建 WOPR：7x4090 AI 服务器</title>
-      <link>https://t.me/hn_summary/81398</link>
-      <description><![CDATA[构建 WOPR：7x4090 AI 服务器
-标题：构建 WOPR：7x4090 AI 服务器
-
-2023 年 12 月，作者开始构建一个强大的 AI 训练服务器，并选择了 DIY 的方式进行业余爱好项目。我们的目标是通过 Nvidia 4090 最大限度地提高 GPU 性能，我们选择 Nvidia 4090 是因为它们的功能和效率。选择 ASROCK Rack ROMED8-2T 主板是因为它能够以完整的 PCIe 4.0x16 连接支持 7 个 GPU。以折扣价购买了工程样品 Epyc 7763 CPU，为训练任务提供了令人印象深刻的性能。该系统配备了 512GB RDIMM RAM，可支持苛刻的 AI 工作负载。虽然该设置并非没有 PCIe 错误，但事实证明它对于训练任务是有效的，展示了作者构建高性能 AI 服务器的创新且经济高效的方法。]]></description>
-      <guid>https://t.me/hn_summary/81398</guid>
-      <pubDate>Tue, 26 Mar 2024 17:48:51 GMT</pubDate>
+      <title>[媒体]利率大幅下降将是令人讨厌、残酷和漫长的，是对[...]的全面分析</title>
+      <link>https://t.me/hn_summary/81426</link>
+      <description><![CDATA[利率大幅下降将是令人讨厌、残酷和漫长的
+《利率大幅下降将是令人讨厌、残酷和漫长的》是对各国央行应对新冠疫情后通胀浪潮时全球经济格局的全面分析。事实证明，通胀峰值的回落是一段危险的旅程，各国央行面临着在不造成经济衰退或重新引发物价上涨的情况下撤退的棘手任务。不同国家货币反应的差异增加了所涉及的复杂性和风险。与发达市场相比，新兴市场表现出更好的经济管理，一些市场已经降息。未来的下降充满挑战，需要各国央行采取谨慎和协调的行动。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81426</guid>
+      <pubDate>Tue, 26 Mar 2024 20:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>欧几里得太空望远镜最近在太空中成功进行了除冰过程，获得了[...]</title>
-      <link>https://t.me/hn_summary/81397</link>
-      <description><![CDATA[Euclid成功除冰，灵敏度提高15% 
-欧几里德太空望远镜最近在太空中成功进行了除冰过程，恢复了 15% 的光透射率。卫星和太空望远镜中的水污染是不可避免的，会影响灵敏度和图像质量。净化过程包括加热镜子和仪器以蒸发积聚的冰，从而显着增加光透射率。这项由欧几里得联盟、欧空局和行业合作伙伴精心策划的成功活动，可以在不影响望远镜巡天计划的情况下进行未来潜在的净化工作。欧几里得继续探索宇宙暗区的使命，并提高了灵敏度和清晰度。]]></description>
-      <guid>https://t.me/hn_summary/81397</guid>
-      <pubDate>Tue, 26 Mar 2024 17:45:45 GMT</pubDate>
+      <title>[媒体]我们对Fediverse治理和管理的研究已经正式开始，我们[...]</title>
+      <link>https://t.me/hn_summary/81425</link>
+      <description><![CDATA[开始我们的 Fediverse 研究 – Fediversalist 文件&lt; br /&gt;
+我们对 Fediverse 治理和管理的研究已经正式开始，并且我们创建了一个联合博客来分享更新。我们的主要问题是关于大中型 Fediverse 服务器的有效治理模型以及确定基础设施差距。我们将与世界各地的服务器管理/模组团队进行深入对话以收集见解。此外，我们将与各个团体进行更轻松的讨论和调查。我们的研究结果将通过手册、建议和最终报告来分享。订阅我们的时事通讯或在 Mastodon 上关注我们，随时了解最新动态。我们的目标是为所有用户创造一个更安全、更好的Fediverse。]]></description>
+      <guid>https://t.me/hn_summary/81425</guid>
+      <pubDate>Tue, 26 Mar 2024 20:08:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
