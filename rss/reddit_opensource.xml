@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Mar 2024 03:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 06:24:59 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助：找不到我要找的东西</title>
+      <link>https://www.reddit.com/r/opensource/comments/1boulni/help_needed_cant_find_what_im_looking_for/</link>
+      <description><![CDATA[大家好，我的一个朋友是自由职业者。我向他推荐了 Synology NAS 和一些自由软件，例如无纸化 NGX 和发票忍者。  他经常需要撰写商业信函，几乎具有相同的内容或相同的构建块，仅更改某些参数，例如收件人、日期或主题。是否有自托管软件可以处理撰写信件、输出 PDF，甚至通过电子邮件发送它们。 不幸的是，我只找到了旨在发布 HTML 网站的网站构建器/博客构建器。  发票忍者在撰写报价、发票等方面做得很好，如果预设模板不适合您，您可以使用 CSS 元素对其进行样式设置。我正在寻找类似的东西 我想我可以编写一个脚本将 IN5 客户数据库同步到这样的服务，这样他只需注册一次。  非常感谢任何帮助！    由   提交 /u/bhthllj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1boulni/help_needed_cant_find_what_im_looking_for/</guid>
+      <pubDate>Wed, 27 Mar 2024 05:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Corefin - 开源贷款管理系统（LoanPro/Canopy Servicing 替代方案）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bott0m/corefin_an_opensource_loan_management_system/</link>
+      <description><![CDATA[       由   提交 /u/reccehour   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bott0m/corefin_an_opensource_loan_management_system/</guid>
+      <pubDate>Wed, 27 Mar 2024 05:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Summer of Code 申请问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</link>
+      <description><![CDATA[有谁知道如果同一个组织有不同的项目可用，您是否可以提交多个提案？ 谢谢   由   提交 /u/krashbic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</guid>
+      <pubDate>Wed, 27 Mar 2024 04:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以将我的 HVAC 机械公司的所有流程开源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</link>
+      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</guid>
+      <pubDate>Wed, 27 Mar 2024 03:44:04 GMT</pubDate>
+    </item>
     <item>
       <title>我如何分析 OSS 社区</title>
       <link>https://www.reddit.com/r/opensource/comments/1bortre/how_i_analyze_an_oss_community/</link>
@@ -29,14 +57,14 @@
     <item>
       <title>麻省理工学院执照问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</link>
-      <description><![CDATA[假设我基于一些具有 MIT 许可证的代码创建了一个新作品。新代码经过大量修改。 我认为正确的方法是（Doxygen/DocBlock 注释）  \@license MIT \@copyright 2020-2023原始开发者  \@license 专有许可证 \@copyright 2024 me    由   提交/u/burner-999b   /u/burner-999b  reddit.com/r/opensource/comments/1bojxln/mit_licence_question/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[假设我基于一些具有 MIT 许可证的代码创建了一个新作品。新代码经过大量修改。 我认为正确的方法是（Doxygen/DocBlock 注释）  @license 专有许可证 @copyright 2024 me @license MIT @copyright 2020-2023 原始开发者    由   提交/u/burner-999b   /u/burner-999b  reddit.com/r/opensource/comments/1bojxln/mit_licence_question/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</guid>
       <pubDate>Tue, 26 Mar 2024 21:38:01 GMT</pubDate>
     </item>
     <item>
       <title>GitHub 替代方案 - Radile</title>
       <link>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</link>
-      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“人工智能安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
+      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“AI 安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</guid>
       <pubDate>Tue, 26 Mar 2024 19:52:17 GMT</pubDate>
     </item>
@@ -50,14 +78,14 @@
     <item>
       <title>Inkscape的开发版本切换到GTK4</title>
       <link>https://www.reddit.com/r/opensource/comments/1boe6p6/inkscapes_development_version_switches_to_gtk4/</link>
-      <description><![CDATA[Inkscape 的开发版本现已切换到 GTK4 (MR: https://gitlab.com/inkscape/inkscape/-/merge_requests/6039），底层 UI 框架的当前版本。这是 Inkscape 的一个巨大的架构改进，并将在未来实现适当的图形加速。 这种快速过渡（仅大约 9 个月）是通过捐赠实现的，因为 Inkscape 项目投资了约 100 美元。 80,000 美元。支持 Inkscape 的开发：https://inkscape.org/support-us/donate/ 还有很多问题有待发现和解决，特别是在 MacOS 和 Windows 上，因此下一个版本仍将使用 GTK3。对于那些想要试用新版本（该版本将为之后的所有版本提供支持）的用户，请加入 Inkscape 的聊天：https://chat.inkscape.org    由   提交/u/pulsar17  [链接] [评论]]]></description>
+      <description><![CDATA[Inkscape 的开发版本现已切换到 GTK4 (MR: https://gitlab.com/inkscape/inkscape/-/merge_requests/6039），底层 UI 框架的当前版本。这是 Inkscape 的一个巨大的架构改进，并将在未来实现适当的图形加速。 这种快速过渡（仅大约 9 个月）是通过捐赠实现的，因为 Inkscape 项目投资了大约 100 美元。 80,000 美元。支持 Inkscape 的开发：https://inkscape.org/support-us/donate/ 还有很多问题有待发现和解决，特别是在 MacOS 和 Windows 上，因此下一个版本仍将使用 GTK3。对于那些想要试用新版本（该版本将为之后的所有版本提供支持）的用户，请加入 Inkscape 的聊天：https://chat.inkscape.org    由   提交/u/pulsar17  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boe6p6/inkscapes_development_version_switches_to_gtk4/</guid>
       <pubDate>Tue, 26 Mar 2024 17:51:48 GMT</pubDate>
     </item>
     <item>
       <title>许可证帮助</title>
       <link>https://www.reddit.com/r/opensource/comments/1bodh1s/license_help/</link>
-      <description><![CDATA[我注意到我一直在使用的许可证 (LGPL 3.0) 对于我真正想要的功能来说可能有点过度限制做。我阅读了 Choosealicense.com 上的简短描述，当时听起来像是一个不错的匹配，但是查看想要合并开源项目的企业的网站时，它被列为对他们来说高风险。作为一个人，我并不希望能够追捕违反许可证的人。 我最终希望它做的是以下事情：  如果您使用我的库/应用程序+原始链接，则归属 不承担任何责任/保证 对库/应用程序本身的任何更改均应明确说明或具有相关来源以某种方式提供的更改，我可以将改进/修复合并到其中。 使用该库制作自己的库/应用程序的人可以根据他们想要的任何许可证自由发布他们的代码并将其货币化他们想要，尽管他们仍然需要在已发表的作品中的某个地方提供归属。基本上没有抄袭，在应得的信用处给予信用，因为它不需要任何成本。  考虑到这一点，我应该使用什么许可证？理想情况下，我更喜欢满足这些要求的最简单、最宽松的方式。 Apache 看起来似乎很适合，除非有什么我忽略的地方？   由   提交/u/Silicon42  [链接] [评论]]]></description>
+      <description><![CDATA[我注意到我一直在使用的许可证 (LGPL 3.0) 对于我真正想要的功能来说可能有点过度限制做。我阅读了 Choosealicense.com 上的简短描述，当时听起来像是一个不错的匹配，但是查看想要合并开源项目的企业的网站时，它被列为对他们来说高风险。作为一个普通人，我并不希望能够追捕违反许可证的人。 我最终希望它做的是以下事情：  如果您使用我的库/应用程序+原始链接，则归属 不承担任何责任/保证 对库/应用程序本身的任何更改均应明确说明或具有相关来源以某种方式提供的更改，我可以将改进/修复合并到其中。 使用该库制作自己的库/应用程序的人可以根据他们想要的任何许可证自由发布他们的代码并将其货币化他们想要，尽管他们仍然需要在已发表的作品中的某个地方提供归属。基本上没有抄袭，在应得的信用处给予信用，因为它不需要任何成本。  考虑到这一点，我应该使用什么许可证？理想情况下，我更喜欢满足这些要求的最简单、最宽松的方式。 Apache 看起来似乎很适合，除非有什么我忽略的地方？   由   提交/u/Silicon42  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bodh1s/license_help/</guid>
       <pubDate>Tue, 26 Mar 2024 17:23:12 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>在加拿大使用 Copyleft 许可证还重要吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bocfxw/does_using_a_copyleft_license_even_matter_in/</link>
-      <description><![CDATA[加拿大版权法有一项版权例外情况，称为“非商业用户生成的内容”。如下所示：   用户生成的非商业内容 29.21 (1) 个人使用现有作品或其他主题并不侵犯版权 -已出版或以其他方式向公众提供的内容或副本，在创作新作品或其他存在版权的主题时，为个人——或者经个人授权，为其成员家庭——使用新作品或其他主题或授权中介传播它，如果  (a) 使用或授权传播新作品或其他主题主题仅用于非商业目的； (b) 提及现有作品或其他主题或其副本的来源（如果来源中给出了作者、表演者、制作者或广播者的姓名），如果在当时情况下合理的话这样做; (c) 该个人有合理的理由相信现有作品或其他主题或其副本（视情况而定）没有侵犯版权； (d) 使用或授权传播新作品或其他主题不会对现有作品或其他主题的利用或潜在利用产生财务或其他方面的重大不利影响——或其副本，或在其现有或潜在市场上，包括新作品或其他主题不能替代现有作品或其他主题。  定义 (2) 以下定义适用于第 (1) 款。 指定期为公众欣赏作品或其他主题提供空间或手段的个人或实体。 （中间）“使用”指根据本法，版权所有者唯一有权做的任何事情，但授权权除外。 (utiliser)   那么，如果大多数人不必遵循 Copyleft 许可证，那么使用它还有什么意义吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/DarkDetectiveGames   [链接] [评论]]]></description>
+      <description><![CDATA[加拿大版权法有一项版权例外情况，称为“非商业用户生成的内容”。如下所示：   用户生成的非商业内容 29.21 (1) 个人使用现有作品或其他主题并不侵犯版权 -在创作新作品或其他具有版权的主题时，已出版或以其他方式向公众提供的内容或内容的副本，并且为个人（或经个人授权，为其成员）家庭——使用新作品或其他主题或授权中介传播它，如果  (a) 使用或授权传播新作品或其他主题主题仅用于非商业目的； (b) 提及现有作品或其他主题或其副本的来源（如果来源中给出了作者、表演者、制作者或广播者的姓名），如果在当时情况下合理的话这样做; (c) 该个人有合理的理由相信现有作品或其他主题或其副本（视情况而定）没有侵犯版权； (d) 使用或授权传播新作品或其他主题不会对现有作品或其他主题的利用或潜在利用产生财务或其他方面的重大不利影响——或其副本，或在其现有或潜在市场上，包括新作品或其他主题不能替代现有作品或其他主题。  定义 (2) 以下定义适用于第 (1) 款。 指定期为公众欣赏作品或其他主题提供空间或手段的个人或实体。 （中间）“使用”指根据本法，版权所有者唯一有权做的任何事情，但授权权除外。 (utiliser)   那么，如果大多数人不必遵循 Copyleft 许可证，那么使用它还有什么意义吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/DarkDetectiveGames   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bocfxw/does_using_a_copyleft_license_even_matter_in/</guid>
       <pubDate>Tue, 26 Mar 2024 16:41:41 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[考虑为 ses 构建一个开源仪表板。您认为有这个必要/用途吗？  它应该特别关注为时事通讯创建客户细分/列表并跟踪客户电子邮件的整个历史记录。也可能是自动化。它对于非技术人员（pr/cr）也应该有用 也可能对其他提供者进行抽象。我喜欢邮戳，但没有清单。  您希望看到什么功能？感觉其他提供商缺乏或太昂贵   我认为像 mailchimp 这样的工具和其他服务对于他们提供的服务来说昂贵得可笑。特别是如果您想要列表管理。看看最近重新发送他们的成功似乎需要简单的电子邮件。    由   提交/u/thelegendmoonguy27   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boal8m/thinking_about_building_a_dashboard_for_aws_ses/</guid>
       <pubDate>Tue, 26 Mar 2024 15:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何资助您的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo8gle/how_do_you_fund_your_opensource_projects/</link>
-      <description><![CDATA[嘿， 有一段时间，我一直在观察围绕开源项目运行的公司，例如 tldraw.com 或 signal.org。我想知道他们如何存在并能够雇用员工，同时又是一家专注于开源的公司。  获得一些捐款并保持服务器运行是一回事，而能够定期向员工支付工资并让整个团队专注于项目则是另一回事。  我知道有赞助捐款，有时大公司可以赞助更多的资金来持续支持，但我想知道是否还有其他方式/案例研究？就像从其他来源筹集资金一样，公司专注于为开源筹集资金等？  另外我想知道你的项目必须有多大才能开始带来任何自我维持的资金？如果您有较小的项目（假设只有几颗星星），您应该采取哪些路线来为其提供足够的动力来获得资助？ 我想知道您是否有任何故事、观点或案例研究。 :)   由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo8gle/how_do_you_fund_your_opensource_projects/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需维护</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo7ct6/no_maintenance_intended/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo7ct6/no_maintenance_intended/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NewPass：安全的 Android 密码管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo6a9m/newpass_a_secure_android_password_manager/</link>
-      <description><![CDATA[NewPass 是一款免费开源密码管理器，可让您安全地生成和存储密码、将其保存在本地并在手机内存中加密。  NewPass 使用 AES 和 CBC 模式对所有存储的密码进行加密，然后将其保存到本地数据库中，并利用 SQLCipher 通过对整个数据库进行加密来进一步增强安全性。加密密钥由用户在首次启动应用程序时选择，并在 EncryptedSharedPreferences 中保存和加密。然后每次启动应用程序时都会请求它。 您可以在 GitHub 上查看开源代码.   由   提交 /u/Geeero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo6a9m/newpass_a_secure_android_password_manager/</guid>
-      <pubDate>Tue, 26 Mar 2024 12:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个开源游戏的预告片</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo5qce/the_trailer_of_my_first_opensource_game/</link>
-      <description><![CDATA[   /u/pur__0_0__   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo5qce/the_trailer_of_my_first_opensource_game/</guid>
-      <pubDate>Tue, 26 Mar 2024 11:38:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
