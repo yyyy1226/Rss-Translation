@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 27 Mar 2024 18:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 21:16:52 GMT</lastBuildDate>
     <item>
-      <title>ComfyUI 丹塔格根</title>
-      <link>https://www.opensourceagenda.com/projects/comfyui-dantaggen</link>
-      <description><![CDATA[DTG的ComfyUI节点]]></description>
-      <guid>https://www.opensourceagenda.com/projects/comfyui-dantaggen</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unifi 客户端更新程序</title>
-      <link>https://www.opensourceagenda.com/projects/unifi-client-updater</link>
+      <title>多布拉布</title>
+      <link>https://www.opensourceagenda.com/projects/doblab</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/unifi-client-updater</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:47 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/doblab</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>奇亚斯莫东</title>
-      <link>https://www.opensourceagenda.com/projects/chiasmodon</link>
-      <description><![CDATA[Chiasmodon 是一款 OSINT 工具，旨在协助收集有关目标域的信息。其主要功能围绕搜索域相关数据，包括域电子邮件、域凭据、CIDR、ASN 和子域，该工具还允许用户搜索 Google Play 应用程序 ID。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chiasmodon</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>回忆2想象</title>
-      <link>https://www.opensourceagenda.com/projects/recall2imagine</link>
-      <description><![CDATA[Recall 2 Imagine，一个具有超人记忆力的世界模型。口头 (1.2%) @ ICLR 2024]]></description>
-      <guid>https://www.opensourceagenda.com/projects/recall2imagine</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>成长计算器</title>
-      <link>https://www.opensourceagenda.com/projects/growasia-calculator</link>
-      <description><![CDATA[用于计算东南亚农作物碳排放的应用程序。与 Winrock for Grow Asia 合作建立的项目。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/growasia-calculator</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉伯语语音识别</title>
-      <link>https://www.opensourceagenda.com/projects/arabic-speech-recognition</link>
-      <description><![CDATA[此存储库包含我尝试使用两个著名的语音识别框架（Kaldi、CMU Sphinx4）使用公开数据集“阿拉伯语孤立词语料库”进行阿拉伯语]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arabic-speech-recognition</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marouane53 转录</title>
-      <link>https://www.opensourceagenda.com/projects/marouane53-transcribe</link>
+      <title>紫菜</title>
+      <link>https://www.opensourceagenda.com/projects/laver</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/marouane53-transcribe</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:46 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/laver</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>碳登记处</title>
-      <link>https://www.opensourceagenda.com/projects/carbon-registry</link>
-      <description><![CDATA[数字气候 (D4C) 合作的国家碳信用登记数字公共产品 (DPG)。代码由 ExO/CDO 和 BPPS/Climate 协调。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/carbon-registry</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:45 GMT</pubDate>
+      <title>拉维特</title>
+      <link>https://www.opensourceagenda.com/projects/lavert</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lavert</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>Pi 生态指标</title>
-      <link>https://www.opensourceagenda.com/projects/pi-eco-indicator</link>
-      <description><![CDATA[在 Pimoroni Blinkt 上显示碳强度或 Octopus Agile 价格的概览数据！显示器或 Pimoroni Inky pHAT 显示器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pi-eco-indicator</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:45 GMT</pubDate>
+      <title>拉伯</title>
+      <link>https://www.opensourceagenda.com/projects/labber</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/labber</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>尝试侦察员</title>
-      <link>https://www.opensourceagenda.com/projects/trynthink-scout</link>
-      <description><![CDATA[用于估算未来能源使用、碳排放以及能源资本和运营成本影响的工具美国住宅和商业建筑领域的效率和需求灵活性技术。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/trynthink-scout</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:44 GMT</pubDate>
+      <title>鳗鱼</title>
+      <link>https://www.opensourceagenda.com/projects/aaler</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aaler</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>网站碳计算器</title>
-      <link>https://www.opensourceagenda.com/projects/website-carbon-calculator</link>
-      <description><![CDATA[此软件包计算来自给定 URL 的网络流量的碳排放量。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/website-carbon-calculator</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:44 GMT</pubDate>
+      <title>奥尔多</title>
+      <link>https://www.opensourceagenda.com/projects/aldo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aldo</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>碳计算器</title>
-      <link>https://www.opensourceagenda.com/projects/carbon-calculator</link>
-      <description><![CDATA[计算任何交通方式的碳足迹。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/carbon-calculator</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:44 GMT</pubDate>
+      <title>达洛埃特</title>
+      <link>https://www.opensourceagenda.com/projects/daloet</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/daloet</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>云碳足迹</title>
-      <link>https://www.opensourceagenda.com/projects/cloud-carbon-footprint</link>
-      <description><![CDATA[云碳足迹是一种估算能源使用（千瓦时）和碳排放的工具（公吨二氧化碳当量）来自公共云的使用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cloud-carbon-footprint</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:43 GMT</pubDate>
+      <title>ETH 套利 MEV 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/eth-arbitrage-mev-bot</link>
+      <description><![CDATA[🟢 💸 使用我们的 100% 开源以太坊 (MEV) 每天赚取 1 ETH -机器人）。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eth-arbitrage-mev-bot</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>碳足迹计算器</title>
-      <link>https://www.opensourceagenda.com/projects/carbonfootprintcalculator</link>
-      <description><![CDATA[计算您的碳足迹，并找出您需要采取多少措施才能消除它！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/carbonfootprintcalculator</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:43 GMT</pubDate>
+      <title>埃斯林特类型生成器</title>
+      <link>https://www.opensourceagenda.com/projects/eslint-typegen</link>
+      <description><![CDATA[从 ESLint 规则架构生成类型，并自动完成规则选项并进行类型检查。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eslint-typegen</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>开放电网排放</title>
-      <link>https://www.opensourceagenda.com/projects/open-grid-emissions</link>
-      <description><![CDATA[用于为美国电网生成高质量的每小时发电和排放数据的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/open-grid-emissions</guid>
-      <pubDate>Wed, 27 Mar 2024 18:23:43 GMT</pubDate>
+      <title>姆普拉特</title>
+      <link>https://www.opensourceagenda.com/projects/msplat</link>
+      <description><![CDATA[模块化差分高斯光栅化库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/msplat</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>塞赫普特</title>
+      <link>https://www.opensourceagenda.com/projects/ceheprt</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ceheprt</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>UTF8StreamReader</title>
+      <link>https://www.opensourceagenda.com/projects/utf8streamreader</link>
+      <description><![CDATA[基于 Utf8 的 StreamReader，用于高性能文本处理。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/utf8streamreader</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Logit 标准化 KD</title>
+      <link>https://www.opensourceagenda.com/projects/logit-standardization-kd</link>
+      <description><![CDATA[[CVPR 2024] 知识蒸馏中的 Logit 标准化]]></description>
+      <guid>https://www.opensourceagenda.com/projects/logit-standardization-kd</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>旋转鼠标</title>
+      <link>https://www.opensourceagenda.com/projects/spinner-mouse</link>
+      <description><![CDATA[基于 Arduino 的 USB 旋转控制器，适用于街机 Arkanoid、Tempest 等]]></description>
+      <guid>https://www.opensourceagenda.com/projects/spinner-mouse</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>杰迪安华莱士·金贾布瑞德</title>
+      <link>https://www.opensourceagenda.com/projects/jdeanwallace-jinjabread</link>
+      <description><![CDATA[使用 Jinja 模板的基于 Python 的静态站点生成器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jdeanwallace-jinjabread</guid>
+      <pubDate>Wed, 27 Mar 2024 21:16:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
