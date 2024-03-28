@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 21:18:30 GMT</lastBuildDate>
     <item>
       <title>隶</title>
       <link>https://www.producthunt.com/posts/scribe-fd81d368-e6e8-42a1-bc03-a41f4e4b1d08</link>
@@ -20,6 +20,20 @@
       <pubDate>Thu, 28 Mar 2024 07:08:21 GMT</pubDate>
     </item>
     <item>
+      <title>Nexa AI 的内容创建者 API</title>
+      <link>https://www.producthunt.com/posts/content-creator-apis-by-nexa-ai</link>
+      <description><![CDATA[
+            通过我们的 API 让 ChatGPT 的实用性提高 100 倍
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/content-creator-apis-by-nexa-ai</guid>
+      <pubDate>Thu, 28 Mar 2024 02:44:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Quick Creator 的内容评分</title>
       <link>https://www.producthunt.com/posts/content-score-by-quick-creator</link>
       <description><![CDATA[
@@ -32,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/content-score-by-quick-creator</guid>
       <pubDate>Thu, 28 Mar 2024 01:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sendspark 动态视频</title>
+      <link>https://www.producthunt.com/posts/sendspark-dynamic-videos</link>
+      <description><![CDATA[
+            AI个性化视频销售
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sendspark-dynamic-videos</guid>
+      <pubDate>Wed, 27 Mar 2024 23:42:13 GMT</pubDate>
     </item>
     <item>
       <title>人工智能饮料</title>
@@ -62,60 +90,18 @@
       <pubDate>Wed, 27 Mar 2024 21:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>复归</title>
-      <link>https://www.producthunt.com/posts/repuxation</link>
+      <title>概述</title>
+      <link>https://www.producthunt.com/posts/overview-3</link>
       <description><![CDATA[
-            利用 Google 评论拓展您的业务
+            包含 Microsoft Teams 中所需一切的仪表板
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/repuxation</guid>
-      <pubDate>Wed, 27 Mar 2024 21:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>策展人样张应用程序</title>
-      <link>https://www.producthunt.com/posts/curator-tearsheets-app</link>
-      <description><![CDATA[
-            离线策划视觉内容
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/curator-tearsheets-app</guid>
-      <pubDate>Wed, 27 Mar 2024 20:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>docTI 定制文档处理</title>
-      <link>https://www.producthunt.com/posts/docti-custom-document-processing</link>
-      <description><![CDATA[
-            设计定制的文档处理 API，在几分钟内完成部署
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/docti-custom-document-processing</guid>
-      <pubDate>Wed, 27 Mar 2024 16:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xata 无服务器 PostgreSQL 平台</title>
-      <link>https://www.producthunt.com/posts/serverless-postgresql-platform-by-xata</link>
-      <description><![CDATA[
-            Postgres，已启动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/serverless-postgresql-platform-by-xata</guid>
-      <pubDate>Wed, 27 Mar 2024 16:10:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/overview-3</guid>
+      <pubDate>Wed, 27 Mar 2024 21:12:44 GMT</pubDate>
     </item>
     <item>
       <title>流飞</title>
@@ -132,6 +118,20 @@
       <pubDate>Tue, 26 Mar 2024 23:28:33 GMT</pubDate>
     </item>
     <item>
+      <title>丝带</title>
+      <link>https://www.producthunt.com/posts/ribbon-8</link>
+      <description><![CDATA[
+            更智能、更快捷的求职方式
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ribbon-8</guid>
+      <pubDate>Tue, 26 Mar 2024 19:34:48 GMT</pubDate>
+    </item>
+    <item>
       <title>人工智能海豚</title>
       <link>https://www.producthunt.com/posts/delfiny-ai</link>
       <description><![CDATA[
@@ -144,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/delfiny-ai</guid>
       <pubDate>Tue, 26 Mar 2024 13:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>半透明空间 Web 应用程序</title>
-      <link>https://www.producthunt.com/posts/translucent-spatial-web-apps</link>
-      <description><![CDATA[
-            将网站带入您的空间——visionOS
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/translucent-spatial-web-apps</guid>
-      <pubDate>Tue, 26 Mar 2024 07:13:28 GMT</pubDate>
     </item>
     <item>
       <title>免费TTS</title>
@@ -188,6 +174,20 @@
       <pubDate>Tue, 19 Mar 2024 03:32:51 GMT</pubDate>
     </item>
     <item>
+      <title>RAFA</title>
+      <link>https://www.producthunt.com/posts/rafa-2</link>
+      <description><![CDATA[
+            您口袋里的人工智能投资专家团队
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rafa-2</guid>
+      <pubDate>Tue, 19 Mar 2024 03:12:21 GMT</pubDate>
+    </item>
+    <item>
       <title>飞跃生活</title>
       <link>https://www.producthunt.com/posts/leaplife-2</link>
       <description><![CDATA[
@@ -205,7 +205,7 @@
       <title>清除VPN</title>
       <link>https://www.producthunt.com/posts/clearvpn-3</link>
       <description><![CDATA[
-            适用于您所有在线旅程的一键式安全 VPN
+            一键式安全 VPN 满足您的所有在线旅程
           
 
 讨论&lt; /a&gt;
