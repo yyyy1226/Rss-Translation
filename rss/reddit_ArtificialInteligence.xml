@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 06:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 09:18:17 GMT</lastBuildDate>
+    <item>
+      <title>新的 Databricks 开源 LLM 目标是定制开发</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpqrez/new_databricks_open_source_llm_targets_custom/</link>
+      <description><![CDATA[Databricks 推出了 DBRX，一种新的开源大语言模型 (LLM)。该模型旨在匹配闭源模型的性能，并帮助用户开发定制的人工智能模型。  据 Databricks 称，LLM 与 OpenAI 的 GPT 3.5 和 Google 的 Gemini 相比毫不逊色。然而，值得注意的是，DBRX 的独立基准测试尚不可用。  https://www .techtarget.com/searchbusinessanalytics/news/366575678/New-Databricks-open-source-LLM-targets-custom-development   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpqrez/new_databricks_open_source_llm_targets_custom/</guid>
+      <pubDate>Thu, 28 Mar 2024 08:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>皮梅耶斯</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpqlv0/pimeyes/</link>
+      <description><![CDATA[大家好，我不确定这是允许还是不允许。但是有人碰巧拥有 pimeyes 帐户吗？不介意找我吗？    由   提交/u/laine2568  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpqlv0/pimeyes/</guid>
+      <pubDate>Thu, 28 Mar 2024 08:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德对人择的看法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpq1db/what_claude_thinks_about_anthropic/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpq1db/what_claude_thinks_about_anthropic/</guid>
+      <pubDate>Thu, 28 Mar 2024 07:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找好的人工智能来翻译</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpps1i/i_m_looking_for_good_ai_to_translate/</link>
+      <description><![CDATA[大家好。 rn 我正在寻找好的人工智能来做好的翻译。 deepl 和谷歌翻译不适合。也许有人知道好的选择。   由   提交/u/Constant_Basil1170   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpps1i/i_m_looking_for_good_ai_to_translate/</guid>
+      <pubDate>Thu, 28 Mar 2024 07:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Databrick发布了迄今为止最强大的开源语言模型——DBRX</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpotub/databrick_released_the_most_powerful_opensource/</link>
+      <description><![CDATA[Databricks 发布了迄今为止最强大的开源语言模型 DBRX，拥有 13200 亿个参数，超越了 Llama 2、Mistral 和 Grok-1。  DBRX 在大多数基准测试中都超越了 GPT-3.5，并在质量上与 Gemini 1.0 Pro 和 Mistral Medium 竞争，并且速度显着提高。它托管在 Mosaic AI Model Serving 上，可实现 150 个代币/秒/用户的速度。 DBRX 是基于斯坦福大学 MegaBlocks 开源项目构建的混合专家模型，每个代币仅激活 360 亿个参数以实现高处理能力速度。其推理速度几乎是 LLaMA2-70B 的两倍，总参数和活动参数数量比 Grok 小约 40%。 Databricks NLP 预训练团队表示，DBRX 是在 12 上预训练的 16×12B MoE LLM。万亿个文本和代码令牌，支持最大上下文长度为 32k 令牌。 Github：https://github.com /databricks/dbrx 基本：https://huggingface.co/databricks/dbrx-base  微调：https://huggingface.co/databricks/dbrx-instruct 来源： https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm https://www.wired.com/story/ dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/   由   提交 /u/BiggerGeorge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpotub/databrick_released_the_most_powerful_opensource/</guid>
+      <pubDate>Thu, 28 Mar 2024 06:33:46 GMT</pubDate>
+    </item>
     <item>
       <title>Autogen 使用本地法学硕士</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpogmo/autogen_using_local_llms/</link>
       <description><![CDATA[大家好，本教程介绍了如何使用 Ollama 和 Ollama 的本地 LLM（而不是任何 API）来使用 Microsoft 的 Multi-Agent 框架 Autogen。 LiteLLM：https://youtu.be/AdGuzjGWZms?si=FHhwzaS0RoAiDubk   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpogmo/autogen_using_local_llms/</guid>
       <pubDate>Thu, 28 Mar 2024 06:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devin 人工智能软件工程师的真相：天才还是聪明的营销？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpn9mn/the_truth_about_devin_ai_software_engineer_genius/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpn9mn/the_truth_about_devin_ai_software_engineer_genius/</guid>
-      <pubDate>Thu, 28 Mar 2024 04:54:34 GMT</pubDate>
     </item>
     <item>
       <title>10 年后的 CandyAI。可能性是无限的，约会世界已经完蛋了。</title>
@@ -27,25 +55,11 @@
       <pubDate>Thu, 28 Mar 2024 04:33:44 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 3/27/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpkyab/oneminute_daily_ai_news_3272024/</link>
-      <description><![CDATA[ 亚马逊完成对 Anthropic 40 亿美元的投资。[1] Rabbit 与 ElevenLabs 合作，在其设备上支持语音命令。[2] Adobe 周三宣布推出一套为企业提供生成人工智能 (Gen AI) 功能的软件产品。[3] Ron Insana 的新公司旨在为个人投资者带来人工智能驱动的交易理念。[4]  来源包括：https://bushaicave.com/2024/03/ 27/3-27-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpkyab/oneminute_daily_ai_news_3272024/</guid>
-      <pubDate>Thu, 28 Mar 2024 02:50:59 GMT</pubDate>
-    </item>
-    <item>
       <title>一旦人工智能到达第七阶段，我认为它会决定离开地球</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpjod3/once_an_ai_gets_to_stage_7_i_think_it_would/</link>
       <description><![CDATA[我在想，如果人工智能真的达到了第七阶段，那么它理所当然会对宇宙感到好奇并决定离开地球去探索它。如果没有人类在太空中的限制，我不明白为什么他们想长期被困在我们的小蓝点上。  我们从人工智能毁灭人类中得到的救赎是不是因为他们甚至不会被听到去杀死我们？   由   提交 /u/itsl8erthanyouthink   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpjod3/once_an_ai_gets_to_stage_7_i_think_it_would/</guid>
       <pubDate>Thu, 28 Mar 2024 01:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国人工智能人才与美国竞争</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bphhav/china_ai_talent_rivals_us/</link>
-      <description><![CDATA[https://current.news/brief/6guypTRM 中国的人工智能人才库正在快速增长，越来越多的研究人员选择在国内工作，挑战了传统的人才流失说法。   由   提交 /u/gronkulus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bphhav/china_ai_talent_rivals_us/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:08:56 GMT</pubDate>
     </item>
     <item>
       <title>10年后的索拉。可能性是无限的，好莱坞已经完蛋了。</title>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 27 Mar 2024 18:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>不破坏基础图像的AI图像生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bp7bwo/ai_image_generator_that_doesnt_destroy_base_image/</link>
-      <description><![CDATA[我想不出合适的标题，但基本上；有一些图像生成器可以使用您的图片作为基础。然后，您可以使用“使其看起来像在下雪”之类的说明。但是，每次我使用一个人站在房间里的简单图片时，他的脸就会扭曲或变形。或者脸依然存在，但他的身体却变成了某种奇怪的东西，就像半人半猴一样。即使我没有输入任何有关动物的内容。或者那个家伙完全消失并被一把椅子取代。  所以我正在寻找一个AI图像生成器，它可以使用你自己的照片作为基础，并且实际上可以保留原始面孔。如果技术还没有，那么至少我知道。   由   提交/u/Annoyier  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bp7bwo/ai_image_generator_that_doesnt_destroy_base_image/</guid>
-      <pubDate>Wed, 27 Mar 2024 17:17:24 GMT</pubDate>
-    </item>
-    <item>
       <title>亚马逊斥资 27.5 亿美元收购人工智能初创公司 Anthropic，这是其迄今为止最大的风险投资</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bp74ea/amazon_spends_275_billion_on_ai_startup_anthropic/</link>
       <description><![CDATA[https://www.cnbc.com/amp/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture -investment.html   由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
@@ -83,16 +90,9 @@
       <pubDate>Wed, 27 Mar 2024 17:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能现在可以像人类一样互相学习和交谈。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bp20j3/ais_can_now_learn_and_talk_with_each_other_like/</link>
-      <description><![CDATA[这似乎是迈向 agi 的重要一步，并大大提高了生产力。 https:// www.livescience.com/technology/artificial-intelligence/scientists-create-ai-models-that-c​​an-talk-to-each-other-and-pass-on-skills-with-limited- human-input “一旦学习了这些任务，网络就能够将它们描述给第二个网络（第一个网络的副本），以便它可以重现它们。据我们所知，这是两个人工智能第一次能够以纯粹的语言方式相互交谈，”该论文的主要作者、日内瓦大学神经中心负责人 Alexandre Pouget 在一份声明中说道。  “虽然人工智能驱动的聊天机器人可以解释语言指令以生成图像或文本，但它们无法将书面或口头指令转化为身体动作，更不用说向另一个人工智能解释指令了。  然而，通过模拟人脑中负责语言感知、解释和基于指令的动作的区域，研究人员创造了一种具有类似人类学习和沟通能力的人工智能。” &lt; /div&gt;  由   提交/u/Georgeo57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bp20j3/ais_can_now_learn_and_talk_with_each_other_like/</guid>
-      <pubDate>Wed, 27 Mar 2024 13:34:49 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta 首席执行官马克扎克伯格正在通过个性化电子邮件直接从谷歌 DeepMind 招聘人工智能人才。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1boxdra/meta_ceo_mark_zuckerberg_is_directly_recruiting/</link>
-      <description><![CDATA[Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 正在尝试从 Google 的 DeepMind（他们的人工智能研究部门）招募顶尖人工智能人才。据《The Information》报道，来自扎克伯格本人的个性化电子邮件已发送给他们的几位顶级研究人员，该报道援引了看过这些邮件的个人的消息。除此之外，研究人员无需进行任何面试即可被聘用，而且 Meta 之前制定的政策——不向具有竞争性工作机会的候选人提供更高的报价——也得到了放松。  扎克伯格似乎正在大肆招聘，以使 Meta 成为人工智能领域的主导者。 https://www.businessinsider.com/mark-zuckerberg-recruiting-google-ai-talent-with-personal-emails -2024-3   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <description><![CDATA[Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 正在尝试从 Google 的 DeepMind（他们的人工智能研究部门）招募顶尖人工智能人才。据《The Information》报道，来自扎克伯格本人的个性化电子邮件已发送给他们的一些顶级研究人员，该报告援引了看过这些消息的个人的消息。除此之外，研究人员无需进行任何面试即可被聘用，而且 Meta 之前制定的政策——不向具有竞争性工作机会的候选人提供更高的报价——也得到了放松。  扎克伯格似乎正在大肆招聘，以使 Meta 成为人工智能领域的主导者。 https://www.businessinsider.com/mark-zuckerberg-recruiting-google-ai-talent-with-personal-emails -2024-3   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1boxdra/meta_ceo_mark_zuckerberg_is_directly_recruiting/</guid>
       <pubDate>Wed, 27 Mar 2024 09:04:51 GMT</pubDate>
     </item>
