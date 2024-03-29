@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 01:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 02:41:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Reddit 股价暴跌，短短两天暴跌 25%，结束了 [...]</title>
-      <link>https://t.me/hn_summary/81797</link>
-      <description><![CDATA[Reddit 股价两天暴跌 25%，先跌破一周当天收市
-Reddit 股价暴跌，两天内暴跌 25%，本周收盘价低于该公司 IPO 后首日收盘价。该股周三开始螺旋式下跌，Hedgeye Risk Management 称其“估值严重高估”。首席执行官史蒂夫·霍夫曼（Steve Huffman）和首席运营官詹妮弗·黄（Jennifer Wong）均出售了数十万股股票，引发了人们对内部信心的质疑。尽管本周早些时候该公司股价短暂飙升，但新街研究公司仍对该公司给予中性评级，并预测未来将出现波动。 Reddit 股票的大幅下跌让投资者和分析师对该公司的未来前景产生了质疑。]]></description>
-      <guid>https://t.me/hn_summary/81797</guid>
-      <pubDate>Fri, 29 Mar 2024 01:16:30 GMT</pubDate>
+      <title>作者探讨了这样一种观点：数学论文写得不好，数学可能会变得无聊 [...]</title>
+      <link>https://t.me/hn_summary/81814</link>
+      <description><![CDATA[为什么数学很无聊
+作者探讨了这样一种观点：由于数学论文写得不好，缺乏人情味，数学可能会变得无聊。与讲故事类似，作者提出了参与数学写作的技巧，例如从朗朗上口的第一段开始，设置背景，发展人物（数学实体），在证明中制造冲突和紧张，并提供解决方案。目标是让数学论文更有趣、更容易被读者接受。这篇文章强调了整篇论文的清晰度、组织性和保持读者兴趣的重要性。作者建议进一步阅读叙事在数学中的作用以获得更多见解。]]></description>
+      <guid>https://t.me/hn_summary/81814</guid>
+      <pubDate>Fri, 29 Mar 2024 02:41:38 GMT</pubDate>
     </item>
     <item>
-      <title>在《穿过针眼的骆驼和其他翻译的狂野故事》中，斯坦特·利托 (Stant Litore) [...]</title>
-      <link>https://t.me/hn_summary/81796</link>
-      <description><![CDATA[骆驼穿过针眼，以及其他野生故事翻译（2018）
-在《穿针眼的骆驼和其他疯狂的翻译故事》一书中，斯坦特·利托尔探索了圣经中误译的迷人世界。从骆驼和绳子的幽默混合，到对“arsenokoites”和“hupotassomenoi”等词的更具争议性的翻译，利托雷深入研究了语言的细微差别和复杂性。他要求读者考虑书面文字在塑造文化和政治制度方面的力量。这篇文章融合了幽默和洞察力，阐明了理解古代文本原始上下文的重要性。]]></description>
-      <guid>https://t.me/hn_summary/81796</guid>
-      <pubDate>Fri, 29 Mar 2024 00:53:50 GMT</pubDate>
+      <title>[媒体]在一个充满错误信息和健康焦虑的世界里，安德鲁·休伯曼的流行文章 [...]</title>
+      <link>https://t.me/hn_summary/81813</link>
+      <description><![CDATA[Slate 揭穿 Andrew Huberman
+在一个充满错误信息和健康焦虑的世界中，安德鲁·胡伯曼的热门播客提供了由他的神经科学专业知识支持的简单健康方案。然而，《纽约》杂志的深入调查揭示了围绕他的个人生活和实验室的争议。胡伯曼的播客因宣扬伪科学、选择性研究以及在没有有力证据的情况下认可补充剂而受到批评。他在南非醉茄和流感疫苗等话题上的误导性言论引发了人们对他可信度的担忧。由于经济利益冲突和对不受监管的补充剂的关注，胡伯曼对健康行为和医疗阴谋的影响令人不安。作为一名科学家，看到休伯曼将名誉置于准确的科学传播之上，令人感到沮丧。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81813</guid>
+      <pubDate>Fri, 29 Mar 2024 02:39:04 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理 lo [...]</title>
-      <link>https://t.me/hn_summary/81795</link>
-      <description><![CDATA[Grok-1.5
-推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理多达 128K 个标记的长上下文，显着扩展了其内存容量。在 Haystack 评估中，Grok-1.5 展示了在冗长上下文中嵌入文本的完美检索结果。 Grok-1.5 基于使用 JAX、Rust 和 Kubernetes 的自定义分布式训练框架构建，可确保在大规模 GPU 集群上进行训练的强大而灵活的基础设施。当我们准备向早期测试人员发布 Grok-1.5 时，我们渴望收到反馈以进一步增强其功能。随着我们不断发展 Grok，请继续关注未来几天令人兴奋的新功能。如果您有兴趣使用我们的创新培训堆栈，请申请加入我们的团队。]]></description>
-      <guid>https://t.me/hn_summary/81795</guid>
-      <pubDate>Fri, 29 Mar 2024 00:47:15 GMT</pubDate>
+      <title>亚马逊公司</title>
+      <link>https://t.me/hn_summary/81812</link>
+      <description><![CDATA[亚马逊在人工智能繁荣所需的数据中心上押注 150B 美元
+Amazon.com Inc. 将投资 1500 亿美元未来15年数据中心将满足人工智能应用和数字服务不断增长的需求。此举被视为巩固其在云服务市场主导地位的战略举措，目前该公司在该市场的市场份额是其最接近的竞争对手微软公司的两倍。尽管去年销售增长放缓，但亚马逊网络服务正在为未来的发展做好准备。随着企业恢复现代化项目支出，这种情况再次出现。该公司正在积极争取资源为其数据中心提供动力，这表明其致力于在技术竞赛中保持领先地位。]]></description>
+      <guid>https://t.me/hn_summary/81812</guid>
+      <pubDate>Fri, 29 Mar 2024 02:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] rev.ng 反编译器已开源，后端现已可供公众使用。</title>
-      <link>https://t.me/hn_summary/81794</link>
-      <description><![CDATA[rev.ng 反编译器开源
-rev.ng 反编译器已经开源，现在有后端可供公众使用。该版本包括初始文档并邀请用户加入 UI 的封闭测试版。该反编译器专注于自动数据结构恢复、现代用户体验、协作逆向、广泛的平台支持和可扩展性。用户可以通过安装并反编译简单程序来尝试rev.ng。 UI 基于 VSCode，并允许交互式更改。 UI 的协作性质使多个用户能够同时处理同一个项目。该反编译器支持广泛的架构和 ABI，使其成为逆向工程的多功能工具。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81794</guid>
-      <pubDate>Fri, 29 Mar 2024 00:42:39 GMT</pubDate>
+      <title>[媒体] 警察部门现在使用 GPS 追踪飞镖来标记逃跑的车辆，消除 [...]</title>
+      <link>https://t.me/hn_summary/81811</link>
+      <description><![CDATA[警方正在用 GPS 飞镖标记逃跑的汽车以避免危险的追捕
+警察部门现在使用 GPS 追踪飞镖来标记逃跑的车辆，从而消除了危险的高速追捕的需要。这些飞镖由追星公司制造，从车载发射器发射，内置无线 GPS 跟踪系统。虽然有些人认为在民用车辆上使用这些跟踪器可能违反第四修正案的权利，但美国公民自由联盟表示它们可能是合法的如果在汽车追逐中使用并在车辆被捕获后将其移除。全国各地的警察部门正在采用这项技术，以减少与汽车追逐相关的风险，最终让每个人都更安全。]]></description>
+      <guid>https://t.me/hn_summary/81811</guid>
+      <pubDate>Fri, 29 Mar 2024 02:28:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Twitter（现称为 X）被发现向执法机构出售用户数据 [...]</title>
-      <link>https://t.me/hn_summary/81793</link>
-      <description><![CDATA[Twitter 在抱怨监视的同时向政府间谍出售数据
-Twitter（现称为 X）被发现通过一家名为 Dataminr 的监控公司向执法机构出售用户数据，尽管此前曾起诉美国政府要求监控做法的透明度。这一爆料让该公司和倡导言论自由的埃隆·马斯克都陷入了妥协的境地。出售的数据可以实时监控在线活动，包括抗议活动。虽然这种做法违背了 Twitter 自己的政策，但从技术上讲，它在到达政府机构之前会经过一家中间数据公司。这种有争议的做法在马斯克上任之前就一直在持续，凸显了情况的两面性。]]></description>
-      <guid>https://t.me/hn_summary/81793</guid>
-      <pubDate>Fri, 29 Mar 2024 00:37:32 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克雄心勃勃的定居火星计划可能听起来令人兴奋，但有重要的[...]</title>
+      <link>https://t.me/hn_summary/81810</link>
+      <description><![CDATA[关于定居火星，埃隆·马斯克不会告诉你的事情
+埃隆·马斯克雄心勃勃的定居火星计划听起来可能令人兴奋，但他没有谈论一些重要因素。虽然马斯克专注于殖民火星的技术方面，但他未能解决破坏新行星生态系统的伦理影响和潜在后果。争议在于缺乏考虑对当地生命形式的影响以及对火星环境造成不可逆转损害的可能性。质疑马斯克的愿景并考虑定居火星的想法所带来的道德困境非常重要。本文揭示了马斯克的火星殖民计划中被忽视的方面。]]></description>
+      <guid>https://t.me/hn_summary/81810</guid>
+      <pubDate>Fri, 29 Mar 2024 02:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。</title>
-      <link>https://t.me/hn_summary/81792</link>
-      <description><![CDATA[没有人告诉电动车车主轮胎烧坏的速度 
-电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。由于电动汽车的重量和即时动力，不仅会更快地磨损橡胶和道路，而且许多车主从未被告知这一潜在问题。这种教育的缺乏凸显了汽车购买过程中的差距，电动汽车车主期望与内燃机汽车车主类似的轮胎磨损。米其林和固特异等公司认识到独特的要求，现在专门销售电动汽车轮胎。随着电动汽车市场的增长，需要更好的教育和产品开发来解决维护成本并为客户提供更好的价值。]]></description>
-      <guid>https://t.me/hn_summary/81792</guid>
-      <pubDate>Fri, 29 Mar 2024 00:25:26 GMT</pubDate>
+      <title>[媒体]从咖啡冷却的速度来看，温控杯可能是值得的[...]</title>
+      <link>https://t.me/hn_summary/81809</link>
+      <description><![CDATA[已测试温控杯
+考虑到咖啡冷却的速度，控温杯可能是一项值得的投资。一项实验表明，咖啡的热量散失速度很快，仅 20 分钟即可从 136°F 降至 111°F。咖啡的理想温度约为 136°F，这使得大多数杯子的预设温度非常接近 135°F。虽然所有测试的杯子的性能相似，但它们具有独特的功能，例如应用程序控制和加热垫。 Ember 旅行杯因其设计和保温时间更长的能力而脱颖而出。虽然温控杯不是必需品，但它可以增强咖啡饮用体验。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81809</guid>
+      <pubDate>Fri, 29 Mar 2024 02:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]气候变化导致的极地冰融化正在影响地球自转，缓慢[...]</title>
-      <link>https://t.me/hn_summary/81791</link>
-      <description><![CDATA[气候变化引起的极地冰融化正在减慢地球自转
-气候变化导致的极地冰融化正在影响地球自转，使其减慢。这种现象以及核心速度减慢等其他因素正在影响计时并导致通用时和原子时之间缺乏同步。研究人员邓肯·阿格纽将极地冰的加速融化与地球自转联系起来，将其比作滑冰者伸出手臂以减速。这种意想不到的连接对全球计时基础设施产生了影响，未来可能需要减去一秒而不是添加一秒。关于闰秒及其对各种系统的影响的争论仍在继续，未来时间的计算和调整方式可能会发生变化。]]></description>
-      <guid>https://t.me/hn_summary/81791</guid>
-      <pubDate>Fri, 29 Mar 2024 00:00:45 GMT</pubDate>
+      <title>[媒体]近日，集装箱船大理号与B区Francis Scott Key大桥相撞事件 [...]</title>
+      <link>https://t.me/hn_summary/81808</link>
+      <description><![CDATA[巴尔的摩大桥：船舶碰撞力达到火箭的规模启动
+最近，集装箱船“达利”号与巴尔的摩弗朗西斯·斯科特基大桥相撞，产生的力量堪比火箭发射，造成了严重损害。专家们对于桥墩能否承受这种冲击力存在分歧，一些人认为现代桥梁的设计就是为了应对这种力量。计算估计碰撞力在 1200 万至 2.3 亿牛顿之间，具体取决于碰撞持续时间和船上的货物。工程师建议使用护舷或海豚等保护系统来保护桥梁免受此类影响，强调了更新行业安全标准的必要性。]]></description>
+      <guid>https://t.me/hn_summary/81808</guid>
+      <pubDate>Fri, 29 Mar 2024 02:21:12 GMT</pubDate>
     </item>
     <item>
-      <title>犹他州通过了开创性的立法《人工智能政策法案》，成为 [...]</title>
-      <link>https://t.me/hn_summary/81790</link>
-      <description><![CDATA[犹他州通过人工智能立法
-犹他州通过了开创性的《人工智能政策法案》，成为首批监管人工智能的州之一。该法律规定了使用人工智能系统的实体的披露义务，特别是在生成式人工智能交互中。不遵守规定可能会导致巨额罚款。人工智能政策办公室和人工智能学习实验室计划的成立旨在鼓励创新，同时确保消费者保护。该计划的参与者可以获得监管缓解，以在监督下测试他们的人工智能应用程序。 Snell &amp; Wilmer 将密切关注这一不断变化的法律格局。]]></description>
-      <guid>https://t.me/hn_summary/81790</guid>
-      <pubDate>Thu, 28 Mar 2024 23:55:39 GMT</pubDate>
+      <title>[媒体] Dangerzone 是一款将潜在危险的 PDF、办公文档或 IM [...]</title>
+      <link>https://t.me/hn_summary/81807</link>
+      <description><![CDATA[Dangerzone：将 PDF、文档或图像转换为安全 PDF&lt; /a&gt;
+Dangerzone 是一款将潜在危险的 PDF、办公文档或图像转换为安全 PDF 的工具。它在沙箱内运行以确保安全，将文档转换为原始像素数据，然后再转换回 PDF 格式。独特的功能包括沙箱无需网络访问、文本层的可选 OCR、文件大小压缩以及在所选查看器中打开安全 PDF 的能力。它支持各种文档类型，受到 Qubes 可信 PDF 的启发，但可以在使用容器作为沙箱的非 Qubes 操作系统上运行。该项目已获得 AGPLv3 许可，并由新闻自由基金会和 Dangerzone 贡献者维护。]]></description>
+      <guid>https://t.me/hn_summary/81807</guid>
+      <pubDate>Fri, 29 Mar 2024 02:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Meta（原名 Facebook）已停止其原始流媒体内容制作 [...]</title>
-      <link>https://t.me/hn_summary/81789</link>
-      <description><![CDATA[Facebook 让 Netflix 查看用户私信，停止流媒体以让 Netflix 满意&lt; /a&gt;
-由于成本削减和裁员，Meta（原名 Facebook）已停止其原创流媒体内容制作，包括贾达·萍克·史密斯 (Jada Pinkett Smith) 的《红桌谈话》(Red Table Talk) 等热门节目。然而，最近公布的反垄断诉讼法庭文件称，Meta 终止了流媒体业务，以取悦其最大广告客户之一的 Netflix。该诉讼称，Facebook 允许 Netflix 访问用户的私人消息，以换取广告支出，从而使 Netflix 能够影响重大商业决策。 Meta 尚未对这些指控发表评论，但围绕 Facebook 和 Netflix 之间关系的争议引发了有关用户隐私和流媒体行业竞争的问题。]]></description>
-      <guid>https://t.me/hn_summary/81789</guid>
-      <pubDate>Thu, 28 Mar 2024 23:50:03 GMT</pubDate>
+      <title>[媒体] 在我在 www.honest-broker.com 上发表的文章中，我深入探讨了人文学科面临的危机 [...]</title>
+      <link>https://t.me/hn_summary/81806</link>
+      <description><![CDATA[人文危机并未发生在大学 
+在我关于 www.honest-broker.com，我深入研究了人文学科面临的危机，以及它如何不仅仅局限于大学校园。作为一个有音乐和文化背景的人，我从来没有想过会写关于科技的文章，但我在硅谷的经历让我看到了科技的阴暗面。技术平台的过度扩张和故意退化导致用户失去信任并产生无力感。这场人文危机的解决之道不在于大学课堂，而在于人文价值观可以发挥作用的现实世界。对科技无法提供的智慧和营养的渴望正在推动学术界之外对人文替代品的需求不断增长。现在是人文学科在世界上展示其力量和价值并反击算法思维的破坏性力量的时候了。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81806</guid>
+      <pubDate>Fri, 29 Mar 2024 02:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]您在寻找更多游戏吗？</title>
-      <link>https://t.me/hn_summary/81788</link>
-      <description><![CDATA[末日验证码
-您在寻找更多游戏吗？查看《Doom Captcha》，这是一个有趣的项目，您必须击败敌人才能完成验证码。别太认真了，一切都很有趣。您甚至可以使用 iddqd 等作弊码立即完成验证码。该项目成为 Product Hunt 当天的顶级产品，令仅仅一个周末就开发出该项目的创建者感到惊讶。如果您喜欢 Doom Captcha，请查看创建者的其他项目。 《毁灭战士》的创造者约翰·卡马克甚至喜欢它！]]></description>
-      <guid>https://t.me/hn_summary/81788</guid>
-      <pubDate>Thu, 28 Mar 2024 23:44:29 GMT</pubDate>
+      <title>[媒体] 波音举报人约翰·巴尼特 (John Barnett) 的家人在他去世后发表讲话，他 [...]</title>
+      <link>https://t.me/hn_summary/81805</link>
+      <description><![CDATA[波音举报人约翰·巴尼特的家人在去世后发声
+波音举报人约翰·巴尼特的家人在他去世后公开表示，这家飞机制造巨头应对导致他去世的治疗负责。巴尼特曾指责波音公司忽视安全问题，就在他准备继续提供针对该公司的证词之前，他被发现死在自己的车里。他的家人希望看到他为飞行公众的安全而奋斗的遗产得以保存。巴尼特的兄弟透露，公司因他的言论而对他进行报复，导致他面临工作压力。家人正在继续举报他的案件，寻求正义和问责。]]></description>
+      <guid>https://t.me/hn_summary/81805</guid>
+      <pubDate>Fri, 29 Mar 2024 02:16:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
