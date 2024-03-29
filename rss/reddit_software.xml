@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 06:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 09:18:06 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Linux Cold Turkey 替代方案（特别是番茄工作法功能）</title>
+      <link>https://www.reddit.com/r/software/comments/1bqklv9/looking_for_a_linux_cold_turkey_alternative_the/</link>
+      <description><![CDATA[So Cold Turkey 有这样一个东西，你可以设置你可以使用计算机的一定时间，然后你可以使用的时间休息一下，它会交替区块。我想知道 Linux 是否有类似的软件？   由   提交 /u/tetotetotetotetoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bqklv9/looking_for_a_linux_cold_turkey_alternative_the/</guid>
+      <pubDate>Fri, 29 Mar 2024 09:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单清单应用程序推荐</title>
+      <link>https://www.reddit.com/r/software/comments/1bqjso7/simple_checklist_app_recommendation/</link>
+      <description><![CDATA[我需要一个 Pureref 简单性的清单应用程序。我不想要任何额外的东西，我只是想检查一下。我认为 Pureref 是我使用的最简单、最实用的程序，我开始每天都需要它的清单版本。有推荐的应用程序吗？   由   提交/u/r2detta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bqjso7/simple_checklist_app_recommendation/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Windows 任务栏上显示短行文本</title>
+      <link>https://www.reddit.com/r/software/comments/1bqjk87/displaying_a_short_line_of_text_on_windows_task/</link>
+      <description><![CDATA[我患有注意力缺陷多动症，我的思绪容易分散。我意识到用可见的文本显示我当前的任务可以帮助我记住并专注于我正在做的事情，尤其是在执行复杂的多阶段任务时。我尝试过使用 Windows 内置的便签应用程序，但它只是隐藏了我的屏幕部分并让我烦恼。你们中有人知道有一种方法可以在 Windows 11 任务栏本身中放置一小行文本，使其可见而不妨碍吗？   由   提交 /u/Roi_C   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bqjk87/displaying_a_short_line_of_text_on_windows_task/</guid>
+      <pubDate>Fri, 29 Mar 2024 07:49:05 GMT</pubDate>
+    </item>
     <item>
       <title>有没有 Windows 游戏栏的快速录制替代品？</title>
       <link>https://www.reddit.com/r/software/comments/1bqge46/any_quick_recording_alternatives_to_windows/</link>
@@ -29,28 +50,28 @@
     <item>
       <title>钓鱼线索</title>
       <link>https://www.reddit.com/r/software/comments/1bqa3i5/fishing_for_leads/</link>
-      <description><![CDATA[事情是这样的 - 我的妻子刚刚完成了计算机科学硕士学位，并且已经找工作几个月了。她在“Big 5”中获得了 2 次令人惊叹的实习机会。甚至还获得了某个职位的批准（一旦有空缺），但由于招聘冻结而没有给出实际的报价... 显然，该行业已经放缓了相当多的速度她是入门级软件开发人员，但她真的不知道该怎么办，也不知道如何在大多数帖子发布后几天内就有超过 100 名申请者时脱颖而出。  30 多岁，在不同的行业拥有良好的职业生涯，发现很难正式开始下一个篇章，我想尽我所能帮助她完成这个过程......有什么建议吗？&lt; /p&gt;   由   提交 /u/calilazers   [链接] [评论]]]></description>
+      <description><![CDATA[事情是这样的 - 我的妻子刚刚完成了计算机科学硕士学位，并且已经找工作几个月了。她在“Big 5”中获得了 2 次令人惊叹的实习机会。甚至还获得了一个职位的批准（一旦有空缺），但由于招聘冻结而没有给出实际的报价... 显然，该行业已经放缓了相当多的速度她是入门级软件开发人员，但她真的不知道该怎么做，也不知道如何在大多数帖子发布后几天内就有超过 100 名申请者时脱颖而出。  30 多岁，在不同的行业拥有良好的职业生涯，发现很难正式开始下一章，我想尽我所能帮助她完成这个过程......有什么建议吗？&lt; /p&gt;   由   提交 /u/calilazers   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bqa3i5/fishing_for_leads/</guid>
       <pubDate>Thu, 28 Mar 2024 23:27:27 GMT</pubDate>
     </item>
     <item>
       <title>我使用 Excel 构建了一个极其强大、以数据为主导的 CRM。</title>
       <link>https://www.reddit.com/r/software/comments/1bq7f2t/i_have_built_an_extremely_robust_data_led_crm/</link>
-      <description><![CDATA[大家好。我花了很多时间在自己的笔记本电脑上根据我现在和以前的雇主构建 CRM。这没有被要求，也没有人知道。它捕获大量数据点，可以提供数十个统计数据，这些统计数据可以轻松用于销售报告，但如果没有计算就无法可视化。 假设，如果我想将其包装到软件中，如何将其我做这个？我知道你可以获得基于 Excel 的软件，但我从未使用过类似的软件，也不知道它是如何工作的。   由   提交 /u/Jellyfishtaxidriver   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我花了很多时间在自己的笔记本电脑上根据我现在和以前的雇主构建 CRM。这没有被要求，也没有人知道。它捕获大量数据点，可以输出数十个统计数据，这些统计数据可以轻松用于销售报告，但如果没有计算就无法可视化。 假设，如果我想将其包装到软件中，如何将其我做这个？我知道你可以获得基于 Excel 的软件，但我从未使用过类似的软件，也不知道它是如何工作的。   由   提交 /u/Jellyfishtaxidriver   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bq7f2t/i_have_built_an_extremely_robust_data_led_crm/</guid>
       <pubDate>Thu, 28 Mar 2024 21:34:42 GMT</pubDate>
     </item>
     <item>
       <title>有没有跨平台的应用程序可以在手机上立即打开PC上的链接？</title>
       <link>https://www.reddit.com/r/software/comments/1bq6xyd/is_there_a_crossplatform_app_to_open_the_link/</link>
-      <description><![CDATA[大家好。我正在寻找一个可以立即在移动浏览器中打开页面的应用程序。现在我正在使用 Pocket，但它需要很多点击。我需要一个应用程序，点击后会立即打开智能手机上的链接，这是我工作所需的。当然，如果这样的应用程序存在的话。预先感谢您的回答。   由   提交 /u/aRheem0nd   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我正在寻找一个可以立即在移动浏览器中打开页面的应用程序。现在我正在使用 Pocket，但它需要大量点击。我需要一个应用程序，点击后会立即打开智能手机上的链接，这是我工作所需的。当然，如果这样的应用程序存在的话。预先感谢您的回答。   由   提交 /u/aRheem0nd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bq6xyd/is_there_a_crossplatform_app_to_open_the_link/</guid>
       <pubDate>Thu, 28 Mar 2024 21:15:17 GMT</pubDate>
     </item>
     <item>
       <title>适用于我的特定工作流程的 Notes 应用程序 - Macbook</title>
       <link>https://www.reddit.com/r/software/comments/1bq2jvx/notes_app_for_my_specific_workflowmacbook/</link>
-      <description><![CDATA[我正在寻找某种程序，可以在其中输入信息，并将其自动填充为可复制的段落格式。这可能看起来微不足道，但我花了很多时间不得不四处移动或单击不同的位置，并且我正在寻找可以通过 TAB 键浏览并填写这些字段的内容。我希望它能够知道，如果该字段中没有任何内容，那么它就不会填充到该段落中。这是一个例子。  ​ 如果我在指定字段中输入这些内容： Mrs_A_Mad 03/27/2024 01/01/01 Mr_A_Mad 我们在一个下雨的周日相识，在中央公园散步，他没有带伞，我共用我的，剩下的就是历史了。 我们离婚了，我恨他。 ​ 它会将其填充为我可以复制到我的工作计划。 姓名：Mrs_A_Mad 日期：2024 年 3 月 27 日 生日：2001 年 1 月 1 日 配偶： Mr_A_Mad 故事：我们在一个下雨的周日相遇，在中央公园散步，他没有带伞，我分享了我的，剩下的就是历史了。 最终想法：我们离婚了，我恨他。 ​ ​ 任何走到这一步并有任何想法的人我可以使用的程序会非常有帮助！   由   提交 /u/Mrs_A_Mad   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找某种程序，可以在其中输入信息，并将其自动填充为可复制的段落格式。这可能看起来微不足道，但我花了很多时间四处移动或单击不同的位置，并且我正在寻找可以通过 TAB 键浏览并填写这些字段的内容。我希望它能够知道，如果该字段中没有任何内容，那么它就不会填充到该段落中。这是一个例子。  ​ 如果我在指定字段中输入这些内容： Mrs_A_Mad 03/27/2024 01/01/01 Mr_A_Mad 我们是在一个下雨的周日认识的，在中央公园散步，他没有带伞，我共用我的，剩下的就是历史了。 我们离婚了，我恨他。 ​ 它会将其填充为我可以复制到我的工作计划。 姓名：Mrs_A_Mad 日期：2024 年 3 月 27 日 生日：2001 年 1 月 1 日 配偶： Mr_A_Mad 故事：我们在一个下雨的周日相遇，在中央公园散步，他没有带伞，我分享了我的，剩下的就是历史了。 最终想法：我们离婚了，我恨他。 ​ ​ 任何走到这一步并有任何想法的人我可以使用的程序会非常有帮助！   由   提交 /u/Mrs_A_Mad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bq2jvx/notes_app_for_my_specific_workflowmacbook/</guid>
       <pubDate>Thu, 28 Mar 2024 18:18:04 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Thu, 28 Mar 2024 16:21:50 GMT</pubDate>
     </item>
     <item>
-      <title>电子邮件客户端/插件（网络或桌面）可以有选择地隐藏或移动查看器中用户配置的文本？</title>
+      <title>电子邮件客户端/插件（Web 或桌面）可以有选择地隐藏或移动查看器中用户配置的文本？</title>
       <link>https://www.reddit.com/r/software/comments/1bpxdio/email_clientplugin_web_or_desktop_which_can/</link>
       <description><![CDATA[我对电子邮件最大的问题是，我从来没有掌握以视觉方式解析电子邮件中冗长的签名行和回复文本的窍门。 Web Gmail 在尝试启发式隐藏这些内容方面做得不错，但它不可配置，而且无论如何我都无法将它用于工作。 我知道几乎每个人的白痴 20 -row sig 行，这样我就可以列出它们，然后通过正则表达式找到它们，以及隐藏（或可能重新排列）转发的文本。但是我从未见过允许您执行此操作的电子邮件客户端或插件。  有没有什么东西可以做这样的事情？    由   提交 /u/wildgunman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bpxdio/email_clientplugin_web_or_desktop_which_can/</guid>
@@ -85,30 +106,9 @@
     <item>
       <title>管理电子邮件列表</title>
       <link>https://www.reddit.com/r/software/comments/1bpswaz/managing_email_list/</link>
-      <description><![CDATA[嘿大家.. 管理 15k 电子邮件地址的最佳软件/应用程序是什么。我只是希望我的所有部门集中他们的列表以避免重复和错误，而且重要的是，保持人员的详细信息更新。我需要有不同的访问级别/用户权限，授权一些人查看，一些人编辑，一些人限制查看我正在寻找一个免费软件 Outlook 集成从某种意义上说非常棒，允许人们一键将联系人发送到这个集中式数据库我不需要通过此软件发送电子邮件或创建潜在客户并开具发票等等 - - - 只是想管理电子邮件 请提前提出建议并致谢 &lt; !-- SC_ON --&gt;  由   提交 /u/jonathanklit   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们.. 管理 15k 电子邮件地址的最佳软件/应用程序是什么。我只是希望我的所有部门集中他们的列表，以避免重复和错误，而且重要的是，保持人员的详细信息更新。我需要有不同的访问级别/用户权限，授权一些人查看，一些人编辑，一些人限制查看我正在寻找一个免费软件 Outlook 集成从某种意义上说非常棒，允许人们一键将联系人发送到这个集中式数据库我不需要通过此软件发送电子邮件或创建潜在客户并开具发票等等 - - - 只是想管理电子邮件 请提前提出建议并致谢 &lt; !-- SC_ON --&gt;  由   提交 /u/jonathanklit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bpswaz/managing_email_list/</guid>
       <pubDate>Thu, 28 Mar 2024 11:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有比 Microsoft Word 更好的工具可以用于 PDF？</title>
-      <link>https://www.reddit.com/r/software/comments/1bpiaij/is_there_something_better_than_microsoft_word_i/</link>
-      <description><![CDATA[它似乎几乎不起作用，而且超级笨重。我只将它用于阅读模式，我厌倦了每次打开它时都被要求付费。    由   提交/u/Soggy-Regret-2937   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bpiaij/is_there_something_better_than_microsoft_word_i/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地照片整理软件</title>
-      <link>https://www.reddit.com/r/software/comments/1bpi6b7/local_photo_organizing_software/</link>
-      <description><![CDATA[大家好，我已经尝试在网络上搜索，但看来我可能不走运。我正在寻找一个本地、非云/基于订阅的软件，允许我使用标签、描述和标题对照片进行分类。多年来我拍了很多照片，但我真的没有办法轻松地取出一张照片，除非我确切地记得它放在哪个文件夹中。如果有一些东西可以让我搜索，那就太好了标签，甚至可能是描述，这样我就可以写下我当时在哪里的记忆。我不确定是否存在这样的东西。同样，我正在寻找也可以离线使用的东西。我不想仅仅为了查看自己的照片而开始另一个订阅。   由   提交/u/envelion  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bpi6b7/local_photo_organizing_software/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发包含 ML 输出的软件仪表板：客户保留/客户流失焦点</title>
-      <link>https://www.reddit.com/r/software/comments/1bpdu71/developing_a_software_dashboard_included_with_ml/</link>
-      <description><![CDATA[大家好，根据我上一篇文章的输入，我很想听听您对模型驱动应用程序的输入。根据 Microsoft 支持人员的互动，此论坛提供了一些更好的意见。 我想开发一个模型驱动的应用程序，重点关注客户保留和客户流失。使用的解决方案应该是不同行业中大多数公司都可以使用的解决方案，例如 Salesforce 或 Microsoft。（我知道，如果客户没有 Dynamics Customer Insights，那么我应该考虑成本、许可、SLA 等，在吸引客户时，这也是我一开始就努力保持低成本的原因。） 应包含的一些组件：  客户流失预测：输出流失风险值的机器学习预测。  客户保留：个性化优惠（次佳优惠） 一些简单的数据报告：显示流失风险评分、最大风险驱动因素、流失率、流失收入损失、等等（我知道这些组件非常容易做到）  这些是一些可以包含在开头的组件，当然，还有其他组件可以包含在内在浏览“竞争对手”的类似平台时会考虑，但一开始不一定需要。这主要是由于昂贵的解决方案，例如，我发现 Dynamics - Customer Insights 非常有前途，但销售起来可能太贵（仅许可费用为 1,500 美元/月）。  一些应用程序已根据上一篇文章的良好反馈列出并已排序：  Azure（它似乎已经准备好此解决方案使用实时分析进行客户流失预测 - Azure 解决方案创意 | Microsoft Learn) Microsoft Dynamics - 客户洞察 Salesforce Dataverse/PowerApps（可能太复杂：“在 PowerApps 中制定解决方案有点夸张，当所有这些现有的解决方案都可用”。） 显然还有一些可供企业使用的内部工具（Appsmith、Buildbase、Re-tool，以及一些来自 Github 的可重复使用工具）。  根据我的资源/能力：我还没有制作自己的软件，唯一的“相关”经验是Python和网页设计，所以它应该是低代码/无-代码解决方案。  由于其定价，我试图避开 Customer Insights（尽管我是它的忠实粉丝），因为计划我的解决方案的价格范围为 ~1,500-2,000 美元/月，客户洞察已经从这个价格点开始仅针对许可证。 所以我的问题是；我应该开始将所有注意力集中在 Azure 上，因为考虑到价格/功能/设置等，它似乎是最有前途的，或者是否有任何其他解决方案可以考虑（现在有了有关该项目的完整信息）？  在启动此类任务之前您还会考虑什么？  如果您已阅读到目前为止，感谢您抽出宝贵的时间。   由   提交 /u/ZenOILERS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bpdu71/developing_a_software_dashboard_included_with_ml/</guid>
-      <pubDate>Wed, 27 Mar 2024 21:38:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
