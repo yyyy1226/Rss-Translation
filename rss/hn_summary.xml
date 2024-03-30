@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 18:12:42 GMT</lastBuildDate>
     <item>
-      <title>标题：询问 HN：如何确保网站公开发布的安全</title>
-      <link>https://t.me/hn_summary/82068</link>
-      <description><![CDATA[询问 HN：如何确保网站公开发布的安全 
-标题：询问 HN：如何确保网站公开发布
+      <title>[媒体]中国战略性地利用外国公司引进技术和专门知识，最终 [...]</title>
+      <link>https://t.me/hn_summary/82093</link>
+      <description><![CDATA[中国利用外国公司来推动其工业发展
+中国战略性地利用外国企业引进技术和专业知识，最终促进国内产业发展，为中国企业参与全球竞争铺平道路。通过承诺进入利润丰厚的中国市场来吸引外国企业，中国成功地转让了技术并提高了国内企业的能力。这种方法在高速列车和太阳能制造等行业特别有效。苹果和特斯拉的案例进一步说明，中国对外资企业的支持和激励不仅让外资企业受益，也带动了中国本土产业的发展，在全球市场产生了连锁反应。]]></description>
+      <guid>https://t.me/hn_summary/82093</guid>
+      <pubDate>Sat, 30 Mar 2024 18:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>北欧新石器时代的形象表征——存在吗？</title>
+      <link>https://t.me/hn_summary/82092</link>
+      <description><![CDATA[北欧新石器时代的象征物——它们存在吗？
+本文探讨了北欧新石器时代缺乏象征性表征与东南欧发现的丰富象征材料的比较。作者认为，北部缺乏雕像可能是由于雕像的存在与聚落密度之间存在相关性。他们的目的是通过对材料进行全面的调查来验证或拒绝北欧新石器时代无图像的普遍观念。文章还讨论了中石器时代斯堪的纳维亚半岛南部的象征性表现，重点介绍了骨头、鹿角和琥珀文物上的抽象几何图案和有限的象征性描绘。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82092</guid>
+      <pubDate>Sat, 30 Mar 2024 18:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：Show HN：FaceLandmarks – ARKit Face Mesh Vertex Tool</title>
+      <link>https://t.me/hn_summary/82091</link>
+      <description><![CDATA[显示 HN：FaceLandmarks – ARKit 人脸网格顶点工具 
+标题：Show HN: FaceLandmarks – ARKit Face Mesh Vertex Tool
 
-希望推出具有 Google 地图 API 功能但担心安全性的网站？加入 Hacker News 上的讨论，作为一名开发人员从本地主机项目飞跃到上线。在寻求有关保护用户输入和管理恶意行为者的建议时，他们想知道第三方服务或从头开始学习是否是最好的方法。分享您的专业知识并帮助他们应对启动安全前端和后端网站的复杂性。加入对话并为社区的集体知识做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/82068</guid>
-      <pubDate>Sat, 30 Mar 2024 15:09:22 GMT</pubDate>
+您是否正在努力识别 ARKit 面部网格上的特定面部标志？别再犹豫了！我们的 FaceLandmarks 工具可让您轻松确定 3D 面部网格上自定义地标的确切顶点索引。只需单击一下，您就可以选择一个顶点并立即看到其索引和名称。该工具非常适合使用 ARKit 面部跟踪进行调试和开发。探索移动、旋转和缩放面部网格的完整控件。使用 FaceLandmarks 告别猜测并简化您的 AR 开发流程。立即访问 facelandmarks.com 进行查看。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/82091</guid>
+      <pubDate>Sat, 30 Mar 2024 18:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在美国，每 13 座桥梁就有 1 座状况“较差”，有 46,000 座桥梁面临风险 [...]</title>
-      <link>https://t.me/hn_summary/82067</link>
-      <description><![CDATA[美国每 13 座桥梁就有 1 座处于“较差”状态&lt; /a&gt;
-在美国，每 13 座桥梁就有 1 座状况“较差”，其中 46,000 座桥梁面临着一次撞击而倒塌的风险。巴尔的摩弗朗西斯·斯科特大桥最近的倒塌凸显了老化的基础设施在极端天气事件、重型卡车和大型集装箱船碰撞面前的脆弱性。尽管有结构缺陷的桥梁数量有所减少，但改善支出的速度却有所放缓，预计积压的维修费用为 1,250 亿美元。 2021 年通过的耗资 1.2 万亿美元的联邦基础设施法可能有助于解决其中一些问题，但需要采取紧急行动来保护桥梁免受现代船舶的影响。]]></description>
-      <guid>https://t.me/hn_summary/82067</guid>
-      <pubDate>Sat, 30 Mar 2024 15:04:19 GMT</pubDate>
+      <title>Landlock 是一个可堆叠的 LSM，允许进程限制环境权限，创建安全 [...]</title>
+      <link>https://t.me/hn_summary/82090</link>
+      <description><![CDATA[内锁：非特权访问控制
+Landlock 是一个可堆叠的 LSM，允许进程限制环境权限，创建安全沙箱以减轻用户空间应用程序中错误或恶意行为的影响。它使任何进程（包括非特权进程）能够安全地限制自身。通过使用文件系统和网络规则定义规则集，开发人员可以强制执行特定操作，同时拒绝其他操作。 Landlock 还提供了一种根据内核版本调整规则的方法，确保尽力而为的安全方法。一旦线程被内锁，其安全策略就无法删除，只能添加。良好实践包括设置对文件层次结构的访问权限，以实现自给自足和最少的数据访问。 （根据 55% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82090</guid>
+      <pubDate>Sat, 30 Mar 2024 17:57:24 GMT</pubDate>
     </item>
     <item>
-      <title>在“基本事项”中，作者分享了项目组织的关键原则，这些原则至关重要 [...]</title>
-      <link>https://t.me/hn_summary/82066</link>
-      <description><![CDATA[基本内容
-在“基本事项”中，作者分享了项目组织的关键原则，这些原则对于项目增长时的生产力至关重要。他们强调从一开始就拥有简洁的自述文件、结构化的开发人员文档和用户友好的网站的重要性。作者还讨论了自动化检查和可靠测试对于维护代码质量的重要性。引入的一个独特概念是代码审查过程的“非火箭科学规则”。本文强调了构建系统的简单性、可重复性和一致性的价值。总的来说，这些内容为开发人员提供了实用的见解，以简化他们的工作流程并提高项目效率。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82066</guid>
-      <pubDate>Sat, 30 Mar 2024 14:55:13 GMT</pubDate>
+      <title>在这篇博文中，我探索了由 Integrated Device Technology 构建的一款不寻常的 7400 系列芯片 [...]</title>
+      <link>https://t.me/hn_summary/82089</link>
+      <description><![CDATA[采用门阵列实现的不寻常的 7400 系列芯片
+在这篇博文中，我探索了一款由 Integrated Device Technology (IDT) 打造的不寻常的 7400 系列芯片，该芯片在浪费的矩阵设计中拥有超过 1500 个晶体管的复杂布局，超出了预期。尽管效率低下，该芯片还是使用门阵列布局实现了“1-of-4”解码器功能。我深入研究了芯片结构的细节，包括 NAND 和 NOR 门，并讨论了 7400 系列集成电路的历史背景。该芯片独特的门阵列设计选择凸显了芯片制造成本和效率之间的权衡。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82089</guid>
+      <pubDate>Sat, 30 Mar 2024 17:53:20 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：有人在工作中使用 Htmx 吗？</title>
-      <link>https://t.me/hn_summary/82065</link>
-      <description><![CDATA[询问 HN：有人在工作中使用 Htmx 吗？ 
-我最近在阅读 Hypermedia.systems 书并进行测试后开始探索 Htmx这是在一个小项目上完成的，我对此印象深刻。我很想知道是否有公司已经在工作中使用它，或者它是否只是一个业余项目工具。您是否遇到过 Htmx 的任何实际应用，或者您认为它有潜力在未来得到更广泛的采用？在此主题上与我分享您的想法和经验。]]></description>
-      <guid>https://t.me/hn_summary/82065</guid>
-      <pubDate>Sat, 30 Mar 2024 14:51:10 GMT</pubDate>
+      <title>AT&T 透露，包括社会安全号码在内的个人信息来自 7300 万立方米 [...]</title>
+      <link>https://t.me/hn_summary/82088</link>
+      <description><![CDATA[AT&amp;T 称 7300 万客户的个人信息在暗网上泄露
+AT&amp;T 透露，7300 万客户的个人信息（包括社会安全号码）在暗网上被泄露。泄漏源仍未知，调查仍在进行中。该数据集似乎来自 2019 年或更早，对当前和以前的账户持有人都有影响。尽管发生了泄密事件，AT&amp;T 表示没有证据表明其系统受到未经授权的访问。此次事件是在上个月发生的一次大范围停电之后发生的，由于内部错误，超过 70,000 名客户失去了手机服务。近几个月来，Verizon 和 T-Mobile 等其他通信公司也遭遇了数据泄露事件。]]></description>
+      <guid>https://t.me/hn_summary/82088</guid>
+      <pubDate>Sat, 30 Mar 2024 17:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一只名叫罗斯科的机器人警犬，隶属于马萨诸塞州警察拆弹小组，[...]</title>
-      <link>https://t.me/hn_summary/82064</link>
-      <description><![CDATA[机器人警犬射杀，避免流血事件&lt; br/&gt;
-一只名叫罗斯科的机器人警犬是马萨诸塞州警察拆弹小组的成员，它被认为避免了巴恩斯特布尔的一场悲剧。这只狗被部署到一所房子里，一名嫌疑人被封锁并配备了步枪。尽管身中三枪并致残，罗斯科仍提供了关键的房间清理和态势感知能力，避免了人类操作员进入危险的情况。机器狗背后的公司波士顿动力公司表示，这是他们的机器人第一次被枪击。该事件突显了 Spot 等移动机器人在危险情况下拯救生命的潜力。]]></description>
-      <guid>https://t.me/hn_summary/82064</guid>
-      <pubDate>Sat, 30 Mar 2024 14:47:07 GMT</pubDate>
+      <title>玛丽莎·梅耶尔 (Marissa Mayer) 的初创公司 Sunshine 因其看似 m [...]</title>
+      <link>https://t.me/hn_summary/82087</link>
+      <description><![CDATA[Marissa Mayer 的初创公司
+玛丽莎·梅耶尔 (Marissa Mayer) 的初创公司 Sunshine 提供的看似平凡的订阅软件（用于联系人管理、活动组织和照片共享）让互联网评论者感到困惑。尽管该应用程序的功能缺乏吸引力，但梅耶尔认为，以怀旧为主的老年群体为目标可能是明智之举。 Sunshine 强调简单性和隐私性，并承诺绝不出售客户数据。梅耶尔暗示了未来的视频共享计划，并对公司的潜力保持乐观。这家初创公司于 2020 年筹集了 2000 万美元的资金，主要是自筹资金，旨在通过人工智能让日常任务变得神奇。]]></description>
+      <guid>https://t.me/hn_summary/82087</guid>
+      <pubDate>Sat, 30 Mar 2024 17:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>在 REA 集团的 David Kemp 最近的一次演讲中，处理大型 nu [...]</title>
-      <link>https://t.me/hn_summary/82063</link>
-      <description><![CDATA[我的笔记本电脑比您的 Elastic 集群更快
-在 REA Group 的 David Kemp 最近的一次演示中，实现了在 realestate.com.au。使用弹性集群来存储属性并匹配已保存的搜索，该过程涉及将 5M 个已保存的搜索与 5K 个新属性进行匹配。令人惊讶的是，一台具有基本代码和优化的笔记本电脑仅使用 2GB RAM，就能在 6 秒内匹配所有属性。这种性能为执行类似任务提供了可能性，而无需专用集群，展示了现代计算机的速度和效率。]]></description>
-      <guid>https://t.me/hn_summary/82063</guid>
-      <pubDate>Sat, 30 Mar 2024 14:41:03 GMT</pubDate>
+      <title>曾经想过隐形吗？</title>
+      <link>https://t.me/hn_summary/82086</link>
+      <description><![CDATA[个人“隐形盾”开始销售，起价不到 70 美元
+曾经想过隐形吗？现在，您可以使用 Invisibility Shield Co 推出的新型 Invisibility Shield 2.0。这款消费者“隐形盾”有 Mini、Full 和 Megashield 尺寸可供选择，起价仅为 68 美元。该盾牌采用透明高级聚碳酸酯曲面片，并嵌入透镜来漫射光线并产生隐形的错觉。虽然它可能不适合透视，但它已被用于各种目的，例如隐藏在约会节目中、玩彩弹和观察野生动物。该护罩防水、可回收，并有不同尺寸可供选择，以满足您的需求。]]></description>
+      <guid>https://t.me/hn_summary/82086</guid>
+      <pubDate>Sat, 30 Mar 2024 17:26:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，最近的研究表明无效的 SMILES（简化的 Molecu [...]</title>
-      <link>https://t.me/hn_summary/82062</link>
-      <description><![CDATA[无效的 SMILES 对化学语言模型有益而不是有害
-令人惊讶的是，最近的研究表明，无效的 SMILES（简化分子输入线输入系统）实际上对化学语言模型是有益的，而不是有害的。这一有争议的发现挑战了传统假设，并为探索化学空间开辟了新的可能性。通过利用生成人工智能和片上合成，研究人员现在能够以前所未有的速度和准确性设计新型药物化合物。这种创新方法将分子结构和生物活性与化学语言模型相结合，正在彻底改变从头药物设计领域。请继续关注这一前沿研究领域令人兴奋的进展。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82062</guid>
-      <pubDate>Sat, 30 Mar 2024 14:34:59 GMT</pubDate>
+      <title>作者认为类型推断是一个错误，使代码更难阅读和编写。</title>
+      <link>https://t.me/hn_summary/82085</link>
+      <description><![CDATA[类型推断是一个错误
+作者认为类型推断是一个错误，使代码更难阅读和编写。虽然 Rust 和 Haskell 等一些语言需要一些注释，但 OCaml 强大的类型推断可能会导致令人沮丧的错误，与实际错误相去甚远。作者认为学术界对类型推断算法的关注是浪费的，他们更喜欢从类型推断代码，而不是反之亦然。他们建议使用类型作为生成代码的规范，而不是从代码推断类型。作者的观点挑战了类型推断至关重要的传统观点，提出了反对其使用的独特且发人深省的论点。]]></description>
+      <guid>https://t.me/hn_summary/82085</guid>
+      <pubDate>Sat, 30 Mar 2024 17:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>日食什么时候发生？</title>
-      <link>https://t.me/hn_summary/82061</link>
-      <description><![CDATA[日食什么时候发生？千年计算的故事
-2024 年 4 月 8 日，美国各地将可见日全食，但预测确切时间是科学的胜利。从古代巴比伦观测到现代 Wolfram 语言，计算日食的能力不断发展。 2000 年前的 Antikythera 装置甚至尝试使用金属齿轮来预测日食。日食的罕见性是由于月球的倾斜轨道以及与黄道面的对齐。通过研究古代记录和默冬周期等周期，天文学家已经能够以越来越高的精度预测数千年来的日食。 （根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82061</guid>
-      <pubDate>Sat, 30 Mar 2024 14:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom's Diner) 的创作和影响。</title>
-      <link>https://t.me/hn_summary/82060</link>
-      <description><![CDATA[汤姆的随笔 (2008)
-在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom&#39;s Diner) 的创作和影响。她讨论了这首歌背后的灵感、她现场表演这首歌的经历，以及让这首歌重新回到聚光灯下的意想不到的混音。 Vega 还分享了有关她的家庭与技术的关系以及她女儿早期熟练掌握 HTML 的轶事。通过个人故事和反思，她阐明了《汤姆的晚餐》的不朽遗产及其在音乐和技术世界中的地位。 （根据 35% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82060</guid>
-      <pubDate>Sat, 30 Mar 2024 14:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国联邦上诉法院推翻了塑料容器污染禁令 [...]</title>
-      <link>https://t.me/hn_summary/82059</link>
-      <description><![CDATA[美国上诉法院撤销对受 PFAS 污染的塑料容器的禁令
-美国一家联邦上诉法院推翻了对受有毒 PFAS 化学品污染的塑料容器的禁令，尽管这些“永久化学品”存在已知的健康风险。法院裁定，美国环保局无法根据所使用的法规对容器进行监管，因为制造工艺并不被认为是新的。这一决定是针对 Inhance 制造工艺长达四年的法律诉讼的一部分，该制造工艺已被发现将 PFAS 渗入产品中。美国环保署正在审查该决定，诉讼正在进行中，最高法院可能会介入。争议在于法院将经济影响置于健康风险之上的决定。]]></description>
-      <guid>https://t.me/hn_summary/82059</guid>
-      <pubDate>Sat, 30 Mar 2024 14:11:42 GMT</pubDate>
+      <title>AT&T 已确认数据泄露，影响了超过 760 万现有客户和 6500 万 [...]</title>
+      <link>https://t.me/hn_summary/82084</link>
+      <description><![CDATA[AT&amp;T 确认数据泄露并重置客户密码 
+AT&amp;T 已确认数据泄露事件影响了超过 760 万当前客户和 6500 万前客户，导致受影响用户的安全密码被重置。泄露的信息可能包括敏感详细信息，例如社会安全号码和帐户密码。该公司正在联系受影响的客户，告知他们此次违规行为，并提供来自信用机构的免费欺诈警报。该违规行为于 2021 年首次被报道，但 AT&amp;T 在收到 TechCrunch 通知后才承认此事。泄露的数据不包含财务信息或通话记录，该公司正在与网络安全专家合作解决这一问题。]]></description>
+      <guid>https://t.me/hn_summary/82084</guid>
+      <pubDate>Sat, 30 Mar 2024 17:17:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
