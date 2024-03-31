@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 18:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 21:04:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在《自然》杂志上发表的一项开创性研究中，研究人员发现中性 [...]</title>
-      <link>https://t.me/hn_summary/82228</link>
-      <description><![CDATA[中子星喷流以三分之一光速移动
-在《自然》杂志上发表的一项开创性研究中，研究人员发现中子星喷流的移动速度是光速的三分之一，这一惊人的发现揭示了这些强大宇宙束的发射机制。通过使用宇宙“测速相机”测量这些喷流的速度，科学家们对中子星及其喷流的行为有了令人惊讶的见解。这项研究为理解这些现象背后的物理原理开辟了新的可能性，并为进一步研究宇宙之谜铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/82228</guid>
-      <pubDate>Sun, 31 Mar 2024 18:18:48 GMT</pubDate>
+      <title>[媒体]Ocrs 是一个 Rust 库和 CLI 工具，设计用于使用 Opt [...]</title>
+      <link>https://t.me/hn_summary/82250</link>
+      <description><![CDATA[Ocrs：用于从图像中提取文本的 Rust 库和 CLI 工具
+Ocrs 是一个 Rust 库和 CLI 工具，设计用于使用光学字符识别 (OCR) 从图像中提取文本。该项目旨在创建一个现代 OCR 引擎，该引擎能够以最少的预处理在各种类型的图像上运行良好，易于在不同平台上编译和运行，并在开放数据集上进行训练。它的与众不同之处在于，它在管道中广泛使用机器学习，使用在 PyTorch 中训练并使用 RTen 引擎执行的神经网络模型。目前支持拉丁字母，该项目计划在未来增加对更多语言的支持。该项目处于早期预览阶段，与商业 OCR 引擎相比，预计会出现更多错误。]]></description>
+      <guid>https://t.me/hn_summary/82250</guid>
+      <pubDate>Sun, 31 Mar 2024 21:04:34 GMT</pubDate>
     </item>
     <item>
-      <title>标志性的莉娜 (Lena) 图像是从《花花公子》插页中剪下来的，一直是图像处理的主要内容 [...]</title>
-      <link>https://t.me/hn_summary/82227</link>
-      <description><![CDATA[IEEE 从 4 月 1 日起不再接受包含提交内容的 Lena 图像&lt; /a&gt;
-标志性的莉娜 (Lena) 图像是从《花花公子》插页剪裁而成的，50 多年来一直是图像处理的主要内容。然而，电气和电子工程师协会 (IEEE) 决定从 4 月 1 日起不再接受包含该图像的提交内容。这一决定是在多个组织呼吁废除该图像后作出的，因为该图像的起源及其对该领域性别平等的影响。照片中的模特莉娜·福森 (Lena Forsén) 也表达了她希望这张照片退役的愿望。尽管具有历史意义，但莉娜图像在学术研究领域的日子似乎已经屈指可数了。]]></description>
-      <guid>https://t.me/hn_summary/82227</guid>
-      <pubDate>Sun, 31 Mar 2024 18:14:44 GMT</pubDate>
+      <title>[媒体] 欢迎来到 Taws - Amiga 工作台！</title>
+      <link>https://t.me/hn_summary/82249</link>
+      <description><![CDATA[Taws – Amiga 工作台
+欢迎来到 Taws - Amiga 工作台！该网站致力于 Amiga 的所有内容，重点关注标志性的 Workbench 操作系统。探索 Amiga Workbench 的历史、特性和功能，并了解它如何彻底改变计算世界。从可定制的界面到强大的多任务处理功能，Amiga Workbench 仍然是复古计算爱好者喜爱的平台。加入我们，深入探索 Amiga 的世界，庆祝这一突破性操作系统的遗产。无论您是经验丰富的 Amiga 用户还是新手，这里都能满足每个人的需求。立即探索 Taws，体验 Amiga Workbench 的魔力！]]></description>
+      <guid>https://t.me/hn_summary/82249</guid>
+      <pubDate>Sun, 31 Mar 2024 20:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>芝加哥大学的科学家们开发出了一种突破性的类似太阳能电池板的起搏器 [...]</title>
-      <link>https://t.me/hn_summary/82226</link>
-      <description><![CDATA[光驱动起搏器：新研究
-芝加哥大学的科学家开发出了一种突破性的类似太阳能电池板的起搏器，可以精确控制心跳，而不需要电池。这种超薄设备由光驱动，可贴合心脏的轮廓，并消除了与传统起搏器相关的风险。该装置已成功植入啮齿动物和猪体内，显示出用于人类的前景。虽然该技术仍在不断完善以供长期使用，但研究人员对其彻底改变心脏护理并扩展到神经刺激和疼痛管理等其他医疗应用的潜力持乐观态度。]]></description>
-      <guid>https://t.me/hn_summary/82226</guid>
-      <pubDate>Sun, 31 Mar 2024 18:10:40 GMT</pubDate>
+      <title>[媒体] Mistral-7B-Instruct-v0.2 大型语言模型 (LLM) 是一个经过微调的指令 [...]</title>
+      <link>https://t.me/hn_summary/82248</link>
+      <description><![CDATA[米斯特拉尔 7B v0.2
+Mistral-7B-Instruct-v0.2 大语言模型 (LLM) 是 Mistral-7B-v0.2 的指令微调版本，具有 32k 上下文窗口、1e6 的绳索 -theta，并且无滑动窗口注意。要利用指令微调，提示应包含在 INST 和 /INST 标记中。该模型展示了令人印象深刻的性能，但缺乏调节机制，促使团队寻求社区的意见来实施护栏以实现更受控制的输出。 Mistral AI 团队由一群致力于推进语言模型的多元化人员组成。为了排除故障，可能需要从源头安装变压器。]]></description>
+      <guid>https://t.me/hn_summary/82248</guid>
+      <pubDate>Sun, 31 Mar 2024 20:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的 SpaceCadetPinball 项目专注于对 Wind 的 3D Pinball 进行逆向工程 [...]</title>
-      <link>https://t.me/hn_summary/82225</link>
-      <description><![CDATA[告诉 HN：Windows 3D Pinball（太空学员） 
-GitHub 上的 SpaceCadetPinball 项目专注于对 Windows 版 3D Pinball - Space Cadet 游戏进行逆向工程。它允许用户通过将编译后的可执行文件放入包含原始游戏资源的文件夹中来玩游戏。该项目支持来自 Windows 和 Full Tilt 版本游戏的数据文件，并为各种平台提供源端口。该项目的独特之处在于其全面覆盖桌面 Windows、Linux 和 macOS 等平台，以及使用 Ghidra、Ida 和 Visual Studio 等工具进行反编译和编译。该项目还计划进行未来的增强功能，例如可调整窗口大小、本地化支持和潜在的游戏数据编辑。]]></description>
-      <guid>https://t.me/hn_summary/82225</guid>
-      <pubDate>Sun, 31 Mar 2024 18:06:37 GMT</pubDate>
+      <title>厌倦了被 RSS 源淹没？</title>
+      <link>https://t.me/hn_summary/82247</link>
+      <description><![CDATA[显示 HN：RSS 过滤器
+厌倦了被 RSS 源淹没？隆重推出 rssfilter，这是一种使用机器学习根据您阅读的内容推荐文章的工具。只需上传您的 OPML 文件并让它完成过滤噪音的工作。告别无休止的滚动，迎接更加个性化的阅读体验。请访问 rssfilter.sgn.space 并开始享受今天有一个更精心策划的提要。欢迎提供反馈，因此如有任何问题或建议，请随时与我们联系。]]></description>
+      <guid>https://t.me/hn_summary/82247</guid>
+      <pubDate>Sun, 31 Mar 2024 20:44:20 GMT</pubDate>
     </item>
     <item>
-      <title>《人类半球》（2015）是对世界的独特且发人深省的探索，通过 [...]</title>
-      <link>https://t.me/hn_summary/82224</link>
-      <description><![CDATA[人类半球 (2015)
-《人类半球》（2015）是通过人口分布的视角对世界进行的独特且发人深省的探索。该项目利用创新的测绘技术，深入研究人文地理学的复杂性，突出不同地区之间的差异和联系。该内容的争议之处在于其对人口密度和人类活动对环境影响的考察。网站上框架的使用可以提供互动和引人入胜的体验，使其成为任何有兴趣以新方式了解世界的人的必访之地。]]></description>
-      <guid>https://t.me/hn_summary/82224</guid>
-      <pubDate>Sun, 31 Mar 2024 18:02:32 GMT</pubDate>
+      <title>在数字时代，身份和隐私是必须受到保护的基本人权。</title>
+      <link>https://t.me/hn_summary/82246</link>
+      <description><![CDATA[保护身份和隐私：数字时代的基本人权
+在数字时代，身份和隐私是必须受到保护的基本人权。在联合国人权日 75 周年即将到来之际，反思这些权利的重要性至关重要。身份对于自我表达和参与社会至关重要，而隐私则确保对个人信息的控制。保护这些权利是一项巨大的挑战，需要倡导、透明度和强有力的数据保护法。作者 Hannah Sutor 是数字身份和隐私的热情倡导者，她邀请其他人与她一起为所有人创造一个更安全的数字环境。]]></description>
+      <guid>https://t.me/hn_summary/82246</guid>
+      <pubDate>Sun, 31 Mar 2024 20:38:17 GMT</pubDate>
     </item>
     <item>
-      <title>在《当细菌美丽时》中，微生物学家 Tal Danino 和艺术家 Vik Muniz 探索了 [...]</title>
-      <link>https://t.me/hn_summary/82223</link>
-      <description><![CDATA[当细菌美丽时
-在《当细菌美丽时》中，微生物学家塔尔·达尼诺和艺术家维克·穆尼兹探索了细菌的美感，挑战了人们对这些微生物的普遍看法。通过令人惊叹的照片和文章，达尼诺展示了细菌复杂的图案和颜色，强调了它们作为艺术作品过程中合作者的独特作用。这本书深入探讨了微生物世界的复杂性，激发了人们对这些经常被误解的生物体的好奇和欣赏。达尼诺讨论了细菌在艺术和科学中的潜力，强调需要了解它们对健康和疾病的影响。这本书鼓励读者通过可用的工具和技术探索细菌之美，弥合科学与艺术之间的差距。]]></description>
-      <guid>https://t.me/hn_summary/82223</guid>
-      <pubDate>Sun, 31 Mar 2024 17:58:28 GMT</pubDate>
+      <title>谷歌找到了一种方法来破坏 Invidious，一个流行的 YouTube 前端，导致视频播放 [...]</title>
+      <link>https://t.me/hn_summary/82245</link>
+      <description><![CDATA[YouTube：Google 找到了破解 Invidious 的方法 
+谷歌找到了一种方法来破坏流行的 YouTube 前端 Invidious，从而导致用户出现视频播放问题。该错误已被确认，但尚未修复。谷歌此举被视为增加收入并锁定替代品的尝试，这些替代品因其无广告和无跟踪的体验而受到注重隐私的用户的青睐。通过替代前端访问 YouTube 的未来仍不确定，谷歌可能会进一步限制。请继续关注这一事态发展的最新动态。]]></description>
+      <guid>https://t.me/hn_summary/82245</guid>
+      <pubDate>Sun, 31 Mar 2024 20:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>在“Typesetting the LaTeX Way”中，作者讨论了他们对文本外观的痴迷以及 [...]</title>
-      <link>https://t.me/hn_summary/82222</link>
-      <description><![CDATA[排版 LaTeX 方式（2013）
-在《LaTeX 排版方式》中，作者讨论了他们对文本外观的痴迷以及对 LaTeX 排版的热爱。他们重点介绍了两个项目，将计算机现代字体引入网络，并实现受 Knuth 和 Plass 启发的 JavaScript 连字符算法。作者展示了使用这些工具的前后效果，显示了文本对齐方面的显着改进。虽然连字算法可能无法完美地处理嵌套 HTML，但它仍然提供了一个不错的近似值。总的来说，作者发现这些变化为其网站的文本注入了新的活力，展示了确认偏见的力量。]]></description>
-      <guid>https://t.me/hn_summary/82222</guid>
-      <pubDate>Sun, 31 Mar 2024 17:54:23 GMT</pubDate>
+      <title>[媒体]在缓步动物（也称为水熊虫）中发现的蛋白质在缓慢 [...]</title>
+      <link>https://t.me/hn_summary/82244</link>
+      <description><![CDATA[小细胞研究发现缓步动物蛋白可以减缓人类衰老
+在缓步动物（也称为水熊虫）中发现的蛋白质已显示出减缓人类细胞衰老过程的潜力。这些蛋白质可以将人体细胞转变为假死状态，类似于缓步动物在极端条件下的生存方式。该研究表明，这一发现可能会带来减缓衰老、改进细胞疗法和增强储存方法的新技术。研究人员还发现，这个过程是可逆的，一旦压力缓解，细胞就会恢复正常的新陈代谢。这项开创性的研究为理解和操纵人类衰老过程开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/82244</guid>
+      <pubDate>Sun, 31 Mar 2024 20:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>蒙古元是对蒙古文化和社会新兴趋势的开创性研究 [...]</title>
-      <link>https://t.me/hn_summary/82221</link>
-      <description><![CDATA[蒙古元
-蒙古元是对蒙古文化和社会新兴趋势的开创性研究。本研究通过对艺术、音乐、时尚、技术等各个方面的综合分析，揭示了蒙古独特而充满活力的文化景观。从传统影响到现代创新，蒙古元探索了这个快速发展的社会中新旧的融合。有争议的是，它还深入探讨了蒙古在全球化和现代化进程中所面临的挑战和争议。启用 JavaScript 来解锁蒙古元的迷人见解。]]></description>
-      <guid>https://t.me/hn_summary/82221</guid>
-      <pubDate>Sun, 31 Mar 2024 17:50:19 GMT</pubDate>
+      <title>希望快速过滤数据？</title>
+      <link>https://t.me/hn_summary/82243</link>
+      <description><![CDATA[Python 中快速简洁的概率过滤器
+希望快速过滤数据？考虑使用概率滤波器，例如二元熔丝滤波器，它比布隆滤波器更小、更快。 Python 中的 pyxorfilter 模块提供了这些过滤器的实现，Fuse8 使用 Fuse16 一半的内存。通过查询随机输入，您可以估计误报率并确保过滤器的准确性。虽然 pyxorfilter 仍处于早期阶段，并且可能在 macOS 和 Windows 上存在安装问题，但经验丰富的 Python 黑客可以帮助解决这些问题。如果您不喜欢 Python，那么其他语言（如 Go、C、C++、Zig 和 Rust）也提供异或和二进制熔丝过滤器。]]></description>
+      <guid>https://t.me/hn_summary/82243</guid>
+      <pubDate>Sun, 31 Mar 2024 20:26:04 GMT</pubDate>
     </item>
     <item>
-      <title>本文深入探讨了阿尔迪的品牌战略，特别关注子品牌 [...]</title>
-      <link>https://t.me/hn_summary/82220</link>
-      <description><![CDATA[罐间距
-本文深入探讨了阿尔迪的品牌战略，特别关注快乐收获、Casa Mamita 和 Savoritz 等子品牌。这些子品牌充当占位符，故意平庸和自我否定，传达出最小的努力和平淡的存在，以表明没有营销和广告成本。该作品还探讨了青少年亚文化的衰落和短暂的网络美学，质疑网络和现实生活社交之间的区别。它挑战了网络美学缺乏真实性和根源的观念，表明网络身份实践和亚文化身份是不同的活动，不应进行比较。最终，它提出了关于数字时代品牌、身份形成和文化归属的本质的发人深省的问题。]]></description>
-      <guid>https://t.me/hn_summary/82220</guid>
-      <pubDate>Sun, 31 Mar 2024 17:46:15 GMT</pubDate>
+      <title>[媒体]Google 开发人员发现，使用 Rust 使他们的工作效率是 C++ 的两倍。</title>
+      <link>https://t.me/hn_summary/82242</link>
+      <description><![CDATA[Google 的 Rust 开发人员的工作效率是 C++ 团队的两倍
+Google 开发人员发现，使用 Rust 的效率是 C++ 的两倍。尽管最初对该语言的可靠性和安全性存有疑虑，但由于对软件安全性的重大影响，向 Rust 等内存安全语言的转变正在获得动力。尽管 C++ 拥护者有所反对，但采用 Rust 的好处在减少内存使用、降低缺陷率和提高正确性方面是显而易见的。 Google 的经验表明，从 C++ 过渡到 Rust 可以将构建和维护服务所需的工作量减少 2 倍以上，从而使 Rust 成为大型代码库的一个令人信服的选择。]]></description>
+      <guid>https://t.me/hn_summary/82242</guid>
+      <pubDate>Sun, 31 Mar 2024 20:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：有人从人工智能代理中获得价值吗？</title>
-      <link>https://t.me/hn_summary/82219</link>
-      <description><![CDATA[询问 HN：有人从人工智能代理中获得价值吗？怎么会这样？
-作者对人工智能代理在工作流程中的当前价值感到好奇，特别是在利用专门模型进行决策方面。尽管最初的热潮逐渐消退，但该领域仍有正在进行的项目。作者正在寻求社区关于如何利用人工智能代理以及它们是否值得进一步探索的反馈。这凸显了各行业对人工智能代理有效性的持续争论和兴趣。]]></description>
-      <guid>https://t.me/hn_summary/82219</guid>
-      <pubDate>Sun, 31 Mar 2024 17:42:11 GMT</pubDate>
+      <title>【媒体】互联网发展的关键人物丹·林奇去世了。</title>
+      <link>https://t.me/hn_summary/82241</link>
+      <description><![CDATA[丹·林奇去世（SRI、阿帕网、互联网）
+互联网发展的关键人物丹·林奇去世了。林奇以其才智和独立精神而闻名，他在推动 TCP/IP 协议在全球的采用和推动互联网的商业成功方面发挥了至关重要的作用。从他的军事生涯到他在 SRI 的工作以及首届 INTEROP 会议的创建，林奇对互联网的影响是不可否认的。尽管在商业上遇到了一些挫折，但他的遗产在现代互联网的无缝运行和他培养的无数技术专家中得以延续。丹·林奇独特的技术和商业方法在数字世界留下了持久的印记。]]></description>
+      <guid>https://t.me/hn_summary/82241</guid>
+      <pubDate>Sun, 31 Mar 2024 20:10:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
