@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 12:31:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 15:17:30 GMT</lastBuildDate>
     <item>
-      <title>Winglang：专为云构建的开源语言</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bs94lw/winglang_an_opensource_language_built_for_the/</link>
-      <description><![CDATA[我一直在为 Winglang 做出贡献并思考我会分享。 他们的语言与 TypeScript 非常相似（他们也支持 TypeScript），因此很容易学习。 查看 GitHub 存储库位于此处 并帮助塑造这种语言   由   提交 /u/SamIAmDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bs94lw/winglang_an_opensource_language_built_for_the/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:20:08 GMT</pubDate>
+      <title>企业 IT 中的开源支持方法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</link>
+      <description><![CDATA[嗨， 尝试了解企业如何维持对不提供此功能的开源工具/产品的支持。 曾经在一家企业中，他们只是雇用开源项目的开发人员来完成特定任务，有时当需要专业知识/故障排除时，顺便说一句，他们不知道如何找到免费的开发人员？！这是对开源社区的贡献吗？ 您的方法是什么，特别是在预算紧张的情况下？ 谢谢  &amp;# 32；由   提交 /u/gnumaro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</guid>
+      <pubDate>Sun, 31 Mar 2024 15:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写了一个 GUI 应用程序来完全或选择性地下载频道和播放列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bs9d98/wrote_a_gui_app_to_entirely_or_selectively/</link>
+      <description><![CDATA[YT Channel Downloader 0.3.1 是一款直观的桌面应用程序，旨在简化 YouTube 内容的下载过程。利用 yt-dlp、pytube 和 scrapetube 的稳健性，并通过现代 PyQt 6 GUI 进行丰富，这个跨平台工具提供了无缝体验，可以高效、简单地下载您喜爱的内容。您还可以下载视频的音频版本，选择首选质量、格式等。 https:// /github.com/hyperfield/yt-channel-downloader 我希望得到一些意见：如果您发现此应用程序有用，您希望看到哪些功能和改进，等等。&lt; /p&gt;   由   提交 /u/ph0tone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bs9d98/wrote_a_gui_app_to_entirely_or_selectively/</guid>
+      <pubDate>Sun, 31 Mar 2024 12:33:15 GMT</pubDate>
     </item>
     <item>
       <title>[Dev] 开源储蓄跟踪应用程序，具有干净漂亮的 UI 🌟</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[Librum 是一个现代、开源和跨平台的电子阅读平台，可在任何设备上存储、管理和阅读电子书：https://github.com/Librum-Reader/Librum。 我们刚刚发布了 0.12.2 版本（ https://github.com/Librum-Reader/Librum/releases/tag/v。 0.12.2）添加了许多新的更改，包括新功能、错误修复和重大改进。 实现我们的使命，让 Librum 成为满足您所有电子书需求的平台，我们已将工具添加到应用程序中。我们将在即将发布的版本中添加许多工具，但现在您可以： - 将多本书合并在一起 - 从书中提取页面 - 将图像转换为 PDF 我们引入了许多其他重大改进并修复了许多错误，以确保提供出色的体验！要了解我们的所有更改，请查看或博客 (https://librumreader.com/posts? id=81f2555b-efba-4656-be81-246bbcbfdb87)！ 如果您想支持Librum的开发，请访问https://librumreader.com/contribute 或考虑成为 Github 赞助商 ❤️   由   提交 /u/Creapermann   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1br44nq/librum_a_modern_ebook_reader_v0122_release/</guid>
       <pubDate>Sat, 30 Mar 2024 00:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>配置文件验证器 v1.6.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1br0e2k/configfilevalidator_v160_released/</link>
-      <description><![CDATA[用于验证所有配置文件语法的跨平台工具。 此版本中的许多更改：  支持 11 种配置文件格式 按文件类型、通过/失败或目录对输出进行分组 将结果输出到 json 或 junit，以便更好地与 CI 工具集成  每个功能更改都是由开源贡献者做出的。感谢所有贡献者！ https://github.com /Boeing/config-file-validator/releases/tag/v1.6.0   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1br0e2k/configfilevalidator_v160_released/</guid>
-      <pubDate>Fri, 29 Mar 2024 21:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
