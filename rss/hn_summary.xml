@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 01:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:11:32 GMT</lastBuildDate>
     <item>
-      <title>Aurora Innovation 和 Ko [...] 的自动驾驶半挂卡车正在彻底改变美国的高速公路。</title>
-      <link>https://t.me/hn_summary/82289</link>
-      <description><![CDATA[自动驾驶半挂卡车即将驶入美国高速公路
-自动驾驶半卡车正在彻底改变美国的高速公路，Aurora Innovation 和 Kodiak Robotics 将于今年年底在德克萨斯州推出全自动卡车。虽然这项技术有望简化供应链并减少运输时间，但对高速公路安全、失业和联邦监管的担忧也日益凸显。尽管有潜在的好处，批评者还是担心自动卡车的安全影响，尤其是在意外情况下。随着 Aurora 和 Kodiak 等公司不断前进，有关自动卡车运输未来的争论仍在继续，联邦监管落后于技术进步的快速步伐。]]></description>
-      <guid>https://t.me/hn_summary/82289</guid>
-      <pubDate>Mon, 01 Apr 2024 01:22:08 GMT</pubDate>
+      <title>标题驱动的发展</title>
+      <link>https://t.me/hn_summary/82320</link>
+      <description><![CDATA[标题驱动开发
+www.spakhm.com 上的“头条驱动开发”介绍交付软件项目的独特方法。通过将项目分解为简洁的标题，并积极努力在每个标题的最后期限内完成任务，团队可以有效地确定优先顺序并传达进展情况。这种方法利用人类处理变化的方式和截止日期效应来简化开发和交付。通过一次只关注一个标题并削减不必要的功能，团队可以有效地交付项目，而不需要传统的敏捷方法。这种有争议但有效的方法挑战了现状，并为项目管理提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/82320</guid>
+      <pubDate>Mon, 01 Apr 2024 09:11:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，作者讨论了 1984 年的 Data General/One 笔记本电脑，强调 [...]</title>
-      <link>https://t.me/hn_summary/82288</link>
-      <description><![CDATA[翻新周末：Data General/One（以及最差的 LCD）世界）
-在这篇博文中，作者讨论了 1984 年的 Data General/One 笔记本电脑，重点介绍了其创新功能，例如完整的 80x25 或 CGA 640x200 LCD 和内置调制解调器。作者详细介绍了便携式 PC 的历史以及 Data General 在竞争激烈的市场中面临的挑战。还探讨了 DG-1 的独特设计元素，例如定制键盘和毛绒手提箱。围绕 DG-1 液晶显示屏易读性差的争议是一个主要焦点，作者讨论了为解决这一问题而进行的升级。作者详细介绍了 DG-1 的端口和扩展选项，展示了其独特的设计和功能。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82288</guid>
-      <pubDate>Mon, 01 Apr 2024 01:12:54 GMT</pubDate>
+      <title>[媒体]先生，别那么快。</title>
+      <link>https://t.me/hn_summary/82319</link>
+      <description><![CDATA[别那么快，傅里叶先生
+离散傅里叶变换 (DFT) 是现代计算中的关键算法，用于图像和音频处理、机器学习和数据压缩等各种应用。然而，它往往没有得到很好的解释，让许多人感到困惑。在本文中，作者旨在通过以简单易懂的方式分解 DFT 的工作原理来揭开 DFT 的神秘面纱。作者通过旋转手臂绘制形状和动画等类比，解释了DFT如何将时域波形转换为频域数据。文章还深入探讨了 DFT 的局限性，例如奈奎斯特频率和频率分离问题。总的来说，本文对 DFT 算法提供了清晰而富有洞察力的解释。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82319</guid>
+      <pubDate>Mon, 01 Apr 2024 08:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]供应链安全编程语言在哪里？</title>
-      <link>https://t.me/hn_summary/82287</link>
-      <description><![CDATA[供应链安全编程语言在哪里？&lt; br /&gt;
-在博客文章“供应链安全编程语言在哪里？”作者讨论了当前编程语言缺乏针对供应链攻击的防御措施。作者重点介绍了最近的 xz-utils 后门事件，强调了通过未经审核的依赖项构建软件的危险。这篇文章探讨了现有语言在隔离组件方面的局限性，并提出了供应链安全编程语言的概念。这些语言将提供组件的默认隔离，可能深入到功能级别，以防止恶意行为。作者承认面临的挑战，但相信供应链安全语言对于软件开发的未来是必要的。]]></description>
-      <guid>https://t.me/hn_summary/82287</guid>
-      <pubDate>Mon, 01 Apr 2024 01:11:51 GMT</pubDate>
+      <title>现在，德国 18 岁以上成年人吸食大麻是合法的，允许持有最多 25 克大麻 [...]</title>
+      <link>https://t.me/hn_summary/82318</link>
+      <description><![CDATA[吸食大麻现在在德国合法
+现在，德国 18 岁以上成年人吸食大麻是合法的，允许拥有最多 25 克干大麻并在家中种植最多三种植物。新法律旨在打击隐藏市场并保护年轻人免受受污染的大麻的侵害。然而，批评者担心，更容易获得大麻将使青少年的大麻使用正常化并增加。政府计划对年轻人进行风险教育，但一些人怀疑媒体宣传的有效性。随着德国在大麻合法化这一有争议的领域中前进，世界各地的观察家将密切关注德国新立法的影响。]]></description>
+      <guid>https://t.me/hn_summary/82318</guid>
+      <pubDate>Mon, 01 Apr 2024 08:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文《Do be do be do》中，作者 Sam Lindley、Conor McBride 和 Craig McLaughli [...]</title>
-      <link>https://t.me/hn_summary/82286</link>
-      <description><![CDATA[Do Be Do Be Do (2017) [pdf](https: //news.ycombinator.com/item?id=39881815)
-在论文“Do be do be do”中，作者 Sam Lindley、Conor McBride 和 Craig McLaughlin 介绍了 Frank，一种具有双向效果类型系统的严格函数式编程语言。 Frank 通过概括函数抽象本身的机制，消除了对额外效果处理构造的需要。这允许多处理程序同时解释来自多个源的命令。 Frank 中效果多态性的新颖形式避免了在源代码中提及效果变量。本文提供了 Frank 的实际示例，对类型系统和语义的正式说明，并探讨了使用效果和处理程序进行编程的未来可能性。]]></description>
-      <guid>https://t.me/hn_summary/82286</guid>
-      <pubDate>Mon, 01 Apr 2024 01:10:47 GMT</pubDate>
+      <title>本文深入研究了超级任天堂的硬件组件，重点关注 [...]</title>
+      <link>https://t.me/hn_summary/82317</link>
+      <description><![CDATA[超级任天堂之心
+本文深入研究了超级任天堂的硬件组件，重点关注 CLK 发生器在设定系统中各种处理器的速度方面的重要性。作者探讨了文档中有关振荡器数量和频率的差异，发现了调节 CPU/PPU 频率的可变电容器。本文还讨论了使用分频器创建新时钟以及 SYS-CLK 系列在允许盒式磁带嵌入增强芯片方面的重要性。有关 StarFox 和 Megaman 2 等特定游戏的琐事为技术分析增添了独特的触感。]]></description>
+      <guid>https://t.me/hn_summary/82317</guid>
+      <pubDate>Mon, 01 Apr 2024 08:14:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在中国偏远的贵州省，中东村是最后一个洞穴聚居地，这里是最后一个洞穴聚居地。</title>
-      <link>https://t.me/hn_summary/82285</link>
-      <description><![CDATA[整个城镇隐藏在750英尺深的巨大洞穴中，居民拒绝移动
-中国偏远的贵州省有一个中东村，这里是最后一个洞穴定居点，尽管面临与世隔绝的挑战，仍有 18 个家庭拒绝离开。他们是苗族后裔，在750英尺深的山洞里生活了70年，靠柴火做饭取暖。他们与世隔绝，自己种植庄稼，饲养牲畜出售，孩子们则要踏上两个小时的路程去接受教育。政府在山下提供了混凝土住房，但村民们更喜欢他们独特的竹屋。尽管困难重重，他们还是希望能有公路通来改善他们的生活。]]></description>
-      <guid>https://t.me/hn_summary/82285</guid>
-      <pubDate>Mon, 01 Apr 2024 00:51:40 GMT</pubDate>
+      <title>[媒体] 研究人员最近发现了 xz Utils 中的后门，这是一种广泛使用的数据压缩 [...]</title>
+      <link>https://t.me/hn_summary/82316</link>
+      <description><![CDATA[我们对几乎感染全世界的 xz Utils 后门了解多少&lt; /a&gt;
+研究人员最近发现了 xz Utils 中的后门，xz Utils 是 Linux 和类 Unix 系统中广泛使用的数据压缩实用程序。该后门几乎被合并到主要的 Linux 发行版中，允许使用 root 权限进行远程访问。攻击者使用用户名 JiaT575，随着时间的推移进行了微妙的更改以引入后门。这次攻击非常复杂，针对特定系统并使用巧妙的技术来隐藏自己。贾坦的身份仍然是个谜，引发了人们对开源软件安全性的担忧。此事件凸显了供应链攻击的潜在风险以及彻底的代码审查流程的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82316</guid>
+      <pubDate>Mon, 01 Apr 2024 08:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Linux 基金会正在托管 Valkey，它是 Redis 的一个分支，由 AWS、Google Cloud 提供支持，[...]</title>
-      <link>https://t.me/hn_summary/82284</link>
-      <description><![CDATA[为什么 AWS、Google 和 Oracle 支持 Valkey Redis 分支
-Linux 基金会正在托管 Valkey，它是 Redis 的一个分支，由 AWS、Google Cloud、Oracle、Ericsson 和 Snap 提供支持。 Redis Labs 将许可证更改为 SSPL，从而引发了分叉。 Redis 曾有过许可纠纷的历史，导致了 Valkey 的诞生。 AWS 和 Google Cloud 迅速支持了 Valkey，AWS 维护人员 Madelyn Olson 领导了该项目。 Valkey团队旨在为当前Redis用户提供过渡路径并提高性能。虽然 Valkey 可能不会继续成为 Redis 的直接替代品，但社区对新的可能性和进步感到兴奋。]]></description>
-      <guid>https://t.me/hn_summary/82284</guid>
-      <pubDate>Mon, 01 Apr 2024 00:42:35 GMT</pubDate>
+      <title>韦诺之战 1.18：龙族入侵更新带来了撕裂 [...]</title>
+      <link>https://t.me/hn_summary/82315</link>
+      <description><![CDATA[韦诺之战1.18：龙族入侵更新&lt; br/&gt;
+韦诺之战 1.18：龙之入侵更新带来了渲染的重大改进、派系平衡更新以及命运之风和改进的东方入侵等新战役。多人游戏功能包括比赛历史视图和更新的山丘之王地图。内容创建者现在可以添加成就并从升级的场景和地图编辑器中受益。该游戏继续由多元化的国际志愿者团队开发，为玩家提供了多种贡献和参与的方式。此次更新展示了韦诺社区的奉献精神和创造力。]]></description>
+      <guid>https://t.me/hn_summary/82315</guid>
+      <pubDate>Mon, 01 Apr 2024 07:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇时事通讯文章中，作者认为语法突出显示是对 i 的浪费 [...]</title>
-      <link>https://t.me/hn_summary/82283</link>
-      <description><![CDATA[语法高亮是对信息渠道的浪费（2020）
-在这篇时事通讯文章中，作者认为语法突出显示是对信息渠道的浪费，不是因为它没有用，而是因为它的用途不仅仅是区分语法。作者提供了使用颜色不同方式突出显示代码各个方面的示例，例如彩虹括号、上下文突出显示、导入突出显示等。作者承认，实现语义突出显示比语法突出显示更复杂，并且现有的编辑器可能没有足够的能力来处理它。尽管面临挑战，作者相信语义突出显示在未来可以提供显着的优势。]]></description>
-      <guid>https://t.me/hn_summary/82283</guid>
-      <pubDate>Mon, 01 Apr 2024 00:41:32 GMT</pubDate>
+      <title>我们。</title>
+      <link>https://t.me/hn_summary/82314</link>
+      <description><![CDATA[美国奶牛禽流感检测呈阳性
+令人惊讶的是，美国奶牛首次检测出禽流感阳性，引发了人们对病毒传播到至少五个州的担忧。此次疫情爆发引发了人们对商业乳制品供应安全的质疑，但联邦官员向消费者保证，乳制品几乎没有受到影响。监管机构和农民正在努力遏制病毒的传播，并采取措施确保进入市场的牛奶安全。尽管情况令人担忧，但官员们认为公众面临的风险仍然很低，并正在采取措施防止进一步传播。]]></description>
+      <guid>https://t.me/hn_summary/82314</guid>
+      <pubDate>Mon, 01 Apr 2024 07:35:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《远方看Xz展开》一文深入探讨了涉及[...]的网络安全事件</title>
-      <link>https://t.me/hn_summary/82282</link>
-      <description><![CDATA[远方观看Xz展开
-“从远处观察 Xz 展开”一文深入研究了一起网络安全事件，该事件涉及 xz/liblzma 库中的后门，该后门导致 SSH 服务器受到攻击。故事讲述了研究员 Andres Freund 在依赖项 xz 中发现了注入代码，并随后调查了它如何影响 SSH。该文章重点介绍了所谓的恶意软件作者 Jia Tan 所做的可疑提交和修复，并对他们作为 xz 项目主要维护者的角色提出了质疑。该叙述揭示了开源社区内复杂的依赖关系和转换网络，揭示了关键软件系统中的潜在漏洞。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82282</guid>
-      <pubDate>Mon, 01 Apr 2024 00:40:28 GMT</pubDate>
+      <title>[媒体] 全球范围内的 SSH 后门尝试失败是偶然发现的，这要归功于 [...]</title>
+      <link>https://t.me/hn_summary/82313</link>
+      <description><![CDATA[全局 SSH 后门尝试失败 – 被偶然捕获&lt; /a&gt;
+这次在全球范围内设置 SSH 后门的失败尝试是偶然发现的，这要归功于 Andres 在进行微基准测试时发现该问题的辛勤努力。后门企图背后的威胁行为者展示了先进的知识和技术，多年来在 Github 上进行了更改。虽然后门设计得很好，但由于安德烈斯的努力，它最终避免了广泛部署。该问题凸显了软件开发中的内部威胁风险，特别是在开源项目中。加强 systemd 等核心 Linux 依赖项的安全性以及改进 Linux 系统上的 EDR 检测至关重要。该事件为网络安全敲响了警钟，强调了在应对此类威胁时保持警惕和协作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82313</guid>
+      <pubDate>Mon, 01 Apr 2024 07:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉的超级充电网络长期以来一直是电动汽车行业的游戏规则改变者 [...]</title>
-      <link>https://t.me/hn_summary/82281</link>
-      <description><![CDATA[起亚 EV9 充电受到特斯拉超级充电网络的阻碍
-特斯拉的超级充电网络长期以来一直是电动汽车行业的游戏规则改变者，为特斯拉车主提供快速、可靠的充电服务。然而，随着提供更高充电率的竞争性 CCS 和 CHAdeMO 网络的兴起，一些非特斯拉电动汽车（例如起亚 EV9）由于其 400V 架构而面临 V3 超级充电桩的充电限制。这让一些驾驶员感到失望，EV9 在 V3 超级充电站仅达到 84 kW，而在 350 kW CCS 充电站则可达到 200 kW 以上。即将推出的 V4 超级充电站可能会以 350 kW 的速度提供 800V 充电，但其到来仍不确定。]]></description>
-      <guid>https://t.me/hn_summary/82281</guid>
-      <pubDate>Mon, 01 Apr 2024 00:39:25 GMT</pubDate>
+      <title>[媒体]在最近的一篇文章中，我深入研究了远程代码执行的令人震惊的发现 [...]</title>
+      <link>https://t.me/hn_summary/82312</link>
+      <description><![CDATA[OSS 后门：简单修复的愚蠢之处&lt; br/&gt;
+在最近的一篇文章中，我深入研究了 liblzma 压缩库中远程代码执行后门的令人震惊的发现，强调了对开源社区的攻击的复杂性和大胆性。虽然有些人指责维护者缺乏资金，但我认为问题在于基础 OSS 库的性质，这些库并不意味着要进行重大改变。科技公司现在正在推动更严格的项目治理，但我认为责任不应该仅仅落在维护人员身上。现在是公司投资审查和监控关键依赖项以保护我们的关键基础设施免受潜在威胁的时候了。该解决方案需要全面的方法，而不仅仅是依赖于个人维护人员。]]></description>
+      <guid>https://t.me/hn_summary/82312</guid>
+      <pubDate>Mon, 01 Apr 2024 07:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Upscayl 是一款免费开源 AI 图像放大器，它使用先进的算法来 [...]</title>
-      <link>https://t.me/hn_summary/82280</link>
-      <description><![CDATA[Upscayl – 免费开源 AI 图像放大工具&lt; br /&gt;
-Upscayl 是一款免费开源的 AI 图像放大器，它使用先进的算法来放大和增强低分辨率图像，而不会损失质量。它是一款跨平台应用程序，秉承 Linux 优先的理念，但可在所有主要桌面操作系统上使用。该项目需要 Vulkan 兼容的 GPU 来升级图像，并提供适用于 Linux、macOS 和 Windows 的各种安装方法。 Upscayl 使用 Real-ESRGAN 和 Vulkan 架构，并在 AGPLv3 许可下完全开源。用户可以通过报告问题、修复代码、添加功能或捐赠来做出贡献。该项目还提供了一个名为 upscayl-ncnn 的 CLI 工具，并提供了用于放大图像的不同模型。]]></description>
-      <guid>https://t.me/hn_summary/82280</guid>
-      <pubDate>Mon, 01 Apr 2024 00:38:20 GMT</pubDate>
+      <title>我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。</title>
+      <link>https://t.me/hn_summary/82311</link>
+      <description><![CDATA[在 MS-DOS 上托管公共网站
+我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。虽然可以使用 QuickBASIC 创建动态网站，但它不如使用 PHP 方便。 DOS 文件名限制可能会很麻烦，而服务器的安全性则归因于它的模糊性。然而，它可能会引起黑客的注意。 DOS Web 服务器对并发请求有限制，导致潜在的文件损坏。设置服务器涉及获取 DOS 软盘映像和配置虚拟机。这种独特的设置允许通过 SSH 与 MS-DOS 命令行进行交互，使其成为运行旧版软件的经济高效的解决方案。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82311</guid>
+      <pubDate>Mon, 01 Apr 2024 07:32:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

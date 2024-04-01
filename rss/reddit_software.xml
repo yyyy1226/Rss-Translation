@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 06:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:20:41 GMT</lastBuildDate>
+    <item>
+      <title>寻找一个小大鼠标替代品或一种在 Linux 上运行小大鼠标的方法</title>
+      <link>https://www.reddit.com/r/software/comments/1bsz0av/looking_for_a_little_big_mouse_alternative_or_a/</link>
+      <description><![CDATA[我的问题是我有两个不同的显示器，具有两个不同的 DPI，而小大鼠标可以在它们之间无缝使用鼠标。不过，它仅适用于 Windows，我还没有找到任何 Linux 替代品。   由   提交/u/cydude1234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bsz0av/looking_for_a_little_big_mouse_alternative_or_a/</guid>
+      <pubDate>Mon, 01 Apr 2024 09:20:25 GMT</pubDate>
+    </item>
     <item>
       <title>哪个下载程序安全且更好？</title>
       <link>https://www.reddit.com/r/software/comments/1bsvod8/which_of_this_download_programs_are_safe_and/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[我正在寻找一款用于小型产品发布的应用程序。 “类别”和“属性”需要在模板中预先定义。一个很好的例子就是制作披萨。每个披萨都有多个类别，这些类别由不同的属性组成。 “外皮”和“配料”是指“外皮”和“配料”。将是类别，并且每个类别最好有一个下拉列表，其中包含您可以选择的各种属性的清单。例如，外壳类别将具有“薄”、“厚”、“做得好”、“无麸质”等列表。您可以为该类别选择多个属性，因为它是一个清单。选择属性后，将产品移至生产（我为此设想了一个板视图）。 每次部署都小而快（就像披萨一样）。所有属性都是预定义的，因此部署它的人不必记住要添加的任何属性。只需检查一下需要什么。由于这种性质，我们不需要专门用于单一产品推出的整个董事会。如果应用程序能够查看板视图，我们希望它处于卡片级别。 理想情况下，我想使用 Trello，因为我们已经在使用它，但我似乎无法弄清楚如果它能够在卡级别实现这种类型的结构。因此，如果没有，我愿意接受其他平台的建议。  ​  TLDR;  &gt;协作 &gt;能够预先定义产品模板的类别和属性（最好使用下拉清单或类似的东西） &gt;首选董事会视图   ​ 非常感谢您的见解！    ;由   提交/u/cxswanson  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bsddo1/collab_software_for_small_product_rollouts/</guid>
       <pubDate>Sun, 31 Mar 2024 15:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件如何知道何时需要更新？</title>
-      <link>https://www.reddit.com/r/software/comments/1bsd5x9/how_do_software_know_when_they_need_to_be_updated/</link>
-      <description><![CDATA[例如，某些软件会自行自动更新，或者它们可能会询问您是否要更新。但要发生这种情况，他们如何事先知道新版本的存在？它们是否会自动连接到外部网络来向它们提供指令或其他内容？   由   提交 /u/Automatic1029474748   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bsd5x9/how_do_software_know_when_they_need_to_be_updated/</guid>
-      <pubDate>Sun, 31 Mar 2024 15:33:09 GMT</pubDate>
     </item>
     <item>
       <title>*** 怎样才能使计费软件更具吸引力、更实用或更与众不同以吸引他们的注意力？ ***</title>
