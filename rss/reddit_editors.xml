@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 02 Apr 2024 01:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 03:22:12 GMT</lastBuildDate>
+    <item>
+      <title>寻求帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1btog0u/looking_for_help/</link>
+      <description><![CDATA[我是新编辑，正在尝试弄清楚如何开始获取客户以及何时为我的服务发布广告。 如果任何人都可以帮助我，我将不胜感激！   由   提交/u/DotGood  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1btog0u/looking_for_help/</guid>
+      <pubDate>Tue, 02 Apr 2024 03:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>有人比较过顶级规格 m1 ultra studio 和顶级规格 m3 macbook pro 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bti0ef/anyone_compared_a_top_spec_m1_ultra_studio_with_a/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>您使用什么版本的 Media Composer？</title>
       <link>https://www.reddit.com/r/editors/comments/1bswjc6/what_version_of_media_composer_do_you_use/</link>
-      <description><![CDATA[我的下一个节目正在准备中，编辑+vfx 团队正在讨论要使用的最佳 Media Composer 版本。去年我们的目标是 2022 年，这是可行的，但有问题。 2018 年是不可能的，因为很多软件不再在 Mojave 上运行。 现在每个人都在使用什么并感到满意？   由   提交 /u/DoomSolutions   [链接] [评论]]]></description>
+      <description><![CDATA[我的下一个节目正在准备中，编辑+vfx 团队正在讨论要使用的最佳 Media Composer 版本。去年我们的计划是 2022 年，虽然可行，但存在问题。 2018 年是不可能的，因为很多软件不再在 Mojave 上运行。 现在每个人都在使用什么并感到满意？   由   提交 /u/DoomSolutions   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bswjc6/what_version_of_media_composer_do_you_use/</guid>
       <pubDate>Mon, 01 Apr 2024 06:29:17 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>来自英国的美国制作助理剪辑 - 需要考虑的事项？</title>
       <link>https://www.reddit.com/r/editors/comments/1bsqelz/assistant_editing_from_uk_on_a_us_production/</link>
-      <description><![CDATA[一部英国剧本即将结束，自从拍摄结束以来我一直在家工作，而我的剪辑师却远离美国整个时间都是西海岸。似乎给人留下了深刻的印象，因为现在有人问我是否会考虑在他们的下一份工作中再次与他们合作，该工作尚未确定，但很可能是美国制作，他们的假设是我可以继续从英国，可能会制作偶尔访问各州的节目。到目前为止，我的整个职业生涯都在英国，所以我不确定对于在国外从事美国工作的外国人来说，这是否是一件简单的工作或需要考虑的后勤工作、税收、税率、工会等. 这里是否有英国自由职业 AE 经历过这种情况并遇到过任何困难（除了时区差异等）？   由   提交/u/davmeltz  [链接] [评论]]]></description>
+      <description><![CDATA[一部英国剧本即将结束，自从拍摄结束以来我一直在家工作，而我的剪辑师却远离美国整个时间都是西海岸。似乎给人留下了深刻的印象，因为现在有人问我是否会考虑在他们的下一份工作中再次与他们合作，该工作尚未确定，但很可能是美国制作，他们的假设是我可以继续从英国，可能会制作偶尔访问各州的节目。到目前为止，我的整个职业生涯都是在英国，所以我不确定对于在国外从事美国工作的外国人来说，这是否是一件简单的工作或需要考虑的后勤工作、税收、税率、工会等. 这里是否有英国自由职业 AE 经历过这种情况并遇到过任何困难（除了时区差异等）？   由   提交/u/davmeltz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bsqelz/assistant_editing_from_uk_on_a_us_production/</guid>
       <pubDate>Mon, 01 Apr 2024 00:58:22 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[大家好，我有一个客户试图通过互联网向我发送大约 900GB 的代理镜头。我有相当不错的 Wi-Fi，平均 100MB/s。他们选择使用框架 Io，所以我使用框架 Io 传输应用程序。我整天运行，然后过夜，但是当我早上回来时，下载似乎已冻结在 600/900GB，当我检查日志时，我收到错误 600 URL 已过期。所以我猜身份验证令牌已过期？在复活节假期期间我又尝试了几次，但这种情况不断发生。有人对如何进行有任何建议吗？我很想要求我的客户将下载分成批次，即第 1 天、第 2 天...等，因为一次可以下载 100GB。然而，我能为客户制造的麻烦越少越好。所以想知道是否有人以前遇到过这个问题，或者是否有人有任何解决方案？如果他们授予我进入该项目的权限，这对我的情况有帮助吗，因为 URL 不会过期？ 系统规格：iMac 2021，64GB 内存 // 软件规格：最新的frameio 版本。 // 素材规格：DNxHD 36（低分辨率） 非常感谢！ 编辑：添加系统规格  &amp; #32；由   提交 /u/Puzzleheaded-Yak-209   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bshhsb/frameio_timesout/</guid>
       <pubDate>Sun, 31 Mar 2024 18:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 2018 - BCC 效果问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1bsfbvu/avid_2018_bcc_effects_question/</link>
-      <description><![CDATA[我已经开始制作一个使用大量密件抄送和蓝宝石效果的已建立的文档系列。在我漫长的职业生涯中，我并没有真正需要使用这些，这已经足够令人惊讶了。自从我使用 2018 版 avid（本剧使用该版本进行编辑）以来，也已经过去了大约 4 年，而且我即将结束为期一个月的首映项目，所以需要重新熟悉一下它。在新的素材和资产上拖/放和复制/粘贴预先存在的效果（来自上一季的时间线）并不像我想象的那样工作。 有人有任何好的建议或链接吗？我可以观看教程来温习这些概念吗？ 提前非常感谢。    由   提交/u/awesomenerd16   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bsfbvu/avid_2018_bcc_effects_question/</guid>
-      <pubDate>Sun, 31 Mar 2024 17:06:25 GMT</pubDate>
     </item>
     <item>
       <title>英国求职</title>
