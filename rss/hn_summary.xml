@@ -4,89 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 06:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 09:18:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体]最新的比利时总统提议对p进行不加区别的聊天控制扫描 [...]</title>
-      <link>https://t.me/hn_summary/82667</link>
-      <description><![CDATA[针对数字隐私和加密的全面欧盟聊天控制提案攻击
-比利时总统府最新提出的对私人消息进行不加区别的聊天控制扫描以查找非法内容的提案已被泄露，引发了对其攻击数字隐私和加密的争议。欧洲议会议员帕特里克·布雷耶警告说，该提案允许无故搜索私人聊天内容，破坏了安全加密并侵犯了基本权利。尽管布雷耶等人提出了担忧，欧盟各国政府仍在推进该提案，冒着在三方谈判中损害网络安全的风险。布雷耶批评该提案存在技术缺陷和缺乏保障措施，并敦促公民捍卫自己的隐私和加密权利。请访问 chatcontrol.eu 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/82667</guid>
-      <pubDate>Wed, 03 Apr 2024 06:00:38 GMT</pubDate>
+      <title>【媒体】GenAI泡沫何时破灭？</title>
+      <link>https://t.me/hn_summary/82684</link>
+      <description><![CDATA[GenAI泡沫何时破灭？
+在最近的一篇文章中，加里·马库斯讨论了人们对生成式人工智能日益增长的怀疑，强调了对其盈利能力不足、安全风险和持续存在的可靠性问题的担忧。由于该行业的主要参与者都集中在 GPT-4 等有缺陷的系统上，生成式人工智能的未来似乎充满不确定性。 Marcus 预测，除非今年发布像 GPT-5 这样真正突破性的进展，否则围绕 GenAI 的炒作泡沫可能很快就会破裂。虽然这项技术可能仍有一定的用途，但如果到 2024 年底还没有解决关键挑战，它可能会面临清算。Marcus 一直直言不讳地指出生成式人工智能的潜在陷阱，并警告不要过高的期望。]]></description>
+      <guid>https://t.me/hn_summary/82684</guid>
+      <pubDate>Wed, 03 Apr 2024 09:18:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Octopus v2 是一种专为超级代理设计的设备上语言模型，提供 adva [...]</title>
-      <link>https://t.me/hn_summary/82666</link>
-      <description><![CDATA[Octopus v2：超级代理的设备上语言模型
-Octopus v2 是一种专为超级代理设计的设备上语言模型，无需互联网连接即可提供先进的自然语言处理功能。这种创新模型可以实现实时交互和个性化响应，使其成为人工智能助手领域的游戏规则改变者。围绕设备模型和隐私问题的争议得到解决，重点是数据安全和用户控制。借助 Octopus v2，用户可以体验与 AI 助手更加无缝、高效的交互，为设备上的语言模型树立了新标准。]]></description>
-      <guid>https://t.me/hn_summary/82666</guid>
-      <pubDate>Wed, 03 Apr 2024 05:38:26 GMT</pubDate>
+      <title>[媒体]在一份措辞严厉的报告中，拜登政府任命的联邦审查委员会批评 [...]</title>
+      <link>https://t.me/hn_summary/82683</link>
+      <description><![CDATA[针对中国黑客攻击，严厉的联邦报告破坏了微软的安全
+拜登政府任命的联邦审查委员会在一份措辞严厉的报告中批评微软犯了一系列错误，这些错误允许国家支持的中国黑客入侵美国高级官员的电子邮件帐户，其中包括商务部长吉娜·雷蒙多。该报告强调了微软安全文化的不足以及在漏洞方面缺乏透明度，呼吁公司内部进行重大的安全改进和文化变革。黑客访问了来自全球多个美国机构和组织的电子邮件，引发了人们对微软处理网络安全威胁的担忧。该报告还提出了有关由国家支持的俄罗斯黑客发起的另一次黑客攻击的问题，进一步强调了加强安全措施的必要性。]]></description>
+      <guid>https://t.me/hn_summary/82683</guid>
+      <pubDate>Wed, 03 Apr 2024 09:13:25 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：您是如何构建功能标志的？</title>
-      <link>https://t.me/hn_summary/82665</link>
-      <description><![CDATA[询问 HN：您是如何构建功能标志的？ 
-标题：询问 HN：您是如何构建功能标志的？
-您是否正在为您的公司构建功能标志而苦苦挣扎？加入 news.ycombinator.com 上的讨论，聆听轶事以及其他应对这一挑战的人的见解。发现创新的架构决策并获得宝贵的提示，以简化您的功能标志实施流程。分享您自己的经验，并向社区学习如何有效地为您的项目构建功能标志。立即加入对话并升级您的特色旗帜游戏！]]></description>
-      <guid>https://t.me/hn_summary/82665</guid>
-      <pubDate>Wed, 03 Apr 2024 05:18:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]8美国</title>
-      <link>https://t.me/hn_summary/82664</link>
-      <description><![CDATA[美国八个州现已计划禁止销售汽油动力汽车
-美国至少有八个州计划在 2035 年之后禁止销售新型汽油动力汽车，其中加利福尼亚州处于领先地位。此举旨在应对气候变化和改善空气质量，汽车制造商面临着加速电动汽车生产的压力。虽然一些州已经接受了这些禁令，但弗吉尼亚州等其他州则遵守加州的排放标准，但尚未正式认可 2035 年禁令。包括通用汽车在内的主要汽车制造商已经开始转向电动汽车，欧盟批准到 2035 年全面禁止新型汽油动力汽车。]]></description>
-      <guid>https://t.me/hn_summary/82664</guid>
-      <pubDate>Wed, 03 Apr 2024 04:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]3M 在软盘行业的兴衰是一个关于创新和 [...]</title>
-      <link>https://t.me/hn_summary/82663</link>
-      <description><![CDATA[3M软盘的兴衰
-3M 在软盘行业的兴衰是一个关于创新和艰难决策的迷人故事。虽然该公司以其高品质磁带和卷轴式磁带而闻名，但在 20 世纪 70 年代，它又出人意料地进军软盘领域。尽管是市场上的主要参与者，3M 最终还是于 1996 年退出了数据存储业务，创建了一家名为 Imation 的新公司。这一决定是消费技术格局不断变化以及该公司努力适应低成本、低利润模式的结果。这一举措标志着 3M 数据存储传统时代的结束。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82663</guid>
-      <pubDate>Wed, 03 Apr 2024 04:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]海军正面临着过时的问题，因为最近发生的事件表明它们在现代 [...]</title>
-      <link>https://t.me/hn_summary/82662</link>
-      <description><![CDATA[海军已经过时，但没有人会承认这一点 
-由于最近发生的事件显示出海军在现代战争中的局限性，因此面临着过时的问题。俄罗斯黑海舰队在与乌克兰的冲突中一直无效，而胡塞运动关闭苏伊士运河则暴露了海军力量的脆弱性。陆基反舰武器和无人机对抗海军力量的能力是一个重大挑战。由于军舰控制海上航线的有效性正受到不断发展的技术的挑战，对海军力量投送必要性的信念受到质疑。海战的未来充满不确定性，传统战略正在被重新评估。]]></description>
-      <guid>https://t.me/hn_summary/82662</guid>
-      <pubDate>Wed, 03 Apr 2024 04:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]微软最近提供了 FFmpeg，一个开源多媒体框架，一个小型的一次性 [...]</title>
-      <link>https://t.me/hn_summary/82661</link>
-      <description><![CDATA[微软向 FFmpeg 提供小额一次性付款，而不是支持合同
-微软最近提供了 FFmpeg（一种开源多媒体框架），以少量一次性付款代替传统的支持合同。这一决定在科技界引发了争议，一些人质疑微软支持开源项目的承诺。尽管遭到强烈反对，FFmpeg 仍决定接受付款并继续独立工作。此举凸显了围绕企业参与开源开发的持续争论以及 FFmpeg 等项目在维持财务可持续性方面面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82661</guid>
-      <pubDate>Wed, 03 Apr 2024 03:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 不走整体之路？</title>
-      <link>https://t.me/hn_summary/82660</link>
-      <description><![CDATA[不在整体路径中？您仍然可以在线观看日全食
-无法到达日全食的全食路径吗？没问题！您仍然可以通过 NASA、美联社和其他组织的直播在线观看所有活动。从望远镜观察太阳到高空气球实验，您可以在舒适的家中看到很多东西。为了安全起见，请不要忘记带上日食眼镜，并准备好以全新的方式见证这一天体事件。]]></description>
-      <guid>https://t.me/hn_summary/82660</guid>
-      <pubDate>Wed, 03 Apr 2024 03:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 为什么我的设备会在 2024 年 4 月 15 日失去对 Libby 和 OverDrive 的访问权限？</title>
-      <link>https://t.me/hn_summary/82659</link>
-      <description><![CDATA[为什么我的设备会在 2024 年 4 月 15 日失去对 Libby 和 OverDrive 的访问权限？
-2024 年 4 月 15 日，OverDrive 将实施安全升级，以保护用户数据隐私，导致某些使用较旧操作系统的 Android 设备无法访问数字图书馆。此更改是由于 Web 证书提供商 Let&#39;s Encrypt 终止了对 Android 7.1.0 及更低版本的支持。如需继续访问数字图书馆，建议用户将操作系统更新至 Android 7.1.1 或更高版本。拥有早期设备的 Kindle Fire 用户仍然可以通过其他方法阅读图书馆电子书。随时了解这些技术变化，以确保不间断地访问图书馆资源。]]></description>
-      <guid>https://t.me/hn_summary/82659</guid>
-      <pubDate>Wed, 03 Apr 2024 03:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：Show HN：隐藏您不喜欢的内容 – 通过文本/链接/图像隐藏内容的 Chrome 扩展</title>
-      <link>https://t.me/hn_summary/82658</link>
-      <description><![CDATA[显示 HN：隐藏您不喜欢的内容 – 用于隐藏内容的 Chrome 扩展文字/链接/图片
-标题：Show HN：隐藏您不喜欢的内容 – 通过文本/链接/图像隐藏内容的 Chrome 扩展
+      <title>[媒体] 站点：safe-staging.unicornplatform.page</title>
+      <link>https://t.me/hn_summary/82682</link>
+      <description><![CDATA[显示 HN：为敏感信息创建临时私有链接 
+标题：显示 HN：为敏感信息创建临时私人链接
+网站：safe-staging.unicornplatform.page&lt; br/&gt;
 
-正在寻找一种方法来隐藏您在浏览时不想看到的内容？查看这个免费的 Chrome 扩展程序，它可以让您轻松隐藏文本、链接和图像。该扩展速度很快，针对顶级网站进行了优化，并让您可以完全控制过滤器。与其他选项不同，它允许通过单词选择轻松阻止。虽然它可能并不适合所有人，但对于那些寻求简单有效的方式来定制浏览体验的人来说，这是一个不错的选择。此外，为了方便起见，还有零跟踪和将过滤器保存在云上的选项。访问 www.hidewhatyoudislike.com 了解更多信息并尝试一下出去！]]></description>
-      <guid>https://t.me/hn_summary/82658</guid>
-      <pubDate>Wed, 03 Apr 2024 03:20:23 GMT</pubDate>
+厌倦了通过不安全的渠道发送敏感信息？通过安全消息，您可以创建临时私人链接以进行安全共享。告别短信拦截的风险，并通过额外的安全层保护您的个人数据。只需生成一个链接，添加验证码，然后将其发送给收件人即可。通过安全消息确保您的信息安全且保密。立即尝试一下，在共享敏感信息时体验安心。]]></description>
+      <guid>https://t.me/hn_summary/82682</guid>
+      <pubDate>Wed, 03 Apr 2024 09:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Postgres 社区中正在进行的有关 Postgres extensio 未来的讨论 [...]</title>
+      <link>https://t.me/hn_summary/82681</link>
+      <description><![CDATA[为什么 Postgres 扩展应打包并作为 OCI 映像分发
+Postgres 社区中正在进行的关于 Postgres 扩展的未来的讨论非常有趣。 OnGres 一直在运营一个具有 200 个 StackGres 扩展的 Postgres 发行版，StackGres 是一个在 Kubernetes 上自托管 Postgres 的平台。他们引入了一种新技术来动态加载和卸载扩展，允许用户指定他们想要的扩展。 Postgres 扩展存在安全风险，因此应将它们构建在与 Postgres 服务器相同的环境中。 OnGres 建议将 Postgres 扩展打包和分发为 OCI 映像，利用 OCI 周围的生态系统来构建、打包、分发和增强安全性。这种方法解决了许多问题并提供了额外的好处。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82681</guid>
+      <pubDate>Wed, 03 Apr 2024 09:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 Sequin，我们最近采用了 NATS，并且对其简单性和流畅性印象深刻 [...]</title>
+      <link>https://t.me/hn_summary/82680</link>
+      <description><![CDATA[NATS：第一印象
+在 Sequin，我们最近采用了 NATS，并且对其简单性和灵活性印象深刻。 NATS 构建在发布/订阅系统之上，使系统之间的通信异步且短暂。 JetStream 的加入提供了持久性和消费者群体，提供至少一次交付保证。使用点分隔的主题和通配符允许表达订阅，路由读取而不是写入。虽然 NATS 缺乏 Kafka 的分区范例，但确定性主题令牌分区可以提供有序的消息处理。总的来说，NATS 已被证明是一个强大的工具，提供了 AWS 服务的绝佳替代方案，并能够无缝集成到我们的开发工作流程中。]]></description>
+      <guid>https://t.me/hn_summary/82680</guid>
+      <pubDate>Wed, 03 Apr 2024 09:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Portr 是一个专为团队设计的开源 ngrok 替代品，允许用户公开 [...]</title>
+      <link>https://t.me/hn_summary/82679</link>
+      <description><![CDATA[Portr – 专为团队设计的开源 ngrok 替代方案 
+Portr 是专为团队设计的开源 ngrok 替代方案，允许用户通过 SSH 远程端口转发安全地将本地 HTTP 和 TCP 连接公开到公共互联网。对于希望在公共 URL 上共享开发服务器的小型团队来说，它是理想的选择，但不建议用于生产服务器。功能包括简单的隧道、用于团队/用户管理的管理仪表板以及用于检查和重播请求的 Portr 检查器。该项目目前处于测试阶段，因此可能会出现错误和重大更改。欢迎贡献，该项目已获得 GNU Affero 通用公共许可证 v3.0 的许可。]]></description>
+      <guid>https://t.me/hn_summary/82679</guid>
+      <pubDate>Wed, 03 Apr 2024 09:09:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这个更新的 Python 项目管理指南中，作者讨论了工具的演变 [...]</title>
+      <link>https://t.me/hn_summary/82678</link>
+      <description><![CDATA[Python项目-本地Virtualenv管理Redux
+在这个更新的 Python 项目管理指南中，作者讨论了 direnv 和 uv 等工具在管理本地虚拟环境方面的演变。作者分享了他们管理 Python 安装、取消固定的包和固定的应用程序的个人工作流程。额外的提示包括 Fish shell 功能，可以有效地重新创建虚拟环境。作者还重点介绍了使用 PDM 实现跨平台锁定文件以及使用 GitLab CI 集成构建 Python Docker 容器。总体而言，作者强调了工作流构建中上下文的重要性，并分享了优化 Python 项目管理的实用技巧。]]></description>
+      <guid>https://t.me/hn_summary/82678</guid>
+      <pubDate>Wed, 03 Apr 2024 09:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry [...]</title>
+      <link>https://t.me/hn_summary/82677</link>
+      <description><![CDATA[OpenTelemetry 太复杂
+VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry 过于复杂和臃肿，导致集成问题和二进制大小增加。尽管面临挑战，可观测数据标准化的核心思想仍然被认为是有价值的。 Valialkin 认为 Prometheus 由于其效率和简单性而成为衡量指标的更好选择。 VictoriaMetrics 正在推进其自己的用于 OTel 指标支持的自定义库，同时还准备为其新产品 VictoriaLogs 采用日志协议。争议在于 OpenTelemetry 的复杂性和低效率，与标准化可观测数据的价值形成对比。]]></description>
+      <guid>https://t.me/hn_summary/82677</guid>
+      <pubDate>Wed, 03 Apr 2024 09:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴尔的摩达利大楼的业主已提交请愿书，要求限制其责任[...]</title>
+      <link>https://t.me/hn_summary/82676</link>
+      <description><![CDATA[大理业主提交请愿书，要求将巴尔的摩大桥倒塌责任上限限制在 4370 万美元
+巴尔的摩 Dali 大楼的业主已提交请愿书，要求将其在最近桥梁倒塌事故中的赔偿责任上限限制为 4,370 万美元。此举引发争议，许多人质疑这笔金额是否足以支付受害者的损失和赔偿。该请愿书目前正在接受美国马里兰州地区法院的审查。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/82676</guid>
+      <pubDate>Wed, 03 Apr 2024 09:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 19 世纪，康涅狄格州哈特福德市的一群工人阶级孩子在埃德的带领下 [...]</title>
+      <link>https://t.me/hn_summary/82675</link>
+      <description><![CDATA[The Wide Awakes：一个 19 世纪穿着斗篷的反社会俱乐部奴隶制活动家
+19 世纪，康涅狄格州哈特福德的一群工人阶级孩子在埃迪·耶加森 (Eddie Yergason) 的领导下发起了一场名为“大觉醒”的斗篷运动，以应对美国因奴隶制而日益紧张的局势。觉醒运动成为一个强大的政治组织，挑战奴隶势力和民主党。他们的行动，包括火炬游行和与民主党人的冲突，凸显了哈特福德街头争取民主的斗争。这场令人惊讶且影响深远的青年运动在南北战争的爆发中发挥了重要作用，重塑了美国的民主。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82675</guid>
+      <pubDate>Wed, 03 Apr 2024 07:53:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
