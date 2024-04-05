@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 12:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:23:14 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 美国彩票的经济学是一个令人着迷的现象。</title>
-      <link>https://t.me/hn_summary/83059</link>
-      <description><![CDATA[美国彩票的经济性（最穷的 1% 邮政编码花费 5%收入）
-美国彩票的经济学是一个令人着迷的现象。尽管中奖的几率极低，但销量却在蓬勃发展，到 2023 年，美国人在国营彩票上的支出将超过 1000 亿美元。彩票的吸引力在于其价格实惠以及巨额头奖的吸引力。然而，该系统被批评为倒退，与富裕家庭相比，贫困家庭将不成比例的收入花在彩票上。令人惊讶的是，疫情加剧了这一趋势，2021 年最贫困的 1% 家庭在彩票上的支出甚至更多。争议在于，那些最无力支付的家庭在彩票上的支出却最多。]]></description>
-      <guid>https://t.me/hn_summary/83059</guid>
-      <pubDate>Fri, 05 Apr 2024 12:22:04 GMT</pubDate>
+      <title>[媒体]以色列最高间谍头子尤西·萨里尔 (Yossi Sariel) 在留下数字后意外曝光 [...]</title>
+      <link>https://t.me/hn_summary/83092</link>
+      <description><![CDATA[以色列顶级间谍头子意外在网上泄露了自己的真实身份 
+以色列最高间谍头子尤西·萨里尔 (Yossi Sariel) 在留下与他创作并在亚马逊上销售的一本书相关的数字痕迹后意外暴露。当一家报纸使用他的真实姓名将他的亚马逊卖家帐户连接到 Gmail 帐户时，8200 部队负责人的真实身份被揭露。这本书《人机团队》以他姓名首字母的笔名出版，详细介绍了他对人工智能军事用途的激进愿景。这种现代间谍失态给萨里尔和他的网络安全部门带来了压力，特别是在最近哈马斯袭击被描述为情报灾难之后受到批评之后。这一揭露引发了争议，并引发了有关安全协议的质疑。]]></description>
+      <guid>https://t.me/hn_summary/83092</guid>
+      <pubDate>Fri, 05 Apr 2024 18:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2024年3月，葡萄牙语博客notes.ghed.in的作者进行了一次前[...]</title>
-      <link>https://t.me/hn_summary/83058</link>
-      <description><![CDATA[几乎没有人关心您的网站是否不在社交媒体上
-2024 年 3 月，葡萄牙语博客 notes.ghed 的作者。  进行了一项实验，停止在社交媒体平台上分发内容。令人惊讶的是，该博客的独立访问者和页面浏览量有所增加，这主要归功于病毒式传播的谷歌链接。作者强调了社交媒体对网络流量缺乏影响，并对 WhatsApp 和 Threads 等平台的未来作用表示怀疑。尽管一些读者错过了社交媒体的更新，但作者仍然关注直接流量和去中心化平台。该实验揭示了在线参与不断发展的格局以及作者维持博客受众的独特方法。]]></description>
-      <guid>https://t.me/hn_summary/83058</guid>
-      <pubDate>Fri, 05 Apr 2024 12:04:56 GMT</pubDate>
+      <title>[媒体]根据调查，人工智能将在未来五年内大幅减少劳动力 [...]</title>
+      <link>https://t.me/hn_summary/83091</link>
+      <description><![CDATA[公司高管表示，人工智能将在五年内减少劳动力
+根据对 2000 名高管的调查，人工智能将在未来五年内大幅减少劳动力。人工智能和生成式人工智能彻底改变就业的潜力凸显，41% 的高管预计由于该技术而减少雇用人员。调查还显示，公司正计划重新培养技能并重新部署团队，以适应这一技术转变。然而，人工智能对失业的影响存在争议，一些公司已经将裁员归因于人工智能。高盛经济学家预测，由于生成式人工智能，全球可能会失去多达 3 亿个全职工作岗位。]]></description>
+      <guid>https://t.me/hn_summary/83091</guid>
+      <pubDate>Fri, 05 Apr 2024 18:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么我不喜欢 Git 多一些？</title>
-      <link>https://t.me/hn_summary/83057</link>
-      <description><![CDATA[为什么我不喜欢 Git 多一些？&lt; br/&gt;
-使用 Git 十年后，我仍然很难完全接受它。 Git 的复杂性经常会导致意想不到的行为，要求我记住大量的命令和概念。虽然 Git 适用于很多人，但我发现它对于我的典型工作流程来说有点过分了。为了寻找更简单的版本控制系统，我探索了“Gitlite”的想法，它专注于集中操作、按需服务器端处理和改进的可视化工具。我还深入研究了 SVN 的简单性和用户友好的方法，以及 Sapling，这是一种专为在以 GitHub 为中心的世界中轻松使用而设计的 VCS。最终，我寻求一种能够简化我的工作流程且避免不必要的复杂性的 VCS。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83057</guid>
-      <pubDate>Fri, 05 Apr 2024 11:58:51 GMT</pubDate>
+      <title>16 世纪布拉格的“扔窗外事件”令人震惊地表现出宗教和政治紧张局势 [...]</title>
+      <link>https://t.me/hn_summary/83090</link>
+      <description><![CDATA[布拉格的射窗事件（1419–1997）&lt; br/&gt;
+1618 年布拉格的“扔窗外”事件令人震惊地展现了宗教和政治紧张局势，天主教代表马提尼斯的雅罗斯拉夫·博里塔 (Jaroslav Bořita) 和赫鲁姆的维莱姆·斯拉瓦塔 (Vilém Slavata) 被愤怒的新教徒人群从窗外扔了出去。代表们通过公开否认宗教宽容来碰运气，导致他们死于愤怒的镇民之手。这一事件标志着三十年战争的转折点，并被称为捷克历史上最臭名昭著的反抗行为之一。直到今天，关于扔窗外事件的争议和残酷行为仍然吸引着历史学家和学者。]]></description>
+      <guid>https://t.me/hn_summary/83090</guid>
+      <pubDate>Fri, 05 Apr 2024 18:19:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“基础设施即代码不是答案”中，Luke Shaughnessy 挑战了常见的 [...]</title>
-      <link>https://t.me/hn_summary/83056</link>
-      <description><![CDATA[基础设施即代码不是答案 - 作者：Luke Shaughnessy
-在《基础设施即代码不是答案》中，Luke Shaughnessy 挑战了基础设施即代码 (IAC) 是 DevOps、平台和 SRE 团队的最终解决方案的普遍信念。虽然 IAC 的好处是显而易见的，但 Shaughnessy 深入研究了采用这种方法所带来的复杂性和风险。他强调了诸如代码过时、代码无法自我记录以及可能出现灾难性错误等问题。 Shaughnessy 强调灵活性和批判性思维的重要性，表明 IAC 并不是一种万能的解决方案。该文章引发了争论，并对有效实施 IAC 的挑战提供了细致入微的视角。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83056</guid>
-      <pubDate>Fri, 05 Apr 2024 11:55:45 GMT</pubDate>
+      <title>当台湾发生强烈地震时，台北 101 大楼独特的钢球阻尼器保护了天空 [...]</title>
+      <link>https://t.me/hn_summary/83089</link>
+      <description><![CDATA[钢球阻尼器保护台北101免受地震影响&lt; br/&gt;
+当台湾发生强烈地震时，台北101大楼独特的钢球阻尼器保护了摩天大楼及其居住者免受剧烈晃动。这个重达 730 吨的钟摆悬挂在建筑物顶部，可以吸收地震和台风的力量，使建筑物的移动减少高达 40%。阻尼器是一个受欢迎的旅游景点，展示了使 101 层塔楼在自然灾害面前保持稳定的创新工程。这一设计特点与其他抗灾措施一起，使台北 101 大楼成为地震多发地区的安全地标。]]></description>
+      <guid>https://t.me/hn_summary/83089</guid>
+      <pubDate>Fri, 05 Apr 2024 18:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，作者挑战了 Rust 难以学习的观点，并提供了 [...]</title>
-      <link>https://t.me/hn_summary/83055</link>
-      <description><![CDATA[简单模式 Rust
-在这篇文章中，作者挑战了 Rust 难以学习的观点，并提供了一种不同的学习该语言的方法。通过专注于一小部分概念并避免更复杂的主题（例如语法、借用规则和宏），作者建议初学者可以快速提高 Rust 的工作效率，并随着时间的推移巩固他们的知识。作者强调了通过首先接受“不合格”代码并随后清理来鼓励新学习者和同事的重要性。这种非常规的方法旨在让 Rust 更容易上手，并且对新手来说不那么令人生畏。 （根据故事文本的 46% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83055</guid>
-      <pubDate>Fri, 05 Apr 2024 11:52:41 GMT</pubDate>
+      <title>作者讨论了最近一篇关于佩里学前班项目的研究论文，重点关注 [...]</title>
+      <link>https://t.me/hn_summary/83088</link>
+      <description><![CDATA[此类研究中的随机化在实践中可以说是负面的 
+作者讨论了最近一篇关于佩里学前班项目的研究论文，重点关注方法论而不是应用。本文探讨了不完美随机化对项目结果推断的影响。作者和 Dean Eckles 就测量的重要性、样本量以及研究中过度依赖随机化的潜在陷阱进行了对话。作者认为随机化可能导致对研究结果的过度自信，并强调考虑随机化之外的设计因素的重要性。争议在于作者声称随机化在某些研究环境中可能是一个负面因素。]]></description>
+      <guid>https://t.me/hn_summary/83088</guid>
+      <pubDate>Fri, 05 Apr 2024 18:16:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 WannaCry 勒索软件流行的世界中，网络安全研究员 Marcu [...]</title>
-      <link>https://t.me/hn_summary/83054</link>
-      <description><![CDATA[拯救互联网的黑客马库斯·哈钦斯的自白
-在 WannaCry 勒索软件大流行肆虐的世界中，网络安全研究员马库斯·哈钦斯 (Marcus Hutchins) 做出了一项令人惊讶的发现，该发现将改变危机的进程。随着恶意代码在全球范围内传播混乱，哈钦斯注意到恶意软件中嵌入了一个特殊的网址。经过进一步调查，他发现该网站并不存在，这让他相信这可能是勒索软件的终止开关。凭借敏捷的思维和运气，哈钦斯注册了该域名，无意中阻止了 WannaCry 的传播，并拯救了无数计算机免遭进一步的损害。他的行动是对抗网络威胁的关键时刻。]]></description>
-      <guid>https://t.me/hn_summary/83054</guid>
-      <pubDate>Fri, 05 Apr 2024 11:50:37 GMT</pubDate>
+      <title>[媒体]第四维度是什么？</title>
+      <link>https://t.me/hn_summary/83087</link>
+      <description><![CDATA[什么是第四维度？ (1884)
+本文通过考察我们在三维空间中存在的局限性来探讨第四维度的概念。它讨论了生活在一维或二维中的生物如何感知他们的世界，以及我们对空间的理解如何受到我们的经验的限制。作者深入研究数学概念来解释从一维到三维的进展，并提出四维图形是什么样子的问题。这篇文章挑战读者超越他们目前对空间的理解，并考虑更高维度存在的可能性。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83087</guid>
+      <pubDate>Fri, 05 Apr 2024 18:15:43 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：我想在我所在城市的学校提供​​免费 WiFi，我该怎么做？</title>
-      <link>https://t.me/hn_summary/83053</link>
-      <description><![CDATA[询问 HN：我想在我所在城市的学校安装免费 WiFi ，我该怎么办？
-作者正在寻求有关如何在所在城市的学校实施免费 WiFi 的建议。他们正在考虑两种方法：为每所学校进行独立设置，或者建立一个全市网络，让学生可以在任何学校访问 WiFi。他们正在寻找有关设备、基础设施、定价估算以及提供类似解决方案的现有公司的建议。作者正在寻求有关该项目的技术和后勤方面的指导，强调在学校提供免费 WiFi 的潜在影响。]]></description>
-      <guid>https://t.me/hn_summary/83053</guid>
-      <pubDate>Fri, 05 Apr 2024 10:34:12 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了 GNU Autoconf 配置脚本的缓慢性和 [...]</title>
+      <link>https://t.me/hn_summary/83086</link>
+      <description><![CDATA[通过缓存加速 autoconf (2022)
+在这篇博文中，作者讨论了 GNU Autoconf 配置脚本的缓慢性及其对构建时间的影响，尤其是在批量构建场景中。作者介绍了缓存配置检查的概念以加快该过程，并强调了可以节省的潜在时间。作者还介绍了一个名为 autoswc 的工具，它有助于以安全的方式自动进行系统范围的配置检查缓存。虽然该工具功能齐全，但作者承认它需要手动管理检查，这可能是一项具有挑战性的任务。总的来说，这篇文章为优化构建流程和提高软件开发效率提供了宝贵的见解。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83086</guid>
+      <pubDate>Fri, 05 Apr 2024 18:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>Proton Mail 指责微软新的 Outlook for Windows 应用程序是一个数据收集服务 [...]</title>
-      <link>https://t.me/hn_summary/83052</link>
-      <description><![CDATA[Proton Mail 称 Outlook for Windows 是微软的新数据收集服务
-Proton Mail 指责微软新的 Outlook for Windows 应用程序是一项数据收集服务，与 772 家广告商共享用户数据。该应用程序从用户那里收集广泛的数据，包括个人信息、密码，甚至语音数据。 Proton 声称，微软与其他从事数据收集和定向广告的公司没有什么不同。新的 Outlook 应用程序会显示看起来像消息通知的广告，并将第三方电子邮件帐户与该应用程序同步，从而将密码和其他数据发送到微软的服务器。 Proton 推荐 Thunderbird 和 Apple Mail 作为替代电子邮件客户端。]]></description>
-      <guid>https://t.me/hn_summary/83052</guid>
-      <pubDate>Fri, 05 Apr 2024 10:20:06 GMT</pubDate>
+      <title>在 PromptLayer，我们最近举办了一场即时工程锦标赛，参赛者设计了 [...]</title>
+      <link>https://t.me/hn_summary/83085</link>
+      <description><![CDATA[我们的即时工程锦标赛的最爱
+在 PromptLayer，我们最近举办了一场提示工程锦标赛，参赛者设计了针对评估管道运行的提示。一些出色的提示包括一个强调明确的指导方针，另一个巧妙地借用了成功的提示，以及一些利用了几次提示和代码风格语言等技术的提示。获胜的提示结合了角色扮演、经济激励和反幻觉措施，以有效指导模型的反应。该活动突出了即时工程的艺术，展示了可以显着提高模型性能的创新策略。请继续关注我们继续探索和发展这个令人兴奋的领域！请通过 hello@promptlayer.com 联系我们了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/83085</guid>
+      <pubDate>Fri, 05 Apr 2024 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Time.com 上发表的一篇开创性文章中，作者深入探讨了童年的世界 [...]</title>
-      <link>https://t.me/hn_summary/83051</link>
-      <description><![CDATA[了解童年创伤可以帮助我们变得更有韧性&lt; br/&gt;
-在 Time.com 上发表的一篇开创性文章中，作者深入研究了儿童创伤的世界，强调了全球每年有 10 亿儿童遭受虐待的惊人统计数据。通过伊森和凯文这两个经历过不同类型不良童年经历 (ACE) 的孩子的故事，作者探讨了创伤如何在个体中以独特的方式表现出来。通过了解创伤特征的概念（不良经历引起的精神扭曲的具体标识符），护理人员和教育工作者可以制定干预措施，帮助儿童康复并增强复原力。本文强调了根据每个孩子的具体需求来识别和应对创伤的重要性，最终为更光明的未来铺平道路。]]></description>
-      <guid>https://t.me/hn_summary/83051</guid>
-      <pubDate>Fri, 05 Apr 2024 10:01:57 GMT</pubDate>
+      <title>[媒体] Altitude Cyber​​ 的 2023 年网络安全年度回顾报告深入探讨了行业 [...]</title>
+      <link>https://t.me/hn_summary/83084</link>
+      <description><![CDATA[Altitude Cyber​​ 2023 年网络安全回顾（及以后）的主题&lt; /a&gt;
+Altitude Cyber​​ 的 2023 年网络安全回顾报告深入探讨了行业趋势。尽管与 2021 年的繁荣相比，并购活动有所下滑，但私募股权买家比以往任何时候都更加活跃，推动了更大规模的收购。战略买家保持一致，网络安全顶级投资者坚守阵地。该报告要求读者思考 2021 年没有异常的世界，强调了该行业的弹性和增长潜力。该报告着眼于长期承诺和乐观态度，为不断发展的网络安全格局提供了独特的视角。]]></description>
+      <guid>https://t.me/hn_summary/83084</guid>
+      <pubDate>Fri, 05 Apr 2024 18:04:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，我们深入研究了线性反馈移位寄存器 (LFSR) 的世界 [...]</title>
-      <link>https://t.me/hn_summary/83050</link>
-      <description><![CDATA[了解 FPGA 中的线性反馈移位寄存器
-在这篇博文中，我们深入探讨了 FPGA 设计中的线性反馈移位寄存器 (LFSR) 的世界。 LFSR 可用于生成随机测试模式、计数器、数据加扰/解扰以及错误检测/纠正。这篇文章解释了实现 LFSR 的两种方法 - 斐波那契和伽罗瓦，并强调了了解哪种方法最适合您的应用程序的重要性。这篇文章还提供了使用这两种技术实现 LFSR 的源代码。一个令人惊讶的转折是在下一篇博客文章中提到将 LFSR 与 ILA 和测试设备结合使用。该帖子还推荐了 Peter Alfke 撰写的有用的应用说明，其中列出了 LFSR 反馈点击列表。]]></description>
-      <guid>https://t.me/hn_summary/83050</guid>
-      <pubDate>Fri, 05 Apr 2024 09:48:49 GMT</pubDate>
+      <title>本文讨论了 AI 生成图像的进步以及新 SDXL 的发布 [...]</title>
+      <link>https://t.me/hn_summary/83083</link>
+      <description><![CDATA[从 VAE 伪像中识别稳定的 Diffusion XL 1.0 图像&lt; br/&gt;
+本文讨论了 AI 生成图像的进步以及新的 SDXL 1.0 文本到图像生成模型的发布。由于使用 VAE 神经网络进行编码和解码，新模型的边缘周围存在明显的伪影。有人猜测这些伪影是否可以作为识别人工智能生成图像的水印。本文还深入探讨了 0.9 和 1.0 VAE 版本之间的差异，其中 1.0 VAE 显示出较低的 PSNR 值。训练神经网络来检测由不同 VAE 解码的图像，其中 1.0 VAE 图像更容易识别。本文最后讨论了将检测推广到更大的图像和可视化卷积核。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83083</guid>
+      <pubDate>Fri, 05 Apr 2024 17:38:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
