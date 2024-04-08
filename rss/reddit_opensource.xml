@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 12:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 15:18:51 GMT</lastBuildDate>
     <item>
       <title>错过了 GSOC 截止日期</title>
       <link>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</link>
@@ -48,9 +48,9 @@
       <pubDate>Sun, 07 Apr 2024 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>像安德烈斯·弗罗因德（Andres Freund）发现的那样的漏洞为什么不会经常发生呢？</title>
+      <title>像安德烈斯·弗罗因德（Andres Freund）发现的漏洞这样的漏洞为什么不会经常发生呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</link>
-      <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任并贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
+      <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任，然后贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</guid>
       <pubDate>Sun, 07 Apr 2024 17:51:41 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>开源——接下来的步骤是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</link>
-      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交/u/Accurate-Screen8774   reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</guid>
       <pubDate>Sun, 07 Apr 2024 12:57:17 GMT</pubDate>
     </item>
@@ -99,12 +99,12 @@
     <item>
       <title>物理 Github 计数器显示</title>
       <link>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</link>
-      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目的房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
+      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</guid>
       <pubDate>Sat, 06 Apr 2024 08:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>Xr0：C 编程语言验证器（C 但安全）</title>
+      <title>Xr0：C 编程语言的验证器（C 但安全）</title>
       <link>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</link>
       <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</guid>
