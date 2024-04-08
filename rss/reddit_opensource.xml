@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 01:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 03:21:03 GMT</lastBuildDate>
     <item>
       <title>开源存储库的人工智能维护者？！</title>
       <link>https://www.reddit.com/r/opensource/comments/1bykg2s/an_ai_maintainer_for_opensource_repositories/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sun, 07 Apr 2024 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>像安德烈斯·弗罗因德（Andres Freund）发现的那样的漏洞为什么不会经常发生呢？</title>
+      <title>像安德烈斯·弗罗因德（Andres Freund）发现的漏洞这样的漏洞为什么不会经常发生呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</link>
       <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任并贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</guid>
@@ -50,16 +50,9 @@
     <item>
       <title>开源——接下来的步骤是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</link>
-      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交/u/Accurate-Screen8774   reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</guid>
       <pubDate>Sun, 07 Apr 2024 12:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis牌照变更：OSS与云计算巨头的博弈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1by3q8n/redis_license_change_a_competitive_game_between/</link>
-      <description><![CDATA[太多人是线性思考者。仅仅因为某件事一直是某种方式并不意味着它今天仍然是正确的。开源的源代码许可也需要适应新时代的变化。 Redis 协议的改变是可以理解的，但大多数抱怨可能是出于“害怕错过（FoMO）”的心理。如果Redis一开始就采用BSL的话，就不会有这么多麻烦了。因此，我们的项目AutoMQ从一开始就采用了BSL协议。像BSL这样的许可证，不是传统的开源许可证，与开源精神并不冲突。 ​ 参考：Redis 许可证变更：竞争游戏概览OSS与云计算巨头之间的斗争   由   提交 /u/wanshao   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1by3q8n/redis_license_change_a_competitive_game_between/</guid>
-      <pubDate>Sun, 07 Apr 2024 12:50:00 GMT</pubDate>
     </item>
     <item>
       <title>浏览器残酷者</title>
@@ -92,7 +85,7 @@
     <item>
       <title>物理 Github 计数器显示</title>
       <link>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</link>
-      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目的房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
+      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</guid>
       <pubDate>Sat, 06 Apr 2024 08:26:49 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[   /u/purple_editor_  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bwt6a7/aws_reaffirms_commitment_to_valkey_and_open/</guid>
       <pubDate>Fri, 05 Apr 2024 21:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>缩放的替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bwrzjm/alternativa_to_zoom/</link>
+      <description><![CDATA[大家好。我正在寻找 Zoom 的免费开源替代品。我正在寻找的主要功能是白板、良好的音频质量以及尽可能在许多操作系统中的可用性。 我是数学教授，我需要一个良好的教学平台。昨天我看到了 Zoom 的定价计划，它们似乎超出了我的需求。另一方面，我一直更喜欢开源软件。 提前致谢，对我的英语不好表示歉意。   由   提交 /u/Any-Noise-6677   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bwrzjm/alternativa_to_zoom/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:20:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
