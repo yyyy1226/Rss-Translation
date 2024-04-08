@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 12:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 21:17:02 GMT</lastBuildDate>
     <item>
-      <title>标题：显示 HN：我扫描了 50K xyz 域</title>
-      <link>https://t.me/hn_summary/83471</link>
-      <description><![CDATA[显示 HN：我扫描了 50K xyz 域名
-标题：显示 HN：我扫描了 50K xyz 域名
-
-我最近扫描了 XYZ 一代以每年 0.99 美元的价格提供的 1.111B 类 .xyz 域名中的前 500 万个域名。在扫描的域中，超过 50,000 个已注册并拥有 DNS 记录。我创建了一个地图，其中每个像素代表一个域，按主机分组。这是探索注册域名的一种很酷的方式，但请注意，其中许多都是 NSFW。完整的数据集可供下载，我建议站点管理员保护其站点。查看我网站上的地图 willmeye.rs 并祝您探索愉快！]]></description>
-      <guid>https://t.me/hn_summary/83471</guid>
-      <pubDate>Mon, 08 Apr 2024 12:27:31 GMT</pubDate>
+      <title>[媒体]BunkerWeb 是一个开源的下一代 Web 应用程序防火墙 (WAF)，可确保 [...]</title>
+      <link>https://t.me/hn_summary/83586</link>
+      <description><![CDATA[显示 HN：BunkerWeb – 开源和下一代 Web应用防火墙（WAF）
+BunkerWeb 是一种开源的下一代 Web 应用程序防火墙 (WAF)，可确保您的 Web 服务在默认情况下是安全的。通过无缝集成到各种环境和用户友好的 Web UI，BunkerWeb 提供可定制的安全功能和用于附加措施的插件系统。值得注意的亮点包括 HTTPS 支持、ModSecurity WAF 集成以及自动禁止奇怪行为。 PRO版本增强了安全性和用户体验，同时提供专业的技术支持和咨询服务。 BunkerWeb 根据 AGPLv3 授权，强调自由和开放。立即加入支持社区并探索一系列令人印象深刻的安全功能。]]></description>
+      <guid>https://t.me/hn_summary/83586</guid>
+      <pubDate>Mon, 08 Apr 2024 21:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Notepad++ 官方网站 notepad-plus-plus.org 正面临来自 paras [...]</title>
-      <link>https://t.me/hn_summary/83470</link>
-      <description><![CDATA[Notepad++：帮助我们拿下寄生虫网站 
-Notepad++ 官方网站，notepad-plus-plus.org 正面临来自寄生虫网站 https://notepad.plus/ 的威胁。该网站尽管声称是非官方网站，但却充满了恶意广告，旨在欺骗用户并为网站所有者赚取利润。它对用户安全和社区完整性构成重大风险。我们敦促用户举报这个有害网站，以保护 Notepad++ 社区并为所有人维护一个安全的在线环境。您的警惕对于摧毁这个寄生虫网站和保护我们的社区至关重要。感谢您及时采取行动。Notepad++Notepad++ -下载适用于 Windows 10,11,7,8,Vista（64/32 位）的 Notepad++适用于 Windows 10,11,7,8,Vista（64/32 位）的 Notepad++ 免费下载。完整的源代码编辑器和记事本替换。]]></description>
-      <guid>https://t.me/hn_summary/83470</guid>
-      <pubDate>Mon, 08 Apr 2024 12:08:21 GMT</pubDate>
+      <title>[媒体] 天文学家预测，重复出现的新星 T Coronae Borealis 将同样明亮地发光 [...]</title>
+      <link>https://t.me/hn_summary/83585</link>
+      <description><![CDATA[一生一次的恒星爆炸出现在天空中活动
+天文学家预测，在未来五个月内，重复出现的新星T Coronae Borealis将像北极星一样明亮，为业余天文学家提供难得的目睹这一天体事件的机会。北冕座的双星系统每 80 年就会发生一次大规模爆炸，在夜空中创造出壮观的灯光秀。这种现象于 1866 年首次被发现，是红巨星和白矮星之间独特关系的结果。科学家们正在热切地等待这一事件，詹姆斯·韦伯太空望远镜已准备好捕捉这一奇观。]]></description>
+      <guid>https://t.me/hn_summary/83585</guid>
+      <pubDate>Mon, 08 Apr 2024 21:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tembo.io 成立的目标是创建最好的 Postgres 服务来部署 [...]</title>
-      <link>https://t.me/hn_summary/83469</link>
-      <description><![CDATA[用 Rust 构建托管 Postgres 服务
-Tembo.io 成立的目标是创建最好的 Postgres 服务用于部署扩展，但后来演变为为工作负载提供优化的 Postgres 实例。该平台采用控制平面和数据平面架构构建，可实现解耦和高效管理。 Rust 中的有限状态机处理复杂的状态转换，确保平稳运行。平面之间的任务被缓冲以适应可变的处理时间。该平台利用 Postgres 作为任务队列，并通过 Conductor 在数据平面中处理事件。该平台是开源的，并且不断发展，为那些对平台和产品角色感兴趣的人提供了机会。]]></description>
-      <guid>https://t.me/hn_summary/83469</guid>
-      <pubDate>Mon, 08 Apr 2024 11:07:01 GMT</pubDate>
+      <title>[媒体]恐惧会阻碍程序员做出必要改变和改进的能力，例如 [...]</title>
+      <link>https://t.me/hn_summary/83584</link>
+      <description><![CDATA[恐惧会让你成为更糟糕的程序员
+恐惧会阻碍程序员进行必要的更改和改进的能力，从而导致更糟糕的软件。版本控制和测试等工具可以帮助建立信心并减少恐惧。无过失的事后剖析和恢复性司法实践也可以减轻对犯错误的恐惧。非理性的恐惧会感染他人并影响未来的工作。总的来说，解决编程中的恐惧可以带来更好的结果和更高效的工作环境。恐惧驱动的开发演示引发了关于编程中恐惧的讨论，为克服该领域的恐惧提供了宝贵的见解和策略。]]></description>
+      <guid>https://t.me/hn_summary/83584</guid>
+      <pubDate>Mon, 08 Apr 2024 21:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] security.opensuse.org 上的 SUSE 安全团队限制 system-w 的安装 [...]</title>
-      <link>https://t.me/hn_summary/83468</link>
-      <description><![CDATA[KDE6 版本：D-Bus 和 Polkit Galore&lt; br/&gt;
-security.opensuse.org 上的 SUSE 安全团队限制在 openSUSE 发行版和派生的 SUSE 产品中安装系统范围的 D-Bus 服务和 Polkit 策略。在一次独特的体验中，他们审查了即将发布的 KDE6 主要版本的一长串 KDE 组件，需要调整 D-Bus 和 Polkit 白名单。本文深入研究了 D-Bus 和 Polkit 系统，强调了安全问题，例如涵盖所有特权代码路径和 Polkit 的集成挑战。 KDE KAuth 框架中的一个重大安全缺陷于 2017 年被发现，导致对 KDE6 版本进行了专门的后续审查。发现了 QVariantMap 序列化数据和过度开放的 D-Bus 配置文件的令人惊讶的问题，强调了在生产发布之前进行彻底安全检查的重要性。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83468</guid>
-      <pubDate>Mon, 08 Apr 2024 11:02:56 GMT</pubDate>
+      <title>[媒体]研究人员发现触摸对身体和[...]都有显着的好处</title>
+      <link>https://t.me/hn_summary/83583</link>
+      <description><![CDATA[研究人员表示，触摸可以减轻疼痛、抑郁和焦虑
+研究人员发现触摸对身心健康都有显着的好处。对 212 项研究的综合分析表明，触摸可以减轻成人和儿童的疼痛、抑郁和焦虑，并增加新生儿的体重增加。令人惊讶的是，研究发现，社交机器人或加重毯子等物体的触摸与其他人类的触摸具有类似的好处。这项研究表明，触摸干预可能很有价值，特别是在身体接触有限的情况下，例如在 Covid-19 大流行期间。这些发现也可能为进一步探索触摸疗法的潜在益处铺平道路。]]></description>
+      <guid>https://t.me/hn_summary/83583</guid>
+      <pubDate>Mon, 08 Apr 2024 21:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Uptime.website，这是一款免费工具，可让您检查任何网站的正常运行时间状态 [...]</title>
-      <link>https://t.me/hn_summary/83467</link>
-      <description><![CDATA[显示 HN：Uptime.website – 免费的正常运行时间检查工具
-隆重推出 Uptime.website，这是一款免费工具，可让您检查只需输入 URL，即可了解任何网站的正常运行时间状态。通过这个易于使用的工具，您可以快速确定网站是否正常运行或遇到停机。跟踪您最喜爱的网站并确保您的受众始终可以访问它们。使用 Uptime.website&lt; 告别因不知道网站何时关闭而带来的挫败感/a&gt;.立即访问 www.uptime.website 进行查看。]]></description>
-      <guid>https://t.me/hn_summary/83467</guid>
-      <pubDate>Mon, 08 Apr 2024 11:00:51 GMT</pubDate>
+      <title>[媒体]经典的Win32 ListView如何处理增量搜索？</title>
+      <link>https://t.me/hn_summary/83582</link>
+      <description><![CDATA[经典的 Win32 ListView 如何处理增量搜索？ 
+经典的Win32 ListView支持增量搜索，允许用户通过键入来搜索项目。但是，用户可能期望两种不同的搜索模式：一种是重复键入相同的字母来选择以该字母开头的项目，另一种是键入不同的字母根据键入的前缀来选择项目。 Win32 ListView 巧妙地结合了这两种模式：重复键入相同的字母会选择以该字母开头的项目，而键入不同的字母会根据键入的前缀选择项目。这种独特的方法可以为用户带来更直观、更灵活的搜索体验。]]></description>
+      <guid>https://t.me/hn_summary/83582</guid>
+      <pubDate>Mon, 08 Apr 2024 21:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>Blocky 是一款功能强大的 DNS 代理和广告拦截器，专为本地网络使用而设计。</title>
-      <link>https://t.me/hn_summary/83466</link>
-      <description><![CDATA[Blocky – 本地网络的 DNS 代理和广告拦截器&lt; /a&gt;
-Blocky 是一款功能强大的 DNS 代理和广告拦截器，专为本地网络使用而设计。通过将 DNS 查询重定向到自定义服务器，Blocky 能够阻止不需要的广告和跟踪脚本到达连接到网络的设备。这不仅提高了浏览速度，还增强了隐私和安全性。 Blocky 具有易于使用的界面和可自定义的阻止列表，是任何想要掌控在线体验的人的必备工具。屏蔽广告的道德影响可能会引起争议，但提高速度和隐私的好处是不可否认的。]]></description>
-      <guid>https://t.me/hn_summary/83466</guid>
-      <pubDate>Mon, 08 Apr 2024 10:58:48 GMT</pubDate>
+      <title>[媒体] Antonymph 是一种创新的视听体验，可以通过您的 br [...]</title>
+      <link>https://t.me/hn_summary/83581</link>
+      <description><![CDATA[Antonymph：使用浏览器的视听体验
+Antonymph 是一种创新的视听体验，可以通过浏览器访问 lyra.horse&lt; /a&gt;.这个独特的项目为用户提供了一段令人着迷的探索和享受之旅。通过单击 Alt 键强制停止体验，用户可以控制与内容的交互。该网站鼓励对随附的 YouTube 视频提供反馈和评论，营造社区感和参与感。总体而言，Antonymph 提供了一种创造性的、身临其境的体验，一定会吸引和娱乐用户。]]></description>
+      <guid>https://t.me/hn_summary/83581</guid>
+      <pubDate>Mon, 08 Apr 2024 21:03:43 GMT</pubDate>
     </item>
     <item>
-      <title>美国政府将向台积电提供资金。</title>
-      <link>https://t.me/hn_summary/83465</link>
-      <description><![CDATA[台积电获得美国 11.6B 美元拨款，为三个芯片工厂提供贷款&lt; /a&gt;
-美国政府将向台积电提供高达 116 亿美元的赠款和贷款，帮助其在亚利桑那州建立三座芯片工厂。此举是乔·拜登总统加强关键技术国内生产倡议的一部分。台积电作为全球顶级芯片制造商而闻名，除了该州已有的两座工厂外，还将在菲尼克斯建造第三座工厂。该协议预计将支持这三个工厂超过 650 亿美元的投资，巩固台积电作为苹果和英伟达等科技巨头主要供应商的地位。]]></description>
-      <guid>https://t.me/hn_summary/83465</guid>
-      <pubDate>Mon, 08 Apr 2024 10:53:44 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克 (Elon Musk) 今天是创新和争议的中心，马斯克的大胆想法和斯塔 [...]</title>
+      <link>https://t.me/hn_summary/83580</link>
+      <description><![CDATA[埃隆·马斯克今日
+今天的埃隆·马斯克是创新和争议的中心，马斯克的大胆想法和言论塑造着未来。从Twitter的十亿用户到特斯拉的精细政策，马斯克的愿景始终具有前瞻性。他计划创建“一切应用程序”并用火箭燃料解决气候变化问题。令人惊讶的是，他相信儿童对 COVID-19 免疫，而且特斯拉可以充当船。马斯克对火星殖民和可再生能源的计划雄心勃勃，而他对电动溜冰鞋和糖果公司的想法却出人意料。无论爱他还是恨他，埃隆·马斯克都是科技界不可忽视的力量。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83580</guid>
+      <pubDate>Mon, 08 Apr 2024 21:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在家工作越来越受欢迎，美国有14%的人在家工作</title>
-      <link>https://t.me/hn_summary/83464</link>
-      <description><![CDATA[即使一些首席执行官希望，在家工作也不会消失它会
-在家工作变得越来越流行，目前有 14% 的美国工人全职远程工作，预计到明年这一数字将增加到 20%。然而，一些首席执行官，例如 IBM 和亚马逊的首席执行官，正在推动员工返回办公室，声称远程工作在道德上是错误的或效率低下的。研究表明，远程工作实际上可以提高员工敬业度和生产力，让公司受益于更广泛的人才库。远程工作和办公室工作之间的争论仍在继续，许多科技公司选择了灵活的方法，允许员工选择工作地点。]]></description>
-      <guid>https://t.me/hn_summary/83464</guid>
-      <pubDate>Mon, 08 Apr 2024 10:52:41 GMT</pubDate>
+      <title>[媒体]法国凭借尖端军用无人机在国防工业领域掀起波澜 [...]</title>
+      <link>https://t.me/hn_summary/83579</link>
+      <description><![CDATA[法国拥有每个人都渴望得到的军用无人机雷达 
+法国凭借其尖端军用无人机雷达技术在国防工业中掀起波澜，引起了世界各国的关注。法国计划将国防预算增加一倍，希望加强其工业基础并加强武装部队。该雷达系统因其先进的功能和增强军事行动的潜力而引起了人们的极大兴趣。这一发展凸显了法国对创新和安全的承诺，使其成为全球国防市场的关键参与者。]]></description>
+      <guid>https://t.me/hn_summary/83579</guid>
+      <pubDate>Mon, 08 Apr 2024 20:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>一项开创性的研究表明，人工智能可以有效地对抗阴谋信仰，甚至阿蒙[...]</title>
-      <link>https://t.me/hn_summary/83463</link>
-      <description><![CDATA[人工智能指导洗脑有效消除阴谋信仰
-一项开创性的研究表明，人工智能可以有效地对抗阴谋信仰，即使是在坚定的信徒中也是如此。参与者与 AI 进行对话，使阴谋论信念减少 20%，持续至少 2 个月。这项研究激发了人们利用人工智能改变世界观的热情，但也引发了人们对独裁操纵的担忧。人工智能的说服能力凸显了其产生大规模社会影响力的潜力。研究结果表明，表现出自信和权威可能比之前想象的更有影响力。人与人工智能交互的独特属性，例如即时响应和感知到的无偏见，使人工智能在说服方面具有优势。人工智能大规模洗脑的影响令人担忧，凸显了负责任地使用这项技术的必要性。]]></description>
-      <guid>https://t.me/hn_summary/83463</guid>
-      <pubDate>Mon, 08 Apr 2024 10:41:34 GMT</pubDate>
+      <title>[媒体] GNU Stow 用户注意！</title>
+      <link>https://t.me/hn_summary/83578</link>
+      <description><![CDATA[GNU Stow 需要一个共同维护者
+GNU Stow 用户注意！我们需要一个共同维护者来帮助开发和维护这个重要的工具。如果您对开源软件充满热情并且拥有 GNU Stow 的经验，我们很乐意邀请​​您加入。您的贡献将受到社区的高度赞赏。对需要解决的项目的优先级进行投票，帮助塑造 GNU Stow 的未来。加入我们，为软件开发领域带来改变。让我们共同努力，确保 GNU Stow 不断取得成功。]]></description>
+      <guid>https://t.me/hn_summary/83578</guid>
+      <pubDate>Mon, 08 Apr 2024 20:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 CppCon 2023 演讲中，Jason Turner 对构成琐事的措辞提出质疑 [...]</title>
-      <link>https://t.me/hn_summary/83462</link>
-      <description><![CDATA[简单，但不是简单的默认可构造
-在 CppCon 2023 演讲中，Jason Turner 对 C++ 中平凡类的构成提出了质疑。他强调，平凡的类不一定需要默认可构造，并展示了一个示例，其中具有两个默认构造函数的类仍然被认为是平凡的，但由于重载解析模糊性而不能默认构造。关键点是，如果一个类型的操作与其对象表示上的相同操作等效，那么该类型就很简单。这揭示了 C++ 类中琐碎性的真正含义。]]></description>
-      <guid>https://t.me/hn_summary/83462</guid>
-      <pubDate>Mon, 08 Apr 2024 09:18:09 GMT</pubDate>
+      <title>[媒体]物理学家在开发核时钟方面取得了重大进展，核时钟是一种高精度 [...]</title>
+      <link>https://t.me/hn_summary/83577</link>
+      <description><![CDATA[物理学家在制造核钟方面迈出了重要一步 
+物理学家在开发核钟方面取得了重大进展，核钟是一种高度精确的计时装置，可能会彻底改变计时领域。通过测量原子核而不是电子的振动，这些时钟可能比当前的原子钟更精确。这一突破可能会对 GPS 和电信等技术产生深远的影响。这项研究仍处于早期阶段，但核钟的潜力既令人兴奋又充满争议，因为它挑战了我们目前对计时的理解。请继续关注这一突破性发展的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/83577</guid>
+      <pubDate>Mon, 08 Apr 2024 20:53:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
