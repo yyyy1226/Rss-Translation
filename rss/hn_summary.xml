@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:27:31 GMT</lastBuildDate>
     <item>
-      <title>加拿大人呼吁他们的政府在联邦宇宙（fediverse）上结成联盟，联邦宇宙是一个去中心化的社会 [...]</title>
-      <link>https://t.me/hn_summary/83449</link>
-      <description><![CDATA[加拿大人要求政府联合
-加拿大人呼吁政府在去中心化社交媒体平台 Fediverse 上建立联盟。该请愿书由国会议员戈德·约翰斯 (Gord Johns) 发起，强调了企业运营的社交媒体和 ActivityPub 等开源替代品倡导者引发的争议和冲突。到目前为止，请愿书只有 850 个签名，请愿书将于 4 月 21 日结束。这种走向更加透明和社区驱动的社交媒体格局的运动正在获得动力，希望为所有加拿大人创造一个更安全、更包容的在线环境。]]></description>
-      <guid>https://t.me/hn_summary/83449</guid>
-      <pubDate>Mon, 08 Apr 2024 06:19:35 GMT</pubDate>
+      <title>标题：显示 HN：我扫描了 50K xyz 域</title>
+      <link>https://t.me/hn_summary/83471</link>
+      <description><![CDATA[显示 HN：我扫描了 50K xyz 域名
+标题：显示 HN：我扫描了 50K xyz 域名
+
+我最近扫描了 XYZ 一代以每年 0.99 美元的价格提供的 1.111B 类 .xyz 域名中的前 500 万个域名。在扫描的域中，超过 50,000 个已注册并拥有 DNS 记录。我创建了一个地图，其中每个像素代表一个域，按主机分组。这是探索注册域名的一种很酷的方式，但请注意，其中许多都是 NSFW。完整的数据集可供下载，我建议站点管理员保护其站点。查看我网站上的地图 willmeye.rs 并祝您探索愉快！]]></description>
+      <guid>https://t.me/hn_summary/83471</guid>
+      <pubDate>Mon, 08 Apr 2024 12:27:31 GMT</pubDate>
     </item>
     <item>
-      <title>经过 352 天和 10,000 英里后，拉斯·库克 (Russ Cook) 完成了他从南端令人难以置信的跑步 [...]</title>
-      <link>https://t.me/hn_summary/83448</link>
-      <description><![CDATA[10k 英里和 352 天后，一名英国男子跑完了全程非洲
-经过 352 天和 10,000 英里的路程，拉斯·库克 (Russ Cook) 完成了从非洲最南端到最北端的不可思议的跑步。尽管一路上面临盗窃、受伤和签证问题，英国慈善筹款活动仍坚持不懈，为无家可归的青少年和流离失所者筹集了超过 69 万英镑。库克被称为“最难的老头”，他的旅程充满了挑战和胜利，同时通过他对跑步的热情传播了对心理健康的认识。当库克在突尼斯与支持者庆祝时，他期待着在海滩上举办一场当之无愧的派对，包括草莓代基里酒和英国乐队 Soft Play 的表演。]]></description>
-      <guid>https://t.me/hn_summary/83448</guid>
-      <pubDate>Mon, 08 Apr 2024 05:17:17 GMT</pubDate>
+      <title>[媒体] Notepad++ 官方网站 notepad-plus-plus.org 正面临来自 paras [...]</title>
+      <link>https://t.me/hn_summary/83470</link>
+      <description><![CDATA[Notepad++：帮助我们拿下寄生虫网站 
+Notepad++ 官方网站，notepad-plus-plus.org 正面临来自寄生虫网站 https://notepad.plus/ 的威胁。该网站尽管声称是非官方网站，但却充满了恶意广告，旨在欺骗用户并为网站所有者赚取利润。它对用户安全和社区完整性构成重大风险。我们敦促用户举报这个有害网站，以保护 Notepad++ 社区并为所有人维护一个安全的在线环境。您的警惕对于摧毁这个寄生虫网站和保护我们的社区至关重要。感谢您及时采取行动。Notepad++Notepad++ -下载适用于 Windows 10,11,7,8,Vista（64/32 位）的 Notepad++适用于 Windows 10,11,7,8,Vista（64/32 位）的 Notepad++ 免费下载。完整的源代码编辑器和记事本替换。]]></description>
+      <guid>https://t.me/hn_summary/83470</guid>
+      <pubDate>Mon, 08 Apr 2024 12:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Spotify 推出了新的 AI 播放列表功能，允许用户生成个性化 [...]</title>
-      <link>https://t.me/hn_summary/83447</link>
-      <description><![CDATA[Spotify 推出个性化 AI 播放列表，您可以使用提示构建这些播放列表
-Spotify 推出了新的 AI 播放列表功能，允许用户根据书面提示生成个性化播放列表。这一创新功能使用人工智能技术来了解用户的意图和偏好，根据各种提示（从流派到活动再到电影角色）创建播放列表。用户可以通过发出“不太乐观”或“更流行”等命令来进一步细化他们的播放列表。 AI有护栏来防止攻击性提示。 Spotify 对 AI 技术的投资已经有一段时间了，之前有 AI DJ 等功能。首席执行官 Daniel Ek 暗示即将推出更多人工智能驱动的功能。]]></description>
-      <guid>https://t.me/hn_summary/83447</guid>
-      <pubDate>Mon, 08 Apr 2024 05:16:13 GMT</pubDate>
+      <title>[媒体] Tembo.io 成立的目标是创建最好的 Postgres 服务来部署 [...]</title>
+      <link>https://t.me/hn_summary/83469</link>
+      <description><![CDATA[用 Rust 构建托管 Postgres 服务
+Tembo.io 成立的目标是创建最好的 Postgres 服务用于部署扩展，但后来演变为为工作负载提供优化的 Postgres 实例。该平台采用控制平面和数据平面架构构建，可实现解耦和高效管理。 Rust 中的有限状态机处理复杂的状态转换，确保平稳运行。平面之间的任务被缓冲以适应可变的处理时间。该平台利用 Postgres 作为任务队列，并通过 Conductor 在数据平面中处理事件。该平台是开源的，并且不断发展，为那些对平台和产品角色感兴趣的人提供了机会。]]></description>
+      <guid>https://t.me/hn_summary/83469</guid>
+      <pubDate>Mon, 08 Apr 2024 11:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LeoDJ 通过 DongleHider+ 为 Framework 笔记本电脑所有者创建了一个巧妙的解决方案 [...]</title>
-      <link>https://t.me/hn_summary/83446</link>
-      <description><![CDATA[框架笔记本电脑DongleHider扩展卡，最多可隐藏三个加密狗
-LeoDJ 使用 DongleHider+ 扩展卡为 Framework 笔记本电脑用户创建了一个巧妙的解决方案，允许谨慎隐藏最多三个加密狗，同时还提供 USB Type-A 端口。虽然 DIY 方面可能会让一些人感到害怕，但我们为那些愿意接受挑战的人提供了明确的说明。该项目提供了一种独特的方法来解决蓝牙延迟并保持笔记本电脑外观整洁。还包括针对 Framework 笔记本电脑用户的兼容性说明。总的来说，这款创新的扩展卡肯定会受到那些希望简化设置的人的赞赏。]]></description>
-      <guid>https://t.me/hn_summary/83446</guid>
-      <pubDate>Mon, 08 Apr 2024 05:13:09 GMT</pubDate>
+      <title>[媒体] security.opensuse.org 上的 SUSE 安全团队限制 system-w 的安装 [...]</title>
+      <link>https://t.me/hn_summary/83468</link>
+      <description><![CDATA[KDE6 版本：D-Bus 和 Polkit Galore&lt; br/&gt;
+security.opensuse.org 上的 SUSE 安全团队限制在 openSUSE 发行版和派生的 SUSE 产品中安装系统范围的 D-Bus 服务和 Polkit 策略。在一次独特的体验中，他们审查了即将发布的 KDE6 主要版本的一长串 KDE 组件，需要调整 D-Bus 和 Polkit 白名单。本文深入研究了 D-Bus 和 Polkit 系统，强调了安全问题，例如涵盖所有特权代码路径和 Polkit 的集成挑战。 KDE KAuth 框架中的一个重大安全缺陷于 2017 年被发现，导致对 KDE6 版本进行了专门的后续审查。发现了 QVariantMap 序列化数据和过度开放的 D-Bus 配置文件的令人惊讶的问题，强调了在生产发布之前进行彻底安全检查的重要性。 （根据故事文本的 39% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83468</guid>
+      <pubDate>Mon, 08 Apr 2024 11:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]消费品中发现的阻燃剂与 c [...]</title>
-      <link>https://t.me/hn_summary/83445</link>
-      <description><![CDATA[消费品中发现的阻燃剂与癌症有关&lt; br/&gt;
-一项新研究表明，消费品中发现的阻燃剂与癌症死亡风险增加有关。这些被称为多溴联苯醚的化学物质与各种健康问题有关，包括内分泌干扰和神经发育障碍。尽管努力逐步淘汰其中一些化学物质，但它们在环境中仍然普遍存在，并且可以在各种家居用品中找到。为了减少接触，专家建议使用不含阻燃剂的材料封装带衬垫的产品，并定期清洁。订阅 CNN 的《Life, But Better》时事通讯，了解最新情况并采取措施保护您的健康。]]></description>
-      <guid>https://t.me/hn_summary/83445</guid>
-      <pubDate>Mon, 08 Apr 2024 05:12:06 GMT</pubDate>
+      <title>隆重推出 Uptime.website，这是一款免费工具，可让您检查任何网站的正常运行时间状态 [...]</title>
+      <link>https://t.me/hn_summary/83467</link>
+      <description><![CDATA[显示 HN：Uptime.website – 免费的正常运行时间检查工具
+隆重推出 Uptime.website，这是一款免费工具，可让您检查只需输入 URL，即可了解任何网站的正常运行时间状态。通过这个易于使用的工具，您可以快速确定网站是否正常运行或遇到停机。跟踪您最喜爱的网站并确保您的受众始终可以访问它们。使用 Uptime.website&lt; 告别因不知道网站何时关闭而带来的挫败感/a&gt;.立即访问 www.uptime.website 进行查看。]]></description>
+      <guid>https://t.me/hn_summary/83467</guid>
+      <pubDate>Mon, 08 Apr 2024 11:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Google 工作五年多后，我的最后一天是 3 月 31 日。</title>
-      <link>https://t.me/hn_summary/83444</link>
-      <description><![CDATA[离开 Google
-在 Google 工作五年多后，3 月 31 日是我的最后一天。我从事信息安全工程工作，专注于第三方安全和沙盒。我删除了数百万行代码，添加了数十万行代码，并进行了数千次提交。我的副业项目 GoogleCTF 和 Hackceler8 取得了巨大的成功。苏黎世的办公室非常棒，有一个抱石健身房和美味的食物。我与非常聪明的同事一起工作，并获得了难忘的经历，比如与零号项目讨论 NSO 奇怪的 PDF 机器。我离开是因为我的远程工作请求被拒绝，但谷歌仍然是一个很棒的工作场所。现在，我很高兴探索新的机会。]]></description>
-      <guid>https://t.me/hn_summary/83444</guid>
-      <pubDate>Mon, 08 Apr 2024 05:00:00 GMT</pubDate>
+      <title>Blocky 是一款功能强大的 DNS 代理和广告拦截器，专为本地网络使用而设计。</title>
+      <link>https://t.me/hn_summary/83466</link>
+      <description><![CDATA[Blocky – 本地网络的 DNS 代理和广告拦截器&lt; /a&gt;
+Blocky 是一款功能强大的 DNS 代理和广告拦截器，专为本地网络使用而设计。通过将 DNS 查询重定向到自定义服务器，Blocky 能够阻止不需要的广告和跟踪脚本到达连接到网络的设备。这不仅提高了浏览速度，还增强了隐私和安全性。 Blocky 具有易于使用的界面和可自定义的阻止列表，是任何想要掌控在线体验的人的必备工具。屏蔽广告的道德影响可能会引起争议，但提高速度和隐私的好处是不可否认的。]]></description>
+      <guid>https://t.me/hn_summary/83466</guid>
+      <pubDate>Mon, 08 Apr 2024 10:58:48 GMT</pubDate>
     </item>
     <item>
-      <title>Awesome-Code-AI – AI 编码工具列表（助手、补全等）</title>
-      <link>https://t.me/hn_summary/83443</link>
-      <description><![CDATA[Awesome-Code-AI – 人工智能编码工具列表（助理、完成等）
-GitHub 上的 Awesome-Code-AI 项目是一个精选的 AI 编码工具列表，例如助手、补全和重构工具。它包括 GitHub Copilot、Codeium、Tabnine 等流行工具。该项目邀请用户打开拉取请求以添加或编辑列表。该项目的独特之处在于其全面的 AI 编码工具集合，包括 Salesforce CodeGen 和 OpenAI Codex 等代码补全 LLM、Replit Ghostwriter 和 Wizi 等 AI 代码助手/搜索工具，以及 Parsel 等由 LLM 驱动的自然语言编译器。此外，它还包括 Pixee 等工具，用于查找代码中的安全和代码质量问题。]]></description>
-      <guid>https://t.me/hn_summary/83443</guid>
-      <pubDate>Mon, 08 Apr 2024 04:51:54 GMT</pubDate>
+      <title>美国政府将向台积电提供资金。</title>
+      <link>https://t.me/hn_summary/83465</link>
+      <description><![CDATA[台积电获得美国 11.6B 美元拨款，为三个芯片工厂提供贷款&lt; /a&gt;
+美国政府将向台积电提供高达 116 亿美元的赠款和贷款，帮助其在亚利桑那州建立三座芯片工厂。此举是乔·拜登总统加强关键技术国内生产倡议的一部分。台积电作为全球顶级芯片制造商而闻名，除了该州已有的两座工厂外，还将在菲尼克斯建造第三座工厂。该协议预计将支持这三个工厂超过 650 亿美元的投资，巩固台积电作为苹果和英伟达等科技巨头主要供应商的地位。]]></description>
+      <guid>https://t.me/hn_summary/83465</guid>
+      <pubDate>Mon, 08 Apr 2024 10:53:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员在[...]上发现了欧内斯特·沙克尔顿的“坚忍号”船的残骸。</title>
-      <link>https://t.me/hn_summary/83442</link>
-      <description><![CDATA[在冰冷的南极深处发现沙克尔顿号“坚忍号”残骸（2022） 
-研究人员在南极海底发现了欧内斯特·沙克尔顿的“坚忍号”船残骸，结束了一个世纪以来的海上谜团。这艘船最后一次出现是在 1915 年，当时沉入冰冷的深渊，至今保存得非常完好，船尾上方仍清晰可见其名字。这一使用潜水器进行的发现引起了专家们的兴奋和敬畏，海洋生物地理学家识别了沉船附近的深海生物。这次探险由一位匿名人士资助，利用现代技术和历史记录定位了该地点，创造了极地探险的历史性时刻。]]></description>
-      <guid>https://t.me/hn_summary/83442</guid>
-      <pubDate>Mon, 08 Apr 2024 04:21:43 GMT</pubDate>
+      <title>[媒体]在家工作越来越受欢迎，美国有14%的人在家工作</title>
+      <link>https://t.me/hn_summary/83464</link>
+      <description><![CDATA[即使一些首席执行官希望，在家工作也不会消失它会
+在家工作变得越来越流行，目前有 14% 的美国工人全职远程工作，预计到明年这一数字将增加到 20%。然而，一些首席执行官，例如 IBM 和亚马逊的首席执行官，正在推动员工返回办公室，声称远程工作在道德上是错误的或效率低下的。研究表明，远程工作实际上可以提高员工敬业度和生产力，让公司受益于更广泛的人才库。远程工作和办公室工作之间的争论仍在继续，许多科技公司选择了灵活的方法，允许员工选择工作地点。]]></description>
+      <guid>https://t.me/hn_summary/83464</guid>
+      <pubDate>Mon, 08 Apr 2024 10:52:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Chrome 开发者高清 CSS 颜色指南引入了 CSS Color 4，提供了广泛的 [...]</title>
-      <link>https://t.me/hn_summary/83441</link>
-      <description><![CDATA[Chrome 开发者：高清晰度 CSS 颜色指南
-Chrome Dev 高清晰度 CSS 颜色指南引入了 CSS Color 4，为网络提供了广色域颜色工具和功能。在 sRGB 占据主导地位 25 年之后，CSS 现在支持更多颜色、操作函数和更好的渐变。此更新使 CSS 摆脱了 90 年代颜色范围的限制，提供对高清显示和鲜艳色彩的支持。借助新的色彩空间和色域，开发人员可以访问多 50% 的颜色、增强渐变并为他们的任务选择最佳色彩空间。该指南涵盖了网络颜色的演变以及 CSS 如何帮助开发人员有效管理颜色。 （根据故事文本的 23% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83441</guid>
-      <pubDate>Mon, 08 Apr 2024 04:20:40 GMT</pubDate>
+      <title>一项开创性的研究表明，人工智能可以有效地对抗阴谋信仰，甚至阿蒙[...]</title>
+      <link>https://t.me/hn_summary/83463</link>
+      <description><![CDATA[人工智能指导洗脑有效消除阴谋信仰
+一项开创性的研究表明，人工智能可以有效地对抗阴谋信仰，即使是在坚定的信徒中也是如此。参与者与 AI 进行对话，使阴谋论信念减少 20%，持续至少 2 个月。这项研究激发了人们利用人工智能改变世界观的热情，但也引发了人们对独裁操纵的担忧。人工智能的说服能力凸显了其产生大规模社会影响力的潜力。研究结果表明，表现出自信和权威可能比之前想象的更有影响力。人与人工智能交互的独特属性，例如即时响应和感知到的无偏见，使人工智能在说服方面具有优势。人工智能大规模洗脑的影响令人担忧，凸显了负责任地使用这项技术的必要性。]]></description>
+      <guid>https://t.me/hn_summary/83463</guid>
+      <pubDate>Mon, 08 Apr 2024 10:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在放入洗碗机之前是否应该冲洗盘子？</title>
-      <link>https://t.me/hn_summary/83440</link>
-      <description><![CDATA[您应该在放入洗碗机之前冲洗盘子吗？
-坦白时间：在将洗碗机装入洗碗机之前，我是一名预冲洗工，但事实证明我并不孤单。最近的一项调查显示，86% 的人会预冲洗或预洗餐具。然而，Cascade 高级科学家 Morgan Eberhard 表示，预冲洗是不必要的。在盘子上留下最后一层食物污垢实际上是有益的。通过使用洗碗机并跳过预冲洗，您可以节省水、能源和时间。 Platinum Plus 等 Cascade 洗碗机清洁剂具有强大的清洁成分，可以分解顽固的食物污渍。艾伯哈德还分享了如何有效地装载洗碗机的技巧，以确保每次餐具都一尘不染。]]></description>
-      <guid>https://t.me/hn_summary/83440</guid>
-      <pubDate>Mon, 08 Apr 2024 04:19:36 GMT</pubDate>
+      <title>[媒体] 在 CppCon 2023 演讲中，Jason Turner 对构成琐事的措辞提出质疑 [...]</title>
+      <link>https://t.me/hn_summary/83462</link>
+      <description><![CDATA[简单，但不是简单的默认可构造
+在 CppCon 2023 演讲中，Jason Turner 对 C++ 中平凡类的构成提出了质疑。他强调，平凡的类不一定需要默认可构造，并展示了一个示例，其中具有两个默认构造函数的类仍然被认为是平凡的，但由于重载解析模糊性而不能默认构造。关键点是，如果一个类型的操作与其对象表示上的相同操作等效，那么该类型就很简单。这揭示了 C++ 类中琐碎性的真正含义。]]></description>
+      <guid>https://t.me/hn_summary/83462</guid>
+      <pubDate>Mon, 08 Apr 2024 09:18:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
