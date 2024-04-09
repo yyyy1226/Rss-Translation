@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 08 Apr 2024 21:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 01:17:01 GMT</lastBuildDate>
+    <item>
+      <title>完成比完美更好</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzcxnb/done_is_better_than_perfection/</link>
+      <description><![CDATA[ 由   提交/u/musskk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzcxnb/done_is_better_than_perfection/</guid>
+      <pubDate>Mon, 08 Apr 2024 23:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>40 年编程经验</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzci3a/40_years_of_programming/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzci3a/40_years_of_programming/</guid>
+      <pubDate>Mon, 08 Apr 2024 23:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 OpenTelemetry 对于 Java 应用程序很重要？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzbu70/why_is_opentelemetry_important_for_java/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzbu70/why_is_opentelemetry_important_for_java/</guid>
+      <pubDate>Mon, 08 Apr 2024 22:39:33 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年闰日 Bug 列表</title>
       <link>https://www.reddit.com/r/programming/comments/1bz9b8h/list_of_2024_leap_day_bugs/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bz4t6n/the_blessing_of_the_strings/</guid>
       <pubDate>Mon, 08 Apr 2024 18:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>CloudABI：云计算满足细粒度能力</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz4rjp/cloudabi_cloud_computing_meets_finegrained/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz4rjp/cloudabi_cloud_computing_meets_finegrained/</guid>
-      <pubDate>Mon, 08 Apr 2024 18:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>compile-time-init-build：用于在编译时构建模块化固件的 C 库</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz4rix/compiletimeinitbuild_c_library_for_composing/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz4rix/compiletimeinitbuild_c_library_for_composing/</guid>
-      <pubDate>Mon, 08 Apr 2024 18:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>OR 类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz4ri3/ortypes/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz4ri3/ortypes/</guid>
-      <pubDate>Mon, 08 Apr 2024 18:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
