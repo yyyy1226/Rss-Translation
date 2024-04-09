@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 03:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 09:15:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体] BART 将于 4 月 20 日提供最后一次乘坐 1970 年代时代轨道车的机会，m [...]</title>
-      <link>https://t.me/hn_summary/83627</link>
-      <description><![CDATA[BART 将于 4 月 20 日提供原始设备的最后一次乘车
-BART 将于 4 月 20 日提供最后一次乘坐 1970 年代时代轨道车的机会，标志着为湾区服务 50 多年的标志性车队时代的结束。这次特别活动将包括演讲、抽奖和商品销售，让公众告别历史悠久的火车。旧车队于 2023 年 9 月结束正常服务，将捐赠给西部铁路博物馆用于保存和未来的展览。此次活动恰逢 Key System 1958 年最后一次运行周年纪念，为告别庆典增添了历史气息。]]></description>
-      <guid>https://t.me/hn_summary/83627</guid>
-      <pubDate>Tue, 09 Apr 2024 03:08:52 GMT</pubDate>
+      <title>Sqlime 是一个在线 SQLite 游乐场，用于调试和共享 SQL 片段，类似于 JSFid [...]</title>
+      <link>https://t.me/hn_summary/83655</link>
+      <description><![CDATA[Sqlime：在线 SQLite 游乐场
+Sqlime 是一个在线 SQLite 平台，用于调试和共享 SQL 片段，类似于 JavaScript 的 JSFiddle。它提供了带有扩展的完整 SQLite 实现、连接到任何数据源的能力以及在 GitHub 上保存和共享查询的选项。独特的功能包括 ChatGPT 的人工智能辅助、移动友好的设计以及对安全性和简单性的关注，不依赖服务器。 Sqlime 易于使用，适合初学者和有经验的用户。启动项目、订阅更新并使用 Sqlime 有效地调试和共享 SQL 片段。]]></description>
+      <guid>https://t.me/hn_summary/83655</guid>
+      <pubDate>Tue, 09 Apr 2024 09:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最近将显式同步合并到 Wayland 协议中激发了人们的好奇心 [...]</title>
-      <link>https://t.me/hn_summary/83626</link>
-      <description><![CDATA[显式同步合并到 Wayland
-最近将显式同步合并到 Wayland 协议中引发了许多人的好奇心，引发了对其重要性的质疑。同步在图形渲染中对于优化 CPU 和 GPU 性能至关重要。传统的隐式同步模型虽然对开发人员来说很容易，但可能会导致延迟呈现等问题。显式同步现已在 Wayland 中实现，允许应用程序直接控制同步，从而提高性能并避免意外同步。争议的起因是 NVidia 驱动程序缺乏对隐式同步的支持，导致 Wayland 出现闪烁和速度问题。在合成器中以及很快在 Xwayland 中实现显式同步将解决这些问题，使 NVidia 用户更容易访问 Wayland。]]></description>
-      <guid>https://t.me/hn_summary/83626</guid>
-      <pubDate>Tue, 09 Apr 2024 03:04:47 GMT</pubDate>
+      <title>[媒体]台积电已获得 66 亿美元的 CHIPS 法案资金，用于建设其第三座亚利桑那州晶圆厂，三月 [...]</title>
+      <link>https://t.me/hn_summary/83654</link>
+      <description><![CDATA[台积电在赢得 6.6B 美元 CHIPS 融资后将在亚利桑那州建造第三座晶圆厂&lt; /a&gt;
+台积电已获得 CHIPS 法案 66 亿美元资金，用于建设其第三座亚利桑那州晶圆厂，这是美国新项目中最大的外国直接投资。拜登总统希望这将促进国内半导体制造业的发展，台积电计划为 AMD、苹果、英伟达和高通等主要客户生产尖端芯片。然而，分析人士警告说，美国在芯片技术方面落后，台积电亚利桑那州工厂要到 2028 年才能达到最先进的 2nm 工艺。台积电将延误归咎于缺乏专业工人，引发了争议，促使与亚利桑那建筑公司达成协议行业委员会制定培训计划。]]></description>
+      <guid>https://t.me/hn_summary/83654</guid>
+      <pubDate>Tue, 09 Apr 2024 08:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kubernetes 能否为您提供多云可移植性？</title>
-      <link>https://t.me/hn_summary/83625</link>
-      <description><![CDATA[Kubernetes 是否为您提供多云可移植性？
-在“Kubernetes 是否为您提供多云可移植性？”一文中由 Seth Dobson 和 John Roach 撰写，作者探讨了使用 Kubernetes 实现多云可移植性的挑战和好处。他们比较了使用 Kubernetes 与本机容器编排解决方案在不同云服务提供商之间迁移应用程序所需的工作量。作者发现，虽然 Kubernetes 提供了可移植性，但它在维护和配置方面也带来了额外的开销。他们建议组织在默认使用 Kubernetes 进行多云部署之前，应仔细考虑其业务驱动因素和应用程序架构。本文提供了一项涉及使用 Kubernetes 跨不同 CSP 迁移 12 因素应用程序的实验的见解，强调了每次迁移中涉及的工作和注意事项。最后，作者建议利用最高阶的 CSP 原生云服务来实现云中的最佳价值。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83625</guid>
-      <pubDate>Tue, 09 Apr 2024 02:52:10 GMT</pubDate>
+      <title>如果 CPU 速度慢 20 倍，软件开发会如何发展？</title>
+      <link>https://t.me/hn_summary/83653</link>
+      <description><![CDATA[如果 CPU 速度慢 20 倍，软件开发会如何展开？&lt; /a&gt;
+news.ycombinator.com 上的文章作者探讨了如果 CPU 速度慢 20 倍，则软件开发的假设场景。他们讨论了这将如何影响互联网延迟、在线游戏和现代游戏的性能。作者质疑，由于性能压力较大，较慢的 CPU 速度是否会导致更高效、无错误的代码，或者是否会导致功能缺乏和对快速原型设计的依赖。这一发人深省的分析强调了 CPU 速度显着下降对软件开发行业的潜在后果。]]></description>
+      <guid>https://t.me/hn_summary/83653</guid>
+      <pubDate>Tue, 09 Apr 2024 08:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌员工对与以色列签订的价值 12 亿美元的合同表示抗议，引发控制 [...]</title>
-      <link>https://t.me/hn_summary/83624</link>
-      <description><![CDATA[Google 员工抗议与以色列签订的价值 120 亿美元的合同&lt; br/&gt;
-谷歌员工对与以色列签订的价值 12 亿美元的合同表示抗议，在这家科技巨头内部引发争议。一个名为“No Tech for Apartheid”的组织呼吁谷歌放弃 Nimbus 项目，担心该技术可能被用于监视或军事目标。该合同涉及向以色列政府和军方提供人工智能和云计算服务，几乎不受谷歌的监督。一名对合同提出抗议的谷歌员工被解雇，只会加剧异议，员工们表示害怕在内部发声。这种情况突显了科技公司在与卷入冲突的政府进行业务往来时所面临的道德困境。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83624</guid>
-      <pubDate>Tue, 09 Apr 2024 02:48:06 GMT</pubDate>
+      <title>台湾集团正在考虑设立海外总部，作为支持 [...]</title>
+      <link>https://t.me/hn_summary/83652</link>
+      <description><![CDATA[台湾组织考虑在海外设立总部以抵御中国攻击 
+台湾组织正在考虑建立海外总部，作为保护自己免受中国潜在攻击的战略举措。这一有争议的决定是在台湾和中国大陆之间紧张局势加剧之际做出的。这些团体通过在海外设立业务，旨在确保业务连续性并在发生冲突时保护其资产。这种独特的做法凸显了人们对中国对台湾的侵略立场日益增长的担忧，以及采取积极措施降低风险的必要性。充分了解英国《金融时报》新闻，随时了解专家对这一发展形势的分析和见解。预付一年费用可节省 20%。]]></description>
+      <guid>https://t.me/hn_summary/83652</guid>
+      <pubDate>Tue, 09 Apr 2024 07:49:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2022年3月18日，南极东部高原出现令人震惊的气温骤升[...]</title>
-      <link>https://t.me/hn_summary/83623</link>
-      <description><![CDATA[3月18日，南极东部气温比季节高出38.5°C平均
-2022年3月18日，南极东部高原的气温比季节平均水平高出惊人的38.5°C，创下了有史以来最大气温跃升的世界纪录。这一史无前例的事件让科学家们对南极洲的未来感到困惑和担忧。急剧变暖归因于极地风从低纬度地区带来温暖潮湿的空气，导致康科迪亚研究站出现极地“热浪”。这种气象变化的后果是可怕的，潜在的海平面上升和生态影响威胁着全球生态系统。南极洲面临的危机凸显了采取行动应对气候变化及其对地球的破坏性影响的迫切需要。]]></description>
-      <guid>https://t.me/hn_summary/83623</guid>
-      <pubDate>Tue, 09 Apr 2024 02:45:32 GMT</pubDate>
+      <title>[媒体] 隆重推出 Chat2DB，这是一款革命性的数据库管理平台，它利用了 [...]</title>
+      <link>https://t.me/hn_summary/83651</link>
+      <description><![CDATA[展示 HN：Chat2DB – 通过对话式 UI 彻底改变数据库管理
+隆重推出 Chat2DB，这是一款革命性的数据库管理平台，它采用由人工智能技术支持的对话式用户界面。 Chat2DB 已经拥有超过 100 万开发人员，正在改变我们与数据库交互的方式。告别传统的查询语言，迎接更直观、更高效的数据管理方式。加入 chat2db.ai 的对话，体验数据库管理的未来第一手资料。]]></description>
+      <guid>https://t.me/hn_summary/83651</guid>
+      <pubDate>Tue, 09 Apr 2024 07:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人工智能消耗的能源已经相当于一个小国家的能源消耗量了。</title>
-      <link>https://t.me/hn_summary/83622</link>
-      <description><![CDATA[人工智能消耗的能源已经相当于一个小国家的能源消耗量。这只是开始
-人工智能的能源消耗正在上升，预计到 2026 年可能会翻一番，相当于日本的用电量。生成式人工智能，如 OpenAI 的 GPT-3，需要大量的能量来进行训练和操作。人工智能部署缺乏透明度，使得跟踪能源使用情况变得具有挑战性。气候研究员 Sasha Luccioni 强调需要更环保的人工智能和消费者意识。数据中心的冷却过程通常使用水，会增加能源消耗。卢奇奥尼建议“数字清醒”作为消费者对其技术使用做出更明智选择的一种方式。]]></description>
-      <guid>https://t.me/hn_summary/83622</guid>
-      <pubDate>Tue, 09 Apr 2024 02:42:58 GMT</pubDate>
+      <title>希腊前财政部长雅尼斯·瓦鲁法基斯 (Yanis Varoufakis) 认为，苹果、Facebook 等科技巨头 [...]</title>
+      <link>https://t.me/hn_summary/83650</link>
+      <description><![CDATA[欢迎来到技术封建主义时代
+希腊前财政部长亚尼斯·瓦鲁法基斯 (Yanis Varoufakis) 认为，苹果、Facebook 和亚马逊等科技巨头创建了一种他称之为“技术封建主义”的新经济体系。在这个体系中，科技公司扮演着领主的角色，而其他人就像农民一样为他们工作，没有太多回报。瓦鲁法基斯将此与欧洲中世纪的封建制度进行比较，在该制度中，劳动力使领主受益。他解释说，在当今的经济中，租金，而不是利润，是获取财富的主要方式，像苹果这样的公司将利润分成作为租金的一种形式。这一概念挑战了资本主义和封建主义的传统观念，凸显了数字时代的权力动态。]]></description>
+      <guid>https://t.me/hn_summary/83650</guid>
+      <pubDate>Tue, 09 Apr 2024 07:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]统一教会以其有争议的信仰和与政治和[...]的联系而闻名。</title>
-      <link>https://t.me/hn_summary/83621</link>
-      <description><![CDATA[统一教渗透日本政府，现在将目光投向美国&lt; /a&gt;
-统一教会因其有争议的信仰以及与政治和商业利益的联系而闻名，当日本前首相安倍晋三被一名自称受到该教会影响的男子刺杀后，该教会成为头条新闻。该教会由文鲜明牧师创立，但面临内部动荡和财务挑战，导致其将筹款重点转向美国。随着日本打击该教会的活动，美国牧师被敦促招募新成员并争取捐款。当统一教会应对这些挑战时，面对越来越多的审查和反对，其未来仍然不确定。 （根据故事文本的 38% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83621</guid>
-      <pubDate>Tue, 09 Apr 2024 02:25:20 GMT</pubDate>
+      <title>[媒体] 通过从您的网站上删除样式表来庆祝 4 月 9 日 CSS 裸体日 [...]</title>
+      <link>https://t.me/hn_summary/83649</link>
+      <description><![CDATA[博客脱衣庆祝CSS裸体日
+庆祝 4 月 9 日 CSS 裸体日，从您的网站中剥离样式表并拥抱 HTML 的原始之美。该活动旨在推广 Web 标准并鼓励正确使用 HTML、语义标记和良好的层次结构。更进一步，在浏览网页时关闭页面样式，看看谁在使用 CSS 而不是语义 HTML。挑战自己，看看您的网站在没有 CSS 的情况下运行得如何，并探索无样式的网络。参加 CSS Naked Day 运动，感受 HTML 的简单性和功能性。]]></description>
+      <guid>https://t.me/hn_summary/83649</guid>
+      <pubDate>Tue, 09 Apr 2024 07:28:26 GMT</pubDate>
     </item>
     <item>
-      <title>TSAC 是一种音频压缩工具，可实现非常低的比特率和良好的感知质量 [...]</title>
-      <link>https://t.me/hn_summary/83620</link>
-      <description><![CDATA[TSAC：低比特率音频压缩
-TSAC 是一种音频压缩工具，可实现非常低的比特率和良好的感知质量，将 3.5 分钟的立体声歌曲压缩到仅 192 KiB。建议使用 Nvidia GPU 来实现快速操作，但仅支持 CPU，速度较慢。压缩结果显示各种音频提取的比特率显着降低。 TSAC 基于修改后的描述音频编解码器和 Transformer 模型，两者均量化为每个参数 8 位。 Transformer 模型以确定性和可重复的方式进行评估，确保不同硬件和软件配置之间的兼容性。请访问 bellard.org 了解更多技术信息。]]></description>
-      <guid>https://t.me/hn_summary/83620</guid>
-      <pubDate>Tue, 09 Apr 2024 02:20:45 GMT</pubDate>
+      <title>该网页内容讨论了石英晶体中的各种类型的孪晶，其中只有三个 [...]</title>
+      <link>https://t.me/hn_summary/83648</link>
+      <description><![CDATA[石英晶体 – 孪晶 (2016)
+该网页内容讨论了石英晶体中的各种类型的孪晶，但只有三种孪晶定律被普遍接受。多菲内法、巴西法和日本法是最常见的，但也存在一些围绕其他法的争论。该内容详细描述了每种孪晶类型以及如何根据晶体形态识别它们。它还深入研究了孪生边界的复杂性以及它们在不同类型之间的差异。争议在于是否存在一些孪生定律，而令人惊讶的因素是仅根据物理特性来识别孪生晶体所涉及的复杂性。 （根据 69% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83648</guid>
+      <pubDate>Tue, 09 Apr 2024 07:23:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 潜入东南部纳斯卡山脊和萨拉斯戈麦斯山脊的神秘世界 [...]</title>
-      <link>https://t.me/hn_summary/83619</link>
-      <description><![CDATA[东南太平洋的奇妙海山
-潜入东南太平洋纳斯卡山脊和萨拉斯戈麦斯山脊的神秘世界，那里孤立的海山蕴藏着独特且未被发现的物种。施密特海洋研究所 Falkor 船上的研究人员发现了一个深海仙境，其中包括古老的珊瑚、行走的鱼类以及潜在的 100 多个新物种。该地区的生物多样性受到渔具污染和海底采矿等人类活动的威胁，凸显了保护的重要性。这次探险的发现揭示了深海生命的微妙平衡以及保护这些非凡生态系统的必要性。]]></description>
-      <guid>https://t.me/hn_summary/83619</guid>
-      <pubDate>Tue, 09 Apr 2024 02:16:11 GMT</pubDate>
+      <title>[媒体]俄罗斯被指控对乌克兰士兵使用非法化学气体袭击[...]</title>
+      <link>https://t.me/hn_summary/83647</link>
+      <description><![CDATA[俄罗斯被指控对乌克兰士兵使用化学毒气袭击 
+俄罗斯被指控对乌克兰士兵使用非法化学气体袭击，有报道称小型无人机投掷催泪瓦斯和其他化学物质。 《化学武器公约》禁止使用这些被称为 CS 气体的物质。为顿涅茨克州士兵提供医疗援助的美国战地军医丽贝卡·马乔罗夫斯基将这些袭击描述为“系统性”袭击。英国技术部长克里斯·菲尔普警告说，如果俄罗斯继续在乌克兰使用化学武器，西方将做出强烈反应，并指责克里姆林宫散布虚假信息来为自己的攻击辩护。]]></description>
+      <guid>https://t.me/hn_summary/83647</guid>
+      <pubDate>Tue, 09 Apr 2024 06:42:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在对正在进行的故事的更新中，作者分享了与 Lyude fr [...]</title>
-      <link>https://t.me/hn_summary/83618</link>
-      <description><![CDATA[Freedesktop/RedHat的CoC团队比你想象的更糟糕 
-在对正在进行的故事的更新中，作者分享了与 Freedesktop/RedHat CoC 团队的 Lyude 的电子邮件交流。作者对缺乏解决方案表示失望，并指责主持人权力饥渴和虚伪。尽管被某些平台禁止，但作者希望社区能够得到改进。作者强调了 Freedesktop 由于版主的行为而缺乏真正的自由。这篇文章的结尾是对读者的改进请求和感谢。]]></description>
-      <guid>https://t.me/hn_summary/83618</guid>
-      <pubDate>Tue, 09 Apr 2024 02:13:36 GMT</pubDate>
+      <title>[媒体]标题：秀HN：我做了一个分立逻辑网卡</title>
+      <link>https://t.me/hn_summary/83646</link>
+      <description><![CDATA[显示HN：我做了一个离散逻辑网卡 
+标题：Show HN：我做了一个分立逻辑网卡
+
+在 qdiv.dev 上，我分享了我构建一台完整计算机的旅程使用分立逻辑组件的系统。我的最新创作是一个能够运行 HTTP 服务器和 LAN 游戏的网卡。该卡包括一个物理层适配器和一个 MAC 层模块，用于连接到我的自制计算机。我实现了独特的 MAC 地址过滤并简化了发送器以支持固定长度的帧。尽管网络性能较低，但我很自豪能够在没有 TCP/IP 堆栈的情况下实现网络支持。查看 GitHub 上的项目存储库以获取更多详细信息和文件。]]></description>
+      <guid>https://t.me/hn_summary/83646</guid>
+      <pubDate>Tue, 09 Apr 2024 06:29:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
