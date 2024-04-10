@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 06:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 12:33:22 GMT</lastBuildDate>
     <item>
-      <title>[媒体]国防部长劳埃德·奥斯汀批评乌克兰最近对俄罗斯石油的袭击[...]</title>
-      <link>https://t.me/hn_summary/83820</link>
-      <description><![CDATA[美国猛烈抨击俄罗斯炼油厂的袭击对石油市场构成风险
-美国国防部长劳埃德·奥斯汀批评乌克兰最近对俄罗斯炼油厂的袭击，警告称这可能会扰乱全球能源市场。随着乌克兰军事局势恶化，他们将目标瞄准俄罗斯领土深处的基础设施，以切断对俄罗斯军队的燃料供应并减少莫斯科的战争资金。这些有争议的袭击引发了人们对石油市场潜在影响的担忧。]]></description>
-      <guid>https://t.me/hn_summary/83820</guid>
-      <pubDate>Wed, 10 Apr 2024 06:24:50 GMT</pubDate>
+      <title>罗斯·安德森 (Ross Anderson) 是一位才华横溢、固执己见的安全工程师，在他的 [...]</title>
+      <link>https://t.me/hn_summary/83852</link>
+      <description><![CDATA[悼念：罗斯·安德森，1956-2024&lt; br/&gt;
+罗斯·安德森 (Ross Anderson) 是一位才华横溢、固执己见的安全工程师，在睡梦中意外去世，享年 67 岁。安德森以其综合性著作《安全工程》和安全经济学方面的开创性工作而闻名，是一位挑战传统安全学科的梦想家。他无所畏惧地对抗政府和企业权力，为学术自由而奋斗，并指导了一代研究生。他的遗产通过他对计算机安全领域的影响而得以延续。他将因其精力、热情和对正义的奉献而被人们铭记。]]></description>
+      <guid>https://t.me/hn_summary/83852</guid>
+      <pubDate>Wed, 10 Apr 2024 12:33:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]前微软工程师克里斯托弗·彭斯被判处七年监禁 [...]</title>
-      <link>https://t.me/hn_summary/83819</link>
-      <description><![CDATA[前微软工程师试图以双倍雇佣杀手后被判 7 年徒刑谋杀
-前微软工程师克里斯托弗·彭斯因试图雇佣杀手谋杀其养子的父母而被判处七年监禁。目标受害者向儿童福利部门举报了彭斯的家人，导致纠纷不断升级。彭斯向杀手转移了 16,000 美元的比特币，但试图取消合同。联邦调查局通过加密货币交易所将交易追溯到彭斯。尽管彭斯有技术背景，但他还是低估了比特币交易的匿名性。彭斯承认了罪行，并表达了对时间机器的渴望。他的姐姐建立了一个 GoFundMe 页面来支持他的家人。]]></description>
-      <guid>https://t.me/hn_summary/83819</guid>
-      <pubDate>Wed, 10 Apr 2024 06:21:17 GMT</pubDate>
+      <title>[媒体]台积电董事长刘马克与首席科学家H.</title>
+      <link>https://t.me/hn_summary/83851</link>
+      <description><![CDATA[台积电老板表示到 2030 年代初期可能会出现万亿晶体管 GPU&lt; /a&gt;
+台积电董事长刘马克和首席科学家 H.-S. Philip Wong 预测，世界上第一个 1 万亿晶体管 GPU 可能会在 2030 年代初期成为现实。他们强调了 3D 小芯片对于实现这一里程碑的重要性，因为人工智能工作负载对高性能 GPU 的需求持续增长。使用通过 3D 集成互连的多个芯片对于超越标线限制和降低制造成本至关重要。虽然台积电的目标是 2034 年，但英特尔首席执行官帕特·基辛格 (Pat Gelsinger) 相信英特尔可以在 2030 年实现这一壮举，凸显半导体行业突破性技术进步的竞争。]]></description>
+      <guid>https://t.me/hn_summary/83851</guid>
+      <pubDate>Wed, 10 Apr 2024 12:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Zahan Malkani 分享了 Meta 在短短五分钟内创建 Threads 应用程序的历程 [...]</title>
-      <link>https://t.me/hn_summary/83818</link>
-      <description><![CDATA[Meta 使用单体架构仅用了五个月就交付了线程
-Zahan Malkani 分享了 Meta 利用 Instagram 的整体架构在短短五个月内创建 Threads 应用程序的历程。随着埃隆·马斯克收购 Twitter，Meta 看到了通过新的微博服务吸引 Twitter 用户的机会。该团队重用了 Instagram 的后端组件和基础设施来快速交付 Threads，但引入了需要解决的技术债务。尽管在发布过程中出现了一些问题，Threads 还是获得了空前的采用，第一天的下载量就达到了 1000 万次，前五天的下载量就达到了 1 亿次。团队持续致力于新功能和提高平台稳定性，包括采用 ActivityPub 协议进行跨平台共享。]]></description>
-      <guid>https://t.me/hn_summary/83818</guid>
-      <pubDate>Wed, 10 Apr 2024 06:18:43 GMT</pubDate>
+      <title>[媒体] 希格斯玻色子理论工作背后的物理学家彼得·希格斯 (Peter Higgs) 已经通过了 [...]</title>
+      <link>https://t.me/hn_summary/83850</link>
+      <description><![CDATA[安息吧彼得·希格斯 (Peter Higgs)，他在 20 世纪 60 年代为希格斯玻色子奠定了基础
+希格斯玻色子理论研究背后的物理学家彼得·希格斯 (Peter Higgs) 去世，享年 94 岁。希格斯玻色子是希格斯场的一种表现，为粒子提供质量。预测其存在的道路是坎坷的，早期的模型具有尴尬的特征。 1964 年，希格斯等人的论文取得了突破，提出了一种消除有问题的粒子的方法。希格斯的开创性论文最初被拒绝，但在他添加了预测希格斯玻色子的段落后被接受。这一发现彻底改变了粒子物理学和我们对宇宙的理解。]]></description>
+      <guid>https://t.me/hn_summary/83850</guid>
+      <pubDate>Wed, 10 Apr 2024 12:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着小型浏览器的流行，欧盟的新技术法被证明是有效的 [...]</title>
-      <link>https://t.me/hn_summary/83817</link>
-      <description><![CDATA[欧盟新技术法律正在发挥作用 - 小型浏览器获得市场份额
-随着小型浏览器获得市场份额，欧盟的新技术法被证明是有效的。这种转变在科技行业中是一个令人惊讶的发展，因为大型浏览器传统上主导着市场。围绕这些新法律的争议引发了行业专家的争论，但结果不言而喻。小型浏览器现在能够在更公平的竞争环境中竞争，为用户提供更多选择，并有可能带来更加多样化和创新的浏览体验。请访问 www.forth.news 了解更多独家见解主题。]]></description>
-      <guid>https://t.me/hn_summary/83817</guid>
-      <pubDate>Wed, 10 Apr 2024 06:15:09 GMT</pubDate>
+      <title>[媒体]</title>
+      <link>https://t.me/hn_summary/83849</link>
+      <description><![CDATA[Andrej Karpathy 发布 llm.c &lt;1000 行代码
+Andrej Karpathy 因其在 OpenAI 和 Tesla 的工作而闻名，他发布了“llm.c”，这是 GPT-2 模型的紧凑 C 实现，具有 1.24 亿个参数。该项目允许在没有 PyTorch 的情况下进行 CPU 训练，方便开发人员和研究人员使用。虽然目前从头开始的训练效率很低，但 Karpathy 正在致力于 CUDA 实施等优化，以加快训练速度。通过使用简单的代码库实现人工智能的民主化，Karpathy 的项目有潜力推动该领域的发展，并为创新创造一个更具协作性的环境。与“llm.c”一起探索语言模型训练的未来，为开源社区做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/83849</guid>
+      <pubDate>Wed, 10 Apr 2024 12:21:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 martinfowler.com 上的这篇文章中，我们讨论了更换大型机的方法 [...]</title>
-      <link>https://t.me/hn_summary/83816</link>
-      <description><![CDATA[在大型机的批处理管道中创建接缝
-在 martinfowler.com 上的这篇文章中，我们讨论了替换的方法为英国客户提供具有云原生应用程序的大型机系统。我们专注于将功能从大型机逐步转移到云端，在大型机设计中创建接缝，以最小的更改插入新行为。我们的方法涉及“恰到好处、恰到好处”的前期设计，以避免大的前期设计风险。我们还强调尽早降低风险、尽早交付价值以及保持旧系统和新系统之间的结果相同。我们的增量传统排量方法涉及双运行测试，以确保平稳过渡。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83816</guid>
-      <pubDate>Wed, 10 Apr 2024 06:02:33 GMT</pubDate>
+      <title>[媒体]在本文中，我们介绍了 Griffin，一种结合了门控线性递归 [...]</title>
+      <link>https://t.me/hn_summary/83848</link>
+      <description><![CDATA[Griffin：将门控线性递归与局部注意力混合以实现高效的 LM
+在本文中，我们介绍了 Griffin，这是一种将门控线性递归与局部注意机制相结合来创建高效语言模型的新颖方法。通过利用这两种技术的优势，Griffin 在性能和计算效率方面取得了令人印象深刻的成果。我们的实验证明了这种混合模型在各种自然语言处理任务中的有效性。门控线性递归和局部注意力的独特组合使 Griffin 有别于传统语言模型，使其成为提高语言处理系统效率的有前途的解决方案。这种创新方法有可能彻底改变自然语言处理领域。]]></description>
+      <guid>https://t.me/hn_summary/83848</guid>
+      <pubDate>Wed, 10 Apr 2024 12:18:33 GMT</pubDate>
     </item>
     <item>
-      <title>在 HN 上与我们一起庆祝开斋节穆巴拉克！</title>
-      <link>https://t.me/hn_summary/83815</link>
-      <description><![CDATA[告诉 HN：开斋节穆巴拉克
-在 HN 上与我们一起庆祝开斋节穆巴拉克！这个当之无愧的庆祝活动是在穆斯林斋戒一个月之后进行的。祝愿每个人都有一个快乐和健康的一天，无论您的信仰如何。与我们一起传播快乐和积极性。]]></description>
-      <guid>https://t.me/hn_summary/83815</guid>
-      <pubDate>Wed, 10 Apr 2024 05:58:58 GMT</pubDate>
+      <title>[媒体]我为 csvbase 编写了一个客户端库，没有 API，仅使用 HTTP。</title>
+      <link>https://t.me/hn_summary/83847</link>
+      <description><![CDATA[客户端库没有 API 会更好&lt; br/&gt;
+我为 csvbase 编写了一个客户端库，它没有 API，仅使用 HTTP。您可以使用 Pandas、Polars 或 Dask 从 csvbase 中提取数据帧，而无需 API。该库利用标准文件系统接口 fsspec 与各种数据帧库无缝集成。尽管 fsspec 很受欢迎，但它的知名度并不高，但它的使用却很广泛。您可以在自己的程序中轻松使用 fsspec 进行多功能文件操作。此外，还有一个用于 csvbase 的 cli 工具，可以简化数据检索和操作。总的来说，该库提供了一种独特的方法来访问 csvbase 数据，而不需要传统的 API。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83847</guid>
+      <pubDate>Wed, 10 Apr 2024 12:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：校园枪击案凶手家长已入狱</title>
-      <link>https://t.me/hn_summary/83814</link>
-      <description><![CDATA[校园枪击案凶手家长已入狱
-标题：校园枪击案凶手家长入狱
-
-造成四人死亡的校园枪击案凶手的父母因过失杀人罪被判处 10 年监禁。詹妮弗·克鲁布利和詹姆斯·克鲁布利因在家中持有不安全的枪支并忽视儿子伊森的心理健康而被判有罪。密歇根州牛津高中发生枪击事件，造成四名学生死亡、七人受伤。伊森·克鲁布利 (Ethan Crumbley) 被指控犯有恐怖主义致人死亡、一级谋杀等罪名。他的父母也因购买枪击事件中使用的枪并无视警告标志而被指控。伊森被判处终身监禁，不得假释，而他的父母则被判处至少 10 年监禁。]]></description>
-      <guid>https://t.me/hn_summary/83814</guid>
-      <pubDate>Wed, 10 Apr 2024 05:43:22 GMT</pubDate>
+      <title>Rust 101 是 Rust 编程语言的综合指南，突出了其现代德 [...]</title>
+      <link>https://t.me/hn_summary/83846</link>
+      <description><![CDATA[Rust 101
+Rust 101 是 Rust 编程语言的综合指南，强调其现代设计和可与 C 和 C++ 相媲美的快速性能。本文解释了 Rust 的内存安全功能、所有权规则和借用机制，这些功能可以防止 C 和 C++ 等低级语言中的常见错误。它还涵盖了自定义数据类型、使用特征、枚举、模式匹配的多态性，以及用于错误处理和可选值的 Rust 结果和选项类型。还讨论了 Rust 对函数式编程中闭包和迭代器的使用，使其成为开发人员的多功能且强大的语言。 （根据 66% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83846</guid>
+      <pubDate>Wed, 10 Apr 2024 11:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>IXsystems 决定将其重点从 FreeBSD 转移到 Linux，其中基于 Linux 的 [...]</title>
-      <link>https://t.me/hn_summary/83813</link>
-      <description><![CDATA[IXsystems：专注于 Linux 比 FreeBSD 更有意义 
-IXsystems 决定将其重点从 FreeBSD 转移到 Linux，基于 Linux 的 SCALE 产品受到了所有关注。此举在 BSD 爱好者中引发了争议，一些人对这一转变感到失望。然而，该公司解释说，做出这个决定是为了优先考虑增加价值和功能，而不是花时间维护 FreeBSD。虽然有些人可能会对这一有争议的步骤感到惊讶，但 IXsystems 希望为 Linux 开发的创新最终也能应用于 FreeBSD。最终，公司的决定反映了技术格局的变化以及适应以保持竞争力的需要。]]></description>
-      <guid>https://t.me/hn_summary/83813</guid>
-      <pubDate>Wed, 10 Apr 2024 05:41:18 GMT</pubDate>
+      <title>[媒体] Onego Bio 是一家总部位于芬兰的食品生物技术公司，正在另类产品领域掀起波澜 [...]</title>
+      <link>https://t.me/hn_summary/83845</link>
+      <description><![CDATA[无动物源鸡蛋蛋白初创公司 Onego Bio 更接近破解鸡蛋市场
+Onego Bio 是一家总部位于芬兰的食品生物技术公司，凭借其名为 Bioalbumen 的无动物蛋白替代品，在替代蛋白质市场掀起了波澜。该公司采用专利真菌发酵技术，能够生产出与传统蛋清生物相同的高蛋白、环保产品。 Onego Bio 计划在北美推出并向全球扩张，最近获得了 4000 万美元的 A 轮融资，使其成为北欧最大的 A 轮融资之一。该公司的创新方法和颠覆 3300 亿美元鸡蛋市场的潜力让投资者和行业专家对其未来感到兴奋。]]></description>
+      <guid>https://t.me/hn_summary/83845</guid>
+      <pubDate>Wed, 10 Apr 2024 11:56:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者深入研究了心理专家保罗·莱恩巴格 (Paul Linebarger) 的迷人生活，他 [...]</title>
-      <link>https://t.me/hn_summary/83812</link>
-      <description><![CDATA[对科幻小说的痴迷让我陷入了心理战&lt; br/&gt;
-作者深入研究了心理战专家保罗·莱恩巴格 (Paul Linebarger) 的迷人生活，他也以科德韦纳·史密斯 (Cordwainer Smith) 为笔名创作科幻小说。探讨了类型小说和心理战之间的重叠，揭示了莱恩巴格通过讲故事激发革命运动的独特方法。尽管心理战具有争议性，但莱恩巴格的工作旨在挑战暴政并激发行动。他对心理裁军的愿景随着冷战的升级而演变，反映了他信仰的复杂性。莱恩巴格对女性贡献的认可以及对坚强女性角色的刻画为他的遗产增添了深度，揭示了他那个时代的进步观点。 （根据故事文本的 70% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83812</guid>
-      <pubDate>Wed, 10 Apr 2024 05:26:41 GMT</pubDate>
+      <title>[媒体]AzerothCore 是一个开源游戏服务器应用程序和框架，专为主机设计 [...]</title>
+      <link>https://t.me/hn_summary/83844</link>
+      <description><![CDATA[AzerothCore：自托管魔兽世界 3.3.5a 服务器
+AzerothCore 是一款开源游戏服务器应用程序和框架，专为托管 MMORPG 而设计，专门重现 3.3.5a 补丁中的《魔兽世界》游戏体验。它专注于稳定性、精彩内容和定制，拥有强大的开发者和贡献者社区。 AzerothCore 是高度模块化的，允许定制和独特的游戏体验。它为有兴趣了解 WoW 服务器和游戏服务器模拟器的开发人员提供了学习资源。 AzerothCore 不隶属于暴雪娱乐，也不支持非法公共服务器。该项目在 GNU AGPL v3 和 GNU GPL v2 许可证下发布。]]></description>
+      <guid>https://t.me/hn_summary/83844</guid>
+      <pubDate>Wed, 10 Apr 2024 11:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 看看这个新的 iOS 应用程序，适用于跑步者，可与 Apple Watch 配合使用，由开发人员创建 [...]</title>
-      <link>https://t.me/hn_summary/83811</link>
-      <description><![CDATA[Show HN：我为使用 Apple Watch 的跑步者制作了一个 iOS 应用&lt; /a&gt;
-查看这款由开发者恒坚赖创建的适用于 Apple Watch 的全新 iOS 跑步应用程序。该应用程序的与众不同之处在于它对隐私的承诺——不收集用户的任何数据。这是应用程序开发领域令人耳目一新的变化，数据隐私经常成为人们关注的问题。无论您是经验丰富的跑步者还是新手，这款应用程序都值得一试，因为它在隐私和用户体验方面具有独特的方法。立即在 App Store 下载并开始运行！]]></description>
-      <guid>https://t.me/hn_summary/83811</guid>
-      <pubDate>Wed, 10 Apr 2024 05:08:33 GMT</pubDate>
+      <title>[媒体]国际象棋治疗是一种独特的心理治疗形式，它在治疗者之间使用国际象棋游戏 [...]</title>
+      <link>https://t.me/hn_summary/83843</link>
+      <description><![CDATA[国际象棋疗法
+国际象棋治疗是一种独特的心理治疗形式，它利用治疗师和客户之间的国际象棋游戏来形成更牢固的联系并帮助治疗。国际象棋疗法起源于波斯博学者雷兹所使用的战术和策略，已被证明可以帮助患者控制自己的感受并掌控自己的情绪。通过国际象棋游戏，个人可以探索自己的心理困扰，并努力实现个人的胜利和发展。研究表明，国际象棋可以提高学生的学习成绩和社交技能，使其成为一种有价值的教育工具。总的来说，国际象棋疗法为情绪治疗和个人成长提供了一种创造性且有效的方法。]]></description>
+      <guid>https://t.me/hn_summary/83843</guid>
+      <pubDate>Wed, 10 Apr 2024 11:50:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
