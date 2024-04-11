@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:31:23 GMT</lastBuildDate>
     <item>
-      <title>KOReader 是一款专为 E Ink 设备设计的多功能文档查看器，支持 [...]</title>
-      <link>https://t.me/hn_summary/83987</link>
-      <description><![CDATA[适用于 E Ink 设备的 KOReader 文档查看器
-KOReader 是一款专为 E Ink 设备设计的多功能文档查看器，支持多种文件格式，包括 EPUB、PDF 和 MOBI。 KOReader 的与众不同之处在于它与各种设备的兼容性，例如 Kindle、Kobo、PocketBook、Android 和桌面 Linux。凭借其用户友好的界面和广泛的文件格式支持，KOReader 是任何希望增强 E Ink 设备阅读体验的人的必备工具。]]></description>
-      <guid>https://t.me/hn_summary/83987</guid>
-      <pubDate>Thu, 11 Apr 2024 06:15:23 GMT</pubDate>
+      <title>[媒体]CNDI 是一款面向数据团队的 DevOps 工具，可简化支持 GitOps 的部署 [...]</title>
+      <link>https://t.me/hn_summary/84012</link>
+      <description><![CDATA[显示 HN：CNDI – 数据团队的 DevOps&lt; br /&gt;
+CNDI 是一款面向数据团队的 DevOps 工具，可简化在任何平台上启用 GitOps 的 Kubernetes 应用程序集群的部署。它允许用户使用 GitOps 和基础设施即代码轻松设置和管理基础设施和应用程序。 CNDI 的与众不同之处在于它专注于提供生命周期方法来部署和管理数据基础设施集群，包括初始化、推送更改、覆盖配置和销毁集群等阶段。用户还可以利用演练在各种云平台上部署生产级 Airflow 集群。 CNDI 旨在简化数据基础设施集群的部署和发展过程。 （根据故事文本的 55% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84012</guid>
+      <pubDate>Thu, 11 Apr 2024 12:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国空军正在推进一些机队自动化计划，Secr [...]</title>
-      <link>https://t.me/hn_summary/83986</link>
-      <description><![CDATA[美国空军部长对人工智能控制的 F-16 如此有信心，他会乘坐一架飞机
-美国空军正在推进部分机队自动化计划，部长弗兰克·肯德尔 (Frank Kendall) 表达了对人工智能控制的 F-16 的信心。 VENOM 项目正在取得进展，自主 F-16 战斗机正在接受测试。肯德尔计划在今年晚些时候驾驶其中一架机器人飞机，并配备一名飞行员作为后备。目标是为下一代无人机开发软件，而不是立即用于战斗。空军设想了协作战斗机的未来，其中人工智能驱动的无人机与人类飞行员一起工作。然而，中国无人机技术的进步正在引起人们对美国军事优势的担忧。]]></description>
-      <guid>https://t.me/hn_summary/83986</guid>
-      <pubDate>Thu, 11 Apr 2024 05:59:17 GMT</pubDate>
+      <title>[媒体]GitHub 上的代码解释器 SDK 项目允许用户运行 AI 生成的 Python cod [...]</title>
+      <link>https://t.me/hn_summary/84011</link>
+      <description><![CDATA[显示 HN：用于为任何 LLM 构建自定义代码解释器的 SDK
+GitHub 上的代码解释器 SDK 项目允许用户运行 AI 生成的 Python 代码并在运行之间共享上下文，从而使后续运行能够引用过去执行中的变量和定义。它在 E2B 沙箱内运行，这是一个安全的微型虚拟机，用于运行不受信任的人工智能生成的代码。该项目之所以脱颖而出，是因为它可以与任何 LLM 和 AI 框架配合使用，支持图表和 stdout、stderr 等流媒体内容，提供 Python 和 JS SDK，在无服务器和边缘函数上运行，并且 100% 开源。它通过启用上下文共享和实现 Jupyter 内核消息传递协议来改进功能，解决了独立代码执行的问题。]]></description>
+      <guid>https://t.me/hn_summary/84011</guid>
+      <pubDate>Thu, 11 Apr 2024 12:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>在 rachelbythebay.com 上的这篇文章中，作者与一位老 R 分享了一次令人沮丧的经历 [...]</title>
-      <link>https://t.me/hn_summary/83985</link>
-      <description><![CDATA[在没有实时时钟的情况下绕圈&lt; br /&gt;
-在 rachelbythebay.com 上的这篇文章中，作者分享了一次令人沮丧的经历使用较旧的 Raspberry Pi，由于文件系统问题而停止允许远程登录。 Pi上的实时时钟休息了一天多，导致chrony和unbound出现问题，影响了DNS解析和时间同步。作者将 DNS 解析仅指向本地主机的配置选择加剧了该问题。通过添加二级和三级解析器以及附近的主机作为 chrony 的对等源，作者解决了该问题。这篇文章强调了在使用 Raspberry Pi 等廉价设备时考虑时间价值的重要性。]]></description>
-      <guid>https://t.me/hn_summary/83985</guid>
-      <pubDate>Thu, 11 Apr 2024 05:21:04 GMT</pubDate>
+      <title>[媒体]AMD 很高兴地宣布通过第二代 Vers 扩展其 Versal 产品组合 [...]</title>
+      <link>https://t.me/hn_summary/84010</link>
+      <description><![CDATA[AMD 第二代 Versal 设备
+AMD 很高兴地宣布通过第二代 Versal 设备扩展其 Versal 产品组合，以满足嵌入式 AI、视频和控制应用中对异构处理日益增长的需求。 Versal AI Edge 系列 Gen 2 和 Versal Prime 系列 Gen 2 为 AI 驱动和经典嵌入式系统提供单芯片智能，平衡性能、功耗、面积、功能安全和安全功能。这些设备通过独特的异构处理器集成来实现端到端加速，支持嵌入式计算的所有阶段。这些设备的标量计算量提高了 10 倍，非常适合自动驾驶、智能相机和医学成像等应用。]]></description>
+      <guid>https://t.me/hn_summary/84010</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]基思·伍德博士</title>
-      <link>https://t.me/hn_summary/83984</link>
-      <description><![CDATA[家里的生物发光矮牵牛
-前药物研究员 Keith Wood 博士开发了一种生物发光矮牵牛，可以在黑暗中发光，为我们的生活带来欢乐和魔力。萤火虫矮牵牛是利用生物发光蘑菇和真菌的基因创造的，无需额外的化学物质即可发出明亮的光芒。尽管经过基因改造，但它已获得批准，现在可以在网上购买。这种独特的植物有潜力吸引新的园艺客户，并为花卉和植物带来兴奋。萤火虫矮牵牛可能没有实际应用，但它发光的存在提供了超越传统园艺的神奇体验。]]></description>
-      <guid>https://t.me/hn_summary/83984</guid>
-      <pubDate>Thu, 11 Apr 2024 05:14:00 GMT</pubDate>
+      <title>[媒体] 厌倦了正则表达式的编写？</title>
+      <link>https://t.me/hn_summary/84009</link>
+      <description><![CDATA[显示 HN：Rgx.tools – 使用 GPT 从文本生成正则表达式&lt; /a&gt;
+厌倦了编写正则表达式吗？ Rgx.tools 就是您的最佳选择！这个创新工具使用人工智能根据您的输入生成干净、可读且高效的正则表达式。只需描述您需要提取的内容即可让奇迹发生。告别手动编写正则表达式的痛苦，让人工智能为您处理。使用 Rgx.tools，正则表达式从未如此简单。立即在 rgx.tools 上查看。&lt; br /&gt;]]></description>
+      <guid>https://t.me/hn_summary/84009</guid>
+      <pubDate>Thu, 11 Apr 2024 12:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>队伍的尽头？</title>
-      <link>https://t.me/hn_summary/83983</link>
-      <description><![CDATA[线路结束？
-在沙特阿拉伯创建未来玻璃墙城市的雄心勃勃的项目（称为“线路”）已比其最初的宏伟愿景大幅缩小。最初计划延伸 105 英里，现在预计到 2030 年将仅延伸一英里半。该项目是更广泛的 Neom 计划的一部分，因其预算超支、改变愿景以及据报道处决抗议者而面临批评。尽管该线路被宣传为城市设计的重塑，但由于 2024 年 Neom 总体预算尚未获得批准，该线路的未来仍不确定。该项目由王储穆罕默德·本·萨勒曼领导，一些参与该项目的人将其描述为“脱离现实”。]]></description>
-      <guid>https://t.me/hn_summary/83983</guid>
-      <pubDate>Thu, 11 Apr 2024 04:41:49 GMT</pubDate>
+      <title>[媒体] 在这个关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了各种 f [...]</title>
+      <link>https://t.me/hn_summary/84008</link>
+      <description><![CDATA[Go 中 I/O 基础
+在这篇关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了处理输入和输出操作的各种函数和方法。它们涵盖了 io.Reader 和 io.Writer 等概念，演示了如何限制从数据源读取的字节数、将多个数据源合并为一个以及使用 io.MultiReader 和 io.MultiWriter 等函数。作者还探讨了 TeeReader 的行为，类似于 Linux 中的 tee 命令，并讨论了使用 io.Pipe 将需要 io.Reader 的代码与需要 io.Writer 的代码连接起来。内容包括代码示例和解释，重点介绍这些 I/O 函数在 Go 编程中的实际应用。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84008</guid>
+      <pubDate>Thu, 11 Apr 2024 12:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]奈史密斯规则是规划远足探险、计算旅行的有用工具[...]</title>
-      <link>https://t.me/hn_summary/83982</link>
-      <description><![CDATA[奈史密斯规则
-奈史密斯规则是规划远足探险的有用工具，可根据距离和海拔增益计算旅行时间。该规则最初由苏格兰登山家 William W. Naismith 于 1892 年制定，多年来不断修改，包括针对地形、健身水平和下降时间的调整。一个令人惊讶的方面是距离和爬升之间的等价性，正如菲利普·斯卡夫教授所提出的，允许更准确的时间估计。一些修正的准确性存在争议，引发了争议，凸显了徒步旅行计划中考虑各种山地条件和个人能力的复杂性。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83982</guid>
-      <pubDate>Thu, 11 Apr 2024 03:42:30 GMT</pubDate>
+      <title>[媒体]由于可持续农业计划的延误，英国农民在脱欧后陷入困境[...]</title>
+      <link>https://t.me/hn_summary/84007</link>
+      <description><![CDATA[英国农民希望获得基本收入来应对脱欧后的困境
+由于可持续农业计划的延迟和农业预算的支出不足，英国脱欧后的英国农民陷入困境。在英格兰，低订阅率让许多农民陷入困境，而在威尔士，针对预留土地用于自然和植树的计划爆发了抗议活动。现在，农民呼吁实行全民基本收入，以确保财务安全并能够试验自然友好型耕作方法。 BI4Farmers 活动团体已聚集了 100 多名支持者，倡导者强调 UBI 在支持农场工人和增强农业部门恢复力方面的潜力。由于农民面临不确定性和成本上升，这一有争议的提议正在获得关注。]]></description>
+      <guid>https://t.me/hn_summary/84007</guid>
+      <pubDate>Thu, 11 Apr 2024 12:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] www.noahpinion.blog 上内容的作者对缺乏 [...]</title>
-      <link>https://t.me/hn_summary/83981</link>
-      <description><![CDATA[美国人对世界大战的风险仍然不够担心
-www.noahpinion.blog 上内容的作者表示美国人对潜在的世界大战风险缺乏担忧，尤其是中美之间的战争，这让他们感到沮丧。尽管最初的警告被忽视，但乌克兰和加沙战争等最近发生的事件使这些担忧成为人们关注的焦点。作者强调了第二次世界大战前夕与当前全球紧张局势之间的历史相似之处，并强调如果不采取行动，就有可能发生灾难性冲突。作者还将乌克兰战争视为欧洲与俄罗斯之间的代理人冲突，而中国越来越多地支持俄罗斯，有可能将其变成中欧之间的代理人冲突。作者敦促提高认识并采取行动，以防止潜在的世界大战。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83981</guid>
-      <pubDate>Thu, 11 Apr 2024 03:21:22 GMT</pubDate>
+      <title>19 世纪初，苏格兰出现了挑战传统的自由思想团体的崛起 [...]</title>
+      <link>https://t.me/hn_summary/84006</link>
+      <description><![CDATA[有责任心的不信者
+19世纪初，苏格兰自由思想团体兴起，挑战传统基督教信仰，引发了一场关于言论自由的斗争。在托马斯·芬利等人的领导下，这些“有良心的异教徒”面临着亵渎法的迫害。他们来自不同的背景，与大卫·休谟等以前的知识精英不同。自由思想家通过报纸、社团和书店组织起来，创造了一种社区意识和知识交流。尽管面临法律挑战，他们最终成功改变了公众舆论并结束了苏格兰的亵渎审判，与英格兰正在进行的起诉相比，这是一个重大转变。 （根据 54% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84006</guid>
+      <pubDate>Thu, 11 Apr 2024 12:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型 La [...]</title>
-      <link>https://t.me/hn_summary/83980</link>
-      <description><![CDATA[展示 HN：纯用 Python 编写的微调数据生成器
-Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型语言模型 (LLM)。它解决了模型微调过程中数据稀缺和不平衡的挑战，确保了全面且平衡的数据集创建过程。该项目允许用户指定模型、主题、格式和其他参数来生成法学硕士的培训数据。 Auto Data 的独特之处在于其轻量级特性、高效性和易用性，使其成为开发自定义代理的开发人员的宝贵工具。该项目还提供教程并欢迎开源社区的贡献。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83980</guid>
-      <pubDate>Thu, 11 Apr 2024 03:00:13 GMT</pubDate>
+      <title>[媒体] Fern 是一家 YC 支持的初创公司，正在寻找一名前端工程师加入他们的小团队 [...]</title>
+      <link>https://t.me/hn_summary/84005</link>
+      <description><![CDATA[Fern (YC W23) 正在布鲁克林招聘一名前端工程师，纽约
+Fern 是一家由 YC 支持的初创公司，正在寻找一名前端工程师加入他们位于纽约布鲁克林的小团队。他们正在寻找具有强大 JavaScript 基础和 Next.js、React 和 TypeScript 背景、经验丰富的人才。该角色涉及开发新的面向用户的功能、与设计师合作完善 UI 系统、管理前端基础设施以及与客户建立关系。公司提供有竞争力的薪资、股权、福利和生活邻近奖金。 Fern 的技术堆栈包括 NextJS、Vercel、Express、FastAPI、Postgres DB 和 AWS。他们的目标是通过为 REST API 提供“条带级”SDK 和文档来简化 API 开发。 Fern 成立于 2022 年，专注于开源和客户满意度。]]></description>
+      <guid>https://t.me/hn_summary/84005</guid>
+      <pubDate>Thu, 11 Apr 2024 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们与各种努力解决问题的人工智能图像生成器的经验[...]</title>
-      <link>https://t.me/hn_summary/83979</link>
-      <description><![CDATA[我仍在尝试生成人工智能亚洲男人和白人女人
-作者讨论了他们使用各种人工智能图像生成器的经验，这些图像生成器努力创建亚洲男性和白人女性的图像，其中一些甚至交换种族或生成种族不敏感的结果。 Meta 和 Google 等公司在准确代表跨种族情侣方面面临着挑战，有些模型完全无法做到这一点。作者对导致这些问题的人工智能训练集的偏见和局限性提出了质疑，强调了这些系统透明度和改进的必要性。尽管缺乏公司明确的解释，作者仍继续探讨这一现象，强调这些在创造多样化和准确图像方面的斗争的荒谬性。]]></description>
-      <guid>https://t.me/hn_summary/83979</guid>
-      <pubDate>Thu, 11 Apr 2024 02:56:08 GMT</pubDate>
+      <title>[媒体]iXsystems，最古老的 BSD 系统供应商，正在将其重点从 FreeBSD 转向 Lin [...]</title>
+      <link>https://t.me/hn_summary/84004</link>
+      <description><![CDATA[TrueNAS CORE 13 是 FreeBSD 版本的终结 
+iXsystems 是最古老的 BSD 系统供应商，通过推出 TrueNAS SCALE（一款针对 Kubernetes 用户的基于 Debian 的产品），将其重点从 FreeBSD 转向 Linux。此举标志着基于 FreeBSD 的产品 TrueNAS CORE 13 的终结。尽管 TrueNAS SCALE 取得了成功，但人们对 TrueNAS CORE 的未来及其延迟更新感到担忧。 iXsystems 源于 Berkeley Software Design, Inc.，其历史很复杂，涉及合并、收购和产品停产。优先考虑 Linux 而非 FreeBSD 的决定引发了人们对公司发展方向以及对用户潜在影响的质疑。]]></description>
+      <guid>https://t.me/hn_summary/84004</guid>
+      <pubDate>Thu, 11 Apr 2024 11:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]怀俄明州卡车司机正在抵制旨在运输的新联邦法规 [...]</title>
-      <link>https://t.me/hn_summary/83978</link>
-      <description><![CDATA[怀俄明州卡车司机表示新的联邦电动汽车规则不切实际且“愚蠢”
-怀俄明州的卡车司机正在反对新的联邦法规，该法规旨在到 2032 年将该行业过渡到电动汽车 (EV)。卡车司机认为，该技术尚不可靠或无法满足他们的需求，特别是在怀俄明州恶劣的气候和长距离的情况下。他们担心新规则会增加成本、损害小公司并扰乱供应链。 John Bunning Transfer Co. 和 Cowboy State Trucking Inc. 等卡车运输公司担心这对其运营和整个行业的影响。争议在于联邦法规与怀俄明州卡车运输实际情况之间的冲突。]]></description>
-      <guid>https://t.me/hn_summary/83978</guid>
-      <pubDate>Thu, 11 Apr 2024 02:52:05 GMT</pubDate>
+      <title>[媒体]Cascade 是一个开源 SaaS 模板，旨在提供一种简约的方法 [...]</title>
+      <link>https://t.me/hn_summary/84003</link>
+      <description><![CDATA[显示 HN：Cascade – 付费 SaaS 样板的开源替代方案&lt; /a&gt;
+Cascade 是一个开源 SaaS 模板，旨在提供一种简约的技术选择方法，让用户从一开始就专注于编写业务逻辑。该项目的独特之处在于提供了简化的设置过程，唯一的要求是 .env 文件中的环境变量正确。 Cascade 利用各种开源和自托管工具，以及具有慷慨免费计划的 SaaS 选项，来支持身份验证、用户分析、错误跟踪等功能。作者赞扬了对 Cascade 的发展有启发和贡献的各种个人和项目。]]></description>
+      <guid>https://t.me/hn_summary/84003</guid>
+      <pubDate>Thu, 11 Apr 2024 11:32:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
