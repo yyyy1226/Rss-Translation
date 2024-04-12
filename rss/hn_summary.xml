@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:32:12 GMT</lastBuildDate>
     <item>
-      <title>在 heatpumpmonitor.org，我们正在领导一项开源计划，以收集和共享热泵 [...]</title>
-      <link>https://t.me/hn_summary/84171</link>
-      <description><![CDATA[一项用于共享和比较热泵性能数据的开源计划
-在 heatpumpmonitor.org，我们正在领导一项开源计划，以收集并共享热泵性能数据。随着我们选择的系统数量不断增加，用户可以比较各个系统的平均 COP 值以及热电值的总和。在选择满足您需求的最高效热泵时，这些数据可以帮助您做出明智的决策。将表数据复制到剪贴板可以轻松分析和共享信息。与我们一起彻底改变我们监控和比较热泵性能的方式。]]></description>
-      <guid>https://t.me/hn_summary/84171</guid>
-      <pubDate>Fri, 12 Apr 2024 09:11:18 GMT</pubDate>
+      <title>[媒体]单元测试真的像我们想象的那么有益吗？</title>
+      <link>https://t.me/hn_summary/84187</link>
+      <description><![CDATA[被认为有害的单元测试
+有争议的：单元测试被认为是有害的
+单元测试真的像我们想象的那样有益吗？在本文中，我挑战了单元测试对于成功的软件开发始终是必要的这一传统观念。令人惊讶的是，我认为单元测试在某些情况下实际上可能是有害的，导致时间和资源的浪费。如果您在开发过程中感到陷入困境或面临成长的烦恼，我可以提供一个全新的视角，可能会帮助您摆脱传统测试方法的限制。让我们一起重新思考单元测试的作用。请访问 www.shaiyallin.com 了解更多见解。]]></description>
+      <guid>https://t.me/hn_summary/84187</guid>
+      <pubDate>Fri, 12 Apr 2024 12:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cryptr 是一个使用 OpenSSL 加密和解密文件的 shell 实用程序。</title>
-      <link>https://t.me/hn_summary/84170</link>
-      <description><![CDATA[显示 HN：Cryptr – 用于加密和解密文件的 shell 实用程序
-Cryptr 是一个使用 OpenSSL 加密和解密文件的 shell 实用程序。它提供使用 AES-256 密码块链接来加密和解密文件的命令，从而实现安全的文件处理。该项目提供了为非交互式或批处理操作定义密码的能力。此外，Cryptr 还包括制表符补全和帮助命令等功能，以方便用户。作者强调保持向后兼容性并遵循发布的语义版本控制指南。该项目因其在文件加密和解密任务中的简单性和易用性而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/84170</guid>
-      <pubDate>Fri, 12 Apr 2024 09:05:12 GMT</pubDate>
+      <title>[媒体]不列颠哥伦比亚省将要求所有医院为患者提供指定空间 [...]</title>
+      <link>https://t.me/hn_summary/84186</link>
+      <description><![CDATA[不列颠哥伦比亚省要求医院为患者提供非法药物使用空间
+不列颠哥伦比亚省将要求所有医院为患有物质使用障碍的患者提供指定的空间来服用非法药物，旨在解决医护人员的安全问题。此举是该省针对药物使用采取的独特方法的一部分，包括非刑事化和开出非法药物的替代品。虽然一些医院已经提供此类空间，但在某些城市可能会遇到阻力。支持者认为，在医院提供处方替代品可以帮助控制成瘾症状，而批评者则表达了对安全性和允许非法药物使用的担忧。卫生部长阿德里安·迪克斯 (Adrian Dix) 成立的工作组将致力于标准化所有卫生当局的政策和做法。]]></description>
+      <guid>https://t.me/hn_summary/84186</guid>
+      <pubDate>Fri, 12 Apr 2024 12:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 组织 OpenStreetMap 制图派对是关于使用不同方法的综合指南 [...]</title>
-      <link>https://t.me/hn_summary/84169</link>
-      <description><![CDATA[组织 OpenStreetMap 测绘派对
-组织 OpenStreetMap 测绘派对是关于使用不同类型的卷尺在 OpenStreetMap 上绘制各种要素的综合指南。作者强调了测量街道宽度以确定不同车辆是否可以实际通过的重要性。它们强调了不同卷尺的多功能性，从用于小长度的裁缝卷尺到用于较大距离的测量员卷尺。还讨论了激光测距仪的使用，为难以到达的地方提供了更昂贵但更有效的替代方案。作者的详细解释和实用技巧使本指南成为地图爱好者的宝贵资源。]]></description>
-      <guid>https://t.me/hn_summary/84169</guid>
-      <pubDate>Fri, 12 Apr 2024 08:11:54 GMT</pubDate>
+      <title>[媒体] 英语语法对于乌克兰语和俄语学习者来说可能是一个真正的挑战，因为 highlig [...]</title>
+      <link>https://t.me/hn_summary/84185</link>
+      <description><![CDATA[英语语法并不简单，来自乌克兰英语老师
+正如一位拥有 20 年经验的乌克兰英语教师所强调的那样，英语语法对于乌克兰和俄语学习者来说可能是一个真正的挑战。元音、辅音、拼写和动词时态的差异可能令人震惊和压倒性的。冠词的定性/不定性概念特别难以掌握，需要新的思维方式。固定的词序和各种动词形式增加了复杂性，而且缺乏性别和大小写的区别。掌握英语语法所需的分析水平和对细节的关注是无与伦比的，这使其成为一门独特且具有挑战性的语言。]]></description>
+      <guid>https://t.me/hn_summary/84185</guid>
+      <pubDate>Fri, 12 Apr 2024 12:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Instagram 提升了 AI 生成的印度总理图像，这是一项颇具争议的举动 [...]</title>
-      <link>https://t.me/hn_summary/84168</link>
-      <description><![CDATA[印度大选前，Instagram 发布了违反规则的莫迪 AI 图片
-Instagram 此举颇具争议，将人工智能生成的印度总理纳伦德拉·莫迪 (Narendra Modi) 形象塑造成印度教史诗人物，违反了平台规则。这些图片由右翼页面 Hokage Modi Sama 宣传，将莫迪描绘成印度教领袖，引发了人们对 2024 年选举前的宣传和错误信息的担忧。尽管 Meta 对人工智能生成的内容提出了披露要求，但执行方面的挑战仍然存在，凸显了更严格监管的必要性。在政治竞选中使用人工智能图像是一种全球趋势，对战略叙事和选民认知产生影响。西方与南半球不同的人工智能监管方法引发了有关平台公平和错误信息控制的问题。]]></description>
-      <guid>https://t.me/hn_summary/84168</guid>
-      <pubDate>Fri, 12 Apr 2024 08:09:50 GMT</pubDate>
+      <title>[媒体]在初创框架中，我们致力于帮助有抱负的企业家转变他们的态度 [...]</title>
+      <link>https://t.me/hn_summary/84184</link>
+      <description><![CDATA[显示 HN：启动框架
+在The Startup Frame，我们致力于帮助有抱负的企业家将他们的愿景转变为成功的现实。我们的平台提供必要的工具和专家指导，帮助您制定可靠的商业计划并充满信心地开展您的企业。从跟踪现金流到设定目标和接收预测，我们拥有您在充满挑战的初创企业世界中驾驭所需的一切。加入我们，踏上这段激动人心的旅程，迈出建立繁荣企业的第一步。]]></description>
+      <guid>https://t.me/hn_summary/84184</guid>
+      <pubDate>Fri, 12 Apr 2024 12:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 韦伯 – 太空望远镜现场直播。</title>
-      <link>https://t.me/hn_summary/84167</link>
-      <description><![CDATA[Webb – 太空望远镜直播。韦伯现在观察到什么？
-欢迎来到韦伯 - 太空望远镜直播！想知道韦伯望远镜现在正在观测什么吗？我们的天空地图提供了 2 微米全天空巡天视野的详细信息，跨度为 30 角分。坐标 +00 00 00.00 +00 00 00.0 让您一睹太空探索的迷人世界。请继续关注这台突破性望远镜的最新发现和观测的更新。与我们一起实时探索宇宙！]]></description>
-      <guid>https://t.me/hn_summary/84167</guid>
-      <pubDate>Fri, 12 Apr 2024 08:08:46 GMT</pubDate>
+      <title>[媒体]研究人员发现了一种潜在的新细胞器，称为硝基体，即 ev [...]</title>
+      <link>https://t.me/hn_summary/84183</link>
+      <description><![CDATA[研究人员发现一种新的细胞器正在进化
+研究人员发现了一种潜在的新细胞器，称为硝基体，它正在进化以固定大气中的氮。这个过程很罕见，之前已知只有线粒体和叶绿体是通过内共生进化的。氮对于生命至关重要，但很难获得，因此这一发现意义重大。硝化体仍处于专业化过程中，为未来了解细胞器进化的研究带来了希望。这一发现为复杂细胞内共生和细胞器作用的研究开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/84183</guid>
+      <pubDate>Fri, 12 Apr 2024 12:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于永远存在的问题，引导群体决策可能是一种复杂且令人疲惫的经历。</title>
-      <link>https://t.me/hn_summary/84166</link>
-      <description><![CDATA[小组决策
-由于个人的动机和想法不断变化，引导群体决策可能是一种复杂而疲惫的经历。会议常常变成难以解决的人际沟通难题。然而，通过准备清晰的书面结构，在紧张时刻保持专注，并在事后总结讨论，可以取得富有成效的成果。识别和解决会议中的情绪状况非常重要，可以通过重置对话、重新进行总结或作为倾听者保持沉默。通过提供清晰度和重点，可以有效地做出决策，而无需召开额外的会议。尽管人与人之间的互动很复杂，但同理心和专注是确保做出富有成效的团队决策的关键。]]></description>
-      <guid>https://t.me/hn_summary/84166</guid>
-      <pubDate>Fri, 12 Apr 2024 07:34:34 GMT</pubDate>
+      <title>[媒体] d-shoot.net 内容的作者分享了他们从成为 Ka 的个人历程 [...]</title>
+      <link>https://t.me/hn_summary/84182</link>
+      <description><![CDATA[我对卡吉失去了信心
+d-shoot.net 上内容的作者分享他们从 Kagi 订阅者到 Kagi 反对者的个人历程。他们强调了 Kagi 面临的财务问题，包括 T 恤赠品活动失败，花费了他们三分之一的资金，以及两年没有缴纳销售税。作者还深入研究了 Kagi 对人工智能工具的高度关注，他们认为这些工具不准确，并且不能提供可靠的搜索体验。他们批评创始人弗拉德对隐私问题的轻视态度，以及他认为只有少数人需要在搜索引擎中完全匿名的信念。作者质疑 Kagi 对隐私和透明度的奉献精神，最终导致他们对该平台失去信心。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84182</guid>
+      <pubDate>Fri, 12 Apr 2024 11:45:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]X 做出了一项有争议的举动，不再允许用户隐藏他们的蓝色支票 [...]</title>
-      <link>https://t.me/hn_summary/84165</link>
-      <description><![CDATA[X 不会再让用户隐藏他们的蓝色支票
-X 采取了一项颇具争议的举措，即不再允许用户隐藏他们的蓝色支票，即使对于那些已支付溢价的用户也是如此。这一变化是在该应用程序开始向拥有至少 2,500 名付费订阅付费关注者的有影响力用户的帐户添加蓝色支票之后发生的。虽然埃隆·马斯克等一些人认为这是一种福利，但其他人，包括以前经过验证的用户，对徽章出现在他们的帐户上并不满意。这一决定引发了用户之间的争论，一些人感觉自己暴露了，另一些人则质疑蓝色支票的价值。]]></description>
-      <guid>https://t.me/hn_summary/84165</guid>
-      <pubDate>Fri, 12 Apr 2024 07:25:28 GMT</pubDate>
+      <title>[媒体] 博士</title>
+      <link>https://t.me/hn_summary/84181</link>
+      <description><![CDATA[邪教如何占领 NHS
+希拉里·卡斯 (Hilary Cass) 博士关于 NHS 为年轻人提供的性别服务的最终报告揭示了一种令人不安的趋势，即对性别困惑的儿童进行的治疗方法存在问题。该报告强调缺乏证据支持这些干预措施以及一些临床医生和患者的邪教行为。这些有争议的做法包括让青春期前的孩子处于化学悬浮液中、给青少年服用异性激素，以及允许通过手术切除身体的主要部位。该报告还揭示了临床医生对数据研究合作的抵制，引发了人们对 NHS 内性别医学完整性的担忧。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84181</guid>
+      <pubDate>Fri, 12 Apr 2024 11:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“这是一个益智游戏。</title>
-      <link>https://t.me/hn_summary/84164</link>
-      <description><![CDATA[&quot;这是一个益智游戏。我称之为反转整数列表。”
-我在 Mathstodon 上创建了一个有趣的益智游戏，名为“反转整数列表” .xyz。该游戏挑战玩家在尽可能最快的时间内颠倒整数列表的顺序。这是测试您解决问题的能力并与朋友竞争的好方法。只需记住启用 JavaScript 即可在 Web 应用程序上播放，或尝试 Mastodon 的本机应用程序之一。尝试一下，看看你是否能赶上时间！]]></description>
-      <guid>https://t.me/hn_summary/84164</guid>
-      <pubDate>Fri, 12 Apr 2024 07:14:22 GMT</pubDate>
+      <title>[媒体]“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 [...]</title>
+      <link>https://t.me/hn_summary/84180</link>
+      <description><![CDATA[显示 HN: tu – 将自然语言日期/时间转换为 UTC&lt; /a&gt;
+“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 UTC。它旨在解决将人类可读的日期/时间输入轻松转换为标准化 UTC 格式的问题。该工具可以处理各种输入，例如“今天”、“明天”、特定持续时间（例如“2 天”）或特定日期/时间。作者提到，当与 TaskLite 等其他任务管理工具结合使用时，该工具会特别有用。作者还强调，“tu”与类似项目的区别在于它提供了一种简单有效的方法将自然语言日期/时间表达式转换为 UTC。]]></description>
+      <guid>https://t.me/hn_summary/84180</guid>
+      <pubDate>Fri, 12 Apr 2024 11:13:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]好莱坞再次推动反盗版立法，这一次的目的是阻止[...]</title>
-      <link>https://t.me/hn_summary/84163</link>
-      <description><![CDATA[电影协会游说国会颁布反盗版法
-好莱坞再次推动反盗版立法，这次的目标是阻止托管盗版内容的网站。电影协会正在与国会合作制定一个程序，版权所有者可以请求联邦法官阻止访问这些网站。批评者担心这可能会导致审查和滥用版权法。 MPA 指出其他国家成功的网站屏蔽法律，但反对者认为该立法可能会扼杀言论自由。拟议的法律将比 2011 年备受争议的 SOPA 法案范围更窄，仅关注包含被盗材料的网站。]]></description>
-      <guid>https://t.me/hn_summary/84163</guid>
-      <pubDate>Fri, 12 Apr 2024 07:04:16 GMT</pubDate>
+      <title>“XML T.R.A.P.</title>
+      <link>https://t.me/hn_summary/84179</link>
+      <description><![CDATA[展示 HN：用 TypeScript 编写的简单 XML 和 Feed 解析器
+“XML 陷阱”项目是一个用 Bun 编写的 Typescript RSS/Atom feed 解析器。它可以解析 feed 并以 JSON 格式创建 feed 的抽象语法树 (AST)。用户可以利用 newFeed 等函数来解析 feed 或 createTree 来生成 feed 的树表示。该项目全面覆盖了单元测试，并且欢迎贡献。作者鼓励改进项目的测试套件或性能的贡献。该项目已获得 MIT 许可证的许可，并包含入门设置说明。作者对 Bun、Tsoding 和 Matthew Groff 的贡献和灵感表示赞赏。]]></description>
+      <guid>https://t.me/hn_summary/84179</guid>
+      <pubDate>Fri, 12 Apr 2024 10:59:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 sive.rs 上这篇发人深省的文章中，作者深入探讨了 [...]</title>
-      <link>https://t.me/hn_summary/84162</link>
-      <description><![CDATA[有史以来最好的书
-在 sive.rs 上这篇发人深省的文章中，作者深入探讨了探究什么是有史以来最好的书。虽然音乐家经常认为他们最新的歌曲是最好的，但作者在谈到他们的书时往往不同意。作者坚信，《如何生活》是有史以来最好的书，是多年学习和生活的结晶，被提炼成 112 页充满诗意的书。作者在谈论他们的作品时所表现出的诚实和热情既令人惊讶又令人耳目一新，让读者思考是什么真正让这本书与众不同。]]></description>
-      <guid>https://t.me/hn_summary/84162</guid>
-      <pubDate>Fri, 12 Apr 2024 07:02:12 GMT</pubDate>
+      <title>[媒体] 在 devenv.sh，我们提供快速、声明性、可重复且可组合的开发环境 [...]</title>
+      <link>https://t.me/hn_summary/84178</link>
+      <description><![CDATA[使用 Nix 的快速、声明性、可重现和可组合的开发环境
+在 devenv.sh，我们提供快速、声明性、可重复性和使用 Nix 的可组合开发人员环境。我们的预配置流程让您可以轻松入门，服务定义了在启用时启动的流程。配置灵活，具有定制选项和额外的配置挂钩。让我们与众不同的是我们的可扩展方法 - 将您的开发流程定义为一项服务，只需几行配置即可轻松重用和简单。使用 devenv.sh&lt; 告别复杂的设置，迎接简化、高效的开发环境/a&gt;.]]></description>
+      <guid>https://t.me/hn_summary/84178</guid>
+      <pubDate>Fri, 12 Apr 2024 10:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
