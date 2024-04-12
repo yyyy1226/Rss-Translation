@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 21:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:17:18 GMT</lastBuildDate>
     <item>
-      <title>在 shurutech.com，我们的 MySQL 服务器最近遇到了内存使用挑战，领导 [...]</title>
-      <link>https://t.me/hn_summary/84094</link>
-      <description><![CDATA[MySQL-高效管理内存使用
-在 shurutech.com，我们最近遇到了内存使用挑战MySQL服务器，导致性能下降。为了解决这个问题，我们深入了解MySQL的内存使用机制和优化策略。我们的博客文章深入研究了全局内存分配、动态调整 InnoDB 缓冲池大小、每个连接的内存分配（如排序缓冲区和临时表）以及线程内存分配。我们强调使用性能架构和系统架构监控内存使用情况的重要性，提供有关内存诊断和优化的见解。通过分享我们的经验，我们的目标是帮助其他人有效管理 MySQL 中的内存使用，以提高性能和可靠性。]]></description>
-      <guid>https://t.me/hn_summary/84094</guid>
-      <pubDate>Thu, 11 Apr 2024 21:18:20 GMT</pubDate>
+      <title>[媒体]丹尼尔被指控怀俄明州狼虐杀者的案件引发了国际社会的广泛关注 [...]</title>
+      <link>https://t.me/hn_summary/84123</link>
+      <description><![CDATA[调查可能导致对被指控的怀俄明州狼虐待者提出更多指控
+《丹尼尔》中被指控的怀俄明州狼虐案引发了国际社会的愤怒，科迪·罗伯茨因非法持有活狼而被处以 250 美元的罚款。罗伯茨与狼合影、用胶带封住狼口的照片在网上疯传，引发了要求更严厉处罚的呼声。萨普莱特县治安官办公室目前正在调查，可能会导致更多指控，包括虐待动物指控。对案件的关注可能促使了调查，专家建议在这种情况下可以取消狩猎特权。随着更多细节的浮出水面，围绕此案的争议不断加剧。]]></description>
+      <guid>https://t.me/hn_summary/84123</guid>
+      <pubDate>Fri, 12 Apr 2024 01:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>1961 年，约翰·麦卡锡 (John McCarthy) 引入了一种有趣的数学运算符“amb”，它可以 [...]</title>
-      <link>https://t.me/hn_summary/84093</link>
-      <description><![CDATA[麦卡锡的模糊算子 (2005)
-1961 年，约翰·麦卡锡 (John McCarthy) 引入了名为“amb”的有趣数学运算符，它看似可以预测未来，以避免被无参数调用。该运算符在 Ruby 中进行了演示，展示了其为变量 x 和 y 选择值以防止出现任何问题的能力。虽然“amb”实际上看不到未来，但当遇到麻烦时，它可以回溯过去并做出不同的选择。实现此函数需要延续，如基本 Ruby 实现所示。有关延续的更轻松的解释，请查看 RubyGarden 的概述。]]></description>
-      <guid>https://t.me/hn_summary/84093</guid>
-      <pubDate>Thu, 11 Apr 2024 21:14:14 GMT</pubDate>
+      <title>[媒体]在缅因州，科迪莉亚和内森·桑德斯发现他们一直在饮用受污染的水 [...]</title>
+      <link>https://t.me/hn_summary/84122</link>
+      <description><![CDATA[缅因州是对美国 PFAS 未来的警告
+在缅因州，Cordelia 和 Nathan Saunders 发现他们已经饮用了 30 多年受污染的水，原因是附近田地里的污水污泥所造成的 PFAS 污染。缅因州正在意识到这场看不见的危机的严重程度，从炊具到服装等产品中都发现了 PFAS。该州已禁止污泥扩散，但在管理有毒废物方面面临挑战。内森正在起诉造纸公司造成污染。弗吉尼亚州和阿拉巴马州等其他州在解决 PFAS 问题方面进展缓慢。缅因州正在努力减少 PFAS，但挑战仍然存在：如何处理无法消灭的污染物？ （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84122</guid>
+      <pubDate>Fri, 12 Apr 2024 00:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的项目“Show HN：生成 Docker Artifacts to $PWD”提供了一个 Docker 脚本，[...]</title>
-      <link>https://t.me/hn_summary/84092</link>
-      <description><![CDATA[显示 HN：生成 Docker 工件到 $PWD&lt; br /&gt;
-GitHub 上的项目“Show HN：Generate Docker Artifacts to $PWD”提供了一个 Docker 脚本，允许用户从 Dockerfile 生成构建工件，而无需创建容器。该项目旨在简化从 Docker 镜像中提取特定工件的过程。通过向 Dockerfile 添加标签，指定所需工件的路径，用户可以轻松构建 Dockerfile 并自动提取编译后的程序。该项目的独特之处在于专注于生成工件而不是容器，为用户提供更高效的工作流程。]]></description>
-      <guid>https://t.me/hn_summary/84092</guid>
-      <pubDate>Thu, 11 Apr 2024 21:10:09 GMT</pubDate>
+      <title>埃隆·马斯克关于明年底将出现超越人类的通用人工智能的大胆预测引发了争议。</title>
+      <link>https://t.me/hn_summary/84121</link>
+      <description><![CDATA[1000 万美元表明我们不会看到超越人类的 AGI 2025年底
+埃隆·马斯克关于明年底将出现超越人类的通用人工智能的大胆预测引发了争议。以对人工智能领域持怀疑态度而闻名的加里·马库斯 (Gary Marcus) 对马斯克的时间表提出了挑战，并为此押注 1000 万美元。马库斯有着准确预测人工智能挑战的历史，例如无人驾驶汽车中的异常值和神经网络中的幻觉。马斯克和马库斯之间的争论凸显了人工智能开发的不确定性和复杂性，使得 1000 万美元的赌注成为正在进行的讨论中令人惊讶的转折。]]></description>
+      <guid>https://t.me/hn_summary/84121</guid>
+      <pubDate>Fri, 12 Apr 2024 00:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果的高级数据保护功能受到来自研究的质疑 [...]</title>
-      <link>https://t.me/hn_summary/84091</link>
-      <description><![CDATA[报告称苹果收集用户数据的行为难以阻止 
-阿尔托大学的研究对苹果的高级数据保护功能提出了质疑，该大学声称，即使用户试图禁用它们，苹果的默认应用程序也会收集用户数据。这使得用户几乎不可能阻止他们的数据被收集。研究发现，苹果自己的应用程序，如 Safari、Siri 和 iMessage，可以向苹果反馈大量数据，而阻止这种数据收集的过程复杂且令人困惑。尽管 Apple 制定了隐私政策，但该研究强调了用户在保护其数据时面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/84091</guid>
-      <pubDate>Thu, 11 Apr 2024 21:06:05 GMT</pubDate>
+      <title>[媒体] 亚马逊曾经大有前途的 Alexa Skills 计划正面临着虚拟的死亡，因为该公司 [...]</title>
+      <link>https://t.me/hn_summary/84120</link>
+      <description><![CDATA[亚马逊实际上扼杀了开发 Alexa 技能的努力，令数十人失望
+随着亚马逊终止对第三方开发者的激励措施，曾经大有前途的 Alexa Skills 计划实际上面临着消亡。由于只有查看天气等基本功能很受欢迎，Alexa Skills 的未来还不确定。随着亚马逊将重点转向生成式人工智能和基于订阅的模型，数十名开发人员质疑继续开发 Alexa 的价值。由于缺乏与技能相关的兴趣和资金，该计划被批评为“无用”，很少有开发商能够获得可观的利润。随着亚马逊重新评估其战略，Alexa 应用生态系统的未来仍然不确定。]]></description>
+      <guid>https://t.me/hn_summary/84120</guid>
+      <pubDate>Fri, 12 Apr 2024 00:48:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加入旧金山的 Etleap，担任客户经理，并成为领先数据公司的一部分 [...]</title>
-      <link>https://t.me/hn_summary/84090</link>
-      <description><![CDATA[Etleap (YC W13) 正在旧金山招聘一名客户经理&lt; /a&gt;
-加入旧金山的 Etleap，担任客户经理，并成为领先的数据集成解决方案提供商的一员。在顶级投资者的支持下，我们帮助组织集中、转换和管理其数据，以增强分析能力。随着我们的扩张，我们正在寻找充满活力的客户经理来发掘潜在客户、培养关系并达成交易。如果您拥有 5 年以上 B2B 软件销售经验，善于沟通，并在以团队为中心的文化中茁壮成长，我们将提供有竞争力的薪资、不封顶的佣金、股权、福利和职业发展机会。与我们一起重新定义数据分析并产生重大影响。立即申请！]]></description>
-      <guid>https://t.me/hn_summary/84090</guid>
-      <pubDate>Thu, 11 Apr 2024 21:02:01 GMT</pubDate>
+      <title>[媒体]英特尔推出全新人工智能加速器芯片 Gaudi 3，将其定位为竞争者 [...]</title>
+      <link>https://t.me/hn_summary/84119</link>
+      <description><![CDATA[英特尔的“Gaudi 3”人工智能加速器芯片可能会与Nvidia的H100一较高下为了它的钱
+英特尔推出了新的人工智能加速器芯片Gaudi 3，将其定位为Nvidia H100的竞争对手。凭借在训练和推理任务方面令人印象深刻的性能，英特尔旨在挑战 Nvidia 在市场上的主导地位。 Gaudi 3 芯片比其前身 Gaudi 2 有了显着改进，提供双倍的人工智能计算性能和更高的能效。 Gaudi 3 和 Nvidia 即将推出的 Blackwell 芯片之间的比较令人热切期待，因为两家公司都在努力突破 AI 加速技术的界限。英特尔与英伟达在人工智能加速器市场的竞争日趋白热化，这对人工智能计算的未来具有潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/84119</guid>
+      <pubDate>Fri, 12 Apr 2024 00:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。</title>
-      <link>https://t.me/hn_summary/84089</link>
-      <description><![CDATA[Kubernetes 不是重点
-在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。对新组件的兴奋导致了实验和创新的狂热，为最终用户创造了复杂的选择环境。 “工程主导”或创新的压力迫使许多 IT 组织拼凑自己的平台，从而导致生命周期和集成管理的负担。内部开发者平台的回归带来了简化、用户友好体验的理念。问题仍然是：我们是为了构建而构建，还是真正专注于改进业务计划和应用程序结果？]]></description>
-      <guid>https://t.me/hn_summary/84089</guid>
-      <pubDate>Thu, 11 Apr 2024 20:27:49 GMT</pubDate>
+      <title>[媒体]上周，一场重大的民族国家网络攻击幸免于难，多亏了迪斯科 [...]</title>
+      <link>https://t.me/hn_summary/84118</link>
+      <description><![CDATA[差点发生的 XZ Utils 后门
+上周，由于在 XZ Utils 库中发现了后门，一场重大的民族国家网络攻击才勉强避免。这一事件凸显了由无偿志愿者维护的晦涩软件在全球互联网安全中发挥的关键作用。这次由假冒人物精心策划的针对图书馆唯一维护者的攻击，如果不是另一位发现后门的志愿者保持警惕，可能会造成灾难性后果。这一事件凸显了我们软件供应链中的漏洞，以及已成为重要基础设施的开源项目迫切需要可持续的资金和安全措施。]]></description>
+      <guid>https://t.me/hn_summary/84118</guid>
+      <pubDate>Fri, 12 Apr 2024 00:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过漫长的等待，OpenZiti 1.0 终于来了，展示了它提供安全 [...]</title>
-      <link>https://t.me/hn_summary/84088</link>
-      <description><![CDATA[OpenZiti 1.0
-经过漫长的等待，OpenZiti 1.0 终于面世，展示了其大规模提供安全连接的能力。该平台以其零信任网络原则而闻名，已广泛应用于关键任务应用程序，包括财富 50 强环境。 1.0版本的发布标志着对未来分布式应用程序质量、稳定性和兼容性的承诺，并将安全性作为重中之重。 zrok（一款点对点共享应用程序）的推出作为第一个 ziti 原生应用程序展示了该平台的潜力。 OpenZiti 提供强大的身份、端口扫描保护、最小特权访问、持续授权、端到端加密、可见性等，使安全网络作为软件成为现实。]]></description>
-      <guid>https://t.me/hn_summary/84088</guid>
-      <pubDate>Thu, 11 Apr 2024 20:20:43 GMT</pubDate>
+      <title>一名男子创造性地通过拍照偷偷登上了从盐湖城飞往奥斯汀的达美航空航班 [...]</title>
+      <link>https://t.me/hn_summary/84117</link>
+      <description><![CDATA[男子创造性地潜入达美航空航班，但被抓获 
+一名男子创造性地偷偷登上了从盐湖城飞往奥斯汀的达美航空航班，他拍摄了其他乘客的登机牌照片，并使用其中一名乘客的条形码登机。他打算先躲在卫生间里，等到登机后，再找个空座位。然而，航班满员，导致他被发现并被捕。虽然他的计划很聪明，但由于航班容量的限制，最终失败了。该男子的行为引发了人们对航空业安全漏洞以及人们为免费旅行付出的努力的质疑。]]></description>
+      <guid>https://t.me/hn_summary/84117</guid>
+      <pubDate>Fri, 12 Apr 2024 00:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Aarde，这是一个通过自我复制模拟进化的突破性程序 [...]</title>
-      <link>https://t.me/hn_summary/84087</link>
-      <description><![CDATA[显示 HN：Aarde – 自我复制程序
-隆重推出 Aarde，这是一个突破性的程序，通过自我复制程序来模拟进化。使用 S、E、F、C 和 J 等命令的独特组合，Aarde 能够快速复制和进化。这个创新项目由 Koen van Gilst 创建，可在 GitHub 上供那些有兴趣探索自我复制程序可能性的人使用。与 Aarde 一起体验观看节目实时演变和适应的兴奋感。在 aarde 上探索这项尖端技术的潜在争议和令人惊讶的结果。 koenvangilst.nl。]]></description>
-      <guid>https://t.me/hn_summary/84087</guid>
-      <pubDate>Thu, 11 Apr 2024 20:16:39 GMT</pubDate>
+      <title>[媒体]美国资本主义如何变异为美国社团主义？</title>
+      <link>https://t.me/hn_summary/84116</link>
+      <description><![CDATA[美国资本主义如何变异为美国社团主义？&lt; br/&gt;
+在 20 世纪 90 年代，人们认为与私营部门相比，政府在技术上落后。然而，多年来，私营部门，特别是科技公司，已成为政府的主要供应商，模糊了公共部门和私营部门之间的界限。亚马逊、微软和谷歌等公司现在持有重要的政府合同，塑造了我们工作、沟通和消费信息的方式。这种向法团主义（私营公司为国家服务）的转变已成为我们生活中产品创新和监控的主要驱动力。杰弗里·塔克探讨了美国资本主义如何转变为美国社团主义，为社会提出了需要应对的重大挑战。]]></description>
+      <guid>https://t.me/hn_summary/84116</guid>
+      <pubDate>Fri, 12 Apr 2024 00:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔和联想硬件被发现包含一个漏洞，该漏洞已经消失[...]</title>
-      <link>https://t.me/hn_summary/84086</link>
-      <description><![CDATA[可破解的英特尔和联想硬件五年未被发现 
-英特尔和联想的硬件被发现包含一个五年来未被发现的漏洞，允许黑客远程利用它。该问题源于涉及多个制造商的开源软件和硬件的供应链错误。该漏洞影响 AMI 和 AETN 制造的底板管理控制器，这些控制器用于服务器中以实现远程管理。 lighttpd 软件中的缺陷可被利用来泄露敏感信息并绕过安全机制。虽然 Supermicro 正在为受影响的产品提供修复程序，但英特尔和联想没有计划为其硬件发布补丁。]]></description>
-      <guid>https://t.me/hn_summary/84086</guid>
-      <pubDate>Thu, 11 Apr 2024 20:12:34 GMT</pubDate>
+      <title>CodeFusion 是一款旨在简化选择和合并代码片段的过程的工具 [...]</title>
+      <link>https://t.me/hn_summary/84115</link>
+      <description><![CDATA[显示 HN：CodeFusion，使用具有大型代码库的 LLM（带有令牌上下文）记住）
+CodeFusion 是一款工具，旨在简化从大型代码库中选择代码片段并将其合并到单个提示块中的过程，并针对 ChatGPT 等 LLM 的使用进行了优化。该项目旨在通过消除手动代码合并、确保代码保持在令牌上下文预算内、减少复制粘贴期间可能发生的错误以及保持高效的工作流程来节省时间。 CodeFusion 的独特之处在于专注于使用大型代码库和 LLM 的用户的特定需求，并提供针对这些需求量身定制的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/84115</guid>
+      <pubDate>Fri, 12 Apr 2024 00:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“向 JavaScript 添加信号的提案”项目旨在引入一个标准 [...]</title>
-      <link>https://t.me/hn_summary/84085</link>
-      <description><![CDATA[向 JavaScript 添加信号的提案
-“向 JavaScript 添加信号的提案”项目旨在引入 JavaScript 中的信号标准，类似于 Promises/A+ 的工作。信号旨在帮助以反应方式管理应用程序状态，使开发人员能够专注于业务逻辑而不是重复的细节。与 Promises/A+ 不同，该提案侧重于信号图的核心语义，而不是面向开发人员的 API。该项目涉及各个框架作者的合作，如果信号被证明跨多个框架有益，则旨在标准化信号。该提案包括自动依赖跟踪、惰性评估和记忆功能，以提高性能和内存使用率。 （根据故事文本的 21% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84085</guid>
-      <pubDate>Thu, 11 Apr 2024 20:04:29 GMT</pubDate>
+      <title>[媒体]在德国森林深处，一群 Temnothorax 蚂蚁发现了 [...]</title>
+      <link>https://t.me/hn_summary/84114</link>
+      <description><![CDATA[有着可怕秘密的永不衰老的蚂蚁（2021）
+在德国森林深处，一群Temnothorax蚂蚁发现了永葆青春的秘密，这要归功于它们肚子里的绦虫寄生虫。这些蚂蚁的寿命比它们的兄弟姐妹长三倍，在巢穴周围闲逛，同时受到姐妹们的宠爱。虽然这看起来像是一笔不错的交易，但寄生虫实际上正在操纵整个蚂蚁社会，造成压力并改变社会互动。绦虫巧妙地控制蚂蚁，通过延长宿主的寿命来延长自己的生存时间。这种奇异而复杂的关系揭示了寄生性和社会性昆虫的复杂世界。]]></description>
+      <guid>https://t.me/hn_summary/84114</guid>
+      <pubDate>Fri, 12 Apr 2024 00:11:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
