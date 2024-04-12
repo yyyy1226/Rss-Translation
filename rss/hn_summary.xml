@@ -4,87 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:32:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:13:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]单元测试真的像我们想象的那么有益吗？</title>
-      <link>https://t.me/hn_summary/84187</link>
-      <description><![CDATA[被认为有害的单元测试
-有争议的：单元测试被认为是有害的
-单元测试真的像我们想象的那样有益吗？在本文中，我挑战了单元测试对于成功的软件开发始终是必要的这一传统观念。令人惊讶的是，我认为单元测试在某些情况下实际上可能是有害的，导致时间和资源的浪费。如果您在开发过程中感到陷入困境或面临成长的烦恼，我可以提供一个全新的视角，可能会帮助您摆脱传统测试方法的限制。让我们一起重新思考单元测试的作用。请访问 www.shaiyallin.com 了解更多见解。]]></description>
-      <guid>https://t.me/hn_summary/84187</guid>
-      <pubDate>Fri, 12 Apr 2024 12:32:12 GMT</pubDate>
+      <title>JSR 是一个新的 JavaScript 和 TypeScript 注册表，提供比 npm 更好的体验。</title>
+      <link>https://t.me/hn_summary/84205</link>
+      <description><![CDATA[我们如何构建 JSR
+JSR 是一个新的 JavaScript 和 TypeScript 注册表，提供比 npm 更好的体验。它支持发布 TypeScript 源代码，默认情况下是安全的，并使用“JSR 分数”对包进行评级。注册表与 npm 互操作，允许无缝使用包和增量采用。技术规格包括全球CDN、网站、API服务器和源代码分析系统。 API 服务器强制执行身份验证和授权策略。该网站是用 Fresh 构建的，使用孤岛渲染来提高性能。该网站具有出色的性能指标，包括通过优化工作实现的较低的首字节时间分数。 （根据 45% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84205</guid>
+      <pubDate>Fri, 12 Apr 2024 15:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不列颠哥伦比亚省将要求所有医院为患者提供指定空间 [...]</title>
-      <link>https://t.me/hn_summary/84186</link>
-      <description><![CDATA[不列颠哥伦比亚省要求医院为患者提供非法药物使用空间
-不列颠哥伦比亚省将要求所有医院为患有物质使用障碍的患者提供指定的空间来服用非法药物，旨在解决医护人员的安全问题。此举是该省针对药物使用采取的独特方法的一部分，包括非刑事化和开出非法药物的替代品。虽然一些医院已经提供此类空间，但在某些城市可能会遇到阻力。支持者认为，在医院提供处方替代品可以帮助控制成瘾症状，而批评者则表达了对安全性和允许非法药物使用的担忧。卫生部长阿德里安·迪克斯 (Adrian Dix) 成立的工作组将致力于标准化所有卫生当局的政策和做法。]]></description>
-      <guid>https://t.me/hn_summary/84186</guid>
-      <pubDate>Fri, 12 Apr 2024 12:31:09 GMT</pubDate>
+      <title>[媒体]作为美国</title>
+      <link>https://t.me/hn_summary/84204</link>
+      <description><![CDATA[美中军用无人机群竞争可能加剧全球军备竞赛
+随着美国和中国增强军事能力，重点正在转向开发配备人工智能的无人机群。这种新的战争形式设想数百甚至数千架无人机协同作战来压倒敌人。流氓国家和武装分子获得这项技术的可能性引起了人们对全球不稳定的担忧。两国都在竞相提高无人机能力，美国强调需要对中国对台湾的领土主张进行威慑。两个超级大国之间的竞争可能导致军备竞赛，并产生深远的影响。无人机群的发展仍处于早期阶段，但潜在的冲突和不稳定日益令人担忧。]]></description>
+      <guid>https://t.me/hn_summary/84204</guid>
+      <pubDate>Fri, 12 Apr 2024 15:05:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 英语语法对于乌克兰语和俄语学习者来说可能是一个真正的挑战，因为 highlig [...]</title>
-      <link>https://t.me/hn_summary/84185</link>
-      <description><![CDATA[英语语法并不简单，来自乌克兰英语老师
-正如一位拥有 20 年经验的乌克兰英语教师所强调的那样，英语语法对于乌克兰和俄语学习者来说可能是一个真正的挑战。元音、辅音、拼写和动词时态的差异可能令人震惊和压倒性的。冠词的定性/不定性概念特别难以掌握，需要新的思维方式。固定的词序和各种动词形式增加了复杂性，而且缺乏性别和大小写的区别。掌握英语语法所需的分析水平和对细节的关注是无与伦比的，这使其成为一门独特且具有挑战性的语言。]]></description>
-      <guid>https://t.me/hn_summary/84185</guid>
-      <pubDate>Fri, 12 Apr 2024 12:30:04 GMT</pubDate>
+      <title>[媒体]美国政府处于高度戒备状态，因为俄罗斯黑客窃取了重要信件 [...]</title>
+      <link>https://t.me/hn_summary/84203</link>
+      <description><![CDATA[美国政府因俄罗斯黑客窃取关键信件而处于高度戒备状态
+由于俄罗斯黑客闯入微软公司网络后窃取了联邦机构的重要信件，美国政府处于高度戒备状态。网络安全机构 CISA 发布了一项紧急指令，要求联邦机构分析泄露的电子邮件、重置受损的凭据并保护身份验证工具。这些被称为“午夜暴雪”的黑客还窃取了源代码，并且可能仍在访问内部系统。此次泄露事件是在之前发生的一起事件发生后发生的，当时中国网络间谍使用被盗的身份验证令牌访问 M365 电子邮件收件箱。微软因安全漏洞而受到批评，有人呼吁对其安全文化进行彻底改革。]]></description>
+      <guid>https://t.me/hn_summary/84203</guid>
+      <pubDate>Fri, 12 Apr 2024 15:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在初创框架中，我们致力于帮助有抱负的企业家转变他们的态度 [...]</title>
-      <link>https://t.me/hn_summary/84184</link>
-      <description><![CDATA[显示 HN：启动框架
-在The Startup Frame，我们致力于帮助有抱负的企业家将他们的愿景转变为成功的现实。我们的平台提供必要的工具和专家指导，帮助您制定可靠的商业计划并充满信心地开展您的企业。从跟踪现金流到设定目标和接收预测，我们拥有您在充满挑战的初创企业世界中驾驭所需的一切。加入我们，踏上这段激动人心的旅程，迈出建立繁荣企业的第一步。]]></description>
-      <guid>https://t.me/hn_summary/84184</guid>
-      <pubDate>Fri, 12 Apr 2024 12:20:57 GMT</pubDate>
+      <title>问 HN：所有基于触摸的艺术形式在哪里？</title>
+      <link>https://t.me/hn_summary/84202</link>
+      <description><![CDATA[问HN：所有基于触摸的艺术形式都在哪里？&lt; /a&gt;
+作者质疑与视觉、听觉、嗅觉和味觉等其他感官相比，缺乏基于触摸的艺术形式。尽管文学、音乐、香水和烹饪艺术蓬勃发展，但基于触摸的艺术形式似乎黯然失色。笔者思考为什么触觉在艺术世界中并不那么突出，并想知道为什么触觉体验不是更多艺术作品的主要焦点。这个发人深省的问题挑战了艺术中传统的感官等级，并邀请读者思考基于触摸的艺术形式获得更广泛认可和欣赏的潜力。]]></description>
+      <guid>https://t.me/hn_summary/84202</guid>
+      <pubDate>Fri, 12 Apr 2024 14:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员发现了一种潜在的新细胞器，称为硝基体，即 ev [...]</title>
-      <link>https://t.me/hn_summary/84183</link>
-      <description><![CDATA[研究人员发现一种新的细胞器正在进化
-研究人员发现了一种潜在的新细胞器，称为硝基体，它正在进化以固定大气中的氮。这个过程很罕见，之前已知只有线粒体和叶绿体是通过内共生进化的。氮对于生命至关重要，但很难获得，因此这一发现意义重大。硝化体仍处于专业化过程中，为未来了解细胞器进化的研究带来了希望。这一发现为复杂细胞内共生和细胞器作用的研究开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/84183</guid>
-      <pubDate>Fri, 12 Apr 2024 12:14:52 GMT</pubDate>
+      <title>[媒体] 2009 年 1 月《大学数学杂志》封面刊登了梅尔·博赫纳 (Mel Bochner) 的“医学 [...]</title>
+      <link>https://t.me/hn_summary/84201</link>
+      <description><![CDATA[思考艺术家对毕达哥拉斯定理的令人费解的致敬&lt; br/&gt;
+2009 年 1 月《大学数学杂志》的封面刊登了梅尔·博赫纳 (Mel Bochner) 的“毕达哥拉斯定理沉思”，引发了争议和困惑。一些评论家认为这件艺术品歪曲了毕达哥拉斯定理，而另一些评论家则认为它令人回味且发人深省。博赫纳本人解释说，这件作品反映了物理实体和概念实体之间的差异，挑战观众思考艺术和思想之间的关系。编辑迈克尔·亨勒强调了该定理的文化和历史意义，并对围绕博赫纳的致敬正在进行的辩论表示欢迎。这件艺术品继续引起数学家和艺术爱好者之间的兴趣和讨论。]]></description>
+      <guid>https://t.me/hn_summary/84201</guid>
+      <pubDate>Fri, 12 Apr 2024 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] d-shoot.net 内容的作者分享了他们从成为 Ka 的个人历程 [...]</title>
-      <link>https://t.me/hn_summary/84182</link>
-      <description><![CDATA[我对卡吉失去了信心
-d-shoot.net 上内容的作者分享他们从 Kagi 订阅者到 Kagi 反对者的个人历程。他们强调了 Kagi 面临的财务问题，包括 T 恤赠品活动失败，花费了他们三分之一的资金，以及两年没有缴纳销售税。作者还深入研究了 Kagi 对人工智能工具的高度关注，他们认为这些工具不准确，并且不能提供可靠的搜索体验。他们批评创始人弗拉德对隐私问题的轻视态度，以及他认为只有少数人需要在搜索引擎中完全匿名的信念。作者质疑 Kagi 对隐私和透明度的奉献精神，最终导致他们对该平台失去信心。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84182</guid>
-      <pubDate>Fri, 12 Apr 2024 11:45:39 GMT</pubDate>
+      <title>[媒体]在一项惊人的发现中，天文学家发现美丽的星云 NGC 6164/6165 [...]</title>
+      <link>https://t.me/hn_summary/84200</link>
+      <description><![CDATA[美丽的星云，暴力的历史：恒星的冲突解开了恒星之谜
+在一项令人震惊的发现中，天文学家发现美丽的星云 NGC 6164/6165（也称为龙蛋）是由 HD 148937 系统中的恒星碰撞形成的。该系统最初有三颗恒星，但两颗剧烈合并，形成了我们今天看到的磁星。这一事件也解释了周围星云中存在大量的氮、碳和氧。这一发现揭示了大质量恒星如何获得磁场，这是天文学中一个长期存在的谜团。这一发现是通过 ESO VLTI 和 FEROS 仪器的数据实现的，预计即将推出的 ELT 会提供更多见解。]]></description>
+      <guid>https://t.me/hn_summary/84200</guid>
+      <pubDate>Fri, 12 Apr 2024 14:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博士</title>
-      <link>https://t.me/hn_summary/84181</link>
-      <description><![CDATA[邪教如何占领 NHS
-希拉里·卡斯 (Hilary Cass) 博士关于 NHS 为年轻人提供的性别服务的最终报告揭示了一种令人不安的趋势，即对性别困惑的儿童进行的治疗方法存在问题。该报告强调缺乏证据支持这些干预措施以及一些临床医生和患者的邪教行为。这些有争议的做法包括让青春期前的孩子处于化学悬浮液中、给青少年服用异性激素，以及允许通过手术切除身体的主要部位。该报告还揭示了临床医生对数据研究合作的抵制，引发了人们对 NHS 内性别医学完整性的担忧。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84181</guid>
-      <pubDate>Fri, 12 Apr 2024 11:42:34 GMT</pubDate>
+      <title>[媒体] 网页内容的作者讨论了 Git 的错误消息和下面的策略 [...]</title>
+      <link>https://t.me/hn_summary/84199</link>
+      <description><![CDATA[Git 错误消息说明
+Web 内容的作者讨论了 Git 的错误消息以及理解和解决这些错误的策略。它们强调了许多用户对错误消息所面临的困惑，并提供了如何解释和解决常见错误的见解。作者承认改进错误消息的复杂性以及维护 Git 所面临的挑战。他们提供了处理特定错误消息的解释和个人策略，旨在澄清和简化用户的故障排除过程。该内容提供了有效浏览 Git 错误消息的宝贵见解。 （根据 86% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84199</guid>
+      <pubDate>Fri, 12 Apr 2024 14:38:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 [...]</title>
-      <link>https://t.me/hn_summary/84180</link>
-      <description><![CDATA[显示 HN: tu – 将自然语言日期/时间转换为 UTC&lt; /a&gt;
-“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 UTC。它旨在解决将人类可读的日期/时间输入轻松转换为标准化 UTC 格式的问题。该工具可以处理各种输入，例如“今天”、“明天”、特定持续时间（例如“2 天”）或特定日期/时间。作者提到，当与 TaskLite 等其他任务管理工具结合使用时，该工具会特别有用。作者还强调，“tu”与类似项目的区别在于它提供了一种简单有效的方法将自然语言日期/时间表达式转换为 UTC。]]></description>
-      <guid>https://t.me/hn_summary/84180</guid>
-      <pubDate>Fri, 12 Apr 2024 11:13:24 GMT</pubDate>
+      <title>[媒体] 标题：未经身份验证，帕洛阿尔托防火墙中的 RCE 漏洞，野外利用</title>
+      <link>https://t.me/hn_summary/84198</link>
+      <description><![CDATA[帕洛阿尔托防火墙中未经身份验证的 RCE 漏洞，野外利用&lt; /a&gt;
+标题：帕洛阿尔托防火墙中未经身份验证的 RCE 漏洞、野外利用
+
+Palo Alto Networks PAN-OS 软件的 GlobalProtect 功能中存在一个严重的命令注入漏洞，允许未经身份验证的攻击者在受影响的防火墙上以 root 权限执行代码。 PAN-OS 10.2、11.0 和 11.1 的修复正在开发中，预计将于 2024 年 4 月 14 日完成。云 NGFW、Panorama 设备和 Prisma Access 不受影响。已检测到利用此漏洞的有限攻击。客户可以通过启用威胁 ID 95187 并对 GlobalProtect 接口应用漏洞保护来缓解。 Volexity 检测到了该问题。 Palo Alto Networks 建议客户通过客户支持门户检查是否存在泄露情况。]]></description>
+      <guid>https://t.me/hn_summary/84198</guid>
+      <pubDate>Fri, 12 Apr 2024 14:33:01 GMT</pubDate>
     </item>
     <item>
-      <title>“XML T.R.A.P.</title>
-      <link>https://t.me/hn_summary/84179</link>
-      <description><![CDATA[展示 HN：用 TypeScript 编写的简单 XML 和 Feed 解析器
-“XML 陷阱”项目是一个用 Bun 编写的 Typescript RSS/Atom feed 解析器。它可以解析 feed 并以 JSON 格式创建 feed 的抽象语法树 (AST)。用户可以利用 newFeed 等函数来解析 feed 或 createTree 来生成 feed 的树表示。该项目全面覆盖了单元测试，并且欢迎贡献。作者鼓励改进项目的测试套件或性能的贡献。该项目已获得 MIT 许可证的许可，并包含入门设置说明。作者对 Bun、Tsoding 和 Matthew Groff 的贡献和灵感表示赞赏。]]></description>
-      <guid>https://t.me/hn_summary/84179</guid>
-      <pubDate>Fri, 12 Apr 2024 10:59:16 GMT</pubDate>
+      <title>[媒体] ble.sh 是一个用纯 Bash 编写的命令行编辑器，取代了默认的 GNU Rea [...]</title>
+      <link>https://t.me/hn_summary/84197</link>
+      <description><![CDATA[ble.sh：彻底改变 BASH 用户体验&lt; br/&gt;
+ble.sh 是一个用纯 Bash 编写的命令行编辑器，它取代了默认的 GNU Readline，旨在彻底改变 BASH 用户体验。它支持 Bash 3.0 或更高版本，对非 ASCII 字符使用 UTF-8 编码。该项目是在 BSD 许可证下提供的，并依赖 POSIX 实用程序进行加速。它提供语法突出显示、增强的补全、Vim 编辑模式以及状态行和 xterm 标题等其他功能。与其他项目不同的是，ble.sh 执行语法分析以获取正确的结果突出显示并支持复杂的结构，使其成为改善 BASH 用户体验的综合解决方案。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84197</guid>
+      <pubDate>Fri, 12 Apr 2024 14:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 devenv.sh，我们提供快速、声明性、可重复且可组合的开发环境 [...]</title>
-      <link>https://t.me/hn_summary/84178</link>
-      <description><![CDATA[使用 Nix 的快速、声明性、可重现和可组合的开发环境
-在 devenv.sh，我们提供快速、声明性、可重复性和使用 Nix 的可组合开发人员环境。我们的预配置流程让您可以轻松入门，服务定义了在启用时启动的流程。配置灵活，具有定制选项和额外的配置挂钩。让我们与众不同的是我们的可扩展方法 - 将您的开发流程定义为一项服务，只需几行配置即可轻松重用和简单。使用 devenv.sh&lt; 告别复杂的设置，迎接简化、高效的开发环境/a&gt;.]]></description>
-      <guid>https://t.me/hn_summary/84178</guid>
-      <pubDate>Fri, 12 Apr 2024 10:58:12 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/84196</link>
+      <description><![CDATA[能源部宣布拨款 7500 万美元用于推进海水淡化和水回用技术
+美国能源部 (DOE) 宣布为国家水创新联盟 (NAWI) 提供 7500 万美元资金，以推进海水淡化和水回用技术。 NAWI 的目标是降低水净化技术的成本和能源消耗，实现美国水基础设施的现代化，并在 2050 年实现净零排放经济。NAWI 重点关注苦咸地下水和废水等替代水源，正在投资于高效、可持续且具有成本效益的水处理解决方案。 NAWI 2.0将试点综合节能水系统并强调废水再利用，旨在优化供水管理。该中心由劳伦斯伯克利国家实验室领导，并由能源部工业效率和脱碳以及水力发电技术办公室资助。]]></description>
+      <guid>https://t.me/hn_summary/84196</guid>
+      <pubDate>Fri, 12 Apr 2024 13:52:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
