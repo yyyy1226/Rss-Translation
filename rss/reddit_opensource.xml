@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 21:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 01:04:39 GMT</lastBuildDate>
+    <item>
+      <title>开源对数字制造的贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c2n3w2/open_source_contribution_to_digital_manufacturing/</link>
+      <description><![CDATA[大家好，我正在寻找开源的机会，并且我可以作为具有软件和机器学习技能的人做出贡献。  有成员知道 GitHub 上有哪些开源且与制造相关的存储库可供我贡献吗？ 谢谢！    由   提交/u/karanbond007  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c2n3w2/open_source_contribution_to_digital_manufacturing/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:06:20 GMT</pubDate>
+    </item>
     <item>
       <title>寻求对我的信使服务的反馈。</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2ilse/seeking_feedback_on_my_messenger_service/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>OpenTofu：我们对 Hashicorp 停止和终止信函的回应</title>
       <link>https://www.reddit.com/r/opensource/comments/1c1jvoi/opentofu_our_response_to_hashicorps_cease_and/</link>
-      <description><![CDATA[   /u/SirPuzzleheaded5284  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/SirPuzzleheaded5284   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c1jvoi/opentofu_our_response_to_hashicorps_cease_and/</guid>
       <pubDate>Thu, 11 Apr 2024 16:47:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好。我正在构建一个 google Drive / docsend 替代方案。虽然 GitHub 上有类似的项目，但其中许多已经过时并且不再维护。因此，我使用新技术堆栈来构建它，包括附加功能，例如通过电子邮件共享以及高级链接控制和密码保护。这意味着您可以随时轻松删除对文件的访问权限。此外，整个项目是开源的，允许您自行托管并根据您的需求进行自定义。我也非常感谢您为我提供的任何反馈！ 我正在使用 AWS S3 和 Cloudflare R2 进行存储，此外我知道有些人更喜欢在自己的 VPS 或 NAS 上使用 docker 和主机，所以我正在准备，希望能在接下来的几个月内完成设置。  您可以在 github 上查看更多详细信息：https://github.com/suzushi-tw/ celestialdoc 或尝试部署的版本：https://celestialdoc.com/ &lt; /div&gt;  由   提交 /u/SuzushiDE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c1hxqp/sharing_an_open_source_google_drive_docsend/</guid>
       <pubDate>Thu, 11 Apr 2024 15:28:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Pike 谈自动化开源包升级</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c1hnh5/steve_pike_on_automating_open_source_package/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c1hnh5/steve_pike_on_automating_open_source_package/</guid>
-      <pubDate>Thu, 11 Apr 2024 15:16:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

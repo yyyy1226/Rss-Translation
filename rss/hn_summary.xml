@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 15:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 01:03:31 GMT</lastBuildDate>
     <item>
-      <title>JSR 是一个新的 JavaScript 和 TypeScript 注册表，提供比 npm 更好的体验。</title>
-      <link>https://t.me/hn_summary/84205</link>
-      <description><![CDATA[我们如何构建 JSR
-JSR 是一个新的 JavaScript 和 TypeScript 注册表，提供比 npm 更好的体验。它支持发布 TypeScript 源代码，默认情况下是安全的，并使用“JSR 分数”对包进行评级。注册表与 npm 互操作，允许无缝使用包和增量采用。技术规格包括全球CDN、网站、API服务器和源代码分析系统。 API 服务器强制执行身份验证和授权策略。该网站是用 Fresh 构建的，使用孤岛渲染来提高性能。该网站具有出色的性能指标，包括通过优化工作实现的较低的首字节时间分数。 （根据 45% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84205</guid>
-      <pubDate>Fri, 12 Apr 2024 15:13:38 GMT</pubDate>
+      <title>问 HN：您第一次学习编码是在哪里？</title>
+      <link>https://t.me/hn_summary/84287</link>
+      <description><![CDATA[问 HN：您第一次学习编码是在哪里？
+您是想要学习如何编码的初学者吗？加入关于人们最初学习编码的地方的讨论 - 无论是通过书籍、教程、课程还是其他方式。分享您的经验并获取该领域专家的建议。不要错过这个与他人联系并找到启动编码之旅的最佳方式的机会。]]></description>
+      <guid>https://t.me/hn_summary/84287</guid>
+      <pubDate>Sat, 13 Apr 2024 01:03:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作为美国</title>
-      <link>https://t.me/hn_summary/84204</link>
-      <description><![CDATA[美中军用无人机群竞争可能加剧全球军备竞赛
-随着美国和中国增强军事能力，重点正在转向开发配备人工智能的无人机群。这种新的战争形式设想数百甚至数千架无人机协同作战来压倒敌人。流氓国家和武装分子获得这项技术的可能性引起了人们对全球不稳定的担忧。两国都在竞相提高无人机能力，美国强调需要对中国对台湾的领土主张进行威慑。两个超级大国之间的竞争可能导致军备竞赛，并产生深远的影响。无人机群的发展仍处于早期阶段，但潜在的冲突和不稳定日益令人担忧。]]></description>
-      <guid>https://t.me/hn_summary/84204</guid>
-      <pubDate>Fri, 12 Apr 2024 15:05:32 GMT</pubDate>
+      <title>问 HN：哪些编程工作最不可能被人工智能颠覆？</title>
+      <link>https://t.me/hn_summary/84286</link>
+      <description><![CDATA[问 HN：哪些编程工作最不可能被 AI 颠覆？
+在人工智能快速发展的世界中，编程工作的未来充满不确定性。一些技术专家甚至暗示，编程可能很快就会被人工智能接管，这引发了关于哪些编程工作受到的干扰最少的问题。加入 Hacker News 上的讨论，分享您认为哪些编程角色受人工智能进步影响较小的想法。围绕“编码可能会过时”这一观点的争议为这场关于编程职业未来的对话增添了一个有趣的元素。]]></description>
+      <guid>https://t.me/hn_summary/84286</guid>
+      <pubDate>Sat, 13 Apr 2024 00:59:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国政府处于高度戒备状态，因为俄罗斯黑客窃取了重要信件 [...]</title>
-      <link>https://t.me/hn_summary/84203</link>
-      <description><![CDATA[美国政府因俄罗斯黑客窃取关键信件而处于高度戒备状态
-由于俄罗斯黑客闯入微软公司网络后窃取了联邦机构的重要信件，美国政府处于高度戒备状态。网络安全机构 CISA 发布了一项紧急指令，要求联邦机构分析泄露的电子邮件、重置受损的凭据并保护身份验证工具。这些被称为“午夜暴雪”的黑客还窃取了源代码，并且可能仍在访问内部系统。此次泄露事件是在之前发生的一起事件发生后发生的，当时中国网络间谍使用被盗的身份验证令牌访问 M365 电子邮件收件箱。微软因安全漏洞而受到批评，有人呼吁对其安全文化进行彻底改革。]]></description>
-      <guid>https://t.me/hn_summary/84203</guid>
-      <pubDate>Fri, 12 Apr 2024 15:00:26 GMT</pubDate>
+      <title>[媒体]作者讨论了编程语言可扩展性的概念，重点关注orga [...]</title>
+      <link>https://t.me/hn_summary/84285</link>
+      <description><![CDATA[编程语言可扩展性
+作者讨论了编程语言可扩展性的概念，重点关注组织可扩展性而不是性能。他们分享了由于招聘困难和技术挑战而在之前的公司从 Clojure 过渡到 Go 的经验。他们还强调了当前工作中 Ruby on Rails 的问题。作者将语言可扩展性定义为不熟悉的工程师快速生成正确代码的能力。它们根据 Web 服务后端系统的可扩展性提供编程语言的主观排名。作者推荐 Rust、Go 或 Java/Kotlin 来实现可扩展性，并强调选择正确的语言对于组织发展的重要性。]]></description>
+      <guid>https://t.me/hn_summary/84285</guid>
+      <pubDate>Sat, 13 Apr 2024 00:58:25 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：所有基于触摸的艺术形式在哪里？</title>
-      <link>https://t.me/hn_summary/84202</link>
-      <description><![CDATA[问HN：所有基于触摸的艺术形式都在哪里？&lt; /a&gt;
-作者质疑与视觉、听觉、嗅觉和味觉等其他感官相比，缺乏基于触摸的艺术形式。尽管文学、音乐、香水和烹饪艺术蓬勃发展，但基于触摸的艺术形式似乎黯然失色。笔者思考为什么触觉在艺术世界中并不那么突出，并想知道为什么触觉体验不是更多艺术作品的主要焦点。这个发人深省的问题挑战了艺术中传统的感官等级，并邀请读者思考基于触摸的艺术形式获得更广泛认可和欣赏的潜力。]]></description>
-      <guid>https://t.me/hn_summary/84202</guid>
-      <pubDate>Fri, 12 Apr 2024 14:46:19 GMT</pubDate>
+      <title>[媒体]瑞典新推出的 App Scout Park 允许用户通过举报错误的停车位来赚钱 [...]</title>
+      <link>https://t.me/hn_summary/84284</link>
+      <description><![CDATA[App Scout Park 让瑞典用户举报错误停放的汽车即可赚取收入钱
+瑞典的新 App Scout Park 允许用户通过向交通管理员举报错误停放的汽车来赚钱。这款零工经济应用程序向所有年满 16 岁且拥有瑞典社会安全号码的人开放。用户只需上传违规车辆的照片，如果需要支付检查费，他们就可以获得报酬。这款备受争议的应用程序引发了有关隐私和监控的争论，但对于那些想赚点外快的人来说，这是举报停车违规者的独特机会。观看网站上的视频了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/84284</guid>
+      <pubDate>Sat, 13 Apr 2024 00:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2009 年 1 月《大学数学杂志》封面刊登了梅尔·博赫纳 (Mel Bochner) 的“医学 [...]</title>
-      <link>https://t.me/hn_summary/84201</link>
-      <description><![CDATA[思考艺术家对毕达哥拉斯定理的令人费解的致敬&lt; br/&gt;
-2009 年 1 月《大学数学杂志》的封面刊登了梅尔·博赫纳 (Mel Bochner) 的“毕达哥拉斯定理沉思”，引发了争议和困惑。一些评论家认为这件艺术品歪曲了毕达哥拉斯定理，而另一些评论家则认为它令人回味且发人深省。博赫纳本人解释说，这件作品反映了物理实体和概念实体之间的差异，挑战观众思考艺术和思想之间的关系。编辑迈克尔·亨勒强调了该定理的文化和历史意义，并对围绕博赫纳的致敬正在进行的辩论表示欢迎。这件艺术品继续引起数学家和艺术爱好者之间的兴趣和讨论。]]></description>
-      <guid>https://t.me/hn_summary/84201</guid>
-      <pubDate>Fri, 12 Apr 2024 14:45:15 GMT</pubDate>
+      <title>[媒体]Globant SA 是一家在 33 个国家/地区拥有 30,000 名员工的软件公司，它选择不 [...]</title>
+      <link>https://t.me/hn_summary/84283</link>
+      <description><![CDATA[拥有 3 万名员工的科技巨头没有重返办公室政策&lt; /a&gt;
+Globant SA 是一家在 33 个国家拥有 30,000 名员工的软件公司，它选择不采取重返办公室政策，使其成为保持完全远程办公的最大科技公司之一。首席执行官 Martin Migoya 致力于打造灵活、温馨的办公空间，配备圆桌和私人会议站等功能。这种方法与苹果、谷歌、微软和 Meta 等其他科技巨头形成鲜明对比，后者正在让员工重返办公室。 Globant 的独特战略旨在使办公室成为联系和协作的场所，而不仅仅是工作空间。公司还在扩大员工队伍和办公地点，强调灵活性和创造力。]]></description>
+      <guid>https://t.me/hn_summary/84283</guid>
+      <pubDate>Sat, 13 Apr 2024 00:53:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项惊人的发现中，天文学家发现美丽的星云 NGC 6164/6165 [...]</title>
-      <link>https://t.me/hn_summary/84200</link>
-      <description><![CDATA[美丽的星云，暴力的历史：恒星的冲突解开了恒星之谜
-在一项令人震惊的发现中，天文学家发现美丽的星云 NGC 6164/6165（也称为龙蛋）是由 HD 148937 系统中的恒星碰撞形成的。该系统最初有三颗恒星，但两颗剧烈合并，形成了我们今天看到的磁星。这一事件也解释了周围星云中存在大量的氮、碳和氧。这一发现揭示了大质量恒星如何获得磁场，这是天文学中一个长期存在的谜团。这一发现是通过 ESO VLTI 和 FEROS 仪器的数据实现的，预计即将推出的 ELT 会提供更多见解。]]></description>
-      <guid>https://t.me/hn_summary/84200</guid>
-      <pubDate>Fri, 12 Apr 2024 14:39:09 GMT</pubDate>
+      <title>[媒体]一名36岁男子因出售非法修改的神奇宝贝而在日本被捕 [...]</title>
+      <link>https://t.me/hn_summary/84282</link>
+      <description><![CDATA[日本警方逮捕涉嫌篡改神奇宝贝紫罗兰保存数据的男子
+一名 36 岁男子因出售非法修改的神奇宝贝保存数据而在日本被捕，违反了该国 2019 年《不正当竞争防止法》。据称，嫌疑人接受了稀有神奇宝贝的定制订单，并在网上以每张高达 13,000 日元（84 美元）的价格出售被篡改的数据。他承认了自己的罪行，并声称自己这样做是为了谋生。这起事件并不是犯罪分子第一次试图从《神奇宝贝》中获利，过去的案件包括《神奇宝贝》卡牌盗窃和高价值入室盗窃。嫌疑人可能面临最高五年的监禁和最高 500 万日元的罚款。]]></description>
+      <guid>https://t.me/hn_summary/84282</guid>
+      <pubDate>Sat, 13 Apr 2024 00:47:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者讨论了 Git 的错误消息和下面的策略 [...]</title>
-      <link>https://t.me/hn_summary/84199</link>
-      <description><![CDATA[Git 错误消息说明
-Web 内容的作者讨论了 Git 的错误消息以及理解和解决这些错误的策略。它们强调了许多用户对错误消息所面临的困惑，并提供了如何解释和解决常见错误的见解。作者承认改进错误消息的复杂性以及维护 Git 所面临的挑战。他们提供了处理特定错误消息的解释和个人策略，旨在澄清和简化用户的故障排除过程。该内容提供了有效浏览 Git 错误消息的宝贵见解。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84199</guid>
-      <pubDate>Fri, 12 Apr 2024 14:38:05 GMT</pubDate>
+      <title>[媒体]特斯拉采取了大胆举措，大幅下调了全自动驾驶 (FSD) 软件的价格 [...]</title>
+      <link>https://t.me/hn_summary/84281</link>
+      <description><![CDATA[特斯拉将美国 FSD 价格降至每月 99 美元 
+特斯拉采取了一项大胆举措，将其在美国的全自动驾驶 (FSD) 软件订阅价格从每月 199 美元下调至每月 99 美元。此次降价是在向所有美国客户推出为期一个月的 FSD 免费试用之后推出的。该软件现在被称为“Supervised FSD”，仍然需要人工监督。特斯拉希望此次降价能够提高采用率，并为训练其神经网络提供更多数据。首席执行官埃隆·马斯克强调了自动驾驶技术对特斯拉未来成功的重要性。然而，人们担心驱动程序无法正确监管软件。]]></description>
+      <guid>https://t.me/hn_summary/84281</guid>
+      <pubDate>Sat, 13 Apr 2024 00:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：未经身份验证，帕洛阿尔托防火墙中的 RCE 漏洞，野外利用</title>
-      <link>https://t.me/hn_summary/84198</link>
-      <description><![CDATA[帕洛阿尔托防火墙中未经身份验证的 RCE 漏洞，野外利用&lt; /a&gt;
-标题：帕洛阿尔托防火墙中未经身份验证的 RCE 漏洞、野外利用
-
-Palo Alto Networks PAN-OS 软件的 GlobalProtect 功能中存在一个严重的命令注入漏洞，允许未经身份验证的攻击者在受影响的防火墙上以 root 权限执行代码。 PAN-OS 10.2、11.0 和 11.1 的修复正在开发中，预计将于 2024 年 4 月 14 日完成。云 NGFW、Panorama 设备和 Prisma Access 不受影响。已检测到利用此漏洞的有限攻击。客户可以通过启用威胁 ID 95187 并对 GlobalProtect 接口应用漏洞保护来缓解。 Volexity 检测到了该问题。 Palo Alto Networks 建议客户通过客户支持门户检查是否存在泄露情况。]]></description>
-      <guid>https://t.me/hn_summary/84198</guid>
-      <pubDate>Fri, 12 Apr 2024 14:33:01 GMT</pubDate>
+      <title>[媒体]微软宣布正在测试 Windows 11 开始菜单中的广告，具体 [...]</title>
+      <link>https://t.me/hn_summary/84280</link>
+      <description><![CDATA[Microsoft 开始在 Windows 11 开始菜单中测试广告 
+微软宣布正在 Windows 11 的“开始”菜单中测试广告，特别是在“推荐”部分。此举在 Windows Insider 中引发了争议，因为广告将推荐来自 Microsoft Store 的应用程序。虽然用户可以在“设置”部分禁用这些应用程序促销，但 Microsoft 可能会默认启用它们。这并不是微软第一次在 Windows 中尝试广告，之前他们曾在 Windows 10 的文件资源管理器和锁屏界面中测试过广告。用户反馈是否会导致微软从最终版本中删除这些广告还有待观察。 Windows 11。]]></description>
+      <guid>https://t.me/hn_summary/84280</guid>
+      <pubDate>Sat, 13 Apr 2024 00:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ble.sh 是一个用纯 Bash 编写的命令行编辑器，取代了默认的 GNU Rea [...]</title>
-      <link>https://t.me/hn_summary/84197</link>
-      <description><![CDATA[ble.sh：彻底改变 BASH 用户体验&lt; br/&gt;
-ble.sh 是一个用纯 Bash 编写的命令行编辑器，它取代了默认的 GNU Readline，旨在彻底改变 BASH 用户体验。它支持 Bash 3.0 或更高版本，对非 ASCII 字符使用 UTF-8 编码。该项目是在 BSD 许可证下提供的，并依赖 POSIX 实用程序进行加速。它提供语法突出显示、增强的补全、Vim 编辑模式以及状态行和 xterm 标题等其他功能。与其他项目不同的是，ble.sh 执行语法分析以获取正确的结果突出显示并支持复杂的结构，使其成为改善 BASH 用户体验的综合解决方案。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84197</guid>
-      <pubDate>Fri, 12 Apr 2024 14:22:52 GMT</pubDate>
+      <title>[媒体]谷歌与以色列国防部建立了深化的合作伙伴关系，提供 clo [...]</title>
+      <link>https://t.me/hn_summary/84279</link>
+      <description><![CDATA[Google 合同显示与以色列国防部达成的协议
+谷歌与以色列国防部有着不断深化的合作关系，提供云计算服务和咨询援助。备受争议的价值 12 亿美元的 Nimbus 项目涉及谷歌和亚马逊向以色列政府提供技术，有报道称他们无法阻止军事用途。谷歌坚称其工作是用于民用目的，但最近的指控称以色列军方正在使用人工智能进行空袭目标。国防部正在扩展多个单位的 Google Cloud 访问权限，由 Google 提供架构设计和自动化服务。两名谷歌员工辞职以抗议 Nimbus 项目。 Google Cloud 的军事用途程度仍不清楚。]]></description>
+      <guid>https://t.me/hn_summary/84279</guid>
+      <pubDate>Sat, 13 Apr 2024 00:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/84196</link>
-      <description><![CDATA[能源部宣布拨款 7500 万美元用于推进海水淡化和水回用技术
-美国能源部 (DOE) 宣布为国家水创新联盟 (NAWI) 提供 7500 万美元资金，以推进海水淡化和水回用技术。 NAWI 的目标是降低水净化技术的成本和能源消耗，实现美国水基础设施的现代化，并在 2050 年实现净零排放经济。NAWI 重点关注苦咸地下水和废水等替代水源，正在投资于高效、可持续且具有成本效益的水处理解决方案。 NAWI 2.0将试点综合节能水系统并强调废水再利用，旨在优化供水管理。该中心由劳伦斯伯克利国家实验室领导，并由能源部工业效率和脱碳以及水力发电技术办公室资助。]]></description>
-      <guid>https://t.me/hn_summary/84196</guid>
-      <pubDate>Fri, 12 Apr 2024 13:52:39 GMT</pubDate>
+      <title>[媒体]弗兰克是一家高端存储阵列供应商的技术支持人员，他发现自己陷入了困境 [...]</title>
+      <link>https://t.me/hn_summary/84278</link>
+      <description><![CDATA[支持合同要求技术人员在 5000 美元/晚的酒店闲逛房间
+Frank 是一家高端存储阵列供应商的技术支持人员，由于支持合同激活，周末他住在一间 5,000 美元/晚的酒店房间里。客户司法部希望他随时待命，以防存储阵列出现进一步问题。尽管住宿条件很豪华，弗兰克还是准备在需要时立即采取行动。法院在周一很快做出了裁决，弗兰克在周二就回到了工作岗位，并因其努力而获得了奖金，并在奢华中度过了一个难忘的周末。这个故事是 IT 专业人员从技术支持事件中受益的罕见例子。]]></description>
+      <guid>https://t.me/hn_summary/84278</guid>
+      <pubDate>Sat, 13 Apr 2024 00:13:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
