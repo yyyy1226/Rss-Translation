@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 12:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 15:14:28 GMT</lastBuildDate>
     <item>
       <title>有没有一个应用程序可以跟踪您所在的位置，然后将其保存在地图上，就像在游戏中探索地图一样？</title>
       <link>https://www.reddit.com/r/software/comments/1c2yfkd/is_there_an_app_that_tracks_where_you_are_and/</link>
@@ -50,14 +50,14 @@
     <item>
       <title>Zoomcast：用于老式个人计算机的 GEOS 图形用户界面 (GUI) - ft. Brian Dougherty，Berkeley Softworks 创始人</title>
       <link>https://www.reddit.com/r/software/comments/1c2t9tq/zoomcast_geos_graphical_user_interface_gui_for/</link>
-      <description><![CDATA[在 1980 年代，一家名为 Berkeley Softworks 的公司为多款 8 位个人计算机（其中包括 Commodore 64、 Commodore 128、Commodore Plus/4 和 Apple II 系列计算机。然后在 1990 年，他们发布了一个名为 PC/GEOS 的 PC 市场版本，又名 Geoworks Ensemble。 如果您记得当时使用过这些产品，您可能会对调至 Zoom 感兴趣。 Berkeley Softworks 创始人 Brian Dougherty 出席了会议。会议将于美国东部时间 2024 年 4 月 18 日星期四晚上 7:30（加拿大多伦多）举行。 Zoom 详细信息如下： https://www.tpug.ca 听起来会很有趣。 ​   由   提交 /u/Marcio_D   [链接] [评论]]]></description>
+      <description><![CDATA[在 1980 年代，一家名为 Berkeley Softworks 的公司为多款 8 位个人计算机（其中包括 Commodore 64、 Commodore 128、Commodore Plus/4 和 Apple II 系列计算机。然后在 1990 年，他们发布了一个名为 PC/GEOS 的 PC 市场版本，又名 Geoworks Ensemble。 如果您记得当年使用过这些产品，您可能有兴趣调整到 Zoom Berkeley Softworks 创始人 Brian Dougherty 出席了会议。会议将于美国东部时间 2024 年 4 月 18 日星期四晚上 7:30（加拿大多伦多）举行。 Zoom 详细信息如下： https://www.tpug.ca 听起来会很有趣。 ​   由   提交 /u/Marcio_D   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c2t9tq/zoomcast_geos_graphical_user_interface_gui_for/</guid>
       <pubDate>Sat, 13 Apr 2024 04:19:57 GMT</pubDate>
     </item>
     <item>
       <title>小米：被迫使用原生手势启动器？</title>
       <link>https://www.reddit.com/r/software/comments/1c2sisi/xiaomi_forced_to_use_native_launcher_for_gestures/</link>
-      <description><![CDATA[我使用的是小米手机。如果我安装了第三方启动器，则无法使用手势导航。这是有必要的，还是小米强制用户使用其原生启动器？其他品牌也这样做。   由   提交/u/kuzhagan   [链接] [评论]]]></description>
+      <description><![CDATA[我使用的是小米手机。如果我安装了第三方启动器，则无法使用手势导航。这是有必要的，还是小米强制用户使用其原生启动器？其他品牌也这样做。   由   提交/u/kuzhagan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c2sisi/xiaomi_forced_to_use_native_launcher_for_gestures/</guid>
       <pubDate>Sat, 13 Apr 2024 03:37:42 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>有没有可以合并pdf注释的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1c2idu0/is_there_any_software_that_can_merge_pdf/</link>
-      <description><![CDATA[基本上我想获得两个最初相同但有一堆自己独特的注释的pdf文件，并将所有注释合并到一个文件中，这可能吗？是否有类似的软件？ 最好是针对 Linux 的软件，但如果需要的话我可以启动 Windows 虚拟机来完成此操作。   由   提交 /u/verdedefome   [链接] [评论]]]></description>
+      <description><![CDATA[基本上我想获得两个最初相同但有一堆自己独特的注释的pdf文件，并将所有注释合并到一个文件中，这可能吗？是否有类似的软件？ 最好是 Linux 上的软件，但如果需要的话我可以启动 Windows 虚拟机来完成它。   由   提交 /u/verdedefome   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c2idu0/is_there_any_software_that_can_merge_pdf/</guid>
       <pubDate>Fri, 12 Apr 2024 19:46:28 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>是否有任何基于人工智能的 Windows 助手可以帮助您根据文本提示进行故障排除和更改设置</title>
       <link>https://www.reddit.com/r/software/comments/1c2dw0b/is_there_any_ai_based_windows_assistant_thatll/</link>
-      <description><![CDATA[如上所述，我正在寻找一款可以修复错误的软件，这需要几个小时的研究......并且还可以根据需要更改设置在文本提示上...就像，如果您想让某个应用程序成为某种类型文件的默认应用程序，您只需键入它，它就会执行... 是这样的吗？&lt; /p&gt;   由   提交 /u/John_Eathan   [链接] [评论]]]></description>
+      <description><![CDATA[如上所述，我正在寻找一款可以修复错误的软件，这需要几个小时的研究......并且还可以根据需要更改设置在文本提示上...就像，如果您想让某个应用程序成为某种类型文件的默认应用程序，您只需键入它，它就会执行... 有类似的事情吗？&lt; /p&gt;   由   提交 /u/John_Eathan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c2dw0b/is_there_any_ai_based_windows_assistant_thatll/</guid>
       <pubDate>Fri, 12 Apr 2024 16:43:05 GMT</pubDate>
     </item>
