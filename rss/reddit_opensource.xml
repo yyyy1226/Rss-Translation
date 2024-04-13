@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:19:10 GMT</lastBuildDate>
+    <item>
+      <title>有没有适用于 android 的开源 python 执行器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c36pt8/are_there_any_opensource_python_executors_for/</link>
+      <description><![CDATA[我正在寻找一个可以运行大多数（如果不是所有类型）Python 脚本的 Android 应用程序。有人知道吗？   由   提交/u/kekmacska7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c36pt8/are_there_any_opensource_python_executors_for/</guid>
+      <pubDate>Sat, 13 Apr 2024 17:06:17 GMT</pubDate>
+    </item>
     <item>
       <title>如何在开源项目中做出不平凡的贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2y5t1/how_to_contribute_to_non_trivial_things_in_open/</link>
@@ -20,9 +27,9 @@
       <pubDate>Sat, 13 Apr 2024 09:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>在调试时自动将 print 语句添加到您的 python 代码中！</title>
+      <title>调试时自动将 print 语句添加到您的 python 代码中！</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</link>
-      <description><![CDATA[嘿伙计们，我们时不时地发现自己在代码中添加打印来调试变量通过函数时的值。  警察会在运行时自动为你做这件事！  https://github.com/saurabh0719/constable 示例 - ` ``python import constable @constable.trace(&#39;a&#39;, &#39;b&#39;) def example(a, b): a = a + b c = a a = “实验 AST” b = c + b a = c + b return a example(5, 6) ``` 输出 - ``` constable: example: line 5 a = a + b a = 11 type(a) =  constable: example: line 7 a = “实验 AST” a = 试验 AST type(a) =  constable: 示例：第 8 行 b = c + b b = 17 type(b) =  常量：示例：第 9 行 a = c + b a = 28 type(a) =  常量：示例：第 3 行到第 10 行args: (5, 6) kwargs: {} 返回: 28 执行时间: 0.00018480 秒 ```   由   提交/u/saurabh0719  [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我们时不时地发现自己在代码中添加打印内容，以在变量传递函数时调试变量的值。  警察会在运行时自动为你做这件事！  https://github.com/saurabh0719/constable 示例 - ` ``python import constable @constable.trace(&#39;a&#39;, &#39;b&#39;) def example(a, b): a = a + b c = a a = “实验 AST” b = c + b a = c + b return a example(5, 6) ``` 输出 - ``` constable: example: line 5 a = a + b a = 11 type(a) =  constable: example: line 7 a = “实验 AST” a = 试验 AST type(a) =  constable: 示例：第 8 行 b = c + b b = 17 type(b) =  常量：示例：第 9 行 a = c + b a = 28 type(a) =  常量：示例：第 3 行到第 10 行args: (5, 6) kwargs: {} 返回: 28 执行时间: 0.00018480 秒 ```   由   提交/u/saurabh0719  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</guid>
       <pubDate>Sat, 13 Apr 2024 02:02:38 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>PDF 阅读器可以跨应用程序目录添加书签吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</link>
-      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在其他应用程序（例如 Windows Acrobat 的目录）中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，而且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
+      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在其他应用程序（例如 Windows Acrobat 的目录）中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，并且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</guid>
       <pubDate>Fri, 12 Apr 2024 19:20:33 GMT</pubDate>
     </item>
@@ -64,21 +71,21 @@
     <item>
       <title>Linux 基金会领导对抗仿笔源代码的斗争</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2d3et/linux_foundation_leads_the_fight_against_fauxpen/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2d3et/linux_foundation_leads_the_fight_against_fauxpen/</guid>
       <pubDate>Fri, 12 Apr 2024 16:10:43 GMT</pubDate>
     </item>
     <item>
       <title>TaleCast - 我制作的基于 CLI 的播客管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c27269/talecast_a_cli_based_podcast_manager_i_made/</link>
-      <description><![CDATA[     ＆#32;由   提交/u/gittor123  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/gittor123  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c27269/talecast_a_cli_based_podcast_manager_i_made/</guid>
       <pubDate>Fri, 12 Apr 2024 11:44:57 GMT</pubDate>
     </item>
     <item>
       <title>开源NAS？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</link>
-      <description><![CDATA[我想要一个开源 NAS，但是 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
+      <description><![CDATA[我想要一个开源 NAS，但 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</guid>
       <pubDate>Fri, 12 Apr 2024 11:06:56 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>寻找开源我的网络应用程序的方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1c23nna/looking_for_ways_to_open_source_my_web_app/</link>
-      <description><![CDATA[过去 2 年我一直在开发一个名为 Just Remind 的网络应用程序 这基本上是 Readwise 的免费版本（具有小而便宜的高级版本）。 现在，我厌倦了这个项目，我想转向其他项目，但我不这样做想让我的用户蒙在鼓里。但由于我不会再开发它了，也不想再承担运行它的成本，所以我考虑将其开源。 我没有开源经验除了使用它（主要是我的网络开发工作的软件包）。 Just Remind 现在的工作方式很简单：  用户创建一个帐户  下载必要的 Google Chrome 扩展程序 通过 Chrome 扩展程序从 Amazon Kindle 网站导入所有图书 每天收到一封电子邮件，其中包含一些图书的亮点 &lt; /ul&gt; 涉及一些依赖项：  Web 应用程序的 vercel 托管 数据库 cron 作业服务&lt; /li&gt; 电子邮件发送服务 电子邮件域 网站域  我可以保留 vercel 托管（免费） ）和网站域名（便宜）。但我想省掉其他费用。 我会用桌面和移动通知取代每日发送电子邮件。我们在这里谈论的是一个渐进式网络应用程序，用户可以从登陆页面下载并安装该应用程序。 用户安装 PWA 后，可以通过每日通知免费享受该服务。这将满足对电子邮件域和电子邮件发送服务的需求（不确定 cron 作业）。 我考虑 PWA 的原因是因为应该从桌面和桌面上享受该服务。一部手机。但也许这是不可能的？那么数据库呢？用户可以将数据存储在自己的设备上吗？那么它是如何在桌面和移动设备之间同步的呢？或者我可以使用免费的数据库托管吗？ 我有点不知道在保持应用程序完整的同时是否可行，甚至不知道如何开始以及要考虑什么。任何想法或帮助将不胜感激！   由   提交/u/loicb5  [链接] [评论]]]></description>
+      <description><![CDATA[过去 2 年我一直在开发一个名为 Just Remind 的网络应用程序 这基本上是 Readwise 的免费版本（具有小而便宜的高级版本）。 现在，我厌倦了这个项目，我想转向其他东西，但我不这样做想让我的用户蒙在鼓里。但由于我不会再开发它了，也不想再承担运行它的成本，所以我考虑将其开源。 我没有开源经验除了使用它（主要是我的网络开发工作的软件包）。 Just Remind 现在的工作方式很简单：  用户创建一个帐户  下载必要的 Google Chrome 扩展程序 通过 Chrome 扩展程序从 Amazon Kindle 网站导入所有图书 每天收到一封电子邮件，其中包含一些图书的亮点 &lt; /ul&gt; 涉及一些依赖项：  Web 应用程序的 vercel 托管 数据库 cron 作业服务&lt; /li&gt; 电子邮件发送服务 电子邮件域 网站域  我可以保留 vercel 托管（免费） ）和网站域名（便宜）。但我想省掉其他费用。 我会用桌面和移动通知取代每日发送电子邮件。我们在这里谈论的是一个渐进式网络应用程序，用户可以从登陆页面下载并安装该应用程序。 用户安装 PWA 后，可以通过每日通知免费享受该服务。这将满足对电子邮件域和电子邮件发送服务的需求（不确定 cron 作业）。 我考虑 PWA 的原因是因为应该从桌面和桌面上享受该服务。一部手机。但也许这是不可能的？那么数据库呢？用户可以将数据存储在自己的设备上吗？那么它是如何在桌面和移动设备之间同步的呢？或者我可以使用免费的数据库托管吗？ 我有点不知道在保持应用程序完整的同时是否可行，甚至不知道如何开始以及要考虑什么。任何想法或帮助将不胜感激！   由   提交/u/loicb5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c23nna/looking_for_ways_to_open_source_my_web_app/</guid>
       <pubDate>Fri, 12 Apr 2024 08:06:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是一名软件开发人员。拥有各种事物的知识和经验（也许这与这里无关，如果错误请纠正我）。我想为开源做出更多贡献，但与此同时，我也希望能够养活我的家人。    由   提交 /u/fell_over   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c22qbf/how_can_i_make_a_living_by_contributing_to_open/</guid>
       <pubDate>Fri, 12 Apr 2024 07:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 NextTrade：一个开源算法交易平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c1pd6f/i_created_nexttrade_an_opensource_algorithmic/</link>
-      <description><![CDATA[       由   提交/u/Starks-Technology  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c1pd6f/i_created_nexttrade_an_opensource_algorithmic/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:28:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
