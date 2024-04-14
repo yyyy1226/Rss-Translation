@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 21:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 23:56:38 GMT</lastBuildDate>
     <item>
-      <title>【媒体】伊朗向以色列发射无人机，将两国推向全面战争边缘 [...]</title>
-      <link>https://t.me/hn_summary/84416</link>
-      <description><![CDATA[伊朗对以色列发动无人机袭击
-伊朗向以色列发射无人机，使两国在多年的紧张局势后陷入全面冲突的边缘。无人机距离抵达以色列领土还有几个小时的路程，引发高度戒备并导致学校关闭。美国已承诺支持以色列的国防。以色列总理内塔尼亚胡发誓要抵御威胁。伊朗发射无人机加剧了局势，周边国家关闭了领空。拜登政府的重点是防止更广泛的地区冲突。局势正处于岌岌可危的地步，双方都做好了应对任何情况的准备。]]></description>
-      <guid>https://t.me/hn_summary/84416</guid>
-      <pubDate>Sat, 13 Apr 2024 21:04:16 GMT</pubDate>
+      <title>[媒体]吉姆·凯勒提出了一个有争议的举动，建议 Nvidia 应该使用以太网 [...]</title>
+      <link>https://t.me/hn_summary/84444</link>
+      <description><![CDATA[Jim Keller 建议 Nvidia 应该使用以太网来链接 Blackwell GPU
+Jim Keller 表示，Nvidia 应该在其基于 Blackwell 的 GB200 GPU 中使用以太网而不是专有的 NVLink 进行芯片间连接，这是一项有争议的举措。凯勒认为，这可以节省资金，并使用户更容易将软件迁移到不同的平台。然而，Nvidia 对 NVLink 和 InfiniBand 等专有技术的关注给软件移植带来了挑战。该行业正在开发超以太网作为 Nvidia 互连技术的竞争对手，这可能会改变人工智能和高性能计算工作负载的格局。 Nvidia 在 CUDA 软件平台上的主导地位面临着来自统一加速器基金会的竞争，推动开放标准替代方案。]]></description>
+      <guid>https://t.me/hn_summary/84444</guid>
+      <pubDate>Sat, 13 Apr 2024 23:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了二十面体顶点的三色问题并exp [...]</title>
-      <link>https://t.me/hn_summary/84415</link>
-      <description><![CDATA[给二十面体的顶点着色
-作者讨论了二十面体顶点的三色问题，并对问题的难度表示困惑。他们简单地解释了为什么不可能以这种方式为顶点着色，并强调尝试理解数学概念的重要性。作者批评数学教育中缺乏启发式方法，并强调实验在解决问题中的价值。这篇文章反思了数学探索的本质以及学习中方法与探索之间平衡的必要性。]]></description>
-      <guid>https://t.me/hn_summary/84415</guid>
-      <pubDate>Sat, 13 Apr 2024 21:02:13 GMT</pubDate>
+      <title>[媒体]我十年前就停止纳税了。</title>
+      <link>https://t.me/hn_summary/84443</link>
+      <description><![CDATA[我十年前就停止纳税了。结果让我震惊
+吉姆是一名医疗专业人士，他透露自己已经十年没有纳税了，并分享了他拖欠税款的原因以及他如何证明自己的合理性。他声称自己的九名家属可以通过工资来避税，但令人惊讶的是，当美国国税局联系他时，他只欠了 700 美元。尽管他现在在政府工作，承认自己逃税，但尚未面临后果。经过康复治疗并清醒后，吉姆决定坦白并补缴税款，希望得到国税局的同情。这个过程令人畏惧，但他期待摆脱压力和焦虑。]]></description>
+      <guid>https://t.me/hn_summary/84443</guid>
+      <pubDate>Sat, 13 Apr 2024 23:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]冯·诺依曼的大象是娱乐数学中一个令人着迷的问题，其中 p [...]</title>
-      <link>https://t.me/hn_summary/84414</link>
-      <description><![CDATA[冯诺依曼的大象
-冯·诺依曼的大象是娱乐数学中一个令人着迷的问题，其中仅使用四个固定参数即可构建大象形状的平面曲线。源于物理学家约翰·冯·诺依曼和恩里科·费米之间的对话，定义这些参数以绘制大象形状的挑战成为一个活跃的研究课题。 2010 年，通过复数傅立叶分析发现了最佳近似值，曲线由一组复数参数化。这个独特的问题展示了数学探索的创造力和复杂性。]]></description>
-      <guid>https://t.me/hn_summary/84414</guid>
-      <pubDate>Sat, 13 Apr 2024 20:55:08 GMT</pubDate>
+      <title>以色列公司以美国犹太人为目标，以歧视性做法购买被盗的巴勒斯坦土地 [...]</title>
+      <link>https://t.me/hn_summary/84442</link>
+      <description><![CDATA[以色列公司正在加班加点地将被盗的巴勒斯坦土地出售给美国犹太人&lt; /a&gt;
+以色列公司以美国犹太人为目标，通过歧视性做法和非法活动购买被盗的巴勒斯坦土地。这些活动面临法律诉讼和抗议，导致活动取消和搬迁。待售土地包括西岸非法定居点的房产，暴力不断升级，巴勒斯坦人流离失所。基层组织和团结努力正在反击这些殖民策略，强调巴勒斯坦人需要正义和解放。围绕这些土地出售活动的争议和非法行为突显了巴勒斯坦人权利的持续斗争和对压迫势力的抵抗。]]></description>
+      <guid>https://t.me/hn_summary/84442</guid>
+      <pubDate>Sat, 13 Apr 2024 23:45:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们深入研究了使用自注意力预测下一个令牌的机制[...]</title>
-      <link>https://t.me/hn_summary/84413</link>
-      <description><![CDATA[具有自注意力机制的下一个标记预测机制&lt; br /&gt;
-在本文中，我们深入研究了使用自注意力机制预测下一个 token 的机制。我们探索自注意力如何提高预测序列中下一个标记的准确性，展示其在各种自然语言处理任务中的有效性。通过分析自注意力的内部运作方式，我们发现了其捕获远程依赖性和上下文信息的独特能力，使其成为语言建模的强大工具。我们的研究结果揭示了自注意力在彻底改变下一个代币预测任务方面的潜力，为机器学习和人工智能领域提供了新的见解。]]></description>
-      <guid>https://t.me/hn_summary/84413</guid>
-      <pubDate>Sat, 13 Apr 2024 20:48:03 GMT</pubDate>
+      <title>谷歌宣布关闭其 Google One VPN 服务，这是一项向 Google O 付费的功能 [...]</title>
+      <link>https://t.me/hn_summary/84441</link>
+      <description><![CDATA[Google 终止“One”VPN 服务
+谷歌宣布关闭其 Google One VPN 服务，这是一项于 2020 年推出的面向付费 Google One 订阅者的功能。此举是在有报道称使用率低以及 Windows 客户端存在超级错误的问题之后采取的。此次关闭意味着 Google 终止对 Windows 和 Mac 的 VPN 支持，而 Pixel 和 Fi VPN 继续运行。停止该服务的决定引发了争议，用户质疑此举背后的原因。 Google One VPN 是 Google VPN 产品中最灵活的一款，具有广泛的平台支持，使其消亡令许多人感到惊讶。]]></description>
+      <guid>https://t.me/hn_summary/84441</guid>
+      <pubDate>Sat, 13 Apr 2024 23:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项开创性的研究表明，五亿年前发生了一次大规模灭绝，被称为[...]</title>
-      <link>https://t.me/hn_summary/84412</link>
-      <description><![CDATA[五亿年前由板块移动引起的大规模死亡
-一项开创性的研究表明，五亿年前的一次大规模死亡，即所谓的辛斯克事件，是由寒武纪大爆发期间的构造板块移动引起的。研究人员在南极洲和澳大利亚（冈瓦纳超大陆的一部分）的岩层中发现了证据，将灭绝与淹没古代珊瑚礁的造山事件联系起来。山脉的上升导致温室气体的释放，使大气变暖并扰乱海洋环流，最终杀死了许多生物。这项研究揭示了一个有争议的理论，并强调了与现代气候变化的潜在相似之处。]]></description>
-      <guid>https://t.me/hn_summary/84412</guid>
-      <pubDate>Sat, 13 Apr 2024 20:41:59 GMT</pubDate>
+      <title>在这篇技术文章中，作者讲述了一次涉及 SSH connectivi 的具有挑战性的 bug 搜寻 [...]</title>
+      <link>https://t.me/hn_summary/84440</link>
+      <description><![CDATA[调试有时无法运行的小型 SSH&lt; br /&gt;
+在这篇技术文章中，作者讲述了一次涉及数据中心之间 SSH 连接问题的具有挑战性的错误搜寻。尽管作者最初将问题归因于网络分区，但后来发现了成功高速传输或完全失败的模式。通过大量的故障排除和数据包分析，作者确定了导致 SSH 连接挂起的特定数据包，最终将问题确定为数据包碎片。通过将最大传输单元 (MTU) 调整为 576，作者解决了该问题，凸显了细致的数据包分析在调试复杂网络问题时的重要性。 （根据 31% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84440</guid>
+      <pubDate>Sat, 13 Apr 2024 23:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] olympicophilmics.com 的 iTEAR ® 100 是一种突破性的 FDA 批准的医疗设备 [...]</title>
-      <link>https://t.me/hn_summary/84411</link>
-      <description><![CDATA[由于您的医疗处方已过期，设备停止工作&lt; br /&gt;
-olympicophatmics.com 的 iTEAR ® 100 是一款经 FDA 批准的突破性产品刺激鼻外自然泪液形成的医疗设备。但是，如果您的医疗处方已过期，该设备可能会停止工作。在使用其他产品之前，请务必检查包装标签上的“Rx”或仅限处方使用声明。该设备经过严格的临床试验，所有有关安全性和功效的营销声明均已得到 FDA 的审查和批准。请务必随时了解情况并遵循所有准则，以确保您的眼睛健康获得最佳效果。]]></description>
-      <guid>https://t.me/hn_summary/84411</guid>
-      <pubDate>Sat, 13 Apr 2024 20:40:56 GMT</pubDate>
+      <title>[媒体] 在 Mikoto 网站上的这篇博文中，作者讨论了他们如何能够削减 [...]</title>
+      <link>https://t.me/hn_summary/84439</link>
+      <description><![CDATA[通过从 GCP 和 CockroachDB 迁移到 Hetzner，我们将成本降低了 70%和 PostgreSQL
+在 Mikoto 网站上的这篇博客文章中，作者讨论了他们如何通过从 Google Cloud Platform (GCP) 和 CockroachDB 迁移到 Hetzner 和 PostgreSQL 将成本削减 70%。作者解释了他们在旧基础设施方面面临的挑战、迁移背后的决策过程以及他们为建立新基础设施所采取的步骤。作者重点介绍了所实现的成本节省、运行自己的 Kubernetes 集群的好处，以及设置 Traefik、ArgoCD 和 Cert-Manager 等服务的技术细节。作者还讨论了从 CockroachDB 迁移到 PostgreSQL 的困难以及其基础设施的未来计划。令人惊讶的是，在容量翻倍的同时，还实现了显着的成本节省。]]></description>
+      <guid>https://t.me/hn_summary/84439</guid>
+      <pubDate>Sat, 13 Apr 2024 23:34:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] BESIII 合作观察到 ppbar 质量 thre 附近有一条异常线形 [...]</title>
-      <link>https://t.me/hn_summary/84410</link>
-      <description><![CDATA[观察到新亚原子粒子的证据
-BESIII 合作观察到 ppbar 质量阈值附近存在异常线​​形，表明 ppbar 束缚态的存在。这一新共振 X(1880) 的发现，其统计显着性大于 10σ，引发了人们对核子-反核子束缚态理论的新兴趣。 X(1880) 接近 ppbar 质量阈值表明存在新的亚原子粒子。这项发表在《物理评论快报》上的研究强调了进一步探索以更好地了解这种新发现粒子的性质的重要性。这项开创性的研究被该杂志评选为“物理学精选”。]]></description>
-      <guid>https://t.me/hn_summary/84410</guid>
-      <pubDate>Sat, 13 Apr 2024 20:38:50 GMT</pubDate>
+      <title>[媒体]在这篇文章中，我们深入探讨了两位最伟大的思想家之间的激烈辩论[...]</title>
+      <link>https://t.me/hn_summary/84438</link>
+      <description><![CDATA[纠缠实体：玻尔、爱因斯坦和量子基础之战
+在本文中，我们深入探讨了物理学界最伟大的两位思想家尼尔斯·玻尔和阿尔伯特·爱因斯坦之间关于量子力学基本原理的激烈辩论。玻尔相信量子理论的概率本质，而爱因斯坦则提出了著名的观点：“上帝不玩骰子”。他们的意识形态冲突导致了深刻的哲学分歧，至今仍在物理学界产生共鸣。本文探讨了他们论点的复杂性以及他们对我们理解量子世界的持久影响。加入我们，在这场关于量子基础的引人入胜的战斗中解开玻尔和爱因斯坦纠缠的实体。]]></description>
+      <guid>https://t.me/hn_summary/84438</guid>
+      <pubDate>Sat, 13 Apr 2024 23:32:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在更新系统时，使用经常使用的软件会带来挑战 [...]</title>
-      <link>https://t.me/hn_summary/84409</link>
-      <description><![CDATA[小心那把锁，尤金
-在不停机的情况下更新系统时，使用经常使用的软件会带来挑战。本文讨论关系数据库中的常见迁移问题，并使用场景来说明潜在问题。场景 1 显示如果处理不当，添加列会如何导致中断。场景 2 强调了缓慢的事务会如何阻碍其他事务，从而影响用户体验。缓解措施包括分解迁移和以不同方式设计表。这篇文章强调了测试和工具来检测潜在问题的重要性。一个令人惊讶的发现是使用 Flyway 的回调功能在迁移期间运行查询，从而提供了改进工具的潜力。 （根据故事文本的 75% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84409</guid>
-      <pubDate>Sat, 13 Apr 2024 20:33:46 GMT</pubDate>
+      <title>[媒体] 在 www.firecrawl.dev，您现在可以轻松地将整个网站转换为 LLM 就绪数据。</title>
+      <link>https://t.me/hn_summary/84437</link>
+      <description><![CDATA[将整个网站转变为 LLM 就绪数据
+在 www.firecrawl.dev，您现在可以将整个轻松将网站转换为 LLM 就绪数据。只需输入您要转换的网站的URL，我们的平台就会以markdown格式提取内容。从公司信息和功能到定价计划和博客更新，您现在可以以结构化和有组织的方式访问所需的所有数据。告别手动数据提取，转向更有效的信息收集方式。立即访问我们的网站，体验将网站转变为 LLM 就绪数据的便利。]]></description>
+      <guid>https://t.me/hn_summary/84437</guid>
+      <pubDate>Sat, 13 Apr 2024 23:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻找资源来了解不太特定于工具的构建系统。</title>
-      <link>https://t.me/hn_summary/84408</link>
-      <description><![CDATA[询问 HN：总体了解构建系统
-作者正在寻找资源来了解不太特定于工具的构建系统。他们将其与学习内存管理进行比较，您可以在其中获得深入的介绍，而无需深入研究特定工具的细节。他们对立即深入研究 autotools、Cmake 和 Meson 等工具细节的现有资源表示失望。作者正在寻找阅读材料、播客或视频，以提供构建系统的总体概述，而不关注某一特定工具。争议在于缺乏资源来提供对构建系统的广泛理解，而不会陷入特定于工具的细节。]]></description>
-      <guid>https://t.me/hn_summary/84408</guid>
-      <pubDate>Sat, 13 Apr 2024 20:32:42 GMT</pubDate>
+      <title>[媒体]Let’s Encrypt 是 Cloudflare 使用的值得信赖的证书颁发机构，正在打造一个标志 [...]</title>
+      <link>https://t.me/hn_summary/84436</link>
+      <description><![CDATA[我们确保 Cloudflare 客户不会受到 LE 证书链更改的影响&lt; /a&gt;
+Cloudflare 使用的受信任证书颁发机构 Let’s Encrypt 正在对其证书链进行重大更改，这将影响旧设备和系统。与 IdenTrust 的交叉签名过期后，Let’s Encrypt 证书将仅使用 ISRG Root X1，这可能会导致信任存储中没有新根的设备出现 TLS 错误。 Cloudflare 正在通过修改其证书管道来主动解决此问题，以确保为所有用户提供无缝服务。此外，Cloudflare 强大的 TLS 证书管道优先考虑安全性、自动化和未来的可扩展性，并不断进行优化以支持不断发展的互联网标准。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84436</guid>
+      <pubDate>Sat, 13 Apr 2024 23:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 代数几何维基百科将永远不完整。</title>
-      <link>https://t.me/hn_summary/84407</link>
-      <description><![CDATA[代数几何维基百科将永远不完整。 （2022）
-2008 年，德容着手填补代数几何领域由于缺乏对代数堆栈的全面覆盖而留下的空白，而格洛腾迪克并没有像计划那样彻底地解决这一任务。在 11 年的时间里，de Jong 不知疲倦地工作，在一个地方收集和组织结果，创建了 Stacks 项目，共 7,300 页。然而，即使在输入最后一个方程时，德容也意识到该项目还远未完成，还有错误需要修正、定义需要调整、概念需要添加。 Stacks 项目是一个动态文档，不断发展以跟上代数几何领域不断扩展的步伐。]]></description>
-      <guid>https://t.me/hn_summary/84407</guid>
-      <pubDate>Sat, 13 Apr 2024 20:31:39 GMT</pubDate>
+      <title>[媒体] pglite 项目是一个实现 Postgres 有线协议并使用 SQL [...]</title>
+      <link>https://t.me/hn_summary/84435</link>
+      <description><![CDATA[展示 HN：Postgres 有线协议和 SQLite 作为存储的简单演示引擎
+pglite项目是一个实现Postgres有线协议并使用SQLite作为其存储引擎的服务器。它旨在帮助用户了解Postgres有线协议，并在代码中提供详细的注释。该项目与其他项目的不同之处在于在实施过程中提供了更多的解释性意见。它可用于理解和实现 Postgres 有线协议，用户可以使用 psql 或任何其他首选的 Postgres 客户端与其交互。]]></description>
+      <guid>https://t.me/hn_summary/84435</guid>
+      <pubDate>Sat, 13 Apr 2024 23:11:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
