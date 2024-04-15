@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 09:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 12:31:59 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的 AI 聊天机器人扩展到全球更多 WhatsApp 用户</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4i7ss/metas_ai_chatbot_expands_to_more_whatsapp_users/</link>
+      <description><![CDATA[去年 9 月，马克·扎克伯格 (Mark Zuckerberg) 的 Meta 拥抱人工智能 (AI)，推出了 AI 聊天机器人，其元素现已集成到 WhatsApp、Instagram 等产品中据 Android Police 称，得益于最新的更新，WhatsApp 现在允许用户通过点击“聊天”选项卡右上角的专用图标来访问 Meta AI，不过目前尚不清楚此功能是否会继续使用。将在未来的更新中提供。 尽管 Meta AI 有所提升，但搜索栏预计将保持标准功能，例如查找特定消息、群组或联系人。 https://www.geo.tv/latest/539089-metas- ai-chatbot-扩展到全球范围内更多的whatsapp用户   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4i7ss/metas_ai_chatbot_expands_to_more_whatsapp_users/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:47:19 GMT</pubDate>
+    </item>
     <item>
       <title>AI有问题吗？人类。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4hh7z/there_problem_with_ai_humans/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>现代 RAG 管道的 9 个挑战和解决方案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4fq6n/9_challenges_and_solutions_to_modern_rag_pipelines/</link>
-      <description><![CDATA[RAG 遭受以下问题： 检索错误 低精度：无检索到的集中的所有块都是相关的 - 幻觉+迷失在中间问题 低召回率：现在所有相关的块都被检索到。 - 缺乏足够的上下文供LLM合成答案 /&gt; 过时的信息：数据冗余或过时。 错误的响应生成 幻觉：模型编造了不在上下文中的答案. 不相关：模型编造的答案不能回答问题。 毒性/偏见：模型编造的答案是有害的/令人反感的。 全文： https://medium.com/aiguys/solving-product-issues-in- Modern-rag-systems-b7c31802167c 9 现代 RAG 管道的挑战和解决方案 响应质量相关 1.知识库中缺少上下文：清理数据和更好的提示 2。初始检索过程中缺少上下文：针对块大小和 top-k 的超参数调整 3。重新排名后上下文丢失：更好的检索策略，例如知识图检索器或组合/分层检索器 4。上下文未提取：提示压缩或LongContextReorder 5。输出格式错误：更好的文本提示/输出解析；采用OpenAI函数调用+JSON模式；使用令牌级别提示（LMQL、指导） 6.输出的特异性级别不正确：从小到大检索；句子窗口检索；递归检索 7.输出不完整：查询转换 可扩展性 8。无法扩展到更大的数据量：并行化摄取管道 9.速率限制错误：多个 API 密钥并在我们的应用程序中轮换它们   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <description><![CDATA[RAG 遭受以下问题： 检索错误 低精度：无检索到的集中的所有块都是相关的 - 幻觉+迷失在中间问题 低召回率：现在所有相关的块都被检索到。 - 缺乏足够的上下文让LLM合成答案 /&gt; 过时的信息：数据冗余或过时。 错误的响应生成 幻觉：模型编造了不在上下文中的答案. 不相关：模型编造的答案不能回答问题。 毒性/偏见：模型编造的答案是有害的/令人反感的。 全文： https://medium.com/aiguys/solving-product-issues-in- Modern-rag-systems-b7c31802167c 9 现代 RAG 管道的挑战和解决方案 响应质量相关 1.知识库中缺少上下文：清理数据和更好的提示 2。初始检索过程中缺少上下文：针对块大小和 top-k 的超参数调整 3。重新排名后上下文丢失：更好的检索策略，例如知识图检索器或组合/分层检索器 4。上下文未提取：提示压缩或LongContextReorder 5。输出格式错误：更好的文本提示/输出解析；采用OpenAI函数调用+JSON模式；使用令牌级别提示（LMQL、指导） 6.输出的特异性级别不正确：从小到大检索；句子窗口检索；递归检索 7.输出不完整：查询转换 可扩展性 8。无法扩展到更大的数据量：并行化摄取管道 9.速率限制错误：多个 API 密钥并在我们的应用程序中轮换它们   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4fq6n/9_challenges_and_solutions_to_modern_rag_pipelines/</guid>
       <pubDate>Mon, 15 Apr 2024 06:54:31 GMT</pubDate>
     </item>
@@ -41,18 +48,11 @@
       <pubDate>Mon, 15 Apr 2024 06:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士的成果可以用来培训法学硕士吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4e2ne/can_outputs_of_llms_be_used_to_trains_llms/</link>
-      <description><![CDATA[LLM 本身的输出以及人类的简短描述可以用来训练 LLM 使其变得更好吗？我的意思是文本的语法结构，包括时态、逗号、句号等。   由   提交/u/Impressive_Bell_6497   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4e2ne/can_outputs_of_llms_be_used_to_trains_llms/</guid>
-      <pubDate>Mon, 15 Apr 2024 05:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有说服力的模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4ddkq/persuasive_models/</link>
-      <description><![CDATA[长期讨论的一个问题是具有安全意识的开发人员（如果有的话）是否可以将超级智能保持在“盒子里”。人们并没有一致认为，如果它能与饲养员交谈，它可能会通过说服的方式逃脱。这就是为什么我认为以下对当前法学硕士的研究令人担忧，表明他们的说服能力正在接近人类水平。 https://thezvi.substack.com/p/ai-59-model-updates#§persuasive-research    由   提交/u/Rick12334th  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4ddkq/persuasive_models/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:26:18 GMT</pubDate>
+      <title>在没有显式输出的情况下查询语言模型中的内部处理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4ccnq/querying_internal_processing_in_language_models/</link>
+      <description><![CDATA[我很好奇当输出不直接反映处理后的信息时，我们如何验证语言模型的内部计算。例如，考虑这样一种场景：模型被要求处理查询，但被指示仅输出“！”。而不是实际的答案。  这是我的问题： 1.模型是否确实在不呈现输出的情况下处理问题的答案？我们如何确定模型在内部正确处理了问题并计算出正确的答案？  有哪些机制或工具可用于确认语言模型已执行正确的计算，特别是当输出被故意混淆或简化时？  模型测试中是否有标准实践可以帮助验证内部流程而无需直接输出确认？   我目前也在寻找一些与此相关的论文 - 我终于设置了一些批量测试并遇到了一些可能有趣的东西，但我承认这是我没有做过的事情我自己深思熟虑了。    由   提交 /u/BridgedAI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4ccnq/querying_internal_processing_in_language_models/</guid>
+      <pubDate>Mon, 15 Apr 2024 03:28:45 GMT</pubDate>
     </item>
     <item>
       <title>使用 LangGraph 的多代理电影脚本</title>
@@ -78,7 +78,7 @@
     <item>
       <title>人工智能在提供情感支持方面优于人类</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3wb3x/ai_outperforms_humans_in_providing_emotional/</link>
-      <description><![CDATA[一项新研究表明人工智能在提供情感支持方面可能很有用。人工智能擅长识别文本中的情感线索，并以验证人的感受的方式做出回应。这可能很有帮助，因为人工智能不会分心或有自己的偏见。 如果您想在人工智能和技术领域保持领先地位，先看这里。 主要发现：  人工智能可以分析文本以理解情绪和以验证对方感受的方式做出回应。这是因为人工智能可以完全专注于对话，并且没有人类偏见。 与可能跳出解决方案的人类不同，人工智能可以专注于简单地验证人的情绪。这可以创造一个安全的空间，让人们感到被倾听和理解 如果人们得知来自人工智能的支持信息，就会感到不被理解，这是一个心理障碍。这类似于机器人技术中的恐怖谷效应。 尽管“恐怖谷”是存在的。研究表明，人工智能有潜力成为一种帮助人们感到被理解的工具。人工智能可以提供容易获得且负担得起的情感支持，特别是对于那些缺乏社会资源的人。  来源 (Earth.com) PS：如果您喜欢这篇文章，您一定会喜欢我的基于 ML 的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <description><![CDATA[一项新研究表明人工智能在提供情感支持方面可能很有用。人工智能擅长捕捉文本中的情感线索，并以验证人的感受的方式做出回应。这可能很有帮助，因为人工智能不会分心或有自己的偏见。 如果您想在人工智能和技术领域保持领先地位，先看这里。 主要发现：  人工智能可以分析文本以理解情绪和以验证对方感受的方式做出回应。这是因为人工智能可以完全专注于对话，并且没有人类偏见。 与可能跳出解决方案的人类不同，人工智能可以专注于简单地验证人的情绪。这可以创造一个安全的空间，让人们感到被倾听和理解 如果人们得知来自人工智能的支持信息，就会感到不被理解，这是一个心理障碍。这类似于机器人技术中的恐怖谷效应。 尽管“恐怖谷”效应是存在的。研究表明，人工智能有潜力成为一种帮助人们感到被理解的工具。人工智能可以提供容易获得且负担得起的情感支持，特别是对于那些缺乏社会资源的人。  来源 (Earth.com) PS：如果您喜欢这篇文章，您一定会喜欢我的基于 ML 的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3wb3x/ai_outperforms_humans_in_providing_emotional/</guid>
       <pubDate>Sun, 14 Apr 2024 15:34:16 GMT</pubDate>
     </item>
@@ -92,12 +92,12 @@
     <item>
       <title>我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</link>
-      <description><![CDATA[我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码 我不敢相信这一点实际上是真实且有效的 在 5 天的时间里，从我一生中从未编写和运行代码，到构建一个功能非常好的 Android 应用程序，并且当出现提示时，它使该应用程序看起来也非常好 这是怎么回事！！！ 顺便说一句，我使用了 claude opus 这是一个简单的应用程序，解决了我业务上的一个巨大问题 &lt; p&gt;所以我有一家裁缝店，我们裁缝的任何一件衣服在交给客户之前都会经过 5 个步骤，当我们有很多订单时，有些衣服需要比预期更长的时间，有时我们不知道哪里有件到底是什么以及在哪一步 我们有一个解决方案，将收据编号作为每件上的条形码，如果它通过了任何步骤，我们需要扫描条形码，表明它从该步骤完成 我们的预算不足，因此我考虑制作一个 Android 应用程序（因为您可以获得便宜的 Android 手机），并且每一步都有一台，而不是每一步都配备 5 台与条形码扫描仪连接的计算机 应用程序很简单，首先您选择当前所处的步骤，然后读取条形码，然后提交 之后，信息将写入谷歌电子表格中，并在我们跟踪一件作品从一个步骤到另一个步骤需要多长时间，并确切地知道每件作品在哪里，瓶颈在哪里，以及如何优化制作尽可能多的作品   由   提交/u/bhk0_  [链接] [评论]]]></description>
+      <description><![CDATA[我们生活在令人难以置信的时代，我构建了一个 Android 应用程序，但我从未编写过代码 我不敢相信这一点实际上是真实且有效的 在 5 天的时间里，从我一生中从未编写和运行代码，到构建一个功能非常好的 Android 应用程序，并且当出现提示时，它使该应用程序看起来也非常好 这是怎么回事！！！ 顺便说一句，我使用了 claude opus 这是一个简单的应用程序，解决了我业务上的一个巨大问题 &lt; p&gt;所以我有一家裁缝店，我们裁缝的任何一件衣服在交给客户之前都会经过 5 个步骤，当我们有很多订单时，有些衣服需要比预期更长的时间，有时我们不知道哪里有件到底是什么以及在哪一步 我们有一个解决方案，将收据编号作为每件上的条形码，如果它通过了任何步骤，我们需要扫描条形码，表明它从该步骤完成 我们的预算不足，因此我考虑制作一个 Android 应用程序（因为您可以获得廉价的 Android 手机），并且每一步都有一台，而不是每一步都配备 5 台与条形码扫描仪连接的计算机 应用程序很简单，首先您选择当前所处的步骤，然后读取条形码，然后提交 之后，信息将写入谷歌电子表格中，并在我们跟踪一件作品从一个步骤到另一个步骤需要多长时间，并确切地知道每件作品在哪里，瓶颈在哪里，以及如何优化制作尽可能多的作品   由   提交/u/bhk0_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/</guid>
       <pubDate>Sun, 14 Apr 2024 09:39:14 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
