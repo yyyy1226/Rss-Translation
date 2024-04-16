@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 21:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 01:16:56 GMT</lastBuildDate>
+    <item>
+      <title>初创公司的 Web 开发建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</link>
+      <description><![CDATA[Hey devs 👋 我的初创公司正在寻找有关 Web 开发的建议，特别是 UI 组件/设计系统的前端方面。  有人可以快速聊天吗？  此致，Symbols 的 Josh CBO   由   提交/u/kingj-2830  /u/kingj-2830  reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</guid>
+      <pubDate>Tue, 16 Apr 2024 01:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道便宜的图片托管网站吗？希望开发一个网络应用程序并检索带有标题/文本的图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c52muc/anyone_know_of_image_hosting_websites_for_cheap/</link>
+      <description><![CDATA[嗨，我希望开发一个网络应用程序，该应用程序主要托管包含一些标题/文本的图像。您有什么推荐的图片托管服务吗？价格？谢谢。   由   提交 /u/UnbanMe69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c52muc/anyone_know_of_image_hosting_websites_for_cheap/</guid>
+      <pubDate>Tue, 16 Apr 2024 00:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要鼠标推荐吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c52bow/need_a_mouse_recommendation/</link>
+      <description><![CDATA[我目前使用的是 mx master 3s。它工作得很好，我喜欢它的功能，除了它的重量。经过一段时间的大量使用后，我感到手腕和手部有些疼痛。我正在寻找一只新鼠标。我是一名本科生，到目前为止，我有两个选择： 1 - Logitech mx Vertical 或 2 - Logitech g pro x superlight any建议？我更倾向于 g pro x superlight，因为它更轻，也可以用于游戏，而且目前在 bestbuy 上售价 99 美元。虽然我平时玩游戏比较随意。各位CS小伙伴，你们用的是什么鼠标，为什么？   由   提交 /u/colinksh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c52bow/need_a_mouse_recommendation/</guid>
+      <pubDate>Tue, 16 Apr 2024 00:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>与客户束手无策</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c50oul/at_wits_end_with_a_client/</link>
+      <description><![CDATA[大家好，  我已经将我的个人自由职业发展成为一个小型代理机构。我一直在做网络开发和开发在 WordPress 中设计了大约 10 年。在过去的 3 年里，我不得不雇佣更多的人 (3) 来帮助我分担工作量。  我现在主要担任业务开发和产品经理的角色。我负责营销、大多数客户沟通等工作。我有一个非常棒的客户，但现在已经不再那么棒了。他们是一家非常小的“初创公司”——由 4 人组成的团队，我和他们的总监一起工作。经过 6 年的前期开发，我于 2021 年继承了他的代码库。  他对我进行微观管理。他跟踪我的一举一动。我将一些东西推送到生产环境，他问我为什么要推送，推送的目的是什么，以及他需要再次测试什么。如果我登录他就会给我发消息。如果 Sucuri 由于 XYZ 原因阻止了文件路径（这是 Sucuri，他们不会告诉你他们的确切规则） - 他希望全面调查发生这种情况的原因、是否存在安全缺陷以及如何预防。  如果用户通过电子邮件发送支持请求以重置其密码，并且防火墙阻止了他，他会认为整个平台已损坏，并向我发送多条请求帮助的消息，然后惊慌失措。最近的情况发生在周六，他要我周六下午5点见面。我没有回应。有时，我会在凌晨 3 点醒来，收到 10 多条来自客户的消息，内容涉及他想要解决的事情或问题。大多数时候它们是用户错误。  我一直在向他介绍让我的另一位开发人员协助我（即接管）开发的想法。客户将开发人员添加到位桶中，并在本地设置了环境。谈论新开发人员有多么出色。我的开发人员更新了自述文件，提供了更好的说明，以便为下一个开发人员在本地进行设置（这是最佳实践，以防万一我倒闭，他解雇我们，我们退出等）。  他吓坏了。想看合同。希望我的开发人员签署保密协议（我拒绝了，因为他和我有保密协议，而且我从未听说过有客户要求团队中的每个人都签署保密协议）。  因此，我们正在走向一个要么会发生争吵，要么我们与客户关系非常紧张的地方。  我从这里寻求的是让客户确信客户对我们过度容忍和微观管理。你们都会忍受这个吗？谢谢！！    由   提交/u/Device_Outside  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c50oul/at_wits_end_with_a_client/</guid>
+      <pubDate>Mon, 15 Apr 2024 23:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 s3 批量获取图像 URL 的最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c50dxz/best_practice_for_bulk_fetching_image_urls_from_s3/</link>
+      <description><![CDATA[所以我使用 s3 中的预签名 URL 在我的 React 应用程序上显示图像。我一次显示 30 张卡片，我有一个 Python api 用于获取元数据。获取这些预签名 URL 的最佳方式是什么？我可以使用我的 api 生成预签名 URL，以便获得带有元数据的 url，或者创建一个 api 只是为了生成预签名 url 并调用它 30 次（需要等待我的第一个 api 完成获取才能获取图片的 ID）。欢迎任何意见！   由   提交 /u/OOFBOSS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c50dxz/best_practice_for_bulk_fetching_image_urls_from_s3/</guid>
+      <pubDate>Mon, 15 Apr 2024 23:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确测试 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4zrvu/how_do_i_test_apis_correctly/</link>
+      <description><![CDATA[我编写网站和网络应用程序已经有一段时间了。在尝试了许多不同的 Web 语言和框架之后，我决定使用 Spring 作为后端，React 作为前端，以及 Tailwind 作为样式。我在 Spring 中编写了一个简单的 CRUD REST API，并且使用 Postman 发送请求。 我想知道如何为该 API 编写测试，最好是在 Postman 中。我还想知道 API 测试在更一般的层面上实际上是如何工作的。我在邮递员中创建了一个简单的测试，用于检查内容类型状态代码并验证返回的 JSON。这是正确的方法吗？我之所以这么问，是因为我需要模拟每种可能的情况并进行测试。这是真的吗？ ​ 谢谢。   由   提交 /u/GlitteringCalendar94   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4zrvu/how_do_i_test_apis_correctly/</guid>
+      <pubDate>Mon, 15 Apr 2024 22:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化 Azure 上托管的缓慢全栈应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4z9dv/optimising_slow_fullstack_app_hosted_on_azure/</link>
+      <description><![CDATA[我是全栈 Web 开发新手，但我使用 Java Spring 作为后端、JavaScript 作为前端制作了一个 Web 应用程序。这是康威生命游戏的小型模拟。问题是我对后端使用了很多 HTTP 调用（更准确地说，我使用后端创建一个随机/空网格，然后将该网格返回到前端。然后我在前端有一个 for 循环，并在每个循环我都会向后端发送一次HTTP POST请求来修改当前网格，然后返回修改后的网格，前端将使用p5.js库绘制它。这涉及更多的for循环。）  可以。其中很多都是在 JavaScript 前端完成的？是的，但我想学习如何合并后端，因为这更多的是一个实践/学习项目，并且还学习了一些 Spring。说到这里，我想优化一下。模拟器在 localhost 中运行平稳且快速，但是当我将其托管在 Azure（免费层）上时，速度变得相当慢。部分原因是由于 Azure 层，因为当我更改为 Premium 后速度有所提高，但我也认为这是因为我为该项目选择的堆栈。 有没有办法稍微优化一下同时仍然保留项目的全栈结构？这是一个还算不错的独立项目，我确实打算添加到我的简历中（我是大学二年级学生），但我担心招聘人员在测试运行它时可能会负面看待缓慢的速度。   由   提交 /u/Dropbototoro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4z9dv/optimising_slow_fullstack_app_hosted_on_azure/</guid>
+      <pubDate>Mon, 15 Apr 2024 22:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何部署一个发出网站请求的站点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4yb9a/how_to_deploy_a_site_that_makes_website_requests/</link>
+      <description><![CDATA[我正在尝试创建一个网站，根据用户输入的信息，从网站解析 HTML 数据（使用 Python 完成），然后显示基于该数据的信息。部署此类内容的最佳免费方式是什么？我也是一名学生，所以我也许可以获得学生福利之类的。谢谢！ 编辑：我基本上使用 BeautifulSoup 来抓取网络数据，以从与某人输入网站的用户名相关的页面获取信息。   由   提交 /u/Xenonaut1001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4yb9a/how_to_deploy_a_site_that_makes_website_requests/</guid>
+      <pubDate>Mon, 15 Apr 2024 21:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道如何将 Excel 文件发送到 Remix 服务器路由</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4yb56/i_cannot_figure_out_how_to_send_a_excel_file_to_a/</link>
+      <description><![CDATA[我有一个名为 FileUpload 的放置区组件，它在其父组件中设置了一个名为 file 的状态。按下一个按钮，调用handlesSubmit，该按钮获取文件并在我的保存文件路径上执行提取。 在 /save-file 的操作中，我尝试将 Excel 文件写入到名为 excel_storage 的文件夹，但无论我做什么它都不起作用。当我打印文件时，它只显示一些元数据，包括名称、大小、类型，但它不会发送文件数据本身。  我尝试过使用 FileReader 并单独发送它，多次更改内容类型，将文件数据更改为 blob 并以这种方式发送，然后将文件对象本身附加到 FormData。只是没有发送任何文件数据。我已经尝试解决这个问题大约12个小时了，但我最终放弃了。  这是包含前端组件和后端组件以及输出的代码 https:// codeshare.io/yNJV9q 我不知道我遇到的麻烦是因为这是我第一次使用 Remix 还是我的知识有一些空白。我非常感谢您的帮助。    由   提交 /u/__B4Nd1t__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4yb56/i_cannot_figure_out_how_to_send_a_excel_file_to_a/</guid>
+      <pubDate>Mon, 15 Apr 2024 21:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>eslint-插件-frontmatter2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4yaiw/eslintpluginfrontmatter2/</link>
+      <description><![CDATA[我一直致力于在我维护的所有网站上更新 Eslint（我认为是上周发布的新主要版本）。长话短说，我在很多 Jekyll 和 eslint-plugin-frontmatter 中使用了 eslint-plugin-frontmatter 。 110 个站点，但它已经被废弃了大约 5 年，并且与新的 Eslint 不兼容。  所以我刚刚构建并发布了 eslint-plugin-frontmatter2&lt; /a&gt;.认为它可能对任何需要它的人有用。  它让你可以使用“frontmatter”在你的 JS 中，在将其传递给 linted 之前将其剥离出来。    由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4yaiw/eslintpluginfrontmatter2/</guid>
+      <pubDate>Mon, 15 Apr 2024 21:34:02 GMT</pubDate>
+    </item>
     <item>
       <title>为网络开发者提供游戏捐赠？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c4xwdi/ludum_dare_for_web_developers/</link>
@@ -15,7 +85,7 @@
     <item>
       <title>如何在不同选项卡之间共享 websocket 连接？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c4xu2o/how_do_i_share_a_websocket_connectoin_between/</link>
-      <description><![CDATA[嗨， 首先：我使用 SAP 和 UI5 前端，它使用 JavaScript 的异步模块定义。所以也许这已经是问题了... 我有一个要求： 我希望在我的所有浏览器选项卡/窗口中只有一个相同的 Websocket 连接。在拥有 Websocket 服务的后端站点上，我可以选择确定客户端是否已具有活动连接。但我无法以任何方式归还它。所以我的想法是共享 Websocket 对象，我在第一次调用中实例化了该对象。通过浏览器存储、cookie、BroadcastChannel 或 SharedWorkerI。 存储和 cookie 不起作用，因为我无法序列化 Websocket 对象。 BroadcastChannel 也有同样的问题。无法传递 Websocket 对象。 SharedWorker 对我不起作用，因为工作脚本根本没有被执行。 我知道，它可能有点具体，因为UI5框架，但我无法想象这是不可能的。 请帮忙！ 使用SharedWorker的代码示例： 共享。 onconnect = (e) =&gt; onconnect.js onconnect = (e) =&gt; { const port = e.ports[0]; port.addEventListener(“消息”, (e ) =&gt; { const workResult = \结果：${e}`;` port.postMessage( workerResult); }); port.start(); }; main.js: var resourceUrl = sap.ui.require.toUrl(&quot;myModule/controller/shared. js&quot;); const worker = new SharedWorker(resourceUrl); worker.port.onmessage = function (e ) { console.log(e); };  //稍后 worker.port.postMessage(&quot;test&quot;);  &amp; #32；由   提交 /u/EmPiFree   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，首先：我使用 SAP 和 UI5 前端，它使用 JavaScript 的异步模块定义。所以也许这已经是问题了... 我有一个要求： 我想在我的所有浏览器选项卡/窗口中只有一个相同的 websocket 连接。在拥有 websocket 服务的后端站点上，我可以确定客户端是否已经具有活动连接。但我无法退货。所以我的想法是传递我在第一次调用时实例化的 websocket 对象。通过浏览器存储、cookie、BroadcastChannel 或 SharedWorker。  存储和 Cookie 不起作用，因为我无法序列化 websocket 对象。 BroadcastChannel 也有同样的问题。我无法传递 websocket 对象。 SharedWorker 对我不起作用，因为工作脚本根本没有被执行。 我知道，它可能有点具体，因为UI5框架，但我无法想象这是不可能的。 请帮忙！ 使用SharedWorker的代码示例： 共享。 onconnect = (e) =&gt; onconnect.js onconnect = (e) =&gt; { const port = e.ports[0]; port.addEventListener(“消息”, (e ) =&gt; { const workResult = \结果：${e}`;` port.postMessage( workerResult); }); port.start(); }; main.js: var resourceUrl = sap.ui.require.toUrl(&quot;myModule/controller/shared. js&quot;); const worker = new SharedWorker(resourceUrl); worker.port.onmessage = function (e ) { console.log(e); };  //稍后 worker.port.postMessage(&quot;test&quot;);  &amp; #32；由   提交 /u/EmPiFree   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4xu2o/how_do_i_share_a_websocket_connectoin_between/</guid>
       <pubDate>Mon, 15 Apr 2024 21:16:03 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[    /u/TheFapGoesCloud    [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4unpx/what_topics_do_i_need_to_learn_to_do_websites/</guid>
       <pubDate>Mon, 15 Apr 2024 19:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 是如何做到的？ （更多评论中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/rayjaywolf   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</guid>
-      <pubDate>Mon, 15 Apr 2024 18:54:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关创建题库网站的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4tn7m/need_advice_on_creating_a_question_bank_website/</link>
-      <description><![CDATA[嘿伙计们！我计划创建一个问题库网站！ 我计划为该网站提供一些功能： - 自我评分方案 - 能够记录每个学生的尝试 - 学生能够创建自己的问题测验和访问预制测验 - 订阅计划 - 每个问题的类别 - 能够完成单独的问题  我知道其中一些功能对于像我这样的应届毕业生来说可能看起来像是艰巨的任务，但我&#39;我不希望很快完成所有这些。 唯一的问题是我无法找出实现它的最佳解决方案。 现在我正在尝试 LMS像Moodle这样的框架。  但是，我无法评估上述功能是否可以作为一个人在 LMS 框架中实现。我在想学习如何创建一个全栈网站是否会更好，或者是否有另一个 LMS 最适合我的定制需求。 如果有帮助，我有一些 html 和 css 经验并帮助编写代码作为另一个小组项目的一部分，为全栈开发人员使用 React js。 那么我应该做什么？坚持使用 LMS 框架还是深入研究全栈开发？   由   提交/u/captainpeanutlemon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4tn7m/need_advice_on_creating_a_question_bank_website/</guid>
-      <pubDate>Mon, 15 Apr 2024 18:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用 React 应用程序替换 angularjs 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4r0o0/how_would_you_replace_an_angularjs_app_with_a/</link>
-      <description><![CDATA[当前设置是一个具有 api 的 NodeJS Express 应用 “客户端”中有一个 AngularJS 应用。目录，它只是作为静态 HTML。该应用程序只是向 API 发出所需的任何请求以获取其数据等 这是一个遗留应用程序（正如您可能已经猜到的），我们需要更新，但我们团队中没有 angularjs 经验。它不仅是 angularjs，而且是旧版本。我们很容易谈论十多年的历史。  我想在 React 中重建 UI，并拥有一个基本上静态的网站，我可以以相同的方式从 Express 应用程序提供服务，但我不确定这是否是一个好主意？  或者，Nextjs 应用程序（或 Remix 等），但我不想让另一个应用程序在另一个端口上运行，我只想从 Express 应用程序提供它以维持当前的状态现状 你会如何处理这个问题？    由   提交/u/SimpleWarthog  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4r0o0/how_would_you_replace_an_angularjs_app_with_a/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwindcss 是或否，作为一名全栈开发人员为了工作目的值得投入时间和精力来学习吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4qpil/tailwindcss_yay_or_nay_worth_putting_time_and/</link>
-      <description><![CDATA[这本质上是我的问题。我是一名全栈开发人员，想知道这是否是专业工作场所中经常使用的东西？我知道有一部分前端人员喜欢这个框架。我一直在犹豫是否应该在教程之外做更多的事情并巩固我所知道的，或者只是当我遇到需要它的工作时担心它。    由   提交/u/mymar101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4qpil/tailwindcss_yay_or_nay_worth_putting_time_and/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于小型企业来说，使用 vps 作为个人应用程序有多实用和安全？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4q0zo/how_practical_and_secure_is_it_to_use_a_vps_for_a/</link>
-      <description><![CDATA[我不是专业的网络/开发人员，只制作了几个应用程序。我不在 Mac 上开发，但我妈妈需要我为她想要创办的一家小企业制作一个内部应用程序。所以我正在考虑开发一个 DT 应用程序。我了解一些 CPP 中的 QtCreator 和 ImGUI，我了解一点 C# 并了解一些 Node/REACT。我倾向于 Qt 应用程序而不是学习 MAUI，但我听说在开发过程中我必须偶尔在她家的机器上编译它。  但是，我在想，为什么我不买一个便宜的 VPS，将其设置为只有她可以访问它的前端并制作一个 REACT 或 vanilla JS 应用程序，她可以从其中连接到它她的 DT 或 Cell（会使用某种形式的 SQL，可能是 SQLite）。这样我也不必担心它的跨平台方面。  该应用程序将不包含任何财务数据，只包含有关食谱的专有版权类型的内容。这在安全性方面是否可行/实用，还是设计不好？我问是因为我不知道。    由   提交 /u/setdelmar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4q0zo/how_practical_and_secure_is_it_to_use_a_vps_for_a/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>范围滑块拇指在 Firefox 中无法移动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/</link>
-      <description><![CDATA[我想以编程方式在 pointerup 事件上将 Ranger 滑块值重置为零。只需将 value 属性设置为零即可将值设置为零，并将滑块滑块移回 Chromium 浏览器中的中间位置。但在 Firefox 中，该值被重置，但滑块拇指仍固定在释放拇指的位置。在 Firefox 上如何让拇指移回中间位置？我还没有看到任何解决此问题的 Google 结果。   由   提交 /u/Science-Compliance   /u/Science-Compliance  reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法确定是什么导致了“最大的内容绘制”延迟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4pmku/cant_identify_what_is_causing_largest_contentfull/</link>
-      <description><![CDATA[嗨，我在 WordPress 中制作了我的第一个网站，总体来说对于 Web 开发来说还是个新手。当运行性能测试时，我得到了一个巨大的“最大的内容丰富的绘画元素”移动设备上为 23 秒，桌面设备上为 4 秒。它显示了我的标题的徽标部分。该徽标大约为 250x150，并压缩为低于 100kb 的 webp。我什至尝试删除徽标，看看它在测试中是否仍然很慢，甚至在速度测试报告中删除徽标后，它甚至仍然显示徽标的图像。 任何比这更了解的人我能找出问题所在吗？我发现这可能与资源阻塞资源有关，但不确定如何识别和解决该问题。 速度测试报告的图像 https://imgur.com/a/86Luhvp 网站链接 https://wordpress-1207033-4271295.cloudwaysapps.com/   由   提交/u/lossione  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4pmku/cant_identify_what_is_causing_largest_contentfull/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 服务器组件中的 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4phd3/css_in_react_server_components/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4phd3/css_in_react_server_components/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我们了解最佳数据备份实践 - 分享您的见解！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4ovol/help_us_understand_the_best_data_backup_practices/</link>
-      <description><![CDATA[我希望深入了解数据库备份和恢复的当前趋势。您的专业知识和经验对于了解最有效的工具和实践非常有价值。 我发起了一项民意调查，以探索社区对数据库备份解决方案的偏好。这是一个发现新方法并了解其他人正在使用的方法的机会。您的参与将极大地丰富我们的集体知识。 预先感谢您的投入！如果您对此主题有任何进一步的见解，我渴望从您的回复中了解并在下面的评论中聊天！。 这是民意调查： 您喜欢如何备份您的数据库？ 查看投票 &lt;!-- SC_ON - -&gt;  由   提交/u/Neverhadachance3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4ovol/help_us_understand_the_best_data_backup_practices/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:21:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 WordPress 日志记录的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4o2x6/question_about_wordpress_logging/</link>
-      <description><![CDATA[我们开始使用 SiteGround 上托管的 WordPress 作为静态网站的无头 CMS 组件，主要是因为后端界面对于很多编辑者来说都很熟悉/作者。在构建步骤中，我们在不同的项目上使用 REST API 和 GraphQL 插件。 我的背景是全栈，主要使用 Rails 和 Django。我对 WordPress 不太熟悉。我不明白的一件事是日志记录。在我的正常项目中，设置日志记录非常关键 - 我们希望有日志文件来帮助对生产系统进行故障排除。但是 WordPress 在打开 WP_DEBUG* PHP 常量方面是这样说的：  不建议在实时站点上使用 WP_DEBUG 或其他调试工具  假设 WP_DEBUG_DISPLAY 设置为 false，为什么 WordPress 本身建议不要在生产中记录警告和错误？这纯粹是性能问题吗？我们不会从 WordPress 实例提供页面（它仅在重建期间用于管理和 API 调用，每天几次）。 此外，有人知道为什么 SiteGround 不提供服务吗？没有设置环境变量的选项吗？   由   提交 /u/webstackbuilder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4o2x6/question_about_wordpress_logging/</guid>
-      <pubDate>Mon, 15 Apr 2024 14:48:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
