@@ -4,16 +4,23 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 18:24:14 GMT</lastBuildDate>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
+      <title>利用 Gradio 的重新加载模式快速实现 AI 应用程序</title>
+      <link>https://huggingface.co/blog/gradio-reload</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-reload</guid>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面且无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在拥抱脸部端点上运行隐私保护推理</title>
+      <title>在拥抱人脸端点上运行隐私保护推理</title>
       <link>https://huggingface.co/blog/fhe-endpoints</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fhe-endpoints</guid>
@@ -24,13 +31,6 @@
       <link>https://huggingface.co/blog/ryght-case-study</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ryght-case-study</guid>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 Gradio 的重新加载模式快速实现 AI 应用程序</title>
-      <link>https://huggingface.co/blog/gradio-reload</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gradio-reload</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 18:26:03 GMT</lastBuildDate>
+    <item>
+      <title>Minecraft Utilities - 简单易用的 Minecraft API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c6g6tt/minecraft_utilities_a_simple_and_easy_to_use/</link>
+      <description><![CDATA[Minecraft Utilities 为您提供了许多端点来获取有关 Minecraft 服务器或玩家的信息。我们为您提供简单易用的 API。 如果您有任何建议或问题，可以在 Discord @ fascinated7 上给我留言 网站：https://mcutils.xyz API：https://api.mcutils .xyz 文档：https://api.mcutils.xyz/swagger -ui/index.html 来源：https://github.com/RealFasculated/minecraft -helper / https://git.fascinated.cc/MinecraftUtilities   由   提交/u/ImFascminateMC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c6g6tt/minecraft_utilities_a_simple_and_easy_to_use/</guid>
+      <pubDate>Wed, 17 Apr 2024 17:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源服务器构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c6ea17/opensource_server_builder/</link>
+      <description><![CDATA[Scriptables 是一个自托管的开源编排工具，可帮助您为 PHP 和 Laravel 应用程序快速构建 Ubuntu 服务器。 我经常看到大量新平台，如 Vercel 或 Planetscale，它们都是很棒的产品，但如果您是小型企业或自由职业者，这些平台可能会变得非常昂贵。 为什么不构建自己的 VPS？这并不复杂，Scriptables 将为您完成所有繁重的工作，包括设置防火墙、SSH 强化以及通过易于使用的 GUI 管理 CRONS。 虽然 Scriptables 针对 Laravel 进行了优化，它仍然可用于其他应用程序类型，您可以部署标准服务器，然后根据您的应用程序需求进行构建。 https://plexscriptables .com   由   提交 /u/KevinCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c6ea17/opensource_server_builder/</guid>
+      <pubDate>Wed, 17 Apr 2024 16:27:44 GMT</pubDate>
+    </item>
     <item>
       <title>基于模式的假数据生成器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c6brk0/schema_based_fake_data_generator/</link>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 16 Apr 2024 13:16:58 GMT</pubDate>
     </item>
     <item>
-      <title>寻找适用于 Windows 的 OSS 防火墙/Netlimiter 替代品</title>
+      <title>寻找适用于 Windows 的 OSS 防火墙/Netlimiter 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1c53xnq/looking_for_oss_firewallnetlimiter_alternative/</link>
       <description><![CDATA[大家好， 我是 Netlimiter 的长期用户，但我并不热衷于订阅模式。 我正在寻找免费或只需一次性购买的替代品。我的要求非常简单： - 我希望应用程序提示我授予互联网访问权限，可以选择暂时或永久记住我的决定。  - 应用程序尝试连接到互联网时的 GUI 警报。 任何建议将不胜感激。 请记住，即时决策能力和每台计算机的控制是我认为 Netlimiter 最吸引人的地方。类似的动态功能将是理想的选择。 非常感谢！ &lt;3   由   提交 /u/MikeTheFox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c53xnq/looking_for_oss_firewallnetlimiter_alternative/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我为开源 CLI 启动器 picomc 制作了一个 GUI，以便于使用，我认为它运行得很好，我很乐意有人来测试它！&lt; /p&gt; 它被称为“picodulce”，是为了纪念一种阿根廷糖果，也因为它是世界上最“甜”的糖果。使用picomc的方式 ​ https://github.com/nixietab /picodulce   由   提交/u/shucture  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4li51/i_made_a_gpl_minecraft_launcher/</guid>
       <pubDate>Mon, 15 Apr 2024 12:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neverest，一个用于同步、备份和恢复电子邮件的 CLI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c4jee3/neverest_a_cli_to_synchronize_backup_and_restore/</link>
-      <description><![CDATA[       由   提交/u/soywod  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c4jee3/neverest_a_cli_to_synchronize_backup_and_restore/</guid>
-      <pubDate>Mon, 15 Apr 2024 11:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Laravel 10 管理模板 - Sneat</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c4j3ba/open_source_laravel_10_admin_template_sneat/</link>
-      <description><![CDATA[ 由   提交/u/00ProBoy00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c4j3ba/open_source_laravel_10_admin_template_sneat/</guid>
-      <pubDate>Mon, 15 Apr 2024 10:44:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
