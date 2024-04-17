@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 01:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:20:27 GMT</lastBuildDate>
     <item>
       <title>开源轻量级 PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5qbsv/opensource_lightweight_pdf_reader/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>本地发送新手</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</link>
-      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我旅馆的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
+      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我宿舍的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</guid>
       <pubDate>Tue, 16 Apr 2024 14:12:57 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Mon, 15 Apr 2024 16:39:50 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 GPL Minecraft 启动器！！</title>
+      <title>我做了一个 GPL Minecraft 启动器！！</title>
       <link>https://www.reddit.com/r/opensource/comments/1c4li51/i_made_a_gpl_minecraft_launcher/</link>
       <description><![CDATA[我为开源 CLI 启动器 picomc 制作了一个 GUI，以便于使用，我认为它运行得很好，我很乐意有人来测试它！&lt; /p&gt; 它被称为“picodulce”，是为了纪念一种阿根廷糖果，也因为它是世界上最“甜”的糖果。使用picomc的方式 ​ https://github.com/nixietab /picodulce   由   提交/u/shucture  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4li51/i_made_a_gpl_minecraft_launcher/</guid>
