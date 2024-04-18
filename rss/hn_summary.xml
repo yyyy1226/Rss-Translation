@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:19:08 GMT</lastBuildDate>
     <item>
-      <title>我试图复制 Chinchilla 论文的发现，但发现了一些差异 [...]</title>
-      <link>https://t.me/hn_summary/85065</link>
-      <description><![CDATA[尝试复制龙猫纸并发现差异
-我试图复制 Chinchilla 论文的研究结果，但发现了一些差异，引发了对原始研究有效性的质疑。结果与预期不符，导致人们对所提供数据的准确性产生担忧。这一发现凸显了科学研究中彻底重复研究的重要性。请继续关注最新动态，我们将深入研究这一争议，并努力揭开龙猫论文背后的真相。 #scientificresearch #replicationstudy #controversy]]></description>
-      <guid>https://t.me/hn_summary/85065</guid>
-      <pubDate>Wed, 17 Apr 2024 21:16:48 GMT</pubDate>
+      <title>[媒体]“rHttp”项目是终端中 HTTP 请求的 REPL，提供轻量级 [...]</title>
+      <link>https://t.me/hn_summary/85123</link>
+      <description><![CDATA[RHttp：HTTP 的 REPL
+“rHttp”项目是一个用于终端中 HTTP 请求的 REPL，为 Postman、Insomnia、httpie 和 curl 等工具提供了轻量级、简单且快速的替代方案。它允许轻松操作请求 cookie、标头、参数和表单值以及 JSON 请求负载。该项目的与众不同之处在于专注于最小的魔力和透明度，没有取代现有工具的雄心勃勃的目标。功能包括 https 和 http/2 支持、自动跟踪重定向、响应正文的语法突出显示以及会话保存/加载。该项目正在积极开发中，具有用于各种操作的按键绑定和用于编辑 JSON 有效负载的迷你编辑器。]]></description>
+      <guid>https://t.me/hn_summary/85123</guid>
+      <pubDate>Thu, 18 Apr 2024 03:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]比尔·福特在底特律自由报“早餐俱乐部”活动中谈到了转型 [...]</title>
-      <link>https://t.me/hn_summary/85064</link>
-      <description><![CDATA[比尔·福特：密歇根中央车站不仅仅是一场修复，更是一场战争人才
-比尔·福特在底特律自由报“早餐俱乐部”活动中谈到将密歇根中央车站转变为未来交通枢纽，旨在吸引人才并振兴底特律。他强调了真正领导力的重要性以及汽车行业面临的挑战，包括向电动和自动驾驶汽车的过渡。福特强调了该公司对混合动力汽车和自动驾驶技术逐步整合的承诺。尽管行业发生了变化，福特仍然致力于生产野马并激励学生追求自己的激情。他赞扬底特律的社区精神，并敦促继续努力改善该地区。]]></description>
-      <guid>https://t.me/hn_summary/85064</guid>
-      <pubDate>Wed, 17 Apr 2024 21:15:45 GMT</pubDate>
+      <title>[媒体] WebSocketStream API 将流与 WebSocket 协议集成在一起，允许 b [...]</title>
+      <link>https://t.me/hn_summary/85122</link>
+      <description><![CDATA[WebSocketStream API
+WebSocketStream API 将流与 WebSocket 协议集成，允许轻松应用背压。这解决了处理消息过快或过慢的问题，防止内存溢出和无响应。该 API 是基于 Promise 的，因此在现代 JavaScript 中易于使用。高级功能包括协议选择和处理封闭连接。目前仅在 Chrome 中可用，鼓励对 API 设计和实现提供反馈。通过使用 API 并分享您的经验来表达对 API 的支持。由 Adam Rice 和 Yutaka Hirano 开发，英雄形象由 Daan Mooij 设计。 #WebSocketStream。]]></description>
+      <guid>https://t.me/hn_summary/85122</guid>
+      <pubDate>Thu, 18 Apr 2024 03:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]CFPB 已对编码训练营 BloomTech 及其首席执行官 Austen Allred 采取行动 [...]</title>
-      <link>https://t.me/hn_summary/85063</link>
-      <description><![CDATA[CFPB 对编程训练营 BloomTech 及其首席执行官 Austen Allred 采取行动
-CFPB 已对 BloomTech 编程训练营及其首席执行官 Austen Allred 采取行动，因为他们在贷款成本和就业率方面欺骗学生。 BloomTech 错误地将收入分享协议宣传为无风险，而实际上这些协议是带有财务费用的贷款。该公司还通过夸大的就业安置率误导了学生。 CFPB 的命令禁止 BloomTech 从事消费者贷款活动，要求更改贷款条款，并处以民事处罚。该案例凸显了收入分享协议的风险以及学生贷款透明度的重要性。请访问 www.consumerfinance.gov 了解有关消费金融的更多信息保护。]]></description>
-      <guid>https://t.me/hn_summary/85063</guid>
-      <pubDate>Wed, 17 Apr 2024 21:14:42 GMT</pubDate>
+      <title>[媒体] Bencher（领先的连续基准测试工具）的作者发现他们的 p [...]</title>
+      <link>https://t.me/hn_summary/85121</link>
+      <description><![CDATA[为什么 SQLite 性能调优使 Bencher 速度提高了 1200 倍
+摘要：
+Bencher（领先的连续基准测试工具）的作者发现他们的性能慢得令人尴尬，并决定进行调查。通过进行各种性能改进，包括重构 Reports API 和限制数据库句柄，他们能够使 Bencher 速度提高 1200 倍。作者还首次深入研究了 SQLite 数据库的分析，并优化了 ORM Diesel 生成的 SQL 查询。令人惊讶的方面是通过这些调整工作实现了显着的性能改进。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85121</guid>
+      <pubDate>Thu, 18 Apr 2024 02:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]MCC 的 Cyc 项目是构建单一智能代理的突破性努力 [...]</title>
-      <link>https://t.me/hn_summary/85062</link>
-      <description><![CDATA[Cyc：历史被遗忘的人工智能项目
-MCC 的 Cyc 项目是一项开创性的工作，旨在构建一个具有丰富的专家系统和机器学习知识库的智能代理。尽管取得了令人瞩目的成就，Cyc 却被较新的机器学习算法所掩盖。该项目由 Doug Lenat 领导，旨在创建一个共享常识知识库，以增强推理能力。 Cyc 的知识库包括 2500 万条规则和 150 万个概念，并配有专门的推理引擎。虽然 Cyc 并没有像人们希望的那样彻底改变人工智能，但它仍然是一个在面对不断变化的技术时付出巨大努力的警示故事。集成 Cyc-LLM 系统的潜力为未来提供了新的可能性。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85062</guid>
-      <pubDate>Wed, 17 Apr 2024 21:08:37 GMT</pubDate>
+      <title>美国的年轻农民正在精疲力尽。</title>
+      <link>https://t.me/hn_summary/85120</link>
+      <description><![CDATA[美国的年轻农民正在精疲力竭。我也辞职了
+在深刻反思美国年轻农民所面临的挑战时，作者分享了斯科特·张·弗利曼 (Scott Chang-Fleeman) 的故事，这位农民最近因精疲力尽而决定离开土地。尽管取得了初步成功，张·弗利曼的旅程仍面临着财务压力、严重干旱和全球大流行的影响。故事揭示了许多年轻农民面临的心理健康困境，强调需要结构性支持和政策变化，以确保他们在该行业的福祉和可持续性。随着《农业法案》的临近，作者主张采取真正的解决方案来解决年轻农民面临的经济、身体和精神挑战，并强调确保美国农业未来的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85120</guid>
+      <pubDate>Thu, 18 Apr 2024 02:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] NPR 高级商业编辑 Uri Berliner 辞去 NPR 职务，理由是新的回应 [...]</title>
-      <link>https://t.me/hn_summary/85061</link>
-      <description><![CDATA[NPR 编辑 Uri Berliner 因新任首席执行官的猛烈辞职 
-NPR 高级商业编辑 Uri Berliner 从 NPR 辞职，理由是新任首席执行官凯瑟琳·马赫 (Katherine Maher) 对他指责 NPR 失去公众信任的文章的回应。柏林纳的批评在网络内引发了争议，一些同事表达了愤怒和沮丧，而另一些同事则私下承认他的担忧是真实的。马赫的言论和柏林纳的辞职引发了要求马赫下台和取消对 NPR 的资助的呼声，尽管柏林本人并不支持此类呼吁。这种情况促使 NPR 宣布每月对报道的公平性和多样性进行审查，包括观点的多样性。]]></description>
-      <guid>https://t.me/hn_summary/85061</guid>
-      <pubDate>Wed, 17 Apr 2024 20:52:29 GMT</pubDate>
+      <title>[媒体]在微软研究院，我们很高兴推出 Vasa-1，这是一项突破性技术 [...]</title>
+      <link>https://t.me/hn_summary/85119</link>
+      <description><![CDATA[Vasa-1：实时生成逼真的音频驱动的说话面孔
+在 Microsoft Research，我们很高兴推出 Vasa-1，这是一项突破性技术，可以实时创建逼真的音频驱动的说话面孔。通过将尖端人工智能算法与先进的音频处理技术相结合，Vasa-1 可以生成与口语完美同步的逼真的面部表情和动作。这项创新为互动交流和娱乐开辟了无限的可能性，彻底改变了我们与虚拟角色和化身互动的方式。通过 Vasa-1 体验人机交互的未来，现实与虚拟之间的界限在令人着迷的技术和创造力展示中变得模糊。]]></description>
+      <guid>https://t.me/hn_summary/85119</guid>
+      <pubDate>Thu, 18 Apr 2024 02:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，其灵感来自 [...]</title>
-      <link>https://t.me/hn_summary/85060</link>
-      <description><![CDATA[Gecko Robotics 通过一个大学项目创建了一家价值 6 亿美元的公司
-Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，灵感来自于他在哥斯达黎加看到的一只壁虎。该公司目前价值超过 6 亿美元，生产爬墙机器人，用于检查基础设施是否存在生锈和腐蚀等缺陷。 Gecko 最近筹集了 1 亿美元来扩大其国防技术业务。尽管面临挑战并几乎放弃，卢萨瑞安的坚持得到了回报。 Gecko 的机器人有助于防止结构发生灾难性故障，重点是预测性维护。该公司的成功故事凸显了在基础设施问题成为重大问题之前解决它们的重要性。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85060</guid>
-      <pubDate>Wed, 17 Apr 2024 20:49:25 GMT</pubDate>
+      <title>[媒体]美国宇航局的聪明号火星直升机已经完成了在这颗红色星球上的最后一次飞行，[...]</title>
+      <link>https://t.me/hn_summary/85118</link>
+      <description><![CDATA[聪明才智为人类提供了最后的礼物，但我们必须去火星去拿吧
+美国宇航局的“聪明号”火星直升机已经完成了在这颗红色星球上的最后一次飞行，收集了可能有利于未来火星任务的宝贵数据。尽管因迫降而结束了任务，“独创”号仍将继续在火星的维林诺山收集数据，直到失去电力或存储空间，这可能会持续 20 年。这些数据不会被发送回地球，需要未来的火星车辆或宇航员来检索。来自“独创性”的最后一份礼物有可能提供对火星天气模式和尘埃运动的深入了解，使该任务尽管面临挑战，但仍取得历史性的成功。]]></description>
+      <guid>https://t.me/hn_summary/85118</guid>
+      <pubDate>Thu, 18 Apr 2024 02:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《自然》杂志最近发表的一项研究中，研究人员发现 cl 的经济成本 [...]</title>
-      <link>https://t.me/hn_summary/85059</link>
-      <description><![CDATA[到 2050 年，气候损失将是限制变暖成本的 6 倍2°
-在最近发表在《自然》杂志上的一项研究中，研究人员发现，到 2050 年，气候损害的经济成本将比将升温限制在 2°C 的估计成本高出六倍。这种实证方法分析了全球 1,600 多个地区在 2050 年的经济表现。过去 40 年，将气温变化和极端降雨等气候事件与经济影响联系起来。该研究强调，迫切需要采取行动减缓气候变化，因为全球经济已经致力于导致严重变暖，这将产生不利影响。这项研究对当前关于应对气候变化的成本和效益的争论提出了挑战，强调了立即采取行动的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85059</guid>
-      <pubDate>Wed, 17 Apr 2024 20:48:21 GMT</pubDate>
+      <title>[媒体]最高法院决定不审查第一修正案的大规模抗议权利 [...]</title>
+      <link>https://t.me/hn_summary/85117</link>
+      <description><![CDATA[最高法院拒绝审查第一修正案大规模抗议权利案件 
+最高法院决定不审查第一修正案大规模抗议权利案件，这对德克萨斯州、密西西比州和路易斯安那州的抗议权利具有重大影响。这起案件是由一名在抗议期间受伤的警察提起的，目标是“黑人生命也是命”活动家德雷·麦克森。第五巡回上诉法院推翻了下级法院的裁决，允许该警官对麦克森提出的索赔继续进行，限制了第一修正案的保护并危及抗议权。麦克森认为，尽管此类诉讼产生了寒蝉效应，但宪法仍然保护抗议权。该决定凸显了捍卫独立新闻业的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85117</guid>
+      <pubDate>Thu, 18 Apr 2024 02:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tik Tok 用户@captian.ad 的 Tesla Cyber​​truck 在一次事件后遇到了一些意想不到的麻烦 [...]</title>
-      <link>https://t.me/hn_summary/85058</link>
-      <description><![CDATA[特斯拉 Cyber​​truck 不适合洗车
-Tik Tok 用户 @captian.ad 的 Tesla Cyber​​truck 在去洗车店后遇到了一些意想不到的麻烦。卡车神秘地停止工作，给车主留下黑屏和无反应的控制装置。在联系特斯拉并等待了五个多小时后，卡车终于重新启动并恢复了大部分功能。目前尚不清楚是什么原因导致了这个问题，但车主确实提到了遵循手册说明的重要性，包括使用“洗车模式”以避免损坏。这一事件对 Cyber​​truck 车主来说是一个警示——也许先不要洗你的卡车，直到你确定它不会让你滞留几个小时。]]></description>
-      <guid>https://t.me/hn_summary/85058</guid>
-      <pubDate>Wed, 17 Apr 2024 20:34:13 GMT</pubDate>
+      <title>[媒体] 澳大利亚悉尼星赌场的软件故障导致无意中赠品 [...]</title>
+      <link>https://t.me/hn_summary/85116</link>
+      <description><![CDATA[软件故障导致澳大利亚赌场白送数百万现金 
+澳大利亚悉尼 Star Casino 的一次软件故障导致 TICO 机器无意中泄露了数百万现金。该故障使得赌徒可以多次兑换同一张收据，导致几周内就有 205 万美元被送走。赌场对此问题的回应受到批评，人们担心缺乏控制和监督。调查还揭示了该赌场合规措施的失败，包括财富来源检查不完整以及分析师提供的信息不足。围绕赠品的争议和赌场的合规问题引发了对其运营的严重担忧。]]></description>
+      <guid>https://t.me/hn_summary/85116</guid>
+      <pubDate>Thu, 18 Apr 2024 02:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>高速贸易公司 Jane Street 的利润大幅增长，达到 44 亿美元 [...]</title>
-      <link>https://t.me/hn_summary/85057</link>
-      <description><![CDATA[高速交易员 Jane Street 在 2024 年初赚了 4.4B 美元
-高速交易公司 Jane Street 的利润大幅增长，到 2024 年初就达到了 44 亿美元。该公司的成功凸显了当今市场高频交易的利润丰厚的本质。凭借专家分析和行业领先的新闻报道，《金融时报》提供了对金融和商业世界的独家见解。立即订阅以获取完整的数字访问权限，并随时了解全球新闻、专家意见、专题报道等。不要错过通过预付一年的优质内容来节省 20% 的机会。]]></description>
-      <guid>https://t.me/hn_summary/85057</guid>
-      <pubDate>Wed, 17 Apr 2024 20:18:06 GMT</pubDate>
+      <title>想深入研究语音世界吗？</title>
+      <link>https://t.me/hn_summary/85115</link>
+      <description><![CDATA[Praat：用计算机做语音
+想深入研究语音世界吗？ Praat 就是您的最佳选择，这是一款专为语音分析而设计的计算机程序。 Praat 适用于 Macintosh、Windows、Linux 等，提供丰富的手册、教程和初学者指南来帮助您入门。 Praat 由阿姆斯特丹大学的 Paul Boersma 和 David Weenink 开发，是分析语音的强大工具。需要帮助或有疑问吗？升级到最新版本，查看用户组，或直接联系创建者。有了 Praat，语音世界触手可及。]]></description>
+      <guid>https://t.me/hn_summary/85115</guid>
+      <pubDate>Thu, 18 Apr 2024 02:41:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]北京动力机械研究所和大连大学的中国科学家[...]</title>
-      <link>https://t.me/hn_summary/85056</link>
-      <description><![CDATA[科技战争：中国科学家操纵低成本人工智能芯片来供电高超音速武器
-来自北京动力机械研究所和大连理工大学的中国科学家已经装配了低成本的 Nvidia 人工智能芯片 TX2i，为高超音速武器提供动力。该芯片成本仅为数百美元，可显着提高高超音速飞行器的航程和稳定性，同时降低研发成本。该团队的创新 CPU 加 GPU 架构可实现顺序并行计算，这是以前认为低端 AI 芯片不可能完成的任务。虽然由于国内芯片制造商的原因，TX2i用于中国高超音速导弹的可能性较低，但该实验证明了将廉价的人工智能芯片用于高超音速武器的可行性。高超音速武器技术的扩散，包括在朝鲜和伊朗等国家的扩散，引起了美国的重大担忧，并可能改变全球军事力量平衡。]]></description>
-      <guid>https://t.me/hn_summary/85056</guid>
-      <pubDate>Wed, 17 Apr 2024 20:01:57 GMT</pubDate>
+      <title>[媒体]科学家发现了第一个已知的分形蛋白，谢尔宾斯基三角形帕特 [...]</title>
+      <link>https://t.me/hn_summary/85114</link>
+      <description><![CDATA[第一个已知的分形分子
+科学家们发现了第一个已知的分形蛋白，即在蓝细菌使用的酶中发现的谢尔宾斯基三角形图案。这种独特的结构类似于《塞尔达传说》的符号，被发现是一种进化事故，而且非常容易进化。该蛋白质的自组装是不对称的，形成了引人注目的分形结构。虽然这一数学奇迹的目的尚不清楚，但研究人员认为它可能只是偶然进化出来的，并没有特定的功能。这一发现开启了在自然界中发现更多分子分形的可能性。该研究发表在《自然》杂志上。]]></description>
+      <guid>https://t.me/hn_summary/85114</guid>
+      <pubDate>Thu, 18 Apr 2024 02:32:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

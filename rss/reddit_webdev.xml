@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 01:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:20:01 GMT</lastBuildDate>
+    <item>
+      <title>请给我一项应该立即实施的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6sl8p/please_give_me_one_suggestion_that_should_be/</link>
+      <description><![CDATA[Webdev 社区您好， 我正在构建我的第一个插件 calcykit 它可以帮助新手博主只需在页面中复制短代码即可将他们的普通 WordPress 网站转换为基于工具的网站。它更像是一个代码片段插件，但带有预构建的片段。  我需要一个应该立即完成的建议。    由   提交/u/dipak28  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6sl8p/please_give_me_one_suggestion_that_should_be/</guid>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您拥有哪些域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6renc/what_domain_names_do_you_own/</link>
+      <description><![CDATA[我只是好奇   由   提交 /u/Permatheus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6renc/what_domain_names_do_you_own/</guid>
+      <pubDate>Thu, 18 Apr 2024 01:41:43 GMT</pubDate>
+    </item>
     <item>
       <title>绝对是初学者的问题，但为什么我们需要一个 Web 服务器来在本地托管我们的前端应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6qsib/absolute_beginner_question_but_why_do_we_need_a/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>关于为饥饿服务托管多个子域的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</link>
-      <description><![CDATA[大家好，我已经托管了大约 65 个网站，包括数十个小型企业动态和登陆页面网站、多聊天室服务、本地个人简历资料、播客托管、评论、在线社区项目、本地谈话广播等等。一切都在当地议会和教育团体的协助下。 我想使用子域名在一个标题下重新命名所有服务。 由于所有网站目前都托管在 iBrave 上托管无限计划，到目前为止还没有出现任何停机时间或流量速度问题，但随着这些服务越来越受欢迎，这种情况将会改变，我确信 iBrave 会对我摇摇手指。 许多网站的广告涵盖了所有费用，因此合理的费用不应该成为问题。 许多网站都使用 Wordpress，少数使用 Joomla，但所有网站我希望在该品牌下提供的服务都将使用 Wordpress。使用子域可以轻松完成此操作吗？ 你们是否建议我构建一台服务器来管理流量和硬件需求（例如 PowerEdge R630），或者在线租用服务器？ 感谢您的帮助，我可以保证还会有更多问题。   由   提交 /u/Proper-Turnover-5537   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我已经托管了大约 65 个网站，包括数十个小型企业动态和登陆页面网站、多聊天室服务、本地个人简历资料、播客托管、评论、在线社区项目、本地谈话广播等等。一切都在当地议会和教育团体的协助下。 我想使用子域名在一个标题下重新命名所有服务。 由于所有网站目前都托管在 iBrave 上托管无限计划，到目前为止还没有出现任何停机时间或流量速度问题，但随着这些服务越来越受欢迎，这种情况将会改变，我确信 iBrave 会对我摇摇手指。 许多网站的广告涵盖了所有费用，因此合理的费用不应该成为问题。 许多网站都使用 Wordpress，少数使用 Joomla，但所有网站我希望在该品牌下的所有服务都将使用 Wordpress。使用子域可以轻松完成此操作吗？ 你们是否建议我构建一台服务器来管理流量和硬件需求（例如 PowerEdge R630），或者在线租用服务器？ 感谢您的帮助，我可以保证还会有更多问题。   由   提交 /u/Proper-Turnover-5537   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</guid>
       <pubDate>Wed, 17 Apr 2024 20:53:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我尝试四处搜索，但找不到任何真正符合我想要查找的内容，我试图看看是否存在类似github/amazon 托管的组合，您实际上可以使用真正的 html、css 和 js 文件，但也类似于 webflow，因此不懂代码的人也可以在网站上工作，而无需依赖那些懂代码的人更改。   由   提交/u/mjlol73  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6kmyg/searching_for_website_hosting_for_both/</guid>
       <pubDate>Wed, 17 Apr 2024 20:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>肉包网站问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6kh5n/porkbun_site_issues/</link>
-      <description><![CDATA[有人对猪肉包有疑问吗？比如登录后必须再次登录，有时还要再次登录，或者网站在付款处理过程中永远挂起？我在加拿大，没有使用 VPN，如果这有什么区别的话。除了这些问题之外，这很好。谢谢。    由   提交 /u/TheFarSea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6kh5n/porkbun_site_issues/</guid>
-      <pubDate>Wed, 17 Apr 2024 20:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们有自己的网站模板吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6ke8g/do_you_guys_have_website_templates_for_yourselves/</link>
-      <description><![CDATA[我只是问自己为什么每次都从头开始重新做所有事情。 我正在考虑拥有一个非常结构良好且模块化的模板，从现在起我将一直使用它，但我只是想知道这是否是标准做法，还是我目光短浅并最终导致问题。 By &quot; “模板”，我的意思是有一个字面上的网站骨架。如果我只是替换与其交互的 API 链接并更改文本，所有组件都已创建并设置为工作。 因此，每当我有网站想法时，我只需启动该模板并禁用我不想使用组件（或者根据需要添加新组件），但 80% 的工作已经完成。   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6ke8g/do_you_guys_have_website_templates_for_yourselves/</guid>
-      <pubDate>Wed, 17 Apr 2024 20:32:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
