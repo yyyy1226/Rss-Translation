@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>帖子 IndieHackers</title>
+    <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 18 Apr 2024 21:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 01:18:39 GMT</lastBuildDate>
     <item>
       <title>您的团队使用 PagerDuty 和 Slack 吗？对我们的 v1 有任何反馈吗？</title>
       <link>https://feed.indiehackers.world/post/f134f0ce12</link>
@@ -102,7 +102,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>宣布 BrickDropCo</title>
       <link>https://feed.indiehackers.world/post/1b756aecbd</link>
-      <description><![CDATA[我的妻子将于 4 月 1 日推出一家新的初创公司 BrickDrop.co。她想到了租用乐高积木套装，让家庭更负担得起。经过研究，她了解了市场的规模，现在为儿童和成人提供支持。看到人们的反应，无论好坏，真是太疯狂了。因此，她寻求一些意见来帮助她成长。我的快速问题如下 -
+      <description><![CDATA[我的妻子将于 4 月 1 日推出一家新的初创公司 BrickDrop.co。她想到了租用乐高积木套装，让家庭更负担得起。经过研究，她了解了市场的规模，现在为儿童和成人提供支持。看到人们的反应，无论好坏，真是太疯狂了。因此，她寻求一些意见来帮助她成长。下面是我的快速问题 -
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1b756aecbd</guid>
       <pubDate>Sat, 30 Mar 2024 12:03:58 GMT</pubDate>
@@ -132,7 +132,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Wed, 27 Mar 2024 14:53:14 GMT</pubDate>
     </item>
     <item>
-      <title>OTP 预付还是 7 天 IAP OTP 试用？</title>
+      <title>OTP 预付还是 IAP OTP 7 天试用？</title>
       <link>https://feed.indiehackers.world/post/441c96e832</link>
       <description><![CDATA[我一直在考虑如何销售我的 iOS 版基于简约文本的启动器 Dumbify。
 选项是：
