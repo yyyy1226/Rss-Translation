@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 01:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 03:19:26 GMT</lastBuildDate>
     <item>
       <title>简单的视频编辑器可以从音频和图像文件创建视频吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c91pgn/simple_video_editor_to_create_videos_from_audio/</link>
@@ -71,7 +71,7 @@
     <item>
       <title>圣经经文参考图</title>
       <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
-      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</guid>
       <pubDate>Fri, 19 Apr 2024 21:32:33 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>PostgreSQL 会改变它的许可证吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7qj37/will_postgresql_ever_change_its_license/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7qj37/will_postgresql_ever_change_its_license/</guid>
       <pubDate>Fri, 19 Apr 2024 07:04:51 GMT</pubDate>
     </item>
