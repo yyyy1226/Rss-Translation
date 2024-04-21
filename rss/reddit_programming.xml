@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 21 Apr 2024 06:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 09:19:49 GMT</lastBuildDate>
+    <item>
+      <title>试图挽救计算机科学学位：找到我想从事的工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9dnvc/trying_to_salvage_a_cs_degree_finding_what_i_want/</link>
+      <description><![CDATA[简短版本 大约 4 年前，我作为计算机科学专业的一名大四学生退学，最近回来完成学业，并在本学期结束后完成了我的顶点课程。 回来后我还没有发现任何编程乐趣，可能已经失去了兴趣？然后，我再次尝试将编程视为一种工具，也许我需要专注于编程类型或我正在从事的工作，而不是编程本身。 有关如何了解您的工作的任何提示当你发现自己有时讨厌它或失去激情时，你真的喜欢它吗？如果是 udemy 课程或开始额外的项目？在为最后一堂课选择顶点之前，我想找到自己喜欢的东西，并且忘记了很多以前学过的东西。我所有的老朋友最终都获得了几乎不需要编码的技术职位，因此他们没有任何帮助，自从我最初上学以来，由于 chatgpt 和人工智能，初学者/入门级工作的格局已经发生了变化。您会建议我使用 chatgpt 来帮助我吗？ 感谢您的帮助。    由   提交/u/Dzeav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9dnvc/trying_to_salvage_a_cs_degree_finding_what_i_want/</guid>
+      <pubDate>Sun, 21 Apr 2024 09:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>regexp-it-cli @v3.0.0：命令行应用程序，通过具有大量功能的正则表达式从不同来源搜索文本</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9dnu1/regexpitcli_v300_command_line_application_to/</link>
+      <description><![CDATA[ 由   提交 /u/GlesCorpint   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9dnu1/regexpitcli_v300_command_line_application_to/</guid>
+      <pubDate>Sun, 21 Apr 2024 09:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>开闭原则|坚实的原则|底层设计（印地语）</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9dd3r/open_closed_principle_solid_principles_low_level/</link>
+      <description><![CDATA[ 由   提交 /u/Distinct-Curve-660   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9dd3r/open_closed_principle_solid_principles_low_level/</guid>
+      <pubDate>Sun, 21 Apr 2024 08:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 htop 上玩 Doom（Linux 进程查看器）</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9d1co/playing_doom_on_htop_linux_process_viewer/</link>
+      <description><![CDATA[ 由   提交/u/0x0mer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9d1co/playing_doom_on_htop_linux_process_viewer/</guid>
+      <pubDate>Sun, 21 Apr 2024 08:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>键入信息以实现更快的 Python C 扩展</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9bxya/type_information_for_faster_python_c_extensions/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9bxya/type_information_for_faster_python_c_extensions/</guid>
+      <pubDate>Sun, 21 Apr 2024 07:19:43 GMT</pubDate>
+    </item>
     <item>
       <title>想要开始新的职业生涯</title>
       <link>https://www.reddit.com/r/programming/comments/1c9amcw/wants_to_start_a_new_career/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>Rust 中的十六进制编码方法分析</title>
       <link>https://www.reddit.com/r/programming/comments/1c984zy/analysis_of_hex_encoding_approaches_in_rust/</link>
-      <description><![CDATA[  由    /u/Revolutionary_Gap887  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Revolutionary_Gap887  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c984zy/analysis_of_hex_encoding_approaches_in_rust/</guid>
       <pubDate>Sun, 21 Apr 2024 03:23:19 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>J8 表示法 - 修复 JSON-Unix 不匹配</title>
       <link>https://www.reddit.com/r/programming/comments/1c9449t/j8_notation_fixing_the_jsonunix_mismatch/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/alexeyr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9449t/j8_notation_fixing_the_jsonunix_mismatch/</guid>
       <pubDate>Sat, 20 Apr 2024 23:50:01 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/wizarddos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c8z61s/should_we_use_trialing_slash_in_html_elements/</guid>
       <pubDate>Sat, 20 Apr 2024 20:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法忍受使用 vscode 所以我自己写了（这并不容易）</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8yhll/i_cant_stand_using_vscode_so_i_wrote_my_own_it/</link>
-      <description><![CDATA[ 由   提交 /u/levodelellis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8yhll/i_cant_stand_using_vscode_so_i_wrote_my_own_it/</guid>
-      <pubDate>Sat, 20 Apr 2024 19:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>10x 工程师 vs -10x 负担</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8vbr9/10x_engineers_vs_10x_burdens/</link>
-      <description><![CDATA[ 由   提交 /u/bndrz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8vbr9/10x_engineers_vs_10x_burdens/</guid>
-      <pubDate>Sat, 20 Apr 2024 17:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>脉冲 - 就像您编码课程的健身追踪器一样！</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8swvu/pulse_like_a_fitness_tracker_for_your_coding/</link>
-      <description><![CDATA[ 由   提交/u/creativecreaturedev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8swvu/pulse_like_a_fitness_tracker_for_your_coding/</guid>
-      <pubDate>Sat, 20 Apr 2024 15:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>一行代码如何让数万个团队的 Swift 编译速度提高 50%</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8s7bk/how_one_line_of_code_led_to_50_faster_swift/</link>
-      <description><![CDATA[ 由   提交/u/FoxInTheRedBox  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8s7bk/how_one_line_of_code_led_to_50_faster_swift/</guid>
-      <pubDate>Sat, 20 Apr 2024 15:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程与数学好奇心</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8r7eo/programming_vs_mathematical_curiosity/</link>
-      <description><![CDATA[ 由   提交/u/epidemian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8r7eo/programming_vs_mathematical_curiosity/</guid>
-      <pubDate>Sat, 20 Apr 2024 14:23:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

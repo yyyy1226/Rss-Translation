@@ -3,10 +3,31 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 06:23:28 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 21 Apr 2024 09:18:42 GMT</lastBuildDate>
     <item>
-      <title>每日一分钟人工智能新闻 4/20/2024</title>
+      <title>ELI5 HuggingFace 拥有 100 万个 AI 模型。它是什么意思以及我或任何人可以用它们做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9cun6/eli5_huggingface_has_1m_ai_models_what_does_it/</link>
+      <description><![CDATA[是的，这是一个社区交叉，但我需要简单的解释。假设我正在攻读密斯特拉尔法学硕士。如果模型已经有了，那么训练和微调有什么作用呢？例如，我可以教它用 Mistral 以外的其他名字来介绍自己，并声称我取得了法学硕士学位吗？为什么有人要费心为开源 AI 模型开发 API 端点？ P.S.这篇文章的目的是帮助我自己和其他刚刚听说生成式人工智能和大型语言模型的人，在信息热潮中找到方法并了解“下一件大事”的基础知识。    由   提交/u/Leading_River_9148   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9cun6/eli5_huggingface_has_1m_ai_models_what_does_it/</guid>
+      <pubDate>Sun, 21 Apr 2024 08:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻量级（超快！）多文档摘要</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9bx7b/lightweight_super_fast_multidocument_summarization/</link>
+      <description><![CDATA[大家好！我正在寻求有关利用非常轻量级的 LLM（Gemma 等）或非 LLM 技术执行多文档摘要（la Perplexity）的建议。我们的目标是利用 Solr 或 Elasticsearch 等工具生成的片段来创建摘要，并且速度非常快！ 您能否建议任何可能适合此目的的库或方法？预先感谢您的帮助！   由   提交/u/bluzkluz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9bx7b/lightweight_super_fast_multidocument_summarization/</guid>
+      <pubDate>Sun, 21 Apr 2024 07:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有人用过 Hellogov.com 吗？对他们的服务有什么反馈吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9b5xc/has_anyone_here_used_hellogovcom_any_feedback_on/</link>
+      <description><![CDATA[大家好，  我想知道这个 subreddit 中是否有人使用过 HelloGov？这是一项利用人工智能获取护照等政府文件的服务。请注意，我说的是 hellogov.com，而不是 hellogov.us &gt; 这似乎有所不同。  欢迎任何反馈。   由   提交/u/redmage123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9b5xc/has_anyone_here_used_hellogovcom_any_feedback_on/</guid>
+      <pubDate>Sun, 21 Apr 2024 06:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 4 月 20 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c99f0j/oneminute_daily_ai_news_4202024/</link>
       <description><![CDATA[ Drake 在新曲目“Taylor Made”中再次嘲笑 Kendrick Lamar Freestyle&#39;，利用 AI 版本的 2Pac 和 Snoop Dogg。[1] Microsoft 本周进行了演示&lt; strong&gt;VASA–1，一个框架，用于创建人们通过静态图像、音频样本和文本脚本进行交谈的视频，并声称向公众发布太危险了。[2] OpenAI 竞标日本业务，开设东京办事处。[3] 三星“确认”Galaxy S25 将拥有更多Galaxy AI 的力量得益于 Google 的 Gemini Nano 2。[4] 每日一分钟 AI 新闻已经一周年了。[5] li&gt;  来源：https://bushaicave.com/2024/ 04/20/4-20-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c99f0j/oneminute_daily_ai_news_4202024/</guid>
@@ -20,13 +41,6 @@
       <pubDate>Sun, 21 Apr 2024 04:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>歌词是 A.I.生成的还是仅是 A.I. 的工具？ ？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_generated_or_is_it_only_the/</link>
-      <description><![CDATA[这个 YouTube 频道正在催生许多人工智能。每天歌曲。 只是好奇整个音频（包括歌词）是否是 A.I. ?? https://youtu.be/t4j7C94ZiLg?feature=shared   由   提交 /u/Sudden-Degree9839    reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_ generated_or_is_it_only_the/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c98npt/are_the_lyrics_ai_generated_or_is_it_only_the/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:53:58 GMT</pubDate>
-    </item>
-    <item>
       <title>AI会议转录+自动化工作流程</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c96h6y/ai_meeting_transcription_automated_workflow/</link>
       <description><![CDATA[大家好： 我进行了一些搜索，但找不到可以满足我的特定用例的特定应用程序。  实际上，我正在寻找一种人工智能，可以转录 Google Meet 会议并根据会议期间收到的提示自动启动工作流程。  例如，如果我提到“我们将在此次通话后向您发送一份入学调查问卷至 [电子邮件地址]”人工智能程序会自动向我提到的电子邮件地址发送一封预先填写的电子邮件，其中包含我的摄入调查问卷的链接。 或者，如果我提到我想安排跟进，该程序将自动发送一封电子邮件发送电子邮件以协调后续电话，交叉引用我的 Google 日历以了解我的空闲时间。 有什么事情吗？还是我期待太多？   由   提交/u/sueyourdealer  [链接] [评论]]]></description>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 21 Apr 2024 01:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>监管先进的人工智能体</title>
+      <title>监管先进的人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c95fxt/regulating_advanced_artificial_agents/</link>
       <description><![CDATA[这些家伙是不是读太多科幻小说了？ 这是《科学》杂志上的一篇文章，https://www.science.org/doi/10.1126/science.adl0625 他们担心人工智能会脱离人类通过欺骗或混淆的方式进行控制。 Dave 不能总是拔掉 Hal 的插头吗？   由   提交/u/CalTechie-55  /u/CalTechie-55 reddit.com/r/ArtificialInteligence/comments/1c95fxt/regulated_advanced_artificial_agents/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c95fxt/regulating_advanced_artificial_agents/</guid>
@@ -57,28 +71,14 @@
     <item>
       <title>西班牙语语音克隆</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c933d5/voice_cloning_in_spanish/</link>
-      <description><![CDATA[我的阿姨几周前去世了。她就像我的第二个母亲，在我母亲去世后照顾我和我的兄弟姐妹。我父亲已经94岁了，我们决定不让他知道我姨妈的通行证。他有几种严重的健康状况。我父亲是盲人，他们通过电话交流。他开始问为什么我姨妈没有给他打电话。我的兄弟姐妹们决定尝试克隆我阿姨的声音来传递短信并安慰我的父亲。 我尝试过用我阿姨的声音编辑视频来训练十一实验室，但结果并不接近。我阿姨只会说西班牙语，所有提供给模特的视频都是西班牙语。  你有什么建议吗？非常感谢您花时间阅读此消息，祝您好运。    由   提交/u/Motor_Guitar4336   [链接] [评论]]]></description>
+      <description><![CDATA[我的阿姨几周前去世了。她就像我的第二个母亲，在我母亲去世后照顾我和我的兄弟姐妹。我父亲已经94岁了，我们决定不让他知道我姨妈的通行证。他有几种严重的健康状况。我父亲是盲人，他们通过电话交流。他开始问为什么我姨妈没有给他打电话。我的兄弟姐妹决定尝试克隆我阿姨的声音来传递短信并安慰我的父亲。 我尝试过用我阿姨的声音编辑视频来训练十一实验室，但结果并不接近。我阿姨只会说西班牙语，所有提供给模特的视频都是西班牙语。  你有什么建议吗？非常感谢您花时间阅读此消息，祝您好运。    由   提交/u/Motor_Guitar4336   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c933d5/voice_cloning_in_spanish/</guid>
       <pubDate>Sat, 20 Apr 2024 23:01:36 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能汽车搜索</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c92q6k/ai_for_car_search/</link>
-      <description><![CDATA[是否有专门设计的人工智能，或者能够擅长在互联网上搜索我正在购买的特定卡车？ 我对跟踪经销商、价格、折扣和选项感到不知所措。只是希望有一个人工智能，我可以在其中输入我想要的选项，然后它会返回一些列出待售的卡车。   由   提交 /u/ur-_-m0m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c92q6k/ai_for_car_search/</guid>
-      <pubDate>Sat, 20 Apr 2024 22:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找编辑出版工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c9298x/looking_for_an_editorial_publishing_tool/</link>
-      <description><![CDATA[你好， 我正在 WordPress 上构建一个编辑网站，大部分都是列表文章 - 非常低调，但很简单读。  我使用人工智能来帮助格式化我的清单风格的帖子。我将通过自己编写大部分信息来输入所有信息，例如每个项目符号的顺序以及每个项目符号下的一点简介，然后让人工智能为我收紧并格式化它。 我正在寻找帮助我进行发布的工具（如果存在）。我知道这很广泛，但就像安排帖子一样简单，或者像我给人工智能提示，它为我撰写和发布文章一样深入。  我已经在 google 上搜索过这个 Reddit 子版块，但还没有看到太多关于此类程序的信息。任何信息都会很棒！谢谢！   由   提交/u/noconnostalgia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c9298x/looking_for_an_editorial_publishing_tool/</guid>
-      <pubDate>Sat, 20 Apr 2024 22:23:02 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能擅长破译语言吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c8zp8c/is_ai_good_at_deciphering_a_language/</link>
-      <description><![CDATA[比如，它可以用来翻译已死的书面语言吗？ 也许它们从头开始做得比我们喂食更好他们可以用象形文字和其他东西来表达我们认为某些事物的含义。 他们可以通过使用已知语言来测试他们在没有帮助的情况下破译语言的能力，然后对于未知语言，结果应该是相同的。  &gt;   由   提交/u/ajax333221  [链接] [评论]]]></description>
+      <description><![CDATA[比如，它可以用来翻译已死的书面语言吗？ 也许它们从头开始做得比我们喂食更好他们可以用象形文字和其他东西来表达我们认为某些事物的含义。 他们可以使用已知语言来测试他们在没有帮助的情况下破译语言的能力，然后对于未知语言，结果应该是相同的。  &gt;   由   提交/u/ajax333221  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c8zp8c/is_ai_good_at_deciphering_a_language/</guid>
       <pubDate>Sat, 20 Apr 2024 20:30:43 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都是可以接受的。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
