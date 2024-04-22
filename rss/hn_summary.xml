@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 18:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 21:16:36 GMT</lastBuildDate>
     <item>
-      <title>厌倦了周末被电子邮件轰炸？</title>
-      <link>https://t.me/hn_summary/85838</link>
-      <description><![CDATA[使用 Postfix 延迟电子邮件发送，度过一个轻松的周末&lt; br/&gt;
-厌倦了周末被电子邮件轰炸？了解如何在 Postfix 中实现“延迟到星期一”功能，让您的周末轻松愉快。了解 Postfix 中的不同队列以及如何使用保留队列来延迟电子邮件传送。探索 Postfix 查找表以及如何使用 SQLite 作为数据库来安排电子邮件发布。按照分步说明设置您自己的系统以延迟电子邮件发送并享受无压力的周末。请记住一些注意事项和未来的改进，以增强您的电子邮件管理系统。]]></description>
-      <guid>https://t.me/hn_summary/85838</guid>
-      <pubDate>Mon, 22 Apr 2024 18:22:34 GMT</pubDate>
+      <title>[媒体] 探索注定失败的珠穆朗玛峰登山者乔治·马洛里 (George Mallory) 的数字化信件集 [...]</title>
+      <link>https://t.me/hn_summary/85875</link>
+      <description><![CDATA[探索珠穆朗玛峰登山者的家书数字化收藏 
+探索注定失败的珠穆朗玛峰登山者乔治·马洛里 (George Mallory) 的数字化家信集，让您一睹他的生活和冒险经历。马洛里以其名言“因为它就在那里”而闻名，他于 1924 年与年轻工程师桑迪·欧文一起在山上失踪。该收藏包括他写给妻子露丝的辛酸信件、他战时经历的细节以及他之前的珠穆朗玛峰探险活动。马洛里在他命运攸关的登顶尝试之前的最后一封信揭示了他的决心和对家人的爱。这些信件的发现揭示了这个传奇背后的人以及他在世界最高峰的悲惨结局。]]></description>
+      <guid>https://t.me/hn_summary/85875</guid>
+      <pubDate>Mon, 22 Apr 2024 21:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在当今竞争激烈的科技就业市场中，提供无缝且无摩擦的候选人[...]</title>
-      <link>https://t.me/hn_summary/85837</link>
-      <description><![CDATA[科技雇主可以用来改善候选人体验的电子商务策略&lt; /a&gt;
-在当今竞争激烈的科技就业市场中，提供无缝、无摩擦的候选人体验对于吸引和留住顶尖人才至关重要。通过采用电子商务最佳实践，例如简化申请流程和利用适合移动设备的设计，雇主可以简化招聘流程并提高与合格候选人的互动。人工智能工具可以自动执行申请状态通知和安排面试等任务，同时提供多种客户服务选项可以增强整体候选人体验。与 Checkr 合作进行快速、准确的背景调查可以进一步支持合规性并加快招聘流程。在当今快节奏的行业中，提供顺畅的候选人旅程是吸引顶级技术候选人的关键。]]></description>
-      <guid>https://t.me/hn_summary/85837</guid>
-      <pubDate>Mon, 22 Apr 2024 18:09:26 GMT</pubDate>
+      <title>在一场与时间的悲惨赛跑中，作者和他的搭档贝丝在复杂的世界中航行 [...]</title>
+      <link>https://t.me/hn_summary/85874</link>
+      <description><![CDATA[临床试验的情感考验：就像网上约会有死亡风险&lt; /a&gt;
+在一场与时间的悲惨赛跑中，作者和他的伴侣贝丝在复杂的临床试验世界中航行，他们拼命寻找新的治疗方法来对抗作者的侵袭性癌症。当他们遇到意外的延误、信息冲突和令人困惑的资格标准时，原本准备充分的战略计划很快就会崩溃。作者的坦率叙述揭示了医疗保健系统中的情感损失以及寻找挽救生命的治疗方法的高风险。尽管遭遇挫折和疲惫，他们仍坚持追求希望和生存。这个故事强调了临床试验的挑战和复杂性，将这种体验比作一场高风险的在线约会游戏，并增加了死亡风险。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85874</guid>
+      <pubDate>Mon, 22 Apr 2024 21:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>我们对 2024 年人工智能代理架构的调查研究提供了对 cu [...]</title>
-      <link>https://t.me/hn_summary/85836</link>
-      <description><![CDATA[AI Agent架构调查研究（2024）&lt; br/&gt;
-我们对 2024 年人工智能代理架构的调查研究提供了对人工智能系统当前格局的全面概述。我们分析各种架构，例如基于规则的、神经网络和混合模型，突出它们的优点和缺点。令人惊讶的是，我们发现将基于规则的最佳方法与神经网络方法相结合的混合模型的趋势不断增长。有争议的是，一些专家认为这些混合模型可能缺乏透明度和可解释性，引发道德担忧。我们的研究揭示了人工智能代理架构不断发展的领域以及它们在不久的将来带来的挑战和机遇。]]></description>
-      <guid>https://t.me/hn_summary/85836</guid>
-      <pubDate>Mon, 22 Apr 2024 18:08:21 GMT</pubDate>
+      <title>[媒体]在《战争祈祷》中，作者生动地描述了周围的热情和兴奋……</title>
+      <link>https://t.me/hn_summary/85873</link>
+      <description><![CDATA[战争祈祷
+在《战争祈祷》中，作者生动地描述了战争的热烈和激动，充满了爱国热情和对胜利的祈祷。一位神秘的陌生人打断了祈祷，揭示了这种对胜利的要求所带来的未言明的后果，描绘了一幅战争真实代价的令人难忘的画面。陌生人的信息挑战观众考虑他们的祈祷的全部含义，强调冲突伴随的经常被忽视的破坏和痛苦。这篇发人深省的文章深入探讨了战争的复杂性及其带来的道德困境，让读者质疑他们祈祷胜利的真正本质。]]></description>
+      <guid>https://t.me/hn_summary/85873</guid>
+      <pubDate>Mon, 22 Apr 2024 21:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>A24 的新人工智能生成的“内战”广告由于具有误导性而引发争议 [...]</title>
-      <link>https://t.me/hn_summary/85835</link>
-      <description><![CDATA[A24 的新 AI 生成“内战”广告引发争议
-A24 的新人工智能生成的“内战”广告引发了争议，因为影片中实际上没有的图像具有误导性。人工智能技术的使用也引起了强烈反对，一些人指出海报中存在地理和地标错误。尽管存在争议，但这部电影的票房表现良好，吸引了多元化的观众。随着影片进入第二个周末，该营销活动在网上引起了热议，由导演亚历克斯·加兰（Alex Garland）执导，他因在《机械姬》中讲述人工智能的警示故事而闻名。]]></description>
-      <guid>https://t.me/hn_summary/85835</guid>
-      <pubDate>Mon, 22 Apr 2024 18:07:17 GMT</pubDate>
+      <title>[媒体]您是否感到被生活困住，缺乏对自己命运的洞察力和掌控力？</title>
+      <link>https://t.me/hn_summary/85872</link>
+      <description><![CDATA[生活是一场游戏，你可以通过学习这些规则来学习
+您是否感到被生活困住，缺乏对命运的洞察力和控制力？你不是一个人。生活的游戏就在我们身边，是时候学习规则了。通过了解游戏化的原理并将其应用到现实生活中，您可以将挑战转化为等待解决的令人兴奋的谜题。从创造你的角色到培养毅力和追求持续成长，这些规则将帮助你成为最好的玩家。请记住，虽然作弊代码可能会带来立竿见影的效果，但它们通常也有缺点。因此，选择真实地玩人生游戏并赢得胜利。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85872</guid>
+      <pubDate>Mon, 22 Apr 2024 21:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国家咖啡协会 (NCA) 报告称，每日咖啡消费量 [...]</title>
-      <link>https://t.me/hn_summary/85834</link>
-      <description><![CDATA[每日咖啡消费量创 20 年来新高
-美国咖啡协会 (NCA) 报告称，美国成年人每日咖啡消费量达到 20 年来的最高水平，67% 的成年人在过去一天喝过咖啡。这一增长是由 25 岁及以上的消费者推动的，其中 60 岁及以上的消费者增幅最大。精品咖啡的消费量也显着增长，其中以浓缩咖啡为基础的饮料处于领先地位。即饮咖啡已成为第三大最受欢迎的制备方法，受欢迎程度几乎翻了一番。 NCA 总裁兼首席执行官 William“Bill”Murray 将这种增长归因于咖啡的持久受欢迎程度和创新能力。]]></description>
-      <guid>https://t.me/hn_summary/85834</guid>
-      <pubDate>Mon, 22 Apr 2024 18:02:11 GMT</pubDate>
+      <title>在阿尔斯特拉解决方案有限公司</title>
+      <link>https://t.me/hn_summary/85871</link>
+      <description><![CDATA[.ngo.us 注册机构：慈善机构和非营利组织的免费域名&lt; /a&gt;
+在 Alstra Solutions Ltd.，我们很自豪能够向全球非营利组织提供免费的 .ngo.us 域名和子域名。我们的使命是减轻非营利组织域名注册的财务负担，使他们能够增强在线形象并覆盖更多人。虽然为防止滥用，自助注册需支付 5 美元的年费，但非营利组织可以轻松注册、向我们发送电子邮件并获得免费注册和续订子域名的积分。我们敦促所有用户负责任地使用这项服务，并支持我们帮助非营利组织在线发展的举措。加入我们，为非营利社区做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/85871</guid>
+      <pubDate>Mon, 22 Apr 2024 21:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>乐鑫系统公司 (Espressif Systems) 收购了 M5Stack 的多数股权，此举标志着 [...]</title>
-      <link>https://t.me/hn_summary/85833</link>
-      <description><![CDATA[乐鑫收购 M5Stack 多数股权
-乐鑫系统公司收购了 M5Stack 的多数股权，此举对于两家公司在物联网和嵌入式系统领域来说都是一个重要的里程碑。此次合作旨在通过 M5Stack 的创新硬件开发和开源平台简化物联网解决方案，实现 AIoT 技术的民主化。此次合作利用乐鑫的 ESP32 系列芯片和 M5Stack 的多样化产品系列来提高部署效率。乐鑫最近在 2024 年第一季度取得的财务成功进一步巩固了其在行业中的地位。此次收购体现了乐鑫致力于通过战略合作伙伴关系构建强大的物联网解决方案生态系统的承诺。]]></description>
-      <guid>https://t.me/hn_summary/85833</guid>
-      <pubDate>Mon, 22 Apr 2024 17:52:04 GMT</pubDate>
+      <title>国家追查和起诉网上儿童性剥削的系统已经结束 [...]</title>
+      <link>https://t.me/hn_summary/85870</link>
+      <description><![CDATA[人工智能将使在线儿童性虐待问题变得更加严重&lt; /a&gt;
+该国追踪和起诉网上儿童性剥削的系统已经不堪重负，只有 5% 至 8% 的报告导致逮捕。斯坦福互联网观察站警告说，人工智能生成的儿童性虐待材料（CSAM）可能会掩盖实际的虐待内容，从而转移真正有需要的儿童的资源。该报告呼吁增加对 Cyber​​Tipline 的资助，澄清有关人工智能生成的 CSAM 的法律，并对执法部门进行调查 CSAM 报告的培训。虽然该报告并未认可《儿童在线安全法案》，但它与参议院去年 12 月通过的《报告法案》中的条款一致。失踪和受虐儿童中心赞赏报告的建议。]]></description>
+      <guid>https://t.me/hn_summary/85870</guid>
+      <pubDate>Mon, 22 Apr 2024 21:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]二氧化碳水平达到了新的里程碑，全球温室气体水平 [...]</title>
-      <link>https://t.me/hn_summary/85832</link>
-      <description><![CDATA[二氧化碳水平已跨越新的里程碑
-二氧化碳水平已达到新的里程碑，全球温室气体水平到 2023 年将上升至百万分之 419，比工业革命前增加约 50%。这种增长归因于燃烧化石燃料和其他人类活动。二氧化碳水平的上升导致气候进一步变暖，去年是有记录以来最热的一年。气候科学家强调需要实现零排放，将全球变暖限制在 1.5 摄氏度。尽管清洁能源投资和可再生能源产量不断增加，但将排放量减少到零的挑战仍然艰巨。]]></description>
-      <guid>https://t.me/hn_summary/85832</guid>
-      <pubDate>Mon, 22 Apr 2024 17:50:59 GMT</pubDate>
+      <title>Reddit 目前正在经历中断，尽管他们的状态页面声称一切正常 [...]</title>
+      <link>https://t.me/hn_summary/85869</link>
+      <description><![CDATA[告诉 HN：Reddit 似乎出现故障 
+Reddit 目前正经历中断，尽管其状态页面声称一切运行顺利。 DownDetector 正在报告该网站的问题，这与 Reddit 的官方声明相矛盾。这种差异让用户在难以访问这个流行平台时感到困惑和沮丧。请继续关注这一意外事件的最新动态。]]></description>
+      <guid>https://t.me/hn_summary/85869</guid>
+      <pubDate>Mon, 22 Apr 2024 21:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>在追求 C++ 性能的过程中，final 关键字已成为潜在的游戏规则改变者，w [...]</title>
-      <link>https://t.me/hn_summary/85831</link>
-      <description><![CDATA[C++ `final` 关键字的性能影响&lt; br/&gt;
-在追求 C++ 性能的过程中，final 关键字已成为潜在的游戏规则改变者，据称可以显着提高速度。然而，深入研究 final 对光线追踪项目的影响揭示了令人惊讶的结果。虽然某些场景略有改善，但其他场景却出现了放缓。跨不同编译器和系统的广泛测试揭示了一幅复杂的图景：final 并不总是更快，在某些情况下甚至可能更慢。这些发现挑战了 final 普遍提高性能的观念，强调了在实现此关键字时需要进行彻底的测试和谨慎。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85831</guid>
-      <pubDate>Mon, 22 Apr 2024 17:49:54 GMT</pubDate>
+      <title>标题：OpenCores：A-Z80 CPU</title>
+      <link>https://t.me/hn_summary/85868</link>
+      <description><![CDATA[OpenCores：A-Z80 CPU
+标题：OpenCores：A-Z80 CPU
+
+令人兴奋的消息！ A-Z80 CPU 已用纯 Verilog 重写，使其与 Altera 和 Xilinx 器件兼容。 Zilog Z80 处理器的概念实现是细致的逆向工程和研究的结果，具体到芯片的显微照片。该项目包括一个完全运行的 Sinclair ZX Spectrum 实施。该设计具有周期和总线精度、所有记录和未记录的操作码以及通过 ZEXDOC 和 ZEXLL 测试等功能，是全面且功能齐全的。 Altera 和 Xilinx 器件上的测试平台、仿真和实现已成功完成。该项目是FPGA爱好者必看的项目！]]></description>
+      <guid>https://t.me/hn_summary/85868</guid>
+      <pubDate>Mon, 22 Apr 2024 21:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]数字游牧主义的兴起不仅仅是远程工作和地点灵活性 [...]</title>
-      <link>https://t.me/hn_summary/85830</link>
-      <description><![CDATA[数字游牧民族的新现实
-数字游牧主义的兴起不仅仅与大流行后的远程工作和地点灵活性有关；它代表着一种文化转变，偏离了传统的成功和“美好生活”观念。这种趋势为发达国家的高生活成本提供了另一种选择，使个人可以通过生活在费用较低的地方来最大化收入。这对品牌战略和消费者行为的影响是重大的，有机会满足灵活性、游牧生活新服务的需求，并围绕新价值观和生活方式塑造话语。这种转变正在重塑人们的工作、生活和消费方式，在新的现实中为品牌带来了挑战和机遇。]]></description>
-      <guid>https://t.me/hn_summary/85830</guid>
-      <pubDate>Mon, 22 Apr 2024 17:41:48 GMT</pubDate>
+      <title>[媒体] 如果所有内核错误都是安全错误，那么如何保证 Linux 的安全？</title>
+      <link>https://t.me/hn_summary/85867</link>
+      <description><![CDATA[如果所有内核错误都是安全错误，你如何保持你的Linux安全吗？
+Linux 内核在系统中处于一个独特的位置，几乎任何错误都可以被利用来危害系统。 Linux 开发人员现在发布了自己的常见漏洞和披露 (CVE) 通知来解决此问题。为了确保您的 Linux 系统安全，请确保运行长期稳定 (LTS) 内核版本，因为它们具有修复的 CVE 并定期修补。然而，LTS 版本现在仅支持两年，而不是六年。公司需要更好地支持 Linux 社区，以防止倦怠并确保代码质量，因为几乎所有企业都依赖 Linux 来维持运行。]]></description>
+      <guid>https://t.me/hn_summary/85867</guid>
+      <pubDate>Mon, 22 Apr 2024 20:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 Anthropic 的提示库！</title>
-      <link>https://t.me/hn_summary/85829</link>
-      <description><![CDATA[Anthropic：提示库
-欢迎来到 Anthropic 的提示库！发现针对业务和个人任务的各种优化提示。我们的用户提交的提示具有深色背景和浅色图标，营造出时尚现代的外观。成为第一个通过我们的提示提交表格提交您自己的提示的人。加入我们的社区，通过我们独特且创新的提示库提高您的工作效率。立即探索！]]></description>
-      <guid>https://t.me/hn_summary/85829</guid>
-      <pubDate>Mon, 22 Apr 2024 17:29:40 GMT</pubDate>
+      <title>问 HN：您最近陷入了哪些兔子洞？</title>
+      <link>https://t.me/hn_summary/85866</link>
+      <description><![CDATA[问HN：你最近掉进了什么兔子洞？
+最近，在《黑客新闻》上，用户们分享了他们掉入的兔子洞。无论是要消灭一个错误，探索一项新技术，还是只是在研究过程中偶然发现一些有趣的东西，这个旅程总是一场冒险。我们鼓励用户分享他们采取的中间步骤以及他们最难忘的事情。这是对科技爱好者好奇心和他们发现自己意想不到的道路的迷人观察。]]></description>
+      <guid>https://t.me/hn_summary/85866</guid>
+      <pubDate>Mon, 22 Apr 2024 20:45:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
