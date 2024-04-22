@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 06:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 09:21:01 GMT</lastBuildDate>
+    <item>
+      <title>适用于 ARM 游戏手持设备的最佳开源且可免费用于商业用途的操作系统？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ca4odv/best_open_source_and_free_to_use_for_commercial/</link>
+      <description><![CDATA[BazziteOS 仅限 x86，JELOS 包含非商业许可证，ArkOS 已停产。只有 AOSP 作为全功能可行的选择吗？最新的 AOSP 版本对硬件要求相当高，例如 2 GB RAM。   由   提交/u/Honest-Word-7890   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ca4odv/best_open_source_and_free_to_use_for_commercial/</guid>
+      <pubDate>Mon, 22 Apr 2024 07:27:34 GMT</pubDate>
+    </item>
     <item>
       <title>将我的硬件和开发工具与开源软件一起销售和运输是否合法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ca3kqh/is_it_legit_to_sell_and_ship_my_hardware_and/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>Packem（js 捆绑器）</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</link>
-      <description><![CDATA[目前正在开发一些流行的 js 捆绑器（如 tsup/unbundle 等）的替代方案。 https://github.com/visulima/visulima/pull/385 想要获得您在lib 捆绑程序（这不会是一个 vite 替代方案）。   由   提交/u/prisis  [链接] [评论]]]></description>
+      <description><![CDATA[目前正在开发一些流行的 js 捆绑程序（如 tsup/unbundle 等）的替代方案。 https://github.com/visulima/visulima/pull/385 想要获得您在lib 捆绑程序（这不会是一个 vite 替代方案）。   由   提交/u/prisis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</guid>
       <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
     </item>
     <item>
       <title>NAPS2 - FOSS 文档扫描，现在支持 Mac + Linux 和 SDK</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</link>
-      <description><![CDATA[嗨，我刚刚发布了 NAPS2 7.4.2。 NAPS2 是一款流行的开源文档扫描应用程序（适用于 Canon、Brother、HP 等公司的扫描仪），7.x 代表了我在过去几年中所做的重大改进。  7.x 的一些亮点：  原生 Linux 和 Mac UI 加入了现有的 Windows UI，使用 .NET 8 的跨平台功能和 Eto.Forms GUI 框架构建。 支持扫描Mac 上的 SANE（开源 Linux 扫描驱动程序），允许较新的 M1/M2/M3 Mac 使用 USB 扫描仪，否则不会有 arm64 驱动程序。 支持在所有平台上使用 ESCL 进行扫描（也称为 Apple AirScan，许多现代扫描仪都支持的网络协议）。 支持将任何 USB 扫描仪转变为支持网络的ESCL 扫描仪（例如将扫描仪插入桌面并通过笔记本电脑或手机使用它；或在虚拟机中设置仅限 Windows 的扫描仪）。 更好地处理导入的 PDF，将 NAPS2 转变为功能强大的 PDF 编辑器和 OCR 程序。 .NET 开发人员可以通过 NAPS2.Sdk Nuget 软件包。 WIA、TWAIN、SANE 和 ESCL 驱动程序均通过一个易于使用的 API 在各自的平台上得到支持。 完整变更日志    由   提交/u/cyanfish  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我刚刚发布了 NAPS2 7.4.2。 NAPS2 是一款流行的开源文档扫描应用程序（适用于 Canon、Brother、HP 等公司的扫描仪），7.x 代表了我在过去几年中所做的重大改进。  7.x 的一些亮点：  原生 Linux 和 Mac UI 加入了现有的 Windows UI，使用 .NET 8 的跨平台功能和 Eto.Forms GUI 框架构建。 支持扫描Mac 上的 SANE（开源 Linux 扫描驱动程序），允许较新的 M1/M2/M3 Mac 使用 USB 扫描仪，否则不会有 arm64 驱动程序。 支持在所有平台上使用 ESCL 进行扫描（也称为 Apple AirScan，许多现代扫描仪都支持的网络协议）。 支持将任何 USB 扫描仪转变为支持网络的ESCL 扫描仪（例如将扫描仪插入桌面并通过笔记本电脑或手机使用它；或在虚拟机中设置仅限 Windows 的扫描仪）。 更好地处理导入的 PDF，将 NAPS2 转变为强大的 PDF 编辑器和 OCR 程序。 .NET 开发人员可以通过 NAPS2.Sdk Nuget 软件包。 WIA、TWAIN、SANE 和 ESCL 驱动程序均通过一个易于使用的 API 在各自的平台上得到支持。 完整变更日志    由   提交/u/cyanfish  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</guid>
       <pubDate>Sun, 21 Apr 2024 16:00:42 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>需要帮助的 C++ 开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1c99h0w/c_open_source_projects_that_need_help/</link>
-      <description><![CDATA[我已经有一段时间没有编写任何 C++ 代码了，我想再次提高我的技能。我认为一个好方法是为一些开源项目做出贡献。 那么有哪些 C++ 项目需要一些爱呢？ 编辑：有人知道吗？用于测量、跟踪体育和物理视频中的物体或人物的视频分析工具？   由   提交/u/vpai924  [链接] [评论]]]></description>
+      <description><![CDATA[我已经有一段时间没有写过 C++ 代码了，我想再次磨练我的技能。我认为一个好方法是为一些开源项目做贡献。 那么，有哪些 C++ 项目需要我们去关注呢？ 编辑：有谁知道用于测量、跟踪体育和物理视频中的物体或人物的视频分析工具吗？    提交人    /u/vpai924   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c99h0w/c_open_source_projects_that_need_help/</guid>
       <pubDate>Sun, 21 Apr 2024 04:42:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/mlejva  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c997qa/opensource_sdk_for_creating_custom_code/</guid>
       <pubDate>Sun, 21 Apr 2024 04:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的视频编辑器可以从音频和图像文件创建视频吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c91pgn/simple_video_editor_to_create_videos_from_audio/</link>
-      <description><![CDATA[我有一堆晦涩难懂、未发布或尚未上传的音乐，我想在 YouTube 上分享。我所需要的只是可以将音频编码为视频文件以及“视频”的静态图像文件。所以，没有什么太复杂的。我不需要编辑任何音频或视频；实际上只是导入单个音频文件和单个静态图像。 提前致谢！   由   提交 /u/OYcp5if7eLUIdiKCj3re   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c91pgn/simple_video_editor_to_create_videos_from_audio/</guid>
-      <pubDate>Sat, 20 Apr 2024 21:58:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
