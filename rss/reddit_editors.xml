@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 22 Apr 2024 01:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 03:21:08 GMT</lastBuildDate>
     <item>
       <title>从决心到狂热的绿屏遮罩</title>
       <link>https://www.reddit.com/r/editors/comments/1c9y684/greenscreen_mattes_from_resolve_to_avid/</link>
-      <description><![CDATA[我正在从 Resolve 中调整 Avid 中的颜色序列。  通常，工作流程是在 Resolve 中使用主时间轴，并将 Resolve 渲染带回 Avid 并将序列重新链接到这些 Resolve 渲染。  我遇到的问题是有绿屏材料在起作用。  有人对如何处理这个问题有什么建议吗？  我确实想避免让调色师导出所有绿屏内容的烘焙文件， 也许有一种方法可以为每个绿屏创建遮罩，并将它们以一种方式导入到 Avid 中。这样看起来和 Resolve 中的效果一样好吗？   由   提交/u/fly_swatter_friend  [链接] [评论]]]></description>
+      <description><![CDATA[我正在 Avid 中从 Resolve 整合颜色序列。 通常，工作流程是在 Resolve 中使用主时间线，并将 Resolve 渲染器带回 Avid，并将序列重新链接到这些 Resolve 渲染器。 我遇到的问题是绿屏材料在起作用。 有人对如何处理这个问题有什么建议吗？ 我确实想避免让调色师导出一个包含所有绿屏内容的内置文件， 也许有一种方法可以为每个绿屏创建遮罩并将它们带入 Avid，使其看起来与在 Resolve 中一样好？    提交人    /u/fly_swatter_friendly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c9y684/greenscreen_mattes_from_resolve_to_avid/</guid>
       <pubDate>Mon, 22 Apr 2024 01:14:14 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>我不知道谁需要听到这个，但始终使用人工翻译服务 [建议/咆哮]</title>
       <link>https://www.reddit.com/r/editors/comments/1c9vm9l/i_dont_know_who_needs_to_hear_this_but_always_use/</link>
-      <description><![CDATA[我是一名英语剪辑师，一直在制作一部包含约 80 小时镜头的西班牙语纪录片。有 12 次坐下采访，还有很多现场对话。导演没有预算聘请人工翻译来完成这些工作，所以我不得不求助于人工智能翻译/转录和字幕服务。该服务的工作还不错，但一些采访和几乎所有现场 dx 的发言者都不是最善于表达的，也没有完美的语法。这导致了翻译中出现明显的错误，并且导致我无法为了整个故事而将所说的关键部分纳入其中。我给母语是西班牙语的朋友发短信，并使用手机上的谷歌翻译应用程序。至少可以说，这完全是一场噩梦，但我坚持让最终剪辑由人工翻译服务翻译。 （而且还得到说西班牙语的朋友的经济补偿。） 好消息是我已经在 Avid 中确定了一个相当可靠的外国字幕工作流程（但我想它可以应用于任何 NLE），尽管这是我第一次用不同的语言编辑一些东西。如果有人希望我概述我的流程，请告诉我。我很乐意分享。 TL;DR 不会使用人工智能来翻译任何外语。它不理解关键的方言和短语，并且由于重新翻译所有内容需要时间，最终会增加制作成本。另外，如果你住在加州，不要像我一样在高中学习法语和日语。西班牙语更实用。   由   提交/u/tortilla_thehun  [链接] [评论]]]></description>
+      <description><![CDATA[我是一名英语剪辑师，一直在制作一部包含约 80 小时镜头的西班牙语纪录片。有 12 次坐下采访，还有很多现场对话。导演没有预算聘请人工翻译来完成这些工作，所以我不得不求助于人工智能翻译/转录和字幕服务。该服务的工作还不错，但一些采访和几乎所有现场 dx 的发言者都不是最善于表达的，也没有完美的语法。这导致了翻译中出现明显的错误，并且导致我无法为了整个故事而将所说的关键部分纳入其中。我只好给母语为西班牙语的朋友发短信，并使用手机上的谷歌翻译应用程序。至少可以说，这完全是一场噩梦，但我坚持让最终剪辑由人工翻译服务翻译。 （而且还得到说西班牙语的朋友的经济补偿。） 好消息是我已经在 Avid 中确定了一个相当可靠的外国字幕工作流程（但我想它可以应用于任何 NLE），尽管这是我第一次用不同的语言编辑一些东西。如果有人希望我概述我的流程，请告诉我。我很乐意分享。 TL;DR 不会使用人工智能来翻译任何外语。它不理解关键的方言和短语，并且由于重新翻译所有内容需要时间，最终会增加制作成本。另外，如果你住在加州，不要像我一样在高中学习法语和日语。西班牙语更实用。   由   提交/u/tortilla_thehun  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c9vm9l/i_dont_know_who_needs_to_hear_this_but_always_use/</guid>
       <pubDate>Sun, 21 Apr 2024 23:09:27 GMT</pubDate>
     </item>
@@ -43,14 +43,14 @@
     <item>
       <title>在 Premiere 24 中使用闪电般快速的 M2 Max 打沙滩球</title>
       <link>https://www.reddit.com/r/editors/comments/1c9pvaa/beach_balling_in_premiere_24_on_lightning_fast_m2/</link>
-      <description><![CDATA[目前正在 M2 Max、64gb RAM 上编辑 Premiere 24.1 的专题纪录片，这是一场噩梦。  播放非常流畅，但在使用源监视器时似乎遇到了问题，它使整个程序变得一团糟，接下来的每个操作都伴随着沙滩死亡球 - 只能通过重新启动应用程序来纠正。 正如我所说，这似乎无法理解，播放效果很好，并且对外部 SSD 的速度测试一致地保存了素材平均 700-800mbps 读/写。沙滩球期间机器的全局性能是完美的，因此似乎是特定于应用程序的。 是否有其他人遇到过此问题和/或对可能导致此问题的原因有任何想法？   我正在考虑升级到 24.3，但不太情愿，因为如果这会导致更多问题，我不想升级中期项目。还考虑转向“生产”，但项目文件目前只有 34mb，如果可能的话，我想避免重组项目。   由   提交/u/Cjammer7  [链接] [评论]]]></description>
+      <description><![CDATA[目前正在 M2 Max、64gb RAM 上编辑 Premiere 24.1 的专题纪录片，这是一场噩梦。  播放非常流畅，但在使用源监视器时似乎遇到了问题，它使整个程序变得一团糟，接下来的每个操作都伴随着沙滩死亡球 - 只能通过重新启动应用程序来纠正。 正如我所说，这似乎无法理解，播放效果很好，并且对外部 SSD 的速度测试一致地保存了素材平均 700-800mbps 读/写。沙滩球期间机器的全局性能是完美的，因此似乎是特定于应用程序的。 是否有其他人遇到过此问题和/或对可能导致此问题的原因有任何想法？   我正在考虑升级到 24.3，但很不情愿，因为我不想升级中期项目，如果这会导致更多问题。还考虑转向“生产”，但项目文件目前只有 34mb，如果可能的话，我想避免重组项目。   由   提交/u/Cjammer7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c9pvaa/beach_balling_in_premiere_24_on_lightning_fast_m2/</guid>
       <pubDate>Sun, 21 Apr 2024 19:07:32 GMT</pubDate>
     </item>
     <item>
       <title>用什么软件下载 YT 和 Vimeo 视频</title>
       <link>https://www.reddit.com/r/editors/comments/1c9obrf/what_software_to_download_yt_and_vimeo_videos/</link>
-      <description><![CDATA[我正在为我居住的城市开展一个项目，但他们找不到丢失的一些在线视频文件。我这样做并不是为了盈利，只是想提供帮助。有什么免费/付费的软件可以粘贴链接并将文件下载到我的硬盘上。感谢您的帮助。 CPU - 19-14900K RTX4090 96GB    由   提交 /u/Rowdyb   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为我居住的城市开展一个项目，但他们找不到丢失的一些在线视频的文件。我这样做并不是为了盈利，只是想提供帮助。有什么免费/付费的软件可以粘贴链接并将文件下载到我的硬盘上。感谢您的帮助。 CPU - 19-14900K RTX4090 96GB    由   提交 /u/Rowdyb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c9obrf/what_software_to_download_yt_and_vimeo_videos/</guid>
       <pubDate>Sun, 21 Apr 2024 18:04:02 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>有关如何在 Final Cut 中更快地进行颜色分级的任何提示？</title>
       <link>https://www.reddit.com/r/editors/comments/1c8zfhp/any_tips_on_how_to_color_grade_faster_in_final_cut/</link>
-      <description><![CDATA[我决定在这里问，而不是r/colorists 。我是一名婚礼视频编辑，我基本上正在编辑很多小项目。我是一个单人乐队，负责编辑、调色等。 我正在努力使我的工作流程在各个方面都尽可能快速和高效。我经常使用热键，我正在使用 Final Cut 的所有功能（磁性时间轴、在浏览器中直接剪切剪辑等） 问题是我不明白如何制作我的颜色分级过程更快、更高效。 （我知道 DaVinci Resolve 通常是深度处理颜色的首选，但 FCP 更适合较小的项目。如果我在一些严肃的大型项目上工作，我可能会使用 Resolve 或 Premiere 或 AVID，但不会使用 FCP） 这也取决于客户。对于一个客户来说，一切都是那么简单。所有相机上的白平衡和曝光都完美设置，提供了 LUT，一切都几乎完美匹配。所需要的只是对阴影、高光和曝光进行一些调整。 对于另一个客户端，即使也提供了 LUT，但有不同的相机和不同的设置。最后，在颜色、色调和光线方面有太多的手工工作，以至于我在每个项目结束时都失去了理智。将所有剪辑匹配在一起需要花费大量时间。毕竟，客户仍然说某些剪辑中存在一些不匹配。 我听说有人提供单日编辑，我想知道他们如何如此快地进行颜色分级。要么是相机设置、色调、白平衡从一开始就设置得很完美，一切都与LUT匹配，不需要做太多工作。 要么是这样，要么我真的很糟糕颜色分级。 如果有人经历过类似的事情，我想知道你是如何处理的。您是否学习过颜色理论或者是否找到了其他解决方案？   由   提交 /u/maximmin   [链接] [评论]]]></description>
+      <description><![CDATA[我决定在这里问，而不是r/colorists 。我是一名婚礼视频编辑，我基本上正在编辑很多小项目。我是一个单人乐队，负责编辑、调色等。 我正在努力使我的工作流程在各个方面都尽可能快速和高效。我经常使用热键，我正在使用 Final Cut 的所有功能（磁性时间轴、在浏览器中直接剪切剪辑等） 问题是我不明白如何制作我的颜色分级过程更快、更高效。 （我知道 DaVinci Resolve 通常是深度处理颜色的首选，但 FCP 更适合较小的项目。如果我在一些严肃的大型项目上工作，我可能会使用 Resolve 或 Premiere 或 AVID，但不会使用 FCP） 这也取决于客户。对于一个客户来说，一切都是那么简单。所有相机上的白平衡和曝光都完美设置，提供了 LUT，一切都几乎完美匹配。所需要的只是对阴影、高光和曝光进行一些调整。 对于另一个客户端，即使也提供了 LUT，但有不同的相机和不同的设置。最后，在颜色、色调和光线方面有太多的手工工作，以至于我在每个项目结束时都失去了理智。将所有剪辑匹配在一起需要花费大量时间。毕竟，客户仍然说某些剪辑中存在一些不匹配。 我听说有人提供单日编辑，我想知道他们如何如此快地进行颜色分级。要么是相机设置、色调、白平衡从一开始就设置得很完美，一切都与LUT匹配，没有太多工作要做。 要么是这样，要么我真的很糟糕颜色分级。 如果有人经历过类似的事情，我想知道你是如何处理的。您是否学习过颜色理论或者是否找到了其他解决方案？   由   提交 /u/maximmin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c8zfhp/any_tips_on_how_to_color_grade_faster_in_final_cut/</guid>
       <pubDate>Sat, 20 Apr 2024 20:18:52 GMT</pubDate>
     </item>

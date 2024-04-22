@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 01:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 03:21:41 GMT</lastBuildDate>
     <item>
       <title>Minecraft Utilities - 简单易用的 Minecraft API</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9vi0d/minecraft_utilities_a_simple_and_easy_to_use/</link>
@@ -50,14 +50,14 @@
     <item>
       <title>Packem（js 捆绑器）</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</link>
-      <description><![CDATA[目前正在开发一些流行的 js 捆绑器（如 tsup/unbundle 等）的替代方案。 https://github.com/visulima/visulima/pull/385 想要获得您在lib 捆绑程序（这不会是一个 vite 替代方案）。   由   提交/u/prisis  [链接] [评论]]]></description>
+      <description><![CDATA[目前正在开发一些流行的 js 捆绑程序（如 tsup/unbundle 等）的替代方案。 https://github.com/visulima/visulima/pull/385 想要获得您在lib 捆绑程序（这不会是一个 vite 替代方案）。   由   提交/u/prisis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</guid>
       <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
     </item>
     <item>
       <title>NAPS2 - FOSS 文档扫描，现在支持 Mac + Linux 和 SDK</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</link>
-      <description><![CDATA[嗨，我刚刚发布了 NAPS2 7.4.2。 NAPS2 是一款流行的开源文档扫描应用程序（适用于 Canon、Brother、HP 等公司的扫描仪），7.x 代表了我在过去几年中所做的重大改进。  7.x 的一些亮点：  原生 Linux 和 Mac UI 加入了现有的 Windows UI，使用 .NET 8 的跨平台功能和 Eto.Forms GUI 框架构建。 支持扫描Mac 上的 SANE（开源 Linux 扫描驱动程序），允许较新的 M1/M2/M3 Mac 使用 USB 扫描仪，否则不会有 arm64 驱动程序。 支持在所有平台上使用 ESCL 进行扫描（也称为 Apple AirScan，许多现代扫描仪都支持的网络协议）。 支持将任何 USB 扫描仪转变为支持网络的ESCL 扫描仪（例如将扫描仪插入桌面并通过笔记本电脑或手机使用它；或在虚拟机中设置仅限 Windows 的扫描仪）。 更好地处理导入的 PDF，将 NAPS2 转变为功能强大的 PDF 编辑器和 OCR 程序。 .NET 开发人员可以通过 NAPS2.Sdk Nuget 软件包。 WIA、TWAIN、SANE 和 ESCL 驱动程序均通过一个易于使用的 API 在各自的平台上得到支持。 完整变更日志    由   提交/u/cyanfish  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我刚刚发布了 NAPS2 7.4.2。 NAPS2 是一款流行的开源文档扫描应用程序（适用于 Canon、Brother、HP 等公司的扫描仪），7.x 代表了我在过去几年中所做的重大改进。  7.x 的一些亮点：  原生 Linux 和 Mac UI 加入了现有的 Windows UI，使用 .NET 8 的跨平台功能和 Eto.Forms GUI 框架构建。 支持扫描Mac 上的 SANE（开源 Linux 扫描驱动程序），允许较新的 M1/M2/M3 Mac 使用 USB 扫描仪，否则不会有 arm64 驱动程序。 支持在所有平台上使用 ESCL 进行扫描（也称为 Apple AirScan，许多现代扫描仪都支持的网络协议）。 支持将任何 USB 扫描仪转变为支持网络的ESCL 扫描仪（例如将扫描仪插入桌面并通过笔记本电脑或手机使用它；或在虚拟机中设置仅限 Windows 的扫描仪）。 更好地处理导入的 PDF，将 NAPS2 转变为强大的 PDF 编辑器和 OCR 程序。 .NET 开发人员可以通过 NAPS2.Sdk Nuget 软件包。 WIA、TWAIN、SANE 和 ESCL 驱动程序均通过一个易于使用的 API 在各自的平台上得到支持。 完整变更日志    由   提交/u/cyanfish  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</guid>
       <pubDate>Sun, 21 Apr 2024 16:00:42 GMT</pubDate>
     </item>
