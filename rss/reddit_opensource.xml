@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:35:42 GMT</lastBuildDate>
+    <item>
+      <title>我应该如何许可我的第一个使用第 3 方库的 github 项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
+      <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:43:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>OW2con 2024</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</link>
+      <description><![CDATA[ 由   提交/u/opensourceinitiative  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:34:01 GMT</pubDate>
+    </item>
     <item>
       <title>johnnybgoode - 一个为 JohnnyDecimal 用户提供的跨平台 CLI 工具，用 Rust 编写。</title>
       <link>https://www.reddit.com/r/opensource/comments/1caswo2/johnnybgoode_a_crossplatform_cli_tool_for/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>Onenote 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</link>
-      <description><![CDATA[3年前，这个帖子被删除了，因为当时我没有足够的业力。 （这是我在这个帐户上的第一篇文章）但最近我再次面临同样的问题，因为当时我没有真正找到解决方案。 原始帖子：嗨，我是目前我的笔记本上使用的是win 10，我非常喜欢在触摸屏上使用onenote。现在我也在考虑通过卸载Windows来升级我的笔记本并使用ubuntu。 OneNote 有合适的替代品吗？    由   提交 /u/phrandsisgo   [链接] [评论]]]></description>
+      <description><![CDATA[3年前，这个帖子被删除了，因为当时我没有足够的业力。 （这是我在这个帐户上的第一篇文章）但最近我再次面临同样的问题，因为当时我没有真正找到解决方案。 原始帖子： 你好，我是目前我的笔记本上使用的是win 10，我非常喜欢在触摸屏上使用onenote。现在我也在考虑通过卸载Windows来升级我的笔记本并使用ubuntu。 OneNote 有合适的替代品吗？    由   提交 /u/phrandsisgo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</guid>
       <pubDate>Sun, 21 Apr 2024 22:50:10 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨u/opensource，我来了每天都在寻找开源的本地 AI 工具，但找到​​合适的工具和解决方案仍然很累。作为一个开源项目，我们的团队  Jan 已开始在一个 GitHub 存储库中整理一系列开源本地 AI 工具和解决方案。我们列出了从推理引擎到 AI 代理的 100 多个开源项目 - 您可以在此处查看列表：https://github。 com/janhq/awesome-local-ai 即使在加入 Jan 团队之前，这个列表也对我帮助很大。我坚信开源法学硕士很可能会改变我们做事的方式——即使是在我工作了几年的营销和商业战略等领域。一个无聊的注释：我如此坚信它，以至于我改变了我的职业方向。我们将用一些更多的视觉元素更新此列表，并为每个类别添加更容易理解的图表。我需要您对此的评论和贡献。您认为在 GitHub 存储库上添加更多视觉效果是否会引起受众共鸣，或者我们应该只为社交媒体帖子添加更多视觉效果？如果您发现该列表有用，请考虑在 GitHub 上给它一颗星。一如既往，欢迎贡献。   由   提交 /u/emreckartal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9oqs9/100_opensource_local_ai_tools_and_solutions/</guid>
       <pubDate>Sun, 21 Apr 2024 18:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Packem（js 捆绑器）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</link>
-      <description><![CDATA[目前正在开发一些流行的 js 捆绑器（如 tsup/unbundle 等）的替代方案。 https://github.com/visulima/visulima/pull/385 想要获得您在lib 捆绑程序（这不会是一个 vite 替代方案）。   由   提交/u/prisis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9lmuz/packem_js_bundler/</guid>
-      <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>NAPS2 - FOSS 文档扫描，现在支持 Mac + Linux 和 SDK</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</link>
-      <description><![CDATA[嗨，我刚刚发布了 NAPS2 7.4.2。 NAPS2 是一款流行的开源文档扫描应用程序（适用于 Canon、Brother、HP 等公司的扫描仪），7.x 代表了我在过去几年中所做的重大改进。  7.x 的一些亮点：  原生 Linux 和 Mac UI 加入了现有的 Windows UI，使用 .NET 8 的跨平台功能和 Eto.Forms GUI 框架构建。 支持扫描Mac 上的 SANE（开源 Linux 扫描驱动程序），允许较新的 M1/M2/M3 Mac 使用 USB 扫描仪，否则不会有 arm64 驱动程序。 支持在所有平台上使用 ESCL 进行扫描（也称为 Apple AirScan，许多现代扫描仪都支持的网络协议）。 支持将任何 USB 扫描仪转变为支持网络的ESCL 扫描仪（例如将扫描仪插入桌面并通过笔记本电脑或手机使用它；或在虚拟机中设置仅限 Windows 的扫描仪）。 更好地处理导入的 PDF，将 NAPS2 转变为强大的 PDF 编辑器和 OCR 程序。 .NET 开发人员可以通过 NAPS2.Sdk Nuget 软件包。 WIA、TWAIN、SANE 和 ESCL 驱动程序均通过一个易于使用的 API 在各自的平台上得到支持。 完整变更日志    由   提交/u/cyanfish  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9lf2u/naps2_foss_document_scanning_now_with_mac_linux/</guid>
-      <pubDate>Sun, 21 Apr 2024 16:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

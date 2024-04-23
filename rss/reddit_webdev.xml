@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:35:38 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 要点：通过品牌区分类型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb3cgl/typescript_essentials_distinguishing_types_with/</link>
+      <description><![CDATA[ 由   提交/u/Resident_Inflation_2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb3cgl/typescript_essentials_distinguishing_types_with/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>发表意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb3a7i/opinions_on_publii/</link>
+      <description><![CDATA[我最近在为一个非常简单的客户网站寻找 CMS 时偶然发现了 Publii，并想得到其他尝试过它的开发人员的一些意见在投入时间了解它的来龙去脉之前。 简而言之，客户端有一个非常简单的静态网站（来自另一个开发人员，纯 HTML + CSS + JS，没有静态网站生成器），我目前通过不时进行小更改来维护。但客户希望能够自己对内容进行少量更改。我通常会考虑使用 wordpress，但这绝对是多余的。在寻找解决方案时，我找到了（以及其他）Publii，并进行了一些修改，因此发表了这篇文章。  据我所知，这是一个可靠且经过深思熟虑的项目，但事实并非如此。它似乎被广泛采用，这引起了对长期支持和社区资源方面的担忧 看起来非常面向博客，而在这种情况下，我不处理博客文章，而只是处理页面。这有什么缺点吗，比如必须重新设计大量默认值和设置？ 从开发人员的角度来看，主题开发体验如何？    由   提交/u/Serpico99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb3a7i/opinions_on_publii/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>站长？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb2umi/webmaster/</link>
+      <description><![CDATA[Github 将默认分支名称从 Master 更改为 Main 您不认为 Webmaster 也应该更改吗？这是种族主义和恐同......   由   提交 /u/Comfortable_Bank6611   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb2umi/webmaster/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Freeter - 适用于 WebDevs 的免费开源组织者应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb2olp/freeter_free_and_opensource_organizer_app_for/</link>
+      <description><![CDATA[       由   提交/u/alexk111   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb2olp/freeter_free_and_opensource_organizer_app_for/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用capacitorjs做过app吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb2bj2/has_anyone_used_capacitorjs_to_make_an_app/</link>
+      <description><![CDATA[我目前坚持使用 Fluter 进行应用程序开发，但我读到了有关 Capacitorjs 的内容，想知道它有多好？据我了解，它是 Cordova 的继承者。  有人用过吗？想法？   由   提交/u/No-Echo-8927   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb2bj2/has_anyone_used_capacitorjs_to_make_an_app/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建时的 vite 环境变量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb1gbm/vite_environment_variables_at_build_time/</link>
+      <description><![CDATA[大家好，我正在使用 Turborepo，我的应用程序之一是使用 Vite 构建的 React 应用程序。我很难弄清楚如何使用环境变量集成 gitlab ci 和 docker。 我理解 Vite 文档，提到了测试、暂存和生产环境（.env local、.env.staging）用于登台，.env.product 用于生产）。然而，就我的工作而言，我们没有 1 个生产环境或客户端，我们有多个。例如 europe.product.com、africa.product.com 等，因此每个环境中的每个应用程序都有自己的后端 API url。 到目前为止我的理解： -我似乎无法在运行时更改环境变量，只能在构建时更改，这使得我必须为每个客户端/环境创建单独的构建。  -我尝试向 docker 添加 ENV ARG，将值附加到 env（例如 env.europe），因此当 docker build 中提供 ENV 时，它将创建 env.europe，然后在Turborepo 配置 我将有一个构建管道，通过使用 env.europe 文件来构建欧洲产品。然而，这意味着，对于每一个可能的客户端，都需要进行更改（新的 Turbo 管道、新的环境文件……）我希望为所有客户端创建一个版本。 - 我在时刻是获取 env.json 文件，并在（例如）我的 api.ts 文件中从中获取 API_URL。这个 env.json 文件是我的 docker 容器中的一个卷，因此我可以为每个客户端的每个 docker-compose 文件覆盖它。我认为这有点 hacky，因为对于每个需要后端 url 的文件，我每次都会执行一次 fetch，从而导致大量相同的 fetch 调用。 有人对如何优化它有任何想法吗？提前致谢。   由   提交/u/nebur28  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb1gbm/vite_environment_variables_at_build_time/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:46:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 是否因为 CORS 变得很奇怪？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb1atb/did_safari_just_go_all_weird_with_cors/</link>
+      <description><![CDATA[我有一个客户（编辑：客户的 WordPress 网站），他的嵌入内容（youtube 和播客）在 Safari 中抛出 CORS 错误，但在其它浏览器。但这是新的，截至昨天。还有其他人遇到过这种情况吗？   由   提交/u/Graineon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb1atb/did_safari_just_go_all_weird_with_cors/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:37:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个自由职业者为我建立一个投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb0tim/need_a_freelancer_to_build_me_a_portfolio_website/</link>
+      <description><![CDATA[我是一名平面设计师、视频编辑器和动态图形艺术家。我已经在一家代理机构工作了近一年，我相信我有足够的工作来建立良好的投资组合，以便我可以开始直接接触客户。一段时间以来我一直想创建一个作品集网站，但由于工作和大学的事情，我没有时间创建一个。  ​ 对网站的主要要求是它不能看起来像一个通用的网站，它必须有品味，我愿意尽可能地帮助设计过程尽我所能，因为我希望它非常个性化。  ​ 如果有人对此感兴趣，我想知道你们的价格，并想看看你们以前的一些作品   由   提交/u/denieolmax13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb0tim/need_a_freelancer_to_build_me_a_portfolio_website/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP基础知识：了解Undici及其工作机制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb0awx/http_fundamentals_understanding_undici_and_its/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb0awx/http_fundamentals_understanding_undici_and_its/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:31:04 GMT</pubDate>
+    </item>
     <item>
       <title>当安装要求仅安装为 devDependency 时，Tailwind 在生产中如何工作？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cb00hb/how_does_tailwind_work_in_production_when/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[   /u/Raxs_p   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1caz4qo/how_do_i_put_the_lines_between_links_like_it_is/</guid>
       <pubDate>Tue, 23 Apr 2024 08:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我关于我的调色板生成工具的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caz3p4/please_give_me_feedback_on_my_palette_generator/</link>
-      <description><![CDATA[大家好，我一直在开发调色板生成器，以便能够为我的项目创建漂亮的颜色渐变（我是一名前端设计师） ）。 在 GPT 的帮助下和大量的泪水，我构建了这个工具： https ://unoriginal02.github.io/palettes/ 编辑：请注意，我不是 Web 开发人员，除了基本的 HTML 和 CSS 之外没有任何技能。这段代码是通过对 gpt 进行数百次提示并多次失败而创建的。因此，预计事情不会像您习惯的那样完善或优化。 我希望您看一下它并告诉我是否有任何重要的缺失功能或我应该注意的事情. 以下是其功能的简要说明： 启动后，您将看到一个已经创建的基本斜坡。 来自在左上角，我们看到：  基色：用于构造渐变的颜色 明亮的步骤：您想要的较浅色样的数量 明亮目标：您希望最后一个样本的亮度 色调偏移：这是一个很好的小技巧，可以稍微改变目标颜色的色调。尝试一下， 饱和度偏移：或多或少相同。 深色样本的控制器相同。  颜色斜坡：  在这里我们看到创建的样本。 基础样本在顶部用一个小三角形表示 每个样本都会得到一些信息，例如光度、hsl 值和用于命名的近似标签。  该标签是根据颜色的整体亮度计算的。它有助于查看两种颜色的权重差异是否过大或是否平滑。  如果您单击样本，则会复制其十六进制值。 &gt; 在下面，您可以从创建的颜色中获得渐变。这有助于查看颜色的进展是否平滑，并且还可以作为创建漂亮渐变的工具。 (IMO)  全局调整  全局色调：更改所有样本的色调。 全局饱和度：不言自明 全局光：不言自明 还有... EASING！：我对此感到非常自豪！它将样本的进度从线性进度更改为或多或少缓和的进度。  下载/上传  有一个蹩脚但功能齐全的系统可以下载调色板并稍后重新上传。我用它来保存 Figma 上的调色板。如果我需要稍微调整一下，就可以再次退休它。 :)  请提供任何反馈。 请原谅我糟糕的英语，感谢您的阅读。 &lt; !-- SC_ON --&gt;  由   提交/u/OxydBCN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caz3p4/please_give_me_feedback_on_my_palette_generator/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有中等网络开发技能的个人网站博客，可以使用哪种工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cayq8b/which_tool_to_use_for_a_personal_website_blog/</link>
-      <description><![CDATA[您好， 我想创建一个以当地社区的数据故事为特色的网站。这是一个个人业余项目，我有数据科学背景，也做过一些网络开发和数据库管理，但我不是高级程序员。我希望能够构建与内容相关的所有内容（例如构建数据库、创建烧瓶后端将数据推送到数据库并从数据库中检索数据以及使用 React 等构建前端）。然而，我不是一个纯粹的开发人员，不想从头开始构建一个带有所有安全障碍的网站。例如，我希望人们能够向我发送电子邮件以获取主题建议，而我不想处理垃圾邮件过滤、设置电子邮件服务器等。另外，我可能希望我附近的人能够贡献数据并在网站上注册。对于这些事情我想要插件之类的。  我之前使用过 WordPress，但并不是 100% 满意（加上我的网站被黑了……）。我觉得它对于我的用例来说太臃肿了（但如果它是最佳候选者，我仍然会接受它）。您会为我的用例推荐什么？    由   提交/u/rick854  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cayq8b/which_tool_to_use_for_a_personal_website_blog/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找Java编码任务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cayjxl/looking_for_java_coding_task/</link>
-      <description><![CDATA[大家好， 几年前，当我申请 Java 开发职位时，我必须完成一项编码任务其中涉及到派对嘉宾名单并确定谁将参加派对......类似的事情 我知道这是很多公司过去给申请人的一项常见任务，但我根本做不到不再在任何地方找到它。 如果有人在某处有任务描述并且可以分享它，我将不胜感激。   由   提交 /u/AmelKralj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cayjxl/looking_for_java_coding_task/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SSE 与 Web 套接字</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caydnk/using_sse_vs_websockets/</link>
-      <description><![CDATA[大家好， 我正在创建一个应用程序，我将在其中共享来自服务器的数据，不会有太多客户端请求数据，我想使用的是SSE，因为不需要客户端操作或负载，唯一的事情是我必须识别哪个用户发送请求（如果您有通过SSE识别用户的建议，请 使用 SSE 或 Web 套接字，我很困惑，因为我从未在生产中测试过其中任何一个，也没有使用太多，而且还会有大约 83-147 MB​​ 的数据将从平均每 2 到 3 小时就会从服务器到客户端，同时几乎 500 个用户将连接到服务器。 令人困惑的是哪一个内存效率更高，哪一个 CPU 负载更少，如果有的话其他解决方案可以处理超过 500 个同时连接，不需要那么多内存，也不需要太多 CPU 负载，我不是在寻找便宜的产品或类似的产品，但问题是性能和速度，内存消耗低，CPU 使用率低就是我正在寻找的。 我知道这听起来很愚蠢，如果您对此有任何想法，请评论任何解决方案。   由   提交/u/harkishan01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caydnk/using_sse_vs_websockets/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对这些有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cayazf/what_is_your_opinion_about_these/</link>
-      <description><![CDATA[我写了页面 mfs.are-sv.de 我对此并不是 100% 满意。我可以做得更好吗？谢谢 （该页面仅周一至周四在线）   由   提交/u/Flashis_2th_Acc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cayazf/what_is_your_opinion_about_these/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJs 比 ReactJS 有什么价值吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cay6ln/is_there_any_value_in_nextjs_over_reactjs/</link>
-      <description><![CDATA[我对 NextJS 最关心的是水合作用，但是现在 React 支持服务器端组件，那么将 NextJS 比 ReactJS 进行攻击有什么价值吗？除了作为一个固执己见的框架之外，NextJS 还提供哪些功能？   由   提交 /u/OpenRole   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cay6ln/is_there_any_value_in_nextjs_over_reactjs/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 adminbro/adminjs 中处理复合主键？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</link>
-      <description><![CDATA[       由   提交/u/PrestigiousZombie531   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</guid>
-      <pubDate>Tue, 23 Apr 2024 04:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Laravel 8 部署到 NameCheap 托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</link>
-      <description><![CDATA[为什么将 Laravel 项目上传到 NameCheap 这么困难？？？ 我一直在使用教程、博客和他们的官方文档，而且，我还没有找到上传它的方法，到目前为止，我只能部署一些将​​ php 代码显示为文本的 HTML，并且没有 CSS，如果我按任何内容就会崩溃。 有谁有正确执行此操作的指南吗？  我已经连续 6 个小时处理这个了:(    提交者    /u/Comfortable_Guide210   [链接]  [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</guid>
-      <pubDate>Tue, 23 Apr 2024 04:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saas订阅支付平台，有推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cauaya/subscription_payment_platform_for_saas/</link>
-      <description><![CDATA[我们正在寻找一家支付提供商来处理基于 Web 的 SaaS 的 B2C 订阅服务。我们的总部位于澳大利亚，客户遍及世界各地。用户每月将被收取 AU$5 至 AU$9 加上销售税（按月计算）。 理想情况下，支付提供商将处理付款的所有方面，即入职和离职、发票、征税、付款、欺诈检测等。 我们已将列表范围缩小到（但仍愿意接受建议）：  Stripe Recurly Zuora Chargebee  有这些方面的实际经验吗？ Stripe 将是我们的第一选择，但他们的定价结构对我们来说似乎并不理想，因为我们将有许多小额国际付款。   由   提交 /u/leinadsey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cauaya/subscription_payment_platform_for_saas/</guid>
-      <pubDate>Tue, 23 Apr 2024 03:12:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

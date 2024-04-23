@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:35:16 GMT</lastBuildDate>
+    <item>
+      <title>Windows 应用程序 Ping 监视器</title>
+      <link>https://www.reddit.com/r/software/comments/1cb075b/windows_app_ping_monitor/</link>
+      <description><![CDATA[您好， 我正在寻找一款基于 Windows 的应用程序的推荐，该应用程序可以通过 PING 监视设备并记录任何下降。   由   提交/u/Tularis1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cb075b/windows_app_ping_monitor/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:23:44 GMT</pubDate>
+    </item>
     <item>
       <title>Macrium Reflect：尺寸放大</title>
       <link>https://www.reddit.com/r/software/comments/1cazo8i/macrium_reflect_size_blowing_up/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找一个 Android 应用程序下载管理器，它允许我将文件从互联网远程下载到我的电脑上   由   提交 /u/ItsDrake2000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cac3jk/looking_for_an_android_app_download_manager_that/</guid>
       <pubDate>Mon, 22 Apr 2024 14:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有书签和字幕窗格的媒体播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1caa0de/media_player_with_bookmark_and_subtitle_panes/</link>
-      <description><![CDATA[正在寻找一个媒体播放器，能够为可点击的视频书签显示专用且可滚动的窗格。 也可以如果它有一个类似于 youtube 中的小字幕窗口的窗格，它会向您显示可滚动、可搜索和可点击的字幕视图，那就太好了。  这是我想要为教育内容做的设置。如果您需要记忆或有疑问，请在书签之间跳转。比为每个视频添加注释以及打开视频时必须打开注释等更快、更简单 存在这样的东西吗？   由   提交 /u/tenclowns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1caa0de/media_player_with_bookmark_and_subtitle_panes/</guid>
-      <pubDate>Mon, 22 Apr 2024 12:54:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
