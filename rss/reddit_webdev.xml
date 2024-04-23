@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 03:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 06:26:41 GMT</lastBuildDate>
+    <item>
+      <title>如何在 adminbro/adminjs 中处理复合主键？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</link>
+      <description><![CDATA[       由   提交/u/PrestigiousZombie531   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</guid>
+      <pubDate>Tue, 23 Apr 2024 04:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Laravel 8 部署到 NameCheap 托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</link>
+      <description><![CDATA[为什么将 Laravel 项目上传到 NameCheap 这么困难？？？ 我一直在使用教程、博客和他们的官方文档，而且，我还没有找到上传它的方法，到目前为止，我只能部署一些将​​ php 代码显示为文本的 HTML，并且没有 CSS，如果我按任何内容就会崩溃。 有谁有正确执行此操作的指南吗？  我已经连续 6 个小时处理这个了:(    提交者    /u/Comfortable_Guide210   [链接]  [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</guid>
+      <pubDate>Tue, 23 Apr 2024 04:37:25 GMT</pubDate>
+    </item>
     <item>
       <title>Saas订阅支付平台，有推荐吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cauaya/subscription_payment_platform_for_saas/</link>
@@ -64,14 +78,14 @@
     <item>
       <title>作为一名正在寻找全栈 Web 开发人员的设计师，我该从哪里开始？</title>
       <link>https://www.reddit.com/r/webdev/comments/1caoabz/as_a_designer_looking_for_a_fullstack_web/</link>
-      <description><![CDATA[我设计了一个适用于桌面和移动设备的 Web 应用程序，我可以通过 Figma 或类似工具提供该应用程序。网站结构、文本、图形和图像都已完成。这就是我的专业知识的终点。 作为一个几乎没有写过一行代码并且只是到处使用网站构建器的人，我如何才能找到一个或如果需要的话多个开发人员来转变我的想法？设计成准备发布的网站？ 我不是在问你们招聘过程的后勤工作，而是在问技术方面的问题。我是否收集足够的知识来决定语言和前端/后端框架，然后专门为此雇用，或者我是否寻找一般的网络开发人员并让专业人员决定使用哪些工具？ 关于网站：与我们的网站最接近的众所周知的比较可能是 Etsy：用户 A 应该能够登录列出产品，用户 B 应该能够登录购买/下载产品，随之而来的是一系列常见功能，例如评论部分/评论、产品过滤器、配置文件设置、随附的后端等等。 我非常愿意花时间学习基础知识，也愿意把钱花在了解这些基础知识的人身上。如果你们能让我朝这个方向迈出第一步，我将非常感激！   由   提交/u/xX2L82H8Xx   [链接] [评论]]]></description>
+      <description><![CDATA[我设计了一个桌面和移动设备的 Web 应用程序，我可以通过 Figma 或类似程序提供。网站结构、文本、图形和图像都已完成。这就是我的专长所在。 作为一个几乎没有写过一行代码、只是偶尔使用网站构建器的人，我如何才能找到一个或必要时多个开发人员来将我的设计变成可以发布的网站？ 我不是问你们招聘流程的后勤问题，而是问它的技术方面。我是否收集了足够的知识来决定选择一种语言和前端/后端框架，然后专门为此聘请人员，还是我一般寻找 Web 开发人员并让专业人士决定使用哪些工具？ 关于网站：与我们的网站最接近的知名比较可能是 Etsy：用户 A 应该能够登录列出产品，用户 B 应该能够登录购买/下载产品，并附带许多常见功能，如评论部分/评论、产品过滤器、配置文件设置、随附的后端等。 我非常愿意花时间学习基础知识，也愿意花钱找一个了解这些基础知识的人。如果你们能让我朝这个方向迈出第一步，我将不胜感激！    提交人    /u/xX2L82H8Xx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1caoabz/as_a_designer_looking_for_a_fullstack_web/</guid>
       <pubDate>Mon, 22 Apr 2024 22:34:16 GMT</pubDate>
     </item>
     <item>
       <title>开发商想要什么。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cam0lk/what_does_a_developer_want/</link>
-      <description><![CDATA[我正在使用Figma 构建应用程序。我需要将其传递给开发人员，以便他可以聘请图形设计师，他们可以实现这一目标。如果您是开发人员，我怎样才能使这个过程变得简单无痛。 更新!!! 谢谢大家。此时我将雇佣一个团队并让他们告诉我应该发生什么。我没有意识到其中有这么多。我想我制作了一个线框，图形设计师可以让它看起来不错，而开发人员可以将它们组合在一起。我没有这方面的经验，所以开发人员或编码员，这不是同一个工作吗？  即使做了线框，我想，雇佣员工来为员工接听电话而不是做一个员工门户会更容易。哈哈 再次感谢。    由   提交/u/Separate_Depth_141   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用Figma 构建应用程序。我需要将其传递给开发人员，以便他可以聘请图形设计师，他们可以实现这一目标。如果您是开发人员，我怎样才能使这个过程变得简单无痛。 更新！！！ 谢谢大家。此时我将雇佣一个团队并让他们告诉我应该发生什么。我没有意识到其中有这么多。我想我制作了一个线框，图形设计师可以让它看起来不错，而开发人员可以将它们组合在一起。我没有这方面的经验，所以开发人员或编码员，这不是同一个工作吗？  即使做了线框，我想，雇佣员工来为员工接听电话而不是做一个员工门户会更容易。哈哈 再次感谢。    由   提交/u/Separate_Depth_141   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cam0lk/what_does_a_developer_want/</guid>
       <pubDate>Mon, 22 Apr 2024 21:07:36 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[从 14 岁起，我就一直使用 3 个屏幕来设置我的办公桌。当然，这让我进入 Web 开发领域变得非常容易。我可以在左侧显示器上显示 chrome 工具，在中间显示 VS Code，在右侧显示我的网站。我想转换回只使用 1 个屏幕，特别是我的笔记本电脑，这样我就可以在床上或沙发上编码，但在使用 3 个屏幕这么长时间后，这似乎相当困难。  有什么好的建议吗？是我想多了吗？我是否只需要熟练使用 alt tab 键即可？   由   提交/u/FLSOC  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1caktln/for_those_who_only_use_1_monitor_or_their_laptop/</guid>
       <pubDate>Mon, 22 Apr 2024 20:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道为什么我的 Flexbox 布局中有这些巨大的间隙吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cak7jn/any_idea_why_i_have_these_huge_gaps_in_my_flexbox/</link>
-      <description><![CDATA[       由   提交/u/Jutboy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cak7jn/any_idea_why_i_have_these_huge_gaps_in_my_flexbox/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[咆哮] Reddit.com 的移动体验是####。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cak1n8/rant_redditcom_mobile_experience_is/</link>
-      <description><![CDATA[而且我没有安装一个该死的应用程序来阅读页面上的文本。   由   提交 /u/GroundPepper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cak1n8/rant_redditcom_mobile_experience_is/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:38:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
