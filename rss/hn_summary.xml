@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 21:13:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 48 年后，Zilog 将停止生产其经典的独立 Z80 微处理器芯片 [...]</title>
-      <link>https://t.me/hn_summary/85991</link>
-      <description><![CDATA[48年后，Zilog正在扼杀经典的独立Z80微处理器芯片&lt; /a&gt;
-48 年后，Zilog 即将停产其经典的独立 Z80 微处理器芯片，并于 2024 年 6 月 14 日停止销售。为 Nintendo Game Boy 和 Sinclair ZX Spectrum 等设备提供支持的 Z80 架构将不再以其原始 DIP 形式提供。喜欢熟悉 Z80 架构或需要在不进行重大重新设计的情况下升级旧系统的设计人员将需要寻找替代方案。 Zilog 将继续生产 eZ80 微控制器系列，这是 Z80 系列的更快版本。这标志着标志性 Z80 芯片时代的结束，该芯片在微型计算机革命中发挥了重要作用。]]></description>
-      <guid>https://t.me/hn_summary/85991</guid>
-      <pubDate>Tue, 23 Apr 2024 15:18:52 GMT</pubDate>
+      <title>[媒体] 包括保拉·文内尔斯 (Paula Vennells) 在内的前邮局高管被指控使用“ab [...]</title>
+      <link>https://t.me/hn_summary/86065</link>
+      <description><![CDATA[前邮局老板为《地平线》寻找“非情绪化的词语”错误，询问
+包括 Paula Vennells 在内的前邮局高管被指控使用“绝对奥威尔式”的语言来淡化 Horizo​​n IT 系统中的计算机错误，这些错误导致了对邮局操作员的错误起诉。维内尔斯甚至寻求她丈夫的帮助，为这些错误找到“非情绪化”的词语，这些词语后来被称为“分支例外”。调查还显示，前高级律师苏珊·克莱顿(Susan Crichton)建议将有刑事定罪的经营者排除在调查之外，其中包括被错误监禁的西玛·米斯拉(Seema Misra)。克莱顿对造成的痛苦表示歉意，并承认这是一个短视的决定。丑闻在调查中继续展开。]]></description>
+      <guid>https://t.me/hn_summary/86065</guid>
+      <pubDate>Tue, 23 Apr 2024 21:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>具有 3.8B 参数的 Phi-3 Mini-128K-Instruct 模型已发布，重点关注 hi [...]</title>
-      <link>https://t.me/hn_summary/85990</link>
-      <description><![CDATA[Phi-3 权重发布
-具有 3.8B 参数的 Phi-3 Mini-128K-Instruct 模型已发布，重点关注高质量推理特性。它经历了遵循指令和安全措施的培训后流程。该模型在常识、语言理解、数学、代码、长上下文和逻辑推理的基准测试中表现出色。它专为内存/计算受限的环境和延迟受限的场景而设计，提供强大的推理能力。开发人员应在使用前考虑限制并评估准确性、安全性和公平性。负责任的人工智能考虑因素包括潜在的不公平、不可靠或攻击性行为，强调需要采取额外的缓解措施并遵守相关法律法规。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85990</guid>
-      <pubDate>Tue, 23 Apr 2024 15:11:45 GMT</pubDate>
+      <title>[媒体] 阿拉姆语原始新约理论认为基督教新约是 [...]</title>
+      <link>https://t.me/hn_summary/86064</link>
+      <description><![CDATA[阿拉姆语原始新约理论
+阿拉姆语原始新约理论认为基督教新约最初是用阿拉姆语写成的。虽然主流学者认为《新约》是用希腊语写成的，但也有一些人认为《新约》是用阿拉姆语写成的，比如《Peshitta》。乔治·拉姆萨 (George Lamsa) 将《Peshitta》翻译成英语，引发了西方对阿拉姆语起源的兴趣。然而，他的翻译并没有被学者广泛接受。一些学者，如 E. Jan Wilson，认为马太福音和路加福音源自阿拉姆语原文。争论仍在继续，一些人主张阿拉姆语优先，而另一些人则维持希腊语的原始假设。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86064</guid>
+      <pubDate>Tue, 23 Apr 2024 21:11:58 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：本文探讨了备受争议的餐厅预订转售领域，其中 [...]</title>
-      <link>https://t.me/hn_summary/85989</link>
-      <description><![CDATA[为什么无法预订餐厅&lt; br /&gt;
-摘要：本文探讨了颇具争议的餐厅预订转售领域，其中 Alex Eisler 和 PerceptiveWash44 等个人通过出售顶级餐厅的预订赚取了数千美元。有些人使用机器人来更快地确保预订，而像 Nicky DiMaggio 这样的其他人则收取高额费用来确保餐桌安全。还讨论了 Dorsia 等独家预订应用程序的兴起，这些应用程序需要在顶级餐厅预付款。本文深入探讨了餐厅预订的历史和在线预订平台不断发展的格局。这篇文章强调了一些人为了获得令人垂涎的预订而付出的努力以及对餐饮业的影响。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85989</guid>
-      <pubDate>Tue, 23 Apr 2024 15:10:41 GMT</pubDate>
+      <title>[媒体]Adobe 推出了新的 Firefly Image 3 模型，这是 imag 领域的突破性进步 [...]</title>
+      <link>https://t.me/hn_summary/86063</link>
+      <description><![CDATA[Adobe 推出 Firefly Image 3 模型
+Adobe 推出了新的 Firefly Image 3 模型，这是图像生成技术的突破性进步。该模型为用户提供了逼真的质量、增强的造型功能和更大的创意控制。 Image 3 模型现已在 Firefly Web 应用程序、Adobe Photoshop 和 Adob​​e InDesign 上提供测试版，允许无缝集成到创意工作流程中。此外，Adobe 还通过内容真实性计划等举措强调负责任的人工智能开发，确保数字内容创建的透明度。用户今天就可以试用 Firefly Image 3 模型，体验其创新功能。]]></description>
+      <guid>https://t.me/hn_summary/86063</guid>
+      <pubDate>Tue, 23 Apr 2024 21:10:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]今天的大学生没有像他们应该的那样学习，导致人们担忧[...]</title>
-      <link>https://t.me/hn_summary/85988</link>
-      <description><![CDATA[大学生应该多学习
-如今的大学生没有达到应有的学习量，导致人们对他们所接受的教育质量感到担忧。过去严格的教学方法与当前的分数膨胀和宽松趋势之间的对比凸显了学术严谨性的下降。这种对学术的缺乏关注与学习成果的减少以及学生满意度优先于教育卓越的转变有关。围绕这一问题的争议反映了关于高等教育机构的目的和使命的更广泛的辩论，对大学教育的未来产生了影响。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85988</guid>
-      <pubDate>Tue, 23 Apr 2024 15:09:03 GMT</pubDate>
+      <title>[媒体] 据报道，苹果备受期待的 Vision Pro 耳机面临着需求低迷的局面，或 [...]</title>
+      <link>https://t.me/hn_summary/86062</link>
+      <description><![CDATA[据报道，苹果因需求低迷而削减 Vision Pro 产量 
+据报道，苹果备受期待的 Vision Pro 耳机面临着需求低迷的局面，甚至在其国际发布之前就已经削减了订单。分析师 Ming-Chi Kuo 透露，苹果目前预计 2024 年的销量将大大低于最初的预期。这款售价 3,500 美元的耳机以技术实力着称，但未能达到销售预期，促使苹果调整了耳机路线图。这一意外的挫折可能会对整个行业产生影响，因为某些 VR 和 AR 专用组件可能无法达到大规模生产所需的采用率。 Apple 低成本混合现实耳机的未来目前尚不确定，可能会推迟到 2025 年之后。]]></description>
+      <guid>https://t.me/hn_summary/86062</guid>
+      <pubDate>Tue, 23 Apr 2024 21:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>在正在进行的俄罗斯-乌克兰战争中，乌克兰尽管没有海军，但已成功摧毁 [...]</title>
-      <link>https://t.me/hn_summary/85987</link>
-      <description><![CDATA[乌克兰这个没有海军的国家摧毁了超过25艘俄罗斯军舰&lt; /a&gt;
-在正在进行的俄乌战争中，乌克兰尽管没有海军，但利用创新战术和现代技术成功摧毁了超过 25 艘俄罗斯军舰。通过利用反坦克导弹、战术弹道导弹、反舰和巡航导弹以及空中和海上无人机，乌克兰在黑海海军战区取得了重大胜利。这些军舰的毁坏引发了人们对传统海军在现代战争中有效性的质疑。尽管航空母舰仍然具有巨大的价值，但导弹和无人机击沉昂贵军舰的成本效益可能会改变海战的未来。这种策略对中国入侵台湾等潜在冲突的影响还有待观察。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85987</guid>
-      <pubDate>Tue, 23 Apr 2024 15:05:58 GMT</pubDate>
+      <title>约翰·霍普金斯大学医学院领导的一项开创性研究表明，d-柠檬烯是一种天然化学物质 [...]</title>
+      <link>https://t.me/hn_summary/86061</link>
+      <description><![CDATA[大麻中天然存在的化学物质可能会减少 THC 引起的焦虑作用&lt; /a&gt;
+约翰霍普金斯大学医学中心领导的一项开创性研究表明，大麻中发现的天然化学物质 d-柠檬烯可以显着减少 THC 引起的焦虑，而不影响其预期效果。这一发现有可能增强 THC 的医疗用途并降低与娱乐用途相关的风险。该研究涉及单独蒸发 d-柠檬烯以及与 THC 结合使用，结果显示焦虑和偏执明显减少。这项研究为探索其他萜烯及其与 THC 的相互作用打开了大门，旨在使大麻对治疗和非治疗使用者来说更安全。]]></description>
+      <guid>https://t.me/hn_summary/86061</guid>
+      <pubDate>Tue, 23 Apr 2024 21:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>作者是 MongoDB 的前高级工程师，分享了他们与 An [...]</title>
-      <link>https://t.me/hn_summary/85986</link>
-      <description><![CDATA[在 MongoDB 中使用对偶
-作者是 MongoDB 的前高级工程师，他分享了他们使用 Antithesis 的经验，Antithesis 是 MongoDB 用于严格测试其应用程序代码的测试平台。作者讲述了 Antithesis 发现的涉及数据损坏的特定测试失败。通过详细的分析以及与Antithesis的协作，问题的根源追溯到了与复制回滚相关的存储引擎代码。 Antithesis 采用的独特测试技术涉及检查点和分支模拟，事实证明，它在重现错误和查明错误发生的确切时间方面具有无价的价值。作者强调了调查数据损坏问题的挑战和复杂性，以及与 Antithesis 等测试合作伙伴合作解决此类关键错误的重要性。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85986</guid>
-      <pubDate>Tue, 23 Apr 2024 15:03:22 GMT</pubDate>
+      <title>[媒体]社交媒体平台X在法庭上与澳大利亚政府对峙 [...]</title>
+      <link>https://t.me/hn_summary/86060</link>
+      <description><![CDATA[澳大利亚政府命令 X 审查全球内容&lt; br /&gt;
+社交媒体平台 X 在法庭上与澳大利亚政府对峙，要求其在全球范围内审查韦克利刺伤事件的视频。老板埃隆·马斯克(Elon Musk)以言论自由为由对这些命令提出质疑，而总理阿尔巴内塞则主张“社会正派”。这场争端引发了人们对各国政府在网络空间的权威的质疑。马斯克对内容的宽容态度与 Meta 的合规性形成鲜明对比，引发了全球关于审查制度的争论。这场法庭之争凸显了国家法律与科技巨头的交集。 X 是否遵守法院命令以及美国可能承认的情况仍存在不确定性。政府计划对虚假信息进行更广泛的打击，但面临着潜在言论自由限制的批评。]]></description>
+      <guid>https://t.me/hn_summary/86060</guid>
+      <pubDate>Tue, 23 Apr 2024 21:07:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据报道，苹果正在使用台积电的 3nm 工艺开发自己的 AI 服务器处理器，这是一种 [...]</title>
-      <link>https://t.me/hn_summary/85985</link>
-      <description><![CDATA[据称苹果正在使用台积电 3nm 工艺开发自己的 AI 服务器处理器
-据报道，苹果正在采用台积电 3nm 工艺开发自己的 AI 服务器处理器，目标是在 2025 年下半年实现量产。拥有准确预测记录的微博用户“手机芯片专家”暗示苹果正朝着设计自己的 AI 处理器迈进。这一战略转变反映了苹果公司根据软件需求定制硬件的垂直整合方法，有可能带来更强大、更高效的技术。尽管该公司专注于设备上的处理，但定制处理器可以增强苹果的数据中心和未来的人工智能工具。此举凸显了苹果对其创新和供应链控制的承诺。]]></description>
-      <guid>https://t.me/hn_summary/85985</guid>
-      <pubDate>Tue, 23 Apr 2024 15:00:15 GMT</pubDate>
+      <title>[媒体] AI 驱动的漫画工作室 Shortbread 正在 SF 寻找创始工程师。</title>
+      <link>https://t.me/hn_summary/86059</link>
+      <description><![CDATA[Shortbread (YC W23) 正在 SF 招聘一名 AI 创始工程师漫画创作
+Shortbread 是一家由 AI 驱动的漫画工作室，正在 SF 寻找创始工程师。由网络漫画艺术家和工程师组成的团队正在彻底改变漫画的创作方式，让任何人无需绘画技能即可制作自己的视觉故事。该初创公司拥有超过 6 万测试版用户，提供所有权、影响力以及尖端生成人工智能研究的机会。亲密的团队重视社区并提供 401(k) 计划和医疗保健等福利。要求包括全栈开发经验以及熟悉 React、NodeJS 等。最好的条件包括对网络漫画的热情和生成人工智能技术的经验。与我们一起塑造漫画的未来！]]></description>
+      <guid>https://t.me/hn_summary/86059</guid>
+      <pubDate>Tue, 23 Apr 2024 21:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]朝鲜正在通过秘密动画《麦克斯》和《亚马逊》等热门节目来逃避制裁。</title>
-      <link>https://t.me/hn_summary/85984</link>
-      <description><![CDATA[朝鲜通过制作 Max 和 Amazon 等热门节目的动画来逃避制裁
-朝鲜通过秘密制作 Max 和 Amazon 等热门节目的动画来逃避制裁。研究人员在服务器上发现了暗示朝鲜参与的文件，包括马的视频和一本关于马的俄罗斯书籍。虽然美国公司被禁止与朝鲜实体合作，但据信主要制片人并不知道这种情况。朝鲜动画公司 April 26 Animation Studio (SEK Studio) 有国际工作的历史，但因逃避制裁而受到美国财政部的制裁。朝鲜 IT 工作者正在渗透企业为该政权提供资金，美国联邦调查局就他们的策略发出了警告。这种情况凸显了识别和阻止朝鲜网络活动的挑战。]]></description>
-      <guid>https://t.me/hn_summary/85984</guid>
-      <pubDate>Tue, 23 Apr 2024 14:56:40 GMT</pubDate>
+      <title>问 HN：如何提高 PCB 原型设计迭代时间？</title>
+      <link>https://t.me/hn_summary/86058</link>
+      <description><![CDATA[询问 HN：如何提高 PCB 原型设计迭代时间？
+您是否厌倦了 PCB 原型设计的漫长交付周期？作为一名可穿戴技术开发人员，我知道其中的挣扎。 JLCPCB 3-4 周的等待耗尽了我的迭代时间。考虑搬到深圳以更快地制作原型。有什么建议或经验可以分享吗？让我们集思广益，讨论如何加快流程并让我们的产品更快上市。加入 news.ycombinator 上有关如何改进 PCB 原型设计迭代时间的讨论。 com。让我们一起创新吧！]]></description>
+      <guid>https://t.me/hn_summary/86058</guid>
+      <pubDate>Tue, 23 Apr 2024 20:59:26 GMT</pubDate>
     </item>
     <item>
-      <title>1957 年，冷战期间，双方都认真考虑过用核武器攻击月球的想法 [...]</title>
-      <link>https://t.me/hn_summary/85983</link>
-      <description><![CDATA[卡尔·萨根，用核武器攻击月球，而不是用核武器攻击月球
-1957年，冷战期间，苏联和美国都认真考虑过用核武器攻击月球的想法。苏联的“E-4计划”和美国的“A119计划”都进行了探索，主要目标是展示火箭和航天能力。然而，潜在的环境和科学后果，例如扰乱月球研究和散落碎片，也被考虑在内。最终，这些项目没有实施，部分归功于约书亚·莱德伯格和卡尔·萨根等科学家的努力，他们主张谨慎对待太空探索和污染。这篇引人入胜的文章深入探讨了这些有争议的提案的历史和影响。]]></description>
-      <guid>https://t.me/hn_summary/85983</guid>
-      <pubDate>Tue, 23 Apr 2024 14:47:32 GMT</pubDate>
+      <title>《纽约时报》因其对加沙的报道而面临内部冲突，特别是报道声称 [...]</title>
+      <link>https://t.me/hn_summary/86057</link>
+      <description><![CDATA[《纽约时报》黄铜行动以阻止有关加沙报道的泄密
+《纽约时报》因其对加沙的报道而面临内部冲突，特别是声称哈马斯将性暴力武器化的报道。这场争议引发了一项泄密调查，引发了针对中东和北非记者的歧视指控。调查最终没有得出明确的结论，但其后果包括与一名自由职业者断绝关系，以及一个关于性侵犯的故事被揭穿。尽管证据与他们的报道相矛盾，《泰晤士报》仍坚持其报道，引发了对透明度和编辑流程的质疑。这一事件凸显了新闻诚信面临的挑战以及一家著名新闻机构内部的冲突。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86057</guid>
+      <pubDate>Tue, 23 Apr 2024 20:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>我们很高兴地宣布获得 1800 万美元的新融资，其中由 Spark 领投的 1700 万美元的 A-1 轮融资 [...]</title>
-      <link>https://t.me/hn_summary/85982</link>
-      <description><![CDATA[框架系列A-1
-我们很高兴地宣布获得 1800 万美元的新融资，其中由 Spark Capital 领投的 1700 万美元 A-1 轮融资。我们以尊重人类和地球的方式重塑消费电子产品的使命一直推动着我们的成功。借助这笔新资金，我们将扩大业务范围，深化对现有客户的支持，并扩展到新的产品类别。我们还为 100 名个人提供 100 万美元的社区融资，以投资 Framework。通过投资或申请加入我们的团队来加入我们的使命。让我们一起整顿这个行业。]]></description>
-      <guid>https://t.me/hn_summary/85982</guid>
-      <pubDate>Tue, 23 Apr 2024 14:33:54 GMT</pubDate>
+      <title>[媒体] Z 世代正在通过创建“Nospace”这一现代 Ta [...]</title>
+      <link>https://t.me/hn_summary/86056</link>
+      <description><![CDATA[Z 世代将 MySpace 重新打造为“Nospace”——拥有 38 万人候补名单
+Z 世代正在通过创建“Nospace”来震撼社交媒体场景，这是 MySpace 的现代版本，旨在带回真实的联系和自我表达。 27 岁的创始人蒂芙尼钟希望提供一个平台，让用户可以分享自己的兴趣并以更有意义的方式与他人互动。 Nospace 的等候名单超过 380,000 人，预计于 2024 年夏季推出，提供可定制个人资料、点赞代替点赞以及全球群聊体验等功能。这种远离算法驱动平台的转变标志着对真正联系的渴望以及对社交媒体规范的突破。]]></description>
+      <guid>https://t.me/hn_summary/86056</guid>
+      <pubDate>Tue, 23 Apr 2024 20:52:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
