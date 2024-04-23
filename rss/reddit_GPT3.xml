@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:22:46 GMT</lastBuildDate>
+    <item>
+      <title>基于您个性的人工智能提示</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1cb8z6w/ai_tips_based_on_your_personality/</link>
+      <description><![CDATA[人工智能有潜力帮助我们做出更好的决策，甚至更好地了解自己。生成有价值的人工智能内容的大部分重点在于提供正确的提示。正确的提示不仅仅意味着让 ChatGPT 正确理解您的问题，还意味着提供正确的信息，以便它可以根据您的个人情况定制答案。 每个人都是不同的，这是我们的方式之一不同的是我们独​​特的个性。如果您询问 ChatGPT 如何解决问题，例如建议合适的职业或提高某些技能，其答案的强度将在很大程度上取决于用户的个性。某些建议将有利于某些人而不是其他人。因此，当您询问某些问题时，向其提供有关您个性的详细信息是有好处的。下次您使用 ChatGPT 或任何其他 AI 聊天机器人时，请随意尝试一下。 如果您有兴趣，可以尝试我们的免费功能 TraitGuru 来测试一下。您输入您的大五人格得分并向 TraitGuru 询问一个问题。 TraitGuru 将为您提供适合您个性的答案。如果您有兴趣尝试 TraitGuru，请访问我们的网站：https://traitmash.com/traitguru/ &lt; /div&gt;  由   提交 /u/TraitMash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1cb8z6w/ai_tips_based_on_your_personality/</guid>
+      <pubDate>Tue, 23 Apr 2024 16:28:02 GMT</pubDate>
+    </item>
     <item>
       <title>AI 新闻：Apple 正在开发完全基于设备的法学硕士。</title>
       <link>https://www.reddit.com/r/GPT3/comments/1caio8i/ai_news_apple_is_working_on_an_entirely_ondevice/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>GPU 消耗的能源比整个国家消耗的能源还要多</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c6ybnc/gpus_burn_more_energy_than_entire_nations/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/FarPercentage6591   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/FarPercentage6591   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c6ybnc/gpus_burn_more_energy_than_entire_nations/</guid>
       <pubDate>Thu, 18 Apr 2024 08:34:28 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>GPT3.5 API JSON 响应</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c3xjuv/gpt35_api_json_response/</link>
-      <description><![CDATA[      我在项目中使用 GPT API，并将响应指定为 JSON 格式。一旦我将它存储在数据库中并检索它，每个字母都会被返回，以便在 JSON 对象中拥有其单独的索引。 我该如何解决这个问题？ 这是我指定格式的提示 “仅提供遵循此格式且​​无偏差的符合 RFC8259 的 JSON 响应。”  然后我给了它一个关于响应格式的示例 这是我在将 json 存储在数据库后打印出来时得到的结果 https://preview.redd.it /xuumh11c1huc1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=36a6b80715476092ad59a13b1806746502b410c4   由   提交 /u/StrangePercentage340   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我正在为我的项目使用 GPT API，并且我将响应指定为 JSON 格式。一旦我将其存储在数据库中并检索它，每个字母都会返回在 JSON 对象中具有其单独的索引。 我该如何解决这个问题？ 这是我在提示中指定格式的部分 “仅提供遵循此格式的符合 RFC8259 的 JSON 响应，无偏差。”  然后我给了它一个关于响应格式的例子 这是我将 json 存储在数据库后打印出来时得到的结果 https://preview.redd.it/xuumh11c1huc1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=36a6b80715476092ad59a13b1806746502b410c4    由    /u/StrangePercentage340  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c3xjuv/gpt35_api_json_response/</guid>
       <pubDate>Sun, 14 Apr 2024 16:28:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我目前正在免费使用我的 GPT-3.5 Turbo 密钥，但我很困难，因为每分钟有 3 个请求的限制。我正在考虑将我的密钥升级到 OpenAI 网站上的第一层。他们说它的价格是 5 美元——这是正确的吗？此外，还有 100 美元的使用限制 — 这到底是什么意思？   由   提交 /u/StrangePercentage340   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c1uqm9/gpt35turbo_api_key/</guid>
       <pubDate>Fri, 12 Apr 2024 00:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>MistralAI 8x22B 与 DBRX 指令； Gemini 1.5 Pro 与 GPT-4-Turbo 视觉</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1c1pujw/mistralai_8x22b_vs_dbrx_instruct_gemini_15_pro_vs/</link>
-      <description><![CDATA[       由   提交/u/gorimur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1c1pujw/mistralai_8x22b_vs_dbrx_instruct_gemini_15_pro_vs/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:47:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
