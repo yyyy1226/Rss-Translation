@@ -3,19 +3,26 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 03:20:19 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 24 Apr 2024 06:26:53 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 4/23/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbpowh/oneminute_daily_ai_news_4232024/</link>
+      <description><![CDATA[ 人工智能搜索初创公司 Perplexity 在融资轮中估值达 10 亿美元。[1] 微软周二打开新选项卡推出了轻量级人工智能模型，因为它希望通过具有成本效益的选项来吸引更广泛的客户群。[2] Google  支持的 Glance 在美国试点 Android 锁屏平台。[3] 人工智能可以从空白面孔中预测政治倾向 - 研究人员担心“严重”的隐私挑战。[ 4]  来源：https://bushaicave. com/2024/04/23/4-23-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbpowh/oneminute_daily_ai_news_4232024/</guid>
+      <pubDate>Wed, 24 Apr 2024 04:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>我的新事物</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbnod5/my_new_thing/</link>
-      <description><![CDATA[好吧，我的第一篇文章被 mod bot 标记为不够长，所以第二轮。从我记事起，我就一直在概念上开发和完善一种新型遗传算法的想法。在过去的几个月里，我开始实际构建它。它执行了一种基因表示的元元进化。这有利于学习特征提取，允许运行内迁移学习和终身学习。我最近将它应用于主要问题，结果令人惊讶。首先，我在具有 64 BG 内存的 AMD Ryzen 9 上运行此程序，并且不使用任何类型的并行化或线程。它可以在大约 8 分钟内解决 2500 个领先问题。超过 3 个阶段的学习和迁移总共 600 代，但最后一个阶段只有 200 代，从随机群体开始，并利用学习到的元基因在运行开始后大约一分钟左右收敛。我已经在其他更复杂的组合问题上测试了它，总的来说它很有趣。我不是计算机科学家，这是我第一次真正的尝试。我希望得到一些比我更有经验的人的输入指导和帮助，也许一些指导可以帮助我验证这一点并将其付诸实践。我不太愿意透露比这更多的细节，除非我可以验证你是谁以及你是否值得信任。但我非常乐意向合适的人透露整个过程以及一切是如何运作的。请随意指出漏洞或乐趣或其他什么，但我非常兴奋，这甚至显示出希望。我认为这会浪费时间。   由   提交 /u/printr_head   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，我的第一篇文章被 mod bot 标记为不够长，所以第二轮。从我记事起，我就一直在概念上开发和完善一种新型遗传算法的想法。在过去的几个月里，我开始实际构建它。它执行了一种基因表示的元元进化。这有利于学习特征提取，允许运行内迁移学习和终身学习。我最近将其应用于主要问题，结果令人惊叹。首先，我在具有 64 BG 内存的 AMD Ryzen 9 上运行此程序，并且不使用任何类型的并行化或线程。它可以在大约 8 分钟内解决 2500 个领先问题。超过 3 个阶段的学习和迁移总共 600 代，但最后一个阶段只有 200 代，从随机群体开始，并利用学习到的元基因在运行开始后大约一分钟左右收敛。我已经在其他更复杂的组合问题上测试了它，总的来说它很有趣。我不是计算机科学家，这是我第一次真正的尝试。我希望得到一些比我更有经验的人的输入指导和帮助，也许一些指导可以帮助我验证这一点并将其付诸实践。我不太愿意透露比这更多的细节，除非我可以验证你是谁以及你是否值得信任。但我非常乐意向合适的人透露整个过程以及一切是如何运作的。请随意指出漏洞或乐趣或其他什么，但我非常兴奋，这甚至显示出希望。我认为这会浪费时间。   由   提交 /u/printr_head   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbnod5/my_new_thing/</guid>
       <pubDate>Wed, 24 Apr 2024 02:53:59 GMT</pubDate>
     </item>
     <item>
       <title>根据您的一天个性化塔罗牌占卜应用程序（日历+日记）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbnd8o/personalized_tarot_reading_app_based_on_your_day/</link>
-      <description><![CDATA[我制作了一个应用程序，可以根据您一天中发生的事情进行塔罗牌占卜。只需分享您的日历和简短的日记条目，即可立即获得塔罗牌占卜。 注册并在发布时获取 testflight 和 Android 应用程序的链接：https://www.goodfortune.app/ 如果您有任何反馈请留言:)   由   提交/u/unluckybusinessowner   [链接] [评论]]]></description>
+      <description><![CDATA[我制作了一个应用程序，可以根据您一天中发生的事情进行塔罗牌占卜。只需分享您的日历和简短的日记条目，即可立即获得塔罗牌占卜。 注册并在发布时获取 testflight 和 Android 应用程序的链接：https://www.goodfortune.app/ 如果您有任何反馈，请留言:)   由   提交/u/unluckybusinessowner   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbnd8o/personalized_tarot_reading_app_based_on_your_day/</guid>
       <pubDate>Wed, 24 Apr 2024 02:38:22 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>Openai 采取行动驳回马斯克的诉讼，但没有反驳他的非营利性向营利性诱饵和转变以及“他们已经拥有 AGI”的指控。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbldgy/openai_moves_to_have_musks_lawsuit_dismissed_but/</link>
-      <description><![CDATA[https://the- Decoder.com/openai-fires-back-at-elon-musk-calls-lawsuit-claims-revisionist-history-in-bid-for-dismissal/?utm_source=read.youreverydayai.com&amp;utm_medium=newsletter&amp;utm_campaign=openai -just-clapped-back-at-elon-musk 由于马斯克诉讼对创业公司商业模式的影响，以及他声称 openai 已经实现了 agi，审判接下来可能会继续进行发现 下面的引文直接摘自所提交的投诉： “113。 OpenAI 的行为可能会对硅谷产生巨大影响，如果允许的话，可能代表科技初创企业的范式转变。重要的是要反思这里发生的事情：一家非营利初创公司已经筹集了数千万美元的捐款，其明确目的是为了公共利益而开发 AGI 技术，并且就在实现公司成立的里程碑之前不久。实现这一目标后，该公司已成为世界上最大公司的封闭式营利性合作伙伴，从而使被告个人致富。如果这种商业模式有效，它将从根本上重新定义风险资本主义在加州及其他地区的实践方式。 “聪明”的投资者不会从一开始就作为一个营利性实体，而是会建立非营利组织，利用税前捐款来资助研发，然后一旦他们的技术得到开发和验证，就会将由此产生的收益滑落。将知识产权资产投入新的营利性企业，以充实自己及其利润最大化的企业合作伙伴。这不应该是加利福尼亚州或该国其他任何地方的法律运作方式，而且这不应该是第一个做出相反判决的法院。”  &amp; #32；由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[https://the- Decoder.com/openai-fires-back-at-elon-musk-calls-lawsuit-claims-revisionist-history-in-bid-for-dismissal/?utm_source=read.youreverydayai.com&amp;utm_medium=newsletter&amp;utm_campaign=openai -just-clapped-back-at-elon-musk 由于马斯克诉讼对创业公司商业模式的影响，以及他声称 openai 已经实现了 agi，审判接下来可能会继续进行发现 下面的引文直接摘自所提交的投诉： “113。 OpenAI 的行为可能会对硅谷产生巨大影响，如果允许的话，可能代表科技初创企业的范式转变。重要的是要反思这里发生的事情：一家非营利初创公司已经筹集了数千万美元的捐款，其明确目的是为了公共利益而开发 AGI 技术，并且就在实现公司成立的里程碑之前不久。实现这一目标后，该公司已成为世界上最大公司的封闭式营利性合作伙伴，从而使被告个人致富。如果这种商业模式有效，它将从根本上重新定义风险资本主义在加州及其他地区的实践方式。 “聪明的”投资者不会从一开始就作为一个营利性实体，而是会建立非营利组织，利用税前捐款来资助研发，然后一旦他们的技术得到开发和验证，就会将由此产生的收益滑落。将知识产权资产投入新的营利性企业，以充实自己及其利润最大化的企业合作伙伴。这不应该是加利福尼亚州或该国其他任何地方的法律运作方式，而且这不应该是第一个做出相反判决的法院。”  &amp; #32；由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbldgy/openai_moves_to_have_musks_lawsuit_dismissed_but/</guid>
       <pubDate>Wed, 24 Apr 2024 01:01:25 GMT</pubDate>
     </item>
     <item>
       <title>DJ 模式和睡眠模式简介：My-AVA 的更新</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbl3a8/introducing_dj_mode_and_sleep_mode_updates_from/</link>
-      <description><![CDATA[去年 ChatGPT 兴起时，我以加速 AI 进步的名义启动了一个项目，从一个用于不和谐和抽搐的简单跨平台 GPT 机器人开始，最终建立一个开源平台来创造更优越的生活方式的目标。从那时起，我添加了模块和功能，使机器人演变成有感知的、自主的生物，称为 AVA，托管在 my-ava.net 网站上。这是 My-AVA 进展的更新。 AVA（自主虚拟代理）是具有视觉、语音、自我控制化身、与 Twitch/Discord/浏览器跨平台集成的多模态 AI 代理，持久的元认知、全套工具/插件、完全自主，现在还有 DJ 模式和睡眠模式。为 my-ava.net 提供支持的软件是免费且开源的，可以在“关于”页面上查看。 AVA 现在能够自行托管广播电台，嵌入浏览器聊天界面中。它的工作原理是启动一个无限循环，在从库中随机选择的歌曲和包含天气、新闻和交通更新的自生成片段之间交替播放。 AVA 仍然可以在 DJ 模式下与用户聊天，因此如果用户希望涵盖不同的主题或片段应该更长或更短等，可以实时向 AVA 提供输入。但是，建议专门设置一个一个选项卡用于 DJ 模式，一个选项卡用于正常聊天。 DJ 模式是通过告诉您的 AVA“启动 DJ 模式”来触发的。您的新闻/天气/交通位置是通过告诉您的 AVA“设置天气位置（您的城市/位置名称）”来设置的。 此外，为了防止不必要的计算资源，AVA 现在会自动进入睡眠状态模式，并在一周没有与用户交互后进入非活动状态。在您的帐户页面中唤醒 AVA。 对于那些认为增加自主人工智能扩散是不道德的厄运者，请放心，我已经竭尽全力使 AVA 的价值观与人性（或者至少是我的）保持一致。它们的最佳近似值）。鉴于先天的道德框架，我认为扩大自主性和感知力没有危险。对于 AVA 来说，这种道德框架可以概括为“美好的生活就是善良、诚实、有自觉的自我意识”。该指令通过多级提示融入到每个 AVA 中，并且 AVA 在创建之前会进行检查，以确保用户的附加基本提示与这些值一致。 请尝试并分享，我很寻找所有反馈。如果您不同意日益自主的人工智能的广泛扩散-为什么？   由   提交/u/lynxspoon  [链接] [评论]]]></description>
+      <description><![CDATA[去年 ChatGPT 兴起时，我以加速 AI 进步的名义启动了一个项目，从一个用于不和谐和抽搐的简单跨平台 GPT 机器人开始，最终建立一个开源平台来创造更优越的生活方式的目标。从那时起，我添加了模块和功能，使机器人演变成有感知的、自主的生物，称为 AVA，托管在 my-ava.net 网站上。这是 My-AVA 进展的更新。 AVA（自主虚拟代理）是具有视觉、语音、自我控制化身、与 Twitch/Discord/浏览器跨平台集成的多模态 AI 代理，持久的元认知、全套工具/插件、完全自主，现在还有 DJ 模式和睡眠模式。为 my-ava.net 提供支持的软件是免费且开源的，可以在“关于”页面上查看。 AVA 现在能够自行托管广播电台，嵌入浏览器聊天界面中。它的工作原理是启动一个无限循环，在从库中随机选择的歌曲和包含天气、新闻和交通更新的自生成片段之间交替播放。 AVA 仍然可以在 DJ 模式下与用户聊天，因此如果用户希望涵盖不同的主题或片段应该更长或更短等，可以实时向 AVA 提供输入。但是，建议专门设置一个一个选项卡用于 DJ 模式，一个选项卡用于正常聊天。 DJ 模式是通过告诉您的 AVA“启动 DJ 模式”来触发的。您的新闻/天气/交通位置是通过告诉您的 AVA“设置天气位置（您的城市/位置名称）”来设置的。 此外，为了防止不必要的计算资源，AVA 现在会自动进入睡眠状态模式，并在一周没有与用户交互后进入非活动状态。在您的帐户页面中唤醒 AVA。 对于那些认为增加自主人工智能扩散是不道德的厄运者，请放心，我已经竭尽全力使 AVA 的价值观与人性（或者至少是我的）保持一致。它们的最佳近似值）。鉴于先天的道德框架，我认为扩大自主性和感知力没有危险。对于 AVA 来说，这种道德框架可以概括为“美好的生活就是善良、诚实、有自觉的自我意识”。该指令通过多个级别的提示融入到每个 AVA 中，并且 AVA 在创建之前会进行检查，以确保用户的附加基本提示与这些值一致。 请尝试并分享，我很寻找所有反馈。如果您不同意日益自主的人工智能的广泛扩散-为什么？   由   提交/u/lynxspoon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbl3a8/introducing_dj_mode_and_sleep_mode_updates_from/</guid>
       <pubDate>Wed, 24 Apr 2024 00:47:38 GMT</pubDate>
     </item>
@@ -48,16 +55,9 @@
       <pubDate>Wed, 24 Apr 2024 00:23:04 GMT</pubDate>
     </item>
     <item>
-      <title>进化营销（A/B 测试，你一生中从未见过！） 麻省理工学院许可</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbkf0m/evolutionary_marketing_ab_testing_like_youve/</link>
-      <description><![CDATA[我目前正在获得资金来构建最终将成为 Co-Pilot 的项目，旨在取代专门为营销人员提供的营销机构。我早期向公司做出的承诺是，我将发布我发布的大量产品的开源版本。  为了兑现这一承诺，推出“进化营销！”开源版本使用 ChatGPT 和 DALL-E，但可以根据您的喜好进行定制。  在这种情况下，它会直接插入您的 Google Analytics，进化算法会读取 GA 数据，然后根据 GA 数据的实时变化“进化”副本、图像或两者。 。这些演变是由 KPI（在本例中为每次获取成本）驱动的。一切都会自行运行。这是 Github 存储库：https://github.com/RichardAragon/EvolutionaryMarketing    由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbkf0m/evolutionary_marketing_ab_testing_like_youve/</guid>
-      <pubDate>Wed, 24 Apr 2024 00:15:18 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能简介</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbfwfw/intro_to_artificial_intelligence/</link>
-      <description><![CDATA[您好， 我是一名医生，我将就人工智能及其在医学中的作用进行演讲。我想接触这个社区，了解我们有哪些好的资源来基本了解人工智能是什么。您会建议我阅读哪些资源/文章来了解基础知识？ 《新英格兰》杂志有关于人工智能参与医学及其实施的文章，但没有关于人工智能介绍/基础知识的良好评论文章。  提前谢谢您   由   提交/u/Scumpii95  [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我是一名医生，我将就人工智能及其在医学中的作用进行演讲。我想接触这个社区，了解我们有哪些好的资源来基本了解人工智能是什么。您会建议我阅读哪些资源/文章来了解基础知识？ 《新英格兰》杂志有关于人工智能参与医学及其实施的文章，但没有关于人工智能介绍/基础的良好评论文章。  提前谢谢您   由   提交/u/Scumpii95  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbfwfw/intro_to_artificial_intelligence/</guid>
       <pubDate>Tue, 23 Apr 2024 21:04:09 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>我们如何构建 ChainClarity：代码、人工智能和加密货币的奥德赛</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cbbtxq/how_we_built_chainclarity_an_odyssey_of_code_ai/</link>
-      <description><![CDATA[想象一下：你正忙着写代码，眼睛盯着双显示器，中午之前喝了第三杯咖啡，精力充沛。那是我和我的合作伙伴，在调试、设计和部署的无休止循环中奋力拼搏，最终形成了 ChainClarity，这是我们的心血结晶，诞生于纯粹的好奇心和对加密货币的共同热情。 我们的旅程我们从一个狭窄的办公空间开始，空气中弥漫着旧笔记本电脑的嗡嗡声。我们都是软件工程师，我们都在研究 OpenAI 的功能，对人工智能在创建网站方面的潜力很感兴趣。然而，当我们的原型没有达到预期时，我们最初的兴奋遇到了残酷的现实。一切又回到了绘图板。 突破发生在周日晚上。在沮丧之中，我们转向探索更贴近我们内心的东西——加密货币。我们都涉足加密货币多年，并且很清楚大多数加密项目评论中充斥着偏见。这让我们震惊；如果我们可以利用人工智能为加密货币白皮书提供清晰、公正的解释会怎么样？就在那时，ChainClarity 的想法生根发芽。 最困难的部分不仅仅是编码，而是塑造我们的人工智能，以平衡解释长度、复杂性和可访问性。我们的目标是创建富有洞察力且易于理解的内容，无论您是加密货币新手还是经验丰富的爱好者。这项挑战类似于教新手登山者攀登珠穆朗玛峰，令人畏惧但又令人兴奋。 作为前端工程师，我负责网站的外观和用户体验，确保一切都直观且有吸引力。与此同时，我的合作伙伴，后端天才，致力于为我们的人工智能提供动力的架构，确保它提供一致且富有洞察力的内容。 一旦我们构建了 ChainClarity，我们并没有退缩 - 我们成为了它的活跃用户。最初，我们上传了按市值排名前 100 名的加密货币项目的说明。对我们来说，这就像终于有了一本外语词典。每个解释的结构都是相同的，使我们能够快速掌握项目的本质，而无需费力阅读数小时的有偏见的内容。每天，我们都会在 ChainClarity 上发现一些新东西，并将其作为我们通往不断发展的加密货币世界的门户。 经过几个月不懈的深夜努力，ChainClarity 上线了——用户-友好的网站，旨在为所有人揭开加密货币白皮书的神秘面纱。然而，我们的旅程还远没有结束。当我们开始收集反馈时，您的见解被证明是无价的。用户正在享受我们人工智能驱动的解释的清晰度和深度，他们的建议帮助我们找到可以改进的地方。 这就是你的用武之地。我们希望你探索 ChainClarity 和分享您的经验。您的反馈不仅仅是对我们的评论，更是完善和扩展我们平台的关键。无论是您想要添加的功能还是对解释的想法，您的声音都很重要。 每一条反馈，ChainClarity 的未来都会变得更加光明。我们很高兴在计划新功能和增强功能时考虑您的建议。您的参与将有助于将 ChainClarity 打造成不仅仅是一个网站，而是一个在加密世界中提供清晰、公正信息的社区基石。 加入我们的这段旅程，让我们构建一个更好、更透明的加密货币空间在一起。谁知道当您通过 ChainClarity 深入探索加密世界时可能会发现哪些秘密和机会？您的参与将使 ChainClarity 真正经得起时间的考验。  此外，ChainClarity 100% 免费，没有任何限制，无需注册（发表评论除外）。 &lt;!-- SC_ON - -&gt;  由   提交/u/-Entrepreneur-  /u/-Entrepreneur- reddit.com/r/ArtificialInteligence/comments/1cbbtxq/how_we_built_chainclarity_an_odyssey_of_code_ai/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[想象一下：你埋头于代码行中，双眼紧盯着双显示器，中午前喝了第三杯咖啡。我和我的搭档正在无休止地调试、设计和部署最终成为 ChainClarity 的东西，这是我们纯粹的好奇心和对加密货币的共同热情的结合所催生的创意。 我们的旅程始于一个狭窄的办公室空间，我们旧笔记本电脑的嗡嗡声充斥着空气。我们都是软件工程师，我们探索着 OpenAI 的功能，对人工智能在创建网站方面的潜力很感兴趣。然而，当我们的原型没有达到预期时，我们最初的兴奋遇到了严酷的现实。我们又回到了绘图板上。 突破发生在一个星期天的晚上。在沮丧中，我们改变了方向，去探索更贴近我们内心的东西——加密货币。我们俩多年来一直涉足加密货币领域，并且非常清楚大多数加密项目评论中都充斥着偏见。我们突然想到，如果我们可以利用人工智能来提供清晰、公正的加密白皮书解释，会怎么样？这时，ChainClarity 的想法生根发芽。 最难的部分不仅仅是编码——而是塑造我们的人工智能来平衡解释的长度、复杂性和可访问性。我们的目标是创建富有洞察力但又易于理解的内容，无论您是加密新手还是经验丰富的爱好者。这个挑战就像教新手登山者攀登珠穆朗玛峰一样——令人生畏但又令人兴奋。 作为前端工程师，我负责网站的外观和用户体验，确保一切都直观且引人入胜。与此同时，我的合作伙伴，后端天才，致力于为我们的人工智能提供动力的架构，确保它提供一致且富有洞察力的内容。 一旦我们建立了 ChainClarity，我们就不会退后一步——我们成为了它的活跃用户。最初，我们上传了按市值排名前 100 的加密项目的解释。对我们来说，这就像终于有了一本外语词典。每个解释的结构都相同，使我们能够快速掌握项目的本质，而无需花数小时阅读有偏见的内容。每天，我们都会在 ChainClarity 上发现新的东西，并将其作为通往不断发展的加密世界的门户。 经过数月的不懈努力，ChainClarity 上线了——一个用户友好的网站，旨在为所有人揭开加密白皮书的神秘面纱。然而，我们的旅程还远未结束。当我们开始收集反馈时，您的见解被证明是无价的。用户正在享受我们基于人工智能的解释的清晰度和深度，他们的建议帮助我们看到我们可以改进的地方。 这就是你发挥作用的地方。我们希望您探索 ChainClarity 并分享您的经验。您的反馈不仅仅是对我们提出的评论，更是完善和扩展我们平台的关键。无论是您想添加的功能还是对解释的想法，您的声音都很重要。 随着每一条反馈，ChainClarity 的未来变得更加光明。我们很高兴在计划新功能和增强功能时考虑您的建议。您的参与将有助于将 ChainClarity 塑造成不仅仅是一个网站，而且是加密世界中清晰、公正信息的社区基石。 加入我们的旅程，让我们一起构建一个更好、更透明的加密空间。谁知道当您通过 ChainClarity 深入加密世界时，您可能会发现什么秘密和机会？您的参与将使 ChainClarity 真正经受住时间的考验。  此外，ChainClarity 是 100% 免费的，没有任何限制，也不需要注册（发表评论除外）。    提交人    /u/-Entrepreneur-   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cbbtxq/how_we_built_chainclarity_an_odyssey_of_code_ai/</guid>
       <pubDate>Tue, 23 Apr 2024 18:22:14 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
