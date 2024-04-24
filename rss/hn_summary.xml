@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 03:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 09:05:41 GMT</lastBuildDate>
     <item>
-      <title>欢迎来到 BeeBase，这是一个尖端的可编程关系数据库，具有用户友好的图形 [...]</title>
-      <link>https://t.me/hn_summary/86112</link>
-      <description><![CDATA[BeeBase，具有图形用户界面的可编程关系数据库 
-欢迎使用 BeeBase，这是一个具有用户友好图形界面的尖端可编程关系数据库。我们的平台允许用户通过可定制的特性和功能轻松创建、管理和分析数据。借助 BeeBase，您可以简化数据管理流程并快速高效地做出明智的决策。无论您是初学者还是经验丰富的程序员，我们的平台都能满足您的需求。加入 BeeBase，彻底改变您处理数据的方式。立即访问我们的网站以了解更多信息并开始使用！]]></description>
-      <guid>https://t.me/hn_summary/86112</guid>
-      <pubDate>Wed, 24 Apr 2024 03:11:58 GMT</pubDate>
+      <title>最后期限 (2014)</title>
+      <link>https://t.me/hn_summary/86160</link>
+      <description><![CDATA[截止日期（2014）
+汤姆·德马科 (Tom DeMarco) 的《最后期限》是一部伪装成小说的独特项目管理经典。主角是一名项目经理，他被下药并绑架到一个虚构的国家从事软件项目。每一章都介绍了一个新问题以及世界知名专家的见解。这本书提供了有关风险管理、“我能做到”态度的危险以及喜欢你的团队的重要性的宝贵经验。令人惊讶的教训包括对直觉进行建模，以及揭示模糊的规范常常隐藏冲突。总体而言，本书以引人入胜的形式提供了发人深省的建议，使其成为项目经理的必读之作。]]></description>
+      <guid>https://t.me/hn_summary/86160</guid>
+      <pubDate>Wed, 24 Apr 2024 09:05:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国政府敦促字节跳动在360天内出售TikTok，否则将面临禁令 [...]</title>
-      <link>https://t.me/hn_summary/86111</link>
-      <description><![CDATA[美国采取行动迫使字节跳动出售 TikTok
-美国政府正在敦促字节跳动在 360 天内出售 TikTok，否则将在该国面临禁令。 TikTok 批评了此举，称其是对言论自由的攻击，并威胁采取法律行动。该立法得到了国会两党的支持，对中国政府影响力的担忧推动了这一决定。该法案进行了调整，以获得包括商务委员会主席玛丽亚·坎特韦尔在内的关键人物的支持。这一事态发展突显了中美之间持续的紧张关系，对 TikTok 及其在美国数百万用户和企业的未来具有重大影响。]]></description>
-      <guid>https://t.me/hn_summary/86111</guid>
-      <pubDate>Wed, 24 Apr 2024 03:02:53 GMT</pubDate>
+      <title>[媒体]“Rsyncchown”项目是 rsync 的包装器，解决了设置使用的问题 [...]</title>
+      <link>https://t.me/hn_summary/86159</link>
+      <description><![CDATA[显示 HN：如果您厌倦了，Rsyncchown 在 rsync 之后运行 chown Jetbrains上传
+“Rsyncchown”项目是 rsync 的包装器，它解决了将文件同步到目标服务器后设置用户和组所有权的问题。它对于 Jetbrains IDE 特别有用，因为它不提供通过 rsync 上传后运行命令的方法。该项目的独特之处在于，在 rsync 命令完成后，通过 ssh 在目标目录上运行递归 chown 命令。用户在使用该工具时应谨慎，因为它是针对特定需求而编写的，使用时应自行承担风险。]]></description>
+      <guid>https://t.me/hn_summary/86159</guid>
+      <pubDate>Wed, 24 Apr 2024 08:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>emildziewanowski.com 上的内容讨论了在游戏环境中模拟木星的过程 [...]</title>
-      <link>https://t.me/hn_summary/86110</link>
-      <description><![CDATA[模拟木星
-emildziewanowski.com 上的内容讨论了在 a 中模拟木星的过程。游戏环境，专注于在不使用计算流体动力学的情况下创建复杂的流动模式。作者探索了多种技术，如颜色循环、逐帧动画、纹理滚动和 Quake UV 扭曲，以实现逼真的流体运动。他们还深入研究了将这些方法集成到着色器中并改进速度场以创建更自然的流体动画的挑战。本文强调了混合和锐化对于防止模糊和保持纹理细节的重要性。最终目标是在游戏中创造出视觉上迷人且真实的木星大气层。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86110</guid>
-      <pubDate>Wed, 24 Apr 2024 03:01:49 GMT</pubDate>
+      <title>[媒体]政府的就业数据被操纵，以制造[...]的假象</title>
+      <link>https://t.me/hn_summary/86158</link>
+      <description><![CDATA[波将金经济
+政府的就业数据被操纵，以制造经济强劲的假象，私营部门的就业机会消失，联邦支出推动经济增长。通过将人们从劳动力中剔除，失业率被人为地降低了，而问题的真实程度却被掩盖了。消费者物价指数也具有误导性，政府经常改变通货膨胀的计算方式。随着财政危机恶化，政府操纵预计将增加。这种欺骗是美元终局游戏的一个标志，社会信任的崩溃和经济创伤都被掩盖了。问题的真实程度最终会被揭露，从而导致潜在的骚乱。]]></description>
+      <guid>https://t.me/hn_summary/86158</guid>
+      <pubDate>Wed, 24 Apr 2024 08:54:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Change Healthcare 最终承认向勒索软件黑客支付了 2200 万美元 [...]</title>
-      <link>https://t.me/hn_summary/86109</link>
-      <description><![CDATA[Change Healthcare 最终承认向勒索软件黑客付费
-Change Healthcare 最终承认，在一次毁灭性的网络攻击导致其系统瘫痪、美国医疗保健系统受到广泛破坏之后，该公司已向勒索软件黑客支付了 2200 万美元。这笔付款是历史上最大的付款之一，引发了人们对针对医疗保健公司的勒索软件攻击日益增长的趋势的担忧。让事情变得更加复杂的是，黑客可能伪造了执法部门的关闭，以避免与其附属公司分享付款，从而使 Change Healthcare 的受损数据容易受到进一步利用。这种情况凸显了勒索软件攻击的复杂性和危险性，以及试图驾驭这种日益危险的环境的公司所面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/86109</guid>
-      <pubDate>Wed, 24 Apr 2024 03:00:44 GMT</pubDate>
+      <title>[媒体]物理学家正在使用人工智能来解决弦理论的复杂性，神经网络 [...]</title>
+      <link>https://t.me/hn_summary/86157</link>
+      <description><![CDATA[人工智能开始筛选弦理论近乎无限的可能性
+物理学家正在使用人工智能来解决弦理论的复杂性，神经网络被证明是计算卡拉比-丘度量的游戏规则改变者。到 2020 年，为此目的发布了定制包。计算度量的能力使研究人员能够深入研究粒子的质量，这是弦理论的长期目标。由 Challenger Mishra 和 Burt Ovrut 领导的团队在使用神经网络计算粒子质量方面取得了重大进展。尽管挑战依然存在，例如研究更复杂的流形，但人工智能在弦理论中的应用正在开辟新的可能性，并突破了理解宇宙的界限。]]></description>
+      <guid>https://t.me/hn_summary/86157</guid>
+      <pubDate>Wed, 24 Apr 2024 08:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>经过多年为开源项目做出贡献后，我决定放弃我的想法 [...]</title>
-      <link>https://t.me/hn_summary/86108</link>
-      <description><![CDATA[我放弃开源
-经过多年为开源项目做出贡献后，我决定放弃免费工作的想法。尽管我最初相信公司和个人会支持有价值的项目，但我在没有任何支持的情况下面临着抱怨和侮辱。开源看似免费，但总会有人付出代价——通常是维护者。因此，我正在将 nut.js 转换为具有基于订阅的访问权限的私有注册表。虽然我将继续致力于 nut.js，但订阅者将优先更新更新。如果您想节省时间和精力，请在价格上涨之前立即获取许可证。感谢您的理解。 - 西蒙]]></description>
-      <guid>https://t.me/hn_summary/86108</guid>
-      <pubDate>Wed, 24 Apr 2024 02:53:37 GMT</pubDate>
+      <title>[媒体] 在这次富有洞察力的对话中，心理学家 Jay Van Bavel 讨论了他对 [...]</title>
+      <link>https://t.me/hn_summary/86156</link>
+      <description><![CDATA[心理学家解释互联网如此破碎的原因&lt; br /&gt;
+在这场富有洞察力的对话中，心理学家 Jay Van Bavel 讨论了他对群体心理学的研究及其如何影响社交媒体参与度。他解释了我们的大脑如何归属于群体，以及这种对归属感的渴望如何导致负面的在线行为。范·巴维尔还揭示了互联网和社交媒体参与的四大法则，强调了消极情绪、极端主义、外群体敌意和道德语言对在线互动的影响。通过他的研究，他揭示了为什么互联网会让人感觉如此破碎，并为数字时代的人类行为提供了宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/86156</guid>
+      <pubDate>Wed, 24 Apr 2024 08:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：我工作的初创公司失败了——风投支持的恶意收购有先例吗？</title>
-      <link>https://t.me/hn_summary/86107</link>
-      <description><![CDATA[询问 HN：我工作的初创公司失败了 - 这是 VC 支持的先例恶意收购？
-标题：问 HN：我工作的初创公司失败了——风投支持的恶意收购有先例吗？
-
-我发现自己在一家失败的初创公司中处于一个充满挑战的境地，首席执行官的行为引起了混乱。尽管如此，主要客户和员工仍然对我充满信心。凭借宝贵的技术和才华横溢的员工，我正在考虑进行风险投资支持的敌意收购来拯救公司。我正在寻求建议，看看是否有此类尝试的先例，以及我是否冒着像安东尼·莱万多夫斯基那样有争议的情况的风险。初创企业中恶意收购的可能性既有趣又充满风险，但我决心探索所有选择来扭转局面。]]></description>
-      <guid>https://t.me/hn_summary/86107</guid>
-      <pubDate>Wed, 24 Apr 2024 02:47:32 GMT</pubDate>
+      <title>[媒体] 介绍 Podlite v1.0，一种专注于灵活性和易用性的通用标记语言 [...]</title>
+      <link>https://t.me/hn_summary/86155</link>
+      <description><![CDATA[展示 HN：Podlite：一种用于组织知识的轻量级标记语言
+隆重推出 Podlite v1.0，这是一种注重灵活性和易用性的通用标记语言。 Podlite 支持 Markdown 和自定义块的可扩展性，非常适合文档、教育材料等。最新版本包括可定制块、增强的链接功能和改进的数据处理等功能。已删除已弃用的功能以简化工具集。 Podlite 根据用户反馈不断发展，旨在成为内容创作者的多功能且强大的工具。加入 Github 上的讨论并关注未来的更新。使用 Podlite 快乐记录！]]></description>
+      <guid>https://t.me/hn_summary/86155</guid>
+      <pubDate>Wed, 24 Apr 2024 08:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]通过特斯拉即将推出的自动驾驶技术一睹交通运输的未来 [...]</title>
-      <link>https://t.me/hn_summary/86106</link>
-      <description><![CDATA[通过 Tesla 应用进行自动叫车预览&lt; br /&gt;
-通过特斯拉即将推出的自动驾驶叫车服务，一睹交通运输的未来。用户将能够通过该应用程序召唤一辆特斯拉汽车，该汽车将接载他们并将他们带到目的地，而无需司机。这项创新技术将彻底改变我们对交通的看法，提供一种方便、高效的出行方式。请继续关注自动驾驶汽车领域这一令人兴奋的发展的更多更新。 #特斯拉#autonomous #ridehailing #innovation]]></description>
-      <guid>https://t.me/hn_summary/86106</guid>
-      <pubDate>Wed, 24 Apr 2024 02:46:28 GMT</pubDate>
+      <title>[媒体]Android 15 将引入增强确认模式，让旁听变得更加困难 [...]</title>
+      <link>https://t.me/hn_summary/86154</link>
+      <description><![CDATA[Android 15 可能会让侧载应用更难获取敏感权限&lt; /a&gt;
+Android 15 将引入增强确认模式，使侧载应用更难访问敏感权限。虽然从外部应用程序商店旁加载应用程序是 Android 上的常见做法，但它也会带来安全风险，因为恶意应用程序可以利用漏洞来访问敏感 API。 Android 15 中的新功能将通过检查白名单来加强安全措施，以确定哪些应用和安装程序不受限制。谷歌此举旨在增强安全性并防止恶意应用程序访问高特权权限。请继续关注有关 Android 15 中增强确认模式的更多详细信息。]]></description>
+      <guid>https://t.me/hn_summary/86154</guid>
+      <pubDate>Wed, 24 Apr 2024 08:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]参议院通过了一项法案，将迫使字节跳动出售 TikTok，否则将面临美国禁令 [...]</title>
-      <link>https://t.me/hn_summary/86105</link>
-      <description><![CDATA[参议院通过 TikTok 禁令法案，并将其发送到拜登总统的办公桌
-参议院通过了一项法案，该法案将迫使字节跳动出售 TikTok，否则将面临美国禁令，该法案已提交拜登总统批准。该法案规定字节跳动最多有一年的时间来完成出售，并有可能延期。对中国所有权危及美国用户数据以及中国政府对内容的潜在影响的担忧推动了这项立法。立法者强调需要防止外国对手进行间谍活动。尽管担心 TikTok 会消失，但我们的目标是确保该平台在新的所有权下继续存在。拜登总统计划立即将该法案签署成为法律。]]></description>
-      <guid>https://t.me/hn_summary/86105</guid>
-      <pubDate>Wed, 24 Apr 2024 02:35:21 GMT</pubDate>
+      <title>Piet 是一种独特的编程语言，其灵感源自抽象艺术，特别是 Piet Mondrian 的 c [...]</title>
+      <link>https://t.me/hn_summary/86153</link>
+      <description><![CDATA[皮特
+Piet 是一种独特的编程语言，其灵感来自于抽象艺术，特别是 Piet Mondrian 的作品。该语言使用颜色来表示命令和数字，每个颜色块代表一个整数值。程序执行涉及根据特定规则遍历彩色块，黑色和白色块影响程序流程。命令由色块之间的转换决定，包括推送、弹出、加法、减法等操作。 Piet 已经拥有了一个小型的程序员社区，并被用于益智竞赛，提供了一种富有创意且具有视觉吸引力的编程方法。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86153</guid>
+      <pubDate>Wed, 24 Apr 2024 08:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着来自北非的尘云席卷而来，雅典笼罩在橙色的天空中，给[...]</title>
-      <link>https://t.me/hn_summary/86104</link>
-      <description><![CDATA[尘云从非洲吹来，橙色的天空吞没了雅典
-来自北非的尘云席卷而来，雅典笼罩在橙色的天空中，给这座城市带来了火星般的氛围。强风还助长了希腊南部的山火，短短24小时内就爆发了25起野火。游客和当地人都被这一不寻常的景象所吸引，一些地区的气温飙升，而另一些地区的气温却突然下降。随着天空预计很快就会放晴，该国将面临充满挑战的火灾季节，持续的干旱和高温引起了消防员的担忧。希腊与森林火灾的斗争仍在继续，希望这次将损失和伤害降到最低。]]></description>
-      <guid>https://t.me/hn_summary/86104</guid>
-      <pubDate>Wed, 24 Apr 2024 02:30:16 GMT</pubDate>
+      <title>[媒体]朱尔斯·埃文斯 (Jules Evans) 年轻时曾因迷幻药而遭受创伤，导致一年 [...]</title>
+      <link>https://t.me/hn_summary/86152</link>
+      <description><![CDATA[糟糕的旅行侦探
+朱尔斯·埃文斯（Jules Evans）年轻时曾因服用迷幻药而遭受创伤，导致他多年来一直在与心理健康作斗争。尽管如此，他还是决定在 2017 年再次尝试，结果在服用死藤水后体验到了强烈的置身于虚假现实的感觉。这促使他启动了“具有挑战性的迷幻药项目”来研究糟糕的旅行及其后果。令人惊讶的是，研究发现先前的精神疾病并不能预测持续困难的持续时间或种类。这项研究挑战了人们对致幻剂的普遍乐观态度，并强调了谨慎的必要性。这项发表在 Plos One 上的研究揭示了迷幻药物使用经常被忽视的负面影响。]]></description>
+      <guid>https://t.me/hn_summary/86152</guid>
+      <pubDate>Wed, 24 Apr 2024 08:02:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2009 年，Facebook 启动了一项开创性的项目，旨在设计世界上最节能的 [...]</title>
-      <link>https://t.me/hn_summary/86103</link>
-      <description><![CDATA[开放计算项目
-2009 年，Facebook 启动了一项开创性项目，在俄勒冈州普赖恩维尔设计世界上最节能的数据中心。与之前的设施相比，这一举措使能源效率提高了 38%，运营成本降低了 24%。该项目的成功激发了 2011 年开放计算项目基金会的创建，旨在通过开源协作彻底改变硬件创新。 OCP 的使命不仅限于数据中心，还影响电信行业和 EDGE 基础设施。该项目展示了创新与协作在为未来创建可持续且具有成本效益的解决方案方面的力量。]]></description>
-      <guid>https://t.me/hn_summary/86103</guid>
-      <pubDate>Wed, 24 Apr 2024 02:25:11 GMT</pubDate>
+      <title>用于评估大型语言模型 (LLM) 的基准给我留下了深刻的印象，它 [...]</title>
+      <link>https://t.me/hn_summary/86151</link>
+      <description><![CDATA[询问 HN：LLM 以外的模型的基准&lt; br /&gt;
+用于评估大型语言模型 (LLM) 的基准给我留下了深刻的印象，它激发了我对其他类型模型（如倾向建模和流失预测）的基准的好奇心。是否有既定的最佳实践来比较基于不同数据集的模型性能？我渴望了解更多关于如何有效评估和比较基准数据之外的各种模型的能力。让我们讨论并分享对此主题的见解。]]></description>
+      <guid>https://t.me/hn_summary/86151</guid>
+      <pubDate>Wed, 24 Apr 2024 07:27:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
