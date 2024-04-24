@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:40:47 GMT</lastBuildDate>
-    <item>
-      <title>威扎德</title>
-      <link>https://www.producthunt.com/posts/wizad</link>
-      <description><![CDATA[
-            一键发布社交媒体海报
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/wizad</guid>
-      <pubDate>Wed, 24 Apr 2024 00:19:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>蜡烛</title>
-      <link>https://www.producthunt.com/posts/candle-3</link>
-      <description><![CDATA[
-            与你的钱聊天
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/candle-3</guid>
-      <pubDate>Wed, 24 Apr 2024 00:03:38 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Apr 2024 15:21:50 GMT</lastBuildDate>
     <item>
       <title>亚马逊大师</title>
       <link>https://www.producthunt.com/posts/amazon-maestro</link>
@@ -46,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/amazon-maestro</guid>
       <pubDate>Tue, 23 Apr 2024 23:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>一场车祸</title>
+      <link>https://www.producthunt.com/posts/podor</link>
+      <description><![CDATA[
+            番茄计时器和任务
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/podor</guid>
+      <pubDate>Tue, 23 Apr 2024 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>老Reddit的昨天</title>
+      <link>https://www.producthunt.com/posts/yesterday-for-old-reddit</link>
+      <description><![CDATA[
+            旧版 Reddit 针对 iPhone 进行了优化
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/yesterday-for-old-reddit</guid>
+      <pubDate>Tue, 23 Apr 2024 17:26:53 GMT</pubDate>
     </item>
     <item>
       <title>它能扩展吗？</title>
@@ -90,18 +90,18 @@
       <pubDate>Tue, 23 Apr 2024 10:25:45 GMT</pubDate>
     </item>
     <item>
-      <title>咖啡空间</title>
-      <link>https://www.producthunt.com/posts/coffeespace</link>
+      <title>用户com</title>
+      <link>https://www.producthunt.com/posts/userscom</link>
       <description><![CDATA[
-            滑动即可结识其他探索想法的人并找到您的联合创始人
+            简单、现代的人工智能票务软件
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/coffeespace</guid>
-      <pubDate>Tue, 23 Apr 2024 08:38:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/userscom</guid>
+      <pubDate>Tue, 23 Apr 2024 10:17:26 GMT</pubDate>
     </item>
     <item>
       <title>繁荣</title>
@@ -116,6 +116,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/boom-6</guid>
       <pubDate>Mon, 22 Apr 2024 03:58:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的 Trackify</title>
+      <link>https://www.producthunt.com/posts/trackify-for-spotify-2</link>
+      <description><![CDATA[
+            就像 Spotify 一样，全年无休
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/trackify-for-spotify-2</guid>
+      <pubDate>Sun, 21 Apr 2024 23:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>玻璃立方体</title>
+      <link>https://www.producthunt.com/posts/glasskube</link>
+      <description><![CDATA[
+            Kubernetes 的下一代包管理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/glasskube</guid>
+      <pubDate>Thu, 18 Apr 2024 20:38:20 GMT</pubDate>
     </item>
     <item>
       <title>尼罗洛</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/flydesk-team</guid>
       <pubDate>Fri, 29 Mar 2024 14:56:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>西内斯</title>
-      <link>https://www.producthunt.com/posts/synece</link>
-      <description><![CDATA[
-            即时数据同步以提升您的数据工作流程
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/synece</guid>
-      <pubDate>Sat, 16 Mar 2024 23:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>浪表</title>
-      <link>https://www.producthunt.com/posts/langwatch</link>
-      <description><![CDATA[
-            了解、衡量和提高您的法学硕士
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/langwatch</guid>
-      <pubDate>Tue, 12 Mar 2024 16:16:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
