@@ -4,7 +4,7 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:19:29 GMT</lastBuildDate>
     <item>
       <title>开放思想排行榜链简介</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
+      <title>介绍 LiveCodeBench 排行榜 - 对代码 LLM 进行全面、无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>让数千个开放的法学硕士项目在 Vertex AI 模型花园中绽放</title>
+      <title>让数千名开放的法学硕士在顶点人工智能模型花园里绽放</title>
       <link>https://huggingface.co/blog/google-cloud-model-garden</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/google-cloud-model-garden</guid>

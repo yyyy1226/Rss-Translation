@@ -4,23 +4,44 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:20:18 GMT</lastBuildDate>
+    <item>
+      <title>需要有关 mp3DirectCut 的帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1ccugcg/need_help_with_mp3directcut/</link>
+      <description><![CDATA[嗨！我希望熟悉 mp3DirectCut（免费音频编辑器）的人可以帮助我。 我遇到一个问题，每次我尝试导入一个超过一小时长的 mp3 文件时，程序都会崩溃。不过，较短的文件也可以正常工作。我已经在 google 上搜索了大小限制，它最多可以处理 4 GB，而我的文件肯定比这个小。是否有其他人遇到此问题或知道解决方案? 谢谢。   由   提交/u/Sunshowery  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ccugcg/need_help_with_mp3directcut/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐的现场工作应用程序/软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ccttif/recommended_field_work_appsoftware/</link>
+      <description><![CDATA[我是一家小企业主，我们安装分体式空调系统、闭路电视、局域网网络、维护（清洗空调等）。 我需要一个应用程序或软件来 GPS 跟踪我的团队（技术人员）并分配工作，跟踪他们完成的工作以及每项工作花费的时间，现在我通过 WhatsApp 和致电手动完成这些工作在手机上。 如果该软件是多平台的（windows/web/android），那就太好了 任何建议将不胜感激，提前致谢   由   提交/u/RainOne8610   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ccttif/recommended_field_work_appsoftware/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geek Unninstaller 未检测到我的第二个 SSD</title>
+      <link>https://www.reddit.com/r/software/comments/1ccrinj/geek_unninstaller_not_detecting_my_2nd_ssd/</link>
+      <description><![CDATA[大家好。因此，我最近格式化了我的 PC，也就是安装了操作系统的 SSD。对第二个什么也没做。然而，当启动 Geek 卸载程序时，它不会检测到后者安装的软件和东西：主要是我的游戏。我怎样才能让它检测到它；看到我的第二个 SSD 上的所有内容？ 感谢 adv！ 编辑：geek.exe 位于第二个 SSD 中。   由   提交 /u/Key_astian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ccrinj/geek_unninstaller_not_detecting_my_2nd_ssd/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:08:27 GMT</pubDate>
+    </item>
     <item>
       <title>自由职业者的时间跟踪软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ccq0j0/time_tracking_software_for_freelancing/</link>
-      <description><![CDATA[大家好！ 我正在寻找一些软件，可以帮助我记录自由职业时的工作时间。我找到了一些，但有些是付费的，有些不能离线工作。 Windows 支持是必需的，Linux 或 Web 应用程序支持会很棒。 如果它可以在没有互联网连接的情况下离线工作并且没有侵入性隐私政策，则非常理想。 如果它具有良好的功能，我不介意付费，只要它提供终身许可而不是每月重复的 bs。 导出到 csv 或 excel 将是一个很大的优点。 ​    提交人    /u/s7mbre   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在寻找一些软件，可以帮助我跟踪自由职业时的工作时间。我找到了一些，但有些是付费的，有些无法离线工作。 Windows 支持是必要的，Linux 或 Web 应用程序支持就更好了。 非常喜欢它可以离线工作没有互联网连接，也没有侵入性的隐私政策。 如果它有好的功能，我不介意是否付费，只要它提供终身许可证而不是每月重复的废话。&lt; /p&gt; 导出到 csv 或 excel 将是一个很大的 +。 ​   由   提交 /u/s7mbre   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ccq0j0/time_tracking_software_for_freelancing/</guid>
       <pubDate>Thu, 25 Apr 2024 11:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>Electron 应用程序（React+TypeScript）上的屏幕截图测试？</title>
+      <title>在 Electron 应用程序（React+TypeScript）上进行屏幕截图测试？</title>
       <link>https://www.reddit.com/r/software/comments/1cco58g/screenshot_testing_on_electron_app_reacttypescript/</link>
-      <description><![CDATA[大家好，我正在尝试找到一种方法来为 Electron 应用程序实现自动屏幕截图测试。但我能找到的所有工具和库（Jest、Cypress、Lambdatest...）似乎只能与网站或移动应用程序配合使用。 有什么建议吗？ &lt;!-- SC_ON - -&gt;  由   提交/u/Spooky_Umi   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在尝试找到一种方法来为 Electron 应用程序实现自动屏幕截图测试。但我能找到的所有工具和库（Jest、Cypress、Lambdatest...）似乎仅适用于网站或移动应用程序。 有什么建议吗？ &lt;!-- SC_ON - -&gt;  由   提交/u/Spooky_Umi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cco58g/screenshot_testing_on_electron_app_reacttypescript/</guid>
       <pubDate>Thu, 25 Apr 2024 10:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>赢得您选择的软件密钥！</title>
+      <title>赢取您选择的软件密钥！</title>
       <link>https://www.reddit.com/r/software/comments/1cclpbz/win_a_software_key_of_your_choice/</link>
       <description><![CDATA[嘿 r/software 社区！您对软件创新充满热情吗？我们很高兴地宣布我们最新的竞赛，您可以在其中展示最具创新性的软件解决方案并赢得惊人的奖品！  分享您的创新软件解决方案，并有机会从 www 上提供的精选优质软件中赢得您选择的软件密钥.softwareshopk.com。  如何参与：  创建一个帖子来展示您的创新软件解决方案。无论是新应用、独特工具还是创造性脚本，我们都希望看到它！ 简要说明该软件的功能、创新特性及其实际应用。 将您提交的内容作为评论发布到此线程。 获胜者将从我们在 www.softwareshopk.com。选择最适合您的需求和兴趣的软件！   截止日期：2024 年 5 月 7 日。   由   提交/u/alesoftware  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cclpbz/win_a_software_key_of_your_choice/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>有软件可以检测我何时挂机并将音频通知静音吗？ Windows 10/11</title>
       <link>https://www.reddit.com/r/software/comments/1ccjf3z/software_that_will_detect_when_im_afk_and_mute/</link>
-      <description><![CDATA[我很难找到这个，但我不知道为什么。这不是人们会用的东西吗？我的朋友和某人同住一间卧室，当他们 AFK 时，不和谐的通知会打扰他们的伴侣。我希望找到一个鼠标监控软件，然后让它在一段时间后检测到没有鼠标活动时触发 Focus Assist。但我甚至找不到它。所有的“监控”软件都是为雇主准备的，当然很贵。  ​ 感谢您的时间！    提交人    /u/HeyPretty1   [链接] [评论]]]></description>
+      <description><![CDATA[我正在努力寻找这个，但我不确定为什么。这不是人们会用的东西吗？我的朋友与某人共用一间卧室，当他们 AFK 时，不和谐的通知会打扰他们的伴侣。我希望找到一个鼠标监控软件，然后在一段时间后检测到没有鼠标活动时触发焦点辅助。但我什至找不到那个。所有的“监控”都在进行中。软件是为雇主提供的，当然价格昂贵。  ​ 感谢您的宝贵时间！   由   提交 /u/HeyPretty1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ccjf3z/software_that_will_detect_when_im_afk_and_mute/</guid>
       <pubDate>Thu, 25 Apr 2024 04:50:52 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>用于构建生产力仪表板的 Notion 替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1ccglm3/alternative_to_notion_for_building_productivity/</link>
-      <description><![CDATA[我想为我的客户构建一些生产力仪表板，其中包括任务管理、CRM 以及培训手册和视频。  Notion 几乎可以解决所有这些问题，但我无法接受这样一个事实：Notion 不支持重复任务，而无需编写复杂的公式。 Coda 也有同样的问题。 &lt; p&gt;有人可以建议另一种选择吗？谢谢。   由   提交 /u/CaptainTime   [链接] [评论]]]></description>
+      <description><![CDATA[我想为我的客户构建一些生产力仪表板，其中包括任务管理、CRM 以及培训手册和视频。 Notion 几乎可以用于所有这些，但我无法接受 Notion 不支持重复任务的事实，而无需编写复杂的公式。 Coda 也有同样的问题。 有人可以建议另一种选择吗？谢谢。    提交人    /u/CaptainTime   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ccglm3/alternative_to_notion_for_building_productivity/</guid>
       <pubDate>Thu, 25 Apr 2024 02:20:09 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[你好， 我正在寻找一些东西来取代很久以前的谷歌图像管理器。我不想花太多钱，它只是为了精简的家庭使用。 tia   由   提交 /u/resUemiTtsriF   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cc9uaf/off_line_windows_1011_image_manager/</guid>
       <pubDate>Wed, 24 Apr 2024 21:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kitestring.io 的替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1cc8a9g/kitestringio_alternative/</link>
-      <description><![CDATA[曾经有一个 100% 免费的服务，称为 Kitestring。无需安装任何内容，只需向 Kitestring 号码发送一段持续时间（以分钟为单位）的短信：30、60、600 等，它就会确认已收到您的请求，并会在您的持续时间内与您联系。在此期间，Kitestring 会发短信请求您使用安全词。如果您没有回复，它会用您预先制作的消息通知 3 个紧急联系人，因此它在您的语法或词典中。还有一个你可以使用的胁迫安全词。我们使用了多年的优秀免费软件，但现在已经消失了。有类似的吗？   由   提交 /u/DumPotatoHead   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cc8a9g/kitestringio_alternative/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 云托管的论坛软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1cc7x7u/forum_software_for_a_windows_cloud_hosting/</link>
-      <description><![CDATA[我正在 asp.net 中开发我的网站，但我想要一个临时论坛来收集访问者的反馈。我之前在旧的 apache 托管计划上安装了 phpbb，但它在我的 Windows 云托管上不起作用。它只是给了我一个空白页。我认为这是因为它是为 apache 设计的......或者也许不是，我不知何故弄乱了设置？有什么建议吗？   由   提交/u/cerwen80  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cc7x7u/forum_software_for_a_windows_cloud_hosting/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>不知道是否或如何阻止应用程序查看我的 IP 地址？例如，如果我在 TikTok 上受到 IP 地址禁令，而我想绕过它怎么办？</title>
-      <link>https://www.reddit.com/r/software/comments/1cc6uis/dont_know_if_or_how_i_can_prevent_an_app_from/</link>
-      <description><![CDATA[ 由   提交/u/MaxK1704  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cc6uis/dont_know_if_or_how_i_can_prevent_an_app_from/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:14:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

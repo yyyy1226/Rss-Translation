@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:29:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:20:47 GMT</lastBuildDate>
+    <item>
+      <title>Fedora 40 和 Ubuntu 24.04 - 如何安装和使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</link>
+      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:19:35 GMT</pubDate>
+    </item>
     <item>
       <title>有人刚刚复制了我的整个代码库。我可以做什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[假设创建一个去中心化的虚拟机管理程序需要什么。我想象的是一个几乎类似于 proxmox 或 wmware 的平台，您可以在其中创建完整的虚拟机或 lxc 容器，并且它们（多个实例）将部署在某种共享网络上。几乎就像 DeStor 这样的共享网络上的 proxmox，人们可以将资源奉献给网络并从中获得报酬。    由   提交/u/Dw-Kunta  /u/Dw-Kunta  reddit.com/r/opensource/comments/1cbnjh1/decentralized_hypervisor/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbnjh1/decentralized_hypervisor/</guid>
       <pubDate>Wed, 24 Apr 2024 02:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>go Between：“Сloud 时代的现代简约负载均衡器”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</link>
-      <description><![CDATA[       由   提交/u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</guid>
-      <pubDate>Tue, 23 Apr 2024 21:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
