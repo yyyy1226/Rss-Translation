@@ -3,8 +3,18 @@
   <channel>
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
-    <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:21:09 GMT</lastBuildDate>
+    <description>这是 indiehackers.com 的非官方提要</description>
+    <lastBuildDate>Thu, 25 Apr 2024 18:24:52 GMT</lastBuildDate>
+    <item>
+      <title>开源对您意味着什么？</title>
+      <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
+      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。也就是说，对我来说，开源允许更多的协作、定制和自由。 
+我很想知道开源对您意味着什么，以及为什么您愿意或不愿意使用开源平台。 
+请告诉我！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f72bf8d4db</guid>
+      <pubDate>Thu, 25 Apr 2024 15:52:53 GMT</pubDate>
+    </item>
     <item>
       <title>您使用在线工具来计算百分比吗？</title>
       <link>https://feed.indiehackers.world/post/918cb035a1</link>
@@ -95,7 +105,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sun, 07 Apr 2024 23:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>愿意接受指导——如果有人感兴趣的话？</title>
+      <title>向导师开放——如果有人感兴趣的话？</title>
       <link>https://feed.indiehackers.world/post/1f35f37edf</link>
       <description><![CDATA[我的简历中有简要详细信息，但我在用户体验领域建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的伦敦代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
 现在，我正在建立一家初创公司解决架构和技术方面的反馈问题。施工 – 3D 协作带来很多乐趣。我们去年完成了天使轮融资。
@@ -131,14 +141,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a55d31d4b8</guid>
       <pubDate>Wed, 03 Apr 2024 00:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 BrickDropCo</title>
-      <link>https://feed.indiehackers.world/post/1b756aecbd</link>
-      <description><![CDATA[我的妻子将于 4 月 1 日推出一家新的初创公司 BrickDrop.co。她想到了租用乐高积木套装，让家庭更负担得起。经过研究，她了解了市场的规模，现在为儿童和成人提供支持。看到人们的反应，无论好坏，真是太疯狂了。因此，她寻求一些意见来帮助她成长。下面是我的快速问题 -
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1b756aecbd</guid>
-      <pubDate>Sat, 30 Mar 2024 12:03:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

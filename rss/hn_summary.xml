@@ -3,87 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:17:04 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Thu, 25 Apr 2024 18:21:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该项目是一个名为 Statusnook 的自托管状态页面和监控工具，可以 [...]</title>
-      <link>https://t.me/hn_summary/86399</link>
-      <description><![CDATA[Show HN：我构建了一个自托管状态页面和监控工具对于我的项目
-该项目是一个名为 Statusnook 的自托管状态页面和监控工具，可以在几分钟内轻松部署。它提供多种部署路径，包括独立、反向代理、Docker 和 CLI 选项。作者提到它可以通过托管 TLS 快速部署，并且还提供一键式云模板（待 DigitalOcean 批准）。该项目旨在帮助用户有效地设置状态页面并监控其项目的端点，并灵活地选择适合其需求的部署选项。]]></description>
-      <guid>https://t.me/hn_summary/86399</guid>
-      <pubDate>Thu, 25 Apr 2024 15:17:04 GMT</pubDate>
+      <title>[媒体]威尼斯对一日游游客实行 5 欧元的入场费，以打击过度 [...]</title>
+      <link>https://t.me/hn_summary/86437</link>
+      <description><![CDATA[威尼斯测试对一日游游客收取 5 欧元的费用应对过度旅游
+威尼斯对一日游游客实行 5 欧元的入场费，以打击过度旅游，让这座城市更适合居民居住。这项有争议的试点计划引发了居民的抗议，他们认为重点应该放在增加城市人口和服务上。该费用仅在特定时间内适用，是为了收集有关威尼斯游客数量的更准确数据的一部分。虽然有些人认为这笔费用是必要的，但另一些人则认为这不能解决该市面临的根本问题。]]></description>
+      <guid>https://t.me/hn_summary/86437</guid>
+      <pubDate>Thu, 25 Apr 2024 18:21:16 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻求有关为带有 end-t 的 AI 笔记应用程序有效创建嵌入的建议 [...]</title>
-      <link>https://t.me/hn_summary/86398</link>
-      <description><![CDATA[询问 HN：使用 E2EE 为 AI 笔记应用高效创建嵌入&lt; /a&gt;
-作者正在寻求有关如何为具有端到端加密的 AI 笔记应用程序高效创建嵌入的建议。他们目前正在使用 Transformers.js 在本地创建嵌入，但它会消耗大量内存，这对于旧设备来说不切实际。他们正在考虑使用 API 来提高效率，但这需要通过云发送未加密的笔记，从而损害端到端加密。作者正在寻找有关如何在本地创建嵌入而不损害用户笔记安全性的指导。这种困境凸显了人工智能应用中平衡效率和安全性的挑战。]]></description>
-      <guid>https://t.me/hn_summary/86398</guid>
-      <pubDate>Thu, 25 Apr 2024 15:12:59 GMT</pubDate>
+      <title>[媒体]近年来，出现了一种令人不安的趋势，觉醒的公司正在使用他们的 PO [...]</title>
+      <link>https://t.me/hn_summary/86436</link>
+      <description><![CDATA[武器化服务条款
+近年来，出现了一种令人不安的趋势，觉醒的公司利用其权力压制保守派，并拒绝他们获得商品和服务。从社交媒体平台到银行，这些公司基于政治信仰暂停账户、压制故事并拒绝服务。由参议员特德·克鲁兹 (Ted Cruz) 领导的调查显示，SPLC 和 ADL 等左翼组织正在影响公司将其服务条款武器化，以消除保守派组织的平台。这种有偏见的做法导致保守派的声音被压制，基本服务被拒绝，从而阻碍了宣传工作。 （根据故事文本的 8% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86436</guid>
+      <pubDate>Thu, 25 Apr 2024 18:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>派克斯维尔高中 (Pikesville High School) 前体育主任达中·达里恩 (Dazhon Darien) 因使用 [...]</title>
-      <link>https://t.me/hn_summary/86397</link>
-      <description><![CDATA[前体育总监因用人工智能生成的声音陷害校长而被捕&lt; /a&gt;
-派克斯维尔高中前体育主任达中·达里恩 (Dazhon Darien) 因使用人工智能冒充校长埃里克·艾斯沃特 (Eric Eiswert) 并传播种族主义和反犹太主义言论而被捕。人工智能生成的声音导致艾斯沃特暂时离开学校，并对教职员工和学生造成干扰。达里恩还被指控盗窃和报复证人。音频的真实性受到质疑，专家认为它是人工智能生成的。该事件引发了教师的恐惧，影响了教师与政府之间的信任。该案例凸显了人工智能语音生成工具的流行以及监管深度造假的挑战。]]></description>
-      <guid>https://t.me/hn_summary/86397</guid>
-      <pubDate>Thu, 25 Apr 2024 15:01:22 GMT</pubDate>
+      <title>问 HN：Rabbit R1 的商业模式是什么？</title>
+      <link>https://t.me/hn_summary/86435</link>
+      <description><![CDATA[询问 HN：Rabbit R1 商业模式是什么？&lt; br /&gt;
+我很好奇Rabbit R1的商业模式。他们如何能够在不收取订阅费的情况下提供服务？从长远来看，这似乎好得令人难以置信，尤其是考虑到 API 调用的成本及其存储能力时。我很好奇他们如何能够在不向用户收费的情况下维持业务。这是一个我渴望解开的谜团。]]></description>
+      <guid>https://t.me/hn_summary/86435</guid>
+      <pubDate>Thu, 25 Apr 2024 18:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，西蒙·斯图尔特 (Simon Stewart) 讨论了命名不同类型的挑战 [...]</title>
-      <link>https://t.me/hn_summary/86396</link>
-      <description><![CDATA[测试规模 (2010)
-在这篇博文中，Simon Stewart 讨论了在软件开发中命名不同类型测试的挑战。他介绍了 Google 的数据驱动方法，根据网络访问、数据库使用等特定标准将测试命名为“小型”、“中型”和“大型”。这些定义帮助团队建立共识并轻松对测试进行分类。通过设置约束和使用注释，Google 确保测试高效且一致地运行。这种独特的方法可以轻松创建测试套件并并行执行，最终改进测试过程。这是一个令人耳目一新的背离传统测试命名约定的混乱。]]></description>
-      <guid>https://t.me/hn_summary/86396</guid>
-      <pubDate>Thu, 25 Apr 2024 14:58:46 GMT</pubDate>
+      <title>[媒体] 隆重推出 ReaperAI，这是一款革命性工具，可自动识别和删除数据 [...]</title>
+      <link>https://t.me/hn_summary/86434</link>
+      <description><![CDATA[显示 HN：ReaperAI – 自动删除应用中的死代码
+隆重推出 ReaperAI，这是一款革命性工具，可以自动识别并删除应用程序中的死代码。通过这种创新的解决方案，告别代码库中的混乱和低效率。订阅我们的新闻通讯，了解最新功能和产品发布的最新信息。与 ReaperAI 一起迈向更干净、更高效的代码。没有垃圾邮件，只有有价值的信息，可以帮助您简化开发流程。立即访问 www.emergetools.com 尝试一下。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/86434</guid>
+      <pubDate>Thu, 25 Apr 2024 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>我最近在短短 3 小时内构建了一个由 LLM 驱动的机器人来统治 Slay the Spire。</title>
-      <link>https://t.me/hn_summary/86395</link>
-      <description><![CDATA[有人构建了一个由 LLM 驱动的 Slay the Spire 机器人 
-我最近在短短 3 小时内构建了一个由 LLM 驱动的机器人来统治 Slay the Spire。使用 Amazon Q，我能够在创纪录的时间内创建这个令人印象深刻的机器人。这种创新方法展示了机器学习在游戏中的力量。查看我的方法并了解您可以如何做同样的事情。请记住，本文中表达的观点是我自己的观点，并不一定反映 AWS 的观点。该项目证明了人工智能在游戏领域的潜力及其带来的令人兴奋的可能性。]]></description>
-      <guid>https://t.me/hn_summary/86395</guid>
-      <pubDate>Thu, 25 Apr 2024 14:50:09 GMT</pubDate>
+      <title>[媒体]亚马逊到底有多狠？</title>
+      <link>https://t.me/hn_summary/86433</link>
+      <description><![CDATA[亚马逊到底有多无情？
+在《万物之战》中，达纳·马蒂奥利 (Dana Mattioli) 深入探讨了亚马逊的残酷策略，强调了该公司采用激进的方式来压制 Diapers.com。该书探讨了亚马逊涉嫌滥用权力和反垄断问题，引起人们对该公司面临的持续法律斗争的关注。尽管马蒂奥利的调查很彻底，但一些批评者认为，她对亚马逊的片面描述实际上可能会赢得人们对这家科技巨头的同情。该书提出了有关企业集中度的重要问题，以及面对亚马逊等强大寡头垄断企业更新竞争法的必要性。最终，它要求读者考虑亚马逊在市场上的主导地位的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/86433</guid>
+      <pubDate>Thu, 25 Apr 2024 18:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 的中国所有者字节跳动已经对这个流行的社交媒体平台取得了更牢固的控制权 [...]</title>
-      <link>https://t.me/hn_summary/86394</link>
-      <description><![CDATA[TikTok的中国所有者在美国禁令之前加强了控制 
-在美国可能实施禁令之前，TikTok 的中国所有者字节跳动已经加强了对这个流行社交媒体平台的控制。此举正值特朗普政府继续推动将 TikTok 美国业务出售给美国公司之际。字节跳动决定对 TikTok 实施更多控制，这表明该公司决心应对复杂的监管环境并保留该应用程序的所有权。围绕 TikTok 的所有权和可能在美国被禁止的争议引发了有关数据隐私和国家安全问题的争论。请继续关注这个发展故事的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/86394</guid>
-      <pubDate>Thu, 25 Apr 2024 14:39:01 GMT</pubDate>
+      <title>[媒体]Swan 是一个使用 FPGA 的轻量级语言模型执行环境，在 [...]</title>
+      <link>https://t.me/hn_summary/86432</link>
+      <description><![CDATA[Swan – 使用 FPGA 的轻量级语言模型执行环境 
+Swan 是一种使用 FPGA 的轻量级语言模型执行环境，以 C++ 实现，可使用高级综合 (HLS) 在通用 FPGA 上高效运行语言模型。它旨在为资源有限的边缘设备中的人工智能应用程序在 FPGA 上实现语言模型推理。 Swan支持常见的FPGA板卡，可扩展且易于定制，并考虑了语言模型的大小限制。它以其多功能性、可扩展性和轻量级架构而与众不同。该项目受 llama2.c 启发，在 Apache License 2.0 下发布，欢迎社区贡献。]]></description>
+      <guid>https://t.me/hn_summary/86432</guid>
+      <pubDate>Thu, 25 Apr 2024 18:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 OpenUp.design，这是一个致力于开放设计和创新的社区。</title>
-      <link>https://t.me/hn_summary/86393</link>
-      <description><![CDATA[数字木接头
-欢迎来到 OpenUp.design，这是一个致力于开放设计和创新的社区。我们最新的项目专注于数字木接缝，探索传统木工技术与现代技术相结合的可能性。了解数字制造如何彻底改变我们制造家具和结构的方式，以及曾经被认为不可能的复杂而精确的接头。与我们一起突破设计和工艺的界限，并参与有关木工未来的对话。让我们一起开辟新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/86393</guid>
-      <pubDate>Thu, 25 Apr 2024 14:20:50 GMT</pubDate>
+      <title>在一篇措辞严厉的博客文章中，Jeff Geerling 宣称企业开源已死，并指出 [...]</title>
+      <link>https://t.me/hn_summary/86431</link>
+      <description><![CDATA[Jeff Geerling：企业开源已死
+Jeff Geerling 在一篇措辞严厉的博客文章中宣称企业开源已死，并指出 HashiCorp、Redis、Red Hat 等公司最近放弃真正的开源原则，转而采用利润驱动的战略。 Geerling 强调了围绕 HashiCorp 转向“商业源码许可证”以及 IBM 以 64 亿美元收购该公司的争议。他强调维护真正的开源价值观的重要性，并警告不要为需要贡献者许可协议的项目做出贡献。尽管企业开源已经消亡，Geerling 仍然看到了小型开发团队在开源社区中产生积极影响的机会。]]></description>
+      <guid>https://t.me/hn_summary/86431</guid>
+      <pubDate>Thu, 25 Apr 2024 17:57:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Show HN：抢了！</title>
-      <link>https://t.me/hn_summary/86392</link>
-      <description><![CDATA[显示 HN：抢了！在我的游戏中，你将 LLM 驱动的 NPC 引诱到你的外星飞船上
-嘿！我很高兴向您介绍我的新游戏《抢夺》！在这款独特的游戏中，玩家使用 LLM 驱动的 NPC 来引诱他们到他们的外星飞船上。该游戏可通过 Discord 登录访问，因此可以轻松直接开始玩。这是一次有趣且引人入胜的体验，可以让您开心几个小时。快来 playsnatched.com 看看你是否有什么需要掌握将 NPC 引诱到您的船上的艺术。比赛开始吧！]]></description>
-      <guid>https://t.me/hn_summary/86392</guid>
-      <pubDate>Thu, 25 Apr 2024 14:18:49 GMT</pubDate>
+      <title>[媒体] FCC 以 3 比 2 投票决定恢复网络中立性规则，禁止封锁和节流 [...]</title>
+      <link>https://t.me/hn_summary/86430</link>
+      <description><![CDATA[FCC 在 3-2 年内恢复禁止阻止和限制的网络中立性规则投票
+FCC 以 3 比 2 投票决定恢复网络中立规则，禁止屏蔽和限制合法内容。互联网服务提供商计划在法庭上对抗这些规则，声称他们已经遵循网络中立原则。游说团体认为，这些规则阻碍了宽带部署，并威胁到缩小数字鸿沟的进展。法庭之争将集中于联邦通信委员会是否可以将宽带定义为电信服务。 FCC 专员斯塔克斯为这一决定辩护，称其符合过去的做法和 1996 年《电信法》。争议在于关于这些恢复规定的必要性和影响的持续争论。]]></description>
+      <guid>https://t.me/hn_summary/86430</guid>
+      <pubDate>Thu, 25 Apr 2024 17:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 推出 TikiToken，P 上 NFT 版本的革命性足球经理游戏 [...]</title>
-      <link>https://t.me/hn_summary/86391</link>
-      <description><![CDATA[在 Polygon 区块链中显示 HN：TikiToken – NFT 版本的足球经理&lt; /a&gt;
-隆重推出 TikiToken，这是 Polygon 区块链上 NFT 版本的革命性足球经理游戏。我们的旅程始于 2024 年 4 月推出登陆页面，随后于 6 月开始开发。 8 月份，我们在预售期间以 50% 的折扣向玩家提供 NFT。到 9 月，玩家可以在我们的市场中创建球队并交易球员，为联赛的激动人心的开始做好准备。加入我们，参与足球管理和区块链技术的突破性融合。不要错过这个体验体育游戏未来的独特机会。]]></description>
-      <guid>https://t.me/hn_summary/86391</guid>
-      <pubDate>Thu, 25 Apr 2024 14:07:43 GMT</pubDate>
+      <title>[媒体]我们的研究介绍了 CatLIP，这是一种通过 [...] 提高剪辑视觉准确性的新颖方法</title>
+      <link>https://t.me/hn_summary/86429</link>
+      <description><![CDATA[CatLIP：剪辑视觉精度提高 2.7 倍，网络预训练速度提高 2.7 倍-规模数据
+我们的研究引入了 CatLIP，这是一种通过利用网络规模数据进行预训练来提高剪辑视觉准确性的新颖方法。通过利用来自网络的大量不同数据，CatLIP 的预训练速度比现有方法快 2.7 倍。这种创新技术不仅提高了准确性，而且显着减少了预训练所需的时间。借助 CatLIP，我们正在突破剪辑视觉技术的界限，并为未来更高效、更有效的模型铺平道路。探索我们在 arxiv.org 上的发现，以更深入地了解这一突破性的成果方法。]]></description>
+      <guid>https://t.me/hn_summary/86429</guid>
+      <pubDate>Thu, 25 Apr 2024 17:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/86390</link>
-      <description><![CDATA[美国调查中国访问RISC-V
-由于立法者对中国使用开放标准的担忧，美国商务部正在调查中国使用处理器 RISC-V 指令集架构 (ISA) 的情况。 RISC-V 被视为对美国先进计算能力主导地位的潜在威胁，导致有人呼吁限制中国的准入。然而，RISC-V International 为开放标准辩护，强调其全球性以及不受阻碍的开放标准在技术上的重要性。随着中美两国争夺技术优势，中美之间正在进行的芯片大战可能会持续下去。]]></description>
-      <guid>https://t.me/hn_summary/86390</guid>
-      <pubDate>Thu, 25 Apr 2024 14:05:05 GMT</pubDate>
+      <title>[媒体]Hive 是一个人工智能开源市场，旨在促进透明度、创新 [...]</title>
+      <link>https://t.me/hn_summary/86428</link>
+      <description><![CDATA[显示 HN：Hive – 人工智能开源市场
+Hive 是一个人工智能开源市场，旨在促进人工智能社区的透明度、创新和利润分享。通过研究中心、模型中心和代理中心，人工智能研究人员可以获得工作资助，机器学习工程师可以基于研究构建模型并发布它们，代理构建者可以开发使用模型并支付模型费用的代理。这种独特的方法创造了飞轮效应，推动社区内的协作和发展。加入我们 hivenetwork.ai，成为这一突破性计划的一部分.]]></description>
+      <guid>https://t.me/hn_summary/86428</guid>
+      <pubDate>Thu, 25 Apr 2024 17:54:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
