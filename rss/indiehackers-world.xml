@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>帖子 独立黑客</title>
+    <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:20:55 GMT</lastBuildDate>
+    <item>
+      <title>如何实现应用内消息传递？</title>
+      <link>https://feed.indiehackers.world/post/01107b2c9d</link>
+      <description><![CDATA[在用户和群组之间构建应用内消息传递的最佳方法是什么？
+是否有任何 SAAS 产品可以提供这些功能，或者我是否必须从头开始构建它。
+我确实找到了一些，但它们似乎价格过高。让我知道你的想法
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/01107b2c9d</guid>
+      <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
+    </item>
     <item>
       <title>开源对您意味着什么？</title>
       <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
@@ -87,7 +97,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Fri, 12 Apr 2024 05:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>生活仪表板</title>
+      <title>生活仪表盘</title>
       <link>https://feed.indiehackers.world/post/32ff6acfea</link>
       <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您来说重要的事情。
 Discord 独立黑客聊天广告这里]]></description>
@@ -132,15 +142,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/caeb2aaa7b</guid>
       <pubDate>Sat, 06 Apr 2024 09:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关选择电子邮件转发/路由服务的建议</title>
-      <link>https://feed.indiehackers.world/post/a55d31d4b8</link>
-      <description><![CDATA[我正在寻找一种允许我管理电子邮件路由和转发的电子邮件服务。我尝试过用于电子邮件路由的 Resend 和用于电子邮件转发的 Improvmx 等服务。然而，我最终支付了 29 美元，因为我必须订阅专业计划，因为我想添加额外的域，尽管对于我所支付的费用来说，使用率相当低。
-您对类似服务的体验如何？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a55d31d4b8</guid>
-      <pubDate>Wed, 03 Apr 2024 00:05:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

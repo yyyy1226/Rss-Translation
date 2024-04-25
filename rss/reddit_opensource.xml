@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:20:36 GMT</lastBuildDate>
+    <item>
+      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
+      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
+      <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>猜猜谁刚刚为我们的开源项目找到了第一个赞助商？！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</link>
+      <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
+      <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Burr 构建电子邮件助手</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
-      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/benizzy1   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
       <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>开源世界中的维基百科：您发现了哪些宝石？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</link>
-      <description><![CDATA[我们都知道，对开源主题进行简单的搜索可能会变成数小时的 wiki 跳跃。这可能会导致发现新项目、工具，甚至是有关我们使用的技术的历史背景。通过这种方法，您发现了哪些最令人着迷或最有价值的开源项目？ 分享您的故事，让我们一起探索开源世界的隐藏宝藏！ 附注：为了充分披露和开源透明精神，我在 XWiki SAS 工作，它是 XWiki 软件的最大赞助公司。:)    提交人    /u/LorinaBalan   [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道对开源主题的简单搜索如何会变成几个小时的维基跳转。这可以帮助我们发现新的项目、工具，甚至我们所使用的技术的历史背景。您通过这种方法发现了哪些最迷人或最有价值的开源项目？  分享您的故事，让我们一起探索开源宇宙中隐藏的宝藏！ P.S.：本着充分披露和开源透明精神，我在 XWiki SAS 工作， XWiki 软件的顶级赞助公司。 :)   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</guid>
       <pubDate>Thu, 25 Apr 2024 07:31:19 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 04:21:22 GMT</pubDate>
     </item>
     <item>
-      <title>ScrumMD：我的 GPL CLI 工具，用于使用 markdown 格式的卡片管理 Scrum</title>
+      <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
       <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
       <description><![CDATA[       由   提交 /u/thelochok   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>loreVault 需要测试人员，这是一个从配方创建文件夹的简单工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</link>
-      <description><![CDATA[大家好， 这几个星期我一直在致力于 lorevault。它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可以是用于可重现的测试/构建环境或简单的项目模板。 一些重要功能是：  确保文件未更改的哈希值。 一个文件有多个源以实现冗余。 文件可以从本地或远程 git-repos 的存档或提交中获取。 标签可用于有条件包含文件。&lt; /li&gt; 可以包含其他配置文件。 如果该文件夹已经存在，则可以避免很多工作。  我为什么要告诉你这个？我希望找到愿意测试该程序的人。当然，我已经实现了一些测试，但这只是意味着我在我的机器上想出了一些测试用例。可能存在许多明显的错误。 我期待您的 GitHub 问题！   由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 几个星期以来，我一直在研究 lorevault。 它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可用于可重现的测试/构建环境或简单的项目模板。 一些重要功能包括：  哈希以确保文件未更改。 一个文件的多个来源以实现冗余。 文件可以从档案中获取，也可以从本地或远程 git-repos 的提交中获取。 标签可用于有条件地包含文件。 可以包括其他配置文件。 如果文件夹已经存在，则可以避免大量工作。  我为什么要告诉你这个？ 我希望找到愿意测试这个程序的人。当然，我已经实现了一些测试，但这只意味着我提出的一些测试用例可以在我的机器上运行。可能有很多明显的错误。 我期待您的 GitHub 问题！    提交人    /u/Bowtiestyle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</guid>
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 24 Apr 2024 15:26:17 GMT</pubDate>
     </item>
     <item>
-      <title>Slidesdown：通过 SLIDES.md 演示文稿推广您的 FLOSS 项目</title>
+      <title>Slidesdown：使用 SLIDES.md 演示文稿推广您的 FLOSS 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc0mhb/slidesdown_promote_your_floss_project_with_a/</link>
       <description><![CDATA[slidesdown 是我在普通降价中的第二次尝试mdshow 之后的幻灯片工具。完全免费/自由/开源，无商业产品，无跟踪，无编译步骤，只需 Markdown。目标？  以打字的速度创建幻灯片。  如何创建演示文稿？  写入您的幻灯片为普通降价形式 - 标题、项目符号列表等，并将其存储为 SLIDES.md &lt; li&gt;添加图标，它们都可用 使用 tailwind 样式类进行快速 HTML/CSS 格式化&lt; /li&gt;  如何显示演示文稿？ 将演示文稿上传到 git 存储库并指向在线服务。 slidesdown 项目演示文稿的示例链接 https: //slidesdown.github.io/?slides=github.com/slidesdown/slidesdown Slidesdown 还可以通过 slidesdown 命令行工具  通过 Docker 或 在线服务 或者生成包含整个演示文稿的在线服务的 URL  示例 &amp;在线服务：https://slidesdown.github.io/ 来源：https://github.com/slidesdown/slidesdown 我很想听听您的反馈和建议。目前最缺少的是在线编辑器。   由   提交/u/jceb  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc0mhb/slidesdown_promote_your_floss_project_with_a/</guid>
       <pubDate>Wed, 24 Apr 2024 15:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似于 Azure Avatar 文本转语音的解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</link>
-      <description><![CDATA[嘿， 我目前正在寻找与此类似的内容 https://github.com/Sgvkamalakar/Azure-Talking-Avatar Azure Avatar 文本转语音服务实时生成语音和头像运动，因此只要没有文本需要处理，头像就处于空闲状态。 我发现了像 SadTalker 这样的项目，看起来很有前途，但我不知道我如何在我的项目中利用它。 是否有人构建了类似于 Azure Avatar 服务的东西，以便可以嵌入到应用程序中并可以实时输入文本？ &lt; p&gt;谢谢！   由   提交 /u/timowevel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[新手指导] 感谢您的建议！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
-      <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时，我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>
-      <pubDate>Wed, 24 Apr 2024 08:22:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
