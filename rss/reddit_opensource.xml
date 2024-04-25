@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:19:11 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 01:20:02 GMT</lastBuildDate>
+    <item>
+      <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
+      <description><![CDATA[       由   提交 /u/thelochok   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
+      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
+      <pubDate>Wed, 24 Apr 2024 21:58:29 GMT</pubDate>
+    </item>
     <item>
       <title>Simone：通过将 YouTube 视频转换为具有上下文感知屏幕截图的博客文章来重新调整其用途</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc5ru2/simone_repurpose_your_youtube_videos_by/</link>
@@ -48,16 +62,9 @@
       <pubDate>Wed, 24 Apr 2024 11:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbtu8i/an_opensource_alternative_to_resend_mailgun/</link>
-      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbtu8i/an_opensource_alternative_to_resend_mailgun/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:24:11 GMT</pubDate>
-    </item>
-    <item>
       <title>[新手指导] 感谢您的建议！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
-      <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时，我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们一切都好！ 让我简单介绍一下我自己 --  我目前是一名大四学生，最近对开源做贡献非常着迷！我精通 MERN 堆栈，想开始为一个项目做贡献。我知道像我这样的新手不会解决一些价值数百万美元的问题，但我至少想从它开始。 这里的很多人都对开源很有经验，我想问几个问题-- 我该如何处理这个问题？如何根据我的堆栈找到可以贡献的好项目？ 有时我会用我熟悉的语言开始一个项目，但可能我不知道正在使用的某种技术，比如一些后端数据库之类的，我该如何处理呢？ [ 这是我面临的最大问题，甚至害怕开始] 请帮助像我这样的新手！我想编写一些好的代码并提供帮助！ 感谢您的时间和建议！非常感谢！ -yeonw    提交人    /u/yeonw   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>
       <pubDate>Wed, 24 Apr 2024 08:22:31 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 23 Apr 2024 20:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Podlite v1.0 发布：一种轻量级、面向块的标记语言，专为组织知识而设计。（艺术许可证 2.0）</title>
+      <title>Podlite v1.0 发布：一种轻量级、面向块的标记语言，专为组织知识而设计。 （艺术许可2.0）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</link>
       <description><![CDATA[什么是 Podlite？ Podlite,一种轻量级的面向块的标记语言，注重灵活性和易用性。   不受任何特定领域、编程语言或概念的束缚，Podlite 作为一种通用标记语言脱颖而出 此外，对 Markdown 标记作为标准块的支持增加了便利性，并允许使用熟悉的语法进行文本格式化 它非常适合文档、教育材料、博客等组织知识。 Podlite 的关键特性之一是它的可扩展性。这允许定义独特的和特定于域的块，并根据项目的要求扩展语言的功能。 Podlite 规范根据 Artistic 许可证 2.0 发布。  Podlite 的主要功能  基于块的结构：Podlite 的核心是“块”的概念。这是任何文档的基本单位。这些块可以具有定义的属性并支持包含丰富的内容。 丰富的链接功能：Podlite 允许将块、术语、定义链接到各种类型的关系，增强文档的互连性和可导航性。 支持公式和 Markdown：无论您需要插入复杂的数学公式还是喜欢 Markdown 的简单性，Podlite 可以满足您的需求。它无缝集成了两者，让您可以灵活地选择编写方式。 可扩展和可定制：使用自定义块和内联代码扩展 Podlite ，定制语言以满足您的特定需求。  Podlite v1.0 发行说明 Podlite v1.0 发行说明 谢谢   由   提交 /u/zagap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</guid>
@@ -92,23 +99,16 @@
     <item>
       <title>将选项卡分组到左侧 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
-      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未上架 Chrome 应用商店，但它包含一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我很高兴能首次涉足开源社区。 我制作了一个 Chrome 扩展程序 ，通过管理标签杂乱来提高浏览效率。只需单击一下，它就会将所有标签分组到当前标签的左侧，让我可以专注于任务而不会丢失打开的页面。它会最小化组并排除任何固定的标签。 我已将最近的更新推送到  GitHub 存储库。虽然此版本尚未登陆 Chrome 商店，但它包含一项新功能：忽略现有组的功能。对于想要对群组进行分组的人来说，这可能是更好的选择。    提交人    /u/CuntBuster2077   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
       <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
     </item>
     <item>
       <title>贡献/维护开源项目对找工作有帮助吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</link>
-      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目为自己带来宣传 在面试中有一个可以谈论的重大项目 在我的简历中有一个好的项目  我的问题是，有一个好的开源项目对你找工作有帮助吗？   由   提交 /u/ItsBJr   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目宣传自己 在面试中有一个重要的项目可以谈论 在我的简历中有一个好的项目  我的问题是，一个好的开源项目是否帮助您找工作？    提交人    /u/ItsBJr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</guid>
       <pubDate>Tue, 23 Apr 2024 15:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何许可我的第一个使用第 3 方库的 github 项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
-      <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:43:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
