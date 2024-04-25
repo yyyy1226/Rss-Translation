@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 01:20:02 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 03:20:32 GMT</lastBuildDate>
     <item>
       <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
       <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
       <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Android 启动器类似于 Neo Launcher 或 Nova Launcher</title>
+      <title>Android 启动器类似于 Neo 启动器或 Nova 启动器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</link>
       <description><![CDATA[我一直在使用 Nova，直到一家数据收集公司购买了它。然后我切换到 Neo Launcher，但它总是锁定，迫使我锁定和解锁我的手机。自 2022 年以来，它一直没有更新 要求 - 我可以更改应用程序图标 - 它有一个应用程序抽屉 - 没有简单的分析或数据收集和销售 - 没有持久的搜索或 Google 搜索不会被删除或关闭 - 像 Nova 这样的桌面可以让我在上面放置应用程序图标。我不喜欢像 Niagara 这样的极简启动器，无论它多么时尚和快速。   由   提交 /u/BriniaSona   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>[新手指导] 感谢您的建议！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
-      <description><![CDATA[大家好，希望你们一切都好！ 让我简单介绍一下我自己 --  我目前是一名大四学生，最近对开源做贡献非常着迷！我精通 MERN 堆栈，想开始为一个项目做贡献。我知道像我这样的新手不会解决一些价值数百万美元的问题，但我至少想从它开始。 这里的很多人都对开源很有经验，我想问几个问题-- 我该如何处理这个问题？如何根据我的堆栈找到可以贡献的好项目？ 有时我会用我熟悉的语言开始一个项目，但可能我不知道正在使用的某种技术，比如一些后端数据库之类的，我该如何处理呢？ [ 这是我面临的最大问题，甚至害怕开始] 请帮助像我这样的新手！我想编写一些好的代码并提供帮助！ 感谢您的时间和建议！非常感谢！ -yeonw    提交人    /u/yeonw   [link] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>
       <pubDate>Wed, 24 Apr 2024 08:22:31 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>将选项卡分组到左侧 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
-      <description><![CDATA[大家好！我很高兴能首次涉足开源社区。 我制作了一个 Chrome 扩展程序 ，通过管理标签杂乱来提高浏览效率。只需单击一下，它就会将所有标签分组到当前标签的左侧，让我可以专注于任务而不会丢失打开的页面。它会最小化组并排除任何固定的标签。 我已将最近的更新推送到  GitHub 存储库。虽然此版本尚未登陆 Chrome 商店，但它包含一项新功能：忽略现有组的功能。对于想要对群组进行分组的人来说，这可能是更好的选择。    提交人    /u/CuntBuster2077   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未在 Chrome 应用商店上架，但它包含一个新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
       <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
     </item>
     <item>
       <title>贡献/维护开源项目对找工作有帮助吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</link>
-      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目宣传自己 在面试中有一个重要的项目可以谈论 在我的简历中有一个好的项目  我的问题是，一个好的开源项目是否帮助您找工作？    提交人    /u/ItsBJr   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目为自己带来宣传 在面试中有一个可以谈论的重大项目 在我的简历中有一个好的项目  我的问题是，有一个好的开源项目对你找工作有帮助吗？   由   提交 /u/ItsBJr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</guid>
       <pubDate>Tue, 23 Apr 2024 15:29:30 GMT</pubDate>
     </item>
