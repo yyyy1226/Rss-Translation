@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:28:07 GMT</lastBuildDate>
     <item>
       <title>Excel、Windows 资源管理器、Word、PDF</title>
       <link>https://www.reddit.com/r/automation/comments/1cci17v/excel_windows_explorer_word_pdfs/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>求职代理</title>
       <link>https://www.reddit.com/r/automation/comments/1canj3t/job_search_agent/</link>
-      <description><![CDATA[我失业了，讨厌无休止地重复 1. 寻找匹配的工作 2. 写求职信 3. 修改简历 4. 提交工作或填写乏味的网站，在那里我必须填写简历上相同的内容然后提交。我开始规划一个使用 Python 和 AI 来做这些事情的代理。我刚刚定义了一些函数，需要插入对 AI 的调用来创建提示等来创建求职信等。以前有人做过类似的事情吗？我的 Python 水平一般，对 AI 很陌生，但发现它的功能很迷人。如果有人做过类似的事情并想知道他们进展如何，我很感兴趣。感谢您的评论     提交人    /u/Novel_Breadfruit_566   [链接] [评论]]]></description>
+      <description><![CDATA[我失业了，讨厌无休止地重复 1. 寻找匹配的工作 2. 创建求职信 3. 重新修改简历 4. 提交工作或填写确实是一个乏味的网站，我必须填写简历上的相同内容，然后提交。我开始规划一个使用 Python 和 AI 来做这些事情的代理，我刚刚定义了一些函数，需要插入对 AI 的调用来创建提示等，以创建求职信等。以前有人做过这样的事情吗？我对 Python 的了解中等，对人工智能还很陌生，但发现它的功能很有趣。我很感兴趣是否有人做过类似的事情并知道他们走了多远。感谢您的评论   由   提交 /u/Novel_Breadfruit_566   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1canj3t/job_search_agent/</guid>
       <pubDate>Mon, 22 Apr 2024 22:04:36 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 20 Apr 2024 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>AI 视频字幕生成器的准确度如何？</title>
+      <title>视频的 AI 字幕生成器有多准确？</title>
       <link>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</link>
       <description><![CDATA[ 由   提交 /u/Capable-Start-5497   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</guid>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 20 Apr 2024 12:22:16 GMT</pubDate>
     </item>
     <item>
-      <title>你自动化什么？</title>
+      <title>您自动化了什么？</title>
       <link>https://www.reddit.com/r/automation/comments/1c85fcg/what_do_you_automate/</link>
       <description><![CDATA[刚来，非常好奇人们会自动化什么？是否有任何您自动化或希望自动化的特定工作流程或用例？   由   提交 /u/ljhskyso   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c85fcg/what_do_you_automate/</guid>
