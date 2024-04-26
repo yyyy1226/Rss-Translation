@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:17:28 GMT</lastBuildDate>
+    <item>
+      <title>开放人工智能模型很棒，但我们需要诚实地面对三个令人不安的事实</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</link>
+      <description><![CDATA[       由   提交 /u/alexvoica   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源CDN服务器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
+      <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
@@ -29,21 +43,14 @@
     <item>
       <title>有没有可以本地安装的开放式编程助手？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdjauq/is_there_an_open_programming_assistant_which_can/</link>
-      <description><![CDATA[phind.com 可能是用于编程和其他计算相关任务的最先进的网络服务 - 这家初创公司在 Hacker&#39;s News 上收到了积极的回应并且他们的隐私政策并没有公开敌对。 我正在寻找替代方案，原因如下：  phind.com 是一项专有网络服务 没有开放的错误跟踪器，用户被定向到他们的 Discord 服务器 需要登录才能使用其最高质量模型  帐户创建过程非常复杂，需要访问发送到您电子邮件的（重定向跟踪）链接  需要运行 Javascript&lt; /li&gt; 没有任何命令行支持 似乎没有在内部运行任何 Unix 程序（最著名的 man），专门访问在线文档（可能不在日期和/或不正确） 大多数在答案中使用简短的 CLI 标志，需要阅读手册页才能解析实际的（程序）功能 可访问性差，可以&#39;实际上仅使用键盘进行导航  是否有任何可以在本地安装和运行的远程类似服务？我预计数据库的大小可以超过 100 GB — 对于经常使用的节省时间的工具来说，这并不是一个无法克服的数据量。   由   提交/u/2299165976   [链接] [评论]]]></description>
+      <description><![CDATA[phind.com 可能是用于编程和其他计算相关任务的最先进的网络服务 - 这家初创公司在 Hacker&#39;s News 上收到了积极的回应并且他们的隐私政策并没有公开敌对。 我正在寻找替代方案，原因如下：  phind.com 是一项专有网络服务 没有开放的错误跟踪器，用户被定向到他们的 Discord 服务器 需要登录才能使用其最高质量模型  帐户创建过程非常复杂，需要访问发送到您电子邮件的（重定向跟踪）链接  需要运行 Javascript&lt; /li&gt; 没有任何命令行支持 似乎没有在内部运行任何 Unix 程序（最著名的 man），专门访问在线文档（可能不在日期和/或不正确） 大多数在答案中使用简短的 CLI 标志，需要阅读手册页才能解析实际的（程序）功能 可访问性差，可以&#39;实际上仅使用键盘进行导航  是否有任何可以在本地安装和运行的远程可比服务？我预计数据库的大小可以超过 100 GB — 对于经常使用的节省时间的工具来说，这并不是一个无法克服的数据量。   由   提交/u/2299165976   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdjauq/is_there_an_open_programming_assistant_which_can/</guid>
       <pubDate>Fri, 26 Apr 2024 11:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>💡什么是对开源的贡献，什么不是</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</link>
-      <description><![CDATA[ 由   提交/u/suchdevblog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:43:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Android 上的 LibreOffice Calc 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdieqj/libreoffice_calc_alternative_on_android/</link>
-      <description><![CDATA[嘿！ 所以在我的电脑上我使用 LibreOffice 创建/编辑任何文档。大多数情况下，我使用计算器。我想随时随地在手机上处理一些文档。  有什么好的 Android 应用程序可以创建/编辑 OpenDocument 文件吗？我发现了很多“OpenDocument Reader”应用程序。但我想编辑文档。 我的文件存储在我的 NAS（SMB 共享）上，我可以通过 VPN 访问它 谢谢！   由   提交/u/Leonix260  [链接] [评论]]]></description>
+      <description><![CDATA[嘿！ 所以在我的电脑上我使用 LibreOffice 创建/编辑任何文档。最常见的是，我使用计算器。我想随时随地在手机上处理一些文档。  有什么好的 Android 应用程序可以创建/编辑 OpenDocument 文件吗？我发现了很多“OpenDocument Reader”应用程序。但我想编辑文档。 我的文件存储在我的 NAS（SMB 共享）上，我可以通过 VPN 访问它 谢谢！   由   提交/u/Leonix260  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdieqj/libreoffice_calc_alternative_on_android/</guid>
       <pubDate>Fri, 26 Apr 2024 10:58:24 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>带标签的本地书签管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cddyg4/local_bookmark_manager_with_tags/</link>
-      <description><![CDATA[我正在寻找一个在本地运行的书签管理器，而不是像现在大多数人那样在云上运行，并且我希望它有标签。  早在 OSX Snow Leopard 时代，我使用的是“Webbla”（img 示例：https://i.postimg.cc/qqn8Pxvp/Webbla-2.jpg）。不幸的是，它是商业版（1），不能在现代 macOS（2）上运行，而且我还没有找到 Windows（3）的替代品。  我更喜欢它是开源的和/或自托管的。首先，我需要它用于 Windows，但如果有一个用于 Linux 的也没关系；我可以通过 WSL 使用它。  ​   由   提交/u/conmac7  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个在本地运行的书签管理器，而不是像现在大多数人那样在云上运行，并且我希望它有标签。  早在 OSX Snow Leopard 时代，我使用的是“Webbla”（img 示例：https://i.postimg.cc/qqn8Pxvp/Webbla-2.jpg）。不幸的是，它是商业版（1），不能在现代 macOS（2）上运行，而且我还没有找到 Windows（3）的替代品。  我更喜欢它是开源的和/或自托管的。主要是我需要 Windows 版，但如果有 Linux 版也没关系；我可以通过 WSL 使用它。  ​   由   提交/u/conmac7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cddyg4/local_bookmark_manager_with_tags/</guid>
       <pubDate>Fri, 26 Apr 2024 06:00:08 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
+      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
-      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们坚信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
       <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Burr 构建电子邮件助手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
-      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
-      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
