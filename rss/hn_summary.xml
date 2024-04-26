@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 06:26:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体]威尼斯对一日游游客实行 5 欧元的入场费，以打击过度 [...]</title>
-      <link>https://t.me/hn_summary/86437</link>
-      <description><![CDATA[威尼斯测试对一日游游客收取 5 欧元的费用应对过度旅游
-威尼斯对一日游游客实行 5 欧元的入场费，以打击过度旅游，让这座城市更适合居民居住。这项有争议的试点计划引发了居民的抗议，他们认为重点应该放在增加城市人口和服务上。该费用仅在特定时间内适用，是为了收集有关威尼斯游客数量的更准确数据的一部分。虽然有些人认为这笔费用是必要的，但另一些人则认为这不能解决该市面临的根本问题。]]></description>
-      <guid>https://t.me/hn_summary/86437</guid>
-      <pubDate>Thu, 25 Apr 2024 18:21:16 GMT</pubDate>
+      <title>隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。</title>
+      <link>https://t.me/hn_summary/86540</link>
+      <description><![CDATA[展示 HN：Layla – 为疲惫父母提供的人工智能婴儿睡眠教练
+隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。有了 Layla，您可以随时取消计划并继续与她聊天直到月底。另外，您可以通过发送最多 50 条消息来免费试用 Layla。告别不眠之夜，迎接一个休息良好的家庭，Layla 就在您身边。请访问 sleepcoachlayla.netlify.app 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/86540</guid>
+      <pubDate>Fri, 26 Apr 2024 06:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]近年来，出现了一种令人不安的趋势，觉醒的公司正在使用他们的 PO [...]</title>
-      <link>https://t.me/hn_summary/86436</link>
-      <description><![CDATA[武器化服务条款
-近年来，出现了一种令人不安的趋势，觉醒的公司利用其权力压制保守派，并拒绝他们获得商品和服务。从社交媒体平台到银行，这些公司基于政治信仰暂停账户、压制故事并拒绝服务。由参议员特德·克鲁兹 (Ted Cruz) 领导的调查显示，SPLC 和 ADL 等左翼组织正在影响公司将其服务条款武器化，以消除保守派组织的平台。这种有偏见的做法导致保守派的声音被压制，基本服务被拒绝，从而阻碍了宣传工作。 （根据故事文本的 8% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86436</guid>
-      <pubDate>Thu, 25 Apr 2024 18:19:11 GMT</pubDate>
+      <title>Pont 是一个项目模板生成器和加载器，允许用户创建模板并加载[...]</title>
+      <link>https://t.me/hn_summary/86539</link>
+      <description><![CDATA[显示 HN：我制作了一个项目模板生成器/加载器
+Pont 是一个项目模板生成器和加载器，允许用户创建模板并从 Git 存储库或本地目录加载它们。它可用于快速生成项目模板并从这些模板构建项目。 Pont 的独特之处在于它简化了创建项目模板和加载它们的过程，使用户更容易启动新项目。它只能使用 Cargo 安装，并提供了一种用各种编程语言生成和构建项目的简单方法。]]></description>
+      <guid>https://t.me/hn_summary/86539</guid>
+      <pubDate>Fri, 26 Apr 2024 06:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：Rabbit R1 的商业模式是什么？</title>
-      <link>https://t.me/hn_summary/86435</link>
-      <description><![CDATA[询问 HN：Rabbit R1 商业模式是什么？&lt; br /&gt;
-我很好奇Rabbit R1的商业模式。他们如何能够在不收取订阅费的情况下提供服务？从长远来看，这似乎好得令人难以置信，尤其是考虑到 API 调用的成本及其存储能力时。我很好奇他们如何能够在不向用户收费的情况下维持业务。这是一个我渴望解开的谜团。]]></description>
-      <guid>https://t.me/hn_summary/86435</guid>
-      <pubDate>Thu, 25 Apr 2024 18:15:14 GMT</pubDate>
+      <title>[媒体] github 项目“nrr”是 Node.js 的最小且快速的 npm 脚本运行器。</title>
+      <link>https://t.me/hn_summary/86538</link>
+      <description><![CDATA[显示 HN：nrr — 最小、速度极快的 Node.js 脚本运行器
+github 项目“nrr”是 Node.js 的最小且快速的 npm 脚本运行器。它旨在通过提供广泛的功能覆盖范围来快速解析脚本，同时保持简单性和性能。与 npm、yarn 和 pnpm 等包管理器相比，该项目通过提供更快的初始化和脚本解析来区别于其他项目。此外，nrr 提供更好的包和脚本元数据显示，允许在 npm 包环境中执行命令，并提供运行嵌套脚本的专门行为。该项目可以通过 Nix、Cargo 或 GitHub Releases 安装，并根据 GPLv3 获得许可。]]></description>
+      <guid>https://t.me/hn_summary/86538</guid>
+      <pubDate>Fri, 26 Apr 2024 06:24:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 ReaperAI，这是一款革命性工具，可自动识别和删除数据 [...]</title>
-      <link>https://t.me/hn_summary/86434</link>
-      <description><![CDATA[显示 HN：ReaperAI – 自动删除应用中的死代码
-隆重推出 ReaperAI，这是一款革命性工具，可以自动识别并删除应用程序中的死代码。通过这种创新的解决方案，告别代码库中的混乱和低效率。订阅我们的新闻通讯，了解最新功能和产品发布的最新信息。与 ReaperAI 一起迈向更干净、更高效的代码。没有垃圾邮件，只有有价值的信息，可以帮助您简化开发流程。立即访问 www.emergetools.com 尝试一下。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/86434</guid>
-      <pubDate>Thu, 25 Apr 2024 18:12:10 GMT</pubDate>
+      <title>Başak Tuna 的 DayLight Computer 项目重新构想了传统计算机屏幕的功能 [...]</title>
+      <link>https://t.me/hn_summary/86537</link>
+      <description><![CDATA[日光计算机
+Başak Tuna 的 DayLight Computer 项目重新设计了传统的计算机屏幕，使其使用自然光而不是 LED 来运行，从而模糊了技术与环境之间的界限。这一创新概念挑战了我们日常生活中对人造光的依赖，强调了个人设备的互连性及其提供的持续连接。 Tuna 的作品质疑技术对我们日常生活以及我们与周围环境互动方式的影响，尤其是在我们越来越依赖发光屏幕的世界中。该项目促使人们反思光在塑造我们的日程和空间方面的作用，最终提出了关于数字时代人类能动性的问题。]]></description>
+      <guid>https://t.me/hn_summary/86537</guid>
+      <pubDate>Fri, 26 Apr 2024 06:23:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]亚马逊到底有多狠？</title>
-      <link>https://t.me/hn_summary/86433</link>
-      <description><![CDATA[亚马逊到底有多无情？
-在《万物之战》中，达纳·马蒂奥利 (Dana Mattioli) 深入探讨了亚马逊的残酷策略，强调了该公司采用激进的方式来压制 Diapers.com。该书探讨了亚马逊涉嫌滥用权力和反垄断问题，引起人们对该公司面临的持续法律斗争的关注。尽管马蒂奥利的调查很彻底，但一些批评者认为，她对亚马逊的片面描述实际上可能会赢得人们对这家科技巨头的同情。该书提出了有关企业集中度的重要问题，以及面对亚马逊等强大寡头垄断企业更新竞争法的必要性。最终，它要求读者考虑亚马逊在市场上的主导地位的复杂性。]]></description>
-      <guid>https://t.me/hn_summary/86433</guid>
-      <pubDate>Thu, 25 Apr 2024 18:11:06 GMT</pubDate>
+      <title>问 HN：还有其他人因无情的货币化和间谍活动而感到沮丧吗？</title>
+      <link>https://t.me/hn_summary/86536</link>
+      <description><![CDATA[问 HN：还有人因无情的货币化和间谍活动而感到沮丧吗？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者表示他们对我们社会中普遍存在的货币化和监视行为深表担忧和沮丧。他们认为公司不断试图从我们生活的各个方面获利，并且对网站上的许多用户似乎支持这种趋势感到失望，可能是因为他们为这些公司工作。这篇文章强调了隐私侵犯和商业化这一颇具争议的问题，引发了对现代资本主义伦理的讨论。]]></description>
+      <guid>https://t.me/hn_summary/86536</guid>
+      <pubDate>Fri, 26 Apr 2024 06:22:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Swan 是一个使用 FPGA 的轻量级语言模型执行环境，在 [...]</title>
-      <link>https://t.me/hn_summary/86432</link>
-      <description><![CDATA[Swan – 使用 FPGA 的轻量级语言模型执行环境 
-Swan 是一种使用 FPGA 的轻量级语言模型执行环境，以 C++ 实现，可使用高级综合 (HLS) 在通用 FPGA 上高效运行语言模型。它旨在为资源有限的边缘设备中的人工智能应用程序在 FPGA 上实现语言模型推理。 Swan支持常见的FPGA板卡，可扩展且易于定制，并考虑了语言模型的大小限制。它以其多功能性、可扩展性和轻量级架构而与众不同。该项目受 llama2.c 启发，在 Apache License 2.0 下发布，欢迎社区贡献。]]></description>
-      <guid>https://t.me/hn_summary/86432</guid>
-      <pubDate>Thu, 25 Apr 2024 18:02:59 GMT</pubDate>
+      <title>[媒体] 在 fpcomplete.com 上这篇发人深省的文章中，作者挑战了传统 [...]</title>
+      <link>https://t.me/hn_summary/86535</link>
+      <description><![CDATA[类型安全并不重要
+在 fpcomplete.com 上这篇发人深省的文章中，作者提出了挑战编程语言中类型安全的传统观点。虽然承认类型安全对于减少运行时错误的重要性，但作者认为最终目标是减少错误，而不仅仅是类型安全本身。通过对代码更改应用精算方法并强调减少错误的价值，作者建议静态代码分析和 linting 工具等其他技术也可以在提高代码质量方面发挥至关重要的作用。作者通过 JavaScript 的实际示例演示了静态分析如何在编译时捕获错误，强调了软件开发中减少错误的更广泛原理。]]></description>
+      <guid>https://t.me/hn_summary/86535</guid>
+      <pubDate>Fri, 26 Apr 2024 05:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>在一篇措辞严厉的博客文章中，Jeff Geerling 宣称企业开源已死，并指出 [...]</title>
-      <link>https://t.me/hn_summary/86431</link>
-      <description><![CDATA[Jeff Geerling：企业开源已死
-Jeff Geerling 在一篇措辞严厉的博客文章中宣称企业开源已死，并指出 HashiCorp、Redis、Red Hat 等公司最近放弃真正的开源原则，转而采用利润驱动的战略。 Geerling 强调了围绕 HashiCorp 转向“商业源码许可证”以及 IBM 以 64 亿美元收购该公司的争议。他强调维护真正的开源价值观的重要性，并警告不要为需要贡献者许可协议的项目做出贡献。尽管企业开源已经消亡，Geerling 仍然看到了小型开发团队在开源社区中产生积极影响的机会。]]></description>
-      <guid>https://t.me/hn_summary/86431</guid>
-      <pubDate>Thu, 25 Apr 2024 17:57:54 GMT</pubDate>
+      <title>[媒体] 令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/86534</link>
+      <description><![CDATA[全球海面温度 – 新纪录
+令人兴奋的消息！全球海面温度创下新纪录。这些数据对于了解气候变化及其对海洋的影响至关重要。请继续关注这一突破性发现的更多更新。 #ClimateChange #SeaSurfaceTemperature #RecordBreakingDiscovery]]></description>
+      <guid>https://t.me/hn_summary/86534</guid>
+      <pubDate>Fri, 26 Apr 2024 05:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FCC 以 3 比 2 投票决定恢复网络中立性规则，禁止封锁和节流 [...]</title>
-      <link>https://t.me/hn_summary/86430</link>
-      <description><![CDATA[FCC 在 3-2 年内恢复禁止阻止和限制的网络中立性规则投票
-FCC 以 3 比 2 投票决定恢复网络中立规则，禁止屏蔽和限制合法内容。互联网服务提供商计划在法庭上对抗这些规则，声称他们已经遵循网络中立原则。游说团体认为，这些规则阻碍了宽带部署，并威胁到缩小数字鸿沟的进展。法庭之争将集中于联邦通信委员会是否可以将宽带定义为电信服务。 FCC 专员斯塔克斯为这一决定辩护，称其符合过去的做法和 1996 年《电信法》。争议在于关于这些恢复规定的必要性和影响的持续争论。]]></description>
-      <guid>https://t.me/hn_summary/86430</guid>
-      <pubDate>Thu, 25 Apr 2024 17:56:49 GMT</pubDate>
+      <title>[媒体]为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 现已从 [...]</title>
+      <link>https://t.me/hn_summary/86533</link>
+      <description><![CDATA[Ubuntu 24.04 中 .NET 的新增功能
+为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 从第一天起就可以在官方 Ubuntu 源中使用。这标志着 Canonical 和 Microsoft 合作的一个重要里程碑，.NET 6 在发布几个月后就被添加到 Ubuntu 22.04 中。 Ubuntu 24.04 上的 .NET 8 安装过程非常简单，并且容器映像已经可用。 Microsoft 和 Canonical 之间的合作可确保跨平台的 .NET 安全性和支持。 Ubuntu 上 .NET 集成的令人兴奋的发展即将到来，为开发人员带来无缝体验。]]></description>
+      <guid>https://t.me/hn_summary/86533</guid>
+      <pubDate>Fri, 26 Apr 2024 05:20:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的研究介绍了 CatLIP，这是一种通过 [...] 提高剪辑视觉准确性的新颖方法</title>
-      <link>https://t.me/hn_summary/86429</link>
-      <description><![CDATA[CatLIP：剪辑视觉精度提高 2.7 倍，网络预训练速度提高 2.7 倍-规模数据
-我们的研究引入了 CatLIP，这是一种通过利用网络规模数据进行预训练来提高剪辑视觉准确性的新颖方法。通过利用来自网络的大量不同数据，CatLIP 的预训练速度比现有方法快 2.7 倍。这种创新技术不仅提高了准确性，而且显着减少了预训练所需的时间。借助 CatLIP，我们正在突破剪辑视觉技术的界限，并为未来更高效、更有效的模型铺平道路。探索我们在 arxiv.org 上的发现，以更深入地了解这一突破性的成果方法。]]></description>
-      <guid>https://t.me/hn_summary/86429</guid>
-      <pubDate>Thu, 25 Apr 2024 17:55:45 GMT</pubDate>
+      <title>[媒体]医生揭示了开发新药的真实成本，对制药公司提出了挑战 [...]</title>
+      <link>https://t.me/hn_summary/86532</link>
+      <description><![CDATA[新药开发成本可能远低于行业宣称、试验揭露
+医生们揭示了开发新药的真实成本，挑战了制药行业数十亿美元的说法。无国界医生组织 (MSF) 斥资 3400 万欧元进行四种药物联合治疗耐药结核病的试验，这凸显了试验费用透明度的必要性。无国界医生试验的成功促使世界卫生组织在 40 个国家推荐了这种治疗方法。业界声称一种药物的平均成本为 23 亿美元，但无国界医生组织的披露旨在通过揭露研发的真实成本来增加获得救生药物的机会。争议在于行业索赔与实际审判费用之间的差异。]]></description>
+      <guid>https://t.me/hn_summary/86532</guid>
+      <pubDate>Fri, 26 Apr 2024 05:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Hive 是一个人工智能开源市场，旨在促进透明度、创新 [...]</title>
-      <link>https://t.me/hn_summary/86428</link>
-      <description><![CDATA[显示 HN：Hive – 人工智能开源市场
-Hive 是一个人工智能开源市场，旨在促进人工智能社区的透明度、创新和利润分享。通过研究中心、模型中心和代理中心，人工智能研究人员可以获得工作资助，机器学习工程师可以基于研究构建模型并发布它们，代理构建者可以开发使用模型并支付模型费用的代理。这种独特的方法创造了飞轮效应，推动社区内的协作和发展。加入我们 hivenetwork.ai，成为这一突破性计划的一部分.]]></description>
-      <guid>https://t.me/hn_summary/86428</guid>
-      <pubDate>Thu, 25 Apr 2024 17:54:40 GMT</pubDate>
+      <title>[媒体]Stripe，领先的金融科技公司，正在通过 de- [...]</title>
+      <link>https://t.me/hn_summary/86531</link>
+      <description><![CDATA[Stripe 将付款与其堆栈的其余部分分离
+Stripe 是领先的金融科技公司，正在通过将支付与其其他服务堆栈脱钩来做出重大改变。此举允许企业使用 Stripe 的其他工具，而无需使用其支付服务。该公司还在旧金山举行的开发者活动上宣布了新的嵌入式金融功能和人工智能工具。这一战略转变旨在解决复杂的支付环境并为用户提供更大的灵活性。此外，Stripe 还推出了人工智能驱动的结账和欺诈工具，扩展了其嵌入式金融产品，并添加了基于使用情况的计费选项。这些更新使 Stripe 能够在竞争激烈的金融科技市场中更好地满足客户不断变化的需求。]]></description>
+      <guid>https://t.me/hn_summary/86531</guid>
+      <pubDate>Fri, 26 Apr 2024 04:47:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
