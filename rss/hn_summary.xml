@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 06:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:03:00 GMT</lastBuildDate>
     <item>
-      <title>隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。</title>
-      <link>https://t.me/hn_summary/86540</link>
-      <description><![CDATA[展示 HN：Layla – 为疲惫父母提供的人工智能婴儿睡眠教练
-隆重推出人工智能婴儿睡眠教练 Layla，旨在帮助疲惫的父母获得急需的休息。有了 Layla，您可以随时取消计划并继续与她聊天直到月底。另外，您可以通过发送最多 50 条消息来免费试用 Layla。告别不眠之夜，迎接一个休息良好的家庭，Layla 就在您身边。请访问 sleepcoachlayla.netlify.app 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/86540</guid>
-      <pubDate>Fri, 26 Apr 2024 06:26:40 GMT</pubDate>
+      <title>隆重推出 Mendeleej.com，这是一个交互式元素周期表，可全面介绍元素周期表 [...]</title>
+      <link>https://t.me/hn_summary/86562</link>
+      <description><![CDATA[显示 HN：Mendeleej.com - 交互式元素周期表
+隆重推出 Mendeleej.com，这是一个提供全面外观的交互式元素周期表在元素上。从稀土元素到贵金属，该网站提供了每种元素属性的详细信息，包括熔点、密度等。使用这款独特的工具探索化学世界，让元素周期表栩栩如生。发现令人惊讶的事实并深入研究围绕某些元素的争议。 Mendeleej.com 是您的首选资源，了解与元素周期表。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86562</guid>
+      <pubDate>Fri, 26 Apr 2024 12:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pont 是一个项目模板生成器和加载器，允许用户创建模板并加载[...]</title>
-      <link>https://t.me/hn_summary/86539</link>
-      <description><![CDATA[显示 HN：我制作了一个项目模板生成器/加载器
-Pont 是一个项目模板生成器和加载器，允许用户创建模板并从 Git 存储库或本地目录加载它们。它可用于快速生成项目模板并从这些模板构建项目。 Pont 的独特之处在于它简化了创建项目模板和加载它们的过程，使用户更容易启动新项目。它只能使用 Cargo 安装，并提供了一种用各种编程语言生成和构建项目的简单方法。]]></description>
-      <guid>https://t.me/hn_summary/86539</guid>
-      <pubDate>Fri, 26 Apr 2024 06:25:37 GMT</pubDate>
+      <title>隆重推出 Qwen1.5-110B，它是 Qwen1.5 系列的最新成员，拥有超过 1000 亿个参数 [...]</title>
+      <link>https://t.me/hn_summary/86561</link>
+      <description><![CDATA[Qwen1.5-110B
+隆重推出 Qwen1.5-110B，它是 Qwen1.5 系列的最新成员，拥有超过 1000 亿个参数。该模型在基础模型评估和聊天机器人领域都展示了令人印象深刻的性能，优于最近的 SOTA 模型 Llama-3-70B。凭借分组查询关注和多语言支持等功能，Qwen1.5-110B 被证明是高效且多功能的。值得注意的是，它在 MT-Bench 和 AlpacaEval 2.0 等聊天评估中表现出色，超越了其前身 72B 型号。评估的不断改进凸显了更大的基础语言模型的潜力。请随时关注 Qwen2 的最新动态，我们将探索扩展数据和模型大小以提高性能的可能性。]]></description>
+      <guid>https://t.me/hn_summary/86561</guid>
+      <pubDate>Fri, 26 Apr 2024 12:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] github 项目“nrr”是 Node.js 的最小且快速的 npm 脚本运行器。</title>
-      <link>https://t.me/hn_summary/86538</link>
-      <description><![CDATA[显示 HN：nrr — 最小、速度极快的 Node.js 脚本运行器
-github 项目“nrr”是 Node.js 的最小且快速的 npm 脚本运行器。它旨在通过提供广泛的功能覆盖范围来快速解析脚本，同时保持简单性和性能。与 npm、yarn 和 pnpm 等包管理器相比，该项目通过提供更快的初始化和脚本解析来区别于其他项目。此外，nrr 提供更好的包和脚本元数据显示，允许在 npm 包环境中执行命令，并提供运行嵌套脚本的专门行为。该项目可以通过 Nix、Cargo 或 GitHub Releases 安装，并根据 GPLv3 获得许可。]]></description>
-      <guid>https://t.me/hn_summary/86538</guid>
-      <pubDate>Fri, 26 Apr 2024 06:24:33 GMT</pubDate>
+      <title>约翰·阿奇博尔德·惠勒 (John Archibald Wheeler) 1980 年的笔记“作为计算机的宇宙”探索了 48 种可能的平均数 [...]</title>
+      <link>https://t.me/hn_summary/86560</link>
+      <description><![CDATA[宇宙就是一台计算机
+约翰·阿奇博尔德·惠勒 (John Archibald Wheeler) 1980 年的笔记《作为计算机的宇宙》探讨了这个比喻的 48 种可能含义，强调了这个想法的复杂性和模糊性。惠勒诗意的写作风格熠熠生辉，使计算机对宇宙的探索既引人入胜又发人深省。这篇文章谈到了计算机的潜在能力及其与宇宙的联系，暗示了量子计算成为主流之前的概念。惠勒对计算领域和宇宙的影响至今仍然存在，激励着像作者这样的研究人员更深入地探究宇宙的奥秘。]]></description>
+      <guid>https://t.me/hn_summary/86560</guid>
+      <pubDate>Fri, 26 Apr 2024 12:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>Başak Tuna 的 DayLight Computer 项目重新构想了传统计算机屏幕的功能 [...]</title>
-      <link>https://t.me/hn_summary/86537</link>
-      <description><![CDATA[日光计算机
-Başak Tuna 的 DayLight Computer 项目重新设计了传统的计算机屏幕，使其使用自然光而不是 LED 来运行，从而模糊了技术与环境之间的界限。这一创新概念挑战了我们日常生活中对人造光的依赖，强调了个人设备的互连性及其提供的持续连接。 Tuna 的作品质疑技术对我们日常生活以及我们与周围环境互动方式的影响，尤其是在我们越来越依赖发光屏幕的世界中。该项目促使人们反思光在塑造我们的日程和空间方面的作用，最终提出了关于数字时代人类能动性的问题。]]></description>
-      <guid>https://t.me/hn_summary/86537</guid>
-      <pubDate>Fri, 26 Apr 2024 06:23:30 GMT</pubDate>
+      <title>在这篇发人深省的文章中，作者深入探讨了技术的职业危害[...]</title>
+      <link>https://t.me/hn_summary/86559</link>
+      <description><![CDATA[我们训练大脑的目的
+在这篇发人深省的文章中，作者深入探讨了科技行业的职业危害，特别关注不断强调解决问题和避免失败如何导致消极心态和缺乏欣赏。作者质疑该行业对逻辑和效率的关注是否会导致普遍的倦怠，并建议鼓励乐观、创造力和存在感可以带来更健康的工作环境。作者要求读者考虑该行业如何将重点转向更积极和更具创造性的努力，而不是仅仅专注于避免错误和失败。]]></description>
+      <guid>https://t.me/hn_summary/86559</guid>
+      <pubDate>Fri, 26 Apr 2024 11:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：还有其他人因无情的货币化和间谍活动而感到沮丧吗？</title>
-      <link>https://t.me/hn_summary/86536</link>
-      <description><![CDATA[问 HN：还有人因无情的货币化和间谍活动而感到沮丧吗？&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者表示他们对我们社会中普遍存在的货币化和监视行为深表担忧和沮丧。他们认为公司不断试图从我们生活的各个方面获利，并且对网站上的许多用户似乎支持这种趋势感到失望，可能是因为他们为这些公司工作。这篇文章强调了隐私侵犯和商业化这一颇具争议的问题，引发了对现代资本主义伦理的讨论。]]></description>
-      <guid>https://t.me/hn_summary/86536</guid>
-      <pubDate>Fri, 26 Apr 2024 06:22:25 GMT</pubDate>
+      <title>[媒体]嘿黑客们，我推出了 Scenestamps.com，一个致力于分享电影场景的网站 [...]</title>
+      <link>https://t.me/hn_summary/86558</link>
+      <description><![CDATA[一个专门分享带有时间戳的电影场景的网站 - scenestamps.com&lt; /a&gt;
+嘿，黑客们，我推出了 scenestamps.com，这是一个专门的网站分享带有时间戳的电影场景。您可以搜索场景或来源，上传自己的帖子，然后在社交媒体上分享。标签系统可以轻松导航。与其他网站不同，用户可以上传帖子并为社区做出贡献。我正在寻找反馈来改进网站并覆盖更多人。让我们把这里打造成场景爱好者的最佳平台。请访问 https://scenestamps.com 查看并在 Reddit 上分享您的想法或直接给我发消息。让我们让电影场景共享变得有趣和互动！Scenestamps分享您最喜欢的电影、电视和社交媒体的精彩瞬间]]></description>
+      <guid>https://t.me/hn_summary/86558</guid>
+      <pubDate>Fri, 26 Apr 2024 11:58:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 fpcomplete.com 上这篇发人深省的文章中，作者挑战了传统 [...]</title>
-      <link>https://t.me/hn_summary/86535</link>
-      <description><![CDATA[类型安全并不重要
-在 fpcomplete.com 上这篇发人深省的文章中，作者提出了挑战编程语言中类型安全的传统观点。虽然承认类型安全对于减少运行时错误的重要性，但作者认为最终目标是减少错误，而不仅仅是类型安全本身。通过对代码更改应用精算方法并强调减少错误的价值，作者建议静态代码分析和 linting 工具等其他技术也可以在提高代码质量方面发挥至关重要的作用。作者通过 JavaScript 的实际示例演示了静态分析如何在编译时捕获错误，强调了软件开发中减少错误的更广泛原理。]]></description>
-      <guid>https://t.me/hn_summary/86535</guid>
-      <pubDate>Fri, 26 Apr 2024 05:38:10 GMT</pubDate>
+      <title>颜文迪深入探讨了发现青蒿素的迷人故事，青蒿素是一种突破性的药物 [...]</title>
+      <link>https://t.me/hn_summary/86557</link>
+      <description><![CDATA[在毛泽东时代的中国发现抗疟药
+颜文迪深入探讨了青蒿素发现的迷人故事，青蒿素是一种突破性的抗疟药物，拯救了无数生命。通过细致的研究和新出版的中文文献，文迪揭开了屠呦呦的复杂旅程，屠呦呦在从青蒿植物中分离青蒿素的过程中发挥了关键作用。尽管毛泽东时代的中国处于动荡的背景，屠呦呦的坚持和创新方法带来了突破，彻底改变了疟疾治疗。这个故事揭示了传统中医与现代科学方法的交叉点，展示了古代知识在应对当代全球健康挑战方面的力量。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86557</guid>
+      <pubDate>Fri, 26 Apr 2024 11:57:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/86534</link>
-      <description><![CDATA[全球海面温度 – 新纪录
-令人兴奋的消息！全球海面温度创下新纪录。这些数据对于了解气候变化及其对海洋的影响至关重要。请继续关注这一突破性发现的更多更新。 #ClimateChange #SeaSurfaceTemperature #RecordBreakingDiscovery]]></description>
-      <guid>https://t.me/hn_summary/86534</guid>
-      <pubDate>Fri, 26 Apr 2024 05:33:05 GMT</pubDate>
+      <title>一年前，我偶然发现佐治亚州的网站被黑客攻击并重定向到网站 [...]</title>
+      <link>https://t.me/hn_summary/86556</link>
+      <description><![CDATA[一年过去了，Georgia.gov 继续遭到黑客攻击
+一年前，我偶然发现佐治亚州的网站被黑客攻击，重定向到销售可疑药物的网站。尽管我试图引起人们对这个问题的关注，但它似乎已经一年没有得到解决。政府雇员与黑客共享空间这一事实令人担忧。经过进一步调查，该黑客攻击似乎是在 Apache 级别完成的，这表明存在潜在的安全漏洞。令人费解的是，为什么这么长时间都没有引起人们的注意。如果您有关于此或其他政府网站黑客攻击的更多信息，请联系我们。格鲁吉亚，是时候站出来解决这个问题了。]]></description>
+      <guid>https://t.me/hn_summary/86556</guid>
+      <pubDate>Fri, 26 Apr 2024 11:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 现已从 [...]</title>
-      <link>https://t.me/hn_summary/86533</link>
-      <description><![CDATA[Ubuntu 24.04 中 .NET 的新增功能
-为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 从第一天起就可以在官方 Ubuntu 源中使用。这标志着 Canonical 和 Microsoft 合作的一个重要里程碑，.NET 6 在发布几个月后就被添加到 Ubuntu 22.04 中。 Ubuntu 24.04 上的 .NET 8 安装过程非常简单，并且容器映像已经可用。 Microsoft 和 Canonical 之间的合作可确保跨平台的 .NET 安全性和支持。 Ubuntu 上 .NET 集成的令人兴奋的发展即将到来，为开发人员带来无缝体验。]]></description>
-      <guid>https://t.me/hn_summary/86533</guid>
-      <pubDate>Fri, 26 Apr 2024 05:20:59 GMT</pubDate>
+      <title>兽医流行病学家安德鲁·鲍曼 (Andrew Bowman) 怀疑奶牛中爆发的 H5N1 禽流感 [...]</title>
+      <link>https://t.me/hn_summary/86555</link>
+      <description><![CDATA[牛奶中 H5N1 病毒的流行表明美国奶牛中广泛爆发禽流感&lt; /a&gt;
+兽医流行病学家安德鲁·鲍曼 (Andrew Bowman) 怀疑奶牛中 H5N1 禽流感疫情的传播范围比官方统计数字更为广泛。他和一名研究生从中西部收集了 150 种奶制品，在 58 个样本中发现了病毒 RNA。虽然该病毒可能不会存在于巴氏灭菌牛奶中，但遗传物质的流行表明爆发范围更广。美国农业部的数据和基因测序表明，疫情的持续时间比已知的要长，并且有可能无症状传播。有限的检测标准可能会扭曲疫情的真实范围，让人想起早期的 Covid-19 检测挑战。]]></description>
+      <guid>https://t.me/hn_summary/86555</guid>
+      <pubDate>Fri, 26 Apr 2024 11:55:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]医生揭示了开发新药的真实成本，对制药公司提出了挑战 [...]</title>
-      <link>https://t.me/hn_summary/86532</link>
-      <description><![CDATA[新药开发成本可能远低于行业宣称、试验揭露
-医生们揭示了开发新药的真实成本，挑战了制药行业数十亿美元的说法。无国界医生组织 (MSF) 斥资 3400 万欧元进行四种药物联合治疗耐药结核病的试验，这凸显了试验费用透明度的必要性。无国界医生试验的成功促使世界卫生组织在 40 个国家推荐了这种治疗方法。业界声称一种药物的平均成本为 23 亿美元，但无国界医生组织的披露旨在通过揭露研发的真实成本来增加获得救生药物的机会。争议在于行业索赔与实际审判费用之间的差异。]]></description>
-      <guid>https://t.me/hn_summary/86532</guid>
-      <pubDate>Fri, 26 Apr 2024 05:07:51 GMT</pubDate>
+      <title>Pharo 用户和动态语言爱好者注意了！</title>
+      <link>https://t.me/hn_summary/86554</link>
+      <description><![CDATA[Pharo 12
+Pharo 用户和动态语言爱好者注意了！我们很高兴地宣布 Pharo 版本 12 的发布。Pharo 是一种独特的纯面向对象编程语言和环境，优先考虑简单性和即时反馈。 Pharo 没有构造函数、类型声明或接口，提供了一种强大而优雅的语言，就像明信片上的一样。体验实时、身临其境的开发，并在每个阶段提供即时反馈。新版本包括令人难以置信的调试体验、新的断点系统以及可用性和速度的各种改进。立即加入我们由 100 多名贡献者组成的社区，探索开源 Pharo 12！]]></description>
+      <guid>https://t.me/hn_summary/86554</guid>
+      <pubDate>Fri, 26 Apr 2024 11:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Stripe，领先的金融科技公司，正在通过 de- [...]</title>
-      <link>https://t.me/hn_summary/86531</link>
-      <description><![CDATA[Stripe 将付款与其堆栈的其余部分分离
-Stripe 是领先的金融科技公司，正在通过将支付与其其他服务堆栈脱钩来做出重大改变。此举允许企业使用 Stripe 的其他工具，而无需使用其支付服务。该公司还在旧金山举行的开发者活动上宣布了新的嵌入式金融功能和人工智能工具。这一战略转变旨在解决复杂的支付环境并为用户提供更大的灵活性。此外，Stripe 还推出了人工智能驱动的结账和欺诈工具，扩展了其嵌入式金融产品，并添加了基于使用情况的计费选项。这些更新使 Stripe 能够在竞争激烈的金融科技市场中更好地满足客户不断变化的需求。]]></description>
-      <guid>https://t.me/hn_summary/86531</guid>
-      <pubDate>Fri, 26 Apr 2024 04:47:42 GMT</pubDate>
+      <title>[媒体]医生们正在针对个性化 mRNA 癌症疫苗进行突破性试验 [...]</title>
+      <link>https://t.me/hn_summary/86553</link>
+      <description><![CDATA[3 期个性化黑色素瘤 mRNA 癌症试验
+医生们正在进行一项针对黑色素瘤的个性化 mRNA 癌症疫苗的突破性试验，旨在永久治愈这种疾病。这种疫苗被称为 mRNA-4157 (V940)，是为每位患者定制的，旨在针对特定癌细胞并防止疾病复发。第二阶段试验显示出令人鼓舞的结果，接受疫苗和 Keytruda 治疗的患者癌症复发的可能性显着降低。目前，由伦敦大学学院医院 NHS 基金会信托基金领导的第三阶段试验正在进行中。这种个体化疗法有可能彻底改变癌症治疗，并为像 Steve Young 这样的患者带来希望，他们认为这是阻止癌症发展的最佳机会。]]></description>
+      <guid>https://t.me/hn_summary/86553</guid>
+      <pubDate>Fri, 26 Apr 2024 10:30:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
