@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:24:53 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
+      <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统和数据库设计（第 1 天）- 在 30 天内创建 SaaS 初创公司</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</guid>
+      <pubDate>Sat, 27 Apr 2024 05:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>TypeScript 5.5 测试版</title>
       <link>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</link>
@@ -13,7 +27,7 @@
       <pubDate>Sat, 27 Apr 2024 03:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>Bun.report 是 Bun 的新崩溃报告者</title>
+      <title>Bun.report 是 Bun 的新崩溃报告器</title>
       <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
@@ -27,7 +41,7 @@
       <pubDate>Sat, 27 Apr 2024 01:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>具有热重载功能的单文件（几乎）本地 Shaderoy [仅限 Linux]</title>
+      <title>具有热重载功能的单文件（几乎）本地着色器 [仅限 Linux]</title>
       <link>https://www.reddit.com/r/programming/comments/1ce145p/single_file_almost_local_shadertoy_with_hot/</link>
       <description><![CDATA[ 由   提交/u/tootac  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce145p/single_file_almost_local_shadertoy_with_hot/</guid>
@@ -41,7 +55,7 @@
       <pubDate>Fri, 26 Apr 2024 22:25:15 GMT</pubDate>
     </item>
     <item>
-      <title>派生一个位摆弄的黑客：有符号整数溢出</title>
+      <title>推导位操作黑客：有符号整数溢出</title>
       <link>https://www.reddit.com/r/programming/comments/1cdyhsw/deriving_a_bittwiddling_hack_signed_integer/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyhsw/deriving_a_bittwiddling_hack_signed_integer/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>数据库迁移系统：概述</title>
       <link>https://www.reddit.com/r/programming/comments/1cdyhj0/database_migration_systems_an_overview/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyhj0/database_migration_systems_an_overview/</guid>
       <pubDate>Fri, 26 Apr 2024 22:24:55 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyf0b/maintaining_the_worlds_fastest_cdn_at_netflix_on/</guid>
       <pubDate>Fri, 26 Apr 2024 22:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heed v0.20：LMDB 键值存储最安全、维护最完善的 Rust 包装器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdyea5/heed_v020_the_safest_and_most_maintained_rust/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdyea5/heed_v020_the_safest_and_most_maintained_rust/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unix shell 命令行中普通空格的重要性</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdydkb/the_importance_of_an_ordinary_space_in_a_unix/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdydkb/the_importance_of_an_ordinary_space_in_a_unix/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:20:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
