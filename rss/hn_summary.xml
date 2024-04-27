@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 21:12:47 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在古巴，由于该国面临物资短缺，银行和自动取款机外正在排起长队。</title>
-      <link>https://t.me/hn_summary/86754</link>
-      <description><![CDATA[古巴现金短缺，排起长队&lt; br/&gt;
-在古巴，由于现金短缺，银行和自动取款机外排起长队，为本已复杂的货币体系增添了另一层复杂性。短缺是由于与该国严重经济危机相关的多种因素造成的，包括财政赤字不断增加、通货膨胀率高以及企业家和小企业主囤积现金。由于汇率波动，将古巴比索兑换成其他货币也具有挑战性。政府推动无现金社会的努力面临阻力，高通胀使得基本商品越来越昂贵。这种情况突显了古巴人在驾驭国家复杂经济时所面临的困境。]]></description>
-      <guid>https://t.me/hn_summary/86754</guid>
-      <pubDate>Sat, 27 Apr 2024 18:16:36 GMT</pubDate>
+      <title>[媒体]最近的事态发展，乌克兰决定暂时停止使用“艾布拉姆斯”导弹……</title>
+      <link>https://t.me/hn_summary/86771</link>
+      <description><![CDATA[乌克兰战争：M1坦克撤出，它们不符合战略需要
+最近的事态发展是，由于俄罗斯侦察机和“神风”无人机构成的威胁，乌克兰决定暂时停止使用艾布拉姆斯坦克。坦克的高昂成本（每辆约 1000 万美元）与无人机相对较低的成本相比相形见绌，使得坦克在战场上很脆弱。这种战略转变凸显了战争性质的变化，无人机越来越主宰战场，并使艾布拉姆斯等装甲车变得无效。这种形势迫使美国和乌克兰根据这些新挑战重新评估其战术和军事援助。]]></description>
+      <guid>https://t.me/hn_summary/86771</guid>
+      <pubDate>Sat, 27 Apr 2024 21:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国家公路交通安全管理局报告了“严重的安全差距 [...]</title>
-      <link>https://t.me/hn_summary/86753</link>
-      <description><![CDATA[监管机构报告特斯拉自动驾驶仪中与撞车事故有关的“严重安全漏洞”&lt; /a&gt;
-美国国家公路交通安全管理局报告称，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致 467 起碰撞事故、13 人死亡和多人重伤。该系统的设计因无法确保驾驶员注意力和适当使用而受到批评，驾驶员参与系统较弱，即使驾驶员没有专注于道路，自动驾驶仪也能保持活跃状态​​。尽管软件更新旨在解决这些问题，但与自动驾驶仪相关的更多事故仍在发生。参议员们呼吁限制自动驾驶仪的使用，而特斯拉和首席执行官埃隆·马斯克则加倍押注自动驾驶作为公司的未来。]]></description>
-      <guid>https://t.me/hn_summary/86753</guid>
-      <pubDate>Sat, 27 Apr 2024 17:58:28 GMT</pubDate>
+      <title>介绍 htpy，这是一个允许您直接从 Python 代码生成 HTML 的库，无需 [...]</title>
+      <link>https://t.me/hn_summary/86770</link>
+      <description><![CDATA[显示 HN：Htpy – 从 Python 生成 HTML，无需模板
+隆重推出 htpy，这是一个允许您直接从 Python 代码生成 HTML 的库，无需使用模板。借助 htpy，您可以使用熟悉的 Python 语法定义 HTML 元素和属性，使过程高效且愉快。该项目的诞生是因为 Personalkollen 需要一种更高效的方式来生成 HTML。主要功能包括利用静态类型、轻松调试以及与 Django 和 Flask 等流行 Python Web 框架的兼容性。 htpy 鼓励使用 Python 的功能来组织组件，使其可针对任何规模的项目进行扩展。有关详细信息，请浏览 htpy.dev 上的完整文档。]]></description>
+      <guid>https://t.me/hn_summary/86770</guid>
+      <pubDate>Sat, 27 Apr 2024 21:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供了 [...]</title>
-      <link>https://t.me/hn_summary/86752</link>
-      <description><![CDATA[显示 HN：Cognita – 用于模块化应用程序的开源 RAG 框架&lt; /a&gt;
-Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供从实验到生产过渡的解决方案。它在底层利用 Langchain/Llamaindex，以模块化、可扩展和可扩展的方式组织代码库组件。 Cognita 提供了一个生产就绪环境，具有无代码 UI 支持和增量索引功能。它通过抽象分块、嵌入、查询服务和矢量数据库部署来简化 RAG 系统的部署。该项目包括一个用于定制和实验的 UI，支持多个文档检索器、SOTA 嵌入和法学硕士。 Cognita 可以在本地使用，也可以与 Truefoundry 组件一起使用以实现可扩展性，从而使非技术用户可以轻松地与系统交互。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86752</guid>
-      <pubDate>Sat, 27 Apr 2024 17:49:21 GMT</pubDate>
+      <title>[媒体]赫兹的电动汽车车队正面临重大损失和挑战，leadi [...]</title>
+      <link>https://t.me/hn_summary/86769</link>
+      <description><![CDATA[赫兹正在放弃更多电动汽车
+赫兹的电动汽车车队正面临重大损失和挑战，因此决定在 2024 年出售 30,000 辆电动汽车。这家租赁汽车公司指出，与汽油动力汽车相比，电动汽车不可靠且成本较高，是此举的原因。首席执行官吉尔·韦斯特（Gil West）曾任达美航空和通用汽车邮轮部门高管，致力于降低运营成本和提高生产力。赫兹在前首席执行官斯蒂芬·谢尔 (Stephen Sherr) 的带领下押注电动汽车失败，导致重大财务损失和股价下跌。该公司的电动汽车问题凸显了消费者在使用电动汽车和充电方面面临的困难。]]></description>
+      <guid>https://t.me/hn_summary/86769</guid>
+      <pubDate>Sat, 27 Apr 2024 20:49:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在张量数学的神秘领域，掌握艾恩之石如一颗宝石般闪耀……</title>
-      <link>https://t.me/hn_summary/86751</link>
-      <description><![CDATA[40 行 Python 中的 Einsum
-在张量数学的神秘领域，艾恩精通之石就像一座无与伦比的力量的灯塔，在魔法和多维计算的世界之间架起桥梁。 Einsum 是机器学习中经常用于张量操作的工具，它提供了一种独特的方法来处理矩阵乘法等运算。虽然乍一看似乎很冗长，但 Einsum 提供了诸如记录张量维度和隐式维度重新排序等优点。 Einsum 的迭代方法涉及嵌套循环，但为了获得更快的性能，建议使用 torch 操作的矢量化实现。潜入 Einsum 的神秘舞蹈，掌握张量操纵的艺术。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86751</guid>
-      <pubDate>Sat, 27 Apr 2024 17:31:12 GMT</pubDate>
+      <title>[媒体]谷歌最近做出了一项有争议的决定，裁员其内部Python团队，[...]</title>
+      <link>https://t.me/hn_summary/86768</link>
+      <description><![CDATA[Google Python 团队负责的一切
+谷歌最近做出了一项有争议的决定，解雇其内部 Python 团队，引发了人们对其职责的好奇。令人惊讶的是，团队成员 zem 在 Hacker News 上分享了详细的评论，揭示了团队的工作以及 Python 在 Google 的广泛使用。这种见解让我们能够以独特的视角了解 Google Python 团队的内部运作以及他们对这家科技巨头的贡献。]]></description>
+      <guid>https://t.me/hn_summary/86768</guid>
+      <pubDate>Sat, 27 Apr 2024 20:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：andrewwegner.com 上的文章讨论了使用 [...] 时常见的 Python“陷阱”</title>
-      <link>https://t.me/hn_summary/86750</link>
-      <description><![CDATA[Python 问题：strip、lstrip、rstrip 可以删除超出预期的内容&lt; /a&gt;
-摘要：andrewwegner.com 上的文章讨论了一个常见的 Python“陷阱” &quot; 使用 strip、lstrip 和 rstrip 函数从字符串中删除前导或尾随字符时。作者解释说，如果提供字符列表而不是字符串，这些函数可以删除比预期更多的内容。本文提供了一个示例，并通过介绍Python 3.9中引入的.removesuffix()和.removeprefix()函数来提供解决方案。作者强调了理解这些函数的行为以及它们可能给新开发人员带来的困惑的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86750</guid>
-      <pubDate>Sat, 27 Apr 2024 17:29:08 GMT</pubDate>
+      <title>[媒体]英特尔曾经称霸美国</title>
+      <link>https://t.me/hn_summary/86767</link>
+      <description><![CDATA[英特尔曾经主导美国芯片行业，现在正在努力保持相关性
+英特尔曾经是美国芯片行业的主导力量，现在却在努力保持自己的影响力。尽管是最大的个人电脑和笔记本电脑处理器制造商，该公司公布的第一季度盈利惨淡，导致股价下跌 9%。首席执行官帕特·基辛格 (Pat Gelsinger) 正在努力缩小因多年投资不足而造成的技术差距，目标是到 2026 年迎头赶上。英特尔还在转变其业务模式，充当其他芯片公司（包括英伟达和苹果）的工厂。然而，英特尔的挑战源于错失了移动芯片和人工智能领域的机会，从而让英伟达和AMD等竞争对手超越了它们。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86767</guid>
+      <pubDate>Sat, 27 Apr 2024 20:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Astroscale 的 ADRAS-J 卫星通过捕捉废弃的特写照片创造了历史 [...]</title>
-      <link>https://t.me/hn_summary/86749</link>
-      <description><![CDATA[私人太空垃圾探测器拍摄了轨道上废弃火箭的历史照片&lt; /a&gt;
-Astroscale 的 ADRAS-J 卫星通过拍摄轨道上废弃火箭主体的特写照片创造了历史，标志着空间碎片清除技术的一个重要里程碑。探测器成功地在火箭数百米范围内机动，展示了其交会和研究太空垃圾的能力。这一成就对于未来的航天器维修和碎片清除工作至关重要。这张照片是同类照片中的第一张，强调了解决日益严重的空间碎片问题以防止地球轨道发生灾难性碰撞的重要性。请继续关注这一开创性任务的更多更新和图像。]]></description>
-      <guid>https://t.me/hn_summary/86749</guid>
-      <pubDate>Sat, 27 Apr 2024 17:27:03 GMT</pubDate>
+      <title>[媒体]在本文中，我们深入研究了 Transformer 语言中隐藏的计算过程 [...]</title>
+      <link>https://t.me/hn_summary/86766</link>
+      <description><![CDATA[让我们逐点思考：Transformer 语言模型中的隐藏计算
+在本文中，我们深入研究了 Transformer 语言模型中隐藏的计算过程，揭示了复杂的点积注意力机制。通过将复杂的计算分解为单独的点积，我们揭示了这些强大模型的内部工作原理。我们的分析揭示了推动 Transformer 模型在自然语言处理任务中取得令人印象深刻性能的底层机制。这种深入的探索为希望理解和优化这些模型功能的研究人员和从业者提供了宝贵的见解。与我们一起探索 Transformer 语言模型中隐藏的计算世界。]]></description>
+      <guid>https://t.me/hn_summary/86766</guid>
+      <pubDate>Sat, 27 Apr 2024 20:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个开源项目提供了一个脚本来帮助您的网站在搜索中建立索引[...]</title>
-      <link>https://t.me/hn_summary/86748</link>
-      <description><![CDATA[显示 HN：开源脚本以使您的网站在 Bing 上建立索引、Yandex 等
-这个开源项目提供了一个脚本来帮助您的网站在 Bing、Yandex 等搜索引擎上建立索引。它专为 Google 可能不会为您的网站编制索引的情况而设计。该脚本快速将站点地图中的 URL 提交到各种搜索引擎以进行索引。作者强调了该脚本的易用性和低配置要求，以及为每个域生成 API 密钥的能力。该项目通过提供对多个搜索引擎的支持和简单的设置过程而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/86748</guid>
-      <pubDate>Sat, 27 Apr 2024 17:21:58 GMT</pubDate>
+      <title>[媒体] Terraform 终结的开始？</title>
+      <link>https://t.me/hn_summary/86765</link>
+      <description><![CDATA[Terraform 终结的开始？
+作者讨论了 IBM 收购 Hashicorp 后 Terraform 的潜在衰落，并列举了财务困境和有争议的许可变更。他们对 IBM 的利益冲突和收购失败的记录表示担忧。作者探索了 OpenTofu、Pulumi 和 Crossplane 等替代基础设施即代码工具，并强调了它们的优缺点。他们建议将主要超大规模提供商支持的“开放 Terraform”模型作为潜在的解决方案。作者强调了开源软件行业财务可持续性的必要性，并敦促大家共同努力，确保 IaC 工具的未来。]]></description>
+      <guid>https://t.me/hn_summary/86765</guid>
+      <pubDate>Sat, 27 Apr 2024 19:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 嘿嘿！</title>
-      <link>https://t.me/hn_summary/86747</link>
-      <description><![CDATA[显示 HN：我为已弃用的 Google QR 构建了一个直接替代品代码API
-嘿！我很高兴与您分享我的最新项目 - 现已弃用的 Google QR 代码 API 的直接替代品。使用 qr-api.com，您可以轻松生成二维码使用我们的简单端点进行代码。我们的与众不同之处在于我们的实时预览功能，让您可以在下载之前实时查看您的二维码。告别寻找新的二维码生成器的麻烦 - qr-api .com 已满足您的需求。请访问 simple.qr 查看我们的替换端点和实时预览-api.com/google。让我们让二维码保持活力！]]></description>
-      <guid>https://t.me/hn_summary/86747</guid>
-      <pubDate>Sat, 27 Apr 2024 17:16:23 GMT</pubDate>
+      <title>问 HN：如果发生世界末日，我们需要多长时间才能生产 CPU？</title>
+      <link>https://t.me/hn_summary/86764</link>
+      <description><![CDATA[问 HN：如果发生世界末日，我们还要等多久可以生产CPU吗？
+在假设的世界末日场景中，问题出现了：我们需要多长时间才能再次生产 CPU？这项任务的可行性尚不确定，但人类的韧性和创造力不容低估。从头开始重建我们的技术基础设施的过程将是一个巨大的挑战，但只要有决心和足智多谋，最终就有可能重新创建 CPU 所需的复杂组件。争议在于我们能否真正从这样的灾难性事件中恢复过来的不确定性，而逆境中创新和解决问题的潜力既令人惊讶又鼓舞人心。]]></description>
+      <guid>https://t.me/hn_summary/86764</guid>
+      <pubDate>Sat, 27 Apr 2024 19:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 硅谷的科技工作者已经不再将自己视为未来的亿万富翁 [...]</title>
-      <link>https://t.me/hn_summary/86746</link>
-      <description><![CDATA[硅谷的阶级斗争
-硅谷的科技工作者已经不再将自己视为未来的亿万富翁，而是认识到工作条件不断恶化，并引发了前所未有的激进主义浪潮。该行业的衰落归因于“enshitification”，科技公司现在生产劣质产品并虐待员工。随着竞争、监管和自助不再约束该行业，劳工激进主义已成为对其权力的最后一个潜在制约。科技工作者现在正在与其他蓝领科技工作者组织起来并协调他们的斗争，这标志着科技行业观念的重大转变和员工积极性的上升。]]></description>
-      <guid>https://t.me/hn_summary/86746</guid>
-      <pubDate>Sat, 27 Apr 2024 16:59:15 GMT</pubDate>
+      <title>VMware 面临着另一个挑战，因为他们的支持正在被他们当前的 [...]</title>
+      <link>https://t.me/hn_summary/86763</link>
+      <description><![CDATA[VMware 外包其支持
+VMware 面临着另一个挑战，因为他们的支持正在被其当前所有者 Broadcom 外包。有关这一变化的电子邮件更新让许多客户感到不安，因为他们现在将获得来自精选分销商列表的支持，而不是博通本身。缺乏透明度和不断下降的支持质量让许多人感到沮丧，有些人甚至不得不自己处理支持问题。此举反映了VMware内部更大的问题，让许多人对公司的未来感到好奇。]]></description>
+      <guid>https://t.me/hn_summary/86763</guid>
+      <pubDate>Sat, 27 Apr 2024 19:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>在一项有趣的研究中，科学家们深入研究了猫坐在[...]上的神秘行为。</title>
-      <link>https://t.me/hn_summary/86745</link>
-      <description><![CDATA[科学家研究了坐在广场上的猫的神秘行为（2021） 
-在一项有趣的研究中，科学家们深入研究了猫坐在正方形上的神秘行为。这种奇怪的现象多年来一直困扰着猫主人，但研究人员终于解释了为什么我们的猫科动物朋友对这些几何形状如此着迷。通过仔细的观察和分析，他们发现了一些关于猫的思维及其古怪习惯的令人惊讶的见解。这项研究引发了人们对了解我们心爱的宠物行为的新一轮兴趣，并使许多猫主人对他们毛茸茸的伙伴有了新的欣赏。]]></description>
-      <guid>https://t.me/hn_summary/86745</guid>
-      <pubDate>Sat, 27 Apr 2024 16:57:40 GMT</pubDate>
+      <title>在 xeiaso.net 上这篇充满情感和个人色彩的帖子中，作者深入探讨了有关 [...]</title>
+      <link>https://t.me/hn_summary/86762</link>
+      <description><![CDATA[无事生非
+在 xeiaso.net 上这篇情感丰富的个人帖子中，作者深入探讨了围绕 NixOS 社区的争议以及治理和审核问题。与新世纪福音战士中感受到的绝望相似，作者对社区紧张局势的处理和缺乏积极措施表示失望。这篇文章强调了 NixOS 社区一位关键人物的博客文章所带来的影响，导致维护人员离职和该项目的潜在分叉。作者反思了他们对 NixOS 的倡导，并表达了一种冒名顶替综合症的感觉，并发誓未来在倡导技术时会更加谨慎。]]></description>
+      <guid>https://t.me/hn_summary/86762</guid>
+      <pubDate>Sat, 27 Apr 2024 19:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
