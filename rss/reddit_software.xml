@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:17:47 GMT</lastBuildDate>
+    <item>
+      <title>YouTube Studio 无法在 ChromeOs 上运行</title>
+      <link>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</link>
+      <description><![CDATA[我使用的是 Samsung 500c，我想将视频上传到 YouTube。我已完成验证过程，但卡在处理屏幕   由   提交 /u/iOS11Gaming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</guid>
+      <pubDate>Sat, 27 Apr 2024 06:55:17 GMT</pubDate>
+    </item>
     <item>
       <title>玩优惠 |开源 Android 应用程序，以折扣或免费方式获取付费应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 27 Apr 2024 06:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>跨多个设备同步视频播放的软件</title>
+      <title>用于在多个设备间同步视频播放的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ce67cl/software_to_sync_video_playback_across_multiple/</link>
       <description><![CDATA[大家好！我和我的朋友喜欢一起看电影和节目，但我们生活在不同的国家。我的网速比她的慢一点，所以不和谐的流媒体虽然可能，但并不总是有效。  我们观看的大部分内容都是我拥有的电视节目或电影的片段，我想知道是否有 VLC 插件或某种软件可以让我们跨设备同步播放？这意味着我可以提前向她发送文件，我们都可以以源质量观看节目/电影，并且我们双方都保持同步。 我已经看过 syncplay.pl 但还没有看到*任何人*真正谈论它，所以我对此表示怀疑。谢谢！   由   提交 /u/punishedmadalyn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce67cl/software_to_sync_video_playback_across_multiple/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 04:36:34 GMT</pubDate>
     </item>
     <item>
-      <title>没有 wifi？？？</title>
+      <title>没有无线网络？？？？</title>
       <link>https://www.reddit.com/r/software/comments/1ce5qfu/no_wifi/</link>
       <description><![CDATA[我买了一台不错的电脑，里面没有wifi？？？！！！ &lt;!-- SC_ON - -&gt;  由   提交/u/PrincessPrick  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce5qfu/no_wifi/</guid>
@@ -48,21 +55,21 @@
       <pubDate>Fri, 26 Apr 2024 21:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 文件夹的问题</title>
+      <title>Windows 11 文件夹问题</title>
       <link>https://www.reddit.com/r/software/comments/1cdvove/issues_with_windows_11_folder/</link>
-      <description><![CDATA[你好， 我的 sims 4 mods 文件夹现在显示出截然不同的属性，我不知道为什么。 当我打开文件夹时，信息栏显示其中有 9937 个项目，但在属性上，它显示有 26k。它*应该*是 26k，但是一大堆东西似乎丢失了，我不知道为什么。 我知道这些文件已安装，因为一些“丢失”的文件被安装了。那些来自curseforge，我将它们重新安装到昨晚遇到问题的同一文件夹中。 Curseforge 也没有显示任何安装问题，因此我安装的文件应该位于那里。 我还尝试将 mods 文件夹复制/粘贴到其他位置，并且发生了同样的问题。 请帮助我，我很生气： D  谢谢   由   提交 /u/HappyPenguin1608   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我的 sims 4 mods 文件夹现在显示出截然不同的属性，我不知道为什么。 当我打开文件夹时，信息栏显示其中有 9937 个项目，但在属性上，它显示有 26k。它*应该*是26k，但是一大堆东西似乎丢失了，我不知道为什么。 我知道这些文件已安装，因为一些“丢失”的文件被安装了。那些来自curseforge，我将它们重新安装到昨晚遇到问题的同一文件夹中。 Curseforge 也没有显示任何安装问题，因此我安装的文件应该位于那里。 我还尝试将 mods 文件夹复制/粘贴到其他位置，并且发生了同样的问题。 请帮助我，我很生气： D  谢谢   由   提交 /u/HappyPenguin1608   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdvove/issues_with_windows_11_folder/</guid>
       <pubDate>Fri, 26 Apr 2024 20:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以先录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
+      <title>是否可以录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
       <link>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</link>
       <description><![CDATA[我希望创建一些人工智能生成的积极肯定。  &amp;# 32；由   提交/u/Alchemist0029   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</guid>
       <pubDate>Fri, 26 Apr 2024 19:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>第零版本意味着开发人员向公司引入任何“新”东西要困难得多。</title>
+      <title>零版本意味着开发人员向公司引入任何“新”东西要困难得多。</title>
       <link>https://www.reddit.com/r/software/comments/1cdu16q/zeroth_versioning_means_that_it_is_way_harder_for/</link>
       <description><![CDATA[商业发展缓慢，总是寻求最佳回报。他们绝对不想要一个甚至没有 1.0 版本的构造！   由   提交 /u/kryptylomese   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdu16q/zeroth_versioning_means_that_it_is_way_harder_for/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 26 Apr 2024 16:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>无需 Adob​​e 即可删除 PDF 页面</title>
+      <title>需要在没有 Adob​​e 的情况下删除 PDF 页面</title>
       <link>https://www.reddit.com/r/software/comments/1cdplch/need_to_delete_pdf_pages_without_adobe/</link>
       <description><![CDATA[我有几个 PDF，其中包含大量空白页，我需要删除它们，但我没有 Adob​​e订阅。我有 Windows 11。   由   提交 /u/MarquiseMarie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdplch/need_to_delete_pdf_pages_without_adobe/</guid>
       <pubDate>Fri, 26 Apr 2024 16:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于将光栅图像自动跟踪为矢量的免费软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1cdmnpm/looking_for_free_software_for_autotracing_raster/</link>
-      <description><![CDATA[我使用 Inkscape 已有大约 4-5 年了。在此之前，我开始使用 Adob​​e Illustrator 学习图形设计。但我尝试转向 Inkscape，而且确实做到了。在过去的 2-3 年里，我几乎所有的自由设计作品都使用 Inkscape。我面临的唯一问题是 Inkscape 的自动跟踪功能。我只是找不到像 Adob​​e Illustrator 这样更好的自动跟踪功能。  如果你们可以向我推荐任何具有自动跟踪矢量功能的免费且开源的软件？ Inkscape 自动跟踪界面。 &lt; !-- SC_ON --&gt;  由   提交/u/davil_black  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cdmnpm/looking_for_free_software_for_autotracing_raster/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:20:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
