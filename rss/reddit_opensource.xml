@@ -3,14 +3,14 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:17:28 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sat, 27 Apr 2024 01:18:22 GMT</lastBuildDate>
     <item>
-      <title>开放人工智能模型很棒，但我们需要诚实地面对三个令人不安的事实</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</link>
-      <description><![CDATA[       由   提交 /u/alexvoica   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
+      <title>时期应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
+      <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的伙伴（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
+      <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
     </item>
     <item>
       <title>开源CDN服务器？</title>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代品</title>
+      <title>使用 CrabGrab 构建你自己的开源、跨平台 Loom 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
       <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们坚信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
