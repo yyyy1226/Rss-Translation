@@ -4,7 +4,35 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:22:45 GMT</lastBuildDate>
+    <item>
+      <title>Loonie XM 的无差别之言（20 分钟）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ce12i2/words_of_no_difference_by_loonie_xm_20_mins/</link>
+      <description><![CDATA[       由   提交/u/bobthefrog003  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ce12i2/words_of_no_difference_by_loonie_xm_20_mins/</guid>
+      <pubDate>Sat, 27 Apr 2024 00:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>你有没有因为心情低落而唱起小调</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ce0x7y/do_you_ever_just_feel_a_lil_down_and_make_a_lil/</link>
+      <description><![CDATA[   /u/thewindthatmovesyou  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ce0x7y/do_you_ever_just_feel_a_lil_down_and_make_a_lil/</guid>
+      <pubDate>Sat, 27 Apr 2024 00:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>位波操纵？ （问题）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cdzajk/bitwave_manipulation_question/</link>
+      <description><![CDATA[      我真的很喜欢 Bram Stokers Dracula（90 年代）这首 NES 歌曲中第一个合成器的声音。在花了相当多的时间篡改比特波之后，我似乎仍然无法获得正确的音调。如果您知道如何获得听起来类似的东西，我将不胜感激！    由   提交/u/Nice_Grab123  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cdzajk/bitwave_manipulation_question/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>剃刀 1911 - P.I.M.P. （50分）。需要帮助识别艺术家，谢谢！</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cdwxu2/razor_1911_pimp_50_cent_need_help_identifying/</link>
+      <description><![CDATA[   /u/hyperkraz   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cdwxu2/razor_1911_pimp_50_cent_need_help_identifying/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:19:51 GMT</pubDate>
+    </item>
     <item>
       <title>我迷上了这首歌（Bossfight - Pirate Manners）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cdn52d/i_got_obsessed_with_this_track_bossfight_pirate/</link>
@@ -27,7 +55,7 @@
       <pubDate>Thu, 25 Apr 2024 22:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>熔炉跟踪器中存在严重错误？（直流偏移）</title>
+      <title>熔炉追踪器中存在严重错误？ （直流偏置）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</link>
       <description><![CDATA[嗨！ 我想我在 Furnace 中发现了一个重大错误，可能会损坏您的扬声器/设备。 警告：如果您想尝试重现此错误，请先断开所有扬声器和耳机并将所有音量调至零。直流偏移对您的设备非常不利，并且可能会损坏您的扬声器！尝试此操作需要您自担风险！ 错误描述：当使用 NES 声芯片 (2A03) 时，Furnace 似乎会产生大量 DC 偏移（例如，当使用三角通道或 DPCM 通道时）。通常你不会真正注意到这一点，因为默认情况下启用了 DC 滤波器（设置 -&gt; 音频 -&gt; 混音 -&gt; DC 偏移校正），但如果禁用 DC 偏移校正，则会产生巨大的量直流偏置。例如，如果您在三角通道中播放声音，当声音停止时，Furnace 将继续输出上次播放值的 DC。您可以在音量表和示波器上清楚地看到这一点。这可能会损坏您的扬声器！即使启用了 DC 偏移校正，也会导致 DPCM 通道中的音量不均匀，随着时间的推移略有上下波动。 ​ 我没有Discord 或 GitHub 帐户，但如果你们中的一些人在 Furnace Discord 或 GitHub 上活跃，那么也许您可以向开发人员报告此问题？ 谢谢！ ​&lt; /p&gt; ​   由   提交/u/bleepin_tunes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</guid>
@@ -57,7 +85,7 @@
     <item>
       <title>关于 NES 功能的问题</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cc2y65/question_regarding_nes_capabilities/</link>
-      <description><![CDATA[我开始制作 NES 风格的音乐，我想知道是否有可能在歌曲中间改变通道和/或包络的脉冲占空比，以便在不同部分模拟不同的乐器，到目前为止我还没有找到答案。提前谢谢！    提交人    /u/Alfredoaran   [link] [评论]]]></description>
+      <description><![CDATA[我正在以 NES 的风格制作音乐，我想知道是否可以改变通道的脉冲占空比和/或者歌曲中的包络，以便模拟不同部分的不同乐器，到目前为止我还没有找到答案。提前致谢！   由   提交 /u/Alfredoaran   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cc2y65/question_regarding_nes_capabilities/</guid>
       <pubDate>Wed, 24 Apr 2024 16:41:28 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好！我刚刚发布了一首新单曲，名为《Race Me To The Joy》，每个音乐商店都有售！这一篇比我之前创作的节奏更快。如果您有兴趣，请看看🌟 YouTube：https://youtu.be/p3_ZLVP1Srk? si=7eMSUZHnKfwrWk6v Spotify：https://open.spotify.com/ track/484lKT0oGvbuUKg2j5JGeu?si=Iiz59e3zRJWmPh2s1U_jpg   由   提交 /u/tostaldim   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cbtv3r/race_me_to_the_joy/</guid>
       <pubDate>Wed, 24 Apr 2024 09:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>与奇怪的对手战斗（YM2612封面）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cbiy2e/battle_against_a_weird_opponent_ym2612_cover/</link>
-      <description><![CDATA[   /u/qawsedrftgyhunjmi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cbiy2e/battle_against_a_weird_opponent_ym2612_cover/</guid>
-      <pubDate>Tue, 23 Apr 2024 23:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>简短的酷番茄酱补习（13 分钟）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cbbzn7/curt_cool_ketchup_catchup_13_mins/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/bobthefrog003  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cbbzn7/curt_cool_ketchup_catchup_13_mins/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>实践 C64 技术（封面）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cbbrqm/practicing_the_c64_tech_cover/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Guigamer12  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cbbrqm/practicing_the_c64_tech_cover/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>印第安纳琼斯与最后的十字军东征：动作游戏 [MS DOS] IBM PC 扬声器上的一些音乐</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cb7swy/indiana_jones_and_the_last_crusade_the_action/</link>
-      <description><![CDATA[       由   提交 /u/JasperTedTale   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cb7swy/indiana_jones_and_the_last_crusade_the_action/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:41:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
