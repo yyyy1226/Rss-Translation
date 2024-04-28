@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 15:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:22:20 GMT</lastBuildDate>
     <item>
-      <title>寻求有关开发低预算大学聊天机器人的建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf80ay/seeking_advice_on_developing_a_lowbudget/</link>
-      <description><![CDATA[ 由   提交/u/Shadic627  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf80ay/seeking_advice_on_developing_a_lowbudget/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:43:06 GMT</pubDate>
+      <title>2个简单的rvc问题...</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfc9s7/2_simple_rvc_questions/</link>
+      <description><![CDATA[大家好。我在任何地方都找不到答案。在推理过程中，特征检索率是多少？另外，绉纱长度是多少？谢谢    由   提交 /u/Significant_Twist232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfc9s7/2_simple_rvc_questions/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:46:57 GMT</pubDate>
     </item>
     <item>
-      <title>这款AI语音面试产品效果如何？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf7xm9/how_does_this_ai_voice_interview_product_work/</link>
-      <description><![CDATA[我最近在研究一款名为 Jessica 的产品，它来自一家名为 Queue 的公司。它会对你进行（口头）采访，然后将你的语音笔记合成为 LinkedIn 的帖子。我很好奇，如果你必须从头开始构建这种功能，你会怎么做？ 我假设它是 OpenAI 助手的 API： 1. 助手使用你写的主题提出问题（文本转语音） 2. 你录制回复（语音转文本） 3. 它被集成并引出助手的下一个问题（文本转语音） 等等。 我想知道每个部分是否只是附加到 1 个线程，或者它是否被保存到矢量数据库并且 RAG 正在运行它。 很想听听你的想法。我想构建一些功能类似但用途完全不同的东西。     由    /u/ladybawss 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf7xm9/how_does_this_ai_voice_interview_product_work/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:39:49 GMT</pubDate>
+      <title>这是什么AI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfbw5w/what_ai_is_this/</link>
+      <description><![CDATA[我不断看到帖子中名人被人工智能伪造，或者名人被人工智能重新塑造成不同的风格/身体。我还没有赶上所有这些新技术的更新，所以如果你们能告诉我人们使用哪种人工智能来做上述事情，以及使用什么方法，那将非常有用？    提交人    /u/xPixiKatx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfbw5w/what_ai_is_this/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于混合和掌握音乐的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf8zzm/ai_for_mixing_and_mastering_music/</link>
+      <description><![CDATA[寻找免费的人工智能来混合和掌握我的歌曲，甚至以任何方式改进它们，提前感谢任何可以提供帮助的人   由   提交 /u/Decent_Trust9954   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf8zzm/ai_for_mixing_and_mastering_music/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 的 AI 故事 - 我不断改进它，但我需要想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf8vt9/ai_story_from_gpt_i_keep_improve_it_but_i_need/</link>
+      <description><![CDATA[我无法写更多，对这个项目有什么想法吗？ 这是一个假的 12 小时白屏，因为所有的故事都从这是视频，请分享您对此的想法： https://www.youtube.com/watch?v=mAfBbu1b1O4&amp;feature=youtu.be  ​   由   提交/u/MembershipThat9248   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf8vt9/ai_story_from_gpt_i_keep_improve_it_but_i_need/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:22:15 GMT</pubDate>
     </item>
     <item>
       <title>我在 YouTube 上分享了适合初学者的 Python 数据科学训练营（7 个多小时、7 门课程和 3 个项目）</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[您好，我在 YouTube 上分享了 Python 数据科学训练营。 Bootcamp 时长超过 7 个小时，共有 7 门课程、3 个项目。课程包括 Python、Pandas、Numpy、Matplotlib、Seaborn、Plotly 和 Scikit-learn。我将离开下面的链接，祝您有美好的一天！ https://www.youtube.com /watch?v=6gDLcTcePhM   由   提交/u/onurbaltaci  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf73zh/i_shared_a_beginner_friendly_python_data_science/</guid>
       <pubDate>Sun, 28 Apr 2024 14:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>想创建一个推荐工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5s44/want_to_create_a_recommendation_tool/</link>
-      <description><![CDATA[我想创建一个信用卡推荐工具，用户会被问到几个问题，并据此向他们推荐一张信用卡。有谁知道该怎么做吗？或者我需要什么？  我没有技术背景。我是一名财务人员。   由   提交 /u/kaustubh2300joshi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5s44/want_to_create_a_recommendation_tool/</guid>
-      <pubDate>Sun, 28 Apr 2024 12:56:27 GMT</pubDate>
     </item>
     <item>
       <title>推荐一些LLM课程</title>
@@ -64,7 +71,7 @@
     <item>
       <title>90% 的人工智能影响者不使用他们向您推销的 90% 产品！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cew9w3/90_of_ai_influencers_dont_use_90_of_products_they/</link>
-      <description><![CDATA[我来自未来，在接下来的几周内，您将看到大量视频，讲述 Vidu 是一个多么大的骗局。再加上最近的其他炒作周期运动，如 Sora、Devin 等，将继续削弱任何在炒作这些东西之前实际使用这些东西的人的权威和专业知识。观看此 YouTube 视频，了解更多关于未来的见解！ https://youtu.be/H95FirMtvus  &lt; /div&gt;  由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
+      <description><![CDATA[我来自未来，未来几周你会看到大量视频，指出 Vidu 是一个多大的骗局。再加上最近的其他炒作周期运动，如 Sora、Devin 等，将继续削弱任何真正使用这些东西的人的权威和专业知识，然后再大肆宣传它们。观看此 YouTube 视频，了解更多来自未来的见解！ https://youtu.be/H95FirMtvus     提交人    /u/Certain_End_5192   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cew9w3/90_of_ai_influencers_dont_use_90_of_products_they/</guid>
       <pubDate>Sun, 28 Apr 2024 03:00:22 GMT</pubDate>
     </item>
@@ -83,16 +90,9 @@
       <pubDate>Sat, 27 Apr 2024 20:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>中国刚刚发布了 OpenAI 的 Sora 竞争对手“Vidu”，它可以在几秒钟内创建逼真的剪辑。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ceg755/china_just_released_openais_sora_rival_vidu_which/</link>
-      <description><![CDATA[我对文本到视频的发展速度感到震惊。中国刚刚宣布了 OpenAI Sora 的竞争对手：“Vidu”可以一键生成 16 秒 1080p 视频。 Vidu 由中国人工智能公司升数科技和清华大学开发，其能力在于其通用视觉变换器 (U-ViT) 架构。U-ViT 融合了基于扩散和基于转换器的文本到视频模型的优点。 这使得 Vidu 能够通过简单的文本提示生成高度真实且富有想象力的场景。 我的收获：我们已经要达到好莱坞质量还有很长的路要走，但去年文本到视频的进步给我留下了深刻的印象。 来源：https://x.com/sambhavgupta6/status/1784121231094198751   由   提交 /u/LesiaCulp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ceg755/china_just_released_openais_sora_rival_vidu_which/</guid>
-      <pubDate>Sat, 27 Apr 2024 14:46:35 GMT</pubDate>
-    </item>
-    <item>
       <title>你用ai做过的最实用的事情是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/</link>
-      <description><![CDATA[我很好奇人们用当前你认为实用的人工智能工具做了什么。通过标准图像生成和简单的问题回答，会提示您使用对您真正有用的人工智能做了什么？ 例如，我正在创建一个用户界面，让您选择一个国家/地区、开始年份和结束年份以及几个月或几年的间隔，当你点击发送时，一系列提示会发送到 ollama，要求它提供该国家/地区该时间段内发生的事情的详细描述，然后将所有输出保存到文本文件中供我阅读。对于查找有趣的历史主题以了解更多信息和查找非常有用。   由   提交 /u/CodeCraftedCanvas   [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇人们使用当前的人工智能工具做了什么，你认为这些工具是实用的。除了标准的图像生成和简单的问答提示之外，你还使用人工智能做了哪些真正有用的事情？ 例如，我创建了一个用户界面，让你选择一个国家、开始年份和结束年份以及几个月或几年的间隔，当你点击发送时，一系列提示会发送给 ollama，要求它提供该国家在那个时间段发生的事情的详细描述，然后将所有输出保存到文本文件中供我阅读。对于找到有趣的历史主题以了解更多信息和查找非常有用。    提交人    /u/CodeCraftedCanvas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/</guid>
       <pubDate>Sat, 27 Apr 2024 09:25:42 GMT</pubDate>
     </item>
