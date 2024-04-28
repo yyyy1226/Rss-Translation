@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 08:59:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 14:57:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体]量子力学是一个成功但令人困惑的理论，让物理学家追逐 [...]</title>
-      <link>https://t.me/hn_summary/86834</link>
-      <description><![CDATA[“闭嘴并计算”：爱因斯坦如何输掉了解释之战量子现实
-量子力学是一个成功但令人困惑的理论，它让物理学家追逐概率并打破因果之间的联系。 20世纪初尼尔斯·玻尔和阿尔伯特·爱因斯坦之间的争论导致“哥本哈根解释”确立为教条正统观念，从而阻止了进一步的争论。由于主流物理学对基本问题变得漠不关心，爱因斯坦对该理论的挑战遭到了冷漠。哥本哈根解释的神话仍然存在，但它包含了有关玻尔主导人格的一些真相。围绕这场辩论的争议凸显了量子现实的复杂性以及科学界不同声音所面临的挑战。 （根据故事文本的 71% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86834</guid>
-      <pubDate>Sun, 28 Apr 2024 08:59:02 GMT</pubDate>
+      <title>远程工作是未来吗？</title>
+      <link>https://t.me/hn_summary/86859</link>
+      <description><![CDATA[远程工作是未来吗？
+作为过去三年一直在远程工作的人，我正在考虑完全远程工作，但担心是否有可能不得不回到办公室工作。许多公司已开始将员工召回办公室，但我相信远程工作将持续下去。您对远程工作的未来有何看法？加入新闻讨论远程工作趋势是否会持续下去。 ycombinator.com。]]></description>
+      <guid>https://t.me/hn_summary/86859</guid>
+      <pubDate>Sun, 28 Apr 2024 14:57:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇诙谐幽默的文章中，作者探讨了关于不 [...] 这一有争议的话题。</title>
-      <link>https://t.me/hn_summary/86833</link>
-      <description><![CDATA[我没有孩子（没关系）
-在这篇时髦而幽默的文章中，作者解决了不想生孩子这个有争议的话题。她强调并不是每个人都想要孩子，但这完全没问题。作者分享了她不想要孩子的个人原因，包括经济考虑和不同的生活优先事项。她谈到了关于不生孩子的常见批评和误解，例如自私或错过了生活中最美好的部分。作者还强调了尊重个人选择和优先事项的重要性，并感谢那些支持她决定的人。最终，她声称生孩子是可选的，而不是充实生活的必要条件。]]></description>
-      <guid>https://t.me/hn_summary/86833</guid>
-      <pubDate>Sun, 28 Apr 2024 07:49:36 GMT</pubDate>
+      <title>[媒体] 上周我用一台新显示器升级了我的设置，消除了两根电缆。</title>
+      <link>https://t.me/hn_summary/86858</link>
+      <description><![CDATA[Thorsten Ball：我的设置，2024 年 4 月
+上周我用一台新显示器升级了我的设置，消除了两根电缆。我的 Steelcase Gesture 椅子和 Ology 办公桌都是可靠的投资。 Razer Pro Glide XXL 桌垫让我在炎热的夏季免于手臂出汗。我的 Focusrite Scarlett 2i2 音频接口可无缝工作，安装在桌子下方，打造整洁的工作空间。 Shure Beta 87A 麦克风和 Elgato Wave Mic Arm LP 是我强烈推荐的最新产品。 Bose QC-45 耳机提供舒适感和出色的音质。 Razer DeathAdder V2 游戏鼠标改变了游戏规则，提供精确度和易用性。罗技 C920 HD Pro 网络摄像头和 Elgato Key Light Air 和 Ring Light 为视频通话提供一致的照明。我的 Ember 智能马克杯在测验中获胜，它可以让我的咖啡保持在完美的温度。配备 Gateron G Pro Brown 轴的 Keychron Q3 键盘虽然笨重但可靠。总的来说，我的设置是为了最大限度地提高舒适度和生产力而量身定制的。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86858</guid>
+      <pubDate>Sun, 28 Apr 2024 14:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，我分享了如何使用机器学习来自动检测 [.​​..]</title>
-      <link>https://t.me/hn_summary/86832</link>
-      <description><![CDATA[使用压缩的 wav2vec2 自动检测 owl 呼叫
-在这篇博文中，我分享了如何使用机器学习自动检测动物叫声，特别是澳大利亚强大猫头鹰的叫声。尽管最初持怀疑态度，我还是能够创建一个可以识别猫头鹰叫声的工具，只需几个小时的努力。通过遵循概述的步骤（包括设置工具、对数据集进行分块和标记以及使用 SEW-D 模型训练模型），您可以节省识别动物叫声的时间和精力。虽然有像 BirdNET 这样的现有解决方案，但训练您自己的模型可以提供更多的定制和对过程的控制。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86832</guid>
-      <pubDate>Sun, 28 Apr 2024 07:48:32 GMT</pubDate>
+      <title>[媒体]我们的论文介绍了 LoRA+，这是一种有效适应大型模型的新颖方法 [...]</title>
+      <link>https://t.me/hn_summary/86857</link>
+      <description><![CDATA[LoRA+：大型模型的高效低阶自适应&lt; br /&gt;
+我们的论文介绍了 LoRA+，这是一种通过低秩更新有效适应大型模型的新颖方法。通过利用模型的低秩结构，LoRA+ 显着降低了自适应的计算成本，同时保持了高性能。我们的实验证明了 LoRA+ 在各种任务和数据集上的有效性，展示了其实际应用的潜力。这种方法为以资源高效的方式适应大型模型提供了一种有前途的解决方案，使其成为机器学习领域的研究人员和从业者的宝贵工具。请浏览 arxiv.org 上的全文，了解更多详细信息和见解。 ]]></description>
+      <guid>https://t.me/hn_summary/86857</guid>
+      <pubDate>Sun, 28 Apr 2024 14:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]回应斯科特·亚历山大对罗宾·汉森认为医学确实有效的批评[...]</title>
-      <link>https://t.me/hn_summary/86831</link>
-      <description><![CDATA[对斯科特·亚历山大关于医疗效果的回应
-针对斯科特·亚历山大对罗宾·汉森认为药物无效的批评，汉森澄清说，他并不是说药物完全没用，而是边际药物的总体健康效应相对于成本通常很小。他强调了关注总体药物随机试验的重要性，这些试验始终未能发现明确的效果。汉森批评特定治疗研究存在偏见，并强调兰德等主要实验令人惊讶的无效结果。尽管在特定治疗中有一些积极的发现，但汉森坚持认为药物的整体有效性是有限的。（基于 97% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86831</guid>
-      <pubDate>Sun, 28 Apr 2024 06:57:15 GMT</pubDate>
+      <title>在 20 世纪 50 年代，物理学家 Jean Hoerni 做出了一项开创性的发现，该发现将彻底改变 [...]</title>
+      <link>https://t.me/hn_summary/86856</link>
+      <description><![CDATA[集成电路的发明：Jean Hoerni 的专利笔记本
+20 世纪 50 年代，物理学家 Jean Hoerni 做出了一项突破性的发现，彻底改变了半导体行业。他的“平面工艺”思想为现代集成电路的发展铺平了道路。霍尔尼与仙童半导体公司的罗伯特·诺伊斯一起工作，他的创新导致了嵌入芯片“平面”中的晶体管的诞生。诺伊斯通过添加一层连接晶体管的金属进一步增强了这一想法，从而发明了单片集成电路。该领域两个巨头之间的合作为我们今天使用的十亿晶体管集成电路奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/86856</guid>
+      <pubDate>Sun, 28 Apr 2024 14:15:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 nhigham.com 上的文章“普林斯顿应用数学伴侣”中，Ian St [...]</title>
-      <link>https://t.me/hn_summary/86830</link>
-      <description><![CDATA[普林斯顿应用数学伴侣
-在 nhigham.com，Ian Stewart 的文章“如何写出一般兴趣的数学”以及其他四篇关于应用数学教学的文章被选为 2016 年最佳数学写作重印。这一选择强调了内容的重要性和质量，展示了专业知识和作者在该领域的相关性。这些文章被收录在《最佳数学著作》等著名出版物中证明了它们的价值和对数学界的贡献。]]></description>
-      <guid>https://t.me/hn_summary/86830</guid>
-      <pubDate>Sun, 28 Apr 2024 06:45:08 GMT</pubDate>
+      <title>[媒体]在“心流状态”之战中，开发人员与经理的干扰作斗争 [...]</title>
+      <link>https://t.me/hn_summary/86855</link>
+      <description><![CDATA[碎片化思维对心流状态的威胁比中断更大
+在争夺“心流状态”的过程中，开发人员要与低估成本的经理和同事的干扰作斗争。心流状态的概念由心理学家 Mihaly Csikszentmihalyi 推广，但随着时间的推移，它已经被淡化了。对心流的最大威胁不是外部干扰，而是内部碎片，开发人员允许自己暂停注意力以完成分散注意力的任务。研究表明，自我干扰比外部干扰更具破坏性。为了对抗碎片化思维，开发人员可以创建正念实践、减少技术债务并使信息更容易获取。关键是解决内部障碍，以保持生产力和创造力。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86855</guid>
+      <pubDate>Sun, 28 Apr 2024 14:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】101岁老妇帕特里夏多次被美国艾尔误认为是婴儿 [...]</title>
-      <link>https://t.me/hn_summary/86829</link>
-      <description><![CDATA[航空公司不断将 101 岁老妇误认为婴儿
-帕特里夏是一位 101 岁的妇女，由于电脑故障将她的出生日期默认为未来 100 年，美国航空公司多次将她误认为是婴儿。尽管混乱，机场工作人员仍然友善且乐于助人。然而，这一错误导致了帕特里夏缺乏交通和轮椅援助等问题。她希望航空公司能解决这个问题，以免给自己和女儿带来更多不便，因为误会，她不得不长途跋涉携带行李。美国航空尚未对此事作出回应。]]></description>
-      <guid>https://t.me/hn_summary/86829</guid>
-      <pubDate>Sun, 28 Apr 2024 06:36:02 GMT</pubDate>
+      <title>随着特斯拉首席执行官埃隆·马斯克推动自动驾驶的未来，全国各地的诉讼 [...]</title>
+      <link>https://t.me/hn_summary/86854</link>
+      <description><![CDATA[诉讼考验特斯拉关于司机对撞车事故负全部责任的说法
+随着特斯拉首席执行官埃隆·马斯克推动自动驾驶的未来，全国各地的诉讼正在对该公司关于驾驶员对涉及自动驾驶仪的事故负全部责任的说法提出质疑。至少有八起即将进行的试验涉及致命事故，据称司机依赖自动驾驶仪，导致悲剧。这些案件凸显了令人震惊的细节，包括凤凰城的一名妇女在驾驶特斯拉撞上一辆报废的汽车后死亡，以及田纳西州的一名男子逆向行驶，导致致命车祸。尽管特斯拉辩称驾驶员必须保持控制，但联邦监管机构对该技术的局限性表示担忧。这些案件的结果可能会对特斯拉的未来产生重大影响，因为该公司面临着股价下跌以及对其自动驾驶系统的严格审查。]]></description>
+      <guid>https://t.me/hn_summary/86854</guid>
+      <pubDate>Sun, 28 Apr 2024 13:57:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人工智能正在彻底改变世界，对社会、商业和文化产生影响 [...]</title>
-      <link>https://t.me/hn_summary/86828</link>
-      <description><![CDATA[人工智能如何改变一切和世界
-人工智能正在彻底改变世界，其对社会、商业和文化的影响可与互联网相比。然而，人工智能的现实与它的承诺相去甚远。从失业到隐私问题，人工智能的影响是巨大而复杂的。当我们驾驭这个新时代时，人类的未来悬而未决。人工智能的快速发展正在重塑我们与技术以及彼此互动的方式，其潜在后果既令人兴奋又令人恐惧。世界正处于新时代的边缘，人与机器以我们从未想过的方式交织在一起。]]></description>
-      <guid>https://t.me/hn_summary/86828</guid>
-      <pubDate>Sun, 28 Apr 2024 06:08:52 GMT</pubDate>
+      <title>[媒体]五月。</title>
+      <link>https://t.me/hn_summary/86853</link>
+      <description><![CDATA[少校。尼尔斯·奥拉夫将军爵士
+来认识一下国王企鹅尼尔斯·奥拉夫三世少将，他拥有挪威国王卫队上校的尊贵头衔。这只帝企鹅的血统可以追溯到 1972 年，当时挪威国王卫队收养了一只名为尼尔斯·奥拉夫 (Nils Olav) 的企鹅，以纪念他们的指挥官。尼尔斯·奥拉夫三世 (Nils Olav III) 每次到访都会获得晋升，甚至于 2008 年被授予爵士爵位，成为挪威军队中第一只获此殊荣的企鹅。尼尔斯·奥拉夫 (Nils Olav) 最近于 2023 年晋升少将，获得了吉尼斯世界纪录认可的排名最高的企鹅称号。]]></description>
+      <guid>https://t.me/hn_summary/86853</guid>
+      <pubDate>Sun, 28 Apr 2024 13:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，作者讨论了围绕艾丽·格里芬批评的争议[...]</title>
-      <link>https://t.me/hn_summary/86827</link>
-      <description><![CDATA[出版的目的是让大多数作家感到失败
-
-在本文中，作者讨论了 Elle Griffin 对图书出版业的批评引发的争议，特别是关注名人书籍和旧书畅销书的主导地位。作者认为，虽然 Griffin 的观点有道理，但它们可能并不准确代表整个行业。作者分享了个人在传统出版方面的经历，强调了拥有经纪人和出版社的价值。尽管承认该行业的挑战和挫折，但作者最终认为传统出版是有益的，值得的。文章最后强调，出版业一直采用繁荣或萧条的模式，只有少数书籍能为出版社带来利润。 （根据 52% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86827</guid>
-      <pubDate>Sun, 28 Apr 2024 06:02:47 GMT</pubDate>
+      <title>[媒体]股市应该永不休市吗？</title>
+      <link>https://t.me/hn_summary/86852</link>
+      <description><![CDATA[股市永远不应该关闭吗？
+纽约证券交易所正在考虑全天候交易股票的想法，引发了关于 24/7 交易所优点的争论。在疫情和加密货币交易的成功推动下，散户投资者活动的增加引发了人们对延长交易时间的兴趣。尽管一些人相信让市场决定全天候交易的可行性，但对流动性、结算风险和人员配置问题的担忧仍然存在。美国证券交易委员会目前正在审查首个 24 小时交易的提案，其中提出了如何保护投资者免受价格波动影响以及谁应该承担延长交易时间的成本等问题。]]></description>
+      <guid>https://t.me/hn_summary/86852</guid>
+      <pubDate>Sun, 28 Apr 2024 13:42:22 GMT</pubDate>
     </item>
     <item>
-      <title>rocm.blogs.amd.com 上的博客文章讨论了 C++17 并行算法的实现 [...]</title>
-      <link>https://t.me/hn_summary/86826</link>
-      <description><![CDATA[C++17 并行算法和 Hipstdpar
-rocm.blogs.amd.com 讨论AMD GPU 上C++17 并行算法和HIPSTDPAR 的实现。通过使用执行策略，开发人员可以轻松并行化代码并利用多核架构。这篇文章重点介绍使用并行算法解决旅行商问题 (TSP)，与串行代码相比，速度显着提高。使用 HIPSTDPAR 可以将并行性卸载到 AMD 加速器，从而实现更快的执行时间。 TSP 实例的顺序、并行和 GPU 加速执行时间的比较突出了利用 HIPSTDPAR 进行复杂计算的好处。 （根据 51% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86826</guid>
-      <pubDate>Sun, 28 Apr 2024 06:01:42 GMT</pubDate>
+      <title>[媒体]GitHub 上的“docker-phobia”项目允许用户分析 Docker 镜像并优化 [...]</title>
+      <link>https://t.me/hn_summary/86851</link>
+      <description><![CDATA[显示 HN：Docker 恐惧症：使用树形图分析 Docker 映像大小
+GitHub 上的“docker-phobia”项目允许用户分析 Docker 镜像并优化它们的大小。通过使用树状图可视化图像大小，用户可以轻松识别哪些文件和文件夹占用了最多空间。该工具有助于使 Docker 镜像更精简、更高效。该项目通过提供用户友好的界面来浏览图像层并直观地表示每个组件的大小，从而脱颖而出。用户可以通过简单的命令安装docker-phobia，并使用它来有效地分析和优化Docker镜像。]]></description>
+      <guid>https://t.me/hn_summary/86851</guid>
+      <pubDate>Sun, 28 Apr 2024 13:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]你知道美国44%的独角兽初创公司是由外籍员工创办的吗？</title>
-      <link>https://t.me/hn_summary/86825</link>
-      <description><![CDATA[美国 44% 的独角兽初创公司由外籍工人创办
-您是否知道美国 44% 的独角兽初创企业是由外国工人创办的？这一统计数据凸显了移民对美国创业格局的重大贡献。尽管围绕移民政策存在争议，但这些外国工人在推动创新和经济增长方面发挥了至关重要的作用。它提醒我们美国存在多元化的人才库，以及欢迎和支持创业社区中来自各种背景的个人的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86825</guid>
-      <pubDate>Sun, 28 Apr 2024 05:58:36 GMT</pubDate>
+      <title>被誉为“铁路之父”的乔治·史蒂芬森 (George Stephenson) 是印度河时期的一名英国工程师 [...]</title>
+      <link>https://t.me/hn_summary/86850</link>
+      <description><![CDATA[乔治·斯蒂芬森
+乔治·斯蒂芬森，被誉为“铁路之父”，是工业革命时期的英国工程师。他开创了铁路运输，设计了第一台在公共铁路线上运送乘客的蒸汽机车。斯蒂芬森为防止地雷爆炸而开发的安全灯面临争议，因为他被指控窃取了汉弗莱·戴维的想法。尽管面临挑战，斯蒂芬森对铁路系统的创新设计和改进彻底改变了交通运输。他在斯托克顿和达灵顿铁路以及其他项目上的工作为现代铁路奠定了基础，使他成为工业革命的关键人物。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86850</guid>
+      <pubDate>Sun, 28 Apr 2024 13:17:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
