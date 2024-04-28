@@ -4,9 +4,23 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:17:20 GMT</lastBuildDate>
     <item>
-      <title>由编程错误引起的十大技术灾难</title>
+      <title>我为 Testmo 构建了一个剧作家记者。一探究竟！欢迎反馈。 [与 Testmo 没有隶属关系]</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfewtq/i_built_a_playwright_reporter_for_testmo_check_it/</link>
+      <description><![CDATA[ 由   提交/u/fibrestrings  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfewtq/i_built_a_playwright_reporter_for_testmo_check_it/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>直观地深入了解 Uber 用于预测预计到达时间的机器学习解决方案。</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfd5aw/a_visual_deep_dive_into_ubers_machine_learning/</link>
+      <description><![CDATA[ 由   提交/u/ml_a_day  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfd5aw/a_visual_deep_dive_into_ubers_machine_learning/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:23:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程错误导致的十大技术灾难</title>
       <link>https://www.reddit.com/r/programming/comments/1cfcl9q/top_10_biggest_tech_disasters_caused_by/</link>
       <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfcl9q/top_10_biggest_tech_disasters_caused_by/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>人工智能对未来软件开发人员的影响</title>
       <link>https://www.reddit.com/r/programming/comments/1cf6cdu/ais_impact_on_future_software_developers/</link>
-      <description><![CDATA[  由    /u/Beyond-Code  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Beyond-Code  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cf6cdu/ais_impact_on_future_software_developers/</guid>
       <pubDate>Sun, 28 Apr 2024 13:24:49 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/anyweny  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cf1alt/greenmask_release_v0111_database_anonymization/</guid>
       <pubDate>Sun, 28 Apr 2024 08:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 JetBrains 到 VSCode 再到 NVIM：我为何进行转变</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf0yd9/from_jetbrains_to_vscode_to_nvim_why_i_made_the/</link>
-      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf0yd9/from_jetbrains_to_vscode_to_nvim_why_i_made_the/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个使用 Node.js 构建的命令行应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf0g9e/my_first_command_line_application_built_with/</link>
-      <description><![CDATA[大家好。我构建了一个有趣的交互式 CLI 应用程序来开始使用节点包管理器。任何好奇和好奇的人Nodejs 初学者可以运行 cli 工具并了解不同的 npm 命令的工作原理。 如果您喜欢该项目，请在 GitHub 上给它一个星 ⭐。谢谢&amp;祝你有美好的一天。   由   提交/u/santhoshmani1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf0g9e/my_first_command_line_application_built_with/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:16:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

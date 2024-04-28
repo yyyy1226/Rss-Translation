@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:17:44 GMT</lastBuildDate>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>为什么公司要为开源做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>我们是否违反了 GPLv2？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cejmgx/are_we_violating_gplv2/</link>
-      <description><![CDATA[所以我从事一个获得 GPLv2 许可的项目，每两周我们发布一个新版本，同时我们还发布该版本的完整源代码。我们在内部使用 GitLab 并将代码镜像到公共 GitHub 存储库，因此我们使用 GitLab CI 管道来构建和部署我们的代码。现在，这是（可能）有问题的一点，我们在管道中使用了一组不公开的内部 GitLab CI 组件。这些组件仅包含在 .gitlab-ci.yml 文件中，并且这些组件中的任何位实际上都不会编译到最终的二进制文件中。  GPLv2 允许这样做吗？   由   提交 /u/MindSwipe   [链接] [评论]]]></description>
+      <description><![CDATA[所以我从事一个 GPLv2 许可的项目，每两周我们发布一个新版本，同时我们还发布该版本的完整源代码。我们在内部使用 GitLab 并将代码镜像到公共 GitHub 存储库，因此我们使用 GitLab CI 管道来构建和部署我们的代码。现在这是（可能）有问题的一点，我们在管道中使用了一组不公开的内部 GitLab CI 组件。这些组件仅包含在 .gitlab-ci.yml 文件中，并且这些组件中的任何位实际上都不会编译到最终的二进制文件中。  GPLv2 允许这样做吗？   由   提交 /u/MindSwipe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cejmgx/are_we_violating_gplv2/</guid>
       <pubDate>Sat, 27 Apr 2024 17:16:16 GMT</pubDate>
     </item>
@@ -50,14 +64,14 @@
     <item>
       <title>一种命令行方式，可以从 Kindle 中提取所有要点（包括不是从 Jeff 那里购买的文档中的要点）</title>
       <link>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</link>
-      <description><![CDATA[        由    /u/edwardianpug  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/edwardianpug  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</guid>
       <pubDate>Sat, 27 Apr 2024 09:57:26 GMT</pubDate>
     </item>
     <item>
       <title>分叉项目命名</title>
       <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
-      <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
+      <description><![CDATA[我分叉了一个弃用的项目并想更新它。如果原始项目名为“ProjectName”，我可以称我的分叉为“Varthe 的 ProjectName”吗？有没有更合适的名字？我当然会归功于原始创建者。    提交人    /u/varthe   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/auv1107  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
       <pubDate>Fri, 26 Apr 2024 14:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 MS-DOS 4.0 - 微软开源博客</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</link>
-      <description><![CDATA[       由   提交/u/hells_itch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</link>
-      <description><![CDATA[   一个&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
