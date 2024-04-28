@@ -4,7 +4,7 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:25:19 GMT</lastBuildDate>
     <item>
       <title>Skaven IT 的《炼金术士》（18 分钟）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cely18/the_alchemist_by_skaven_it_18_mins/</link>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 27 Apr 2024 18:02:43 GMT</pubDate>
     </item>
     <item>
-      <title>SEGA Mega Drive - 刺猬索尼克旋转球 OST 🎵</title>
+      <title>SEGA Mega Drive - 刺猬索尼克 Spinball OST 🎵</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cego3l/sega_mega_drive_sonic_the_hedgehog_spinball_ost/</link>
       <description><![CDATA[   /u/megadrivemusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cego3l/sega_mega_drive_sonic_the_hedgehog_spinball_ost/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>[Atari 8 位] 探索 POKEY 芯片：带有摇摆声音和类似移相器效果的曲子</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cea4b1/atari_8bit_exploring_pokey_chip_a_tune_with/</link>
-      <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/makarybrauner   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cea4b1/atari_8bit_exploring_pokey_chip_a_tune_with/</guid>
       <pubDate>Sat, 27 Apr 2024 09:04:06 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>收割机 - 万向节</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ce71i4/harvester_gimbaled/</link>
-      <description><![CDATA[   /u/Luminosity26   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/Luminosity26   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ce71i4/harvester_gimbaled/</guid>
       <pubDate>Sat, 27 Apr 2024 05:44:00 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 25 Apr 2024 22:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>熔炉追踪器中存在严重错误？ （直流偏置）</title>
+      <title>熔炉跟踪器中存在严重错误？（直流偏移）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</link>
       <description><![CDATA[嗨！ 我想我在 Furnace 中发现了一个重大错误，可能会损坏您的扬声器/设备。 警告：如果您想尝试重现此错误，请先断开所有扬声器和耳机并将所有音量调至零。直流偏移对您的设备非常不利，并且可能会损坏您的扬声器！尝试此操作需要您自担风险！ 错误描述：当使用 NES 声芯片 (2A03) 时，Furnace 似乎会产生大量 DC 偏移（例如，当使用三角通道或 DPCM 通道时）。通常你不会真正注意到这一点，因为默认情况下启用了 DC 滤波器（设置 -&gt; 音频 -&gt; 混音 -&gt; DC 偏移校正），但如果禁用 DC 偏移校正，则会产生巨大的量直流偏置。例如，如果您在三角通道中播放声音，当声音停止时，Furnace 将继续输出上次播放值的 DC。您可以在音量表和示波器上清楚地看到这一点。这可能会损坏您的扬声器！即使启用了 DC 偏移校正，也会导致 DPCM 通道中的音量不均匀，随着时间的推移略有上下波动。 ​ 我没有Discord 或 GitHub 帐户，但如果你们中的一些人在 Furnace Discord 或 GitHub 上活跃，那么也许您可以向开发人员报告此问题？ 谢谢！ ​&lt; /p&gt; ​   由   提交/u/bleepin_tunes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</guid>

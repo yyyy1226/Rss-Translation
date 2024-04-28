@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:25:05 GMT</lastBuildDate>
+    <item>
+      <title>基于人工智能的播客摘要平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1cezlq4/ai_based_platform_for_podcast_summarisation/</link>
+      <description><![CDATA[嘿！我和我的团队成员正在建立一个平台，您可以在其中访问播客摘要并在冒险完整收听播客之前了解播客的全部内容。  我们正在对用户喜欢的摘要格式进行调查，希望得到您的反馈，以帮助我们改善播客摘要的用户体验。以下是调查链接： https://forms.gle/yzLRUv3hewjfsjMSA 谢谢！   由   提交/u/proig_5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cezlq4/ai_based_platform_for_podcast_summarisation/</guid>
+      <pubDate>Sun, 28 Apr 2024 06:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装 asdf：一个运行时管理器来统治所有开发环境</title>
+      <link>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</link>
+      <description><![CDATA[嘿，各位！ 人们经常引诱我讨论为什么我也使用 asdf为什么没有必要；我每次都会上当。  不过，这种情况不会再发生了，因为我为好奇、无知、怀疑和热情的爱好者写了一篇关于为什么以及如何使用 asdf.vm 的教程:) &lt; /p&gt; 我想我应该在这里分享给那些感兴趣的人；当然欢迎反馈。   由   提交/u/jdsalaro  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cey166/install_asdf_one_runtime_manager_to_rule_all_dev/</guid>
+      <pubDate>Sun, 28 Apr 2024 04:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>Web 开发更新、工具和文章 #2</title>
       <link>https://www.reddit.com/r/programming/comments/1cewc70/web_dev_updates_tools_articles_2/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接]   ; [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cepo7q/mastering_dynamodb_essential_techniques_for/</guid>
       <pubDate>Sat, 27 Apr 2024 21:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在推出“不要承诺”：获取策划的可操作的技术见解时事通讯 [详细信息在评论中]</title>
-      <link>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</link>
-      <description><![CDATA[ 由   提交/u/mrsampage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:40:35 GMT</pubDate>
     </item>
     <item>
       <title>我的 Langton ant 的 WIP 实现（JS Web 可视化工具和 C++）</title>
@@ -85,7 +92,7 @@
     <item>
       <title>Ubuntu 24.04 中 .NET 的新增功能 - .NET 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</link>
-      <description><![CDATA[  由    /u/myotcworld  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce70w1/whats_new_for_net_in_ubuntu_2404_net_blog/</guid>
       <pubDate>Sat, 27 Apr 2024 05:42:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</guid>
       <pubDate>Sat, 27 Apr 2024 03:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bun.report 是 Bun 的新崩溃报告器</title>
-      <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
-      <description><![CDATA[  由    /u/louis11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
-      <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

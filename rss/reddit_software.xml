@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:20:42 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sun, 28 Apr 2024 06:24:59 GMT</lastBuildDate>
+    <item>
+      <title>为什么桌面浏览器使用这么多内存？</title>
+      <link>https://www.reddit.com/r/software/comments/1ceyf3x/why_do_desktop_browsers_use_so_much_memory/</link>
+      <description><![CDATA[我发现 Firefox 和 Chrome 在多台 PC 和笔记本电脑上经常使用超过 2GB 的内存，而这些电脑和笔记本电脑通常一次只打开 2-5 个选项卡. 我熟悉软件开发，但我就是不明白为什么浏览器会消耗这么多内存。 这不是一个帮助问题。   由   提交 /u/eltegs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ceyf3x/why_do_desktop_browsers_use_so_much_memory/</guid>
+      <pubDate>Sun, 28 Apr 2024 05:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一个类似 kosmi 的本地共同观看工具 - 适合家庭使用，因此仅 LAN 就可以，但要轻量级且专用</title>
+      <link>https://www.reddit.com/r/software/comments/1cex654/looking_for_a_local_kosmilike_cowatch_tool_for/</link>
+      <description><![CDATA[主题。我已经使用 kosmi 很长时间了 - app.kosmi.io/  它可以工作，但它对任何超过 720p 的东西都付费，现在有很多奇怪的功能，并且对资源有点拖累过去是怎样的。我无法想象没有其他目的构建的共同观看应用程序，甚至没有某种用于通过本地网络共同观看的 VLC 或 MPC-HC 插件，但这对谷歌来说是一件相当困难的事情，而且很多人都使用会议应用程序这并不符合我的要求 - 我真的很喜欢专门构建的东西，可以轻松共享单个应用程序和音频。   由   提交/u/hotfistdotcom  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cex654/looking_for_a_local_kosmilike_cowatch_tool_for/</guid>
+      <pubDate>Sun, 28 Apr 2024 03:50:43 GMT</pubDate>
+    </item>
     <item>
       <title>探索未来：Meta Horizo​​n OS 如何向开发人员和消费者开放第三方硬件。</title>
       <link>https://www.reddit.com/r/software/comments/1cew8wj/exploring_the_future_how_meta_horizon_os_is/</link>
@@ -69,7 +83,7 @@
       <pubDate>Sat, 27 Apr 2024 12:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>迫切需要预算友好的 TTS 软件用于 Uni Readings</title>
+      <title>迫切需要经济实惠的 TTS 软件用于大学阅读</title>
       <link>https://www.reddit.com/r/software/comments/1cectuq/desperately_need_budgetfriendly_tts_software_for/</link>
       <description><![CDATA[你好，reddit！ 我很难跟上大学课程的所有阅读内容。文本转语音 (TTS) 软件很有帮助，但我很难找到适合我的需求和预算的好选择。 情况如下： Natural Voices ：我需要一个声音自然的 TTS 阅读器。某些程序中的机械声音让我感觉不适。 PDF 支持：该软件必须能够阅读 PDF，因为这是我的大多数教科书的格式。 Edge 的限制：我已经尝试过 Microsoft Edge 中的内置阅读器，但它会读取每个图中的每个单词（不仅是图的描述，还包括图本身内部的任何字母。）每个页面上的章节名称，这非常令人沮丧。&lt; /p&gt; 预算限制：我淹没在学费中，无法承担像 NaturalReader 的高级版本那样昂贵的每月订阅费用。 Balabolka - 它与 Edge 的内置功能在复制时具有类似的限制文本中的所有副本。 谁能推荐一款符合这些标准的 TTS 软件（桌面版或 Android 版）？如果有任何建议，我将不胜感激！ 附加说明：我已经探索了一些不太合法的选项，但这些选项往往已经过时。 非常感谢感谢您的帮助！   由   提交 /u/__FirstOfHerName__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cectuq/desperately_need_budgetfriendly_tts_software_for/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 前几天我有一个想法，出于好奇，我想知道它是否真的可以执行。我相信您已经看过拉斯维加斯球体，以及它有时如何显示为观看飞机和其他事物的表情符号（如果您还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，这非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标四处移动？或者它可能已经存在？如果没有，人们将如何实际创建类似的东西？   由   提交/u/pin_kRobot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</guid>
       <pubDate>Sat, 27 Apr 2024 09:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找个人收据扫描仪应用程序或工具</title>
-      <link>https://www.reddit.com/r/software/comments/1ceah15/looking_for_personal_receipt_scanner_app_or_tool/</link>
-      <description><![CDATA[简单搜索将返回许多用于业务费用跟踪器的工具，但我不确定它们是否适合我的需求。 在过去两年，我几乎拍摄了所有杂货购物收据，现在我想利用这些数据得出一些结论。 例如，我有兴趣知道过去两年特定产品的价格如何上涨年。或者我如何根据我之前的购买情况获得个性化的每月产品列表，以便我可以比较哪家商店最适合我。 我可以自己在 excel/python 中完成所有计算，但是我需要一个可以可靠地 OCR 所有照片并输出每张收据中的物品列表（以及日期和商店名称）的工具。另外，有些收据不是英文的，有些收据有点折痕（尽管我可以从数据库中删除这些收据）。  不介意它是移动设备还是桌面设备，任何操作系统都可以。 谢谢！    ;由   提交/u/need_a_medic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ceah15/looking_for_personal_receipt_scanner_app_or_tool/</guid>
-      <pubDate>Sat, 27 Apr 2024 09:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Studio 无法在 ChromeO 上运行</title>
-      <link>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</link>
-      <description><![CDATA[我使用的是 Samsung 500c，我想将视频上传到 YouTube。我已完成验证过程，但卡在处理屏幕   由   提交 /u/iOS11Gaming   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ce86t2/youtube_studio_wont_work_on_chromeos/</guid>
-      <pubDate>Sat, 27 Apr 2024 06:55:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
