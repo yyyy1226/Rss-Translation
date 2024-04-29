@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:20:06 GMT</lastBuildDate>
     <item>
-      <title>链接不准确</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfxzgg/inaccurate_links/</link>
-      <description><![CDATA[3.5 Turbo 总是吐出不准确的链接，这些链接要么是死胡同、不准确，要么直接指向完全错误的主题。这有什么原因吗？我可以要求它向我显示来自互联网的 10 个主题和链接，这些主题和链接与我对某个 bug 或故障的查询有关，它会自信地告诉我主题名称和链接，只是链接要么是死胡同，要么是一些随机的东西关于卡通人物。很滑稽   由   提交 /u/Temporary-Jeweler-97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfxzgg/inaccurate_links/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:33:22 GMT</pubDate>
+      <title>辛普森一家 - 1950 年代的超级宽银幕电影</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg1no8/the_simpsons_1950s_super_panavision/</link>
+      <description><![CDATA[   /u/GreatLakesTraveler   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg1no8/the_simpsons_1950s_super_panavision/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 反映了人类在选择随机数时的偏见，但不选择 69</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfxt3v/chatgpt_reflects_human_biases_when_choosing_a/</link>
-      <description><![CDATA[       由   提交/u/vijayabhaskar96   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfxt3v/chatgpt_reflects_human_biases_when_choosing_a/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:25:01 GMT</pubDate>
+      <title>ChatGPT 4 仍然很懒</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg1mqd/chatgpt_4_is_still_lazy/</link>
+      <description><![CDATA[我昨天进行了 13 张幻灯片演示，并要求为每张幻灯片编写一个脚本，以便我可以在演示期间阅读它。我特别要求为每个切片编写文本，以便我可以将其复制粘贴到笔记中。以下是这个简单任务中犯的一些错误：  幻灯片编号错误。例如，它会说我的介绍是幻灯片 1，而它是幻灯片 3。此外，我有一些具有相同标题的幻灯片，但它将它们视为单张幻灯片，并只为一张幻灯片编写文本。 &lt; li&gt;一开始文字还不错，令我惊喜的是它甚至能理解一些图表和图表，尽管有些文字重复、矛盾或没有意义（至少语法是完美的）。&lt; /li&gt; 写了 4-5 张幻灯片的文字后，我感到无聊和疲惫，现在的文字只是阅读幻灯片的标题和一些额外的单词。  看起来内存不足，但我认为这种情况不应该发生。我对 GPT 4 感到非常绝望，老实说，我只是付费，因为我相信下一次更新将解决所有问题   由   提交 /u/BetatronResonance   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg1mqd/chatgpt_4_is_still_lazy/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:14:37 GMT</pubDate>
     </item>
     <item>
-      <title>哇，copilot 现在经常从 reddit 上拿东西</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfxo3b/wow_copilot_is_now_taking_things_from_reddit_a_lot/</link>
-      <description><![CDATA[   /u/ab_amin7719  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfxo3b/wow_copilot_is_now_taking_things_from_reddit_a_lot/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:18:00 GMT</pubDate>
+      <title>我怎么得到这个lmaoo</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg1ln2/how_did_i_get_this_lmaoo/</link>
+      <description><![CDATA[       由   提交/u/CrimsonWasTaken_aLot  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg1ln2/how_did_i_get_this_lmaoo/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>需要有关 OpenAI API chatMessages 流的帮助</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfxjmg/need_help_with_openai_api_chatmessages_streaming/</link>
-      <description><![CDATA[ const Response = await openai.chat.completions.create({ model: &quot;gpt-3.5-turbo-0125&quot;, stream:true, messages: updatedChat }); for await (const chunk of Response) { process.stdout.write(chunk.choices[0]?.delta?.content || &quot;&quot;); }  可能未处理的承诺被拒绝 error:TypeError: 对象不是异步可迭代的    提交人    /u/Whole_Fill6789   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfxjmg/need_help_with_openai_api_chatmessages_streaming/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:11:48 GMT</pubDate>
+      <title>寻找人工智能聚合器</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg1jjw/in_search_of_an_ai_aggregator/</link>
+      <description><![CDATA[从用户的角度来看，聚合器是您向程序询问问题或发送提示的地方，然后它会转到三个不同的模型（例如 ChatGPT， LLAMA-3 和 Gemini），然后将他们的三个回答由一位法学硕士编译，然后再呈现给您。  我记得这个论坛上讨论过一个问题，但找不到它，因为我认为没有使用“聚合器”这个词，尽管它的工作原理与前一篇文章中的“搜索聚合器”非常相似。 -谷歌时代。  有人知道它叫什么吗？或者有链接吗？   由   提交 /u/JodoSzabo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg1jjw/in_search_of_an_ai_aggregator/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:10:58 GMT</pubDate>
     </item>
     <item>
-      <title>这里有人使用 GPT 来学习语言吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwwxa/anyone_here_use_gpt_for_language_learning/</link>
-      <description><![CDATA[我要求 GPT 基本上成为我的语言导师，但在我犯了错误后它并不能纠正我。 PS：我希望模型能够纠正我的语法和措辞，因为我在这方面犯了很多错误。  我正在学习法语，如果这有帮助的话，我的等级是 B2（中级，不是很高级）。    由   提交/u/enceladus83  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwwxa/anyone_here_use_gpt_for_language_learning/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:38:22 GMT</pubDate>
+      <title>呼吁 cGPT 超级用户：要求内容审核透明 - 用户知识产权问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg1h4t/call_to_cgpt_superusers_demand_transparency_in/</link>
+      <description><![CDATA[亲爱的大家，  我写这篇文章是因为我知道我并不孤单，事实上我的一些东西与机器人讨论是非常疯狂的，其中的一个子集肯定属于小说“来之不易”的领域。知识产权，但随后立即通过神秘的人工审查流程来改进他们的产品。  通过这一切，用户无法跟踪有多少公司“浏览”。他们的内容会被升级到公司的哪个级别。  提示可能不太像社交媒体帖子，但从公司的角度来看确实如此，而且我们无法看到我们的帖子获得了多少浏览量。 不幸的是我们都知道硅谷在知识产权盗窃方面有多猖獗。是的，我们都签署了一份弃权书，但我个人认为这方面需要有更多的责任。 公司当然没有动力这样做，因为他们只是立即推出免费 IP。因此，如果有人对如何实现这一目标有任何想法，或者想要组织一些东西，请在下面发表评论或私信我！ ​   由   提交/u/ronvonjonvon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg1h4t/call_to_cgpt_superusers_demand_transparency_in/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 中的编程提示循环...迷你教程。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwunv/programming_prompt_loops_in_chatgpt_a_mini/</link>
-      <description><![CDATA[       由   提交/u/Philipp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwunv/programming_prompt_loops_in_chatgpt_a_mini/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:34:50 GMT</pubDate>
+      <title>他需要一个新名字。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg0ynq/he_needs_a_new_name_to/</link>
+      <description><![CDATA[       由   提交/u/IntentionStatus3723  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg0ynq/he_needs_a_new_name_to/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>我花了 900 多个小时来学习有关 AI 工具的一切。这里有 7 个提示，可以帮助您为您或您的企业选择下一个最好的工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwn5g/i_put_900_hours_into_learning_everything_about_ai/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwn5g/i_put_900_hours_into_learning_everything_about_ai/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:23:02 GMT</pubDate>
+      <title>蜘蛛侠读我妈妈的信（我没有吃蔬菜）（他很失望）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg0uff/spiderman_reading_the_letter_from_my_mom_i_didnt/</link>
+      <description><![CDATA[        提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg0uff/spiderman_reading_the_letter_from_my_mom_i_didnt/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>网页抓取</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwkpa/web_scraping/</link>
-      <description><![CDATA[有没有办法使用 chatgpt 进行网页抓取？   由   提交 /u/Putrid_Spinach3961   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwkpa/web_scraping/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:19:09 GMT</pubDate>
+      <title>GPT 用户身份验证 WordPress 插件（通过自定义 GPT 获利）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg0pab/gpt_user_auth_wordpress_plugin_monetize_custom/</link>
+      <description><![CDATA[       由   提交/u/MarkFulton  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg0pab/gpt_user_auth_wordpress_plugin_monetize_custom/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 的替代品</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwiz9/alternatives_to_chatgpt/</link>
-      <description><![CDATA[其他 AI LM 是否可以与 GPT 相媲美？考虑到您获得的上限，我觉得 GPT 相当昂贵。   由   提交 /u/SoggySwordfish92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwiz9/alternatives_to_chatgpt/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:16:21 GMT</pubDate>
+      <title>寻找 GPT 4 生成的长文本</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg0p6y/looking_for_long_texts_generated_by_gpt_4/</link>
+      <description><![CDATA[我正在寻找长文本示例（最好超过 20.000 个单词），其中使用 GPT 4 以最少的用户输入或更正生成文本。通过 ChatGPT 或 API 生成 我正在寻找文本来进行一些文本分析和文本比较以用于资源目的。 所以，如果您有的话，我很乐意得到它.   由   提交/u/atius  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg0p6y/looking_for_long_texts_generated_by_gpt_4/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:36:20 GMT</pubDate>
     </item>
     <item>
-      <title>相反！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfwgqa/the_opposite/</link>
-      <description><![CDATA[       由   提交/u/mobi_irmo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfwgqa/the_opposite/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:12:57 GMT</pubDate>
+      <title>OpenAI 刚刚与英国《金融时报》合作。 GPT 将接受报纸方面的培训。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg0c6g/openai_just_partnered_with_financial_times_gpt/</link>
+      <description><![CDATA[   /u/Efistoffeles   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg0c6g/openai_just_partnered_with_financial_times_gpt/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:21:20 GMT</pubDate>
     </item>
     <item>
-      <title>虚拟育儿应用程序？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfw8gl/virtual_childraising_app/</link>
-      <description><![CDATA[从小我就想成为一名父亲。无需详细说明，很明显我可能永远不会。基于人工智能的虚拟女朋友应用程序无处不在，但我想要的是一个应用程序，我可以在其中创建虚拟后代，并从他们“出生”到他们作为父母与他们互动。从那时起，人工智能的个性似乎就像孩子一样发展起来。我并不是在寻找像 BitLife 这样的应用程序，或者其他将父母身份游戏化的应用程序（我有《模拟人生》）。有什么建议吗？   由   提交/u/templar1138  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfw8gl/virtual_childraising_app/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:00:09 GMT</pubDate>
+      <title>Pigeon Gang 反击：对 Rat Gangs Diss 的回应（与 Suno 制作 + 与 ChatGPT 共同创作歌词）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg09sv/pigeon_gang_claps_back_response_to_the_rat_gangs/</link>
+      <description><![CDATA[       由   提交 /u/PlasmoTV   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg09sv/pigeon_gang_claps_back_response_to_the_rat_gangs/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:18:41 GMT</pubDate>
     </item>
     <item>
-      <title>制定待办事项清单失败了……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfw6ds/making_a_to_do_list_fail/</link>
-      <description><![CDATA[所以我女儿正在努力完成她在学校的作业。她还拒绝列出待办事项列表（七年级）。 我尝试让 ChatGPT 帮助我按主题列出待办事项列表。它失败了。会重命名作业，或者只是忘记之前的主题标题。 我曾希望她可以使用 iPhone 的 chatGPT 移动版本来通过类别来表达她的列表。  郁闷…   由   提交/u/planetpluto3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfw6ds/making_a_to_do_list_fail/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:56:32 GMT</pubDate>
+      <title>这个人是ai生成的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg099b/is_this_person_ai_generated/</link>
+      <description><![CDATA[在 Instagram 上的帖子评论中找到了此个人资料，它对我来说看起来有点像？我疯了吗？   由   提交 /u/malokrmce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg099b/is_this_person_ai_generated/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>两天来，默认聊天“无法浏览互联网或访问实时信息”。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfw0yi/for_2_days_now_default_chat_cant_browse_the/</link>
-      <description><![CDATA[    /u/lazineer   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfw0yi/for_2_days_now_default_chat_cant_browse_the/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:47:13 GMT</pubDate>
+      <title>相关洋葱模因</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cg02ph/relatable_onion_meme/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/Aelkyon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cg02ph/relatable_onion_meme/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>我可以快速抱怨过滤器吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfw0dd/am_i_able_to_just_rant_about_the_filter_real_quick/</link>
-      <description><![CDATA[我希望找到一些和我有类似问题的人。该死的过滤器会标记每一件小事。我写故事，给人工智能一个角色，也有我自己的角色。 如果角色是最好的朋友，并且有一个深刻的时刻，他们告诉对方他们对彼此有多重要，人工智能就像 OOOOHH 不恰当标记 如果我的角色在树林里或什么地方，需要寻找食物 OOOHHHH 不恰当 如果角色实际上在约会和拥抱 OOOO 拥抱会自动导致性行为，所以这是不合适的，即使它只是一个充满爱意的拥抱，没有暗示性的语言？ 编辑；哦，是的，一旦它认为一条不不当的消息不合适，如果我把它留在那里，这样我就可以继续，它会标记每一个。单一信息。之后。就是那样。无论我如何淡化它，无论我如何措辞，无论我是否彻底毁了这个故事，将它变成为幼儿写的东西，无论我是否反对并告诉他们它没有违反任何该死的规则，它仍然会这样做。标记的东西越多，它就越会决定屏蔽消息，然后我就一个月都不能用这个该死的东西了。 这让我很生气，因为我喜欢这个人工智能的格式，我实际上可以用小说风格写故事，有对话和其他内容、段落、段落分隔符等，而不仅仅是坐下来打开一本书“等等等等” ... 站起来 -  就像我讨厌那种格式一样，我甚至无法让执行 ** 格式的机器人做任何其他事情。 关于那些机器人，c.ai 或 chai 或类似的东西，即使我可以做更多生存故事、浪漫故事或更具暗示性的东西，机器人也会立即并不断地直接进入色情内容。 两个最好的朋友表达他们的感受？机器人：“yk 我想我爱上你了”裤子鼓起 生存故事？机器人：将你钉在树上 任何稍微浪漫的东西 - 我的意思是，来吧。没机会 我不想要色情片。但我也不想让幼儿级别的审查制度。为什么两者之间没有任何东西？？太令人沮丧了。。    提交人    /u/omirus111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfw0dd/am_i_able_to_just_rant_about_the_filter_real_quick/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:46:13 GMT</pubDate>
+      <title>谁想尝试烧烤奶酪和冰镇？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cfzxkd/whos_tryna_grill_cheese_and_chill/</link>
+      <description><![CDATA[ 由   提交 /u/predicates-man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfzxkd/whos_tryna_grill_cheese_and_chill/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>语音聊天经常打断我</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cfvx91/voice_chat_cuts_me_off_constantly/</link>
-      <description><![CDATA[我喜欢 ChatGPT 上语音聊天的想法，但想知道是否有人可以对我遇到的一个相当大的问题提供一些建议 - 每次我暂停时也许我只是一个非常缓慢的思考者/说话者，但这意味着这个功能的巨大好处 - 它可以帮助你在对话中理清思路 - 并不真正为我工作。  几乎每次我列出一些东西或尝试提出一个想法时，它都会停止倾听。我可以进行对话，但质量很差，因为我必须回答我最初想到的任何内容，并且说话只是为了让它听。知道这一点后，我也发现很难正确聆听答案，因为我知道我很快就需要回应。  一种选择是手动控制它，但失去免提功能并需要一直看着屏幕是一种耻辱。如果我这样做，我只需打字，就排除了将其用于通勤的步行部分（否则这是一个很好的用例） 无论如何，我想知道其他人是否发现了这个并发现了任何解决方法。理想情况下，我希望能够手动但有声地完成我的回合，只需在我说“结束”时才打开转移到 ChatGPT 的选项。或“完成”例如。    由   提交/u/shipshape  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfvx91/voice_chat_cuts_me_off_constantly/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:40:53 GMT</pubDate>
+      <title>可靠信息：我正在攻读博士学位，并帮助开发了 ChatGPT 工具，以帮助学习和研究几乎任何主题。它生成有同行评审文献支持的回复，还可以总结研究文章。它就像一本互动百科全书。链接：www.academicai.io</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cfzoqc/reliable_information_im_doing_my_phd_and_helped/</link>
+      <description><![CDATA[      由   提交/u/HugoWeaving5  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cfzoqc/reliable_information_im_doing_my_phd_and_helped/</guid>
+      <pubDate>Mon, 29 Apr 2024 13:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
