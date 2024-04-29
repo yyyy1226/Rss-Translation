@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:21:20 GMT</lastBuildDate>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
-      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
       <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>Windows 的 AudioSharing RTSP 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
-      <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
+      <description><![CDATA[https://apps.gnome.org/fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道是否有适用于 Windows 的可行替代方案。 我通常在 VLC Media Player 上观看视频，我想将声音直接传输到我的手机上（声音好得多）。     提交人    /u/clara59000   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
     </item>
