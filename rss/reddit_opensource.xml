@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:37:09 GMT</lastBuildDate>
+    <item>
+      <title>看看 OSI 是否会在您附近举办研讨会。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>Windows 的 AudioSharing RTSP 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
-      <description><![CDATA[https://apps.gnome.org/fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道是否有适用于 Windows 的可行替代方案。 我通常在 VLC Media Player 上观看视频，我想将声音直接传输到我的手机上（声音好得多）。     提交人    /u/clara59000   [link] [评论]]]></description>
+      <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>florisboard 抛光支持 ?</title>
+      <title>florisboard 抛光支持吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
       <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>时期应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
-      <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的搭档（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
-      <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
