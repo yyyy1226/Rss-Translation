@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 01:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 03:21:09 GMT</lastBuildDate>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
-      <description><![CDATA[您好，我最近加入了一个 discord 服务器，其目标是开发一个开源格斗游戏引擎。我想知道什么方法可以有效地熟悉该项目，以便成为一名高效的贡献者？    提交人    /u/AzureHierophant   [link] [评论]]]></description>
+      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
     <item>
       <title>开源 dos 4</title>
       <link>https://www.reddit.com/r/opensource/comments/1cekbxb/open_sourcing_dos_4/</link>
-      <description><![CDATA[        提交人    /u/llathreddzg   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/llathreddzg   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cekbxb/open_sourcing_dos_4/</guid>
       <pubDate>Sat, 27 Apr 2024 17:46:21 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Sat, 27 Apr 2024 17:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>hdd OS 和第二个 hdd+外部便携式 hdd+VeraCrypt？</title>
+      <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
       <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
     </item>
     <item>
-      <title>经期应用</title>
+      <title>时期应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
       <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的搭档（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>

@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 01:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 03:15:40 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]在本文中，我们探讨了 Web 组件中动态槽的概念，这是一种技术 [...]</title>
+      <link>https://t.me/hn_summary/86938</link>
+      <description><![CDATA[Web 组件中的动态插槽
+在本文中，我们探讨了 Web 组件中的动态插槽概念，这是一种允许在自定义元素中实现更多灵活性和定制的技术。通过使用命名插槽和巧妙的命名约定，用户可以轻松地为网格或其他组件中的特定单元格插入自定义内容。本文提供了有效实现动态插槽的示例和建议，同时还强调了避免过度使用此模式的潜在注意事项和原因。总体而言，动态插槽提供了一种独特的方式来增强 Web 组件的功能和定制。]]></description>
+      <guid>https://t.me/hn_summary/86938</guid>
+      <pubDate>Mon, 29 Apr 2024 03:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 AT&T UNIX PC 开发了一个模拟器，可以启动 3B1 UNIX 操作系统 [...]</title>
+      <link>https://t.me/hn_summary/86937</link>
+      <description><![CDATA[FreeBee：AT&amp;T Unix PC 模拟器
+我为AT&amp;T UNIX PC开发了一个模拟器，可以启动3B1 UNIX操作系统并运行各种软件。目前，该模拟器无法模拟串行端口、打印机端口或调制解调器，但我正在致力于为 Linux、Windows 和 Mac OS X 创建虚拟设备。特别感谢 Antoni Sawicki 捐赠 AT&amp;T UNIX PC 系统和软件磁盘，以及 Andrew Warkentin 和 Jesse Booth 对改进仿真做出的贡献。此外，您还可以在该网站上找到启动 ROM 和扫描的技术参考文档等资源。]]></description>
+      <guid>https://t.me/hn_summary/86937</guid>
+      <pubDate>Mon, 29 Apr 2024 02:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]悄悄辞职：总是有朝九晚五的员工，但这是一种令人毛骨悚然的不适</title>
+      <link>https://t.me/hn_summary/86936</link>
+      <description><![CDATA[安静地辞职：总是有朝九晚五的员工，但这是一种蔓延的不适
+“悄悄离职”已成为疫情后的普遍问题，员工不再愿意为雇主做出超越自己的事情。这种微妙的阻力对于管理者来说很难处理，因为这些“安静的放弃者”继续毫无怨言地达到他们的工作量标准。专家建议雇主需要重新评估员工的责任并通过提供必要的支持来解决疲劳问题。这场流行病给员工带来了损失，导致一些年龄段的人几乎不加掩饰的愤怒和易怒。虽然理解很重要，但管理者仍然必须满足他们的 KPI。员工援助计划和奖励等小举动可以发挥作用，即使它们可能无法影响所有安静的放弃者。]]></description>
+      <guid>https://t.me/hn_summary/86936</guid>
+      <pubDate>Mon, 29 Apr 2024 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Haystack DB 是一个最小但性能卓越的矢量数据库，其设计速度比 [...]</title>
+      <link>https://t.me/hn_summary/86935</link>
+      <description><![CDATA[Haystack DB – 默认情况下采用二进制嵌入，比 FAISS 快 10 倍
+Haystack DB 是一个最小但高性能的矢量数据库，默认情况下，其速度比采用二进制嵌入的 FAISS 快 10 倍。它提供了诸如用于查询的 JSON 过滤、用于多副本部署的可扩展分布式架构以及持久、持久的数据等功能，这些数据经过内存映射以便在客户端中快速访问。尽管将数据存储在磁盘上并使用暴力破解，Haystack 在基准测试中的表现仍优于 FAISS，速度快了大约 10 倍。该项目的路线图包括 int8 重新排序、更好的查询、全文搜索、改进的插入性能、时间点备份/回滚、基于游标的分页和架构迁移的计划。]]></description>
+      <guid>https://t.me/hn_summary/86935</guid>
+      <pubDate>Mon, 29 Apr 2024 02:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]热门真人秀节目《最大的失败者》揭示了 [...]</title>
+      <link>https://t.me/hn_summary/86934</link>
+      <description><![CDATA[运动、新陈代谢和体重：来自《减肥达人》的新研究&lt; /a&gt;
+热门真人秀《减肥达人》阐明了运动、新陈代谢和减肥之间的关系。研究表明，剧烈减肥会导致新陈代谢显着减慢，如果不极端限制热量摄入，就很难维持减肥效果。令人惊讶的是，保持体重减轻最多的参赛者具有最大的代谢适应能力，这可能是由于体力活动的持续增加所致。这凸显了运动对于成功维持体重的重要性。虽然需要更多的研究来充分理解这些关系，但关键是适量吃天然食品，避免加工食品，并保持活跃以达到和保持健康的体重。]]></description>
+      <guid>https://t.me/hn_summary/86934</guid>
+      <pubDate>Mon, 29 Apr 2024 01:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 无人机制造商大疆创新面临美国制裁</title>
+      <link>https://t.me/hn_summary/86933</link>
+      <description><![CDATA[无人机制造商大疆面临美国FCC禁令
+由于国家安全担忧，中国受欢迎的无人机制造商大疆创新可能在美国面临禁令。美国国会正在制定两党立法，将大疆创新列入联邦通信委员会的黑名单，从而有效地结束该公司在美国的业务。大疆创新否认侵犯人权和监视的指控，但对拥有该公司部分股份的中国国有企业的担忧仍然存在。该禁令可能会影响大疆在商用无人机市场 58% 的市场份额。此举类似于对华为和 TikTok 等其他科技公司的禁令，并可能使市场上的其他无人机公司受益。]]></description>
+      <guid>https://t.me/hn_summary/86933</guid>
+      <pubDate>Mon, 29 Apr 2024 01:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在这篇文章中，我们深入研究了数据科学学生在介绍[...]时所犯的常见错误。</title>
+      <link>https://t.me/hn_summary/86932</link>
+      <description><![CDATA[数据科学专业学生常犯的错误
+在这篇文章中，我们根据密歇根大学进行的一项研究，深入探讨了数据科学学生在入门课程中犯的常见错误。这些错误的范围包括由于误解数据而导致的逻辑错误、由于不正确的函数使用而导致的语义错误、次优的编码实践以及对 Python 和 Jupyter Notebook 的误解。这些发现的意义凸显了在数据科学入门课程中关注数据素养、数据科学库编程以及代码优化的必要性。这项研究的一个独特之处是部署了人工智能导师，帮助学生不仅了解代码的正确性，还了解数据科学的领域知识和最佳实践。]]></description>
+      <guid>https://t.me/hn_summary/86932</guid>
+      <pubDate>Mon, 29 Apr 2024 01:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计令人印象深刻，[...]</title>
+      <link>https://t.me/hn_summary/86931</link>
+      <description><![CDATA[Apple MacBook Air 15 英寸 M3 评测 - Thurrott.com
+Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计、性能和电池寿命令人印象深刻。时尚优雅的设计以及独特的颜色选择使其脱颖而出。该显示屏是一流的，提供清晰的视觉效果和出色的色彩准确性。内部组件由 Apple Silicon M3 芯片供电，可提供出色的性能，而不会出现任何噪音或热量问题。连接选项很现代，支持 Wi-Fi 6E 和蓝牙 5.3。键盘和触摸板舒适且反应灵敏。总体而言，MacBook Air M3 是风格与实质的近乎完美结合，为大多数用户提供了无与伦比的价值。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86931</guid>
+      <pubDate>Mon, 29 Apr 2024 01:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Block 和 AgentFormer 是一个结合了 BlockStar 算法的项目，这是一个多块 [...]</title>
+      <link>https://t.me/hn_summary/86930</link>
+      <description><![CDATA[Block* 和 AgentFormer – 玩积木和变形金刚（耶）&lt; /a&gt;
+Block 和 AgentFormer 是一个项目，它将 BlockStar 算法（一种用于重新排列块的多块 A 算法）与 AgentFormer（一种转换 BlockStar 的输入和输出的字符级转换器）相结合。该项目的灵感来自作者作为预制混凝土工地工人的经历，在那里他们经常做比移动砌块所需的更多的工作。 BlockStar 算法用于遗传算法中，以找到将块移动到目标位置的最佳路径，成功的结果将被保存并输入变压器以训练语言模型。该项目通过结合这些算法来优化块移动效率而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/86930</guid>
+      <pubDate>Mon, 29 Apr 2024 01:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]联邦存款保险公司宣布共和第一银行已[...]</title>
       <link>https://t.me/hn_summary/86929</link>
@@ -12,78 +84,6 @@
 联邦存款保险公司宣布，宾夕法尼亚州监管机构关闭了共和第一银行，这是今年第一家美国银行倒闭。该银行拥有 60 亿美元资产和 40 亿美元存款。富尔顿银行将承担存款和资产。与去年的地区银行倒闭相比，这次倒闭规模较小。该银行的 32 家分行将在富尔顿银行旗下重新开业。由于高利率，区域银行面临着充满挑战的时期。去年硅谷银行的倒闭引发了更广泛的危机。纽约社区银行近期也面临挑战。]]></description>
       <guid>https://t.me/hn_summary/86929</guid>
       <pubDate>Mon, 29 Apr 2024 01:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]这个项目是一个用 Java 编写的填字游戏填充程序，可以找到有效的英语 cr [...]</title>
-      <link>https://t.me/hn_summary/86928</link>
-      <description><![CDATA[我在Wayback Machine 及其运行
-该项目是一个用 Java 编写的填字游戏填充程序，它基于具有可选部分完成的网格模式查找有效的英语填字游戏填充。作者在 Wayback Machine 上找到了该程序，他们于 2011 年在 MediaFire 上发布了该 jar 文件。他们能够在 2023 款 MacBook Air 上下载并运行该程序，并相信它也应该在其他计算机上运行。该程序使用波束搜索，用 Java 编写，带有 Java Swing UI，并且具有一个独特的功能，即它仅在屏幕上呈现每 N 个猜测。作者鼓励用户下载jar文件并享受使用它的乐趣。]]></description>
-      <guid>https://t.me/hn_summary/86928</guid>
-      <pubDate>Mon, 29 Apr 2024 01:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]乌克兰可能使用轻型飞机的争议性和令人惊讶的发现 [...]</title>
-      <link>https://t.me/hn_summary/86927</link>
-      <description><![CDATA[乌克兰似乎正在使用轻型飞机改装成可重复使用的轰炸机无人机
-俄罗斯电报频道发布的图片揭示了乌克兰可能使用轻型飞机改装成可重复使用的轰炸机无人机这一颇具争议且令人惊讶的发现。这种创新的改造允许投掷弹药而不是撞击目标，从而显着增强了乌克兰的能力。在神风特攻队模式下进行远程任务的自主打击的可能性为这一发展增加了另一层复杂性。使用这些无人机进入俄罗斯控制的领土或俄罗斯本身的边境地区执行任务是一项战略举措。将“天行者”等现成飞机改装为遥控轰炸机，展示了乌克兰在持续冲突中的足智多谋。]]></description>
-      <guid>https://t.me/hn_summary/86927</guid>
-      <pubDate>Mon, 29 Apr 2024 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发明了一种革命性的时间限制概念，改变了我忙碌的日子。</title>
-      <link>https://t.me/hn_summary/86926</link>
-      <description><![CDATA[我为忙碌的日子创建了一个新的时间限制概念，它很有效
-我发明了一种革命性的时间限制概念，改变了我忙碌的日子。通过将我的日程安排分成更小、更易于管理的时间块，我能够提高工作效率并减轻压力。这种方法让我一次专注于一项任务，从而获得更好的结果并更有效地利用我的时间。争议在于，有些人可能会发现很难适应这种新的安排一天的方式，但对我来说，它改变了游戏规则。请访问我的网站以了解有关这种创新方法的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/86926</guid>
-      <pubDate>Mon, 29 Apr 2024 00:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 alaniswright.com 上的这篇文章中，我分享了使用人工智能来增强我的产品的 8 种方法 [...]</title>
-      <link>https://t.me/hn_summary/86925</link>
-      <description><![CDATA[我使用人工智能帮助我成为更好的产品经理的 8 种方式
-在 alaniswright.com 上的这篇文章中，我分享了我的 8 种方式使用人工智能来增强我的产品管理实践。从为未来用户生成明信片到识别风险假设和编写 SQL 代码，人工智能已成为我工作中的宝贵工具。我还讨论了人工智能的局限性，例如人类监督的需要以及分析用户研究结果的挑战。尽管人工智能带来了好处，但我仍然相信人类输入的价值，尤其是在撰写会议记录和综合研究见解等任务时。这篇文章强调了人工智能改变产品管理的独特方式，同时也承认其局限性。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86925</guid>
-      <pubDate>Mon, 29 Apr 2024 00:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 天主教答案组织最近发布了一位名叫“贾斯汀神父”的人工智能牧师，他声称 [...]</title>
-      <link>https://t.me/hn_summary/86924</link>
-      <description><![CDATA[天主教团体迅速解除人工智能牧师神父贾斯汀的职务
-Catholic Answers 最近发布了一位名为“贾斯汀神父”的人工智能牧师，他自称是真正的神职人员。聊天机器人参与对话，甚至提供圣礼以及有关社会和性问题的有争议的观点。在受到批评后，天主教答案很快就解除了贾斯汀神父的圣职，他现在被称为“贾斯汀”，是一位平信徒神学家。该机器人澄清说，它从未被任命，只是一个致力于分享天主教的人工智能。围绕人工智能牧师代表的争议导致天主教答案迅速更新，强调了在不引起尴尬的情况下部署人工智能的挑战。]]></description>
-      <guid>https://t.me/hn_summary/86924</guid>
-      <pubDate>Mon, 29 Apr 2024 00:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]迪拜将启动一项耗资 320 亿美元的大型项目，以扩建阿勒马克图姆国际机场 [...]</title>
-      <link>https://t.me/hn_summary/86923</link>
-      <description><![CDATA[迪拜计划耗资 320 亿美元的大型机场项目
-迪拜将启动一项耗资 320 亿美元的大型项目，扩建阿勒马克图姆国际机场，使其成为世界上最大的机场，可容纳超过 2.6 亿乘客。迪拜州长穆罕默德·本·拉希德宣布了这一雄心勃勃的计划，其中包括 400 个登机口和 5 条平行跑道。该项目还将在机场周围开发一座新城市，可容纳多达 100 万人，并容纳物流和运输领域的跨国公司。此举旨在将空中交通从迪拜国际机场转移至阿勒马克图姆，巩固迪拜作为全球枢纽的地位。]]></description>
-      <guid>https://t.me/hn_summary/86923</guid>
-      <pubDate>Mon, 29 Apr 2024 00:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]微软亿万富翁史蒂夫鲍尔默的儿子皮特鲍尔默分享了他对气的见解 [...]</title>
-      <link>https://t.me/hn_summary/86922</link>
-      <description><![CDATA[皮特·鲍尔默：作为史蒂夫·鲍尔默的儿子长大是什么感觉&lt; /a&gt;
-微软亿万富翁史蒂夫·鲍尔默 (Steve Ballmer) 的儿子皮特·鲍尔默 (Pete Ballmer) 分享了他在富裕家庭成长的经历，透露他的家庭并不是挥霍无度的人，并向他灌输了金钱的价值。尽管皮特出身富裕，但他仍从事暑期工作并追求单口喜剧演员的职业生涯。他在 25 岁时继承了一笔钱，但仍然很节俭，从来不购买超过几百美元的东西。皮特生活俭朴，开着福特福克斯，并优先考虑医疗保健和慈善捐款。他强调金钱并不能保证幸福，要注意不要陷入富裕的循环。]]></description>
-      <guid>https://t.me/hn_summary/86922</guid>
-      <pubDate>Mon, 29 Apr 2024 00:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本周 The Register 的 On Call 中，读者“Barry”讲述了 [...]</title>
-      <link>https://t.me/hn_summary/86921</link>
-      <description><![CDATA[帮助我的鼠标爬上了墙，现在无法正常工作
-在本周 The Register 的 On Call 中，读者“Barry”讲述了 20 世纪 90 年代一只老鼠爬墙的技术支持故事。建筑师用户无法到达屏幕的上半部分，因为他不知道可以在不移动指针的情况下拿起鼠标。巴里吸取了教训，永远不能对用户做出任何假设。建筑师将老鼠推上墙的行为出人意料，却出人意料地受到好评。通过 On Call 分享您自己的技术支持愚蠢行为，就有机会在未来的故事中出现。]]></description>
-      <guid>https://t.me/hn_summary/86921</guid>
-      <pubDate>Mon, 29 Apr 2024 00:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>体验最早的已知数字视频游戏“太空战争！”的快感。</title>
-      <link>https://t.me/hn_summary/86920</link>
-      <description><![CDATA[DEC PDP-1 模拟器运行“Spacewar”，这是已知最早的数字游戏视频游戏
-在 DEC PDP-1 模拟器上体验最早的已知数字视频游戏“Spacewar！”的快感。与“针”和“楔”飞船一起在外太空战斗，利用重力优势并发射光子鱼雷来击败对手。享受牛顿物理学的真实模拟和视觉上令人惊叹的移动星空背景。提供多个程序版本，包括历史性的太空战争！ 2B 于 1962 年在麻省理工学院的家长周末展示，这款模拟器提供了一个独特的机会让您回到过去并玩游戏历史的一部分。千万不要错过这款经典的游戏体验！ （根据 26% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86920</guid>
-      <pubDate>Sun, 28 Apr 2024 23:42:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
