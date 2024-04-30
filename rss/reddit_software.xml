@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 01:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:20:18 GMT</lastBuildDate>
     <item>
       <title>正在寻找显示程序 - 请帮忙</title>
       <link>https://www.reddit.com/r/software/comments/1cgf4md/in_search_of_display_program_please_help/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>使用 ipad 收集数据的软件建议？请参阅正文以获取更多信息。</title>
       <link>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</link>
-      <description><![CDATA[嗨。我最近换了工作，需要在外出完成现场工作时在 iPad 上创建自己的文档来收集数据。以前，我有一个可填写的 PDF 文档，我认为该文档最初是在 Excel 中创建的，然后转换为 PDF 以便在 PDF Expert 应用程序中进行编辑。我经常需要使用的编辑工具是在文本字段中自由输入、添加文本便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来像这是一张实际的方格纸扫描件，叠加在几页 Excel 工作表上。我之前公司的任何人都不记得最初是谁制作了该表格或如何制作的，而且我们不确定原始 Excel 版本在哪里。 我的问题是：   正在使用Excel 创建文档，然后将其转换为可填写的 PDF，这是创建此类文档的最佳方法吗？ 如果不是，请建议其他方法。    由   提交/u/LiquidAmbar247   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我最近换了工作，需要在外出完成实地工作时在 iPad 上创建自己的文档来收集数据。之前，我有一个可填写的 PDF 文档，我相信它最初是在 Excel 中创建的，然后转换为 PDF 以在 PDF Expert 应用程序中编辑。我经常需要使用的编辑工具是自由输入文本字段、添加带有文本的便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来就像是将一张实际的方格纸扫描叠加到 Excel 工作表的几页上。我之前的公司没有人记得最初是谁制作的表格或如何制作的，我们也不确定原始 Excel 版本在哪里。 我的问题是：   使用 Excel 创建文档然后将其转换为可填写的 PDF 是创建此类文档的最佳方法吗？  如果不是，请建议其他方法。     提交人    /u/LiquidAmbar247   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</guid>
       <pubDate>Mon, 29 Apr 2024 17:43:08 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Mon, 29 Apr 2024 16:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>将我的 python 项目商业化</title>
+      <title>将我的 Python 项目商业化</title>
       <link>https://www.reddit.com/r/software/comments/1cg1n3y/comercialize_my_python_project/</link>
       <description><![CDATA[大家好， 我有一些 Python 项目，可以为会计公司自动执行重复性任务，我已经将它们卖给了一家公司只支付一次，无需订阅。 但现在我想将其提升到另一个水平，并开始通过每月或年度订阅来销售它，但要做到这一点，我需要调整代码并实现一个数据库来处理每个人拥有的登录名和权限以及他们将拥有的许可证。 我遇到的唯一问题（一个大问题）是如何使其成为可能，因为我可以轻松地做到数据库部分和所有这些，但只能在本地使用本地服务器。 当公司使用该程序并登录时，该程序如何访问数据库？我需要什么工具？我真的迷失了，我找不到任何这方面的教程。如果有任何网站可以解释我需要什么工具以及应该如何做，我将非常感激。我读过一些有关云托管的内容，但我无法理解如何做到这一点。   由   提交/u/almeida2233  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg1n3y/comercialize_my_python_project/</guid>
@@ -97,9 +97,9 @@
       <pubDate>Mon, 29 Apr 2024 14:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>我无法在文件资源管理器中打开任何文件</title>
+      <title>我无法在文件资源管理器上打开任何文件</title>
       <link>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</link>
-      <description><![CDATA[鼠标图标旁边出现沙漏符号，但从未加载。播放视频文件的电影和电视应用程序曾经弹出一秒钟，然后消失。    由   提交  /u/EarthwormJim_17   [link] [评论]]]></description>
+      <description><![CDATA[沙漏符号出现在鼠标图标旁边，但从未加载。一旦播放视频文件的电影和电视应用程序弹出一秒钟，然后就消失了。   由   提交/u/EarthwormJim_17   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</guid>
       <pubDate>Mon, 29 Apr 2024 13:55:05 GMT</pubDate>
     </item>
