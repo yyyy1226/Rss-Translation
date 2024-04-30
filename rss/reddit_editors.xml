@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:20:14 GMT</lastBuildDate>
+    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
+    <lastBuildDate>Tue, 30 Apr 2024 06:26:49 GMT</lastBuildDate>
+    <item>
+      <title>在使用新软件时，有多少人在使用 Youtube 或任何课程之前先查阅手册？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgjkt3/how_many_of_you_turn_to_manuals_first_when/</link>
+      <description><![CDATA[我越来越发现 YouTube 只是一个浪费时间的东西，而不是一个很好的学习资源。  手册更容易浏览。它很全面，而且您知道它不仅仅是跳上评论炒作并获取点击次数。   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgjkt3/how_many_of_you_turn_to_manuals_first_when/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有预告片编辑成功退出该行业吗？你现在做什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</link>
+      <description><![CDATA[我从事这一行并过着代理生活已经快 10 年了。我赢得了奖项，我完成了大作品，我赚了很多钱，而且……我真的他妈的讨厌我的生活。我试图想象一个没有这些的未来，但这很难，因为这就是我所知道的一切。  这里有预告片编辑者发现自己处于类似的境地吗？假设您已经尝试过其他机构/成为自由职业者，您做了什么才能继续前进？    由   提交/u/Spare_Ad_6776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:21:39 GMT</pubDate>
+    </item>
     <item>
       <title>Lucid 链接备份策略</title>
       <link>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</link>
@@ -22,14 +36,14 @@
     <item>
       <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
       <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
-      <description><![CDATA[昨晚我购买了一台 M2 Max Macbook Pro，并意识到因为它有三个 Thunderbolt 3 端口，为了优化 Premiere Pro 中的编辑，我是否应该购买三个 Sabrent M.2 Thunderbolt NVMe 外壳 SSD 扩展坞 ，然后使用一个 256GB M.2 SSD 存储媒体缓存文件和数据库，另一个 256GB M.2 SSD 存储暂存盘，第三个也是最后一个 4TB M.2 存储项目文件和我正在处理的项目的源素材/样片，从而将我的 Mac OS 和 Premiere Pro 软件留在我的 Macbook 的内置 SSD 上。 这是设置一切的最佳方式吗？还是项目文件需要放在我的 Mac 的内置 SSD 上，以便它与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro 还是可以使用金士顿等便宜的产品？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快的最佳 NVME m.2 驱动器是否过度。最后，有没有什么集线器或更不混乱/加密狗的方法可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 – 30 核 GPU    提交人    /u/Impyy   [link] [评论]]]></description>
+      <description><![CDATA[所以我昨晚购买了一台 M2 Max Macbook Pro，并意识到它具有三个 Thunderbolt 3 端口，以便优化 Premiere Pro 中的编辑，我是在这样的情况下吗？我想我应该购买三个 Sabrent M.2 Thunderbolt NVMe Enclosure SSD 扩展坞，然后使用一个 256GB M.2 SSD 作为媒体缓存文件和数据库，另一个 256GB M.2 SSD 用于暂存盘，然后是第三个也是最后一个 4TB M.2 用于项目文件和我正在处理的项目的源素材/rushes，因此离开了我的 Mac OS 和 Premiere Pro Macbook 内置 SSD 上的软件。 这是设置所有内容的最佳方式吗？或者项目文件是否需要位于 Mac 的内部 SSD 上，以便与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro，还是可以选择像金士顿这样便宜的东西？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快、最好的 NVME m.2 驱动器是否过度杀伤力。最后，有没有任何集线器或不那么混乱/加密狗的方式可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 - 30 核 GPU    由   提交 /u/Impyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</guid>
       <pubDate>Tue, 30 Apr 2024 00:30:07 GMT</pubDate>
     </item>
     <item>
       <title>无色素材的命名约定最佳实践？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</link>
-      <description><![CDATA[我将把 Premiere Pro XML 发送到另一个工作室进行着色和美化。它只包括未链接的 RAW 素材 + GFX 参考 + 音频干。命名该文件以使调色师知道他们收到的内容的最佳方式是什么？    由   提交 /u/limeadegelatin   [链接] [评论]]]></description>
+      <description><![CDATA[我要将 Premiere Pro XML 发送到不同的工作室进行调色和美化。它只包含未链接的 RAW 素材 + GFX 参考 + 音频词干。如何最好地命名该文件才能让调色师知道他们收到了什么？    提交人    /u/limeadegelatin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</guid>
       <pubDate>Mon, 29 Apr 2024 23:54:17 GMT</pubDate>
     </item>
@@ -71,14 +85,14 @@
     <item>
       <title>清晰链接已关闭</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
-      <description><![CDATA[你们这段时间都在干嘛？    提交人    /u/mjgoodenow   [link] [comments]]]></description>
+      <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
       <pubDate>Mon, 29 Apr 2024 18:03:23 GMT</pubDate>
     </item>
     <item>
       <title>您使用什么蓝牙耳机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</link>
-      <description><![CDATA[我目前使用拜亚动力 DT990 Pro，但我希望将来在家庭办公室编辑时切换到蓝牙。质量与DT990相当的蓝牙耳机有哪些？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <description><![CDATA[我目前使用的是 Beyerdynamics DT990 Pro，但我希望将来在编辑时在家中办公室切换到蓝牙。 哪款蓝牙耳机在质量方面与 DT990 处于相似水平？    提交人    /u/Zeigerful   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</guid>
       <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿编辑们，我有一个问题让我有点困惑。  设置：Mac 电脑线路输出/耳机输出到 Big Knob 混音器的通道 1  Avid MC 2023 Black Magic 4k Mini 输出到 Big 上的通道 2用于音频的旋钮混音器和用于图像的广播监视器 通道 1 和 2 在大旋钮混音器上设置为完全相同的级别/设置 大旋钮混音器到扬声器 &gt; 问题：音频输出是 Black Magic，与 Mac 的线路输出有很大不同。大概至少20dB。 Mac 的音频调到最大。  因此，如果我在 avid 中启用 HW/SW 按钮，那么它就会摆脱黑​​魔法，音频就会变得很热。但我关闭了 HW/SW 按钮，因此音频从 Mac 线路输出中出来，音频很低 任何输入都是有价值的。  谢谢！！   由   提交/u/okay-then08   /u/okay-then08  reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/</guid>
       <pubDate>Mon, 29 Apr 2024 16:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lucidlink 中断？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</link>
-      <description><![CDATA[今天早上还有其他人在访问 Lucidlink 时遇到问题吗？我的整个团队都无法访问。    由   提交 /u/Steeviesteve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</guid>
-      <pubDate>Mon, 29 Apr 2024 14:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是粗略的吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</link>
-      <description><![CDATA[评论中的图片。 我申请了这份工作并收到了这条（可能）自动消息。在采取任何行动之前，我需要第二意见。   由   提交/u/mommymommymolly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

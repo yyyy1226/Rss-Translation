@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:27:18 GMT</lastBuildDate>
     <item>
-      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
+      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
       <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>如何从现有的开源项目中构建一个单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，并且我为它做出了一些贡献，但我开始意识到我想创建一个与原始项目类似但略有不同的项目。这就是为什么我考虑使用它作为我全新项目的基础，它将与原始项目有所不同。那么我该怎么做呢？我的意思是，我是否应该分叉它并开始进行自己的修改，而不要向原始项目发送 PR（因为我的项目会有所不同）或者这样做的良好做法/方法是什么？我也可能会将其扩展到更大的规模。请在这里指导我！    提交人    /u/deadclown_09   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>为什么公司要为开源做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</link>
-      <description><![CDATA[嗨，我是编程新手，想得到一些说明。为什么公司付钱给员工从事开源工作？我知道他们自己可能正在使用该项目。但还有其他原因吗？为什么这些公司要开源自己的项目？就像 Facebook 有很多项目，比如 React 或 Llama AI。通过保留所有所有权，他们不会受益更多吗？   由   提交 /u/krystln   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是编程新手，想得到一些澄清。为什么公司要付钱给员工从事开源工作？我知道他们自己可能也在使用那个项目。但还有其他原因吗？为什么这些公司要开源自己的项目？比如 Facebook 就有很多像 react 或 Llama AI 这样的项目。如果他们把所有项目都保留为专有的，难道他们不会受益更多吗？    提交人    /u/krystln   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</guid>
       <pubDate>Sun, 28 Apr 2024 17:32:14 GMT</pubDate>
     </item>
