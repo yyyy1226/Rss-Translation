@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:15:50 GMT</lastBuildDate>
+    <item>
+      <title>提高结构化生成的即时一致性</title>
+      <link>https://huggingface.co/blog/evaluation-structured-outputs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/evaluation-structured-outputs</guid>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>StarCoder2-Instruct：完全透明且允许的代码生成自对准</title>
       <link>https://huggingface.co/blog/sc2-instruct</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎 Llama 3 - Meta 新开的法学硕士</title>
+      <title>Welcome Llama 3 - Meta 新开设的法学硕士课程</title>
       <link>https://huggingface.co/blog/llama3</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/llama3</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CodeGemma - Google 官方发布的代码 LLM</title>
+      <title>CodeGemma - 代码法学硕士的 Google 官方版本</title>
       <link>https://huggingface.co/blog/codegemma</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/codegemma</guid>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/hugging-face-wiz-security-blog</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/hugging-face-wiz-security-blog</guid>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Hugging Face 数据集查看器 API 和 Motherduck DuckDB-NSQL-7B 的 Text2SQL</title>
-      <link>https://huggingface.co/blog/duckdb-nsql-7b</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/duckdb-nsql-7b</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
