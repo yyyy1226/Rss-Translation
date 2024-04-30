@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:27:27 GMT</lastBuildDate>
+    <item>
+      <title>在真空中工作是很困难的。请批评我的网站！</title>
+      <link>https://feed.indiehackers.world/post/37e8083f33</link>
+      <description><![CDATA[该网站是 nemomakes.com。这是我的设计机构，我想了解我们的服务和定价是否对用户足够清晰。请回答下面的调查。如果没有合适的答案，请在评论中添加您的回复。
+我为参与调查的任何人提供 10% 的设计服务折扣。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/37e8083f33</guid>
+      <pubDate>Tue, 30 Apr 2024 15:54:28 GMT</pubDate>
+    </item>
     <item>
       <title>您是否使用像 Bard 这样的聊天机器人进行搜索？</title>
       <link>https://feed.indiehackers.world/post/682f2e2796</link>
@@ -60,7 +69,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
     </item>
     <item>
-      <title>开源对你来说意味着什么？</title>
+      <title>开源对您意味着什么？</title>
       <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
       <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。也就是说，对我来说，开源允许更多的协作、定制和自由。 
 我很想知道开源对您意味着什么，以及为什么您愿意或不愿意使用开源平台。 
@@ -72,8 +81,8 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>您使用在线工具来计算百分比吗？</title>
       <link>https://feed.indiehackers.world/post/918cb035a1</link>
-      <description><![CDATA[我创建了一个带有方便计算器的简单网站，因为我认识一些苦苦挣扎的人。我也有兴趣了解社区！
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[我创建了一个带有方便计算器的简单网站，因为我个人认识那些陷入困境的人。我也有兴趣了解社区！
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/918cb035a1</guid>
       <pubDate>Sun, 21 Apr 2024 13:44:43 GMT</pubDate>
     </item>
@@ -90,7 +99,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>请帮我决定我的 B2B 增长机构名称</title>
       <link>https://feed.indiehackers.world/post/2a7f4126e1</link>
       <description><![CDATA[谢谢！！
-Discord 独立黑客聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2a7f4126e1</guid>
       <pubDate>Fri, 19 Apr 2024 11:49:13 GMT</pubDate>
     </item>
@@ -103,7 +112,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Fri, 19 Apr 2024 11:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>您的团队使用 PagerDuty 和 Slack 吗？对我们的 v1 有什么反馈吗？</title>
+      <title>您的团队使用 PagerDuty 和 Slack 吗？对我们的 v1 有任何反馈吗？</title>
       <link>https://feed.indiehackers.world/post/f134f0ce12</link>
       <description><![CDATA[或者填写民意调查，因为我们正在考虑为其他待命系统构建集成。
 所以请让我知道您的想法或想法，我期待着共同学习并让我们的随叫随到体验变得更好。
@@ -115,7 +124,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>使用身份验证即服务，还是自己构建？</title>
       <link>https://feed.indiehackers.world/post/ca51cd5d30</link>
       <description><![CDATA[然而，对于我想要实现的目标来说，它们似乎都太过强大，只是使用电子邮件和密码进行简单的用户身份验证。我不需要授权、用户角色、多重身份验证、单点登录等。我也不期望有大量的注册用户。
-💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这种特殊服务？否则，您为什么决定自己编写代码？
+💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这项特定服务？否则，您为什么决定自己编写代码？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ca51cd5d30</guid>
       <pubDate>Mon, 15 Apr 2024 17:29:31 GMT</pubDate>
@@ -129,16 +138,6 @@ https://www.indiehackers.com/post/not- so-revolutionary-job-board-for-web-develo
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9a0dbdcdbd</guid>
       <pubDate>Fri, 12 Apr 2024 17:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个全自动直销网站</title>
-      <link>https://feed.indiehackers.world/post/9a3230c9f8</link>
-      <description><![CDATA[大家好，
-我是 Stephen，拥有全栈 Web 开发背景。
-我只是想分享 Projek，一个由 t3 堆栈 + cjdropshipping API。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9a3230c9f8</guid>
-      <pubDate>Fri, 12 Apr 2024 05:47:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

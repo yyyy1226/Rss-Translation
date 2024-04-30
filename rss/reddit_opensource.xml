@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:17:11 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 18:27:04 GMT</lastBuildDate>
+    <item>
+      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
+      <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:22:18 GMT</pubDate>
+    </item>
     <item>
       <title>直接从我的计算机捕获系统音频的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>寻求一个将 Outlook 电子邮件导出为 PDF 的插件 - 单选或多选</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgv0eu/seeking_a_plugin_to_export_outlook_emails_to_pdf/</link>
-      <description><![CDATA[大家好， 我目前正在寻找一个插件或工具，使我能够将电子邮件从 Outlook 导出到 PDF 文件，无论是一次导出一封还是批量导出。我的主要目标是将重要的电子邮件对话存档为 PDF 格式，以便于记录和共享。 如果有人有使用可靠插件的经验，可以顺利与 Outlook 集成并保留原始格式和附件，我将非常感谢您的建议。易用性和功能性是关键。 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前正在寻找一个插件或工具，使我能够将电子邮件从 Outlook 导出到 PDF 文件，无论是一次一个还是批量。我的主要目标是以 PDF 格式存档重要的电子邮件对话，以便于文档和共享。 如果有人有使用可靠插件的经验，该插件可以与 Outlook 顺利集成并保持原始格式和附件，我将非常感激你的建议。易用性和功能性是关键。 提前感谢您的帮助！   由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgv0eu/seeking_a_plugin_to_export_outlook_emails_to_pdf/</guid>
       <pubDate>Tue, 30 Apr 2024 15:01:38 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>寻找免费应用程序来转录音频文件</title>
+      <title>寻找免费的应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
       <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
     </item>
     <item>
       <title>看看 OSI 是否会在您附近举办研讨会。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
       <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道美国开源公司的目录吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
-      <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
-      <pubDate>Sun, 28 Apr 2024 21:46:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

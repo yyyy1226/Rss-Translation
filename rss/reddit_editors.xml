@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:16:35 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Tue, 30 Apr 2024 18:26:30 GMT</lastBuildDate>
+    <item>
+      <title>决心热心的时间表。 Atem多机位</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgwx62/resolve_to_avid_timeline_atem_multicam/</link>
+      <description><![CDATA[大家好。作为潜伏者一段时间以来，一直在寻找有关此潜艇的有用提示和修复。我有一个非常利基的工作流程，我想尝试正确，并认为在这里询问会很好。  我正在使用 atem iso Extreme 录制 6 个摄像机。 atem iso 推出了一个解决项目，并在时间上进行了削减。我想把这个时间表转移到 avid。我尝试使用 aaf，但无法链接媒体。该文件是 mp4 h264 文件。然后我测试了 avid aaf 导出选项。它渲染 mxf 文件并且可以工作，但不是我想要的方式。它保留了剪辑，我将框架手柄发送到最大程度以便能够进行编辑。问题是，每次剪辑都会创建一个新剪辑，并且需要大量存储空间才能正常工作。有没有办法仅通过摄像机剪辑来了解时间线？我尝试更改唯一的文件名，但它仅将一个编辑链接到每个剪辑，即使每个剪辑有多个编辑。任何建议或帮助将不胜感激。如果不可能的话我完全明白。    由   提交/u/everillangel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgwx62/resolve_to_avid_timeline_atem_multicam/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在礼堂环境中消除重混响的技巧</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgwm6j/tips_on_removing_heavy_reverb_in_an_auditorium/</link>
+      <description><![CDATA[使用 Premiere 2023（24 给我带来了 MC 问题） TL;DR 粗体... 我正在制作一个讲座视频，我们必须切换到另一个来源，因为原始来源在某些时候失败了。 讲座在礼堂进行，并产生一些沉重的回声/混响。 我已尽力使过渡无缝，但第二次的混响源非常重，当我尝试用 Premiere 的“dereverb”处理它时，功能太多，它产生了沉重的压缩声音。 我曾经购买过 Izotope elements 版本 8，但它没有混响，而且这次我的预算非常紧张年，所以我什至没有 50 美元左右的钱来购买它（我也不知道它是否会成为这里的解决方案）。 有没有人有任何关于如何处理这个问题吗？一天结束时，我必须告诉客户事情就是这样，但如果我能让客户满意，我很乐意在这方面获得任何帮助。谢谢大家！ 在确认一些细节后进行编辑... 音频为 .wav 编辑 2 - 我也尝试在下使用 Autogate “动力学”尽管我尝试对其进行调整，但视频中总是有不同的部分，这使得另一部分的设置变得无关紧要（因此“攻击”或“阈值”变得太多，然后音频变得断断续续）。由于这是一个 2.5 小时的讲座，分部分讲完整个内容太痛苦了   由   提交/u/YYS770   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgwm6j/tips_on_removing_heavy_reverb_in_an_auditorium/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:08:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>努力平衡低薪客户与高薪机会：寻求建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgw4l1/struggling_with_balancing_lowpaying_client_vs/</link>
+      <description><![CDATA[我最近遇到了一些困境，需要一些建议。大约六个月前，我接待了一位提供低薪的客户，因为我刚刚起步并想获得一些经验。现在，我有愿意支付更多费用的新客户，但我的很大一部分时间都花在为第一个客户编辑视频上，而他的费用仍然较低。我应该怎么办？我该如何向他解释我的情况？我不擅长谈判。   由   提交 /u/Epolent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgw4l1/struggling_with_balancing_lowpaying_client_vs/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:48:09 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Macbook 作为 Windows 10 PC 的第二个显示器？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgpfw1/use_macbook_as_a_second_monitor_for_windows_10_pc/</link>
@@ -27,7 +48,7 @@
       <pubDate>Tue, 30 Apr 2024 03:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>Lucid Link 备份策略</title>
+      <title>Lucid 链接备份策略</title>
       <link>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</link>
       <description><![CDATA[认为今天是开始讨论 Lucid Link 理想备份策略的合适时机。 大约两个几个月前，我发表了这篇文章： https://www.reddit.com /r/editors/comments/1beq8e8/lucid_link_in_combination_with_syncthing/ 一旦我的数据恢复在线，我将实施此策略并确保我的所有 Lucid Link 项目也与我的同步服务器。 有趣的是，我们只是在一个项目中尝试 Lucid。如果这种事件发生在我们所有的项目上，那将是最坏的情况。 我的一位同事正在制作另一部作品，该作品已经使用 Lucid Link 一段时间了，她告诉我他们正在处理中今天本地备份。我很好奇他们为本地备份做了什么，以及他们如何能够如此快速地做出反应，并且不松懈。 我将尝试一下我最初的想法，看看它是如何工作的。我们经常使用 Syncthing，因此如果它运行良好，它会很好地配合。   由   提交/u/Magic_MTN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</guid>
@@ -41,7 +62,7 @@
       <pubDate>Tue, 30 Apr 2024 02:39:40 GMT</pubDate>
     </item>
     <item>
-      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
+      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方式</title>
       <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
       <description><![CDATA[所以我昨晚购买了一台 M2 Max Macbook Pro，并意识到它具有三个 Thunderbolt 3 端口，以便优化 Premiere Pro 中的编辑，我是在这样的情况下吗？我想我应该购买三个 Sabrent M.2 Thunderbolt NVMe Enclosure SSD 扩展坞，然后使用一个 256GB M.2 SSD 作为媒体缓存文件和数据库，另一个 256GB M.2 SSD 用于暂存盘，然后是第三个也是最后一个 4TB M.2 用于项目文件和我正在处理的项目的源素材/rushes，因此离开了我的 Mac OS 和 Premiere Pro Macbook 内置 SSD 上的软件。 这是设置所有内容的最佳方式吗？或者项目文件是否需要位于 Mac 的内部 SSD 上，以便与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro，还是可以选择像金士顿这样便宜的东西？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快、最好的 NVME m.2 驱动器是否过度杀伤力。最后，有没有任何集线器或不那么混乱/加密狗的方式可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 - 30 核 GPU    由   提交 /u/Impyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>无色素材的命名约定最佳实践？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</link>
-      <description><![CDATA[我将把 Premiere Pro XML 发送到另一个工作室进行着色和美化。它只包括未链接的 RAW 素材 + GFX 参考 + 音频干。命名该文件以使调色师知道他们收到的内容的最佳方式是什么？    由   提交 /u/limeadegelatin   [链接] [评论]]]></description>
+      <description><![CDATA[我要将 Premiere Pro XML 发送到不同的工作室进行调色和美化。它只包含未链接的 RAW 素材 + GFX 参考 + 音频词干。如何最好地命名该文件才能让调色师知道他们收到了什么？    提交人    /u/limeadegelatin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</guid>
       <pubDate>Mon, 29 Apr 2024 23:54:17 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[有人使用 krotos 进行声音设计吗？  很想听听一些评论，看看是否值得。    由   提交 /u/Subylovin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg7t57/anyone_using_krotos_studio/</guid>
       <pubDate>Mon, 29 Apr 2024 19:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>清晰链接已关闭</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
-      <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么型号的蓝牙耳机？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</link>
-      <description><![CDATA[我目前使用拜亚动力 DT990 Pro，但我希望将来在家庭办公室编辑时切换到蓝牙。质量与DT990相当的蓝牙耳机有哪些？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>是或不是……诚实</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</link>
-      <description><![CDATA[当与导演/制片人或任何客户会面时，他们会询问您对（镜头/剧本/电影等）的真实看法，您会如何处理这个问题？我确实认为说实话是最好的方法，但很多时候，当问到这个问题时，您没有建立起关系，您不知道他们对内容的感受。有时他们会睁大眼睛看到它的缺陷，有时他们会认为这是杰作，但事实并非如此。您觉得呢？    提交人    /u/neederman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</guid>
-      <pubDate>Mon, 29 Apr 2024 16:35:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
