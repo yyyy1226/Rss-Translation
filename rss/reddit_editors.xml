@@ -4,7 +4,49 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 01:18:03 GMT</lastBuildDate>
+    <item>
+      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
+      <description><![CDATA[所以我昨晚购买了一台 M2 Max Macbook Pro，并意识到它具有三个 Thunderbolt 3 端口，以便优化 Premiere Pro 中的编辑，我是在这样的情况下吗？我想我应该购买三个 Sabrent M.2 Thunderbolt NVMe Enclosure SSD 扩展坞，然后使用一个 256GB M.2 SSD 作为媒体缓存文件和数据库，另一个 256GB M.2 SSD 用于暂存盘，然后是第三个也是最后一个 4TB M.2 用于项目文件和我正在处理的项目的源素材/rushes，因此离开了我的 Mac OS 和 Premiere Pro Macbook 内置 SSD 上的软件。 这是设置所有内容的最佳方式吗？或者项目文件是否需要位于 Mac 的内部 SSD 上，以便与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro，还是可以选择像金士顿这样便宜的东西？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快、最好的 NVME m.2 驱动器是否过度杀伤力。最后，有没有任何集线器或不那么混乱/加密狗的方式可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 - 30 核 GPU    由   提交 /u/Impyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</guid>
+      <pubDate>Tue, 30 Apr 2024 00:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无色素材的命名约定最佳实践？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</link>
+      <description><![CDATA[我将把 Premiere Pro XML 发送到另一个工作室进行着色和美化。它只包括未链接的 RAW 素材 + GFX 参考 + 音频干。命名该文件以使调色师知道他们收到的内容的最佳方式是什么？    由   提交 /u/limeadegelatin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型项目的 Premiere Pro Productions - 值得吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cge2zb/premiere_pro_productions_for_a_small_project_is/</link>
+      <description><![CDATA[制作一部较长的短片（40 分钟左右，有剧本），有人建议我在首映式制作中这样做，而不仅仅是首映式项目。不确定是否有必要，或者它可能会带来比其价值更多的麻烦。  我之前曾在其他几个项目（2x 系列和一个专题）中使用过作品。所有这些都有多个编辑器和多个 AE 同时工作，以及故事和档案制作人使用它进行日志记录等。但在这个项目中，我可能一次只会有 1 名剪辑师、一名 AE 进行设置（并且可能与剪辑师一起工作），而我和另一位制作人则负责查看一些选集和剪辑。  在这里使用作品有多大用处？我担心的是，设置清晰链接或任何其他选项的成本将比仅仅保留正常的首映项目要高得多。我们可能会添加一些临时镜头和一些视觉特效，但我认为随着编辑的进行，我们不会不断更新项目的媒体。  如此规模的项目值得制作吗？使用它有什么缺点吗？此外，在拍摄日同步和组织后，尝试将基本首映项目迁移到制作中是否会造成巨大混乱？    由   提交 /u/LastBuffalo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cge2zb/premiere_pro_productions_for_a_small_project_is/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere Pro，音频混合剪辑，但单个轨道看起来不错</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</link>
+      <description><![CDATA[您好！我正在准备交付序列并遇到问题。根据音轨混音器，主混音正在剪辑。然而，轨道本身没有被剪辑。事实上，我只播放一个音轨，并且没有子混音、轨道效果或剪辑效果。所有音轨和混音的音量设置为统一。有人见过这个吗？ Premiere Pro 24.3、Macbook Pro M3 [编辑：问题通过系统重新启动修复。提醒您在发帖前尝试基本的故障排除]   由   提交/u/Powerful-Bread5543  /u/Powerful-Bread5543 reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</guid>
+      <pubDate>Mon, 29 Apr 2024 22:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>冻结！</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</link>
+      <description><![CDATA[冻结帧的终极指南如何正确执行 https://www.youtube.com/watch?v=BEIhBY9S6pw 🥶 &lt;!-- SC_ON - -&gt;  由   提交/u/cut-it  /u/cut-it reddit.com/r/editors/comments/1cgbpjp/freeze/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid 链接/转码 - 值得在项目后期进行吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgaiwt/avid_linktranscode_worth_doing_it_later_in_the/</link>
+      <description><![CDATA[我是 Avid 新手，已获得一个 doco 项目。哎呀。我正在开发一个项目，刚刚了解了链接/转码。无论如何，所有镜头都已链接，而不是导入。但我想知道是否值得我现在将其转码为一种向前推进的类型，或者只是保留它？ 顺便说一句：我将从一开始就进行转码前进。 Crikey。 大部分镜头实际上是在磁带上拍摄的/不是超高分辨率（如果有帮助的话）。播放没问题。也许只转码高分辨率素材就值得？？？此编辑也将由在线编辑进行，我不知道应该如何准备以使其更容易。 欢迎任何提示！谢谢你！    由   提交 /u/chybizzle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgaiwt/avid_linktranscode_worth_doing_it_later_in_the/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:08:37 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过 Krotos studio 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg7t57/anyone_using_krotos_studio/</link>
@@ -13,16 +55,9 @@
       <pubDate>Mon, 29 Apr 2024 19:21:42 GMT</pubDate>
     </item>
     <item>
-      <title>嘿，我是印度居民。我要开始在 capcut 上进行视频编辑。我的主要用途是 capcut、canva、sheets 和 Excel。就这样。没有像YouTube之类的多媒体。</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg68y8/hey_man_i_am_a_resident_of_india_i_am_going_to/</link>
-      <description><![CDATA[请向我推荐一台笔记本电脑，可以进行良好的视频编辑，并且在性能方面也能长期耐用。我预计预算约为 50-55k，但如果有人推荐 65k 左右，我也同意。 请帮我选择一台笔记本电脑。我见过一些像华硕vivobook 16x和宏碁Nitro pro。  感谢您的帮助。   由   提交 /u/Far-Poetry9494    reddit.com/r/editors/comments/1cg68y8/hey_man_i_am_a_resident_of_india_i_am_going_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg68y8/hey_man_i_am_a_resident_of_india_i_am_going_to/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:19:50 GMT</pubDate>
-    </item>
-    <item>
       <title>清晰链接已关闭</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
-      <description><![CDATA[你们这段时间都在干嘛？    提交人    /u/mjgoodenow   [link] [comments]]]></description>
+      <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
       <pubDate>Mon, 29 Apr 2024 18:03:23 GMT</pubDate>
     </item>
@@ -50,7 +85,7 @@
     <item>
       <title>Lucidlink 中断？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</link>
-      <description><![CDATA[今天早上还有其他人无法访问 Lucidlink 吗？我的整个团队都无法访问。     提交人    /u/Steeviesteve   [链接] [评论]]]></description>
+      <description><![CDATA[今天早上还有其他人在访问 Lucidlink 时遇到问题吗？我的整个团队都无法访问。    由   提交 /u/Steeviesteve   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</guid>
       <pubDate>Mon, 29 Apr 2024 14:32:52 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好！ 对于那些为工作创建套牌/治疗并以虚拟方式进行推销的人，您如何提供参考？您是否将其嵌入幻灯片中并要求客户在静音时播放它？或者你通过屏幕共享来播放它？您是否向他们发送单独的链接列表？或者有其他巧妙的方法。    由   提交/u/Horror_Box4385   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cftzvo/showing_reference_whilst_remote_pitching/</guid>
       <pubDate>Mon, 29 Apr 2024 08:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>长宽比问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfse35/aspect_ratio_problems/</link>
-      <description><![CDATA[所以我最近下载了一些使用 ARRI、APPLE PRORES 4444XQ 以 24fps 拍摄的新素材。原始材质的分辨率为 4480 x 3096，因此它是一个“正方形”。长宽比。 我们希望在 AVID 中的 2:1 时间轴上使用这些文件。我们如何将其转换以消除这种挤压效应？ 谢谢！   由   提交/u/tomolade_HUN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfse35/aspect_ratio_problems/</guid>
-      <pubDate>Mon, 29 Apr 2024 06:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体作曲家和信用卡到期</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</link>
-      <description><![CDATA[早在 2021/2022 年，我就设法获得了 MC 的永久许可证，我知道 Avid 从那以后就不再将 MC 作为除订阅。我的卡即将到期，我想知道如果我不在 Avid 帐户上更换它，是否会失去我的永久许可证？他们向我发送了一封电子邮件作为警告，但我不想给我一张新卡，因为我不打算购买其他任何东西或意外地因他们的新订阅模式而被收取费用。由于永久许可证不存在，不确定下一步应该做什么。谢谢！   由   提交 /u/SnakeuChan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</guid>
-      <pubDate>Mon, 29 Apr 2024 04:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blackmagic braw 在 Premiere Pro 中不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfkhxu/blackmagic_braw_not_working_in_premiere_pro/</link>
-      <description><![CDATA[我已经多次尝试直接从他们的网站卸载并重新安装 blackmagic raw 插件，但仍然无法将我的素材放入 Premiere Pro我也无法继续我正在进行的其他编辑。有我需要的特定版本吗？有什么提示/建议可以快速修复它吗？  更新：谢谢大家的提示和建议。由于无法恢复剪辑，我们安排了重拍并将再次拍摄它们   由   提交 /u/Horror-Table-5753   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfkhxu/blackmagic_braw_not_working_in_premiere_pro/</guid>
-      <pubDate>Sun, 28 Apr 2024 23:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好书（非指南）可以让您成为更好的编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfia8o/what_are_some_great_books_not_guides_that_can/</link>
-      <description><![CDATA[我已经这样做很多年了，但我从来没有读过一本真正的书可以让我成为一个更好的编辑，所以我想知道就是这样。   由   提交/u/ghilliedUpStan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfia8o/what_are_some_great_books_not_guides_that_can/</guid>
-      <pubDate>Sun, 28 Apr 2024 21:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何真正匿名/伪装声音？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfesk3/how_to_actually_anonymizedisguise_a_voice/</link>
-      <description><![CDATA[我目前正在编辑一个需要多人完全匿名的大型项目。  互联网上绝对充满了垃圾，从“如何制作抖音语音”到到“你只需调高音调即可”。 某人不可能将声音逆向工程回原来的样子。  查看此示例。非常干净，但无法逆转。这正是我所需要的。 我需要使用 VST 吗？插件？ 这里一定有一些我忽略的东西。不可能这么难。  ​ 谢谢大家。  ​   由   提交 /u/Railionn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfesk3/how_to_actually_anonymizedisguise_a_voice/</guid>
-      <pubDate>Sun, 28 Apr 2024 19:30:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
