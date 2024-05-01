@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 01 May 2024 03:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:25:26 GMT</lastBuildDate>
     <item>
       <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>付费，需要帮助向负载较重的服务器发送请求</title>
+      <title>已付费，需要帮助向负载较重的服务器发送请求</title>
       <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
       <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 29 Apr 2024 05:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</link>
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  或者是否有更简单的方法或许可以用更少的步骤来实现自动化？   由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</guid>
