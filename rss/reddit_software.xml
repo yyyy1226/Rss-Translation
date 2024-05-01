@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 May 2024 15:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:24:54 GMT</lastBuildDate>
+    <item>
+      <title>良好的日历和联系人同步软件，适用于 Outlook 2010 桌面到 Gmail Google 日历</title>
+      <link>https://www.reddit.com/r/software/comments/1chrw2v/good_calendar_and_contact_sync_software_for/</link>
+      <description><![CDATA[有什么好的日历和联系人同步软件可以将 Outlook 2010 同步到 Google 日历？ CompanionLink 停止为我工作，但没有出现“重复发生”问题;来自我的 Outlook 的项目。 TIA（从 /Outlook 交叉发布）   由   提交 /u/Jayhitek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1chrw2v/good_calendar_and_contact_sync_software_for/</guid>
+      <pubDate>Wed, 01 May 2024 17:27:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动音量控制应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1chrglj/automatic_volume_control_app/</link>
+      <description><![CDATA[Windows 10 上有自动控制音量的应用程序吗？ 上下文，我使用 HDMI 来放一些卡通片对于一些孩子来说。问题是，我总是必须控制音量。每当有动作场景时，它都会变得非常响亮，当它回到谈话时，音量太低。 是否有一个应用程序可以将其设置为不高于分贝。就像，当声音变得非常响时，它会自动变低，反之亦然。我不知道这是否可以在不需要特殊硬件的情况下...如果可以，请帮忙。肯定会有帮助。谢谢    由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1chrglj/automatic_volume_control_app/</guid>
+      <pubDate>Wed, 01 May 2024 17:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想从特定的 Google 搜索下载所有图像，然后删除重复图像</title>
+      <link>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</link>
+      <description><![CDATA[正如标题所说。我正计划归档一些东西，我想要下载整个谷歌图像搜索，并删除重复的图像。我需要一些可以做到这一点的软件。  在 Windows 上    由   提交 /u/robinivy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</guid>
+      <pubDate>Wed, 01 May 2024 16:45:29 GMT</pubDate>
+    </item>
     <item>
       <title>是否有有效的人工智能翻译工具（付费或免费）可供我用来转录实时视频或流媒体录音？</title>
       <link>https://www.reddit.com/r/software/comments/1chlcb7/is_there_an_effective_ai_translation_tool_paid_or/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>通过上下文菜单（右键单击）向任何人发送或接收大文件，无需后台程序。</title>
       <link>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</link>
-      <description><![CDATA[我刚刚制作了一个简单、轻量级的软件，它使传输文件看起来像是 Windows 中的本机功能，就像使用“将文件从手机共享到另一个手机”一样。 AirDrop”或“QuickShare”  后台没有运行程序，也没有CPU占用，它是一个基于命令的软件，使用内置的Powershell  https://preview.redd.it/zuo05tk11qxc1.png?width=311&amp;format=png&amp;auto=webp&amp; amp;s= 04c3920b293b89e37fc81033e215767e271ef1ad ​ 只需右键单击任何文件&gt; 上传，立即上传。或者点击&gt;中任意您想要下载的路径。 下载&gt;输入密码 https://preview.redd.it/v76gf7331qxc1.png?width=1116&amp;format=png&amp;auto=webp&amp;s=1072388fc9113ae58b8355e9ce0b113 1d300b4ab ​&lt; /p&gt; 快速指南（更多信息请访问 GitHub）：打开iMShare.exe，它将完成其上的所有设置自己的，然后按“CTRL+R”并关闭弹出窗口以激活它，就完成了。  下载 此处 或者来自 GitHub：https://github.com/iMAboud/iMShare  让我了解您的想法和建议。 😊   由   提交/u/imaboud  [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚制作了一个简单、轻量级的软件，它使文件传输看起来像 Windows 中的原生功能，就像使用&quot;AirDrop&quot;或&quot;QuickShare&quot;从一部手机向另一部手机共享文件一样。  没有在后台运行的程序，或 CPU 使用率，它是一个基于命令的软件，使用内置的 Powershell  https://preview.redd.it/zuo05tk11qxc1.png?width=311&amp;format=png&amp;auto=webp&amp;s=04c3920b293b89e37fc81033e215767e271ef1ad ​ 只需右键单击任何文件 &gt; 上传，它将立即上传。 或者单击您希望下载文件的任何路径 &gt; 下载 &gt; 输入密码  https://preview.redd.it/v76gf7331qxc1.png?width=1116&amp;format=png&amp;auto=webp&amp;s=1072388fc9113ae58b8355e9ce0b1131d300b4ab ​ 快速指南（有关更多信息，请访问 GitHub）：打开iMShare.exe，它将自行完成所有设置，然后按“CTRL+R”并关闭弹出窗口以激活它，您就完成了。  从这里 或者从 GitHub 下载：https://github.com/iMAboud/iMShare  并让我知道您的想法和建议。😊    提交人    /u/imaboud   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</guid>
       <pubDate>Wed, 01 May 2024 02:05:08 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>寻找重命名/编辑aax文件的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cgz6wa/looking_for_software_to_renameedit_aax_files/</link>
-      <description><![CDATA[不知道这是否是要问的正确领域。 重命名包装的 AAX 文件？ 因此，我使用 Pro Tools，并使用了一个名为 TransVST 的程序，该程序会将 vst 插件包装到 aax 中。现在，当加载新的包装插件时，它们会在名称末尾加载 [Transvst]，我尝试看看是否可以从插件名称中删除 [Transvst]？ 我的第一个想法是导航到存储 aax 文件的位置，然后导航到有问题的插件，当我尝试这样做时，令我惊讶的是，在 pro tools 中名称中显示 [Transvst] 的插件名称中没有任何内容？检查文件的属性我也没有看到任何东西？ 肯定计算机上的某个地方正在读取将 [Transvst] 添加到插件名称的内容？ 如果有人有任何程序建议或想法，可以尝试在哪里查找？或者任何一般的东西。    提交人    /u/Worth-Friendship-714   [链接] [评论]]]></description>
+      <description><![CDATA[不知道这是否是提问的正确区域。 重命名打包的 AAX 文件？ 所以我使用 Pro Tools，我使用了一个名为 TransVST 的程序，它将 vst 插件包装到 aax 中。现在，当新的包装插件加载时，它们会在名称末尾加载 [Transvst]，我尝试看看是否可以从插件名称中删除 [Transvst]？ 我的第一个我的想法是导航到我的 aax 文件存储的位置，然后导航到有问题的插件，当我尝试此操作时，令我惊讶的是，专业工具内部名称中显示 [Transvst] 的插件名称中没有任何内容？检查文件的属性，我也没有看到任何内容？ 计算机上肯定有某个地方正在读取将 [Transvst] 添加到插件名称的内容？ 如果有人有任何程序建议或想法可以尝试在哪里查看吗？或者一般的任何东西。   由   提交/u/Worth-Friendship-714   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgz6wa/looking_for_software_to_renameedit_aax_files/</guid>
       <pubDate>Tue, 30 Apr 2024 17:57:05 GMT</pubDate>
     </item>
@@ -76,39 +97,18 @@
       <pubDate>Tue, 30 Apr 2024 11:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>Dokploy/dokploy：Vercel、Netlify 和 Heroku 的开源替代方案</title>
+      <title>Dokploy/dokploy：Vercel、Netlify 和 Heroku 的开源替代品</title>
       <link>https://www.reddit.com/r/software/comments/1cgpy83/dokploydokploy_open_source_alternative_to_vercel/</link>
       <description><![CDATA[ 由   提交/u/High_Sleep3694   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgpy83/dokploydokploy_open_source_alternative_to_vercel/</guid>
       <pubDate>Tue, 30 Apr 2024 10:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找可以将游戏链接到的宏记录器。</title>
+      <title>正在寻找可以链接游戏的宏记录器。</title>
       <link>https://www.reddit.com/r/software/comments/1cgou2q/looking_for_a_macro_recorder_that_i_can_link/</link>
       <description><![CDATA[我正在寻找与 gmmk 1 键盘配合使用的宏应用程序。我想为 Helldivers 创建宏，所以我只希望这个宏在游戏打开时起作用。有这样的应用程序吗？或者还有其他可行的替代方案吗？  提前致谢   由   提交 /u/Prismic_Pickle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgou2q/looking_for_a_macro_recorder_that_i_can_link/</guid>
       <pubDate>Tue, 30 Apr 2024 09:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 GIF 工具</title>
-      <link>https://www.reddit.com/r/software/comments/1cgoqr8/looking_for_gif_tool/</link>
-      <description><![CDATA[大家好，我正在寻找一个批量转换多个GIF动画的工具，我有5-8个GIF需要转换成多种分辨率和文件大小，我已经搜索了一下，但只能找到基本的视频到 GIF 在线转换工具有人知道可以做到这一点的程序吗？最好不需要像 FFMPEG 这样的编码，我知道这可能会完成这项工作，但我缺乏学习的技能和时间   由   提交/u/ap0kalyps3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgoqr8/looking_for_gif_tool/</guid>
-      <pubDate>Tue, 30 Apr 2024 09:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>可视化产品公司间关系的程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</link>
-      <description><![CDATA[所以我从事销售工作。  我意识到，如果我能列出极其具体的其他公司作为参考，我可以与客户进行完全不同的对话。  要做到这一点，我必须找到一个数据库/BI 工具，可以记录公司生产什么产品、他们的供应商是谁、他们的产品卖给谁、推动同一行业内公司的利益相关者。  这些公司都互相认识。向客户列出 3 个供应商、他们的 4 个客户和他们的 2 个竞争对手也是客户，您将立即获得他们的信任。  我对数据库有非常基本的了解。我相信这将有很多非常小的桌子。增加查询运行时间。  D365 中有大量数据，但所有详细信息都必须手动输入。    由   提交/u/NoShirt158  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgmcob/program_to_visualize_intercompany_relations_for/</guid>
-      <pubDate>Tue, 30 Apr 2024 06:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要软件（最好是免费软件）来知道我的互联网何时恢复</title>
-      <link>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</link>
-      <description><![CDATA[昨天我们遭遇了巨大的雷暴，我们一整天都没有互联网，但是当它回来时，除了手动检查，因为我离开电脑太久没有任何信号，所以从它回来到我检查过了大约 4 个小时 是否有软件或免费软件可以让当我的互联网恢复时，我会收到警报吗？   由   提交/u/thejuanwelove  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</guid>
-      <pubDate>Tue, 30 Apr 2024 05:09:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
