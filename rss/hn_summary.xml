@@ -1,93 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 01:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 03:15:05 GMT</lastBuildDate>
     <item>
-      <title>Aboriginal Linux 是一个极简构建系统，可为各种 [...]</title>
-      <link>https://t.me/hn_summary/87301</link>
-      <description><![CDATA[原住民Linux
-Aboriginal Linux 是一个极简的构建系统，可以为各种架构创建可启动的系统映像，从而无需进行大量的交叉编译即可实现跨平台支持。它自动化回归测试，提供自托管开发环境，并强调使用当前的普通软件包以避免兼容性问题。该项目正在转向使用 toybox、musl 和 llvm 来简化开发环境并减少对 GPL 软件的依赖。最终目标是只有四个软件包：linux、toybox、musl 和 qcc。这种转变是由 uClibc 的长期开发问题和避免 GPLv3 的愿望推动的。 （根据 42% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87301</guid>
-      <pubDate>Wed, 01 May 2024 01:18:45 GMT</pubDate>
+      <title>[媒体] IPv6rs 的 Cloud Seeder 是一个一键式服务器设备向导，旨在使自助 [...]</title>
+      <link>https://t.me/hn_summary/87314</link>
+      <description><![CDATA[显示 HN：Cloud Seeder - 单击您的主页即可自行托管PC-Golang
+IPv6rs 的 Cloud Seeder 是一个一键式服务器设备向导，旨在让每个人都可以访问自托管。它通过将胖容器部署为独立的服务器设备来简化设置过程，从而脱颖而出。该项目解决了那些发现自托管太困难或缺乏 IP 地址的人所面临的挑战。 Cloud Seeder 支持各种服务器设备和架构，提供简单的图形用户界面以方便设置。它使用 GoLang 和 Fyne 构建，提供跨平台兼容性并依赖于 Podman。该项目强调透明度、安全性以及容器技术相对于传统虚拟机的优势。]]></description>
+      <guid>https://t.me/hn_summary/87314</guid>
+      <pubDate>Wed, 01 May 2024 03:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：2008 年之前的 4chan 档案？</title>
-      <link>https://t.me/hn_summary/87300</link>
-      <description><![CDATA[询问 HN：2008 年之前的 4chan 档案？&lt; br /&gt;
-大家好，我一直在深入研究 4chan 的历史，并且正在寻找 2008 年之前的档案。我很好奇这个平台多年来是如何发展的，以及早期是否有任何隐藏的瑰宝。任何线索或资源将不胜感激。让我们一起揭开4chan的秘密吧！]]></description>
-      <guid>https://t.me/hn_summary/87300</guid>
-      <pubDate>Wed, 01 May 2024 01:11:39 GMT</pubDate>
+      <title>[媒体]Google 图表中的桑基图是一个强大的可视化工具，用于显示流 [...]</title>
+      <link>https://t.me/hn_summary/87313</link>
+      <description><![CDATA[Google 图表中的桑基图
+Google 图表中的桑基图是一个强大的可视化工具，用于显示不同值之间的流动。这些图表以创建蒸汽机效率图的桑基船长的名字命名，使用节点和链接来表示连接。 Google Charts 允许用户轻松创建这些图表，并能够自定义节点和链接的颜色。该网站提供了用于创建简单和多级桑基图的示例和代码片段。然而，存在争议，因为该图表可能会在未来版本中进行修订，并且它们在旧版本的 Internet Explorer 中不可用。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87313</guid>
+      <pubDate>Wed, 01 May 2024 03:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么人工智能不想让我看到耶稣为门徒洗脚？</title>
-      <link>https://t.me/hn_summary/87299</link>
-      <description><![CDATA[为什么人工智能不想向我展示耶稣洗脚的场景他的门徒？
-令笔者感到困惑的是，人工智能图像生成器似乎很难创建耶稣为门徒洗脚的图像，这是基督教艺术和神话中常见且重要的场景。尽管有大量关于这一事件的历史艺术表现，但人工智能结果始终显示耶稣洗脚而不是洗衣服。作者推测了造成这种情况的可能原因，包括人工智能的参数可能避免将耶稣描绘成屈从的位置。作者还质疑他们是否对人工智能要求过高。]]></description>
-      <guid>https://t.me/hn_summary/87299</guid>
-      <pubDate>Wed, 01 May 2024 01:09:35 GMT</pubDate>
+      <title>[媒体]电网面临着需求波动的挑战，通常是通过燃烧燃料来解决 [...]</title>
+      <link>https://t.me/hn_summary/87312</link>
+      <description><![CDATA[虚拟发电厂和软件
+电网面临着需求波动的挑战，通常通过在峰值电厂燃烧化石燃料来应对。虚拟发电厂 (VPP) 聚合分布式能源资源 (DER)，如太阳能电池板和电池，以减少高峰负荷期间对肮脏燃料的依赖。VPP 使用软件来控制和管理 DER，为电网和客户提供服务。特斯拉和 Lunar Gridshare 使用复杂的软件堆栈为其 VPP 供电。然而，该行业缺乏通信协议和预测工具的标准化。通过解决这些问题并实现虚拟升级的市场竞标，VPP 可以在未来的能源格局中发挥关键作用。]]></description>
+      <guid>https://t.me/hn_summary/87312</guid>
+      <pubDate>Wed, 01 May 2024 03:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新的国家预算包括禁止[...]使用面部识别技术</title>
-      <link>https://t.me/hn_summary/87298</link>
-      <description><![CDATA[禁止 MTA 使用面部识别来强制逃票 
-新的州预算包括禁止 MTA 使用面部识别技术进行票价执法，此举受到隐私倡导者和优秀政府团体的赞扬。州议员佐兰·马姆达尼 (Zohran Mamdani) 强调了对隐私侵犯和边缘化社区定罪的担忧。尽管纽约警察局多年来一直使用面部识别技术，但新法律引发了人们对其在 MTA 监控录像中使用面部识别技术的质疑。批评者认为，该禁令力度还不够，并呼吁政府机构全面禁止生物识别监控。该措施表明人们对纽约执法部门使用面部识别技术的怀疑日益增加。]]></description>
-      <guid>https://t.me/hn_summary/87298</guid>
-      <pubDate>Wed, 01 May 2024 01:07:31 GMT</pubDate>
+      <title>[媒体] 德克萨斯州一家奶牛场的一半以上的猫因饮用了鸟粪生奶而死亡 [...]</title>
+      <link>https://t.me/hn_summary/87311</link>
+      <description><![CDATA[超过一半的猫因饮用禽流感生奶而死亡-受感染的奶牛
+德克萨斯州一家奶牛场的一半以上的猫在饮用感染禽流感的奶牛的生奶后死亡，凸显了该病毒对养牛业的影响。疾病预防控制中心报告称，猫体内的病毒水平很高，出现严重的全身感染。虽然牛大多已康复，但猫很容易感染 H5N1。 FDA 在五分之一的牛奶样本中发现了 H5N1，但确信巴氏灭菌可以杀死该病毒。 CDC 为兽医提供的新指南此前曾将猫与 H5N1 病毒联系起来。奶牛场爆发疫情后，当局正在对碎牛肉进行 H5N1 病毒检测，结果尚未确定。正在密切监测该病毒对奶牛群的影响。]]></description>
+      <guid>https://t.me/hn_summary/87311</guid>
+      <pubDate>Wed, 01 May 2024 03:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>StoryDiffusion 是一种利用 consis 生成远程图像和视频的新方法 [...]</title>
-      <link>https://t.me/hn_summary/87297</link>
-      <description><![CDATA[StoryDiffusion：长距离图像和视频生成的一致自注意力
-StoryDiffusion 是一种利用一致的自注意力生成远程图像和视频的新方法。该方法由南开大学和字节跳动公司的研究团队开发，旨在提高生成内容的质量和连贯性。 StoryDiffusion 的与众不同之处在于它创新地使用自我关注机制来保持视频或图像中不同帧的一致性。这项技术有可能彻底改变图像和视频生成领域，为创建逼真且连贯的视觉内容的挑战提供有前景的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/87297</guid>
-      <pubDate>Wed, 01 May 2024 00:41:21 GMT</pubDate>
+      <title>[媒体] 在本研究中，我们讨论了为培训建立大型日语网络语料库的过程[...]</title>
+      <link>https://t.me/hn_summary/87310</link>
+      <description><![CDATA[为大型语言模型构建大型日语网络语料库 
+在本研究中，我们讨论了构建大型日语网络语料库以训练大型语言模型的过程。我们从各个网站和社交媒体平台收集数据，以创建多样化且全面的数据集。我们的语料库包含广泛的主题和写作风格，以确保语言模型在各种应用中的有效性。我们的语料库的规模和质量使其成为从事日语自然语言处理任务的研究人员和开发人员的宝贵资源。该项目强调了数据收集和预处理在构建强大的语言模型中的重要性。]]></description>
+      <guid>https://t.me/hn_summary/87310</guid>
+      <pubDate>Wed, 01 May 2024 03:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧洲警察局长发表联合声明，谴责 [...]</title>
-      <link>https://t.me/hn_summary/87296</link>
-      <description><![CDATA[欧洲警察局长谴责端到端加密 [pdf]( https://news.ycombinator.com/item?id=40212736)
-欧洲警察局长发布了一份联合声明，谴责端到端加密的推出，称这将削弱他们保护公众、尤其是儿童安全的能力。他们强调科技公司能够向执法部门提供数据并主动识别其平台上的非法活动的重要性。酋长们认为，网络安全和公共安全之间不应该有二元选择，并呼吁行业和政府灵活地寻找技术解决方案。他们敦促技术行业建立安全措施，并敦促政府提供框架来支持打击网络犯罪的执法工作。]]></description>
-      <guid>https://t.me/hn_summary/87296</guid>
-      <pubDate>Wed, 01 May 2024 00:36:17 GMT</pubDate>
+      <title>看看这个在技术社区掀起波澜的新开源图像抠图应用程序。</title>
+      <link>https://t.me/hn_summary/87309</link>
+      <description><![CDATA[显示 HN：开源图像抠图应用&lt; br /&gt;
+看看这个在技术社区掀起波澜的新开源图像抠图应用程序。凭借跨平台兼容性和完全本地运行的能力，该工具非常适合那些希望在不依赖云服务的情况下轻松编辑图像的人。该应用程序的独特之处在于它支持多种人工智能模型，为用户提供了一系列选项来实现完美的图像抠图结果。请访问该网站亲自尝试一下，看看这个创新工具的强大功能。]]></description>
+      <guid>https://t.me/hn_summary/87309</guid>
+      <pubDate>Wed, 01 May 2024 03:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：我为企业家制作了一款问责应用程序</title>
-      <link>https://t.me/hn_summary/87295</link>
-      <description><![CDATA[向 HN 展示：我为企业家制作了一款问责应用程序
-标题：向 HN 展示：我为企业家制作了一款问责应用程序
-
-在 Venture Pals，我们创建了一款专为企业家设计的创新问责应用程序。我们的应用程序可帮助您实现目标、跟踪进度并对自己的行为负责。凭借目标设定、进度跟踪和提醒等功能，我们的应用程序对于希望保持专注和积极性的忙碌企业家来说是一个改变游戏规则的工具。立即试用，将您的生产力提升到一个新的水平！]]></description>
-      <guid>https://t.me/hn_summary/87295</guid>
-      <pubDate>Wed, 01 May 2024 00:28:10 GMT</pubDate>
+      <title>LANANA 是 Linux 命名空间分配的权威机构，确保更好的互操作性 [...]</title>
+      <link>https://t.me/hn_summary/87308</link>
+      <description><![CDATA[Linux 名称和号码分配机构
+LANANA 是 Linux 命名空间分配的权威机构，可确保驱动程序和应用程序更好的互操作性和可用性。 LANANA 由 Jeff Licquia 维护，旨在通过用户友好的注册服务防止命名空间冲突。虽然已发布的作业可在网站上找到，但可能还有其他作业尚未公开。这项独特的服务对于 Linux 社区的蓬勃发展至关重要。]]></description>
+      <guid>https://t.me/hn_summary/87308</guid>
+      <pubDate>Wed, 01 May 2024 02:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>介绍 EasyP&L，一种可轻松跟踪项目收入和支出的简单工具，提供 [...]</title>
-      <link>https://t.me/hn_summary/87294</link>
-      <description><![CDATA[显示 HN：我制作了一个简单的工具来获取损益表和项目估价
-隆重推出 EasyP&amp;L，这是一款简单的工具，可轻松跟踪您的项目的收入和支出，让您清楚地了解您的盈利能力和潜在需缴纳的税款。告别会计难题，迎接干净、易于管理的损益表。使用 EasyP&amp;L，您可以监控您的实际利润、编辑交易，甚至接收可打印的文档。其独特之处在于定价模式，在 2024 年 7 月之前为早期采用者提供 3.99 美元的一次性付款。未来的更新包括 AI 自动分类交易以及与 Stripe 和银行账户的集成。不要错过这个适合您的业余项目的经济实惠且高效的工具。]]></description>
-      <guid>https://t.me/hn_summary/87294</guid>
-      <pubDate>Wed, 01 May 2024 00:27:07 GMT</pubDate>
+      <title>[媒体]苹果将推出 Safari 18 以及新操作系统，其中包含人工智能工具 [...]</title>
+      <link>https://t.me/hn_summary/87307</link>
+      <description><![CDATA[Apple 将与新操作系统一起推出支持人工智能的 Safari
+苹果将​​与新操作系统一起推出 Safari 18，其中包括智能搜索和网页橡皮擦等人工智能工具。新的 Safari 菜单将整合控件以方便访问，统一 iPadOS 和 macOS UI 范例。此外，Apple 正在为 2025 年开发强大的视觉搜索功能。这些增强功能使 Safari 能够在人工智能领域与竞争对手抗衡。虽然这些功能正在测试中，但并非所有功能都能发布。苹果对人工智能的关注显而易见，更多功能预计将在 6 月 10 日的 WWDC 上随 iOS 18 和 macOS 15 一起亮相。]]></description>
+      <guid>https://t.me/hn_summary/87307</guid>
+      <pubDate>Wed, 01 May 2024 02:38:30 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台 [...]</title>
-      <link>https://t.me/hn_summary/87293</link>
-      <description><![CDATA[Show HN：我为前端面试做了一个 Leetcode 风格的平台&lt; /a&gt;
-隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台-结束采访。该平台由来自领先科技公司的经验丰富的前端工程师创建，为有抱负的开发人员提供了练习和准备前端面试的独特机会。通过关注现实世界的场景和挑战，用户可以提高自己的技能，并从那些成功完成类似面试的人那里获得宝贵的见解。不要错过这个创新工具，它可以帮助您在下一次前端面试中取得好成绩。]]></description>
-      <guid>https://t.me/hn_summary/87293</guid>
-      <pubDate>Wed, 01 May 2024 00:26:03 GMT</pubDate>
+      <title>[媒体] 该项目是使用 Bash 脚本创建的简单留言板和显示系统 [...]</title>
+      <link>https://t.me/hn_summary/87306</link>
+      <description><![CDATA[显示 HN：让人想起早期互联网的留言板（我认为） 
+该项目是一个使用 Bash 脚本和 Docker 容器创建的简单消息板和显示系统。它包括消息服务器脚本、Web 服务器脚本和备份脚本。用户可以向服务器发送消息并通过 Web 界面查看它们。该项目允许自定义端口、文件路径、页眉和页脚文本。还执行消息的每日备份。该项目旨在重现早期互联网留言板的感觉，并通过使用 Bash 脚本和 Docker 容器来轻松设置和管理，从而使自己与众不同。]]></description>
+      <guid>https://t.me/hn_summary/87306</guid>
+      <pubDate>Wed, 01 May 2024 02:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序架构</title>
-      <link>https://t.me/hn_summary/87292</link>
-      <description><![CDATA[展示 HN：Wasp Studio – 可视化您的 React/Node Web 应用程序架构
-标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序的架构
-
-Wasp Studio 是一款革命性工具，可可视化全栈应用程序的架构，使其更易于理解和管理。 Wasp 在 GitHub 上拥有超过 10,000 颗星，是一个强大的框架，可以简化身份验证、cron 作业和路由等任务，让您能够专注于有趣的事情。可视化工具功能提供了应用程序的全面概述，使开发变得轻而易举。未来，Wasp Studio 有潜力与 AI 和大型语言模型协作进行代码生成，为 Web 开发开辟无限可能。使用 Wasp Studio 探索 Web 开发的未来并释放其全部潜力。]]></description>
-      <guid>https://t.me/hn_summary/87292</guid>
-      <pubDate>Wed, 01 May 2024 00:24:59 GMT</pubDate>
+      <title>澳航乘客对该航空公司应用程序的数据泄露感到震惊，该泄露允许他们访问 [...]</title>
+      <link>https://t.me/hn_summary/87305</link>
+      <description><![CDATA[澳洲航空应用程序数据泄露允许客户访问陌生人的预订详细信息
+澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问陌生人的预订详细信息。用户报告说看到了不正确的帐户信息，包括未知人员的登机牌和积分。该漏洞甚至允许用户以其他人的名义更换座位、取消航班或预订新航班。一些客户对其个人信息的安全表示担忧。澳洲航空正在调查该问题，并建议客户注销并重新登录其帐户。该航空公司对由此造成的任何不便表示歉意，并警告乘客在此期间警惕社交媒体诈骗。]]></description>
+      <guid>https://t.me/hn_summary/87305</guid>
+      <pubDate>Wed, 01 May 2024 02:23:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
