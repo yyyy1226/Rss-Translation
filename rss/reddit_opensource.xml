@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 12:36:47 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Wed, 01 May 2024 15:20:03 GMT</lastBuildDate>
+    <item>
+      <title>Twitter(X) 开源使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</link>
+      <description><![CDATA[   大家好， 我正在构建一个类似于 Twitter (X) 的平台，但是针对非常不同的目标受众。 我可以在我的项目中使用 Twitter 的源代码吗？ 还有其他我可以使用的开源项目吗？ 谢谢   由   提交 /u/autopilotwing   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</guid>
+      <pubDate>Wed, 01 May 2024 14:16:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有支持滑动打字的开源键盘？ Florisboard 是我所知道的唯一一个，而且已经有一段时间没有更新了。   由   提交 /u/Steroid_Cyborg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</guid>
       <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>对开源的威胁来自公司操纵</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
