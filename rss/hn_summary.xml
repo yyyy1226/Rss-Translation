@@ -4,86 +4,90 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 01:18:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 正在寻找价格实惠的微控制器？</title>
-      <link>https://t.me/hn_summary/87269</link>
-      <description><![CDATA[1 美元的微控制器（廉价微控制器的比较）&lt; br /&gt;
-正在寻找价格实惠的微控制器？我们的新系列“令人惊叹的 1 美元微控制器”就是您的最佳选择。我们比较了 21 种不同的微控制器，所有价格均低于 1 美元，以便您全面了解可用的主要生态系统。从 Arduino 到 ESP8266，我们都能满足您的需求。探索这些经济实惠的选项的惊人功能，并找到最适合您的项目的选项。当您可以使用这些经济实惠的替代方案取得出色的结果时，不要花太多钱购买昂贵的微控制器。今天就与我们一起探索廉价微控制器的世界！]]></description>
-      <guid>https://t.me/hn_summary/87269</guid>
-      <pubDate>Tue, 30 Apr 2024 21:15:51 GMT</pubDate>
+      <title>Aboriginal Linux 是一个极简构建系统，可为各种 [...]</title>
+      <link>https://t.me/hn_summary/87301</link>
+      <description><![CDATA[原住民Linux
+Aboriginal Linux 是一个极简的构建系统，可以为各种架构创建可启动的系统映像，从而无需进行大量的交叉编译即可实现跨平台支持。它自动化回归测试，提供自托管开发环境，并强调使用当前的普通软件包以避免兼容性问题。该项目正在转向使用 toybox、musl 和 llvm 来简化开发环境并减少对 GPL 软件的依赖。最终目标是只有四个软件包：linux、toybox、musl 和 qcc。这种转变是由 uClibc 的长期开发问题和避免 GPLv3 的愿望推动的。 （根据 42% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87301</guid>
+      <pubDate>Wed, 01 May 2024 01:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]联邦贸易委员会正在通过挑战“jun [...]</title>
-      <link>https://t.me/hn_summary/87268</link>
-      <description><![CDATA[FTC 对包括诺和诺德在内的 10 家制药商持有的“垃圾”专利提出质疑臭氧
-联邦贸易委员会正在通过挑战“垃圾”专利来对付制药公司，其中包括诺和诺德公司为 Ozempic 等药物持有的专利。这些专利阻碍了竞争并推高了药品价格，特别是治疗 2 型糖尿病和哮喘等药物的价格。联邦贸易委员会的行动是拜登政府为让美国人更负担得起医疗保健而做出的更广泛努力的一部分。对涉嫌专利滥用的打击是拜登总统 2024 年连任竞选的重点。联邦贸易委员会对这些专利的挑战旨在确保所有美国人及时获得创新且负担得起的药物。]]></description>
-      <guid>https://t.me/hn_summary/87268</guid>
-      <pubDate>Tue, 30 Apr 2024 21:12:46 GMT</pubDate>
+      <title>问 HN：2008 年之前的 4chan 档案？</title>
+      <link>https://t.me/hn_summary/87300</link>
+      <description><![CDATA[询问 HN：2008 年之前的 4chan 档案？&lt; br /&gt;
+大家好，我一直在深入研究 4chan 的历史，并且正在寻找 2008 年之前的档案。我很好奇这个平台多年来是如何发展的，以及早期是否有任何隐藏的瑰宝。任何线索或资源将不胜感激。让我们一起揭开4chan的秘密吧！]]></description>
+      <guid>https://t.me/hn_summary/87300</guid>
+      <pubDate>Wed, 01 May 2024 01:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]恶意 Python 代码获得执行是软件开发人员环境中的严重威胁 [...]</title>
-      <link>https://t.me/hn_summary/87267</link>
-      <description><![CDATA[恶意Python代码获得执行
-获得执行的恶意 Python 代码是软件开发人员环境中的严重威胁，攻击者瞄准开源软件依赖项以实现任意代码执行。威胁行为者使用各种方法来利用漏洞，包括运行加密货币挖矿程序、窃取机密或加密数据以获取赎金。 Phylum 提供了一个检测、报告和阻止恶意包的解决方案，提供了 GitHub、GitLab、Azure Pipelines 和 Bitbucket Pipelines 的集成。通过使用锁定文件、监视依赖关系并防止任意代码执行，开发人员可以保护其环境免受这些攻击。 Phylum 的社区版可用于自动化软件供应链安全并确保使用可信的开源代码。]]></description>
-      <guid>https://t.me/hn_summary/87267</guid>
-      <pubDate>Tue, 30 Apr 2024 21:06:39 GMT</pubDate>
+      <title>[媒体]为什么人工智能不想让我看到耶稣为门徒洗脚？</title>
+      <link>https://t.me/hn_summary/87299</link>
+      <description><![CDATA[为什么人工智能不想向我展示耶稣洗脚的场景他的门徒？
+令笔者感到困惑的是，人工智能图像生成器似乎很难创建耶稣为门徒洗脚的图像，这是基督教艺术和神话中常见且重要的场景。尽管有大量关于这一事件的历史艺术表现，但人工智能结果始终显示耶稣洗脚而不是洗衣服。作者推测了造成这种情况的可能原因，包括人工智能的参数可能避免将耶稣描绘成屈从的位置。作者还质疑他们是否对人工智能要求过高。]]></description>
+      <guid>https://t.me/hn_summary/87299</guid>
+      <pubDate>Wed, 01 May 2024 01:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Svelte 5 现在处于候选发布阶段，这表明该框架的设计 [...]</title>
-      <link>https://t.me/hn_summary/87266</link>
-      <description><![CDATA[Svelte 5 候选版本 (RC)
-Svelte 5 现在处于候选发布阶段，这表明该框架的设计已基本确定，没有重大错误。虽然尚未准备好投入生产，但现在是尝试的好时机。新功能包括用于反应性的符文、改进的事件处理、组件片段和本机 TypeScript 支持。 Svelte 4 中的组件将与 Svelte 5 一起使用，只有少数例外。最终，对 Svelte 4 功能的支持将被逐步取消。稳定版本的发布日期尚不确定，但将根据需要进行更新。请继续关注 Svelte 团队的更多更新和改进。]]></description>
-      <guid>https://t.me/hn_summary/87266</guid>
-      <pubDate>Tue, 30 Apr 2024 21:05:35 GMT</pubDate>
+      <title>[媒体]新的国家预算包括禁止[...]使用面部识别技术</title>
+      <link>https://t.me/hn_summary/87298</link>
+      <description><![CDATA[禁止 MTA 使用面部识别来强制逃票 
+新的州预算包括禁止 MTA 使用面部识别技术进行票价执法，此举受到隐私倡导者和优秀政府团体的赞扬。州议员佐兰·马姆达尼 (Zohran Mamdani) 强调了对隐私侵犯和边缘化社区定罪的担忧。尽管纽约警察局多年来一直使用面部识别技术，但新法律引发了人们对其在 MTA 监控录像中使用面部识别技术的质疑。批评者认为，该禁令力度还不够，并呼吁政府机构全面禁止生物识别监控。该措施表明人们对纽约执法部门使用面部识别技术的怀疑日益增加。]]></description>
+      <guid>https://t.me/hn_summary/87298</guid>
+      <pubDate>Wed, 01 May 2024 01:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国家公路交通安全管理局已正式强制要求所有新 [...]</title>
-      <link>https://t.me/hn_summary/87265</link>
-      <description><![CDATA[所有在美国销售的汽车很快都必须能够自动避免崩溃
-美国国家公路交通安全管理局已正式规定，到 2029 年 9 月 1 日，所有在美国销售的新车必须配备自动紧急制动功能，能够避免时速 62 英里的碰撞事故。然而，某些车辆有豁免、延迟推出以及禁用该系统的不同方法。汽车制造商不确定他们是否能够实现这一激进目标，并对更高速度下的可靠性提出了担忧。新规定还提出了有关误报和幻象制动事件的问题。尽管意图良好，但这些系统的有效性仍有待观察。看看汽车制造商如何应对这一挑战将会很有趣。]]></description>
-      <guid>https://t.me/hn_summary/87265</guid>
-      <pubDate>Tue, 30 Apr 2024 21:04:31 GMT</pubDate>
+      <title>StoryDiffusion 是一种利用 consis 生成远程图像和视频的新方法 [...]</title>
+      <link>https://t.me/hn_summary/87297</link>
+      <description><![CDATA[StoryDiffusion：长距离图像和视频生成的一致自注意力
+StoryDiffusion 是一种利用一致的自注意力生成远程图像和视频的新方法。该方法由南开大学和字节跳动公司的研究团队开发，旨在提高生成内容的质量和连贯性。 StoryDiffusion 的与众不同之处在于它创新地使用自我关注机制来保持视频或图像中不同帧的一致性。这项技术有可能彻底改变图像和视频生成领域，为创建逼真且连贯的视觉内容的挑战提供有前景的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/87297</guid>
+      <pubDate>Wed, 01 May 2024 00:41:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 media.com 上这篇发人深省的文章中，作者深入探讨了 l [...]</title>
-      <link>https://t.me/hn_summary/87264</link>
-      <description><![CDATA[LLM作为n维空间中的n维对象
-在 medium.com 上这篇发人深省的文章中，作者深入探讨了语言模型的概念是 n 维空间中的 n 维对象。他们认为，语言模型，无论是基于符号的还是基于神经网络的，都可以表示为多维空间中的复杂对象。对提示的理解就像导航该对象的表面，通过微调和重新训练修改其拓扑。作者质疑仅语言模型是否足以进行认知和推理，这表明可能有必要进行更广泛的概括。这种独特的视角挑战了关于语言模型及其在人工智能中的作用的传统观点。]]></description>
-      <guid>https://t.me/hn_summary/87264</guid>
-      <pubDate>Tue, 30 Apr 2024 21:03:26 GMT</pubDate>
+      <title>[媒体]欧洲警察局长发表联合声明，谴责 [...]</title>
+      <link>https://t.me/hn_summary/87296</link>
+      <description><![CDATA[欧洲警察局长谴责端到端加密 [pdf]( https://news.ycombinator.com/item?id=40212736)
+欧洲警察局长发布了一份联合声明，谴责端到端加密的推出，称这将削弱他们保护公众、尤其是儿童安全的能力。他们强调科技公司能够向执法部门提供数据并主动识别其平台上的非法活动的重要性。酋长们认为，网络安全和公共安全之间不应该有二元选择，并呼吁行业和政府灵活地寻找技术解决方案。他们敦促技术行业建立安全措施，并敦促政府提供框架来支持打击网络犯罪的执法工作。]]></description>
+      <guid>https://t.me/hn_summary/87296</guid>
+      <pubDate>Wed, 01 May 2024 00:36:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]ASML 印刷了第一个 10nm [...]</title>
-      <link>https://t.me/hn_summary/87263</link>
-      <description><![CDATA[ASML 使用高数值孔径 EUV 工具对第一片晶圆进行图案化，出货量第二高-NA扫描仪
-ASML 使用其高数值孔径 EUV 原型系统印刷了首批 10 纳米图案，在光刻领域实现了一个重要里程碑。该公司还向一位未透露姓名的客户交付了第二套高数值孔径 EUV 系统。英特尔计划将这些工具用于自己的研发，并计划在 2026 年至 2027 年之前大规模生产采用英特尔 14A 技术的芯片。其他领先的芯片制造商也对高数值孔径 EUV 工具表现出兴趣，这些工具有望提供更精细的分辨率和更高的晶体管密度。业界正在密切关注ASML在这一尖端技术方面的进展。]]></description>
-      <guid>https://t.me/hn_summary/87263</guid>
-      <pubDate>Tue, 30 Apr 2024 21:02:20 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：我为企业家制作了一款问责应用程序</title>
+      <link>https://t.me/hn_summary/87295</link>
+      <description><![CDATA[向 HN 展示：我为企业家制作了一款问责应用程序
+标题：向 HN 展示：我为企业家制作了一款问责应用程序
+
+在 Venture Pals，我们创建了一款专为企业家设计的创新问责应用程序。我们的应用程序可帮助您实现目标、跟踪进度并对自己的行为负责。凭借目标设定、进度跟踪和提醒等功能，我们的应用程序对于希望保持专注和积极性的忙碌企业家来说是一个改变游戏规则的工具。立即试用，将您的生产力提升到一个新的水平！]]></description>
+      <guid>https://t.me/hn_summary/87295</guid>
+      <pubDate>Wed, 01 May 2024 00:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kubernetes 作为调度程序 vs.</title>
-      <link>https://t.me/hn_summary/87262</link>
-      <description><![CDATA[Kubernetes 作为调度程序与 API 代理&lt; br /&gt;
-Kubernetes 不再只是一个容器编排器；而是一个容器编排器。它现在面临管理云服务和数据库等外部资源的挑战。这种扩展带来了重大的安全挑战，需要转向零信任安全模型。传统的 RBAC 方法难以跨不同安全域映射权限，因此难以确保合规性和安全性。 Otterize 提供了一种解决方案，通过使用基于意图的访问控制 (IBAC) 自动化 IAM 策略，简化安全管理并确保持续合规性。通过将安全性视为代码并将其集成到开发生命周期中，Otterize 提供了一种可扩展且适应性强的方法来保护 Kubernetes 环境。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87262</guid>
-      <pubDate>Tue, 30 Apr 2024 21:01:15 GMT</pubDate>
+      <title>介绍 EasyP&L，一种可轻松跟踪项目收入和支出的简单工具，提供 [...]</title>
+      <link>https://t.me/hn_summary/87294</link>
+      <description><![CDATA[显示 HN：我制作了一个简单的工具来获取损益表和项目估价
+隆重推出 EasyP&amp;L，这是一款简单的工具，可轻松跟踪您的项目的收入和支出，让您清楚地了解您的盈利能力和潜在需缴纳的税款。告别会计难题，迎接干净、易于管理的损益表。使用 EasyP&amp;L，您可以监控您的实际利润、编辑交易，甚至接收可打印的文档。其独特之处在于定价模式，在 2024 年 7 月之前为早期采用者提供 3.99 美元的一次性付款。未来的更新包括 AI 自动分类交易以及与 Stripe 和银行账户的集成。不要错过这个适合您的业余项目的经济实惠且高效的工具。]]></description>
+      <guid>https://t.me/hn_summary/87294</guid>
+      <pubDate>Wed, 01 May 2024 00:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于“网络安全事件”，加拿大西部的伦敦药店仍处于关闭状态 [...]</title>
-      <link>https://t.me/hn_summary/87261</link>
-      <description><![CDATA[网络安全事件导致 London Drugs 商店继续关闭&lt; br /&gt;
-由于“网络安全事件”，加拿大西部的伦敦药店仍然关闭，没有提供重新开业的时间表。该公司正在与网络安全专家合作调查数据泄露的程度。顾客仍然可以亲自获得紧急药房护理，但电话线路已中断。该事件突显了加拿大网络犯罪日益猖獗，专家强调了积极主动的网络安全措施的重要性。网络安全专家 Jon Ferguson 认为此次泄露可能涉及勒索软件或数据泄露，并强调公司和个人需要更新软件并使用双因素身份验证来防范此类攻击。]]></description>
-      <guid>https://t.me/hn_summary/87261</guid>
-      <pubDate>Tue, 30 Apr 2024 21:00:09 GMT</pubDate>
+      <title>隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台 [...]</title>
+      <link>https://t.me/hn_summary/87293</link>
+      <description><![CDATA[Show HN：我为前端面试做了一个 Leetcode 风格的平台&lt; /a&gt;
+隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台-结束采访。该平台由来自领先科技公司的经验丰富的前端工程师创建，为有抱负的开发人员提供了练习和准备前端面试的独特机会。通过关注现实世界的场景和挑战，用户可以提高自己的技能，并从那些成功完成类似面试的人那里获得宝贵的见解。不要错过这个创新工具，它可以帮助您在下一次前端面试中取得好成绩。]]></description>
+      <guid>https://t.me/hn_summary/87293</guid>
+      <pubDate>Wed, 01 May 2024 00:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>Rama 是一个强大的编程平台，展示了 Clojure 在革命方面的功能 [...]</title>
-      <link>https://t.me/hn_summary/87260</link>
-      <description><![CDATA[Rama 证明了 Clojure 的力量&lt; br /&gt;
-Rama 是一个强大的编程平台，展示了 Clojure 彻底改变后端开发的能力。 Rama 以新的编程语言和范例为核心，用最少的代码简化了端到端后端的创建。该平台强调不变性和数据结构导向，以及无缝混合范例的能力，使其与众不同。 Rama 与 Clojure 的集成可实现平滑的互操作性和高效的执行。虽然 Clojure 的原则已被证明可以简化软件开发，但 Rama 更进一步，解决了构建端到端后端的所有方面问题，使其成为行业游戏规则的改变者。加入 #rama 频道中有关 Clojure Slack 的讨论。]]></description>
-      <guid>https://t.me/hn_summary/87260</guid>
-      <pubDate>Tue, 30 Apr 2024 20:59:04 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序架构</title>
+      <link>https://t.me/hn_summary/87292</link>
+      <description><![CDATA[展示 HN：Wasp Studio – 可视化您的 React/Node Web 应用程序架构
+标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序的架构
+
+Wasp Studio 是一款革命性工具，可可视化全栈应用程序的架构，使其更易于理解和管理。 Wasp 在 GitHub 上拥有超过 10,000 颗星，是一个强大的框架，可以简化身份验证、cron 作业和路由等任务，让您能够专注于有趣的事情。可视化工具功能提供了应用程序的全面概述，使开发变得轻而易举。未来，Wasp Studio 有潜力与 AI 和大型语言模型协作进行代码生成，为 Web 开发开辟无限可能。使用 Wasp Studio 探索 Web 开发的未来并释放其全部潜力。]]></description>
+      <guid>https://t.me/hn_summary/87292</guid>
+      <pubDate>Wed, 01 May 2024 00:24:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

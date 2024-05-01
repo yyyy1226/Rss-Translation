@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 01:23:59 GMT</lastBuildDate>
     <item>
       <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Refact.ai——开源代码助手——引入项目意识！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</link>
-      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成和我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，这些插件为您提供 LLM 聊天、代码完成和我们称之为“工具箱”的东西 - 直接在文件中转换代码，而无需进入聊天。 很长一段时间以来，我们一直在使用称为 RAG（检索增强生成）的技术对聊天和代码完成进行项目感知。它将聊天和代码完成模型的提示填充到有关您的项目的最有用数据中，分析 AST（文件结构）并使用基于向量的搜索。所有这些东西都是完全开源的，并且仅 100% 基于 rust。您可以在这里找到它 - refact-lsp - 我们的插件的后端。 加入我们的discord社区，亲自尝试一下，甚至为我们在 GitHub 上的项目做出贡献。 还有更多：查看我们的开源解决方案以自托管 LLM！    提交人    /u/valaised   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>实用开源 2024 - 提交您的提案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgug1u/practical_open_source_2024_submit_your_proposal/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgug1u/practical_open_source_2024_submit_your_proposal/</guid>
       <pubDate>Tue, 30 Apr 2024 14:38:01 GMT</pubDate>
     </item>
@@ -57,12 +57,12 @@
     <item>
       <title>供应商支持的开源的终结？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgr98m/the_end_of_vendorbacked_open_source/</link>
-      <description><![CDATA[        提交人    /u/RankLord   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/RankLord   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgr98m/the_end_of_vendorbacked_open_source/</guid>
       <pubDate>Tue, 30 Apr 2024 12:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
+      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
       <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
@@ -85,14 +85,14 @@
     <item>
       <title>适用于企业应用程序的元搜索引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</link>
-      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github.com/areYouLazy/ethanol    提交人    /u/gixo89   [link] [评论]]]></description>
+      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github .com/areYouLazy/ethanol   由   提交/u/gixo89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</guid>
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
     <item>
       <title>寻找免费的应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一款可以免费转录音频文件的可靠应用程序。我尝试了几种方案，但它们要么对可以免费处理的音频长度有限制，要么准确性不尽如人意。我希望找到一款可以轻松处理较长音频文件的应用程序。 有人能推荐一些免费的转录软件或服务吗？这些软件或服务特别擅长处理各种口音和清晰的录音？如果它易于使用且不需要太多技术知识，那就更好了！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
     </item>
