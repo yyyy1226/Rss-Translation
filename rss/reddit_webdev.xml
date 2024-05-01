@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 May 2024 06:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:21:47 GMT</lastBuildDate>
+    <item>
+      <title>如何进行低依赖 Web 开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chgz0u/how_to_go_about_low_dependency_web_development/</link>
+      <description><![CDATA[您好， 我没有太多的前端 Web 开发经验，但我有多年的系统编程经验。我正在寻找如何在避免使用 npm 的同时进行现代 Web 开发的想法。 我想做的是使用 bootstrap 或 picocss 或类似工具在 typescript 中开发前端，并创建 web开发工作流程“看”就像 C 或 C++ 编程一样。我已经尝试过下载 SWC 的二进制文件并将 typescript 编译为 vanilla javascript，但在捆绑方面遇到了麻烦，因为似乎 typescript 编译器不这样做不知道如何包含文件，而是需要一个单独的捆绑功能。 本质上我希望看​​到的是这样的。 要“构建” javascript: 编译 main.ts 提供静态内容： python -m http.server  谢谢！   由   提交/u/ohdog  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chgz0u/how_to_go_about_low_dependency_web_development/</guid>
+      <pubDate>Wed, 01 May 2024 08:27:39 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Tailwind CSS 和 Alpinejs 创建网格切换</title>
       <link>https://www.reddit.com/r/webdev/comments/1chf69y/how_to_create_a_grid_toggle_with_tailwind_css_and/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>什么是构建前端应用程序的不过度杀伤力的框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1chdtf0/what_is_a_not_nonoverkill_framework_to_build/</link>
-      <description><![CDATA[我已经创建了一个后端 Java 系统。我只需要前端。我倾向于使用 React，因为它现在在社区中拥有最多的支持。在我找工作的时候，我到处都能看到 React。 问题是，我可以使用哪种非过度框架来构建我的前端应用程序？我看到了很多 React 框架，但大多数都是全栈框架，这有点过度了，因为我已经有了一个后端系统。    提交人    /u/Jajajajambo   [链接] [评论]]]></description>
+      <description><![CDATA[我已经创建了一个后端Java系统。我只需要前端。我倾向于使用 React，因为它现在在社区中拥有最多的支持。在我的求职中，我到处都看到了 React。 问题是我可以用来构建前端应用程序的非过度杀伤性框架是什么？我看到很多 React 框架，但大多数都是全栈框架，这有点矫枉过正，因为我已经有了一个后端系统。   由   提交 /u/Jajajajambo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chdtf0/what_is_a_not_nonoverkill_framework_to_build/</guid>
       <pubDate>Wed, 01 May 2024 05:00:19 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 04:22:28 GMT</pubDate>
     </item>
     <item>
-      <title>技术堆栈</title>
+      <title>技术栈</title>
       <link>https://www.reddit.com/r/webdev/comments/1chbwzn/technology_stack/</link>
       <description><![CDATA[您目前使用什么堆栈来构建全堆栈 Web 应用程序以及您会推荐哪些堆栈？   由   提交/u/cerberus_khan2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chbwzn/technology_stack/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>为制造公司建立网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1chb25c/building_a_website_for_a_manufacturing_company/</link>
-      <description><![CDATA[大家好， 我需要帮助思考如何为一家制造公司创建一个网站。我在这家公司作为机器操作员工作了两年。我了解 HTML、CSS 和 JavaScript。我知道如何使用 Wordpress.com 的免费版本，因为我用它创建了我的简单网站组合。我了解某些插件，例如 Elementor 和 Divi。我想为这家公司创建一个网站来积累经验，因为我是一名大学二年级学生，学习 IT（网络安全方面，而不是网页设计方面）。他们有一个页面，其中有一个表格供客户订购零件，并附有具体的尺寸。他们的页面看起来像是 2000 年代中期创建的。我不希望它太复杂。我知道许多网络托管网站都适合初学者。我不知道这个项目是否适合知识不多的人，但我愿意学习任何东西。任何有关我应该做什么的指导将不胜感激。  谢谢！   由   提交 /u/VangBangL   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我需要帮助思考如何为一家制造公司创建一个网站。我在这家公司作为机器操作员工作了两年。我了解 HTML、CSS 和 JavaScript。我知道如何使用 Wordpress.com 的免费版本，因为我用它创建了我的简单网站组合。我了解某些插件，例如 Elementor 和 Divi。我想为这家公司创建一个网站来积累经验，因为我是一名学习 IT 的大学二年级学生（网络安全方面，而不是网页设计方面）。他们有一个页面，其中有一个表格供客户订购零件，并附有具体的尺寸。他们的页面看起来像是 2000 年代中期制作的。我不希望它太复杂。我知道许多网络托管网站都适合初学者。我不知道这个项目是否适合知识不多的人，但我愿意学习任何东西。任何有关我应该做什么的指导将不胜感激。  谢谢！   由   提交 /u/VangBangL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chb25c/building_a_website_for_a_manufacturing_company/</guid>
       <pubDate>Wed, 01 May 2024 02:29:25 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>需要国防部人员查看网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1ch347d/need_website_to_be_viewed_by_dod_personnel/</link>
-      <description><![CDATA[我帮助管理一家小型航空航天、军事通信公司的网站，该公司为许多应用（主要是我提到的两个）制造小型无源元件。我们通常与较大的公司打交道，但今天一名真正的国防部工作人员想直接从 NSW Crane（海军特种作战部队，Crane）联系他，并说他的国防部计算机“出于某种原因”不允许他访问我们的网站。现在，我自己也在军队服役，但我是一名步兵。我猜他可能试图通过我们所谓的“红色”计算机访问我们？我不确定。 如果您与国防部打交道，您是否必须注册您的网站才能被国防部计算机信任？如果有人对此有所了解 - 请给我指明正确的方向。    提交人    /u/Kaotix_Music   [链接] [评论]]]></description>
+      <description><![CDATA[我帮助管理一家小型航空航天、军事通信公司的网站，该公司为许多应用（主要是我提到的 2 个）生产小型无源元件。我们通常与较大的公司打交道，但今天一名实际的国防部工作人员希望直接从新南威尔士州起重机（海军特种作战，起重机）联系，并说他的国防部计算机“出于某种原因”不允许他访问我们的网站。现在，我自己也在军队服役，但我是个咕噜咕噜的人。我的猜测是他可能试图通过我们所说的“红色”通道来接近我们。电脑？我不确定。 如果您与国防部打交道，是否必须注册您的网站才能受到国防部计算机的信任？如果有人对此有所了解 - 请指出我正确的方向。   由   提交 /u/Kaotix_Music   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ch347d/need_website_to_be_viewed_by_dod_personnel/</guid>
       <pubDate>Tue, 30 Apr 2024 20:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>回到 webdev</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ch2zhx/getting_back_into_webdev/</link>
-      <description><![CDATA[大家好！我是一名软件工程师，曾在 webdev 工作过一段时间（React、Node），然后进入 Big Tech 工作了 1.5 年（仅限 C#）。  我决定回到 Web 开发（作为一名全栈或后端工程师），并且已经查找了几周的内容。我现在正在使用 NextJS 和 MongoDB 作为数据库的网络应用程序中工作。  说实话，我从来都不是一个从事个人项目的人，我只是做了我的工作，仅此而已，但我现在正在改变这一点，致力于我自己的项目，并尝试为自己建立一个实际的作品集。  由于精疲力尽，我离开了大型科技公司的工作，我的账户上还有一些积蓄可以维持六个月左右。  您认为学习最有用的东西/技术并尽快找到工作的最有效方法是什么？   由   提交/u/xRnJohn  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ch2zhx/getting_back_into_webdev/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:32:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

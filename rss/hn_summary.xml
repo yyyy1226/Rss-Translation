@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 06:25:51 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Wed, 01 May 2024 09:04:50 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 许多公司正在努力通过购买清洁能源来减少碳排放[...]</title>
+      <link>https://t.me/hn_summary/87346</link>
+      <description><![CDATA[大多数清洁电力采购策略对减排作用不大 
+许多公司正在努力通过购买清洁能源来减少碳排放，但普林斯顿大学领导的一项研究发现，最常见的策略对减少美国的长期排放几乎没有影响。然而，一种称为时间匹配的独特方法，即公司购买清洁能源每小时能源与实时消耗相匹配，被证明可以显着降低整个系统的排放。这种方法解决了太阳能和风能的日常和季节性波动，推动了对能源存储和清洁能源技术的投资。虽然成本更高，但时间匹配允许公司定量减少排放，这与其他具有成本效益但无效的策略不同。]]></description>
+      <guid>https://t.me/hn_summary/87346</guid>
+      <pubDate>Wed, 01 May 2024 09:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的研究引入了一种通过结合 m [...] 来改进大型语言模型的新颖方法。</title>
+      <link>https://t.me/hn_summary/87345</link>
+      <description><![CDATA[通过多标记预测更好更快的大型语言模型
+我们的研究引入了一种通过结合多标记预测来改进大型语言模型的新方法。通过一次预测多个标记，我们的模型能够生成更准确、更连贯的文本，从而在各种自然语言处理任务中获得更好的性能。我们的实验表明，该方法显着优于传统的单标记预测模型，展示了增强语言生成能力的潜力。这项创新技术有可能彻底改变语言建模领域，并为更先进的人工智能应用开辟新的可能性。请在 arxiv.org 上探索我们的发现，了解更多详细信息。]]></description>
+      <guid>https://t.me/hn_summary/87345</guid>
+      <pubDate>Wed, 01 May 2024 08:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]海豚进展报告十周年特别庆祝十年的亮点 [...]</title>
+      <link>https://t.me/hn_summary/87344</link>
+      <description><![CDATA[海豚进度报告十周年特别报道
+Dolphin 进度报告十周年特别庆祝十年来强调 Dolphin 模拟器的显着变化。从解决可能被利用的错误到提高《四剑冒险》等游戏的图像质量，进度报告对于用户和开发人员来说都是一个有价值的工具。最新报告引入了一项名为 Branch Watch 的新调试功能，可提供对 GameCube 和 Wii 硬件和软件的深度访问，以进行改装和逆向工程。尽管面临挑战和限制，开发人员仍继续创新和改进 Dolphin，确保其在仿真社区中不断取得成功。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87344</guid>
+      <pubDate>Wed, 01 May 2024 08:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]此网页内容详细介绍了从 Windows 安装程序安装 Linux 的过程，u [...]</title>
+      <link>https://t.me/hn_summary/87343</link>
+      <description><![CDATA[如何从 Windows 安装程序安装 Linux
+此网页内容详细介绍了从 Windows 安装程序安装 Linux 的过程，这是一种独特且非传统的方法。作者分享了在 NTFS 分区上安装 Linux、创建必要的分区以及启动系统的分步说明。作者还深入研究了将 Linux 安装添加到 Windows 安装程序的 WIM 文件的过程，涉及 Windows 预安装环境 (WinPE) 并使 Linux 可启动。该内容为想要尝试 Linux 安装和 Windows 安装程序的精通技术的个人提供了详细的指南，提供了一种创造性且具有挑战性的操作系统安装方法。 （根据故事文本的 61% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87343</guid>
+      <pubDate>Wed, 01 May 2024 07:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]在这篇文章中，作者探讨了为什么每张中国地图似乎都是错误的[...]</title>
       <link>https://t.me/hn_summary/87342</link>
       <description><![CDATA[中国每张地图都是错误的
-在本文中，作者探讨了为什么与世界其他地区相比，中国的每张地图似乎都是错误的。这种差异是由于中国使用了名为 GCJ-02 的不同测地基准，该基准故意向纬度和经度坐标添加随机偏移。这种混淆是出于国防和安全原因，导致只有获得授权的中国公司才被允许绘制该国地图。外国公司必须与中国提供商合作才能获取地图数据，但无法将 GCJ-02 坐标转换回世界标准。这种独特的地图系统对国际合作和地理空间数据的准确性具有重要意义。]]></description>
+在本文中，作者探讨了为什么与世界其他地区相比，中国的每张地图似乎都是错误的。这种差异是由于中国使用了名为 GCJ-02 的不同测地基准，该基准故意向纬度和经度坐标添加随机偏移。这种混淆是出于国防和安全原因，导致只有获得授权的中国公司才被允许绘制该国地图。外国公司必须与中国供应商合作才能获取地图数据，但无法将 GCJ-02 坐标转换回世界标准。这种独特的地图系统对国际合作和地理空间数据的准确性具有重要意义。]]></description>
       <guid>https://t.me/hn_summary/87342</guid>
       <pubDate>Wed, 01 May 2024 06:25:51 GMT</pubDate>
     </item>
@@ -22,7 +54,7 @@
       <pubDate>Wed, 01 May 2024 06:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容警告用户 OpenStreetMap 中的 Pokémon Go 中添加了假海滩。</title>
+      <title>[媒体] 该网页内容警告用户 OpenStreetMap 中的 Pokémon Go 中添加了假海滩。</title>
       <link>https://t.me/hn_summary/87340</link>
       <description><![CDATA[谨防假海滩（Pokémon Go）
 该网页内容警告用户 OpenStreetMap 中的 Pokémon Go 中添加了假海滩。 Niantic 引入了一种仅在海滩中生成的新神奇宝贝，从而导致潜在的虚假添加。建议用户使用 OSMcha 或 Overpass 查询等过滤器检查当地是否有假海滩。经验丰富的地图绘制者还添加了假海滩，这促使需要进行彻底审查并可能恢复更改。社区讨论处理虚假添加的策略，包括恢复明显错误的编辑以及向 DWG 报告屡犯者。一些用户怀疑新帐户是由同一个人创建的，并添加了虚假功能。 （根据 86% 的故事文本进行总结。）]]></description>
@@ -32,7 +64,7 @@
     <item>
       <title>[媒体]Roger Ver，一位被称为“比特币耶稣”的早期比特币投资者，被指控犯有多项罪行 [...]</title>
       <link>https://t.me/hn_summary/87339</link>
-      <description><![CDATA[早期比特币投资者 Roger Ver 被指控税务欺诈&lt; br /&gt;
+      <description><![CDATA[早期比特币投资者 Roger Ver 被指控税务欺诈&lt; br/&gt;
 被称为“比特币耶稣”的早期比特币投资者罗杰·维尔 (Roger Ver) 被指控邮件欺诈、逃税和提交虚假纳税申报表。据称，Ver 为自己和他的公司购买了比特币，但在放弃美国公民身份后未能向美国国税局准确报告这些比特币。他被指控给国税局造成至少 4800 万美元的损失。尽管Ver已移居国外，但法律要求他对某些分配进行报告和纳税，据称他隐瞒了这些分配。此案正在由美国国税局刑事调查网络犯罪部门调查，Ver 面临被引渡到美国接受审判。]]></description>
       <guid>https://t.me/hn_summary/87339</guid>
       <pubDate>Wed, 01 May 2024 05:41:26 GMT</pubDate>
@@ -52,40 +84,6 @@ Dream-HTML 是一个库，允许使用 Dream 从 OCaml 后端服务器生成 HTM
 在这项开创性的研究中，研究人员探索了半导体中光与物质耦合引起的负质量激子极化激元的概念。通过引入一种非厄米哈密顿量来解释腔光子和激子之间的相干和耗散耦合，该团队发现了异常色散行为，该行为导致激子极化子色散中的能级吸引和负质量区域。这种意想不到的现象，即质量在反演峰值附近变成负值，挑战了传统的理解，并为操纵光与物质相互作用开辟了新的可能性。该研究揭示了激子极化子的复杂动力学，并为光子学和量子技术的创新应用铺平了道路。 （根据 48% 的故事文本进行总结。）]]></description>
       <guid>https://t.me/hn_summary/87337</guid>
       <pubDate>Wed, 01 May 2024 05:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 标题：150 倍 PGVector 加速</title>
-      <link>https://t.me/hn_summary/87336</link>
-      <description><![CDATA[150 倍 PGVector 加速
-标题： 150 倍 PGVector 加速
-
-在 jkatz05.com 上的这篇“年度回顾”帖子中，我深入研究了 pgvector 令人印象深刻的性能改进，特别感谢 Andrew Kane。突出显示 0.5.0 和 0.7.0 版本之间的索引构建时间显着加快了 150 倍，这是通过“二进制量化”方法实现的。虽然已经发布了一些竞争基准，但公平地定位技术并承认需要改进的领域至关重要。透明的测试方法以及与之前的 pgvector 版本的比较展示了该项目的增长和潜力。从召回率到延迟和吞吐量，pgvector 不断发展并在向量相似性搜索领域给人留下了深刻的印象。 （根据故事文本的 42% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87336</guid>
-      <pubDate>Wed, 01 May 2024 05:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“粪便流程图”是一张技术图，显示排泄物如何通过 [...]</title>
-      <link>https://t.me/hn_summary/87335</link>
-      <description><![CDATA[狗屎流程图
-“粪便流程图”是一张技术图，显示排泄物如何通过一个位置，重点关注废物处理和处置。该工具最初由世界银行的水和卫生项目开发，用于发展中国家应对卫生挑战。已发布 240 多份报告，重点关注南亚和非洲。该图简化了有关排泄物管理的对话，从而实现有效的资源分配。这种独特的方法提供了污水流量的可视化表示，强调了不断发展的城市地区改进卫生策略的必要性。]]></description>
-      <guid>https://t.me/hn_summary/87335</guid>
-      <pubDate>Wed, 01 May 2024 04:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]像麦当劳这样的大品牌警告说，低收入消费者开始崩溃[...]</title>
-      <link>https://t.me/hn_summary/87334</link>
-      <description><![CDATA[麦当劳和其他大品牌警告说，低收入消费者开始破解
-麦当劳等大品牌警告说，低收入消费者在通货膨胀的压力下开始崩溃。尽管价格增长略有放缓，但消费者仍感到手头紧缩，钱包紧缩。这导致消费者信心下降和消费习惯发生转变。 3M 和 Newell Brands 等公司正感受到通货膨胀的影响，而高露洁棕榄和可口可乐等公司则有所缓解。持续的通货膨胀斗争正在影响企业和消费者，创造一个充满挑战的经济环境。]]></description>
-      <guid>https://t.me/hn_summary/87334</guid>
-      <pubDate>Wed, 01 May 2024 04:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]工程师 Adam Majmudar 在短短两周内从头开始成功构建了 GPU，sh [...]</title>
-      <link>https://t.me/hn_summary/87333</link>
-      <description><![CDATA[工程师在两周内“从头开始构建 GPU”
-工程师 Adam Majmudar 在短短两周内从头开始成功构建了 GPU，并在 Twitter 上展示了他的旅程。尽管在 GPU 设计过程中面临挑战，Majmudar 仍专注于通用并行计算能力，并编写了矩阵数学内核来演示 GPU 在图形和机器学习任务中的功能。在 George Hotz 的指导下，Majmudar 克服了障碍，并通过 OpenLane EDA 软件成功验证了他的 GPU 设计。虽然无法与顶级显卡相比，但 Majmudar 的自制 GPU 是一项了不起的成就，很快将通过 Tiny Tapeout 7 成为物理芯片。]]></description>
-      <guid>https://t.me/hn_summary/87333</guid>
-      <pubDate>Wed, 01 May 2024 04:53:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
