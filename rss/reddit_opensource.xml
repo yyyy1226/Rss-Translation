@@ -4,16 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 06:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:20:33 GMT</lastBuildDate>
+    <item>
+      <title>注意：这是一个网络研讨会邀请（是的，这是一种广告！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</link>
+      <description><![CDATA[嘿！我是 Lorina，r/xwiki 的开源倡导者。我知道广告可能会有点麻烦（我也不是粉丝），所以我会保持简单，希望对您很有用。 5 月 30 日 16 点:00 CEST，我们将举办一个免费的网络研讨会，标题为“迁移自Confluence 到 XWiki：没有比这更简单的了”。 我向你保证，这不仅仅是一个广告；它是一个广告。这是一个真正帮助团队顺利过渡到开源平台的机会，该平台不仅灵活而且预算友好。 以下是可用的内容： 快速迁移：我们努力缩短迁移时间。 自动化设置：我们通过改进的自动化消除了手动麻烦。 灵活的选项：使用我们增强的配置选项定制迁移以满足您的需求。 保存设置：使用我们记住您的设置的新功能简化未来的迁移。 详细见解：获取有关内容的全面报告移动，包括宏。 为什么要收听？ 您将看到现场演示，发现简化迁移的资源，并可以询问任何问题我们问答期间的问题。我们设计的这个网络研讨会尽可能具有互动性和信息丰富性。 如果您对从 Confluence 切换到 XWiki 有点好奇，或者只是想了解开源替代方案可以做什么提供，这可能是一个非常合适的选择。 在这里注册：最简单从Confluence迁移到XWiki 再次抱歉类似广告的侵入！期待在网络研讨会期间与您聊天！   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</guid>
+      <pubDate>Thu, 02 May 2024 08:13:32 GMT</pubDate>
+    </item>
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，它连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员害怕使用 GPL 许可证，因为它的强制性较低</title>
+      <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
       <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不太“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
-      <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ Websurfx 是 searx 的开源替代品，它提供了一个现代外观、闪电般快速、尊重隐私、安全的元搜索引擎。 通过这篇文章，我想分享 websurfx 项目的 v1.15.0 版本。 GitHub 发布：https://github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入文章：https://programming.dev/post/13475052    由   提交  /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
       <pubDate>Wed, 01 May 2024 18:12:12 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Wed, 01 May 2024 18:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>Maelstrom：一款密封的集群测试运行器（而且速度很快）</title>
+      <title>Maelstrom：一个密封的集群测试运行程序（而且速度很快）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</link>
-      <description><![CDATA[大家好， Maelstrom 是一个 Rust 测试运行器，建立在通用集群作业运行器之上。Maelstrom 将您的 Rust 测试打包到密封的微型容器中，然后分发它们以在任意大的测试运行器集群上运行，或在您的机器本地运行。您可以使用 Maelstrom 来运行测试，因为：  它很简单。Maelstrom 可以作为 Cargo Test 的替代品，因此在大多数情况下，它都可以正常工作。 它很可靠。Maelstrom 在其自己的轻量级容器中密封地运行每个测试，从而消除了由测试间或隐式测试环境依赖性引起的令人困惑的错误。 它具有可扩展性。Maelstrom 可以作为集群运行。您可以添加更多工作机器以线性增加测试吞吐量。 它很快。在大多数情况下，即使不使用集群，Maelstrom 也比 cargo test 更快。 它很干净。Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化，开销低，启动速度快。 它是 Rusty。整个项目都是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您的尝试。 https://maelstrom-software.com/ https://github.com/maelstrom-software/maelstrom （编辑：添加了 github 链接）    提交人    /u/bobbobbio2000   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，  Maelstrom 是一个 Rust 测试运行程序，构建在通用集群作业运行程序之上。 Maelstrom 将您的 Rust 测试打包到密封的微容器中，然后将它们分发到任意大的测试运行器集群上运行，或者在本地机器上运行。您可以使用 Maelstrom 来运行测试，因为：  这很简单。 Maelstrom 可以作为货物测试的直接替代品，因此在大多数情况下，它都能正常工作。 它很可靠。 Maelstrom 在自己的轻量级容器中密封地运行每个测试，消除了由测试间或隐式测试环境依赖性引起的混乱错误。 它是可扩展的。 Maelstrom 可以作为集群运行。您可以添加更多工作机器来线性增加测试吞吐量。 速度很快。在大多数情况下，即使不使用集群，Maelstrom 也比货物测试更快。 它很干净。 Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化以降低开销并快速启动。 它是 Rusty。整个项目是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您尝试一下。 https://maelstrom-software.com/ &lt; p&gt;https://github.com/maelstrom-software/maelstrom （编辑：添加github 链接）   由   提交/u/bobbobbio2000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</guid>
       <pubDate>Wed, 01 May 2024 17:49:29 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成以及我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
-      <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
-      <pubDate>Tue, 30 Apr 2024 16:22:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
