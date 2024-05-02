@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:18:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]特斯拉决定放弃对一体式“千兆广播”的追求，转而坚持[...]</title>
-      <link>https://t.me/hn_summary/87538</link>
-      <description><![CDATA[特斯拉放弃对一体式“千兆广播”的追求 
-特斯拉决定放弃对一体式“超级铸造”的追求，转而坚持采用更行之有效的三块铸造汽车车身底部的方法。这一决定此前并未报道，是在特斯拉针对销量下降和电动汽车市场竞争加剧进行调整之际做出的。此举标志着开发自动驾驶汽车战略的转变，而不是仅仅专注于增加电动汽车销量。虽然千兆广播被视为潜在的制造突破，但专家表示，特斯拉推迟这项创新的决定将使该公司免于大规模的短期资本投资和潜在的延误。]]></description>
-      <guid>https://t.me/hn_summary/87538</guid>
-      <pubDate>Thu, 02 May 2024 12:33:37 GMT</pubDate>
+      <title>[媒体] 快乐还是痛苦？</title>
+      <link>https://t.me/hn_summary/87605</link>
+      <description><![CDATA[快乐还是痛苦？他绘制了决定性的神经回路
+David Ginty 博士研究快乐和痛苦的旅程是一条曲折的道路，始于大学的研究经历。在意识到自己对分子生物学的热情后，他开辟了新的道路，最终找到了通往神经科学的道路。尽管他缺乏神经科学的正规培训，但 Michael Nusbaum 的指导帮助他获得了成为神经科学家的知识和信心。Ginty 博士的故事强调了寻求指导和支持的重要性，即使是那些可能与你的背景没有直接联系的人。]]></description>
+      <guid>https://t.me/hn_summary/87605</guid>
+      <pubDate>Thu, 02 May 2024 18:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SeniorAI 是一个创新平台，利用人工智能的力量彻底改变软件 [...]</title>
-      <link>https://t.me/hn_summary/87537</link>
-      <description><![CDATA[展示 HN：SeniorAI - 人工智能帮助您构建软件（尝试MVP）
-SeniorAI 是一个创新平台，利用人工智能的力量彻底改变软件开发。通过从 GIT 托管服务导入您的代码库，SeniorAI 可以提供针对您的项目量身定制的见解、建议和改进。这种人工智能优先的方法不仅可以通过简化开发流程来提高生产力，还可以通过识别和解决潜在威胁来提高安全性。 SeniorAI 具有适合个人、高级用户、小型团队甚至企业的不同定价等级，为所有软件开发需求提供灵活高效的解决方案。与 SeniorAI 一起体验软件开发的未来。]]></description>
-      <guid>https://t.me/hn_summary/87537</guid>
-      <pubDate>Thu, 02 May 2024 12:31:01 GMT</pubDate>
+      <title>[媒体] 去年秋天，我参加了 Wheel Reinvention Jam 并创建了一个名为 [...] 的 3D 建模器。</title>
+      <link>https://t.me/hn_summary/87604</link>
+      <description><![CDATA[一周内用 C 语言制作 3D 建模器
+去年秋天，我参加了 Wheel Reinvention Jam，并在短短一周内创建了一个名为“ShapeUp”的 3D 建模器。该项目用 C 语言编写，使用光线行进符号距离场来加快渲染速度。尽管 raylib 库面临挑战，我还是成功实现了用户界面、GLSL 着色器生成器、基于 GPU 的鼠标选择以及用于导出的行进立方体。该项目由 2024 条 C 线和 250 条 GLSL 线组成，在西雅图手工制作大会上给观众留下了深刻的印象。虽然 ShapeUp 看似简单，但成就在于一周内创建它的选择、知识和纪律。在浏览器中尝试 ShapeUp 并亲眼看看！]]></description>
+      <guid>https://t.me/hn_summary/87604</guid>
+      <pubDate>Thu, 02 May 2024 18:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>中期报告详细介绍了拜登白宫胁迫大型科技公司（例如 [...]</title>
-      <link>https://t.me/hn_summary/87536</link>
-      <description><![CDATA[审查制度-工业综合体 [pdf](https://news .ycombinator.com/item?id=40235094)
-标题：审查制度-工业综合体 pdf
-摘要：
-中期报告详细介绍了拜登政府迫使 Meta、Alphabet 和亚马逊等大型科技公司审查在线内容的行动。通过向这些公司施压，白宫压制了言论自由，扭曲了公共辩论，并实施了有害的政策。内部电子邮件揭示了白宫对针对真实信息、讽刺和个人经历的内容审核政策的影响程度。该报告还强调了对其他言论的寒蝉效应以及白宫因企业的其他政策担忧而拥有的影响力。审查活动不仅限于社交媒体，还包括世界上最大的在线书店亚马逊。 （根据故事文本的 6% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87536</guid>
-      <pubDate>Thu, 02 May 2024 12:27:56 GMT</pubDate>
+      <title>[媒体] 由于波罗的海地区持续出现的 GPS 中断，飞往爱沙尼亚塔尔图机场的航班 [...]</title>
+      <link>https://t.me/hn_summary/87603</link>
+      <description><![CDATA[GPS 干扰：暂时没有飞往爱沙尼亚机场的航班是
+由于波罗的海地区的 GPS 持续中断，飞往爱沙尼亚塔尔图机场的航班暂停一个月。连接塔尔图和赫尔辛基的芬兰航空有两架飞机因 GPS 干扰而返航。正在开发安全着陆的替代方法。该地区几个月来一直观察到 GPS 中断，怀疑是有针对性的干扰。俄罗斯和北约是潜在的嫌疑人。芬兰航空计划于 5 月 31 日恢复航班。这一情况突显了 GPS 系统的脆弱性以及对该地区航空旅行的潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/87603</guid>
+      <pubDate>Thu, 02 May 2024 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]探索美国哪些县的过度饮酒率最高，并且 [...]</title>
-      <link>https://t.me/hn_summary/87535</link>
-      <description><![CDATA[美国最醉酒和最干旱的县
-探索美国哪些县的过度饮酒率最高，哪些县最干旱。使用 CDC 定义和行为风险因素监测系统和县级健康排名与路线图计划的数据，此交互式地图以直观的方式呈现了全国的酒精消费情况。了解您所在县的排名，并查看与其他县的比较情况。无论您是否对结果感到惊讶，这张地图都揭示了美国人的饮酒习惯以及各县之间不同的酒精消费水平。]]></description>
-      <guid>https://t.me/hn_summary/87535</guid>
-      <pubDate>Thu, 02 May 2024 12:26:09 GMT</pubDate>
+      <title>可刻录 CD、DVD 和蓝光光盘的使用寿命是一个不确定的话题，其使用寿命 [...]</title>
+      <link>https://t.me/hn_summary/87602</link>
+      <description><![CDATA[可刻录 CD、DVD 和蓝光光盘的使用寿命 
+可刻录 CD、DVD 和蓝光光盘的寿命是一个不确定的话题，其寿命从几年到 200 多年不等。制造质量、使用的材料以及光盘刻录机和读取器兼容性等因素都在决定这些光盘的使用寿命方面发挥着重要作用。质量差的光盘更有可能因快速退化或物理损坏而出现故障。 CD-R、DVD±R 和 BD-R 中使用的染料和金属反射层的类型也会影响其使用寿命。总体而言，单层可刻录 DVD 或蓝光光盘往往比多层格式与光盘刻录机和播放器具有更好的兼容性。 （根据 45% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87602</guid>
+      <pubDate>Thu, 02 May 2024 18:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Instaclass，您可以在这个平台上轻松地在任何顶级 [...]</title>
-      <link>https://t.me/hn_summary/87534</link>
-      <description><![CDATA[展示 HN：Instaclass – 制作任何内容的大师班
-隆重推出 Instaclass，您可以使用现有的互联网内容轻松地在任何主题上创建自己的大师班。当最好的材料已经可用时，就不需要人工智能生成的内容。告别无休止的搜索并使用 Instaclass 创建您自己的策划课程。探索无限的可能性，并以独特和创新的方式与世界分享您的专业知识。立即加入 Instaclass 社区，以前所未有的方式开始教学和学习。]]></description>
-      <guid>https://t.me/hn_summary/87534</guid>
-      <pubDate>Thu, 02 May 2024 12:18:01 GMT</pubDate>
+      <title>[媒体] news.ycombinator.com 上的网页内容作者敦促 Android UX 设计师 [...]</title>
+      <link>https://t.me/hn_summary/87601</link>
+      <description><![CDATA[告诉 Android 用户体验设计师：停止建议“给我妈妈打电话”&lt; /a&gt;
+news.ycombinator.com 上网页内容的作者敦促 Android 用户体验设计师停止建议使用“给我妈妈打电话”作为推广语音拨号功能的方式。他们认为，人们购买 Android 手机并不是为了不断地想起已故的父母。相反，他们建议从最近通话列表中获取拨打最多的联系人，以改善用户体验。作者对这些设计陷阱仍然存在感到惊讶，并建议使用名为 https://tarotcardsoftech. 的网站。 artefactgroup.com 获取指导。争议在于提出这样一个个人且可能令人痛苦的命令的不敏感。Artefactgroup科技塔罗牌]]></description>
+      <guid>https://t.me/hn_summary/87601</guid>
+      <pubDate>Thu, 02 May 2024 18:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1945 年，数学家乔治·波利亚的著作《如何解答》彻底改变了数学教育[...]</title>
-      <link>https://t.me/hn_summary/87533</link>
-      <description><![CDATA[如何解决它（使用光线投射）
-1945 年，数学家乔治·波利亚 (George Pólya) 的著作《如何解决问题》彻底改变了数学教育和计算机科学。这篇文章探讨了如何使用 Pólya 的问题解决方法在 Golang 中渲染 3D 对象。通过提出“数据是什么？”等关键问题。和“未知是什么？”，我们使用 Möller-Trumbore 交叉算法制定计划。该程序为每个像素投射光线，根据与三角形的交点更新颜色。测试和重构至关重要，代码可以成为更先进的光线追踪算法的垫脚石。查看 GitHub 中的 raycaster 代码并探索更多计算机图形资源。]]></description>
-      <guid>https://t.me/hn_summary/87533</guid>
-      <pubDate>Thu, 02 May 2024 12:12:56 GMT</pubDate>
+      <title>[媒体] 标题：我如何使用开源模型以 0.50 美元的价格为 16 秒的口型同步视频配音</title>
+      <link>https://t.me/hn_summary/87600</link>
+      <description><![CDATA[我如何使用 0.50 美元的价格为 16 秒的口型同步视频配音开源模型
+标题：我如何使用开源模型以 0.50 美元的价格为 16 秒的口型同步视频配音
+
+人工智能视频配音因打破语言障碍而变得流行，但许多服务使用专有模型。如果您可以使用开源模型创建自己的可定制视频配音管道会怎么样？ Union.ai 上的此博客展示了如何以 0.50 美元的价格配音视频使用 AWS T4。通过将 Whisper、M2M100、Coqui XTTS 和 Sad Talker 等模型拼接在一起，您可以高效地翻译和口型同步视频。该工作流程包括音频提取、语音到文本转录、文本翻译、语音克隆和口型同步等任务。这种灵活的方法使您能够控制质量、性能和成本。]]></description>
+      <guid>https://t.me/hn_summary/87600</guid>
+      <pubDate>Thu, 02 May 2024 17:59:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Optery 是一家远程优先公司，正在寻找一位具有专业知识的工程技术主管 [...]</title>
-      <link>https://t.me/hn_summary/87532</link>
-      <description><![CDATA[Optery (YC W22) – 具有 Django 和 Python 经验的工程技术主管（远程）
-Optery 是一家远程优先公司，正在寻找一位拥有 Django 和 Python 专业知识的工程技术主管，以推动消费者数据安全和隐私产品的开发。该角色涉及技术领导、系统设计、安全性和合规性、性能优化以及使用尖端技术的创新。理想的候选人将拥有 10 年以上的经验、强大的沟通能力以及对网络安全的热情。 Optery 提供有竞争力的薪酬、股权、带薪休假和家庭办公室设置津贴。虽然总部位于旧金山湾区，但该职位完全偏远，优先考虑美国工作时间。]]></description>
-      <guid>https://t.me/hn_summary/87532</guid>
-      <pubDate>Thu, 02 May 2024 12:00:49 GMT</pubDate>
+      <title>Piccolo 是一个用 Rust 编写的无堆栈 Lua 解释器，专注于安全沙箱和弹性。</title>
+      <link>https://t.me/hn_summary/87599</link>
+      <description><![CDATA[Piccolo – 一个 Stackless Lua 解释器
+Piccolo 是一个用 Rust 编写的无堆栈 Lua 解释器，专注于安全沙箱和弹性。它使用 gc-arena 进行垃圾收集，它是作为 piccolo 的一部分创建的。作者讨论了 REPL 以及通过语言与程序交互的魔力，强调了作者和用户之间的差距。详细介绍了短笛的发展历史，突出了短笛所面临的挑战和口译员的独特之处。 gc-arena 的“Mutation XOR Collection”设计是一个主要焦点，导致 piccolo 中的可暂停执行上下文。 Stackless 解释器设计是一项出色的功能，其灵感来自 Stackless Python。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87599</guid>
+      <pubDate>Thu, 02 May 2024 17:58:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 波音供应商 Spirit AeroSystems 的前质量审核员 Joshua Dean 遭遇了悲剧 [...]</title>
-      <link>https://t.me/hn_summary/87531</link>
-      <description><![CDATA[另一位与波音有关的举报人已去世
-波音供应商 Spirit AeroSystems 的前质量审核员约书亚·迪恩 (Joshua Dean) 在突发严重感染后不幸去世。迪恩提出了安全担忧并指控波音公司存在不当行为，他是过去两个月内第二位去世的与波音公司有关的举报人。他的健康状况不断恶化，包括乙型流感、耐甲氧西林金黄色葡萄球菌、肺炎和中风，这给他的生命带来了一场令人心碎的战斗。迪恩的家人和律师称赞他在安全问题上挺身而出的勇气，而精神航空系统公司则面临着财务困难和不确定的未来。迪恩去世之前，另一位举报人约翰·巴尼特 (John Barnett) 最近去世，引发了阴谋论并呼吁航空业保持透明度。]]></description>
-      <guid>https://t.me/hn_summary/87531</guid>
-      <pubDate>Thu, 02 May 2024 11:28:35 GMT</pubDate>
+      <title>问 HN：有 nomad 和 consul 的开源分叉吗？</title>
+      <link>https://t.me/hn_summary/87598</link>
+      <description><![CDATA[问HN：nomad和consul有开源分叉吗？ 
+我很好奇是否有 nomad 和 consul 的开源分支，因为 hashcorp 已经放弃了开源。有谁知道任何社区驱动的替代方案，例如用于 terraform 的 OpenTofu？让我们讨论和探索在开源社区中维护和改进这些工具的可能性。]]></description>
+      <guid>https://t.me/hn_summary/87598</guid>
+      <pubDate>Thu, 02 May 2024 17:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>矿物紫云石以其鲜艳的蓝色而闻名，可以在埋藏的尸体上生长并迷惑[...]</title>
-      <link>https://t.me/hn_summary/87530</link>
-      <description><![CDATA[生长在埋葬尸体上的鲜艳蓝色矿物让考古学家感到困惑
-维维安石矿物以其鲜艳的蓝色而闻名，它可以在埋葬的尸体上生长，这让考古学家感到困惑。当磷酸盐从腐烂的残骸中泄漏出来，并在缺氧的环境中与铁和水结合时，就会形成蓝铁矿，并逐渐变成更深的蓝色。这种现象已在骨骼、牙齿、皮肤，甚至脂肪细胞中发现。虽然紫铜矿可以提供有关死后状况的有价值的信息，但由于它会干扰聚合酶链式反应，因此也会阻碍 DNA 分析。尽管面临诸多挑战，紫铜矿仍帮助保存了人类遗骸并揭示了有关埋葬地点的见解，使其成为考古学领域中一种迷人而复杂的矿物。]]></description>
-      <guid>https://t.me/hn_summary/87530</guid>
-      <pubDate>Thu, 02 May 2024 11:21:29 GMT</pubDate>
+      <title>Umbra 是一个基于磁盘的系统，它将内存数据库的性能与 sca [...]</title>
+      <link>https://t.me/hn_summary/87597</link>
+      <description><![CDATA[Umbra：具有内存性能的基于磁盘的系统 [pdf](https://news.ycombinator.com/item?id=40237826)
+Umbra 是一个基于磁盘的系统，它将内存数据库的性能与基于磁盘的系统的可扩展性结合起来。随着主内存大小趋于稳定，SSD 的成本已显着下降，使其成为有吸引力的存储选择。 Umbra 引入了一种新颖的具有可变大小页面的缓冲区管理器，允许高效处理缓存和未缓存的数据。通过利用虚拟内存和物理内存之间的动态映射，Umbra 消除了缓冲池内的外部碎片。该系统提供了两全其美的优点，为缓存的工作集提供内存中的性能，同时实现主内存之外的透明扩展。 （根据 27% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87597</guid>
+      <pubDate>Thu, 02 May 2024 17:45:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]简街很大。</title>
-      <link>https://t.me/hn_summary/87529</link>
-      <description><![CDATA[简街很大。喜欢，大
-Jane Street 是一家秘密且利润丰厚的贸易公司，正在金融界掀起波澜。该公司在股票和固定收益交易领域拥有巨大的影响力，其收入令人震惊，甚至超过了高盛等行业巨头。尽管取得了成功，简街仍然偏执和谨慎，利用期权和风险管理策略来防范市场波动。该公司独特的薪酬方式和对协作的重视导致人员流动率极低，并拥有高技能的员工队伍。随着计划进一步扩展到各个市场，Jane Street 未来的成功尚不确定，但受到竞争对手的密切关注。]]></description>
-      <guid>https://t.me/hn_summary/87529</guid>
-      <pubDate>Thu, 02 May 2024 11:12:22 GMT</pubDate>
+      <title>[媒体]Spotify 悄悄地将歌词移至付费专区，这让现在需要 [...]</title>
+      <link>https://t.me/hn_summary/87596</link>
+      <description><![CDATA[Spotify 将歌词移至付费专区
+Spotify 已悄然将歌词移至付费墙后面，这让现在需要付费订阅才能使用此功能的免费用户感到沮丧。虽然该公司尚未发布正式公告，但报告和 Reddit 帖子证实了这一变化。由于 Spotify 上季度的收入低于分析师的预期，此举被视为推动更多用户转向付费服务的一种方式。然而，这一策略是否会成功还有待观察，因为歌词可以在 Genius 或 Musixmatch 等其他平台上轻松免费获取。]]></description>
+      <guid>https://t.me/hn_summary/87596</guid>
+      <pubDate>Thu, 02 May 2024 17:44:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
