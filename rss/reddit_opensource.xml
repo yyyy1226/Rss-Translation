@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 21:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 01:18:35 GMT</lastBuildDate>
     <item>
       <title>关于 Guix 的发泄</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
-      <description><![CDATA[基本上就是标题。MS Visual Studio Code 非常棒，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，我们真的很想要这样的东西。感谢您的想法。    提交人    /u/the4amfriend   [link] [评论]]]></description>
+      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</guid>
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>tach - 一个用于强制模块化设计的 Python 工具，灵感来自“nx”</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgt3t2/tach_a_python_tool_to_enforce_modular_design/</link>
-      <description><![CDATA[https://github.com/Never-Over /tach tach 是一个轻量级 Python 工具，可在 Python 项目中强制执行边界和依赖关系。受 nx 的启发，tach 可帮助您维护解耦且模块化的 Python 代码库。该工具的早期版本称为 modguard，我们在此处分享了该工具。 默认情况下，Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致本来应该分开的模块紧密耦合在一起，并且域边界被打破。我们在一家独角兽初创公司中亲身经历了这一点，该公司的工程团队暂停了一年多的开发，试图将软件包拆分为独立的服务。这次尝试最终失败了。 出现此问题的原因是：  添加到现有包比创建新包要容易得多&lt; /li&gt; 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们为解决这个问题所做的努力总是功亏一篑。拼凑而成的解决方案将尝试从不同角度解决这个问题，例如开发人员教育、代码所有者、标准指南、重构等等。然而，这些都没有解决根本原因。 使用 tach，您可以：  声明您的包 ( package.yml) 定义包之间的依赖关系 (tach.yml) &lt; p&gt;强制执行这些依赖项（tach 检查）  您还可以为每个包强制执行严格的接口。这意味着只有 __init__.py 中直接列出的导入才能被其他包导入。 tach 是：  完全开源 能够逐步采用（tach init 和 tach add）  无需运行时占用空间即可实现 可与现有工具互操作  我们希望您尝试一下！我们希望收到任何反馈。 GitHub   由   提交/u/the1024  [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/Never-Over/tach tach 是一个轻量级 Python 工具，可强制执行 Python 项目中的边界和依赖关系。受 nx 的启发，tach 可帮助您维护解耦且模块化的 Python 代码库。此工具的早期版本称为 modguard，我们在此处分享了它。 默认情况下，Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致原本应该分开的模块紧密耦合在一起，域边界被打破。我们在一家独角兽初创公司亲身经历了这种情况，那里的工程团队暂停了开发一年多，试图将包拆分成独立的服务。这次尝试最终失败了。 出现此问题的原因是：  向现有包中添加内容比创建新包要容易得多 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们看到的解决这个问题的努力总是失败。各种解决方案会尝试从不同角度解决这个问题，例如开发人员教育、CODEOWNER、标准指南、重构等。但是，这些都不能解决根本原因。 使用 tach，您可以：  声明您的软件包（package.yml） 定义软件包之间的依赖关系（tach.yml） 强制执行这些依赖关系（tach check）  您还可以为每个软件包强制执行严格的接口。这意味着只有直接在 __init__.py 中列出的导入才能被其他包导入。 tach 是：  完全开源 能够逐步采用（tach init 和 tach add） 实现时不占用任何运行时空间 可与您现有的工具互操作  我们希望您尝试一下！我们很乐意收到任何反馈。 GitHub    提交人    /u/the1024   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgt3t2/tach_a_python_tool_to_enforce_modular_design/</guid>
       <pubDate>Tue, 30 Apr 2024 13:40:10 GMT</pubDate>
     </item>

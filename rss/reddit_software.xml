@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 May 2024 21:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 01:18:10 GMT</lastBuildDate>
+    <item>
+      <title>帮助查找适用于 Cisco AIR-CB21AG-A-K9 的 Windows 98 兼容软件</title>
+      <link>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</link>
+      <description><![CDATA[我正在尝试查找 Cisco PCMCIA WLAN 适配器的 Windows 98 兼容驱动程序   由   提交/u/oof_mastr  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</guid>
+      <pubDate>Wed, 01 May 2024 22:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么可靠的地方可以获得windows钥匙吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1chxk7q/any_reliable_places_to_get_windows_keys/</link>
+      <description><![CDATA[刚刚为自己组装了一台新电脑，需要 Windows 11 密钥来激活它。我见过很多不同的卖家，价格从 25 美元到 40 美元不等，但我不知道这些是否合法？    由   提交/u/Smooth_Diet_5918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1chxk7q/any_reliable_places_to_get_windows_keys/</guid>
+      <pubDate>Wed, 01 May 2024 21:18:39 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以更改播放设备和打开/关闭屏幕的自动化/宏软件？ (W10)</title>
       <link>https://www.reddit.com/r/software/comments/1chwzco/any_automationmacro_software_that_can_change/</link>
@@ -71,12 +85,12 @@
     <item>
       <title>通过上下文菜单（右键单击）向任何人发送或接收大文件，无需后台程序。</title>
       <link>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</link>
-      <description><![CDATA[我刚刚制作了一个简单、轻量级的软件，它使文件传输看起来像 Windows 中的原生功能，就像使用&quot;AirDrop&quot;或&quot;QuickShare&quot;从一部手机向另一部手机共享文件一样。  没有在后台运行的程序，或 CPU 使用率，它是一个基于命令的软件，使用内置的 Powershell  https://preview.redd.it/zuo05tk11qxc1.png?width=311&amp;format=png&amp;auto=webp&amp;s=04c3920b293b89e37fc81033e215767e271ef1ad ​ 只需右键单击任何文件 &gt; 上传，它将立即上传。 或者单击您希望下载文件的任何路径 &gt; 下载 &gt; 输入密码  https://preview.redd.it/v76gf7331qxc1.png?width=1116&amp;format=png&amp;auto=webp&amp;s=1072388fc9113ae58b8355e9ce0b1131d300b4ab ​ 快速指南（有关更多信息，请访问 GitHub）：打开iMShare.exe，它将自行完成所有设置，然后按“CTRL+R”并关闭弹出窗口以激活它，您就完成了。  从这里 或者从 GitHub 下载：https://github.com/iMAboud/iMShare  并让我知道您的想法和建议。😊    提交人    /u/imaboud   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚制作了一个简单、轻量级的软件，它使传输文件看起来像是 Windows 中的本机功能，就像使用“将文件从手机共享到另一个手机”一样。 AirDrop”或“QuickShare”  后台没有运行程序，也没有CPU占用，它是一个基于命令的软件，使用内置的Powershell  https://preview.redd.it/zuo05tk11qxc1.png?width=311&amp;format=png&amp;auto=webp&amp; amp;s= 04c3920b293b89e37fc81033e215767e271ef1ad ​ 只需右键单击任何文件&gt; 上传，立即上传。或者点击&gt;中任意您想要下载的路径。 下载&gt;输入密码 https://preview.redd.it/v76gf7331qxc1.png?width=1116&amp;format=png&amp;auto=webp&amp;s=1072388fc9113ae58b8355e9ce0b113 1d300b4ab ​&lt; /p&gt; 快速指南（更多信息请访问 GitHub）：打开iMShare.exe，它将完成其上的所有设置自己的，然后按“CTRL+R”并关闭弹出窗口以激活它，就完成了。  下载 此处 或者来自 GitHub：https://github.com/iMAboud/iMShare  让我了解您的想法和建议。 😊   由   提交/u/imaboud  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</guid>
       <pubDate>Wed, 01 May 2024 02:05:08 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 是否是一家为竞争设置障碍的垄断企业？</title>
+      <title>Adobe 是否是一家设置障碍阻碍竞争的垄断企业？</title>
       <link>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</link>
       <description><![CDATA[令人疯狂的是，在 PDF 格式开放几十年后，其他支持 PDF 的文档（包括 MS WORD、LIBREOFFICE 等）似乎都无法打开可以像 Adob​​e 一样用于书写的 PDF 文件吗？ Adobe 是在偏袒还是只是声称开放格式但积极设置障碍以削弱竞争？当您尝试打开 PDF 文件进行编辑时，您会看到这一点。即使是像微软这样的公司也无法做到正确（好吧。哈哈。我知道他们写的东西不多……但我离题了） 好奇是否有任何内部人士的说法Adobe 如何看待 PDF 领域的竞争？   由   提交/u/kasarediff  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[正在寻找一个用于打印制作的 pdf 程序，可以显示输出预览、印前检查、编辑对象、转换颜色、拼合预览、设置页面框等。  ​ ​ https://preview.redd.it/dtmv1fmjdnxc1.png?width=231&amp;format=png&amp;auto=webp&amp;s=6ff2f72eeaea116099ee 95a31aa494fc9f7a6736 https://preview.redd.it /6fmulwu2dnxc1.png?width=748&amp;format=png&amp;auto=webp&amp;s=077cd7daea2cc393f0830b6b644fe9de1b527016   由   提交 /u/tbombonator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgxt77/pdf_print_production_software/</guid>
       <pubDate>Tue, 30 Apr 2024 16:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有重复文件查找器可以按内容查找重复的文档文件</title>
-      <link>https://www.reddit.com/r/software/comments/1cguqmi/is_there_a_duplicate_file_finder_that_finds/</link>
-      <description><![CDATA[我继承了母亲的电脑和拇指驱动器，正在翻阅她近 40 年的文档文件。在所有不同的备份副本和以新名称重新保存的版本之间，有很多很多情况，同一首诗、故事或信件有多个版本。文本完全相同，但文件的二进制文件不相同（字体不同，或者最后保存的 MS Word 版本不同，诸如此类）。文件名也经常不同。 是否有任何软件可以比较文档文件的内容并为我标记重复项，即使文件在版本/格式/方面存在差异元数据？理想情况下，它知道如何处理 doc 和 docx。在完美的世界中，它还知道如何处理由 DOS、wordperfect 等创建的文档。   由   提交/u/Glaurung_Quena   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cguqmi/is_there_a_duplicate_file_finder_that_finds/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一种将日期+时间作为照片印记写入的解决方案</title>
-      <link>https://www.reddit.com/r/software/comments/1cgs9ry/looking_for_a_solution_that_writes_date_time_as/</link>
-      <description><![CDATA[大家好， 我会尽量保持简短。  我们的图片收入波动很大。货物进来后，仓库的工作人员如果发现潜在的损坏就会拍照。如果发生损坏索赔，照片上需要有日期和时间，与交付文件相匹配。 为此，他们使用一些带有“photostamp”应用程序的指定智能手机。该应用程序会自动添加该内容。然而，在过去的几个月里，该应用程序在某些手机上出现了故障，停止工作等。 通常操作链中的多个人应该注意到这一点，但是..最终用户......根据文件名+元数据添加邮票是一项需要 1 分钟的绘制任务，因此人们应该思考.. 如果缺少邮票，办公室里的人会在提交图像之前添加它.. 他们之前会查看它们。 这种情况现在发生了两次，没有邮票的图像被发送...... 所以我需要一个软件来做到这一点。无论它是在服务器上运行、在智能手机上可靠运行还是在客户端 PC 上运行，都没有关系。 唯一的要求是.. 要么是自动化，要么是拖放。    由   提交/u/King_Tamino  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgs9ry/looking_for_a_solution_that_writes_date_time_as/</guid>
-      <pubDate>Tue, 30 Apr 2024 13:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
