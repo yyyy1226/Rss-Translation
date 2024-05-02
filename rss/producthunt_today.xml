@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 09:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:36:58 GMT</lastBuildDate>
+    <item>
+      <title>AI 助手和 Bot Builder</title>
+      <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
+      <description><![CDATA[
+            无需代码即可直观地构建自定义 AI 助手
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</guid>
+      <pubDate>Thu, 02 May 2024 07:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>1流</title>
       <link>https://www.producthunt.com/posts/1flow</link>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 01:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>爱彼迎图标</title>
+      <title>Airbnb 图标</title>
       <link>https://www.producthunt.com/posts/airbnb-icons</link>
       <description><![CDATA[
             来自世界上最伟大偶像的非凡体验
@@ -65,7 +79,7 @@
       <title>读读</title>
       <link>https://www.producthunt.com/posts/aaread</link>
       <description><![CDATA[
-            快速阅读网页，眼睛不疲劳
+            快速阅读网页并保持注意力集中
           
 
 讨论
@@ -76,29 +90,15 @@
       <pubDate>Wed, 01 May 2024 12:27:31 GMT</pubDate>
     </item>
     <item>
-      <title>功能面板</title>
-      <link>https://www.producthunt.com/posts/featurepanel</link>
-      <description><![CDATA[
-            让客户知道所请求的功能何时启动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/featurepanel</guid>
-      <pubDate>Wed, 01 May 2024 10:30:15 GMT</pubDate>
-    </item>
-    <item>
       <title>全风CSS</title>
       <link>https://www.producthunt.com/posts/fullwindcss</link>
       <description><![CDATA[
-            Tailwind CSS 的额外色调
-          
+Tailwind CSS 的额外颜色阴影
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/fullwindcss</guid>
       <pubDate>Wed, 01 May 2024 10:17:08 GMT</pubDate>
@@ -174,7 +174,7 @@
       <pubDate>Wed, 24 Apr 2024 17:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>韋萊</title>
+      <title>Y.GY</title>
       <link>https://www.producthunt.com/posts/y-gy</link>
       <description><![CDATA[
             一个简单的链接缩短器和二维码创建器

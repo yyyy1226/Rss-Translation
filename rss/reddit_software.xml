@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 02 May 2024 09:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:36:18 GMT</lastBuildDate>
+    <item>
+      <title>一键统治一切：从 RAM 恢复主密钥以破解 Android 基于文件的加密</title>
+      <link>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</link>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cic36q/one_key_to_rule_them_all_recovering_the_master/</guid>
+      <pubDate>Thu, 02 May 2024 10:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>键盘帮助</title>
       <link>https://www.reddit.com/r/software/comments/1cia6oj/keyboard_help/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>创建审计软件平台</title>
       <link>https://www.reddit.com/r/software/comments/1ci8ovd/creating_an_audit_software_platform/</link>
-      <description><![CDATA[我是一家公司的实习生，我和我的团队的任务是创建一个软件应用程序，该应用程序应该接受 Excel 审核清单并生成报告。  本质上，我们将有一个 GDPR、ISO、PCIDSS 等的清单，并将报告上传到应用程序后，它应该生成一份报告。 大约需要 5 到 10 人能够登录并同时在应用程序上工作。 有人建议使用 Django 创建应用程序，而我考虑在 AWS 上部署该应用程序。 如果你们有更多想法，请告诉我。   由   提交 /u/EzraSC   [链接] [评论]]]></description>
+      <description><![CDATA[我是一家公司的实习生，我和我的团队的任务是创建一个软件应用程序，该应用程序应该接受 Excel 审计清单并生成报告。 本质上，我们将有一个 GDPR、ISO、PCIDSS 等的清单，在将报告上传到应用程序时，它应该会生成一份报告。 大约有 5 到 10 个人需要能够同时登录并使用该应用程序。 有人建议使用 Django 创建应用程序，我考虑在 AWS 上部署该应用程序。 如果你们有更多的想法，请告诉我。    提交人    /u/EzraSC   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ci8ovd/creating_an_audit_software_platform/</guid>
       <pubDate>Thu, 02 May 2024 06:25:19 GMT</pubDate>
     </item>
@@ -76,13 +83,6 @@
       <pubDate>Wed, 01 May 2024 19:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>音乐光学识别软件</title>
-      <link>https://www.reddit.com/r/software/comments/1chuxv6/music_optical_recognition_software/</link>
-      <description><![CDATA[我决定帮助我的朋友完成一些翻译图像书面笔记的项目（手写但写得很好，有很多文字，因为它是给合唱团的）。我做了一些研究，发现 github 上的一些项目有这种 Ai，但由于安装过程非常困难和很多错误，我无法安装。我感觉很困惑，不知道去哪里可以找到这种软件。任何建议表示赞赏。    由   提交/u/kikirac_senpai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1chuxv6/music_optical_recognition_software/</guid>
-      <pubDate>Wed, 01 May 2024 19:30:22 GMT</pubDate>
-    </item>
-    <item>
       <title>良好的日历和联系人同步软件，适用于 Outlook 2010 桌面到 Gmail Google 日历</title>
       <link>https://www.reddit.com/r/software/comments/1chrw2v/good_calendar_and_contact_sync_software_for/</link>
       <description><![CDATA[有什么好的日历和联系人同步软件可以将 Outlook 2010 同步到 Google 日历？ CompanionLink 停止为我工作，但没有出现“重复发生”问题;来自我的 Outlook 的项目。 TIA（从 /Outlook 交叉发布）   由   提交 /u/Jayhitek   [链接] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>我想从特定的 Google 搜索下载所有图像，然后删除重复图像</title>
       <link>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</link>
-      <description><![CDATA[正如标题所说。我正计划归档一些东西，我想要下载整个谷歌图像搜索，并删除重复的图像。我需要一些可以做到这一点的软件。  在 Windows 上    由   提交 /u/robinivy   [链接] [评论]]]></description>
+      <description><![CDATA[正如标题所说。我打算存档一些东西，我想下载整个 Google 图片搜索，删除重复的图片。我需要一些可以做到这一点的软件。  在 Windows 上     提交人    /u/robinivy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</guid>
       <pubDate>Wed, 01 May 2024 16:45:29 GMT</pubDate>
     </item>

@@ -4,18 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 09:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:36:54 GMT</lastBuildDate>
     <item>
-      <title>注意：这是一个网络研讨会邀请（是的，这是一种广告！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</link>
-      <description><![CDATA[嘿！我是 Lorina，r/xwiki 的开源倡导者。我知道广告可能会有点麻烦（我也不是粉丝），所以我会保持简单，希望对您很有用。 5 月 30 日 16 点:00 CEST，我们将举办一个免费的网络研讨会，标题为“迁移自Confluence 到 XWiki：没有比这更简单的了”。 我向你保证，这不仅仅是一个广告；它是一个广告。这是一个真正帮助团队顺利过渡到开源平台的机会，该平台不仅灵活而且预算友好。 以下是可用的内容： 快速迁移：我们努力缩短迁移时间。 自动化设置：我们通过改进的自动化消除了手动麻烦。 灵活的选项：使用我们增强的配置选项定制迁移以满足您的需求。 保存设置：使用我们记住您的设置的新功能简化未来的迁移。 详细见解：获取有关内容的全面报告移动，包括宏。 为什么要收听？ 您将看到现场演示，发现简化迁移的资源，并可以询问任何问题我们问答期间的问题。我们设计的这个网络研讨会尽可能具有互动性和信息丰富性。 如果您对从 Confluence 切换到 XWiki 有点好奇，或者只是想了解开源替代方案可以做什么提供，这可能是一个非常合适的选择。 在这里注册：最简单从Confluence迁移到XWiki 再次抱歉类似广告的侵入！期待在网络研讨会期间与您聊天！   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</guid>
-      <pubDate>Thu, 02 May 2024 08:13:32 GMT</pubDate>
+      <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
+      <pubDate>Thu, 02 May 2024 12:20:01 GMT</pubDate>
     </item>
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，它连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
@@ -27,9 +27,9 @@
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Guix 的发泄</title>
+      <title>发泄对 Guix 的不满</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
-      <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话如此专注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile “一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。  Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。   由   提交 /u/flaming0sis   [链接] [评论]]]></description>
+      <description><![CDATA[因为我之前已经说过了，所以我从我的临时账户发帖，但我想再说一遍：如果 Guix 不那么专注于 GNU 正统，它可能是最佳的 Linux 发行版。 “最佳”是主观的，但我的意思是“完全”使用 Guile 并访问其所有酷炫功能（同像性）来配置整个操作系统。 Nix 对专有软件采取了更好的方法，默认情况下选择退出，但允许您在需要时选择加入。但它因是特定于领域的语言而受到阻碍。如果 Guix 真的接管了它，那对每个人来说都会很棒，但要做到这一点，它必须是实用的。是的，这是开源 subreddit，我认为推广开源的最佳方式就是将它发布出来，即使它不是“纯粹的”。是的，有非 guix，但据我所知，它的维护不是很好。编辑后发现，GPL 还禁止 Guix 的非自由分支，这很烦人。要基于 Nix 原则制作基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。    提交人    /u/flaming0sis   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</guid>
       <pubDate>Wed, 01 May 2024 19:43:18 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
-      <description><![CDATA[大家好！ Websurfx 是 searx 的开源替代品，它提供了一个现代外观、闪电般快速、尊重隐私、安全的元搜索引擎。 通过这篇文章，我想分享 websurfx 项目的 v1.15.0 版本。 GitHub 发布：https://github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入文章：https://programming.dev/post/13475052    由   提交  /u/RevolutionaryAir1922   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
       <pubDate>Wed, 01 May 2024 18:12:12 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>密码管理器与 Android、Linux 和 Windows 上的客户端相互同步</title>
       <link>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</link>
-      <description><![CDATA[Android、Linux 和 Linux 上是否有带有客户端的密码管理器彼此同步的 Windows？ 我不需要一个可以自动集成并提交不同应用程序密码的密码管理器。我只需要 1 个开源的，可以保存凭证并在 android、Linux（基于 debian）和 Android、Linux（基于 debian）之间同步。通过互联网或蓝牙的 Windows。   由   提交/u/GL4389  [链接] [评论]]]></description>
+      <description><![CDATA[是否有可在 Android、Linux 和 Windows 上相互同步的客户端密码管理器？ 我不需要一个可以自动集成并自动提交不同应用程序密码的密码管理器。我只需要一个开源的，可以保存凭据并通过互联网或蓝牙在 Android、Linux（基于 Debian）和 Windows 之间同步的密码管理器。    提交人    /u/GL4389   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</guid>
       <pubDate>Wed, 01 May 2024 09:23:41 GMT</pubDate>
     </item>

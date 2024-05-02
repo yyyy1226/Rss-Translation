@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 02 May 2024 09:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:36:25 GMT</lastBuildDate>
+    <item>
+      <title>探索法学硕士的怪异之处：我们如何构建它以及我学到了什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1cie85r/exploring_llm_weirdness_how_we_built_it_what_i/</link>
+      <description><![CDATA[ 由   提交/u/jvwatzman  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cie85r/exploring_llm_weirdness_how_we_built_it_what_i/</guid>
+      <pubDate>Thu, 02 May 2024 12:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GraphQL 的 linting 性能提高了 21,565 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1cidmnv/a_21565x_performance_improvement_in_linting/</link>
+      <description><![CDATA[ 由   提交/u/yoav-lavi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cidmnv/a_21565x_performance_improvement_in_linting/</guid>
+      <pubDate>Thu, 02 May 2024 11:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一键统治一切：从 RAM 恢复主密钥以破解 Android 基于文件的加密</title>
+      <link>https://www.reddit.com/r/programming/comments/1cic3u1/one_key_to_rule_them_all_recovering_the_master/</link>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cic3u1/one_key_to_rule_them_all_recovering_the_master/</guid>
+      <pubDate>Thu, 02 May 2024 10:20:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Ollama 和 Microcks 提升您的 API 模拟工作流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1cibm21/boost_your_api_mocking_workflow_with_ollama_and/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cibm21/boost_your_api_mocking_workflow_with_ollama_and/</guid>
+      <pubDate>Thu, 02 May 2024 09:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建轮播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cibeom/how_to_create_a_carousel_with_tailwind_css_and/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建轮播[评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cibeom/how_to_create_a_carousel_with_tailwind_css_and/</guid>
+      <pubDate>Thu, 02 May 2024 09:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>分布式一致性变得非常简单，只需在属性文件中添加几行并在 pom.xml 中添加一些新模块</title>
       <link>https://www.reddit.com/r/programming/comments/1cib078/distributed_consistency_made_as_simple_as_a_few/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/KaiPereira   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ci0pa5/how_to_make_a_lichess_bot_in_python/</guid>
       <pubDate>Wed, 01 May 2024 23:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>名字里有什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ci05b7/whats_in_a_name/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ci05b7/whats_in_a_name/</guid>
-      <pubDate>Wed, 01 May 2024 23:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中设计需求的层次结构是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1chxo2g/what_is_the_hierarchy_of_design_needs_in_software/</link>
-      <description><![CDATA[ 由   提交/u/john83672  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chxo2g/what_is_the_hierarchy_of_design_needs_in_software/</guid>
-      <pubDate>Wed, 01 May 2024 21:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个 RaspBerry 来替换我的 k8s 集群</title>
-      <link>https://www.reddit.com/r/programming/comments/1chw33q/one_raspberry_to_replace_my_k8s_cluster/</link>
-      <description><![CDATA[ 由   提交/u/Yomain_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chw33q/one_raspberry_to_replace_my_k8s_cluster/</guid>
-      <pubDate>Wed, 01 May 2024 20:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您将 Postgres 存储视为事务日志时您会得到什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1chutcu/what_you_get_when_you_think_of_postgres_storage/</link>
-      <description><![CDATA[  由    /u/carlotasoto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chutcu/what_you_get_when_you_think_of_postgres_storage/</guid>
-      <pubDate>Wed, 01 May 2024 19:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 PC 和移动设备上使用 ngn/apl PWA 离线进行 APL 编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1chu40p/apl_programming_offline_with_the_ngnapl_pwa_on_pc/</link>
-      <description><![CDATA[ 由   提交/u/sohang-3112  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chu40p/apl_programming_offline_with_the_ngnapl_pwa_on_pc/</guid>
-      <pubDate>Wed, 01 May 2024 18:57:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
