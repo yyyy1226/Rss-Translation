@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 May 2024 18:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:18:16 GMT</lastBuildDate>
+    <item>
+      <title>一国对数字主权的追求</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
+      <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
+    </item>
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
@@ -20,23 +27,16 @@
       <pubDate>Fri, 03 May 2024 15:29:53 GMT</pubDate>
     </item>
     <item>
-      <title>商业问题——开源供应商的成功渠道合作伙伴模式？</title>
+      <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
       <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>只是一个快速的发泄</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjau8n/just_a_quick_vent/</link>
-      <description><![CDATA[ 由   提交/u/iordanos877   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjau8n/just_a_quick_vent/</guid>
-      <pubDate>Fri, 03 May 2024 15:01:28 GMT</pubDate>
-    </item>
-    <item>
       <title>微软开发者博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
       <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
-      <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：标题有误。我主要在寻找专门用于 Facebook Messenger 的包装器。 尝试了 Frost，但它对我不起作用。在我尝试登录后它崩溃了。我四处寻找替代方案，但目前一无所获。希望有人能启发我。    提交人    /u/HiroCode   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
       <pubDate>Thu, 02 May 2024 16:27:58 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
     <item>
       <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
-      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不太“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
+      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不那么“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>

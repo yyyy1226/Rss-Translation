@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 03 May 2024 18:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:13:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 隆重推出 BandMatch，这是为希望组建乐队或合作的音乐家提供的“Tinder”[...]</title>
-      <link>https://t.me/hn_summary/87763</link>
-      <description><![CDATA[显示 HN：BandMatch – “Tinder”，但用于寻找音乐家进行创作乐队/合作
-隆重推出 BandMatch，这是为寻求组建乐队或项目合作的音乐家提供的“Tinder”。我们的应用程序可让您轻松与附近与您有共同的音乐兴趣和目标的音乐家联系。但这还不是全部 - 您还可以了解您所在地区即将举办的音乐会的最新动态，这样您就不会错过观看您最喜欢的艺术家现场表演的机会。告别无休止的搜索，迎接寻找完美音乐匹配的新方式。立即加入 BandMatch，开始创造音乐魔法！]]></description>
-      <guid>https://t.me/hn_summary/87763</guid>
-      <pubDate>Fri, 03 May 2024 18:18:07 GMT</pubDate>
+      <title>[媒体] WhatsApp 为其聊天消息提供端到端加密已近 1 天 [...]</title>
+      <link>https://t.me/hn_summary/87789</link>
+      <description><![CDATA[WhatsApp 向印度发出加密问题最后通牒
+近十年来，WhatsApp 一直为其聊天消息提供端到端加密，以确保用户的隐私。然而，印度的新 IT 规则要求所有消息都具有可追溯性，这意味着破坏加密。作为回应，WhatsApp 威胁要离开该国，突显了其对印度数字基础设施的潜在影响。尽管 WhatsApp 很可能会赢得这场战斗，但印度有关隐私和在线言论的更大战争仍在继续。这一法律挑战的结果将对该国加密消息服务的未来产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/87789</guid>
+      <pubDate>Fri, 03 May 2024 21:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>Prompt-Tower 是一个 vscode 扩展，它简化了使用多个 [...]</title>
-      <link>https://t.me/hn_summary/87762</link>
-      <description><![CDATA[显示 HN：Prompt-Tower – 使用多个代码块简化编写提示
-Prompt-Tower 是一个 vscode 扩展，它简化了使用多个代码块编写提示的过程。受 filekitty 的启发，该工具消除了在文件、类和函数之间跳转以复制和粘贴代码、包装和注释块以及生成提示的麻烦。它旨在无缝集成到开发人员的工作流程中，使提示创建更快、更高效。查看演示和存储库链接，了解 Prompt-Tower 如何简化您的写作过程。]]></description>
-      <guid>https://t.me/hn_summary/87762</guid>
-      <pubDate>Fri, 03 May 2024 18:14:01 GMT</pubDate>
+      <title>[媒体] llm.c 是一个前沿的深度学习框架，支持多 GPU 处理，bf [...]</title>
+      <link>https://t.me/hn_summary/87788</link>
+      <description><![CDATA[llm.c：多GPU，bfloat16，闪光注意，〜比 PyTorch 快 7%
+llm.c是一个前沿的深度学习框架，支持多GPU处理、bfloat16数据类型和flash注意力机制。它比 PyTorch 快约 7%，使其成为寻求优化机器学习工作流程的研究人员和开发人员的强大工具。该框架正在突破深度学习的界限，提供独特的功能和性能改进，使其与其他流行框架区分开来。在 Twitter.com 上启用 JavaScript 并探索 llm.c 的功能.]]></description>
+      <guid>https://t.me/hn_summary/87788</guid>
+      <pubDate>Fri, 03 May 2024 21:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由生成式人工智能驱动的人工智能副驾驶正在彻底改变编码的教学方式[...]</title>
-      <link>https://t.me/hn_summary/87761</link>
-      <description><![CDATA[人工智能副驾驶正在改变编码教学方式
-由生成式人工智能驱动的人工智能副驾驶正在彻底改变学术界的编码教学方式。学生们正在使用人工智能工具来掌握复杂的概念、总结研究论文、集思广益解决方案并学习如何编码。教育工作者正在调整他们的教学方法，更多地关注问题的解决，而不是语法，将生成式人工智能纳入课程中。然而，由于人工智能容易产生幻觉、潜在的版权问题和偏见，建议谨慎行事。目标是让人工智能在学习过程中成为副驾驶，而不是自动驾驶。学生和教育工作者之间的合作是将生成式人工智能成功融入计算机科学教育的关键。]]></description>
-      <guid>https://t.me/hn_summary/87761</guid>
-      <pubDate>Fri, 03 May 2024 17:59:55 GMT</pubDate>
+      <title>[媒体] DoorDash 让纽约市的顾客很难给他们的送货医生小费 [...]</title>
+      <link>https://t.me/hn_summary/87787</link>
+      <description><![CDATA[DoorDash 不会让您在没有该应用的情况下给纽约司机小费
+DoorDash 让纽约市的顾客很难给送货司机小费，以抗议保证司机最低工资的新法律。客户在下订单时无法再添加小费，现在必须在下订单后添加小费。添加小费的过程变得很麻烦，网站上没有明确的选项，只能通过与支持人员聊天来手动添加小费。 DoorDash 的举动被批评为对新最低工资法的愤怒，该公司称其“考虑不周”且“极端”。尽管存在障碍，顾客仍然可以给司机小费，但这并不像以前那么容易。]]></description>
+      <guid>https://t.me/hn_summary/87787</guid>
+      <pubDate>Fri, 03 May 2024 20:35:56 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，托尼·芬奇 (Tony Finch) 挑战了使用 sudo 必要性的主流信念 [...]</title>
-      <link>https://t.me/hn_summary/87760</link>
-      <description><![CDATA[不要
-在这篇博文中，Tony Finch 挑战了出于安全目的而使用 sudo 的必要性的主流观点。他认为 sudo 的设计缺陷和复杂的规则语言实际上使其作为安全防护和审计工具的有效性降低。 Finch 分享了他在该行业的工作经验，并对 sudo 的广泛采用提出了质疑，特别是在单用户工作站的环境中。他建议使用 real(8) 和 userv 等替代方案来实现更好的安全实践。 Finch 的非传统观点揭示了在各种系统管理场景中使用 sudo 的复杂性和局限性。]]></description>
-      <guid>https://t.me/hn_summary/87760</guid>
-      <pubDate>Fri, 03 May 2024 17:55:49 GMT</pubDate>
+      <title>[媒体] 20 世纪 70 年代末，一支物理学家团队，包括一名未来的宇航员和黑带，[...]</title>
+      <link>https://t.me/hn_summary/87786</link>
+      <description><![CDATA[空手道物理学：你的手如何在不破坏自身的情况下打破混凝土
+20 世纪 70 年代末，一组物理学家（包括一名未来的宇航员和黑带）进行了一项实验，以了解空手道击打如何在不伤害手的情况下击碎混凝土。通过理论与实验的结合，他们发现关键在于牛顿定律的精确应用。人手能够在短时间内产生很大的力量，而骨骼很容易吸收冲击力。该研究强调了解剖学、技术和精神纪律的结合，使空手道成为如此强大的武术。]]></description>
+      <guid>https://t.me/hn_summary/87786</guid>
+      <pubDate>Fri, 03 May 2024 20:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “trivial-inspect”项目是一个便携式的Common Lisp工具包，旨在构建[...]</title>
-      <link>https://t.me/hn_summary/87759</link>
-      <description><![CDATA[用于建筑检查员的便携式 Common Lisp 工具包
-“trivial-inspect”项目是一个为建筑检查员设计的便携式 Common Lisp 工具包。它提供类似于标准检查和描述功能的实用程序，旨在提供全面的信息，包括特定于实现的细节。用户可以克隆 Git 存储库并在 REPL 中加载系统来开始使用。该项目提供了用于访问对象字段和描述的 API，自述文件中提供了示例。作者强调提供尽可能多的信息的目标，使该项目与 Common Lisp 生态系统中的其他项目区分开来。]]></description>
-      <guid>https://t.me/hn_summary/87759</guid>
-      <pubDate>Fri, 03 May 2024 17:48:43 GMT</pubDate>
+      <title>问 HN：“AI 初创公司”的问题是什么？</title>
+      <link>https://t.me/hn_summary/87785</link>
+      <description><![CDATA[问 HN：“人工智能初创公司”的问题？
+作者质疑“人工智能初创公司”的生存能力，因为法学硕士或 AGI 风格的模型需要大量资源，这给现有企业带来了显着的优势。他们认为，发展领域专业知识、创建利基产品、收集用户数据以及构建特定领域的窄人工智能可能是更成功的方法。他们还对人工智能市场的开发工具过度饱和表示担忧。作者寻求有关技术人员获取领域专业知识的最佳方式以及非计算机领域联合创始人是否必要或有益的反馈。争议在于人工智能初创公司在与老牌企业竞争时所面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/87785</guid>
+      <pubDate>Fri, 03 May 2024 20:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻求关于选择哪个州作为 t [...]</title>
-      <link>https://t.me/hn_summary/87758</link>
-      <description><![CDATA[询问 HN：特拉华州 C 公司管辖法律管辖区
-作者正在寻求建议，选择哪个州作为其特拉华州 C 公司管辖法律管辖区。他们目前居住在 A 州，但计划在初创公司启动时搬到加利福尼亚州或其他州（B 州）。作者不确定是选择特拉华州、加利福尼亚州、A 州还是 B 州。这个决定至关重要，因为它将影响其公司运营的法律框架。作者正在向 news.ycombinator.com 社区寻求指导。]]></description>
-      <guid>https://t.me/hn_summary/87758</guid>
-      <pubDate>Fri, 03 May 2024 17:46:39 GMT</pubDate>
+      <title>[媒体] Perimeter 是一款开源即时战略游戏，具有独特的游戏元素，例如 [...]</title>
+      <link>https://t.me/hn_summary/87784</link>
+      <description><![CDATA[Perimeter – 开源实时战略游戏
+Perimeter 是一款开源实时战略游戏，具有独特的游戏元素，如地形改造、变形单位和能源网络。它需要游戏资产/资源才能运行，可以从购买的游戏或数字商店获得。该项目提供修改支持、错误修复和原始游戏的增强功能，例如右键单击变形单位以请求基本单位和支持自定义分辨率。它还包括多人游戏增强功能、对 MacOS 的实验性支持以及超过 4 人地图。该项目采用 GPLv3 许可，欢迎贡献、错误报告和功能请求。]]></description>
+      <guid>https://t.me/hn_summary/87784</guid>
+      <pubDate>Fri, 03 May 2024 19:55:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 南非 Xolobeni 社区的社区领袖 Nonhle Mbuthuma 面临着 [...]</title>
-      <link>https://t.me/hn_summary/87757</link>
-      <description><![CDATA[南非的一个社区阻止了壳牌石油公司的发展 
-南非 Xolobeni 社区的社区领袖 Nonhle Mbuthuma 由于反对该地区拟议的采矿项目而面临威胁和暴力。尽管遭到反对和个人危险，姆布图玛和她的同事们还是成功地停止了钛矿的建设，现在正在与壳牌石油公司沿狂野海岸勘探的计划作斗争。姆布图玛对保护社区环境、文化和生计的奉献精神为她赢得了国际认可，但她在为该地区可持续发展而持续奋斗的过程中仍然面临着威胁和挑战。]]></description>
-      <guid>https://t.me/hn_summary/87757</guid>
-      <pubDate>Fri, 03 May 2024 17:45:35 GMT</pubDate>
+      <title>“我们生，我们死。</title>
+      <link>https://t.me/hn_summary/87783</link>
+      <description><![CDATA[“我们活着，我们死去。除此之外，我们什么也控制不了。”
+Johan Pregmo 在他的文章中讨论了当前的电视现状，并称赞 FX 的 2024 年迷你剧《幕府将军》具有令人耳目一新的简洁性和历史准确性。该剧改编自詹姆斯·克拉维尔的小说，深入探讨了日本封建社会的残酷和等级森严，展示了现代和古代的文化对比和普遍性。Pregmo 强调该剧避免了身份政治和美德信号等现代叙事陷阱，并称赞其人物写作避开了陈词滥调。尽管存在一些节奏问题和有点悬而未决的结局，但《幕府将军》在当今媒体领域中脱颖而出，成为精心制作且引人入胜的故事的罕见典范。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87783</guid>
+      <pubDate>Fri, 03 May 2024 19:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Y Combinator 合伙人兼 Monzo Bank 创始人 Tom Blomfield 透露，投资 [...]</title>
-      <link>https://t.me/hn_summary/87756</link>
-      <description><![CDATA[投资者不会告诉你他们转手的真正原因启动
-Y Combinator 合伙人兼 Monzo Bank 创始人 Tom Blomfield 透露，投资者通常不会给出放弃初创公司的真正原因，因为创始人缺乏信心是一个常见的根本问题。投资者回报的幂律强调初创公司需要取得巨大的成功以吸引风险投资的兴趣。了解目标市场并在筹款中创造杠杆是至关重要的策略。天使投资人用心投资，可以提供有价值的介绍。创始人来自投资者的反馈可能会产生误导，因此对投资者进行尽职调查对于避免潜在冲突至关重要。]]></description>
-      <guid>https://t.me/hn_summary/87756</guid>
-      <pubDate>Fri, 03 May 2024 17:41:30 GMT</pubDate>
+      <title>TORAX 是一个用 Python-JAX 编写的可微分托卡马克核心传输模拟器，专为 [...]</title>
+      <link>https://t.me/hn_summary/87782</link>
+      <description><![CDATA[TORAX 是可微分托卡马克核心传输模拟器
+TORAX 是一款用 Python-JAX 编写的可微分托卡马克核心传输模拟器，专为快速准确的正向建模、脉冲设计、轨迹优化和控制器设计工作流程而设计。它利用自动微分功能和代码编译来实现快速运行，从而允许基于梯度的非线性 PDE 求解器和灵敏度分析。 TORAX 具有耦合偏微分方程、多个求解器选项、各种物理模型以及耦合物理模型的 ML 代理的能力。它通过为轨迹优化和数据驱动参数识别等应用提供开源、可扩展且易于定制的功能而脱颖而出。提供安装和使用说明，并概述未来功能的路线图。]]></description>
+      <guid>https://t.me/hn_summary/87782</guid>
+      <pubDate>Fri, 03 May 2024 19:49:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]过度优化的现代诅咒正在困扰各个行业，从 eBay reselli [...]</title>
-      <link>https://t.me/hn_summary/87755</link>
-      <description><![CDATA[过度优化的现代诅咒
-现代过度优化的诅咒正在困扰各个行业，从 eBay 转售到餐厅预订再到约会应用程序。随着数据和数字工具的涌入，一些用户找到了最大化自己优势的方法，而让其他用户处于劣势并造成了负面的社会后果。 eBay 转售中算法和机器人的兴起、餐厅预订的自动化以及约会应用程序界面的操纵都是数据访问如何使某些用户的系统过度优化的例子。这种趋势也延伸到了旅游领域，互联网消除了隐藏宝石的概念，导致旅游目的地过度拥挤。过度优化的后果在现代生活的各个方面变得越来越明显。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87755</guid>
-      <pubDate>Fri, 03 May 2024 17:18:49 GMT</pubDate>
+      <title>生成 1024 位素数有多难？</title>
+      <link>https://t.me/hn_summary/87781</link>
+      <description><![CDATA[生成 1024 位素数有多难？ 
+此 Web 内容的作者探讨了使用 Rust 编程语言为 RSA 密钥生成生成 1024 位素数的挑战。他们从生成 16 位素数开始，展示了创建随机数生成器和素性测试的过程。转向 64 位素数，作者优化了试除算法以获得更快的结果。本文深入探讨了素数生成的复杂性以及作者应对这一挑战的历程。使用 /dev/urandom 生成随机数和优化素性测试被强调为该过程的关键方面。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87781</guid>
+      <pubDate>Fri, 03 May 2024 19:48:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“飞行汽车”的想法长期以来一直吸引着梦想家的想象力，但真正的[...]</title>
-      <link>https://t.me/hn_summary/87754</link>
-      <description><![CDATA[飞行汽车已死
-“飞行汽车”的想法长期以来一直吸引着梦想家的想象力，但现实情况是，将公路汽车和飞机的功能结合起来会导致车辆不太适合这两​​者。 BlackFly 和 Helix eVTOL 个人飞机背后的 Pivotal 公司制造了比塞斯纳飞机更容易使用的超轻型飞机，并且可以从短跑道起飞。尽管私人飞行具有吸引力，但飞行汽车的复杂性和风险使其成为未来不切实际的交通方式。]]></description>
-      <guid>https://t.me/hn_summary/87754</guid>
-      <pubDate>Fri, 03 May 2024 17:16:43 GMT</pubDate>
+      <title>[媒体]在罗马军团战胜马其顿方阵系列的第五部分中，[...]</title>
+      <link>https://t.me/hn_summary/87780</link>
+      <description><![CDATA[方阵的黄昏，军团的胜利，第五部分：尾声 
+在罗马军团战胜马其顿方阵系列的第五部分中，尾声涵盖了公元前二世纪和公元前一世纪罗马在希腊化东方中的角色。 168 年在皮德纳取得决定性胜利后，罗马在希腊确立了霸权，导致了 150-148 年第四次马其顿战争。罗马在彼得那的胜利产生了深远的影响，马其顿分裂为四个共和国，托勒密-塞琉古“叙利亚战争”重新燃起。罗马使节们确立了罗马在东方的霸权，终止了塞琉古王朝的最后复兴，并提前结束了托勒密王国。由于这一时期的历史资料较弱，结语对事件进行了广泛的概述。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87780</guid>
+      <pubDate>Fri, 03 May 2024 19:43:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 18:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:18:19 GMT</lastBuildDate>
     <item>
       <title>专业备份</title>
       <link>https://www.producthunt.com/posts/pro-backup</link>
       <description><![CDATA[
-            获取 SaaS 应用程序的每日自动备份
-          
+获取 SaaS 应用的每日自动备份
 
-讨论&lt; /a&gt;
-            |
-            链接
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/pro-backup</guid>
       <pubDate>Fri, 03 May 2024 09:27:56 GMT</pubDate>
@@ -23,12 +23,12 @@
       <title>人工智能摄影师</title>
       <link>https://www.producthunt.com/posts/fotographer-ai</link>
       <description><![CDATA[
-由 AI 创建的营销内容
+            AI创造的营销内容
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/fotographer-ai</guid>
       <pubDate>Fri, 03 May 2024 07:34:41 GMT</pubDate>
@@ -65,7 +65,7 @@
       <title>回声鸭</title>
       <link>https://www.producthunt.com/posts/echoduck</link>
       <description><![CDATA[
-            随时随地私密共享文件
+            该选项卡是我的服务器
           
 
 讨论
@@ -160,7 +160,7 @@
       <pubDate>Thu, 02 May 2024 06:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>巫师射击</title>
+      <title>魔法射击</title>
       <link>https://www.producthunt.com/posts/wizardshot</link>
       <description><![CDATA[
             使用 AI 自动创建分步教程
