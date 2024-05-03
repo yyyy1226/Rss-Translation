@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 03 May 2024 03:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:25:16 GMT</lastBuildDate>
+    <item>
+      <title>如何从 apk 中提取未出现在 res 或 obb 文件夹中的图像？</title>
+      <link>https://www.reddit.com/r/software/comments/1ciztga/how_do_i_extract_images_from_an_apk_that_dont/</link>
+      <description><![CDATA[我正在尝试收集我玩的游戏“livly island”中的所有物品图像。有一些项目可以用来自定义您的头像和空间，我想为它们制作一个包含相关信息的非官方数据库。 但是，当我提取 apk 时，其中只有几个图标图像res 文件夹中，obb 文件夹中没有任何内容。难道我做错了什么？感谢您的帮助！   由   提交/u/augurmaton   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ciztga/how_do_i_extract_images_from_an_apk_that_dont/</guid>
+      <pubDate>Fri, 03 May 2024 04:20:32 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以离线模仿电视的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ciwy45/is_there_software_where_you_can_mimic_tv_offline/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>如何使用 Minecraft 的宏创建器/击键记录器？</title>
       <link>https://www.reddit.com/r/software/comments/1ciufgo/how_do_i_use_macro_creators_keystroke_recorders/</link>
-      <description><![CDATA[由于鼠标始终锁定在屏幕中央，因此在重播 Pulover 或 TinyTask 等宏时，鼠标移动总是感觉抖动且缓慢。有谁知道解决方案吗？   由   提交 /u/sand_jpg   [链接] [评论]]]></description>
+      <description><![CDATA[由于鼠标始终锁定在屏幕中心，因此在重放诸如 Pulover 或 TinyTask 之类的宏时，鼠标移动总是感觉不稳定且缓慢。有人知道解决办法吗？    提交人    /u/sand_jpg   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ciufgo/how_do_i_use_macro_creators_keystroke_recorders/</guid>
       <pubDate>Thu, 02 May 2024 23:43:18 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>让不同的电脑播放不同的视频但同步</title>
       <link>https://www.reddit.com/r/software/comments/1cirq3j/make_different_computers_play_different_videos/</link>
-      <description><![CDATA[嗨，我正在寻找一款可以在不同计算机上同步视频的软件，就我而言，我想要一个屏幕显示电影，另一个屏幕显示电影屏幕（可以是两台不同的计算机）来显示单独的视频，并重复显示字幕，因此需要同步。 提前致谢！    由   提交 /u/whitedadontheinside   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在寻找一种可以在不同的计算机上同步视频的软件，就我而言，我希望一个屏幕显示电影，另一个屏幕（可以是两台不同的计算机）显示单独的视频，重复显示字幕，因此需要同步。 提前致谢！    提交人    /u/whitedadontheinside   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cirq3j/make_different_computers_play_different_videos/</guid>
       <pubDate>Thu, 02 May 2024 21:43:08 GMT</pubDate>
     </item>
     <item>
       <title>适用于 Mac 或 Windows 的多轨视频录制软件。</title>
       <link>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</link>
-      <description><![CDATA[用于 Mac 或 Windows 的多轨视频录制软件。4 个 HDMI 输入记录为单独的“音轨”。不混合到一个流中。  就像我处理音乐一样。    提交人    /u/NoeticIntelligence   [link] [评论]]]></description>
+      <description><![CDATA[适用于 Mac 或 Windows 的多轨视频录制软件。 4 个 HDMI 输入记录为单独的“轨道”。没有将其混合到一个流中。  就像我对待音乐一样。   由   提交 /u/NoeticIntelligence   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</guid>
       <pubDate>Thu, 02 May 2024 20:56:34 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 17:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 游戏无法关闭（即使重新启动电脑，任务仍正在运行，但无法终止，因为“它没有运行”）</title>
+      <title>Steam 游戏无法关闭（即使重新启动电脑。发现任务正在运行但无法终止，因为“它没有运行”）</title>
       <link>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</link>
       <description><![CDATA[我从我的电脑上在 Steam 上启动了《星球大战：前线》，但现在它无法关闭。在 EA 应用程序上它显示它没有运行，但在 steam 上它是。关闭游戏不会执行任何操作，它不在任务栏中，任务管理器也不会显示任何内容。我什至重新启动了我的电脑。当我打开它时游戏仍在运行。我用任务管理器关闭了很多次steam，但没有任何作用。我也刚刚以管理员身份尝试了命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载steam，因为它正在运行游戏。我验证了文件的完整性，并且不需要两秒钟就可以验证它们。哦，关于“停止”在 Steam 游戏中，是的，根据 Steam 的说法，这已经停止了大约 1.7 小时。哦，另一个编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行，请帮忙  &lt; p&gt;https://preview.redd.it/3b2rh1uis1yc1。 png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc 337b0fb2e8854ce6 https://preview.redd.it/ fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​ &lt; /div&gt;  由   提交/u/MousseIndependent310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想在 netflix 上观看更多内容，并且我想找到一个好的 VPN   由   提交 /u/sosthesosi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cil0jb/a_good_free_vpn/</guid>
       <pubDate>Thu, 02 May 2024 17:08:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 视频播放器应用程序可让您永久隐藏进度条</title>
-      <link>https://www.reddit.com/r/software/comments/1cikoqe/android_video_player_app_that_lets_you_hide_the/</link>
-      <description><![CDATA[我已经将其发布在 r/androidapps 多次，但我什么也没得到。 我不喜欢看到进度条，因为我不想知道我正在观看的内容还剩多少。这对我来说有点像剧透。就像，电影终于开始好看了，但你不小心切换了进度条，所以你看到它快要结束了。这毁了我的观看。我宁愿被所有的曲折弄得措手不及，或者电影很糟糕，或者有悬念。我什至尽力不知道我要观看的电影或节目的播放时间。我知道这很疯狂，哈哈 在 Windows 上，我使用 mpv.net，它可以让您自定义其所有界面。目前，我将其设置为除非启用它，否则进度条不会显示。我还禁用了在视频快退或快进时出现的时间戳。即使在编辑配置后，唯一适用于 Android 的 mpv 应用程序也不允许您执行此操作。我测试过的大多数视频播放器也不会让你这样做。许多手机都有锁定界面的选项，这样您就不会在拿着手机时意外按下某些东西。其缺点是除非解锁，否则您无法快退或快进视频。如果这样做，进度条将会显示。 Android 上有视频应用程序可以让您执行我想要的操作吗？  &amp; #32；由   提交/u/bonocca  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cikoqe/android_video_player_app_that_lets_you_hide_the/</guid>
-      <pubDate>Thu, 02 May 2024 16:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
