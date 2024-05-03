@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 02 May 2024 21:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:20:28 GMT</lastBuildDate>
+    <item>
+      <title>演唱会海报</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1civl8n/concert_poster/</link>
+      <description><![CDATA[有免费的资源可以制作音乐会海报吗？我正在尝试 ChatBox AI，但它仍然拼错海报上的单词。   由   提交 /u/NOrlow42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1civl8n/concert_poster/</guid>
+      <pubDate>Fri, 03 May 2024 00:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>改进虚拟试穿的扩散模型 - 最先进的传输任何内容 - 查看示例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciuvqe/improving_diffusion_models_for_virtual_tryon/</link>
+      <description><![CDATA[论文：https://arxiv.org/abs/2403.05139  本文考虑基于图像的虚拟试穿，在给定一对分别描绘人和衣服的图像的情况下，渲染穿着精选服装的人的图像。与其他方法（例如基于 GAN）相比，之前的作品采用现有的基于样本的修复扩散模型进行虚拟试穿，以提高生成的视觉效果的自然度，但它们无法保留服装的身份。为了克服这一限制，我们提出了一种新颖的扩散模型，可以提高服装保真度并生成真实的虚拟试穿图像。我们的方法被称为 IDM-VTON，使用两个不同的模块来编码服装图像的语义；给定扩散模型的基础 UNet，1）将从视觉编码器提取的高级语义融合到交叉注意力层，然后 2）将从并行 UNet 提取的低级特征融合到自注意力层层。此外，我们还为服装和人物图像提供详细的文字提示，以增强生成视觉效果的真实性。最后，我们提出了一种使用一对人物服装图像的定制方法，该方法显着提高了保真度和真实性。我们的实验结果表明，我们的方法在保留服装细节和生成真实的虚拟试穿图像方面（无论是定性还是定量）都优于以前的方法（基于扩散和基于 GAN）。此外，所提出的定制方法证明了其在现实场景中的有效性。我们的项目页面提供了更多可视化效果：此 https URL ​ 示例：https://www.reddit.com/r/StableDiffusion/comments/1ciu2xw/idmvton\_virtual\_try\_on \_is\_simply\_mind\_blowing\_can/ ​   由   提交 /u/CeFurkan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciuvqe/improving_diffusion_models_for_virtual_tryon/</guid>
+      <pubDate>Fri, 03 May 2024 00:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人设备上的个人数据湖和人工智能助手 - 存在吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</link>
+      <description><![CDATA[TLDR - 我想找到一个像 2013 年电影《她》中那样的操作系统。 把我所有的文件、收据都拿出来、文件、图片、税务信息，应有尽有。使用它作为搜索功能、数据分析功能、组织媒体、清除我已经拖了 30 年的垃圾数据，然后让它告诉我如何摆脱生活中的混乱🤪 天啊，如果我爱上它，那会很奇怪，但我可以习惯它   由   提交 /u/erinxcv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</guid>
+      <pubDate>Thu, 02 May 2024 22:17:05 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我要构建人工智能健康应用程序。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqtpb/why_im_building_a_ai_health_app/</link>
@@ -48,32 +69,11 @@
       <pubDate>Thu, 02 May 2024 17:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>转录聊天消息</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciihwd/transcribe_chat_messages/</link>
-      <description><![CDATA[不确定使用哪种风格。  我有几张线程短信的屏幕截图。哪种人工智能工具最适合将图像转录成保留线索的格式化文档。我希望能够辨别哪个聊天气泡来自哪个聊天。   由   提交/u/psyntist  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciihwd/transcribe_chat_messages/</guid>
-      <pubDate>Thu, 02 May 2024 15:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 工作调度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciidlf/ai_scheduling_for_work/</link>
-      <description><![CDATA[我最近接手了一份新工作，并为一家公司开设了新地点，我们既有大型合同客户，也有小型核心客户。  我正在努力拓展这个领域并发展与现有客户的关系。  我想知道是否有任何类型的人工智能可以提供电子表格并具有重要的“排名”，可以定义访问频率、分配的时间以及位置，并让它帮助创建每月的时间表。如果我可以将其链接到可以帮助自动执行后续通知的注释，那就太好了。  这可能是更定制的东西，并且需要更多的跑腿工作或付费订阅，所有这些我都可以接受。我希望优化我的时间并减轻我的精神负担。  感谢任何帮助。    由   提交/u/ewoodside25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciidlf/ai_scheduling_for_work/</guid>
-      <pubDate>Thu, 02 May 2024 15:22:29 GMT</pubDate>
-    </item>
-    <item>
       <title>美国国家科学基金会资助由东北大学领导的突破性研究项目，以“民主化”人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</link>
       <description><![CDATA[国家深度推理结构将解锁人工智能领域大型语言模型的内部运作。 该项目将创建计算基础设施将为科学界配备深度推理工具，以便开发跨领域的创新解决方案。  完整文章：https://news.northeastern .edu/2024/05/02/how-do-ai-chatbots-work/   由   提交 /u/NGNResearch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</guid>
       <pubDate>Thu, 02 May 2024 15:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想制作一个我自己的人工智能版本。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</link>
-      <description><![CDATA[我希望它通过我的电子邮件，标记废话已读并将其存档，连接到我的 CRM，创建任务，也许做一些他们，通常都能完成任务。  是否有一个人工智能可以让我像我一样完成我的工作？   由   提交 /u/Stateswitness1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</guid>
-      <pubDate>Thu, 02 May 2024 13:23:16 GMT</pubDate>
     </item>
     <item>
       <title>还有什么是人工智能做不到的吗？</title>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 01 May 2024 20:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
