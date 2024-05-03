@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 03 May 2024 09:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 12:33:33 GMT</lastBuildDate>
     <item>
-      <title>我需要一个预算友好的 GPU</title>
-      <link>https://www.reddit.com/r/editors/comments/1cj3nut/i_need_a_budget_friendly_gpu/</link>
-      <description><![CDATA[最适合视频编辑的 AMD GPU 是什么？英伟达对我来说太贵了。我住在德国   由   提交 /u/antiaust   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cj3nut/i_need_a_budget_friendly_gpu/</guid>
-      <pubDate>Fri, 03 May 2024 08:34:39 GMT</pubDate>
+      <title>用的什么app？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cj7d3j/what_app_what_used/</link>
+      <description><![CDATA[第一次发布海报。 我正在尝试找出可以使用什么来创建这些编辑，手机，桌面，以及什么软件。 任何帮助，我们将不胜感激 https ://www.instagram.com/reel/C6ec7tJr5uR/?igsh=eXM1bTg0bHp0b3Zj   由   提交/u/Mika-afk  /u/Mika-afk  reddit.com/r/editors/comments/1cj7d3j/what_app_what_used/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cj7d3j/what_app_what_used/</guid>
+      <pubDate>Fri, 03 May 2024 12:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么好的软件可以像Google Drive这样的云服务上传和下载？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cj4lt9/is_there_any_good_software_to_upload_and_download/</link>
+      <description><![CDATA[如果您从 Google Drive 等服务上传或下载大量文件，您可能知道丢失文件、不同的 rar 文件和取消上传的困难，因此我想知道是否有任何程序可以让我直接使用 Google Drive，并暂停上传/下载并稍后继续。有什么建议吗？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cj4lt9/is_there_any_good_software_to_upload_and_download/</guid>
+      <pubDate>Fri, 03 May 2024 09:41:38 GMT</pubDate>
     </item>
     <item>
       <title>Tube 音频库 sfx</title>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 03 May 2024 07:31:03 GMT</pubDate>
     </item>
     <item>
-      <title>Premire 卡在“创建代理作业”</title>
+      <title>Premire 陷入“创建代理工作”的困境</title>
       <link>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</link>
       <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它就会卡在“”上“创建代理作业”。媒体编码器端似乎也没有发生任何操作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0 ( Build 59)// 素材：来自 HDD 的 BRAW   由   提交/u/GreenToad56  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我真的不想在车库里安装我的旧 Mac Pro Xenon 塔，用完整的 FCP 7 工作室来刻录视频 DVD。我的日常驾驶是 m3 pro MacBook pro。我有一个 USB 供电的外部 CD/DVD/蓝光刻录机。很确定 Premier 2024（或媒体编码器）可以导出正确的 mpeg2 文件，但我一辈子都不记得如何制作视频 DVD。 Roxio Toast 的 8 个左右版本都无法在基于 Intel 的 MacBook 上运行。我只记得它必须是 ISO XXXX 类型的刻录，并且根目录中需要一个 VIDEO_TS 和一个 AUDIO_TS 文件夹。有什么想法吗？当然，旧塔有 DVD Studio Pro，作为 FCP Studio 的一部分，但是，我真的不想立即将其清空并准备再次运行。更新的硅软件对我来说并非不可能，但我试图保持简单，但为带有内置 DVD 播放器的电视和露营用的便携式 DVD 播放器制作可播放的 DVD。   由   提交/u/Listo4486  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</guid>
       <pubDate>Thu, 02 May 2024 03:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从整理转向编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</link>
-      <description><![CDATA[我很难看到这里树上的叶子。我一直在 Flame 的一家高端邮局担任助理美术师，很喜欢那里的环境和人，但对伴奏工作失去了兴趣，而对编辑更感兴趣。我梦想中的许多公司都是我们的供应商，而且他们离商店也很近，这真是太酷了。  当他们对我的未来进行投资时，表明我对编辑感兴趣是否明智？他们不提供编辑服务，因此这可能会导致我失业。事情已经发展到我开始失去兴趣的地步，但我已经证明了我的技能。  关于如何处理这样的事情有什么建议吗？    由   提交/u/chlass  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</guid>
-      <pubDate>Thu, 02 May 2024 03:08:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
