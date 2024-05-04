@@ -4,9 +4,16 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 04 May 2024 12:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:19:17 GMT</lastBuildDate>
     <item>
-      <title>Immich 核心团队即将加入 Grayjay 的制作者 FUTO</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
+      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
+      <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Immich 核心团队将加入 Grayjay 的开发商 FUTO</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy6l4/immich_core_team_is_joining_futo_the_makers_of/</link>
       <description><![CDATA[ 由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy6l4/immich_core_team_is_joining_futo_the_makers_of/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
-      <description><![CDATA[大家好， 我正在研究为一家开源软件组织的经销商/MSP/集成商/等9 构建渠道合作伙伴计划，并正在寻找一些建议和示例，以了解如何构建一个好的计划。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能尽快完成（尽可能！）。 您认为什么样的开源供应商的程序才是好的？您最喜欢哪些程序？最重要的是，为什么？ 提前感谢您允许我提出这个非技术性的问题！    提交人    /u/jph-reelyactive   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
     </item>
@@ -69,14 +76,14 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放式 GUI/网站构建器，最后我找到了两个，Grapesjs 和 Vvvebjs，但是由于某种原因，它们都没有拖放功能，尽管这么说，但人们是否必须先启用/禁用某些功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
       <pubDate>Thu, 02 May 2024 19:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>有任何适用于 Android 的开源 Facebook 客户端/包装器吗？</title>
+      <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
       <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
       <pubDate>Thu, 02 May 2024 12:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
-      <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
