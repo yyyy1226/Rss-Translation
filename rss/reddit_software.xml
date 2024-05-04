@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 06:24:27 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 04 May 2024 09:19:37 GMT</lastBuildDate>
     <item>
       <title>在 Windows 11 上安装 Windows Visual C++ 2010 的问题</title>
       <link>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</link>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 17:16:32 GMT</pubDate>
     </item>
     <item>
-      <title>切割、修剪和组合</title>
+      <title>剪切、修剪和组合</title>
       <link>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</link>
       <description><![CDATA[大家好，您能推荐一款适用于 Macbook 的简单剪切、修剪和组合软件吗？我们谈论的是每个 1-2 秒的视频有成百上千次剪辑。    由   提交/u/ExistingAd8421   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>使用 Arsclip 已经很多年了，现在当我使用弹出热键时它就坏了。这是怎么回事？</title>
       <link>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</link>
-      <description><![CDATA[出现问题后，我升级到了最新版本；我下载了新版本并将新版本移动到我原来的文件夹中，替换了旧版本，因此我保留了原始数据库。    提交人    /u/Novel_Entry   [link] [评论]]]></description>
+      <description><![CDATA[问题发生后，我升级到最新版本；我下载了新版本并将新版本移至原始文件夹，该文件夹替换了旧版本，因此我保留了原始数据库。   由   提交 /u/Novel_Entry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjb2i4/been_using_arsclip_for_many_years_now_it_breaks/</guid>
       <pubDate>Fri, 03 May 2024 15:11:10 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>有好的电脑清洁剂吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</link>
-      <description><![CDATA[有哪些适用于 Windows 的好清理软件？我以前用过 ccleaner，但听说它对电脑不好    提交人    /u/ReddishOnion   [link] [comments]]]></description>
+      <description><![CDATA[有哪些好的 Windows 清理软件？我曾经使用过 ccleaner，但我听说它对你的电脑不好   由   提交 /u/ReddishOnion   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</guid>
       <pubDate>Fri, 03 May 2024 14:46:01 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>为 Windows 系统提供安全远程支持的最佳解决方案是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cja0un/whats_your_best_solution_for_providing_secure/</link>
-      <description><![CDATA[鉴于目前有无数种选择，我很好奇社区对安全地为 Windows 系统提供远程支持的偏好。  您目前为此目的依赖哪些工具或软件？哪些时刻和功能是最重要的？    提交人    /u/Hopeful-Clothes-6896   [link] [评论]]]></description>
+      <description><![CDATA[鉴于有无数的选项，我很好奇社区对安全地向 Windows 系统提供远程支持的偏好。  您目前依靠什么工具或软件来实现此目的？最需要考虑的时刻和功能是什么？   由   提交 /u/Hopeful-Clothes-6896   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cja0un/whats_your_best_solution_for_providing_secure/</guid>
       <pubDate>Fri, 03 May 2024 14:26:57 GMT</pubDate>
     </item>
     <item>
       <title>寻求 Thunderbird 的 Exchange 电子邮件帐户替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
-      <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，Redditors 的朋友们，让我们直接进入主题吧。我目前管理着六个电子邮件帐户，其中两个是我工作的公司关联的 Exchange 帐户。其余四个帐户用于各种目的，包括个人使用和求职。直到最近，我都依赖 Thunderbird 作为我的电子邮件客户端。然而，它突然无法顺利地与我的 Exchange 帐户配合使用。虽然它仍然可以连接到服务器，但它拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 运行正常。现在，我正在寻找一个替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有人有什么建议吗？我将非常感谢您的见解！    提交人    /u/sana9675   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
       <pubDate>Fri, 03 May 2024 14:16:17 GMT</pubDate>
     </item>
