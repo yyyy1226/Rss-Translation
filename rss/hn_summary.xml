@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 04 May 2024 15:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:15:22 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Redox OS 项目在四月份取得了重大进展，USB 键盘和麦克风 [...]</title>
-      <link>https://t.me/hn_summary/87874</link>
-      <description><![CDATA[Rust 编写的 Redox OS 使 USB 键盘和鼠标能够正常工作
-Redox OS 项目在 4 月份取得了重大进展，得益于其 USB HID 驱动程序，USB 键盘和鼠标现在可以正常工作。最新的状态报告重点介绍了一些改进，例如使用 GCC 进行静态二进制构建、使用运行 Orbital 桌面的 QEMU 支持 ARM64 以及对内核的 futex 实现的增强。虽然由于轮询，USB 输入设备的性能会略有下降，但 USB 集线器尚未完全受支持。尽管面临这些挑战，但 Redox OS 在 USB 支持方面仍领先于 GNU Hurd。请查看 Redox-OS.org 上的完整详细信息以了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/87874</guid>
-      <pubDate>Sat, 04 May 2024 15:18:56 GMT</pubDate>
+      <title>隐藏怀孕实验：我可以在手机上隐藏我怀孕的信息吗？</title>
+      <link>https://t.me/hn_summary/87911</link>
+      <description><![CDATA[隐藏怀孕实验：我可以在手机上隐藏我怀孕的情况吗？
+2022 年秋天，作者开始了一项实验，试图在手机中隐藏自己怀孕的消息，探索追踪我们一举一动的庞大监控网络。以数据隐私问题为首要问题，作者深入研究了监视资本主义的世界，在这个世界中，个人信息在我们不知情的情况下被买卖。故事贯穿了怀孕、为人父母的复杂性和现代技术的侵入性。从婴儿监视器到怀孕应用程序，作者质疑持续监视对我们生活的影响，强调了照顾和治安之间的模糊界限。这篇文章提出了有关隐私、自治以及我们社会中不断扩大的监视范围的重要问题。 （根据 73% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87911</guid>
+      <pubDate>Sat, 04 May 2024 21:15:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tview 是一个 Golang 终端 UI 库，为创建提供丰富的交互式小部件 [...]</title>
-      <link>https://t.me/hn_summary/87873</link>
-      <description><![CDATA[Tview – 具有丰富、交互式小部件的 Golang 终端 UI 库
-Tview 是一个 Golang 终端 UI 库，提供丰富的交互式小部件，用于创建基于终端的用户界面。它包括输入表单、文本视图、表格、树视图等组件，具有自定义选项和易于扩展性。该项目通过提供广泛的小部件和示例以及越来越多的使用 tview 的项目列表来脱颖而出。作者强调保持向后兼容性并鼓励用户反馈。该软件包依赖于 tcell 和 uniseg 依赖项。用户可以参考 pkg.go.dev 上的文档和 Wiki 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/87873</guid>
-      <pubDate>Sat, 04 May 2024 15:12:50 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/87910</link>
+      <description><![CDATA[美国与谷歌：随着具有里程碑意义的垄断审判结束，以下是需要寻找的内容
+2020 年，美国司法部和 35 个州起诉谷歌垄断在线搜索，这场具有里程碑意义的审判现已接近尾声。该审判是针对科技公司的第一起备受瞩目的垄断案件，引发了对谷歌涉嫌反竞争策略的激烈争论。谷歌斥资数十亿美元成为设备上的默认搜索引擎，而苹果仅在 2021 年就获得了约 180 亿美元。法官的裁决可能会对互联网产生重大影响。此次审判也揭示了反垄断法能否有效监管数字时代科技行业的争论。]]></description>
+      <guid>https://t.me/hn_summary/87910</guid>
+      <pubDate>Sat, 04 May 2024 21:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 特斯拉发生了什么事？</title>
-      <link>https://t.me/hn_summary/87872</link>
-      <description><![CDATA[特斯拉发生了什么？专家是这样认为的
-埃隆·马斯克创立的电动汽车公司特斯拉最近因种种错误的原因而成为头条新闻。销售额下降，利润微薄，马斯克正在公司内部大幅裁员。尽管过去取得了成功，但特斯拉在电动汽车市场面临着激烈的竞争，导致价格下降和利润率下降。围绕马斯克的领导风格存在争议，最近的裁员和重组引起了员工和行业专家的担忧。该公司放弃车辆关键传感器的决定也引发了安全担忧，召回和死亡事故与特斯拉的驾驶员辅助功能有关。]]></description>
-      <guid>https://t.me/hn_summary/87872</guid>
-      <pubDate>Sat, 04 May 2024 15:11:46 GMT</pubDate>
+      <title>[媒体] 令人兴奋的新研究表明，个性化的 mRNA 疫苗可以显着增强 [...]</title>
+      <link>https://t.me/hn_summary/87909</link>
+      <description><![CDATA[个性化 mRNA 疫苗增强黑色素瘤免疫治疗
+令人兴奋的新研究表明，个性化 mRNA 疫苗可以显着增强高危黑色素瘤患者的免疫治疗。通过将这种创新疫苗与派姆单抗相结合，研究人员发现与单独使用派姆单抗相比，治疗结果显着改善。这种个性化方法有望提高黑色素瘤免疫疗法的有效性，并可能彻底改变这种侵袭性癌症的治疗策略。]]></description>
+      <guid>https://t.me/hn_summary/87909</guid>
+      <pubDate>Sat, 04 May 2024 21:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>癌症疫苗正在经历一场复兴，个性化疫苗如来自 Mode [...]</title>
-      <link>https://t.me/hn_summary/87871</link>
-      <description><![CDATA[癌症疫苗正在复兴
-随着 Moderna 和 BioNTech 等个性化疫苗的出现，癌症疫苗正在经历复兴。这些疫苗通过识别肿瘤突变并使用人工智能算法选择可以引发免疫反应的新抗原，针对每位患者的特定癌症进行定制。虽然所需的新抗原的神奇数量仍然未知，但这些疫苗在直接针对癌症的免疫反应方面显示出了希望。研究人员正在探索新抗原的各种递送方法，虽然不能保证成功，但个性化疫苗为治疗不同肿瘤类型带来了希望。人们对癌症疫苗重新产生的兴趣令人鼓舞，它有可能在其他疗法失败的情况下取得成功。]]></description>
-      <guid>https://t.me/hn_summary/87871</guid>
-      <pubDate>Sat, 04 May 2024 14:45:35 GMT</pubDate>
+      <title>Verus 是一个通过允许开发人员编写特定代码来验证 Rust 代码正确性的工具 [...]</title>
+      <link>https://t.me/hn_summary/87908</link>
+      <description><![CDATA[经过验证的低级系统代码 Rust
+Verus 是一个用于验证 Rust 代码正确性的工具，允许开发人员编写代码应满足的规范。它使用强大的求解器而不是运行时检查来静态检查可执行的 Rust 代码，以确保其满足所有可能执行的这些规范。 Verus 支持 Rust 的一个子集，并且可以超越标准类型系统来检查操作原始指针的代码。该项目正在积极开发中，文档不完整，鼓励用户在 Zulip 上寻求帮助。欢迎贡献，也可以在 GitHub 或 Zulip 上进行讨论。该项目由开源团队聊天应用程序 Zulip 赞助。]]></description>
+      <guid>https://t.me/hn_summary/87908</guid>
+      <pubDate>Sat, 04 May 2024 20:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>由于印度秃鹰数量的减少，传统的琐罗亚斯德教埋葬仪式受到威胁 [...]</title>
-      <link>https://t.me/hn_summary/87870</link>
-      <description><![CDATA[“我们的文化正在消亡”：秃鹫短缺威胁琐罗亚斯德教的葬礼&lt; /a&gt;
-由于印度、伊朗和巴基斯坦秃鹫数量的减少，传统的琐罗亚斯德教丧葬仪式正受到威胁。帕西族社区历来使用被称为“沉默之塔”的建筑来处理死者，让秃鹰吃掉尸体。然而，由于双氯芬酸药物无意中中毒，秃鹫数量急剧下降。因此，帕西人正在探索其他方法，例如圈养秃鹫繁殖和太阳能聚光器，以延续他们的埋葬习俗。秃鹫的减少导致人们重新评估传统做法，一些社区成员主张保护和恢复秃鹫种群。]]></description>
-      <guid>https://t.me/hn_summary/87870</guid>
-      <pubDate>Sat, 04 May 2024 14:25:26 GMT</pubDate>
+      <title>[媒体] SOCKS 协议是计算机网络中的重要工具，可实现安全和电子 [...]</title>
+      <link>https://t.me/hn_summary/87907</link>
+      <description><![CDATA[了解 Socks 协议
+SOCKS 协议是计算机网络中的重要工具，允许通过代理服务器在客户端和服务器之间进行安全、高效的通信。有两个主要版本：SOCKS4A 和 SOCKS5，后者由于正确的 RFC 规范而成为焦点。该协议涉及客户端和服务器之间交换的一系列消息，包括身份验证和连接建立。值得注意的是，SOCKS5 是一种二进制协议，可优化带宽但使故障排除变得复杂。除了基本的 TCP 连接之外，SOCKS 还支持诸如用于传入连接的 BIND 和 UDP 支持等功能。 Tor 和 OpenSSH 等各种软件项目都利用 SOCKS 进行安全通信。]]></description>
+      <guid>https://t.me/hn_summary/87907</guid>
+      <pubDate>Sat, 04 May 2024 20:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1986 年，劳伦斯利弗莫尔国家实验室的镜面聚变测试设备-B（MFTF-B）[...]</title>
-      <link>https://t.me/hn_summary/87869</link>
-      <description><![CDATA[镜子融合测试设施（2023）
-1986年，劳伦斯利弗莫尔国家实验室的镜面聚变测试设施-B（MFTF-B）大张旗鼓地竣工，但由于预算压力而在同一天关闭，从未启用。该项目耗资近 10 亿美元，采用了一个巨大的“阴阳”磁体，能够产生地球磁场 15 万倍的磁场，以容纳用于聚变的等离子体。投资 MFTF-B 而非其他聚变研究方法的决定引起了争议，并最终导致了它的失败。国家点火装置近期取得的突破重新点燃了聚变研究的希望，实现了首次净能量增益聚变反应。]]></description>
-      <guid>https://t.me/hn_summary/87869</guid>
-      <pubDate>Sat, 04 May 2024 14:24:23 GMT</pubDate>
+      <title>加州最大的保险提供商 State Farm 正在做出重大改变，这将影响 [...]</title>
+      <link>https://t.me/hn_summary/87906</link>
+      <description><![CDATA[State Farm 宣布重大变革，影响加州数万户家庭
+加州最大的保险提供商 State Farm 正在做出一项重大改变，这将影响该州数万个家庭。该公司宣布，由于成本飙升、野火等灾害风险增加以及保险规则过时，将不再为约 72,000 套房屋和公寓续保。这一决定将在 2025 年滚动实施，引起了房主的担忧，他们可能很难找到新的、负担得起的保险。随着越来越多的保险公司退出加州市场，该州当选的保险专员正在致力于改革以稳定市场并为居民提供更多选择。]]></description>
+      <guid>https://t.me/hn_summary/87906</guid>
+      <pubDate>Sat, 04 May 2024 20:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章探讨了经济租金的概念，区分了“上涨的潮汐 [...]</title>
-      <link>https://t.me/hn_summary/87868</link>
-      <description><![CDATA[涨潮租金和强盗男爵租金
-文章探讨了经济租金的概念，区分了惠及社会的“涨潮租金”和不成比例地惠及当权者的“强盗大亨租金”。它讨论了谷歌、亚马逊和 Meta 等科技巨头如何从提供有价值的服务转变为通过广告吸引用户的注意力和收入。从以用户为中心的算法向付费游戏平台的转变导致搜索结果较差，消费者的价格更高。文章警告说，这种榨取行为可能会导致类似于过去科技行业垄断的垮台。对注意力作为大型科技公司控制的有限资源的关注被强调为其市场力量的关键因素。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87868</guid>
-      <pubDate>Sat, 04 May 2024 14:22:18 GMT</pubDate>
+      <title>9 年后，Dillo 3.1.0 已经发布，进行了大量的更改和更新。</title>
+      <link>https://t.me/hn_summary/87905</link>
+      <description><![CDATA[显示 HN：9 年后发布 Dillo 3.1.0
+9 年后，Dillo 3.1.0 已经发布，进行了大量的更改和更新。该版本包括对浮动 HTML 元素、OpenSSL、LibreSSL 和用于 HTTPS 的 mbed TLS 的支持、用于在各种平台上构建的 CI 管道、自动 HTML 渲染测试以及扩展的 Dillo 手册。著名的贡献包括 Sebastian Geerken、corvid、Benjamin Johnson、Johannes Hofmann、Rodrigo Arias Mallo 和 Mark Walker 的补丁。该版本献给塞巴斯蒂安·吉尔肯 (Sebastian Geerken)。要下载该版本，请访问 GitHub 版本页面。详细的变更列表可以在网站的变更日志中找到。]]></description>
+      <guid>https://t.me/hn_summary/87905</guid>
+      <pubDate>Sat, 04 May 2024 20:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>StarCoder2-Instruct 是一个开源管道，引入了 StarCoder2-15B-Instruct-v0.1，一个 [...]</title>
-      <link>https://t.me/hn_summary/87867</link>
-      <description><![CDATA[StarCoder2-Instruct：代码生成的透明自对齐
-StarCoder2-Instruct 是一个开源管道，引入了 StarCoder2-15B-Instruct-v0.1，这是一种使用完全宽松且透明的管道进行训练的自对齐代码大型语言模型 (LLM)。它生成指令-响应对来微调 StarCoder-15B，无需人工注释或来自其他法学硕士的数据。该项目提供了使用 Transformer 库的快速入门指南以及有关数据生成、训练、评估和执行过滤的详细信息。该项目主要专注于 Python 代码生成任务，但可能对其他编程语言和编码任务有限制。它的目的是通过允许通过响应前缀或一次性示例进行响应引导来解决偏见。]]></description>
-      <guid>https://t.me/hn_summary/87867</guid>
-      <pubDate>Sat, 04 May 2024 14:08:10 GMT</pubDate>
+      <title>[媒体]《歌剧初学者》是一本针对刚接触歌剧世界的人的综合指南。</title>
+      <link>https://t.me/hn_summary/87904</link>
+      <description><![CDATA[歌剧入门
+《歌剧入门》是一本面向歌剧界新手的综合指南。作者强调在听歌剧之前观看歌剧的重要性，因为歌剧不仅要看，还要听。他们建议从威尔第和普契尼的浪漫主义时期流行歌剧开始，这些歌剧以令人难忘的咏叹调和悲剧故事而闻名。本文推荐了 DVD 上易于理解的歌剧，重点介绍了帕瓦罗蒂和弗雷尼等知名艺术家的表演。作者还建议在熟悉经典作品后探索莫扎特的歌剧。总的来说，本文旨在让歌剧更平易近人，更适合初学者欣赏。（基于 48% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/87904</guid>
+      <pubDate>Sat, 04 May 2024 20:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站上的联系表格经常被破坏，让用户感到沮丧，并增加了风险 [...]</title>
-      <link>https://t.me/hn_summary/87866</link>
-      <description><![CDATA[我不想填写您的联系表
-网站上的联系表单经常被破坏，这让用户感到沮丧，并增加了数据被盗或用于发送垃圾邮件的风险。许多大型组织，例如百安居和沃达丰，其联系表格根本不起作用。这些表单的复杂性和缺乏可访问性使得用户很难提供反馈或提出问题。尽管存在常见的误解，但在网站上列出电子邮件地址实际上比使用联系表单更安全且更易于访问。是时候放弃联系表单并选择更简单、更用户友好的方法了。]]></description>
-      <guid>https://t.me/hn_summary/87866</guid>
-      <pubDate>Sat, 04 May 2024 13:34:54 GMT</pubDate>
+      <title>[媒体]军队正在发展建立专门的无人机营，并具备执行任务所需的技能 [...]</title>
+      <link>https://t.me/hn_summary/87903</link>
+      <description><![CDATA[军队需要由专业士兵驾驶的自己的无人机空军
+军队正在不断发展，以建立专门的无人机营，并拥有充分利用无人机战争潜力所需的技能。来自乌克兰的数据显示，专用无人机编队可以显着提高任务效率。这些无人机部队将配备各种具有侦察和打击能力的无人机，并得到通信、电子战和诱饵无人机的支持。无人机技术为应对敌方干扰而不断发展，凸显了需要专门的单位来管理和适应这些挑战。关于无人机行动应该集中在特种营还是分散在正规部队中的争论仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/87903</guid>
+      <pubDate>Sat, 04 May 2024 20:16:03 GMT</pubDate>
     </item>
     <item>
-      <title>ReCAPTCHA 是一种用于验证网站上人类用户的流行工具，目前正在经历 [...]</title>
-      <link>https://t.me/hn_summary/87865</link>
-      <description><![CDATA[ReCAPTCHA 对于[部分|大多数|所有 Windows 用户]来说已损坏( https://news.ycombinator.com/item?id=40255307)
-ReCAPTCHA 是一种用于验证网站上人类用户的流行工具，目前 Windows 用户遇到了问题。许多人报告系统出现问题，导致他们感到沮丧并阻碍他们访问某些网站。该错误已被识别并正在解决，但对于某些用户来说该问题仍未解决。这一争议引发了在线社区的争论，一些人质疑 ReCAPTCHA 在 Windows 平台上的有效性。请继续关注此持续问题的更新。]]></description>
-      <guid>https://t.me/hn_summary/87865</guid>
-      <pubDate>Sat, 04 May 2024 13:19:44 GMT</pubDate>
+      <title>对于希望提高技能的有抱负的程序员，我编制了一份必访列表 [...]</title>
+      <link>https://t.me/hn_summary/87902</link>
+      <description><![CDATA[每个有抱负的程序员至少应该访问一次的网站&lt; br /&gt;
+对于那些希望提高技能的有抱负的程序员，我编制了一份必访网站列表，这些网站给了我个人启发和挑战。从使用 Kilo 构建您自己的文本编辑器到使用 Awesome Falsehoods 了解常见的编程误解，每个网站都提供独特的学习体验。 Mike Bostock 的可视化算法以视觉上吸引人的方式展示算法，而 Nandgame 则允许您从头开始构建计算机。 Red Blob Games 提供数学和算法的交互式示例，包括六边形网格和游戏地图生成指南。这些资源对于任何想要扩展编程知识的人来说都是无价的。今天就开始构建一些令人惊奇的东西吧！]]></description>
+      <guid>https://t.me/hn_summary/87902</guid>
+      <pubDate>Sat, 04 May 2024 20:13:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
