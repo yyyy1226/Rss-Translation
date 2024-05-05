@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 05 May 2024 15:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 18:24:28 GMT</lastBuildDate>
     <item>
-      <title>D2 废墟农场</title>
-      <link>https://www.opensourceagenda.com/projects/d2-ruin-farm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/d2-ruin-farm</guid>
-      <pubDate>Sun, 05 May 2024 15:21:09 GMT</pubDate>
+      <title>免费火车模拟器</title>
+      <link>https://www.opensourceagenda.com/projects/freetrainsimulator</link>
+      <description><![CDATA[火车模拟器基于 .NET 构建，使用 MonoGame 并包括本机 RailDriver 支持]]></description>
+      <guid>https://www.opensourceagenda.com/projects/freetrainsimulator</guid>
+      <pubDate>Sun, 05 May 2024 18:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>1brc.net</title>
-      <link>https://www.opensourceagenda.com/projects/1brcnet</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/1brcnet</guid>
-      <pubDate>Sun, 05 May 2024 15:21:09 GMT</pubDate>
+      <title>图形</title>
+      <link>https://www.opensourceagenda.com/projects/grafikon</link>
+      <description><![CDATA[模型铁路的时间表。对于使用模块（如 FREMO、Free-mo 等）的会议很有用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/grafikon</guid>
+      <pubDate>Sun, 05 May 2024 18:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>V I X X AMSI 绕过</title>
-      <link>https://www.opensourceagenda.com/projects/v-i-x-x-amsi-bypass</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/v-i-x-x-amsi-bypass</guid>
-      <pubDate>Sun, 05 May 2024 15:21:09 GMT</pubDate>
+      <title>Libre翻译机车</title>
+      <link>https://www.opensourceagenda.com/projects/libretranslate-locomotive</link>
+      <description><![CDATA[用于训练/转换 LibreTranslate 兼容语言模型的工具包 🚂]]></description>
+      <guid>https://www.opensourceagenda.com/projects/libretranslate-locomotive</guid>
+      <pubDate>Sun, 05 May 2024 18:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>ComfyUI 开发工具</title>
-      <link>https://www.opensourceagenda.com/projects/comfyui-dev-utils</link>
-      <description><![CDATA[执行时间分析、重新路由增强、远程 Python 日志，适合 ComfyUI 开发人员。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/comfyui-dev-utils</guid>
-      <pubDate>Sun, 05 May 2024 15:21:08 GMT</pubDate>
+      <title>X12306</title>
+      <link>https://www.opensourceagenda.com/projects/x12306</link>
+      <description><![CDATA[12306查票助手，一键查询沿途所有站点，先上车后补票，让你的出行更省心。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/x12306</guid>
+      <pubDate>Sun, 05 May 2024 18:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>Phpstan 身体扫描</title>
-      <link>https://www.opensourceagenda.com/projects/phpstan-bodyscan</link>
-      <description><![CDATA[获取每个 PHPStan 级别的错误计数]]></description>
-      <guid>https://www.opensourceagenda.com/projects/phpstan-bodyscan</guid>
-      <pubDate>Sun, 05 May 2024 15:21:08 GMT</pubDate>
+      <title>奥布火</title>
+      <link>https://www.opensourceagenda.com/projects/oebb-api</link>
+      <description><![CDATA[用于访问 OEBB(ÖBB) 各种信息的函数集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/oebb-api</guid>
+      <pubDate>Sun, 05 May 2024 18:24:26 GMT</pubDate>
     </item>
     <item>
-      <title>Whats4social</title>
-      <link>https://www.opensourceagenda.com/projects/whats4social</link>
-      <description><![CDATA[通过 Whatsapp 在 Twitter 和 Bluesky 上创建帖子的服务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/whats4social</guid>
-      <pubDate>Sun, 05 May 2024 15:21:08 GMT</pubDate>
+      <title>维多利亚公共交通</title>
+      <link>https://www.opensourceagenda.com/projects/public-transport-victoria</link>
+      <description><![CDATA[用于检索维多利亚公共交通出发时间的自定义组件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/public-transport-victoria</guid>
+      <pubDate>Sun, 05 May 2024 18:24:26 GMT</pubDate>
     </item>
     <item>
-      <title>Videogigagan Pytorch</title>
-      <link>https://www.opensourceagenda.com/projects/videogigagan-pytorch</link>
-      <description><![CDATA[VideoGigagan、Adobe AI Labs 的 SOTA 视频采样、Pytorch 的实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/videogigagan-pytorch</guid>
-      <pubDate>Sun, 05 May 2024 15:21:08 GMT</pubDate>
+      <title>五米火车</title>
+      <link>https://www.opensourceagenda.com/projects/fivem-trains</link>
+      <description><![CDATA[基于 Blumlaut 和 XNLVenom 工作的简单 FiveM 训练脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fivem-trains</guid>
+      <pubDate>Sun, 05 May 2024 18:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>EVM Ctf 挑战</title>
-      <link>https://www.opensourceagenda.com/projects/evm-ctf-challenges</link>
-      <description><![CDATA[MiloTruck 提出的 CTF 挑战]]></description>
-      <guid>https://www.opensourceagenda.com/projects/evm-ctf-challenges</guid>
-      <pubDate>Sun, 05 May 2024 15:21:07 GMT</pubDate>
+      <title>Lynguyenminh 图像分类 Pytorch</title>
+      <link>https://www.opensourceagenda.com/projects/lynguyenminh-image-classification-pytorch</link>
+      <description><![CDATA[在 pytorch 中实现图像分类]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lynguyenminh-image-classification-pytorch</guid>
+      <pubDate>Sun, 05 May 2024 18:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>孟德尔新秀</title>
-      <link>https://www.opensourceagenda.com/projects/mendelrookie</link>
-      <description><![CDATA[新手友好的孟德尔随机化项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mendelrookie</guid>
-      <pubDate>Sun, 05 May 2024 15:21:07 GMT</pubDate>
+      <title>巴士发车板</title>
+      <link>https://www.opensourceagenda.com/projects/bus-departure-board</link>
+      <description><![CDATA[精选的 Python 程序，用于检索实时公共汽车和铁路英国开放数据并将其输出到 ER-OLEDM032 (256X64) 显示屏。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bus-departure-board</guid>
+      <pubDate>Sun, 05 May 2024 18:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>黑卡泰网关</title>
-      <link>https://www.opensourceagenda.com/projects/heicathei-gateway</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/heicathei-gateway</guid>
-      <pubDate>Sun, 05 May 2024 15:21:07 GMT</pubDate>
+      <title>TrainLCD 移动应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/trainlcd-mobileapp</link>
+      <description><![CDATA[🚃 全新 sense 移动导航应用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/trainlcd-mobileapp</guid>
+      <pubDate>Sun, 05 May 2024 18:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>全方位驱动器</title>
-      <link>https://www.opensourceagenda.com/projects/omnidrive</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/omnidrive</guid>
-      <pubDate>Sun, 05 May 2024 15:21:07 GMT</pubDate>
+      <title>Irctc 赛普拉斯自动化</title>
+      <link>https://www.opensourceagenda.com/projects/irctc-cypress-automation</link>
+      <description><![CDATA[1 分钟内实现 Tatkal 和普通列车预订自动化 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/irctc-cypress-automation</guid>
+      <pubDate>Sun, 05 May 2024 18:24:23 GMT</pubDate>
     </item>
     <item>
-      <title>HHousen 扬声器变化检测</title>
-      <link>https://www.opensourceagenda.com/projects/hhousen-speaker-change-detection</link>
-      <description><![CDATA[使用 SincNet 和 LSTM/Transformer 进行说话人变化检测]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hhousen-speaker-change-detection</guid>
-      <pubDate>Sun, 05 May 2024 15:21:06 GMT</pubDate>
+      <title>GTFS2</title>
+      <link>https://www.opensourceagenda.com/projects/gtfs2</link>
+      <description><![CDATA[仅在 Home Assistant GUI 中支持 GTFS]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gtfs2</guid>
+      <pubDate>Sun, 05 May 2024 18:24:22 GMT</pubDate>
     </item>
     <item>
-      <title>Seo 反向链接资源</title>
-      <link>https://www.opensourceagenda.com/projects/seo-backlink-resources</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/seo-backlink-resources</guid>
-      <pubDate>Sun, 05 May 2024 15:21:06 GMT</pubDate>
+      <title>工具增值税</title>
+      <link>https://www.opensourceagenda.com/projects/tool-vatint</link>
+      <description><![CDATA[VATINT 工具 - 车辆和运输情报]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tool-vatint</guid>
+      <pubDate>Sun, 05 May 2024 18:24:22 GMT</pubDate>
     </item>
     <item>
-      <title>任务分解快速入门</title>
-      <link>https://www.opensourceagenda.com/projects/task-decompose-quickstart</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/task-decompose-quickstart</guid>
-      <pubDate>Sun, 05 May 2024 15:21:06 GMT</pubDate>
+      <title>安戈</title>
+      <link>https://www.opensourceagenda.com/projects/antgo</link>
+      <description><![CDATA[机器学习实验管理平台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/antgo</guid>
+      <pubDate>Sun, 05 May 2024 18:24:21 GMT</pubDate>
     </item>
     <item>
-      <title>豹属</title>
-      <link>https://www.opensourceagenda.com/projects/insality-panthera</link>
-      <description><![CDATA[Defold 游戏引擎的 Panthera 动画运行时]]></description>
-      <guid>https://www.opensourceagenda.com/projects/insality-panthera</guid>
-      <pubDate>Sun, 05 May 2024 15:21:06 GMT</pubDate>
+      <title>简单的戈多火车</title>
+      <link>https://www.opensourceagenda.com/projects/simple-godot-train</link>
+      <description><![CDATA[2D 火车/铁路演示]]></description>
+      <guid>https://www.opensourceagenda.com/projects/simple-godot-train</guid>
+      <pubDate>Sun, 05 May 2024 18:24:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
