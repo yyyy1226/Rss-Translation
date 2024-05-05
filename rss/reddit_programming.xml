@@ -4,9 +4,16 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 06:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:21:31 GMT</lastBuildDate>
     <item>
-      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库标识？</title>
+      <title>代码审查中到底该说什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</guid>
+      <pubDate>Sun, 05 May 2024 07:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库识别？</title>
       <link>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</link>
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</guid>
@@ -20,23 +27,23 @@
       <pubDate>Sun, 05 May 2024 01:05:12 GMT</pubDate>
     </item>
     <item>
-      <title>android-luks：“一款允许使用 USB 配件模式安全 LUKS 解锁而无需输入 LUKS 密码的应用程序。当前状态是：稳定的概念证明。” “应用程序已测试”的智能手机：“Xiaomi A3 (Android 11)”、“Google Pixel 3 (Android 12)”和“Samsung A54 (Android 13)”。</title>
+      <title>android-luks：“一款允许使用 USB 附件模式安全解锁 LUKS 而无需输入 LUKS 密码的应用程序。当前状态为：稳定的概念验证。”该应用程序已在以下智能手机上进行测试：“小米 A3（Android 11）”、“谷歌 Pixel 3（Android 12）”和“三星 A54（Android 13）”。</title>
       <link>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/throtaway16830261  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</guid>
       <pubDate>Sun, 05 May 2024 00:54:36 GMT</pubDate>
     </item>
     <item>
       <title>变形金刚仪表板🤖📈</title>
       <link>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</link>
-      <description><![CDATA[  由    /u/v4nn4  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</guid>
       <pubDate>Sun, 05 May 2024 00:03:53 GMT</pubDate>
     </item>
     <item>
       <title>作为有向图的复式记账</title>
       <link>https://www.reddit.com/r/programming/comments/1ckd2lq/double_entry_bookkeeping_as_a_directed_graph/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckd2lq/double_entry_bookkeeping_as_a_directed_graph/</guid>
       <pubDate>Sat, 04 May 2024 23:04:18 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 20:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>用图片简单解释回溯</title>
+      <title>用视觉简单地解释回溯</title>
       <link>https://www.reddit.com/r/programming/comments/1ck8z9h/backtracking_explained_simply_with_visuals/</link>
       <description><![CDATA[我正在尝试这些口袋大小的博客文章解释，它们具有漂亮的视觉效果/图表。   由   提交/u/with_mocha  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck8z9h/backtracking_explained_simply_with_visuals/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 04 May 2024 18:52:35 GMT</pubDate>
     </item>
     <item>
-      <title>吱吱语义文本</title>
+      <title>Squeak-语义文本</title>
       <link>https://www.reddit.com/r/programming/comments/1ck68qg/squeaksemantictext/</link>
       <description><![CDATA[ 由   提交/u/itsmeront  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck68qg/squeaksemantictext/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>SqueakJS 版本 1.2.0</title>
       <link>https://www.reddit.com/r/programming/comments/1ck68av/squeakjs_release_120/</link>
-      <description><![CDATA[ 由   提交/u/itsmeront  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck68av/squeakjs_release_120/</guid>
       <pubDate>Sat, 04 May 2024 17:55:44 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>PDF 中非 JavaScript 的浏览器安全漏洞</title>
       <link>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</guid>
       <pubDate>Sat, 04 May 2024 17:05:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck40ep/use_greenmail_for_spring_mail_javamailsender/</guid>
       <pubDate>Sat, 04 May 2024 16:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlutoBook：分页 HTML 渲染库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</link>
-      <description><![CDATA[ 由   提交 /u/SamNwutobo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</guid>
-      <pubDate>Sat, 04 May 2024 16:10:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
