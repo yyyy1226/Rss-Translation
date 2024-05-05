@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 May 2024 01:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 03:20:51 GMT</lastBuildDate>
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
@@ -13,14 +13,14 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框等到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>公共文档 OSS</title>
+      <title>公共文档开源软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
       <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
@@ -69,14 +69,14 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我发现了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
       <pubDate>Thu, 02 May 2024 19:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
+      <title>有任何适用于 Android 的开源 Facebook 客户端/包装器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
       <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
