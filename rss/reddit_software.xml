@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 12:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:20:27 GMT</lastBuildDate>
+    <item>
+      <title>B450 // 无 Realtek 驱动程序</title>
+      <link>https://www.reddit.com/r/software/comments/1clkuru/b450_no_realtek_drivers/</link>
+      <description><![CDATA[嘿伙计们， 我最近遇到了一些崩溃和声音削波的问题，音频是我认为我需要的帮助大多数 atm。 我的所有芯片组驱动程序都是最新的，我的 Windows 也是最新的，但在设备管理器下我没有 realtek 驱动程序。我有 AMD 高清晰度音频，这会取代它吗？ 我尝试通过设备管理器的旧版驱动程序下载（这会在更新开始时使我的计算机崩溃），并且来自该网站的 Realtek 驱动程序是“不支持”。有什么想法吗？   由   提交 /u/Primary_Exotic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clkuru/b450_no_realtek_drivers/</guid>
+      <pubDate>Mon, 06 May 2024 14:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OneNote 桌面的替代应用程序，用于记笔记</title>
+      <link>https://www.reddit.com/r/software/comments/1clkuhy/replacement_app_for_onenote_desktop_for_notetaking/</link>
+      <description><![CDATA[ 由   提交 /u/Sorrt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clkuhy/replacement_app_for_onenote_desktop_for_notetaking/</guid>
+      <pubDate>Mon, 06 May 2024 14:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个超级用户友好的演示文稿制作器（适用于 Mac！）</title>
+      <link>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</link>
+      <description><![CDATA[大家好，自从我上次准备演示文稿以来已经有很长时间了，这可能是一次性的事情。正在寻找超级易于使用但仍能让我创建一些具有视觉吸引力的软件。 如果它可以在我的 Mac 上离线运行，那就加分了！提前致谢！   由   提交 /u/dimpchells   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</guid>
+      <pubDate>Mon, 06 May 2024 14:22:48 GMT</pubDate>
+    </item>
     <item>
       <title>OBD2 Windows 软件？</title>
       <link>https://www.reddit.com/r/software/comments/1clg082/obd2_windows_software/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>我需要在浏览器中安装 YouTube 下载器</title>
       <link>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</link>
-      <description><![CDATA[我之前用的是 yt mate，但是它表现得很奇怪     提交人    /u/Far_Baseball_1663   [link] [comments]]]></description>
+      <description><![CDATA[我正在使用 yt mate，但它表现得很奇怪   由   提交/u/Far_Baseball_1663   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</guid>
       <pubDate>Mon, 06 May 2024 09:30:04 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>嵌入式 LUKS (E-LUKS)：物联网安全的硬件解决方案——“物联网 (IoT) 安全是开发人员必须面对的最重要问题之一。” E-LUKS“框架”“类似于Linux系统中用于加密数据分区的Linux统一密钥设置（LUKS）解决方案”。</title>
       <link>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</guid>
       <pubDate>Mon, 06 May 2024 05:42:07 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>文档管理软件</title>
       <link>https://www.reddit.com/r/software/comments/1cl7e1a/document_management_software/</link>
-      <description><![CDATA[我正在寻找一个文档管理软件来组织多个文档、PDF 等。这些文档应该可以通过其中的关键字轻松搜索。我还希望根据一些参考在每个文档之间创建连接。另一个要求是能够自动从 Outlook 导入附件。 请向我推荐一些也易于使用的 DMS。我急需找到一个   由   提交 /u/Xftgjijkl   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个文档管理软件来组织多个文档、PDF 等。这些文档应该可以使用关键字轻松搜索。我还希望根据某些参考在每个文档之间建立联系。另一个要求是能够自动从 Outlook 导入附件。 请给我推荐一些易于使用的 DMS。我需要紧急找到一个     提交人    /u/Xftgjijkl   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl7e1a/document_management_software/</guid>
       <pubDate>Mon, 06 May 2024 01:43:31 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨， 我正在寻找某种团队来构建我的网络产品。本质上，它将是streamtape(dot)com的重复 我担心的一些复杂问题是服务器和附属机构的托管。  你们能推荐一个能够以合理的价格和时间正确执行此任务的开发团队吗？ 谢谢。   由   提交 /u/GameControl21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl25ee/best_web_development_company/</guid>
       <pubDate>Sun, 05 May 2024 21:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们怎样才能恢复他们在 whatsapp 上发送的一次打开的视频，同时在 whatsapp 上录制它（所以它没有保存到媒体）？</title>
-      <link>https://www.reddit.com/r/software/comments/1cl1bhd/how_can_a_person_recover_a_1_time_opened_video/</link>
-      <description><![CDATA[ 由   提交 /u/ivaxcx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cl1bhd/how_can_a_person_recover_a_1_time_opened_video/</guid>
-      <pubDate>Sun, 05 May 2024 20:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐播放器可以在转到下一首歌曲之前重复一首歌曲 X 次</title>
-      <link>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</link>
-      <description><![CDATA[适用于至少循环一次的音乐（如视频游戏音乐）    提交人    /u/Clairvoidance   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</guid>
-      <pubDate>Sun, 05 May 2024 16:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动跳过视频无声部分的视频播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</link>
-      <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
-      <pubDate>Sun, 05 May 2024 14:07:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

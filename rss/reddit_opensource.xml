@@ -4,9 +4,16 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 12:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:20:57 GMT</lastBuildDate>
     <item>
-      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道在哪里可以找到这个吗？</title>
+      <title>开源学校作业</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
+      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
+      <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
       <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>公共文档 OSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
+      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
       <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
-      <description><![CDATA[大家好， 我是一名拥有大约 4 年经验的产品设计师。我希望参与开源社区。我知道这更像是一种开发工作，但我想知道是否有任何应用程序、网站或产品需要帮助…… 如果您有任何联系人或产品，我应该联系他们，他们的 UX/UI 很糟糕，那就太好了  谢谢！    提交人    /u/mrtpontpont   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交/u/mrtpontpont  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</guid>
       <pubDate>Fri, 03 May 2024 18:02:24 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>微软开发者博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
       <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 hookmarked 的开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</link>
-      <description><![CDATA[管理文件链接   由   提交/u/fbrichs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</guid>
-      <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
