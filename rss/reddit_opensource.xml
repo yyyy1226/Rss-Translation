@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 01:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 03:22:36 GMT</lastBuildDate>
     <item>
-      <title>开源许可证的建议</title>
+      <title>关于开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
       <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，良好的使用对决定有一点帮助。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
+      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
@@ -34,9 +34,9 @@
       <pubDate>Sun, 05 May 2024 12:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>CurlerRoo - 管理 cURL 请求的简单编辑器</title>
+      <title>CurlerRoo - 用于管理 cURL 请求的简单编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</link>
-      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，从而可以轻松使用您最喜欢的工具进行备份和版本控制。    提交人    /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 /&gt; - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，以便于使用您最喜欢的备份和版本控制工具。   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</guid>
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
@@ -48,14 +48,14 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
+      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>公共文档开源软件</title>
+      <title>公共文档 OSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
       <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
@@ -71,21 +71,21 @@
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
-      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交/u/mrtpontpont  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交 /u/mrtpontpont   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</guid>
       <pubDate>Fri, 03 May 2024 18:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>商业问题——开源供应商的成功渠道合作伙伴模式？</title>
+      <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
-      <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和例子来说明什么是一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
     </item>
     <item>
       <title>微软开发者博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
       <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
     <item>
-      <title>有没有 hookmarked 的开源替代品？</title>
+      <title>有没有 hookmarked 的开源替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</link>
       <description><![CDATA[管理文件链接   由   提交/u/fbrichs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</guid>

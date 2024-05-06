@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 May 2024 01:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 03:22:30 GMT</lastBuildDate>
+    <item>
+      <title>如何构建...在网站上复制 Google Looker Studio 报告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl8aax/how_do_i_build_replicating_a_google_looker_studio/</link>
+      <description><![CDATA[      大家好，在为我想要构建的东西（或找人）提供一些帮助之后来构建）。 我有一位数据科学家朋友，他在 Google Looker Studio 中构建了一些非常酷的报告，这些报告允许用户筛选多年的体育结果，以寻找基于家庭的趋势/离开、天气、一天中的时间、之前的结果、反对派的地位等。 我很乐意将其公开，但我不想只是在我的网站上嵌入谷歌报告。  请原谅糟糕的术语，但我怎样才能以一种更加用户友好、符合品牌、响应迅速的方式在我的 WordPress 网站上复制 Google Looker Report 的功能呢？  希望这是有道理的。提前致谢。  https://preview.redd .it/r044e5szvpyc1.png?width=2426&amp;format=png&amp;auto=webp&amp;s=f5976965b370715faade155b1b51da4ddcb1353c https://preview.redd.it/nzkn51szvpyc1.png?width=2448&amp;format=png&amp;auto=webp&amp;s=7c8a21f48 6130dc7e5a2d1ec8a6a83e2e25a28b7   由   提交 /u/peacemaketroy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl8aax/how_do_i_build_replicating_a_google_looker_studio/</guid>
+      <pubDate>Mon, 06 May 2024 02:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>对所需的采访资源进行编码的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>业余项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</link>
-      <description><![CDATA[大家好，我想趁今年暑假不上课的时候做一个业余项目。我想创建一个网站，让大家可以找到自己想读的完美书籍，并将其添加到阅读列表中。 我不想用细节来烦你们，让我直入主题。我想做一个名人过滤器，例如这个过滤器会找到“巨石”推荐的书籍。我该如何实现呢？有没有可以实现这个的 API？如果没有 API 来制作一个流行名人及其推荐书籍的表格，有没有办法用人工智能来实现这个功能？    提交人    /u/JackedMushroom   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在考虑在今年夏天课外时创建一个业余项目。我想创建一个网站，您可以在其中找到您想要阅读的完美书籍并将其添加到阅读列表中。 我不想让您厌倦这些细节，让我直接讲它。我想为名人制作一个过滤器，例如这个过滤器会找到“the rock”推荐的书籍例如。我怎样才能实现这个？有没有一个 api 可以做到这一点？如果没有 api 来制作流行名人和他们推荐的书籍的表格，我是否可以使用 ai 来实现此目的？    由   提交 /u/JackedMushroom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</guid>
       <pubDate>Sun, 05 May 2024 23:30:39 GMT</pubDate>
     </item>
     <item>
       <title>我正在构建一个更好的存储/知识库平台。想想 Google Drive + Slack。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</link>
-      <description><![CDATA[嗨，我正在构建 The Drive AI，一个 AI-第一个协作知识库和笔记应用程序。 The Drive AI 正在解决什么问题？  难以利用过去的工作：当前的存储/笔记应用程序限制了存储信息的价值。他们不会使用现有文档作为新文档的基础。 可信信息检索：随着笔记和文件的增加，查找可信信息变得前所未有的困难和复杂化决策过程并阻碍进展。 沟通差距：当前的沟通渠道（例如 Slack 和 Discord）缺乏背景。通常，团队正在讨论一个项目，并且在 Slack/Discord 之类的渠道中很难回顾特定的上下文对话。此外，通过它们共享的文件缺乏隐私，从而损害了机密性。频繁的文件丢失也会影响工作效率。  我们如何解决这个问题？  高级检索：我们有高级检索系统可以快速搜索您的文档以找到相关答案并使用这些存储的文件来创建新文件。例如，如果您存储简历并链接到职位描述，您可以告诉人工智能助手根据这些存储的文档为您写一封求职信。如果我们无法在您的知识库中找到答案，我们只会说“我们不知道”。 内置聊天频道：每个文件/文件夹都有独特的团队聊天。如果您正在与教授讨论研究论文，您可以使用该文件的团队聊天，并随时参考该特定聊天。私人 DM 即将推出。您可以在聊天中共享文件，而文件无需离开平台。  其他功能：  您可以突出显示 PDF 、边写笔记、与朋友聊天。 我们支持大多数编辑工具，并且正在添加更多工具。 您可以个性化您的 AI 助手。 每当您共享/发布您的文件时，您也共享了您的 AI 助手。 无需 AI 培训，并且具有高安全/隐私措施。我们正在申请合规证书。 您可以拥有自己的面向公众的个人资料，任何页面都可以成为您的公共页面。例如，https://thedrive.ai/bigyan 可以是您的简历、DOCX 文件或 YouTube 视频。只要有你想要的，AI 助手都能帮到你。我们的目标是在未来拥有您的人工智能角色。  感谢您阅读本文，希望您至少能够尝试一下。干杯。   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在构建 The Drive AI，一个 AI-第一个协作知识库和笔记应用程序。 The Drive AI 正在解决什么问题？  难以利用过去的工作：当前的存储/笔记应用程序限制了存储信息的价值。他们不会使用现有文档作为新文档的基础。 可信信息检索：随着笔记和文件的增加，查找可信信息变得前所未有的困难和复杂化决策过程并阻碍进展。 沟通差距：当前的沟通渠道（例如 Slack 和 Discord）缺乏背景。通常，团队正在讨论一个项目，并且在类似 Slack/Discord 的渠道中回顾特定的上下文对话是很困难的。此外，通过它们共享的文件缺乏隐私，从而损害了机密性。频繁的文件丢失也会影响工作效率。  我们如何解决这个问题？  高级检索：我们有高级检索系统可以快速搜索您的文档以找到相关答案并使用这些存储的文件来创建新文件。例如，如果您存储简历并链接到职位描述，您可以告诉人工智能助手根据这些存储的文档为您写一封求职信。如果我们无法在您的知识库中找到答案，我们只会说“我们不知道”。 内置聊天频道：每个文件/文件夹都有独特的团队聊天。如果您正在与教授讨论研究论文，您可以使用该文件的团队聊天，并随时参考该特定聊天。私人 DM 即将推出。您可以在聊天中共享文件，而文件无需离开平台。  其他功能：  您可以突出显示 PDF 、边写笔记、和朋友聊天。 我们支持大多数编辑工具，并且正在添加更多工具。 您可以个性化您的 AI 助手。 每当您共享/发布您的文件时，您也共享了您的 AI 助手。 无需 AI 培训，并且具有高安全/隐私措施。我们正在申请合规证书。 您可以拥有自己的面向公众的个人资料，任何页面都可以成为您的公共页面。例如，https://thedrive.ai/bigyan 可以是您的简历、DOCX 文件或 YouTube 视频。有了人工智能助手，你想要的一切都有了。我们的目标是在未来拥有您的人工智能角色。  感谢您阅读本文，希望您至少能够尝试一下。干杯。   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</guid>
       <pubDate>Sun, 05 May 2024 23:14:52 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>自由职业者，你们如何设计网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</link>
-      <description><![CDATA[我正在获得第一份自由职业，并且我非常了解网站在开发方面需要做什么。但现在面临着我在从事个人项目设计时通常遇到的同样问题。我一直在网上寻找模板并从中混合搭配，但最终对我的结果并不是 100% 满意。你们自由职业者如何为您正在从事的项目做到这一点？   由   提交 /u/OmarAdharn   [链接] [评论]]]></description>
+      <description><![CDATA[我正在获得第一份自由职业，并且我非常了解网站在开发方面需要做什么。但现在面临着我在从事个人项目设计时通常遇到的同样问题。我一直在网上寻找模板并从中进行混合搭配，但最终对我的结果并不是 100% 满意。你们自由职业者如何为您正在从事的项目做到这一点？   由   提交 /u/OmarAdharn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</guid>
       <pubDate>Sun, 05 May 2024 22:13:41 GMT</pubDate>
     </item>
@@ -48,30 +55,30 @@
       <pubDate>Sun, 05 May 2024 22:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>我一生都无法加载我的网站</title>
+      <title>我怎么也加载不上我的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</link>
-      <description><![CDATA[当我输入我的 URL 时，我的网站会完美加载，当您搜索我的公司时，我的网页也会完美加载，但是当我从我的网站中选择我的网站时，我的网站会完美加载。 GMB 配置文件我总是收到错误。该错误通常显示“正在建设中”。我尝试修改我的 DNS 设置，但得到的只是其他错误，例如“找不到 IP”或“此页面可能试图窃取您的信息”。这种情况已经持续了好几个星期了，我很迷失。感谢大家提供所有帮助，谢谢 编辑：我的域名是通过 Squarespace，我的网站是在 Google 协作平台上。我尝试了网上的很多建议来进行故障排除，但没有任何效果。我尝试添加重定向，然后收到一条错误消息，提示我的网站“重定向您太​​多次”   由   提交/u/Pspecial-Swimmer70   [链接] [评论]]]></description>
+      <description><![CDATA[当我输入我的 URL 时，我的网站会完美加载，当您搜索我的公司时，我的网页也会完美加载，但是当我从我的网站中选择我的网站时，我的网站会完美加载。 GMB 配置文件我总是收到错误。该错误通常显示“正在建设中”。我尝试修改我的 DNS 设置，但得到的只是其他错误，例如“找不到 IP”或“此页面可能试图窃取您的信息”。这种情况已经持续了好几个星期了，我很迷失。感谢您提供所有帮助，谢谢 编辑：我的域名是通过 Squarespace，我的网站是在 Google 协作平台上。我尝试了网上的很多建议来进行故障排除，但没有任何效果。我尝试添加重定向，然后收到一条错误消息，提示我的网站“重定向您太​​多次”   由   提交/u/Pspecial-Swimmer70   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</guid>
       <pubDate>Sun, 05 May 2024 21:52:39 GMT</pubDate>
     </item>
     <item>
       <title>这是部署电子商务风格网站最便宜的计划吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</link>
-      <description><![CDATA[到目前为止，我发现的最实惠的计划是 Railway 的 5 美元计划。这似乎是一个相对容易部署的平台。 但问题是：  谁能告诉我这个计划是否能在电子商务中良好运行/交付风格的网站？您可以在此计划中单独使用后端（如 Node Express）和前端（如 Next Js）吗？ 是否很容易超出使用限制并收取额外费用？或者这对于当地的小企业来说会不会很困难？  关于数据库和图片上传的问题，我不知道铁路是否有这方面的规定，但是是吗？使用 500MB 的数据库进行小型本地电子商务产品和客户注册是否安全？我认为任何数据库或图像托管服务，如果您必须付费，最终都会非常昂贵。   由   提交 /u/Mr-Brigth-Side   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我发现的最实惠的计划是 Railway 的 5 美元计划。这似乎是一个相对容易部署的平台。 但问题是：  谁能告诉我这个计划是否能在电子商务中良好运行/交付风格的网站？您可以在此计划中单独使用后端（如 Node Express）和前端（如 Next Js）吗？ 是否很容易超出使用限制并收取额外费用？或者这对于当地的小企业来说会不会很困难？  关于数据库和图片上传的问题，我不知道铁路是否有这方面的规定，但是是吗？使用 500 MB 的数据库进行小型本地电子商务的产品和客户注册是否安全？我认为任何数据库或图像托管服务，如果您必须付费，最终都会非常昂贵。   由   提交 /u/Mr-Brigth-Side   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</guid>
       <pubDate>Sun, 05 May 2024 20:24:59 GMT</pubDate>
     </item>
     <item>
       <title>NodeJS 提供商，免费套餐</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</link>
-      <description><![CDATA[是否可以通过免费套餐获得 NodeJS 提供程序？我只能找到免费试用，例如，Railway 5 美元。 我看到 JAMstack 的免费套餐托管与 Cloudflare Pages、Netlify、Vercel 我什至看到免费套餐 Sqlite 托管Turso 和 Postgres 使用 Neon 免费托管 所以只是想知道 NodeJS （是的，我知道，我们被宠坏了，我真的不能抱怨。Web 开发提供商（imo）对他们的免费套餐非常慷慨。只是对 NodeJs 感到好奇） 更新：render.com 会提供这？他们过去无意中向我收取了今年早些时候未使用的帐户的费用，但已得到纠正。还有其他 Nodejs 免费层提供商可以检查吗？   由   提交/u/avidrunner84  [链接] [评论]]]></description>
+      <description><![CDATA[是否可以通过免费套餐获得 NodeJS 提供程序？我只能找到免费试用版，例如，Railway 的价格为 5 美元。 我看到 JAMstack 与 Cloudflare Pages、Netlify、Vercel 的免费套餐托管 我什至看到免费套餐的 Sqlite 托管Turso 和 Postgres 使用 Neon 免费托管 所以只是想知道 NodeJS （是的，我知道，我们被宠坏了，我真的不能抱怨。Web 开发提供商（imo）对他们的免费套餐非常慷慨。只是对 NodeJs 感到好奇） 更新：render.com 会提供这？他们过去无意中向我收取了今年早些时候未使用的帐户的费用，但已得到纠正。还有其他 Nodejs 免费层提供商可以检查吗？   由   提交/u/avidrunner84  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</guid>
       <pubDate>Sun, 05 May 2024 20:15:06 GMT</pubDate>
     </item>
     <item>
       <title>去哪儿？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</link>
-      <description><![CDATA[你去哪里谈论编码哲学？    提交人    /u/Sotomexw   [link] [comments]]]></description>
+      <description><![CDATA[你去哪里谈论编码哲学？    ;由   提交 /u/Sotomexw   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</guid>
       <pubDate>Sun, 05 May 2024 20:14:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[关于我试图为开源数据门户网站构建的后端组件的另一个问题。 我有自己的后端组件托管数据库，后端难题中唯一缺少的部分是用于上传文件、图像等的文件存储。  各种后端即服务和低代码工具给我留下了深刻的印象市场，但我想知道是否有一个唯一的目标是提供对象存储。 显然 S3 B2 等是实现这一目标的经典方法。但我想知道低代码运动是否在创建一个更友好的工具方面取得了进展。  提供了一个漂亮的用户界面，并且也许可以为网站上的工作人员提供某种方式将对象存储安装为易于使用的卷（等等）。   由   提交/u/danielrosehill  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl00tw/any_good_object_storage_as_a_service_tool_out/</guid>
       <pubDate>Sun, 05 May 2024 20:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 到 PC？帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</link>
-      <description><![CDATA[大家好！当谈到 webdev 时，我是一个菜鸟，所以请耐心等待。我在 Mac 上创建了一个网站，但我希望也能在我的 PC 上使用它。它无论如何都是一个正常运行的网站（在 Mac 上），但在 PC 上它完全损坏了。我什至无法在 PC 上的 Dreamweaver 中打开索引文件。  我所做的就是在 Mac 上压缩该文件夹，将其上传到我的 Google 云端硬盘，然后将其下载到我的 PC 上。我意识到这可能与操作系统的差异有关，但是您知道我可以通过其他方式将其传输到我的电脑上以便我可以实际使用它吗？如果您需要我提供任何其他信息，请询问，我会尽力回答。   由   提交 /u/BiohazardousDogFreak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</guid>
-      <pubDate>Sun, 05 May 2024 19:53:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
