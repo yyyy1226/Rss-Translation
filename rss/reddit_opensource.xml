@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 15:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 18:27:34 GMT</lastBuildDate>
+    <item>
+      <title>开源 Discord 机器人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
+      <description><![CDATA[嗨， 我想介绍一个有趣的小不和谐机器人，它使用开放式 AI API，因为它意味着与用户。它具有一套正在发展的调节能力，但让它脱颖而出的是发展完整角色或个性的能力。  机器人可以真正改变服务器中每个频道的个性，并且它们可以像您想要的那样丰富和多样化。虽然人工智能市场的许多其他领域都专注于数据、统计和分析，但我想更多地关注人工智能中人类状况的异想天开的一面，即为人们创造一个有趣的互动环境。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星星，也许可以赞助它。  谢谢。 开源不和谐机器人   由   提交/u/RobertD3277   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
+      <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 AI 定义 – 5 月 6 日每周更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</guid>
+      <pubDate>Mon, 06 May 2024 16:03:02 GMT</pubDate>
+    </item>
     <item>
       <title>开源学校作业</title>
       <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，良好的使用对决定有一点帮助。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上苦苦挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
@@ -55,14 +69,14 @@
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
+      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 预先感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>公共文档 OSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
+      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
       <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软开发者博客搜索工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
-      <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源维护者 - 告诉我你的挣扎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
-      <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
