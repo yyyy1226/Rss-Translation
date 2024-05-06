@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 05 May 2024 21:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:16:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在反欧洲情绪猖獗的世界里，是时候澄清事实了。</title>
-      <link>https://t.me/hn_summary/88082</link>
-      <description><![CDATA[欧洲加速主义 – EU/Acc
-在反欧洲情绪猖獗的世界里，是时候澄清事实了。尽管欧洲可能没有美国或中国这样的科技巨头，但数据显示，我们的大陆在许多领域都在蓬勃发展。从领先的税收竞争力到拥有高密度的人工智能公司，欧洲有很多值得自豪的地方。然而，仍有改进的空间。通过实施现金流税设计、创建共同市场、标准化流程以及建立欧洲高级研究机构等政策，我们可以加速欧洲潜力并迎来创新和增长的新时代。这就是欧洲加速主义——号召奋起、奋斗和成功。]]></description>
-      <guid>https://t.me/hn_summary/88082</guid>
-      <pubDate>Sun, 05 May 2024 21:16:25 GMT</pubDate>
+      <title>Wireguard 是一种快速、安全且易于设置的 VPN，旨在比其他常见的 V [...]</title>
+      <link>https://t.me/hn_summary/88100</link>
+      <description><![CDATA[WireGuard 入门
+Wireguard 是一款快速、安全且易于设置的 VPN，旨在通过运行在 Linux 内核中比其他常见 VPN 更快。它使用更快的加密原语，并且不遵循典型的客户端/服务器关系，而是选择对等点。 Linus Torvalds 对 Wireguard 的代码表示赞赏，并且它已经被合并到 5.6 内核源代码树中。 Wireguard 使用 Curve25519 密钥对加密连接，并支持预共享对称以适应未来需求。它可以绕过 CGNAT 并保持与 PersistentKeepAlive 的连接。设置点对点 Wireguard 连接涉及安装 Wireguard、创建配置文件、生成密钥对和启动接口。]]></description>
+      <guid>https://t.me/hn_summary/88100</guid>
+      <pubDate>Mon, 06 May 2024 01:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AV1 是一种革命性的视频编解码器，它比 x264 和 [...]</title>
-      <link>https://t.me/hn_summary/88081</link>
-      <description><![CDATA[AV1 视频编码极简指南
-AV1 是一种革命性的视频编解码器，与 x264 和 x265 编码相比具有显着改进。借助 AV1，视频可以压缩到原始大小的一小部分，使其成为 8K 素材和 VR 应用等高质量内容的理想选择。本指南全面概述了 AV1 编码，包括安装说明、先决条件和软件实现。作者分享了对其强大的工作站设置的见解，并提供了使用 AV1 优化视频编码的实用技巧。通过采用 AV1，内容制作者可以降低存储要求、提高视频质量并增强用户体验。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88081</guid>
-      <pubDate>Sun, 05 May 2024 21:13:21 GMT</pubDate>
+      <title>[媒体] CRISPR-GPT 是一种突破性的法学硕士试剂，彻底改变了基因的设计过程 [...]</title>
+      <link>https://t.me/hn_summary/88099</link>
+      <description><![CDATA[CRISPR-GPT：用于基因编辑自动化设计的法学硕士代理实验
+CRISPR-GPT 是一种突破性的法学硕士试剂，彻底改变了基因编辑实验的设计过程。通过结合领域知识和外部工具，CRISPR-GPT 自动化并增强了 CRISPR 系统的选择、指导 RNA 设计、细胞递送方法、方案起草和验证实验设计。这种创新工具可帮助非专业研究人员从头开始进行基因编辑实验，并在现实世界的用例中展示其有效性。然而，还探讨了围绕自动化基因编辑设计的伦理和监管考虑，强调了负责任和透明使用的重要性。凭借潜在的专利申请和 Google DeepMind 的参与，CRISPR-GPT 弥合了研究人​​员和 CRISPR 技术之间的差距，展示了 LLM 代理在生物发现任务中的强大功能。]]></description>
+      <guid>https://t.me/hn_summary/88099</guid>
+      <pubDate>Mon, 06 May 2024 01:14:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]沃伦·巴菲特目前囤积了惊人的 1880 亿美元现金，主要投资 [...]</title>
-      <link>https://t.me/hn_summary/88080</link>
-      <description><![CDATA[巴菲特正在短期国库券中囤积 188B 美元现金，利率为 5.4% 
-沃伦·巴菲特目前囤积了惊人的 1880 亿美元现金，主要投资于短期国库券，回报率为 5.4%。此举引起了金融界的关注，一些人质疑巴菲特为何持有如此大量的现金，而不是投资于其他机会。尽管存在争议，巴菲特的策略是独特且令人惊讶的，展示了他管理巨额财富的保守方法。只有时间才能证明这个决定是否会给这位传奇投资者带来回报。]]></description>
-      <guid>https://t.me/hn_summary/88080</guid>
-      <pubDate>Sun, 05 May 2024 21:12:16 GMT</pubDate>
+      <title>[媒体]LockBit 的暗网网站先前被警方查获，现已重新浮出水面，并带来新的启示 [...]</title>
+      <link>https://t.me/hn_summary/88098</link>
+      <description><![CDATA[LockBit 被警方复活的暗网网站，戏弄新的揭露
+LockBit 的暗网网站此前曾被警方查获，但随着有关勒索软件团伙的新披露，该网站又重新出现。该网站由执法部门控制，展示了从犯罪分子后端获取的信息范围。尽管承诺不会干扰正在进行的调查，但警方还是透露了即将披露的信息，包括该组织领导人 LockbitSupp 的真实身份。然而，最近的帖子没有透露名字，这让很多人感到失望。该网站现在暗示周二将回答一个价值 1000 万美元的问题，并承诺会有更多令人兴奋的进展。请继续关注复活的暗网页面的更新，以获取更多见解。]]></description>
+      <guid>https://t.me/hn_summary/88098</guid>
+      <pubDate>Mon, 06 May 2024 01:10:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Twitter 联合创始人 Jack Dorsey 已辞去 Bluesky 董事会 [...]</title>
-      <link>https://t.me/hn_summary/88079</link>
-      <description><![CDATA[Jack Dorsey 不再在 Bluesky 董事会任职
-Twitter 联合创始人杰克·多尔西 (Jack Dorsey) 辞去了 Bluesky 的董事会职务，Bluesky 是一家致力于创建用户控制的社交网络的公益公司。此次离职引发了寻找一位与 Bluesky 使命相符的新董事会成员的兴趣。请继续关注此开发的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/88079</guid>
-      <pubDate>Sun, 05 May 2024 21:09:13 GMT</pubDate>
+      <title>[媒体] 在 Tom's Hardware 最近发表的一篇文章中，一位名叫 Hazel 的用户分享了一个令人震惊的故事 [...]</title>
+      <link>https://t.me/hn_summary/88097</link>
+      <description><![CDATA[Firefox 用户丢失了 2 年来保存的 7,470 个标签页恢复会话
+在 Tom&#39;s Hardware 最近的一篇帖子中，一位名叫 Hazel 的用户分享了一个令许多人震惊的故事 - 她丢失了 2 年多来在浏览会话中保存的 7,000 多个标签。然而，由于 X 社区帮助从配置文件缓存恢复了旧的 Firefox 浏览会话，Hazel 能够找回她珍贵的标签。尽管打开如此多的选项卡对计算机性能表示担忧，Hazel 解释说，Firefox 的内存管理功能会将未使用的选项卡置于睡眠状态以节省内存。这一事件凸显了选项卡组织功能的重要性，Mozilla 计划推出一项新功能，使管理数百或数千个选项卡变得更加容易。]]></description>
+      <guid>https://t.me/hn_summary/88097</guid>
+      <pubDate>Mon, 06 May 2024 00:57:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TheDesk 桌面环境是一个基于 Qt 库构建的桌面环境。</title>
-      <link>https://t.me/hn_summary/88078</link>
-      <description><![CDATA[TheDesk 桌面环境
-TheDesk 桌面环境是基于 Qt 库构建的桌面环境。它可用于为 Linux 用户提供可定制的桌面环境。该项目旨在通过提供带有现代小部件和图标的现代时尚设计来脱颖而出。它可以用来解决为 Linux 系统寻找一个轻量级且具有视觉吸引力的桌面环境的问题。该项目已获得 GNU 通用公共许可证版本 3 的许可。]]></description>
-      <guid>https://t.me/hn_summary/88078</guid>
-      <pubDate>Sun, 05 May 2024 21:08:10 GMT</pubDate>
+      <title>在这篇博文中，Nia Alarie 讨论了 NetBSD 上的 X11 状态，强调了 [...]</title>
+      <link>https://t.me/hn_summary/88096</link>
+      <description><![CDATA[NetBSD 上的 X.org – 现状 
+在这篇博文中，Nia Alarie 讨论了 NetBSD 上的 X11 状态，强调了 X.Org 在该平台上的交付方式的差异。这篇文章深入探讨了 NetBSD X 集成的独特方面，包括使用分叉的 xsrc 存储库、基于 BSD makefile 的构建系统以及 xf86-input-ws 等专有驱动程序。这篇文章还涉及 Nvidia 开源图形驱动程序的历史以及 X.Org 上游开发的挑战。此外，它还探讨了 NetBSD 上 X 集成的潜在改进，例如增强客户端程序和解决屏幕锁定程序等缺失的功能。]]></description>
+      <guid>https://t.me/hn_summary/88096</guid>
+      <pubDate>Mon, 06 May 2024 00:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tasmota 是 ESP 设备的开源固件，可提供全面的本地控制 [...]</title>
-      <link>https://t.me/hn_summary/88077</link>
-      <description><![CDATA[Tasmota：ESP 设备的开源固件&lt; br /&gt;
-Tasmota 是一款适用于 ESP 设备的开源固件，可通过 MQTT、Web UI、HTTP 或串行等各种控制选项提供全面的本地控制。它允许使用计时器、规则或脚本实现自动化，并与家庭自动化解决方案集成。最新版本 Tasmota v13.4.0 Quinta 包含重大更改，例如重命名 NeoPool SENSOR 主题以及添加对 ESP32-C2 和 ESP32-C6 的支持。新功能包括对 Winsen ZH03x 粒子传感器的支持以及通过定时器的深度睡眠支持。该固件具有令人难以置信的可扩展性和灵活性，使其成为 ESP 设备用户的多功能选择。请访问 Tasmota 网站了解更多信息和更新。]]></description>
-      <guid>https://t.me/hn_summary/88077</guid>
-      <pubDate>Sun, 05 May 2024 21:07:07 GMT</pubDate>
+      <title>[媒体] 在美国宇航局资助的一项开创性研究中，博士。</title>
+      <link>https://t.me/hn_summary/88095</link>
+      <description><![CDATA[国际空间站上发现的耐药细菌突变后功能不同
+在美国宇航局资助的一项开创性研究中，喷气推进实验室的 Kasthuri Venkateswaran 博士发现，在国际空间站上发现的耐药细菌已经发生突变，在基因和功能上都与地球上的细菌不同。这种细菌，布干肠杆菌，能够在空间站的极端环境中适应并繁衍生息，与其他微生物共存，并可能有助于它们的生存。这项研究揭示了国际空间站等封闭的人造环境中的微生物动态，为宇航员的健康和预防措施的制定提供了宝贵的见解。该研究结果发表在《微生物组》杂志上，强调了研究极端环境中微生物的重要性。]]></description>
+      <guid>https://t.me/hn_summary/88095</guid>
+      <pubDate>Mon, 06 May 2024 00:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据报道，Meta（以前称为 Facebook）在 GPU 等方面花费了惊人的资金 [...]</title>
-      <link>https://t.me/hn_summary/88076</link>
-      <description><![CDATA[&quot;当今，Meta 在 GPU 上的花费几乎与曼哈顿计划一样多美元”
-据报道，Meta（以前称为 Facebook）在 GPU 上花费了惊人的金额，几乎相当于曼哈顿计划以今天的美元计算的金额。对图形处理单元的巨额投资体现了该公司对推进技术和创新的承诺。这笔支出的庞大规模既令人惊讶又令人印象深刻，突显了 Meta 致力于保持科技行业前沿的决心。这一消息引发了行业专家和爱好者的争议和猜测，因为如此重大的投资必将对技术的未来产生深远的影响。]]></description>
-      <guid>https://t.me/hn_summary/88076</guid>
-      <pubDate>Sun, 05 May 2024 21:05:03 GMT</pubDate>
+      <title>[媒体]GitHub 上的“深度强化学习：从零到英雄”项目提供了 [...]</title>
+      <link>https://t.me/hn_summary/88094</link>
+      <description><![CDATA[深度强化学习：从零到英雄
+GitHub 上的“深度强化学习：从零到英雄”项目提供了有关基础和经典深度强化学习算法的实践入门课程。课程结束时，参与者将从头开始实现 DQN、SAC 和 PPO 等算法，并对其背后的理论有较高的了解。该项目的独特之处在于提供了专注于训练人工智能玩雅达利游戏并登陆月球的实践学习体验。环境设置旨在简化学习过程，利用 Miniconda、Poetry 进行依赖管理，并使用 Visual Studio Code 进行编码。参与者可以使用 Jupyter 笔记本进行操作并访问 YouTube 视频以获取更多指导。]]></description>
+      <guid>https://t.me/hn_summary/88094</guid>
+      <pubDate>Sun, 05 May 2024 23:34:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]麻省理工学院的研究人员取得了一项突破性的发现，光，而不仅仅是热，可以[...]</title>
-      <link>https://t.me/hn_summary/88075</link>
-      <description><![CDATA[麻省理工学院发现光分子效应：光可以在没有热量的情况下蒸发水
-麻省理工学院的研究人员取得了突破性的发现，光（而不仅仅是热量）可以诱导各种表面的水蒸发。这一发现被称为光分子效应，对气候建模具有重要意义，并可能导致太阳能和水净化技术的进步。这项发表在 PNAS 上的研究表明，光可以将水分子从表面分解到空气中，影响从云层到工业过程的一切。这种意想不到的现象可能会彻底改变我们对水蒸发的理解，并有可能在能源和清洁水生产中得到实际应用。]]></description>
-      <guid>https://t.me/hn_summary/88075</guid>
-      <pubDate>Sun, 05 May 2024 21:01:59 GMT</pubDate>
+      <title>[媒体]在这篇文章中，加里·马库斯深入探讨了山姆·奥尔特曼说服人们使用的策略 [...]</title>
+      <link>https://t.me/hn_summary/88093</link>
+      <description><![CDATA[山姆·奥特曼剧本：恐惧、否认不确定性和炒作
+在本文中，加里·马库斯 (Gary Marcus) 深入研究了山姆·奥尔特曼 (Sam Altman) 所使用的策略，让世界相信他的想法和业务可能价值 7 万亿美元。奥特曼依靠猜测，淡化令人难以忽视的事实，并出售愿景和承诺，而不是有形的产品。他夸大其词地宣称要实现通用人工智能，却没有解决该领域的重大挑战。奥特曼的魅力和自信掩盖了他的主张缺乏证据以及与人工智能相关的潜在风险。文章强调了 Altman 的承诺与其公司业绩的现实之间的脱节，引发了人们对其做法对人工智能行业和整个社会影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/88093</guid>
+      <pubDate>Sun, 05 May 2024 23:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 十年前，微软收购了诺基亚的手机部门，试图主宰移动市场。</title>
-      <link>https://t.me/hn_summary/88074</link>
-      <description><![CDATA[十年前，微软收购了诺基亚的手机部门——然后又将其关闭
-十年前，微软收购了诺基亚的手机部门，以期主宰移动市场。然而，由于管理不善、市场趋势不断变化以及产品质量低劣，此次合作失败了。诺基亚曾经是手机领域的领导者，但在软件开发方面举步维艰，而微软的 Windows Mobile 平台无法与 Android 和 iOS 竞争。这次合作以灾难告终，微软将整个合作作为税收损失注销。此次收购最终导致两家公司大规模裁员和财务损失，凸显了科技行业创新和竞争的挑战。（基于 89% 的故事文本摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88074</guid>
-      <pubDate>Sun, 05 May 2024 20:48:52 GMT</pubDate>
+      <title>在这本关于 React 渲染行为的综合指南中，作者深入研究了复杂的 [...]</title>
+      <link>https://t.me/hn_summary/88092</link>
+      <description><![CDATA[React 渲染行为的基本完整指南（2020）
+在这份 React 渲染行为综合指南中，作者深入研究了 React 如何重新渲染组件的复杂性以及使用 Context 和 React-Redux 的影响。这篇文章涵盖了渲染过程、协调、渲染和提交阶段以及 React 渲染的规则。一个关键要点是渲染并不总是会导致 DOM 发生可见的更改，并且组件可能会在没有任何实际更新的情况下进行渲染。这篇文章还强调了无副作用的纯渲染的重要性。作者提供了宝贵的见解和解释，以帮助读者阐明这些概念。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88092</guid>
+      <pubDate>Sun, 05 May 2024 22:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>最近尝试的 XZ Utils 后门网络攻击可能不是一个孤立的事件，有证据表明 [...]</title>
-      <link>https://t.me/hn_summary/88073</link>
-      <description><![CDATA[针对社会工程接管开源项目的警报&lt; br /&gt;
-最近尝试的 XZ Utils 后门网络攻击可能不是一个孤立的事件，OpenJS 基金会拦截的类似可信接管尝试就证明了这一点。开源安全基金会和 OpenJS 基金会呼吁所有开源维护者警惕社会工程接管企图，并采取措施保护他们的项目。这些攻击中的可疑模式包括对维护者的积极追捕、未知个人要求提升维护者地位以及其他社区成员的虚假认可。这些攻击利用了维护人员的责任感和信任感，因此保持警惕并遵循安全最佳实践至关重要。 OpenJS 基金会和 OpenSSF 正在努力提供支持和资源来保护关键的开源基础设施。]]></description>
-      <guid>https://t.me/hn_summary/88073</guid>
-      <pubDate>Sun, 05 May 2024 20:46:48 GMT</pubDate>
+      <title>[媒体] 加州大学洛杉矶分校的研究人员在光学计算技术方面取得了突破，创造了 [...]</title>
+      <link>https://t.me/hn_summary/88091</link>
+      <description><![CDATA[基于光的计算的进步展示了未来智能相机的功能
+加州大学洛杉矶分校的研究人员在光学计算技术方面取得了突破，创造了一种在低功率环境光下运行的透明设备。这一进步可以通过减少眩光和提高图像质量来彻底改变智能相机。该器件由 2D 半导体材料制成，可对光进行快速、宽带、非线性响应，可实现除眩光减少之外的各种应用。该团队设想将该技术用于自动驾驶汽车、物体识别、图像加密和装配线缺陷检测。这项创新有可能使高分辨率成像和传感的普及化，使其成为光学计算领域向前迈出的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/88091</guid>
+      <pubDate>Sun, 05 May 2024 22:42:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
