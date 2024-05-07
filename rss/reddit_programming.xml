@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 07 May 2024 01:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 03:22:12 GMT</lastBuildDate>
+    <item>
+      <title>移动应用开发直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cm1lj9/mobile_app_dev_live_stream/</link>
+      <description><![CDATA[ 由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cm1lj9/mobile_app_dev_live_stream/</guid>
+      <pubDate>Tue, 07 May 2024 02:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GitHub Actions 构建 GitOps CI/CD 管道 (SOC 2)</title>
+      <link>https://www.reddit.com/r/programming/comments/1clzw5d/building_a_gitops_cicd_pipeline_with_github/</link>
+      <description><![CDATA[ 由   提交 /u/mlarose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clzw5d/building_a_gitops_cicd_pipeline_with_github/</guid>
+      <pubDate>Tue, 07 May 2024 01:27:51 GMT</pubDate>
+    </item>
     <item>
       <title>HTTPS 是如何工作的</title>
       <link>https://www.reddit.com/r/programming/comments/1clzhkh/how_does_https_work/</link>
       <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clzhkh/how_does_https_work/</guid>
       <pubDate>Tue, 07 May 2024 01:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌解雇数百名“核心”员工，将部分职位转移到印度和墨西哥</title>
-      <link>https://www.reddit.com/r/programming/comments/1clya6h/google_lays_off_hundreds_of_core_employees_moves/</link>
-      <description><![CDATA[ 由   提交/u/faustoc5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clya6h/google_lays_off_hundreds_of_core_employees_moves/</guid>
-      <pubDate>Tue, 07 May 2024 00:08:06 GMT</pubDate>
     </item>
     <item>
       <title>ASGI 基础知识 2：应用程序类与函数</title>
@@ -29,7 +36,7 @@
     <item>
       <title>现在趋势！ Lesan 简介：受 GraphQL 启发，具有附加功能，比 Mongoose 快 40 倍，比 Prisma 快 10 倍</title>
       <link>https://www.reddit.com/r/programming/comments/1cluv0w/trending_now_introducing_lesan_inspired_from/</link>
-      <description><![CDATA[https://github.com/MiaadTeam/lesan   由   提交/u/moratab  [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/MiaadTeam/lesan    由   提交  /u/moratab   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cluv0w/trending_now_introducing_lesan_inspired_from/</guid>
       <pubDate>Mon, 06 May 2024 21:35:57 GMT</pubDate>
     </item>
@@ -69,14 +76,14 @@
       <pubDate>Mon, 06 May 2024 18:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>Rust RFC 3503 - frontmatter</title>
+      <title>Rust RFC 3503 - 前言</title>
       <link>https://www.reddit.com/r/programming/comments/1clqiwd/rust_rfc_3503_frontmatter/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clqiwd/rust_rfc_3503_frontmatter/</guid>
       <pubDate>Mon, 06 May 2024 18:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>供应链攻击以及我为您的依赖项设置后门的多种不同方式</title>
+      <title>供应链攻击以及我为你的依赖项设置后门的多种不同方式</title>
       <link>https://www.reddit.com/r/programming/comments/1clqim6/supply_chain_attacks_and_the_many_different_ways/</link>
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clqim6/supply_chain_attacks_and_the_many_different_ways/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clqige/toolchain_necromancy_past_mistakes_haunting_aslr/</guid>
       <pubDate>Mon, 06 May 2024 18:37:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么全文搜索很难</title>
-      <link>https://www.reddit.com/r/programming/comments/1clqify/why_full_text_search_is_hard/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clqify/why_full_text_search_is_hard/</guid>
-      <pubDate>Mon, 06 May 2024 18:37:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
