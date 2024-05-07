@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 May 2024 06:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:22:28 GMT</lastBuildDate>
+    <item>
+      <title>zrok SDK for NodeJS：为您的 NodeJS 应用程序提供简单、安全的点对点共享</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm71pw/zrok_sdk_for_nodejs_simple_secure_peertopeer/</link>
+      <description><![CDATA[去年，我们发布了zrok，一个开源共享构建在 OpenZiti 之上的平台 - 认为是 Ngrok、Tailscale Funnel 等的替代品。 zrok 使 HTTP 服务器、TCP 和 UDP 隧道以及文件等资源的共享变得简单、快速且安全。 我们现在发布了适用于 zrok 的 NodeJS SDK，以便可以将简单、安全的共享模型扩展到您的自定义 NodeJS 工具和应用程序。 在我们的博客上了解更多信息 - https://blog。 openziti.io/the-nodejs-zrok-sdk。 我们提供了一个使用 Express Web 服务器启用的示例。如果您自行托管其中一个，并希望它在网络上不可见，但仍可供您选择与其共享的人访问，您应该检查一下。 我们还有一个适用于 Golang 的 zrok SDK和Python。即将支持其他语言。 如果您有兴趣让 zrok SDK 支持其他语言，请通过 我们的话语。 如果您喜欢zrok并希望支持其持续发展，请在我们的zrok 存储库；这对我们来说意义重大。   由   提交/u/PhilipLGriffiths88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm71pw/zrok_sdk_for_nodejs_simple_secure_peertopeer/</guid>
+      <pubDate>Tue, 07 May 2024 08:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家都用什么表库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm62m7/what_table_library_do_you_all_use/</link>
+      <description><![CDATA[基本标题。我对图书馆不太熟悉。  任何免费/易于使用的表库，您可以在其中使用 vanilla js，并且只需复制脚本中的脚本标签并实现？  悬停效果和分页是一个优点，但不是必需的。最好的是它易于实施并且看起来不错。可以添加数据栏/背景颜色等。   由   提交 /u/BusDriver341   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm62m7/what_table_library_do_you_all_use/</guid>
+      <pubDate>Tue, 07 May 2024 07:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找位置分析 API 的 Alpha 用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm61hj/looking_for_alpha_users_for_a_location_analytics/</link>
+      <description><![CDATA[我编写了一个 API，可以接收网站访问者的 IP 地址并返回一系列有关其物理位置的相关信息。对于选择追加销售的商品、了解用户行为趋势、目标定位等可能非常有用。我正在寻找 Alpha 用户来衡量兴趣，看看如何改进它，着眼于使其成为付费产品。如果您有兴趣了解更多信息，请私信我。   由   提交 /u/fieldcady   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm61hj/looking_for_alpha_users_for_a_location_analytics/</guid>
+      <pubDate>Tue, 07 May 2024 07:23:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>假设每天工作 8 小时，您实际上应该花多少时间来工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm5v7u/assuming_an_8_hour_work_day_how_many_of_those/</link>
+      <description><![CDATA[每个人都知道，努力工作和最大的努力会得到更多工作的回报。被解雇或晋升所带来的回报太少。 什么是快乐的媒介？   由   提交/u/Hornytoaster01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm5v7u/assuming_an_8_hour_work_day_how_many_of_those/</guid>
+      <pubDate>Tue, 07 May 2024 07:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该在服务器上分离多个和单个操作的路由吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm5m85/should_i_separate_routes_on_the_server_for_multi/</link>
+      <description><![CDATA[例如，我想创建删除订单路由。 我应该使用数组负载同时执行 /order/id 和 order/deleteMany 吗 或者只是第二个选项，当我想删除单个订单时发送 1 个项目的数组？   由   提交 /u/Eight111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm5m85/should_i_separate_routes_on_the_server_for_multi/</guid>
+      <pubDate>Tue, 07 May 2024 06:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>无头用户界面 2.0</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm5h8g/headless_ui_20/</link>
+      <description><![CDATA[    /u/valtism   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm5h8g/headless_ui_20/</guid>
+      <pubDate>Tue, 07 May 2024 06:44:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的微缩 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cm5gvi/best_cms_for_microcopies/</link>
+      <description><![CDATA[我在一家新公司工作，正在改造它的前端。 这是一家初创公司，目前代码库有点混乱。 我想引入一个 CMS，但主要用于简单的微拷贝、单个句子、按钮文本、一些图像等，以后可以轻松添加多种语言。 我上一家公司使用 Contentful，它很棒，但考虑到这家新公司的规模和 Contentful 的定价，它有点贵。 最好的替代方案是什么？ 我读过一些关于 Sanity、Strapi、Prismic、Payload 的文章，但我很难确定哪一个最适合我的需求。 感谢您的帮助！    提交人    /u/bobtobno   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cm5gvi/best_cms_for_microcopies/</guid>
+      <pubDate>Tue, 07 May 2024 06:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>可访问性专业化的范围是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cm55v7/whats_the_scope_for_specialization_in/</link>
@@ -20,7 +69,7 @@
       <pubDate>Tue, 07 May 2024 06:18:34 GMT</pubDate>
     </item>
     <item>
-      <title>从来没有考虑过 SEO，它如何与基于数据库的内容一起工作？</title>
+      <title>从未考虑过 SEO，它如何处理基于数据库的内容？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cm49l9/never_had_to_consider_seo_how_does_it_work_with/</link>
       <description><![CDATA[嗨！ 我做过一些 Webdev，但主要致力于内部工具、服务，或者只是为了好玩而拥有它项目。然而，我现在必须第一次考虑搜索引擎优化，我想知道从数据库获取内容是如何工作的？举个例子，博客？如果我在页面加载时从数据库中获取的动态路径上有大量博客文章，那么它们不可能在 Google 上建立索引，或者？还是我错了？有没有办法做到这一点？我认为这是一种非常常见的情况，但我不知道它是如何工作的，无论是在实现中还是从谷歌方面来看。如果有人提供任何链接，我很乐意阅读更多相关内容。   由   提交 /u/licorices   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cm49l9/never_had_to_consider_seo_how_does_it_work_with/</guid>
@@ -57,58 +106,9 @@
     <item>
       <title>EC2：如何了解或设置通过 Docker 拉取的 Web 应用程序映像的 IP 地址</title>
       <link>https://www.reddit.com/r/webdev/comments/1cm39lo/ec2_how_to_know_or_set_the_ip_address_for_the_web/</link>
-      <description><![CDATA[ubuntu@ip-172-31-12-29:~$ docker images 存储库标签 镜像 ID 创建大小 digitalsplendid/my-flask-应用程序最新 da18e5aba86b 2 天前 181MB hello-world 最新 d2c94e258dcb 12 个月前 13.3kB ubuntu@ip-172-31-12-29:~$ ^C ubuntu@ip-172-31-12-29:~$ docker run digitalsplendid /my-flask-app:latest * 服务 Flask 应用程序 &#39;app&#39; * 调试模式：关于信息：警告：这是一个开发服务器。不要在生产部署中使用它。请改用生产 WSGI 服务器。 * 在 http://127.0.0.1:5000 上运行  但是在粘贴 http://127.0.0.1 时:5000 在浏览器上： 无法访问此网站 那么如何设置或使该图像生效？ &lt; !-- SC_ON --&gt;  由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
+      <description><![CDATA[ubuntu@ip-172-31-12-29:~$ docker 镜像存储库标签镜像 ID 创建大小 digitalsplendid/my-flask-应用程序最新 da18e5aba86b 2 天前 181MB hello-world 最新 d2c94e258dcb 12 个月前 13.3kB ubuntu@ip-172-31-12-29:~$ ^C ubuntu@ip-172-31-12-29:~$ docker run digitalsplendid /my-flask-app:latest * 服务 Flask 应用程序 &#39;app&#39; * 调试模式：关于信息：警告：这是一个开发服务器。不要在生产部署中使用它。请改用生产 WSGI 服务器。 * 在 http://127.0.0.1:5000 上运行  但是在粘贴 http://127.0.0.1 时:5000 在浏览器上： 无法访问此网站 那么如何设置或使该图像生效？ &lt; !-- SC_ON --&gt;  由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cm39lo/ec2_how_to_know_or_set_the_ip_address_for_the_web/</guid>
       <pubDate>Tue, 07 May 2024 04:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关适合 DIY 网站的网络技术的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm2vhb/need_advice_on_the_right_web_tech_for_a_diy/</link>
-      <description><![CDATA[大家好， 我是网络技术新手，我正在与几家科技公司洽谈网站开发事宜。我需要您的帮助/建议，以了解可以交付什么以及如何交付。基本上，正在寻找网络技术推荐。  我正在计划一个网站项目，它将是印度尼西亚 DIY 木匠的博客 + 课程。它将每天发布一个新博客，并开始提供大约 25 门课程。我需要完成以下工作。  用户登录以访问内容。 （需要电子邮件注册） 付费访问高级课程（支付网关 - 最好是 Paypal/ Stripe） 对我来说，制作/管理/审核内容很容易。 网站安全（因为 90% 的信息是免费的，所以会吸引攻击） 某种方式来管理和备份网站 + 用户数据（用户名/登录名/密码）。   我的问题：  哪种 Web 开发技术可以提供上述所有内容？ 您是否推荐其他 Web 技术来代替 Wordpress/PHP？ 有什么建议/推荐吗？  谢谢   由    /u/ItzUnmesh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm2vhb/need_advice_on_the_right_web_tech_for_a_diy/</guid>
-      <pubDate>Tue, 07 May 2024 04:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm286g/build_file/</link>
-      <description><![CDATA[有人知道用于静态网站 Web 开发的构建文件类型系统吗？我一直在使用 Hugo 静态站点生成器，它管理所有这些，每当您保存时更新站点文件夹（并更新实时加载本地服务器）。但我想要更简单的东西。我只有一些 HTML 文件、JS、CSS 等所有静态的东西。我只想要一个可以做简单事情的系统，比如缩小 JS 和 CSS 文件。将所需的文件复制到部署文件夹中，这样我只部署我需要的文件，而不是部署项目文件夹中似乎总是积累的所有其他文件。制作一个 zip 文件以便于部署会很棒。我正在考虑使用 Apache Ant，但这似乎有点老派。只是想知道是否有现代的方法可以做到这一点？   由   提交 /u/SumoCanFrog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm286g/build_file/</guid>
-      <pubDate>Tue, 07 May 2024 03:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论一些好的网络字体！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm1rst/comment_down_some_good_fonts_for_web/</link>
-      <description><![CDATA[大家好，请你们推荐一些好看的字体给我，以便在我的 Web 开发项目中使用。 感谢您的阅读!!   由   提交/u/Moeheink2006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm1rst/comment_down_some_good_fonts_for_web/</guid>
-      <pubDate>Tue, 07 May 2024 03:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我迷路了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm1bci/im_lost/</link>
-      <description><![CDATA[我迷路了 我目前的目标是成为一名 Web 开发人员。我在一所大学获得了信息技术副学士学位，正在考虑转学到大学攻读学士学位。问题是我没有代数和离散数学之外的数学知识（我个人认为这对于网络开发来说绰绰有余），但大多数大学都需要高级数学技能，例如线性代数和微积分。我仍然想获得学士学位，因为它给我一些安慰。于是，我想到了学习经济学或者俄语语言文学（我在俄罗斯生活了几年，懂俄语）。但这感觉太无关紧要了，因为我坚定地决心从事网络开发。只是为了舒服，我将不得不浪费两年的时间和金钱来学习基本上可以从互联网上学到的东西。我该怎么办？   由   提交/u/Leeve05  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm1bci/im_lost/</guid>
-      <pubDate>Tue, 07 May 2024 02:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>ics (rfc5545) 和 vcard (rfc6350) 数据的 Javascript 解析器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clzw4d/javascript_parser_for_ics_rfc5545_and_vcard/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clzw4d/javascript_parser_for_ics_rfc5545_and_vcard/</guid>
-      <pubDate>Tue, 07 May 2024 01:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以通过广告赚多少钱来平衡人工智能的使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clzr2p/how_much_money_could_i_make_off_ads_to_balance/</link>
-      <description><![CDATA[所以我正在制作一款用户使用 AI 的网页游戏，它可能是 OpenAI，每百万代币的成本为 2 美元。如果我获得很多用户，这可能会花费很多。与使用 API 的价格相比，网页侧的广告等会赚多少钱？我认为我必须限制非付费用户的游戏数量，并添加无限玩的订阅模式，还添加观看广告视频的选项以获得额外的游戏。我以前从未在网站上做过广告，所以我不知道这通常能赚多少钱。通过限制每个游戏和输入的角色，并使人工智能只能回答是和否，每个游戏的代币将在 100-300 左右或类似的东西。如果我真的限制游戏等，每个用户每月可能会花费大约 0.5 到 2 美元。我不知道我可以从广告中赚多少钱，但我不想限制用户太多，并希望为他们提供尽可能好的体验。有谁知道我可以通过广告或任何其他方式在不破坏用户体验的情况下通过游戏获利吗？   由   提交 /u/tojzl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clzr2p/how_much_money_could_i_make_off_ads_to_balance/</guid>
-      <pubDate>Tue, 07 May 2024 01:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>当前穷人为小企业创建 Whatsapp 聊天机器人的方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clyqbk/what_is_the_current_poor_mans_way_of_creating_a/</link>
-      <description><![CDATA[我住在墨西哥，我妈妈想开办一家小企业，这里大量使用 WhatsApp。从我最初发现的情况来看，我计划将 Whatsapp-web.js 与 nlp.js 一起使用，但 nlp.js 看起来从不久前就不再保留，尽管它仍然可以满足我的需求我可能不需要花哨的行为。然而，由于这是一个学习机会，我想问一下目前是否有更实用的替代方案，而且是免费的或非常便宜的。    由   提交 /u/setdelmar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clyqbk/what_is_the_current_poor_mans_way_of_creating_a/</guid>
-      <pubDate>Tue, 07 May 2024 00:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

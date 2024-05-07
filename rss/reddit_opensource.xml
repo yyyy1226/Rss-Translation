@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:22:35 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS 图库来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -97,18 +104,11 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
+      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档开源软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
