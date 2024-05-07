@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 May 2024 18:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:17:25 GMT</lastBuildDate>
+    <item>
+      <title>有没有关于 AI 创业网站动画渐变背景的推荐？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmmyiw/recommendations_for_ai_startup_website_animated/</link>
+      <description><![CDATA[似乎所有 LLM 初创公司都在使用类似的渐变美学。你们都使用什么工具来完成此任务？ 我特别喜欢这个： https:// modal.com   由   提交/u/biklaufiklau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmmyiw/recommendations_for_ai_startup_website_animated/</guid>
+      <pubDate>Tue, 07 May 2024 21:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决代码战任务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmmhr9/solving_codewars_tasks/</link>
+      <description><![CDATA[我是一名自学成才的开发人员（主要是前端），我尝试通过解决 7 级的 katas 来提高我的 JavaScript 知识和技能，有时当我真的很努力地尝试6。但我不能再低了……就像，我确实觉得我学到了很多东西，但当2小时后我因为无法解决6型任务而放弃时，这真的很令人沮丧。有时我什至无法理解任务本身。人如何成为1段，解决型1或2的任务？  分配什么时间来解决要解决的任务合适？    由   提交 /u/lponkl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmmhr9/solving_codewars_tasks/</guid>
+      <pubDate>Tue, 07 May 2024 20:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>用什么来构建登陆页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmkr9q/what_to_build_a_landing_page_with/</link>
+      <description><![CDATA[大家好，我是一名使用 PERN 堆栈的全栈 Web 开发人员，我正在考虑进入 SaaS。我想问我应该使用什么作为登陆页面，我的意思是 WordPress 更好还是我应该坚持使用 React 和 Bootstrap/tailwind？    由   提交 /u/Tesla420A   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmkr9q/what_to_build_a_landing_page_with/</guid>
+      <pubDate>Tue, 07 May 2024 19:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者数据库困境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmjmov/beginner_database_dilemma/</link>
+      <description><![CDATA[好的，大家。 Reddit 上有人曾经说过，他们等了 24 小时才发布问题，以防他们想出解决方案，而我已经 48 小时后才遇到这个问题了。所以我们到了。我不想问这个问题，因为我想今晚能够睡觉。 一定有一个简单的解决方案，我只是没有得到，如果这意味着被钉在十字架上和嘲笑，那就这样吧。 过去两个月我一直在开发一个网站（只是为了好玩，我不是真正的网络开发人员）。它有一个 sqlite 数据库，用于存储有关某些图像的信息（存储在 s3 上）。我编写了一些基本的 CRUD 操作，这些操作只允许我写入数据库并上传到存储桶。没有任何机密信息，一切都是公开的，php 抓取所有数据库信息并将其呈现给用户。 我的问题是，如果我在实时网站上进行任何 CRUD，然后进行本地更新，然后用新的站点文件替换站点文件，它将覆盖数据库。 此外，如果我在本地站点上工作，它将是正在使用的数据库的过时版本，我希望它们是&#39;同步&#39;，如果这有意义的话。 所以我正在考虑将 sqlite 数据库文件放入 s3，并在每次执行某种形式的 CRUD 时下载/重新上传+替换它，但由于某种原因它只是感觉效率真的很低。 ChatGPT 正在成为 chatgpt 并给出无用的答案，我几乎用谷歌搜索了这个问题的所有可能性，并且开始觉得有一些解决方案完全超出了我的想象。  p&gt; 有人可以指导我正确的方向吗？ 如果我的措辞不好，请道歉 - 请随时纠正我，我们将不胜感激。   由   提交 /u/ReferezFearz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmjmov/beginner_database_dilemma/</guid>
+      <pubDate>Tue, 07 May 2024 18:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要人工智能增强的网络开发人员。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmjjw3/ai_enhanced_web_dev_wanted/</link>
+      <description><![CDATA[我阅读了规则，似乎并没有禁止发布招聘请求，所以就这样...  我想聘请一名全栈人工智能增强型网络开发人员。  理解并使用人工智能来提高生产力和工作质量并将其中一些好处传递给客户的人。  像当今大多数人一样，我正在构建一个 AI 增强型 Web 项目，拥有完整的规范，并且我希望构建一个 MVP。  干杯，感谢您的阅读。   由   提交 /u/Tridente   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmjjw3/ai_enhanced_web_dev_wanted/</guid>
+      <pubDate>Tue, 07 May 2024 18:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人如何制作虚假电子邮件以进行网络钓鱼？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmiwci/how_can_someone_make_a_bogus_email_for_phishing/</link>
+      <description><![CDATA[收到多封购买电子邮件，全部以 (at) acvzz.com 结尾，但它们都有不同的名字。当我使用 email-checker.net 时，它显示电子邮件不合法。但如果有人使用退回的电子邮件，并且这些电子邮件都没有退回，我也会收到通知。 事实上，我测试了它，向 thiscantbelegit (at) acvzz.com，它没有反弹，还尝试了其他一些带有该扩展名的虚构名称。他们都没有反弹。 他们是怎么做到的？    由   提交 /u/soCalForFunDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmiwci/how_can_someone_make_a_bogus_email_for_phishing/</guid>
+      <pubDate>Tue, 07 May 2024 18:29:02 GMT</pubDate>
+    </item>
     <item>
       <title>需要官方开发人员的帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cminhb/need_some_help_from_the_official_dev_out_there/</link>
@@ -13,16 +55,16 @@
       <pubDate>Tue, 07 May 2024 18:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>Visual Studio Code 是否具有 html/css 的“拖放”功能？</title>
+      <title>Visual Studio Code 是否具有针对 html/css 的“拖放”功能？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/</link>
-      <description><![CDATA[我是一名菜鸟开发人员，正在开发我的第一个“真正的”项目一个小型组织的项目。 我完全通过自定义 html/css 来完成它。  我知道如何以传统方式定位元素，但我想知道 Visual Studio Code 是否具有允许开发人员仅使用光标拖放创建的元素的功能。 我问的原因是我想做一些小调整，而不仅仅是“将此框向下移动 5 像素，然后向右移动 5 像素”。我想知道是否有比仅键入然后刷新更快的方法。    由   提交/u/Emotional-Sir3410   reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我是一名菜鸟开发人员，正在开发我的第一个“真正的”项目一个小型组织的项目。 我完全通过自定义 html/css 来完成它。  我知道如何以传统方式定位元素，但我想知道 Visual Studio Code 是否具有允许开发人员仅使用光标拖放创建的元素的功能。 我问的原因是我想做一些小调整，而不仅仅是“将此框向下移动 5 像素，然后向右移动 5 像素”。我想知道是否有比仅键入然后刷新更快的方法。    由   提交 /u/Emotional-Sir3410    reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/</guid>
       <pubDate>Tue, 07 May 2024 18:17:12 GMT</pubDate>
     </item>
     <item>
       <title>Shopify 网站上的文本格式问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmikeb/text_formatting_issue_on_shopify_website/</link>
-      <description><![CDATA[您好， 我在 Shopify 网站上遇到文本格式问题。我有一个 H2 标题，当页面大小发生变化时，单词会分开并单独换行，而不是在单词边界处断开。我尝试过使用像“overflow-wrap”这样的CSS属性和“自动换行”来解决这个问题，但它们似乎没有按预期工作。 您能否提供一些指导，说明如何确保文本在单词边界而不是单个字符处中断，特别是当页面大小较大时更改？ 感谢您的帮助。   由   提交/u/Taveqy_333   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我在 Shopify 网站上遇到文本格式问题。我有一个 H2 标题，当页面大小发生变化时，单词会分开并单独换行，而不是在单词边界处断开。我尝试过使用像“overflow-wrap”这样的CSS属性和“自动换行”来解决这个问题，但它们似乎没有按预期工作。 您能否提供一些有关如何确保文本在单词边界而不是单个字符处中断的指导，特别是当页面大小更改？ 感谢您的帮助。   由   提交/u/Taveqy_333   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmikeb/text_formatting_issue_on_shopify_website/</guid>
       <pubDate>Tue, 07 May 2024 18:15:04 GMT</pubDate>
     </item>
@@ -41,7 +83,7 @@
       <pubDate>Tue, 07 May 2024 17:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>创建独立项目的 Web 开发人员，如果您实际上“雇用”自己，那么需要花费多少钱？</title>
+      <title>创建了独立项目的 Web 开发人员，如果您实际上“雇用”自己，需要花费多少钱？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmgplg/web_devs_whove_created_independent_projects_if/</link>
       <description><![CDATA[例如，假设您用大约 100 小时的空闲时间构建了一些 Facebook 克隆。鉴于您正常工作的时薪为 50 美元，如果您“雇用”一名员工，那么您将花费大约 5000 美元。你自己。 你明白了。    由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmgplg/web_devs_whove_created_independent_projects_if/</guid>
@@ -57,58 +99,16 @@
     <item>
       <title>我迷路了。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmg6k5/im_lost/</link>
-      <description><![CDATA[在过去的一年里，我一直在前端和后端使用 TS。在前端使用 React 我不介意使用它。但在后端我不喜欢它。我用它做了几个项目，但我总是发现它搞砸了。  所以我想也许可以尝试一下 Java spring boot 或 C# .NET。但我得到了一些不同的回应。我认识的两个在科技行业工作多年的人告诉我尝试一下 .NET，因为它对于 Spring Boot 来说也有高薪工作。我大学里的每个朋友都说它们都是死技术。  老实说，我不想至少在我的个人项目中在后端使用 TS。但我有点担心尝试它们。    由   提交 /u/Intelligent-Swing371    reddit.com/r/webdev/comments/1cmg6k5/im_lost/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[在过去的一年里，我一直在前端和后端使用 TS。在前端使用 react 时，我不介意使用它。但在后端我不喜欢它。我用它做了几个项目，但我总是发现它很乱。 所以我想也许可以试试 Java spring boot 或 C# .NET。但我得到了一些不同的反应。我认识的 2 个在科技行业工作多年的人告诉我试试 .NET，因为它和 spring boot 都有高薪工作。我大学里的每个朋友都说它们都是过时的技术。 老实说，至少在我的个人项目中，我不想在后端使用 TS。但我有点急于尝试它们。    提交人    /u/Intelligent-Swing371   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmg6k5/im_lost/</guid>
       <pubDate>Tue, 07 May 2024 16:33:31 GMT</pubDate>
     </item>
     <item>
       <title>GoServ 样板</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmfydb/goserv_boilerplate/</link>
-      <description><![CDATA[大家好， 我正在构建一个使用 go/react 的 SaaS 产品。我制作了一个样板，以防我想做任何新项目。它相当简单，只需使用 jwt、react 前端进行用户身份验证（注册/登录）。后端基于 go gin。它可以在这里找到： https://github.com/leoforney/goserv 我为自己做了这个，但如果有人想使用它，请随意。我认为很多人更喜欢使用后端，但它是性能最高的后端之一！正确地启动您的产品/公司！   由   提交 /u/leoforney   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在构建一个使用 go/react 的 SaaS 产品。我制作了一个样板，以防我想创建任何新项目。它相当简单，只有使用 jwt 的用户身份验证（注册/登录），前端是 react。后端基于 go gin。它可在此处获得：https://github.com/leoforney/goserv 我为自己制作了这个，但如果有人想使用它，请随意。我认为许多人更喜欢使用 go 作为后端，但它是性能最高的后端之一！立即开始您的产品/公司！    提交人    /u/leoforney   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmfydb/goserv_boilerplate/</guid>
       <pubDate>Tue, 07 May 2024 16:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>探测 WebRTC 带宽探测 – gcc 中的原因和方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmfs1t/probing_webrtc_bandwidth_probing_why_and_how_in/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmfs1t/probing_webrtc_bandwidth_probing_why_and_how_in/</guid>
-      <pubDate>Tue, 07 May 2024 16:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站上的地图集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmfmir/map_integration_on_website/</link>
-      <description><![CDATA[我想在我的网站上添加一项功能，允许用户查看其位置附近的餐馆。我的问题很简单，我应该在我的网站中嵌入地图，例如谷歌地图，还是将它们重定向到谷歌地图，并将其位置作为参数。非常感谢任何反馈。    由   提交/u/Queasy-Thing-3206   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmfmir/map_integration_on_website/</guid>
-      <pubDate>Tue, 07 May 2024 16:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>无代码网站建设者如何存储网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmfd38/how_do_nocode_website_builders_store_the_websites/</link>
-      <description><![CDATA[对于 Shopify 和 Framer 等应用程序 - 它们如何存储这些数据？它只是存储在数据库中的所有 html/css/js 吗？或者其他格式？ 这引出了我的第二个问题 - 他们将使用什么样的数据库？像 postgres 这样的东西？ 任何帮助表示赞赏！   由   提交/u/loganfordd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmfd38/how_do_nocode_website_builders_store_the_websites/</guid>
-      <pubDate>Tue, 07 May 2024 15:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像扫描质量检查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmern7/image_scan_quality_check/</link>
-      <description><![CDATA[嘿，你知道有什么好的 API 可以检查我的用户拍摄的文档图片的质量吗？    由   提交/u/gustutu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmern7/image_scan_quality_check/</guid>
-      <pubDate>Tue, 07 May 2024 15:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么要使用组件库（例如在 React - MUI、Radix 或任何其他组件库中）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmemdb/why_do_you_use_component_libraries_eg_in_react/</link>
-      <description><![CDATA[基本标题。我正在与一位同事讨论人们是否倾向于使用组件库是因为组件库背后的逻辑还是其附带的设计？ 查看投票   由   提交 /u/soupgasm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmemdb/why_do_you_use_component_libraries_eg_in_react/</guid>
-      <pubDate>Tue, 07 May 2024 15:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>装饰按钮应该隐藏吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmeblf/should_decorative_button_be_ariahidden/</link>
-      <description><![CDATA[我的个人网站设计得看起来像是在经典的 macOS 窗口中，并且有一个标题栏，其中的按钮不执行任何操作（它们是但可点击，这就是我使用  的原因）。 ax 和 WAVE 似乎认为我做错了什么，但它们仍然应该被隐藏，对吗？ 编辑：当我向  添加禁用属性时，WAVE 和 axe 停止警告我，仍然不确定这是否是一个好的做法   由   提交/u/uGoldfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmeblf/should_decorative_button_be_ariahidden/</guid>
-      <pubDate>Tue, 07 May 2024 15:15:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

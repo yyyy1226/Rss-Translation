@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 07 May 2024 18:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:16:25 GMT</lastBuildDate>
     <item>
       <title>每日 PDF 下载</title>
       <link>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</link>
@@ -22,12 +22,12 @@
     <item>
       <title>Make.com / Notion 自动化挑战</title>
       <link>https://www.reddit.com/r/automation/comments/1clk9sb/makecom_notion_automation_challenge/</link>
-      <description><![CDATA[我有 2 个概念数据库，第一个是时间表，第二个是关于休假请求（休假）的。 在时间表数据库中，我有：  - 开始日、结束日，  - 链接到叶子的关系字段。  我的目标是将所有已批准的请求（状态已批准）链接到时间表，其中休假请求开始日期位于时间表的开始日期和结束日期之间。  ​ 如何使用 make.com 进行链接字段。   由   提交/u/Clean_Style_3410   [链接] [评论]]]></description>
+      <description><![CDATA[我有 2 个概念数据库，第一个是时间表，第二个是关于休假请求（休假）的。 在时间表数据库中，我有： - 开始日期，结束日期， - 链接到休假的关系字段。 我旨在将所有已批准的请求（状态已批准）链接到时间表，其中休假请求开始日期介于时间表的开始日期和结束日期之间。 ​ 如何使用 make.com 链接字段。    提交人    /u/Clean_Style_3410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1clk9sb/makecom_notion_automation_challenge/</guid>
       <pubDate>Mon, 06 May 2024 14:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>联系表和免费 PDF 自动化</title>
+      <title>联系表格和免费 PDF 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</link>
       <description><![CDATA[我首先会说我希望使用尽可能少的平台。理想情况下，我不需要 Squarespace、HubSpot CRM、MailChimp 等。根据我的发现，我需要许多不同的平台来自动化我想要在 Zapier 上执行的操作。我希望有一种更简单（而且更便宜）的方法！ 我正在为我的营销机构寻找两件事：  自动化我的初始销售渠道。有人通过我的 Squarespace 网站上的联系表联系我们 &gt;已安排通话 &gt;我为他们的社交/网站提出了改进的领域（如果这可以以某种方式自动化，那就太棒了，但我可以手动执行此操作）&gt;如果没有回复，请发送后续电子邮件询问他们是否仍然感兴趣&gt;如果他们想合作，则会自动发送发票 “在我的 IG 帖子上评论单词 ___ 以获得免费指南”自动化。我很乐意制作一个免费的 pdf 或视频或仅在他们输入电子邮件并选择加入我的指南后发送的内容。  谢谢大家！&lt; /p&gt;   由   提交 /u/alexxxcazam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>2024 年人工智能开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</guid>
       <pubDate>Thu, 02 May 2024 09:48:08 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 01 May 2024 07:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以推荐一些关于自动化办公任务的具体教程吗？</title>
+      <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
       <description><![CDATA[我迫切需要一些教程来帮助我开始自动化办公任务   由   提交/u/DepthInternational78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</guid>
