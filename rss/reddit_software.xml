@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 07 May 2024 03:22:07 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Tue, 07 May 2024 06:25:32 GMT</lastBuildDate>
     <item>
       <title>关于构建资源以教育朋友和家人了解健康状况的最佳平台的建议</title>
       <link>https://www.reddit.com/r/software/comments/1clzkx3/advice_for_best_platform_for_building_a_resource/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 07 May 2024 00:47:41 GMT</pubDate>
     </item>
     <item>
-      <title>Rufus GPT/MBR</title>
+      <title>鲁弗斯 gpt/mbr</title>
       <link>https://www.reddit.com/r/software/comments/1clubp3/rufus_gptmbr/</link>
       <description><![CDATA[我尝试使用 RUFUS 为两种分区方案 (mbr/gpt) 创建可启动 USB 来安装 Windows 7，但我一直收到 Windows 只能安装在gpt 磁盘    由   提交/u/New_Age6338   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clubp3/rufus_gptmbr/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>有免费的 HEVC 播放器推荐吗？</title>
       <link>https://www.reddit.com/r/software/comments/1clrlo9/any_free_hevc_player_reccomendations/</link>
-      <description><![CDATA[提前致谢！    由   提交 /u/DeltaXero   [链接] [评论]]]></description>
+      <description><![CDATA[提前致谢！    由   提交  /u/DeltaXero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clrlo9/any_free_hevc_player_reccomendations/</guid>
       <pubDate>Mon, 06 May 2024 19:22:04 GMT</pubDate>
     </item>
@@ -71,12 +71,12 @@
     <item>
       <title>OneNote 桌面的替代应用程序，用于记笔记</title>
       <link>https://www.reddit.com/r/software/comments/1clkuhy/replacement_app_for_onenote_desktop_for_notetaking/</link>
-      <description><![CDATA[  由    /u/Sorrt  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Sorrt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clkuhy/replacement_app_for_onenote_desktop_for_notetaking/</guid>
       <pubDate>Mon, 06 May 2024 14:46:43 GMT</pubDate>
     </item>
     <item>
-      <title>需要一个超级用户友好的演示文稿制作器（适用于 Mac！）</title>
+      <title>需要一个超级用户友好的演示制作工具（Mac 友好！）</title>
       <link>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</link>
       <description><![CDATA[大家好，自从我上次准备演示文稿以来已经有很长时间了，这可能是一次性的事情。正在寻找超级易于使用但仍能让我创建具有视觉吸引力的软件。 如果它可以在我的 Mac 上离线运行，那就加分了！提前致谢！   由   提交 /u/dimpchells   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 06 May 2024 10:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一个浏览器中的 YouTube 下载器</title>
+      <title>我需要在浏览器中安装 YouTube 下载器</title>
       <link>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</link>
       <description><![CDATA[我正在使用 yt mate，但它表现得很奇怪   由   提交/u/Far_Baseball_1663   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</guid>
