@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 May 2024 01:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 03:21:39 GMT</lastBuildDate>
+    <item>
+      <title>名字里有什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmug1b/whats_in_a_name/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmug1b/whats_in_a_name/</guid>
+      <pubDate>Wed, 08 May 2024 03:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个好的网站需要多少钱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmt1iu/what_does_a_good_website_cost/</link>
+      <description><![CDATA[我是一家小企业主，我们正在成长。我一直有一个使用 wix 自己创建的网站。我想要搜索引擎能找到的更新内容。不需要是 10/10，但 7 或 8 就不错了。我目前有 2 个。 我被告知每月 1,000 美元和每月 4,000 美元。 我更喜欢一次性付款，让某人重新设计它，然后我自己主持，但不知道这里的规范是什么。任何建议表示赞赏。    由   提交 /u/constructs4life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmt1iu/what_does_a_good_website_cost/</guid>
+      <pubDate>Wed, 08 May 2024 01:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果 docker 更轻量级，为什么托管 docker 容器的价格与托管虚拟机的价格相同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmsb58/why_does_it_seem_that_hosting_a_docker_container/</link>
+      <description><![CDATA[我只是错误/误解了定价吗？ 最近为我一直在开发的网站制作了 .net API看看托管，无论我使用虚拟机还是 Docker，上述 API 的定价看起来都是一样的，这怎么可能呢？  每当谈到部署后端时，我都是新手，所以对我要轻松一些！    由   提交 /u/OiaOrca   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmsb58/why_does_it_seem_that_hosting_a_docker_container/</guid>
+      <pubDate>Wed, 08 May 2024 01:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>对于想要在开发后对其网站进行更改的客户来说，通常的流程是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmrq7p/whats_the_usual_process_for_clients_who_want_to/</link>
@@ -20,7 +41,7 @@
       <pubDate>Wed, 08 May 2024 00:45:58 GMT</pubDate>
     </item>
     <item>
-      <title>我想要两个文本项并排显示，但我的网站一直在为第三个文本项腾出空间</title>
+      <title>我想要并排两个文本项，但我的网站不断为第三个文本项腾出空间</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmqny5/i_want_two_text_items_side_by_side_but_my_site/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmqny5/i_want_two_text_items_side_by_side_but_my_site/</guid>
@@ -48,7 +69,7 @@
       <pubDate>Tue, 07 May 2024 23:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>Firefox 为何叫 Firefox？</title>
+      <title>火狐浏览器为什么叫火狐浏览器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmpmvk/why_is_firefox_called_firefox/</link>
       <description><![CDATA[    /u/vezaynk   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmpmvk/why_is_firefox_called_firefox/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[      嘿伙计们，你们有更好或正确的方法吗？  我有一个多维对象数组（我不知道这是否是正确的说法），我的函数根据我提供的 ID 在此数组中搜索子类别，然后返回它所属的对象的名称。我想知道是否有更好的方法来实现这一目标。我相信有。这是基本逻辑：   由   提交/u/rralfaro   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmp4r9/what_is_the_best_way_to/</guid>
       <pubDate>Tue, 07 May 2024 22:46:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>按钮数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmom1z/button_count/</link>
-      <description><![CDATA[作为初学者，我想跟踪所有会话的按钮计数。我知道它需要存储在服务器端的某个地方。  有什么建议/提示可以使用 js 脚本或任何其他方式以简单的方式做到这一点吗？ 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交 /u/Current-Bug-6964   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmom1z/button_count/</guid>
-      <pubDate>Tue, 07 May 2024 22:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下哪款笔记本电脑适合 webdev？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmo8fv/which_of_these_laptops_for_webdev/</link>
-      <description><![CDATA[我现在用的笔记本电脑是一台 7 年历史的 Pavilion，配备 8550u 16gb 内存 128gb 硬盘 1tb 去年我更换了笔记本电脑膨胀的电池，换上了 1.5TB 的 SSD 笔记本电脑的电池续航时间仍然只有 3 小时左右，这真是太糟糕了 所以我决定退役我的 Pavillion 并购买一台新设备，尽管 HP 到目前为止除了电池寿命短之外运行良好 所以我将选择范围缩小到这两个选项之一 Legion Slim 5 OLED 7840HS 16GB 焊接内存 1TB SSD RTX 4050 120Hz OLED 2.8K 显示器 72Wh 电池 1.7KG 重量 1399 美元 或者 Zenbook 14 OLED Core Ultra 9 16GB RAM 1TB SSD 集成 ARC iGPU 120Hz OLED 2.8K 显示器 75Wh 电池 0.9KG 重量 1299 美元 您会选择哪一个？ 我是一个相当重度的用户（主要是视频编辑、网页设计，将来可能会进行一些机器学习）我不会说我是一个重度游戏玩家，因为我玩的大多数游戏都不需要太多的图形。 我的主要关注点是 ✓ 黄金电池寿命 ✓ 未来证明 查看投票    提交人    /u/No-Establishment4313   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmo8fv/which_of_these_laptops_for_webdev/</guid>
-      <pubDate>Tue, 07 May 2024 22:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有类似jsfiddle的免费且非诈骗的软件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmnm87/is_there_a_software_that_is_similar_to_jsfiddle/</link>
-      <description><![CDATA[我的项目太大，无法在 jsfiddle 上保存，我现在有点迷失方向。我已经准备好了 Amy css/java/html 文件。如果这看起来是一个愚蠢的问题，我非常抱歉。    由   提交/u/Silver_Information69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmnm87/is_there_a_software_that_is_similar_to_jsfiddle/</guid>
-      <pubDate>Tue, 07 May 2024 21:43:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

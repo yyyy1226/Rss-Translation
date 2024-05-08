@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 May 2024 01:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 03:21:44 GMT</lastBuildDate>
+    <item>
+      <title>如果我没有钱起诉罪犯，那么张贴许可证有什么意义呢？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cms9g4/whats_the_point_of_posting_a_liscense_if_i_dont/</link>
+      <description><![CDATA[这是一个半开玩笑，但我从未见过认真讨论过这个问题。  &amp; #32；由   提交 /u/farteMonster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cms9g4/whats_the_point_of_posting_a_liscense_if_i_dont/</guid>
+      <pubDate>Wed, 08 May 2024 01:16:37 GMT</pubDate>
+    </item>
     <item>
       <title>员工监控工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmrhjk/employee_monitoring_tool/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>我应该将我的咖啡机闹钟文件和构建指南开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</link>
-      <description><![CDATA[主要问题： 有人对我将这个项目开源感兴趣吗？ “Coffee Waker”项目描述： 一款低于 70 美元的咖啡机闹钟，类似于 Barisieur。建造者必须： 3D 打印大部分；订单&amp;组装 PCB； Flash嵌入式程序；折断一些硼硅酸盐管。 它的工作原理是使用包裹在食品安全热缩管中的浸入式加热器将锥形烧瓶中的水煮沸，以产生压力，迫使沸水从管子中流出并排出。  它使用托管网页进行接口/配置；称重传感器收集冲煮组件的状态（最小水量、不存在等）以及接口（水龙头控制某些功能）。 咖啡唤醒者的图像 背景： 任何喜欢咖啡和咖啡的人咖啡 YouTube 上可能见过Barisieur咖啡机闹钟。我记得关注了他们的 Kickstarter，并且喜欢这个概念和美学。当它们推出时，我真的很想要一个，但它们（现在仍然是）超过 300 美元。 当时我的一些爱好是 3D 打印、难以忍受的基本 CAD 设计、基本嵌入式编程和电气工程。所以很自然地，我总是想知道如何自己建造一个。从那时起，我就通过攻读电气工程学士学位来磨练硬件部分。几个月前决定通过最终设计自己的版本来测试我的学位和爱好技能。我在几家公司实习过，所以我试图尽可能认真地对待这个问题，因此我的限制和限制要求列表是这样的：  约束和条件要求： BOM &lt;最低熊价为 70 美元 BOM &lt; 100 美元，带唤醒灯和闹钟语音人工智能 它应该可以工作 尽可能安全（食品安全、电气安全、功能安全），但不能防白痴  li&gt;    由   提交 /u/Enough-Tomatillo-135   [链接] [评论]]]></description>
+      <description><![CDATA[主要问题： 有人对我将此项目开源感兴趣吗？ “Coffee Waker”项目描述： 一款价格低于 70 美元的咖啡机闹钟，类似于 Barisieur。建造者必须：3D 打印大部分内容；订购和组装 PCB；刷新嵌入式程序；卡入一些硼硅酸盐管。 它的工作原理是使用包裹在食品安全热缩管中的浸入式加热器将锥形瓶中的水煮沸，以产生压力，迫使沸水从管子中流出并进入咖啡床。 它使用托管网页进行界面/配置；称重传感器用于收集冲泡组件的状态（水量最少、不存在等）以及接口（水龙头控制某些功能）。 咖啡机闹钟图片 背景： 任何喜欢咖啡和咖啡 YouTube 的人可能都看过 Barisieur 咖啡机闹钟。我记得关注过他们的 Kickstarter 并喜欢这个概念和美学。当它们推出时，我真的很想要一个，但它们的价格超过 300 美元（现在仍然如此）。 那时我的一些爱好是 3D 打印、难以忍受的基本 CAD 设计、基本嵌入式编程和电气工程。所以很自然地，我总是想知道如何自己构建一个。从那时起，我通过攻读电气工程学士学位来磨练硬件部分。几个月前，我决定通过最终设计我自己的版本来测试我的学位和业余爱好技能。 我曾在几家公司实习过，因此我试图尽可能认真地对待这件事，因此我的限制和要求列表如下：  限制和要求： BOM &lt; 最低熊 70 美元 BOM &lt; 100 美元，带唤醒灯和语音 AI 它应该可以工作 尽我所能使其尽可能安全（食品安全、电气安全、功能安全）但不是傻瓜式的      提交人    /u/Enough-Tomatillo-135   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</guid>
       <pubDate>Tue, 07 May 2024 22:19:20 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Tue, 07 May 2024 02:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>lu5,用于创意编码的Lua解释器,下载lu5的源码_GitHub_帮酷</title>
+      <title>lu5,用于 Creative Coding 的 Lua 解释器,下载lu5的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</link>
-      <description><![CDATA[       由   提交/u/vlevi   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/vlevi  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</guid>
       <pubDate>Mon, 06 May 2024 22:15:11 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我正在寻找一个开源健身和食物追踪器，类似于 MyFitnessPal，但希望它是开源的而不是间谍的包在我身上。我有一块 Amazfit 手表（现在称为 Zepp）并使用他们的应用程序，但更喜欢一个更开放的应用程序，我也希望能够下载我的统计数据并将其放入电子表格或其他工具中。 有人可以推荐一个好的应用程序和观看组合吗？ 谢谢大家   由   提交/u/SquarePeg79  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clrwty/workout_and_weightloss_app_and_watch/</guid>
       <pubDate>Mon, 06 May 2024 19:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Discord 机器人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
-      <description><![CDATA[嗨， 我想介绍一个有趣的小不和谐机器人，它使用开放式 AI API，因为它意味着与用户。它具有一套正在发展的调节能力，但让它脱颖而出的是发展完整角色或个性的能力。  机器人可以真正改变服务器中每个频道的个性，并且它们可以像您想要的那样丰富和多样化。虽然人工智能市场的许多其他领域都专注于数据、统计和分析，但我想更多地关注人工智能中人类状况的异想天开的一面，即为人们创造一个有趣的互动环境。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星星，也许可以赞助它。  谢谢。 开源不和谐机器人   由   提交/u/RobertD3277   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
-      <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
