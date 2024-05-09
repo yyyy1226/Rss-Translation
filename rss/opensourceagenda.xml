@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 09 May 2024 15:23:24 GMT</lastBuildDate>
-    <item>
-      <title>瓦斯MD V2</title>
-      <link>https://www.opensourceagenda.com/projects/wasi-md-v2</link>
-      <description><![CDATA[WASI-MD-V2 是 WASI TECH 开发的一款超酷多设备 WhatsApp 机器人。这个机器人只是为了以有趣的方式使用 Whatsapp 而开发的。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wasi-md-v2</guid>
-      <pubDate>Thu, 09 May 2024 15:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>配置.nvim</title>
-      <link>https://www.opensourceagenda.com/projects/confignvim</link>
-      <description><![CDATA[我的 nvim 配置]]></description>
-      <guid>https://www.opensourceagenda.com/projects/confignvim</guid>
-      <pubDate>Thu, 09 May 2024 15:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>错误洞察</title>
-      <link>https://www.opensourceagenda.com/projects/buginsight</link>
-      <description><![CDATA[C、C++ 的内存泄漏和死锁查找器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/buginsight</guid>
-      <pubDate>Thu, 09 May 2024 15:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Livelybot Rl 控制</title>
-      <link>https://www.opensourceagenda.com/projects/livelybot-rl-control</link>
-      <description><![CDATA[基于 Isaac Gym 环境的 HighTorque 腿式机器人的强化学习环境。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/livelybot-rl-control</guid>
-      <pubDate>Thu, 09 May 2024 15:23:22 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 May 2024 18:26:53 GMT</lastBuildDate>
     <item>
       <title>上下文引用</title>
       <link>https://www.opensourceagenda.com/projects/context-cite</link>
-      <description><![CDATA[LLM 生成的属性（或引用）语句返回上下文信息。]]></description>
+      <description><![CDATA[将 LLM 生成的属性（或引用）语句返回到上下文信息。]]></description>
       <guid>https://www.opensourceagenda.com/projects/context-cite</guid>
-      <pubDate>Thu, 09 May 2024 15:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>自我缺陷计划</title>
-      <link>https://www.opensourceagenda.com/projects/self-defective-program</link>
-      <description><![CDATA[无Windows API的新型恶意程序：自缺陷程序利用堆栈溢出的隐匿稳定攻击技术研究]]></description>
-      <guid>https://www.opensourceagenda.com/projects/self-defective-program</guid>
-      <pubDate>Thu, 09 May 2024 15:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>丝网印刷桌</title>
-      <link>https://www.opensourceagenda.com/projects/silkscreentablelite</link>
-      <description><![CDATA[小钢网丝印台]]></description>
-      <guid>https://www.opensourceagenda.com/projects/silkscreentablelite</guid>
-      <pubDate>Thu, 09 May 2024 15:23:21 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:53 GMT</pubDate>
     </item>
     <item>
       <title>简单的角色控制器</title>
       <link>https://www.opensourceagenda.com/projects/simple-character-controller</link>
       <description><![CDATA[一个简单的 Unity 角色控制器]]></description>
       <guid>https://www.opensourceagenda.com/projects/simple-character-controller</guid>
-      <pubDate>Thu, 09 May 2024 15:23:21 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:52 GMT</pubDate>
     </item>
     <item>
       <title>Sql Agi DB GPT</title>
       <link>https://www.opensourceagenda.com/projects/sql-agi-db-gpt</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/sql-agi-db-gpt</guid>
-      <pubDate>Thu, 09 May 2024 15:23:21 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:52 GMT</pubDate>
     </item>
     <item>
       <title>Zhong Zhi Yuan</title>
       <link>https://www.opensourceagenda.com/projects/zhong-zhi-yuan</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/zhong-zhi-yuan</guid>
-      <pubDate>Thu, 09 May 2024 15:23:21 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Livelybot Rl 控制</title>
+      <link>https://www.opensourceagenda.com/projects/livelybot-rl-control</link>
+      <description><![CDATA[基于 Isaac Gym 环境的 HighTorque 腿式机器人的强化学习环境。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/livelybot-rl-control</guid>
+      <pubDate>Thu, 09 May 2024 18:26:52 GMT</pubDate>
     </item>
     <item>
       <title>Mpi4py Fft</title>
       <link>https://www.opensourceagenda.com/projects/mpi4py-fft</link>
       <description><![CDATA[mpi4py-fft 是一个用于计算快速傅里叶变换 (FFT) 的 Python 包。]]></description>
       <guid>https://www.opensourceagenda.com/projects/mpi4py-fft</guid>
-      <pubDate>Thu, 09 May 2024 15:23:20 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:51 GMT</pubDate>
     </item>
     <item>
       <title>超级底座</title>
       <link>https://www.opensourceagenda.com/projects/megadock</link>
       <description><![CDATA[用于异构超级计算机的超高性能蛋白质-蛋白质对接]]></description>
       <guid>https://www.opensourceagenda.com/projects/megadock</guid>
-      <pubDate>Thu, 09 May 2024 15:23:20 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:51 GMT</pubDate>
     </item>
     <item>
       <title>Vite 插件图标 Spritesheet</title>
       <link>https://www.opensourceagenda.com/projects/vite-plugin-icons-spritesheet</link>
       <description><![CDATA[Vite 插件，用于监听图标文件夹并输出带有可选类型的 spritesheet指定地点]]></description>
       <guid>https://www.opensourceagenda.com/projects/vite-plugin-icons-spritesheet</guid>
-      <pubDate>Thu, 09 May 2024 15:23:20 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:51 GMT</pubDate>
     </item>
     <item>
       <title>文蒂·麦克斯皮奇</title>
       <link>https://www.opensourceagenda.com/projects/textymcspeechy</link>
-      <description><![CDATA[轻松为 rhasspy/piper 创建任何语音的文本转语音模型。使用您自己的录音制作文本转语音模型，或使用数千种 RVC 语音。在 Raspberry pi 上离线工作。]]></description>
+      <description><![CDATA[轻松为 rhasspy/piper 创建任何语音的文本转语音模型。使用您自己的录音制作文本转语音模型，或使用数千个 RVC 语音。在 Raspberry pi 上离线工作。]]></description>
       <guid>https://www.opensourceagenda.com/projects/textymcspeechy</guid>
-      <pubDate>Thu, 09 May 2024 15:23:20 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>丝印桌精简版</title>
+      <link>https://www.opensourceagenda.com/projects/silkscreentablelite</link>
+      <description><![CDATA[小钢网丝印台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/silkscreentablelite</guid>
+      <pubDate>Thu, 09 May 2024 18:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>新森特 PHP</title>
+      <link>https://www.opensourceagenda.com/projects/shinsenter-php</link>
+      <description><![CDATA[📦 简化的 PHP Docker 映像，可轻松进行自定义和扩展设置。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/shinsenter-php</guid>
+      <pubDate>Thu, 09 May 2024 18:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zls Docker</title>
+      <link>https://www.opensourceagenda.com/projects/zls-docker</link>
+      <description><![CDATA[开箱即用的面向生产和开发环境的 Docker 配置 - Docker configuration for production and development environments]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zls-docker</guid>
+      <pubDate>Thu, 09 May 2024 18:26:50 GMT</pubDate>
     </item>
     <item>
       <title>FFTW.jl</title>
       <link>https://www.opensourceagenda.com/projects/fftwjl</link>
       <description><![CDATA[Julia 绑定到 FFTW 库以实现快速傅里叶变换]]></description>
       <guid>https://www.opensourceagenda.com/projects/fftwjl</guid>
-      <pubDate>Thu, 09 May 2024 15:23:19 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 18:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phpearth Docker Php</title>
+      <link>https://www.opensourceagenda.com/projects/phpearth-docker-php</link>
+      <description><![CDATA[🐳 Docker 面向 PHP 开发人员 - 使用 PHP、Nginx、OpenLiteSpeed、Apache、Lighttpd 的 Docker 镜像、和阿尔派]]></description>
+      <guid>https://www.opensourceagenda.com/projects/phpearth-docker-php</guid>
+      <pubDate>Thu, 09 May 2024 18:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>高山PHP</title>
+      <link>https://www.opensourceagenda.com/projects/alpine-php</link>
+      <description><![CDATA[Multi Arch Alpine PHP Docker 镜像。 5.6、7{0,1,2,3,4}、8.{1,2,3}]]></description>
+      <guid>https://www.opensourceagenda.com/projects/alpine-php</guid>
+      <pubDate>Thu, 09 May 2024 18:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
