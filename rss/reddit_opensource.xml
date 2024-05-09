@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 May 2024 09:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:35:12 GMT</lastBuildDate>
     <item>
       <title>GitHub - 由 LLM 支持的代码维护，可提供可靠的结果。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cnsk4p/github_llmpowered_code_maintenance_that_delivers/</link>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 09 May 2024 02:31:02 GMT</pubDate>
     </item>
     <item>
-      <title>有没有 discord 开源客户端？我不在乎它是否违反服务条款，我只想要一个可以工作并且比原始应用程序更安全的客户端</title>
+      <title>有discord开源客户端吗？我不在乎它是否违反服务条款，我只想要一个能够工作并且比原始应用程序更安全的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/</link>
       <description><![CDATA[如果它不是一个废弃的项目，我会更喜欢它。   由   提交/u/JPXTUY-RETRO   /u/JPXTUY-RETRO reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 08 May 2024 16:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>为oss做贡献</title>
+      <title>为 oss 做贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cn81si/contribute_to_oss/</link>
       <description><![CDATA[嗨， 我是一名全职 DevOps 工程师，但从未为开源项目做出过贡献。我很乐意开始做出贡献，因为我认为最好的学习方法就是亲自动手并与其他人分享想法。 我是一个初学者（不要责怪我），所以我我仍在试图弄清楚从哪里或如何开始。我热衷于学习 Golang 和 Lua（我喜欢 Neovim），因此我们将不胜感激这个领域的任何建议。 无论如何，非常感谢 &lt;!-- SC_ON - -&gt;  由   提交/u/Disastrous-Ad-4829   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cn81si/contribute_to_oss/</guid>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 08 May 2024 14:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>有没有 Forest 和 Sleeptown 的开源替代方案？</title>
+      <title>有没有 Forest 和 Sleeptown 的开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cn2dcc/is_there_any_open_source_alternative_to_forest/</link>
       <description><![CDATA[ 由   提交 /u/Skyfuzzball8312   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cn2dcc/is_there_any_open_source_alternative_to_forest/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>分叉并重新发布还是满怀希望地等待？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cn00qf/fork_republish_or_wait_with_hope/</link>
-      <description><![CDATA[大约一个月前，我在 github 上发现了一个简单的 npm 工具，除了一些功能之外，它完全满足了我的需求。 &lt; p&gt;我开始提出一个壮举请求（因为不清楚贡献是否被接受），几天后我分叉了存储库，实现了该功能并推送了 PR。 四个星期后，我没有没有收到来自仓库所有者的任何类型的响应/反馈，并且我开始担心该项目被放弃，尽管不久前收到了提交。我正在尝试联系仓库所有者以了解该项目是否仍然存在，但仍然没有回复 我真的很喜欢这个工具，我想添加新功能，但不方便通过github安装修改后的工具，并且无法直接在npm上发布。 有什么“礼仪”？在这些情况下？ 分叉、重命名并重新发布，还是满怀希望地等待（多长时间）？   由   提交/u/-Defkon1-  /u/-Defkon1- reddit.com/r/opensource/comments/1cn00qf/fork_republish_or_wait_with_hope/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大约一个月前，我在 github 上发现了一个简单的 npm 工具，除了一些功能之外，它完全满足了我的需求。 &lt; p&gt;我开始提出一个壮举请求（因为不清楚贡献是否被接受），几天后我分叉了存储库，实现了该功能并推送了 PR。 四个星期后，我没有没有收到来自存储库所有者的任何类型的响应/反馈，并且我开始担心该项目被放弃，尽管不久前收到了提交。我正在尝试联系仓库所有者以了解该项目是否仍然存在，但仍然没有回复 我真的很喜欢这个工具，我想添加新功能，但不方便通过github安装修改后的工具，并且无法直接在npm上发布。 有什么“礼仪”？在这些情况下？ 分叉、重命名并重新发布，还是满怀希望地等待（多长时间）？   由   提交/u/-Defkon1-  /u/-Defkon1- reddit.com/r/opensource/comments/1cn00qf/fork_republish_or_wait_with_hope/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cn00qf/fork_republish_or_wait_with_hope/</guid>
       <pubDate>Wed, 08 May 2024 09:02:31 GMT</pubDate>
     </item>
