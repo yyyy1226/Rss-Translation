@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 May 2024 01:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 03:22:07 GMT</lastBuildDate>
     <item>
       <title>iPad Air</title>
       <link>https://www.producthunt.com/posts/ipad-air-cfa54b3e-b6f6-49e3-9f57-90ea0a51da49</link>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 08 May 2024 07:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>进化</title>
+      <title>埃沃</title>
       <link>https://www.producthunt.com/posts/evo-2</link>
       <description><![CDATA[
             社交日历应用程序
@@ -65,12 +65,12 @@
       <title>语音便宜</title>
       <link>https://www.producthunt.com/posts/voicecheap</link>
       <description><![CDATA[
-为任何语言的任何视频配音和翻译
-
+            以任何语言配音和翻译任何视频
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/voicecheap</guid>
       <pubDate>Wed, 08 May 2024 07:01:16 GMT</pubDate>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 03:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>比贝特</title>
+      <title>蜜蜂更好</title>
       <link>https://www.producthunt.com/posts/beebetter</link>
       <description><![CDATA[
             个人习惯追踪器
@@ -146,15 +146,15 @@
       <pubDate>Mon, 06 May 2024 13:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>上限</title>
+      <title>向上</title>
       <link>https://www.producthunt.com/posts/capup</link>
       <description><![CDATA[
-            为您的视频增添趣味，使其广为传播
-          
+让您的视频更精彩，让视频走红
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/capup</guid>
       <pubDate>Mon, 06 May 2024 03:40:06 GMT</pubDate>
@@ -191,12 +191,12 @@
       <title>抽象工作流程</title>
       <link>https://www.producthunt.com/posts/abstra-workflows</link>
       <description><![CDATA[
-使用 Python + AI 扩展关键业务流程
+            使用 Python + AI 扩展关键业务流程
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/abstra-workflows</guid>
       <pubDate>Thu, 25 Apr 2024 15:49:05 GMT</pubDate>
