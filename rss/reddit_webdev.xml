@@ -4,9 +4,37 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 May 2024 01:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:20:33 GMT</lastBuildDate>
     <item>
-      <title>如何使用 Laravel 在 AJAX 调用期间发回实时更新？</title>
+      <title>所有 JavaScript 开发人员都需要了解的函数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cofeur/functions_that_all_javascript_developers_need_to/</link>
+      <description><![CDATA[        提交人    /u/Puzzleheaded_Ad4030   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cofeur/functions_that_all_javascript_developers_need_to/</guid>
+      <pubDate>Fri, 10 May 2024 02:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果 h3 或 h4 的语义意义不太重要，那么 h3 或 h4 是否应该高于 h2？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coejad/should_an_h3_or_h4_ever_go_above_an_h2_if_its/</link>
+      <description><![CDATA[我有一个带有眉毛的组件，眉毛下方有一个较大的标题。标题更大，对组件的整体主题更重要。眉毛更具补充性。 从可访问性的角度来看，是否允许使用 h3 或 h4 作为眉毛，使用 h2 作为其下方的标题文本，即使从技术上讲眉毛位于标题上方？  例如，  眉毛  标题元素 &lt;/节&gt;    由   提交/u/Calm_Still_8917   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coejad/should_an_h3_or_h4_ever_go_above_an_h2_if_its/</guid>
+      <pubDate>Fri, 10 May 2024 02:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于开发知识有限的人来说，是否有一种快速、简单的方法可以对页面进行密码保护？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coehdz/is_there_a_quick_easy_way_someone_with_limited/</link>
+      <description><![CDATA[我有自己的作品集网站，托管在 GitHub 上。我了解足够的基本 HTML/CSS，可以轻松进行编辑。我想对一些页面进行密码保护  我看到的大多数建议似乎都需要使用 PHP 并设置服务器。这有点超出我的舒适区。  我是否最好只使用 Wix 或 Pixpa 等无代码网站？     提交人    /u/finnigansbaked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coehdz/is_there_a_quick_easy_way_someone_with_limited/</guid>
+      <pubDate>Fri, 10 May 2024 02:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管网站来投放广告的可行性如何</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coe2gw/how_viable_is_it_to_host_a_site_to_farm_ads/</link>
+      <description><![CDATA[这个问题可能听起来很愚蠢，但是托管一个网站并让大量设备进入我的网站来赚取广告收入是否可行？&lt; /p&gt;   由   提交 /u/drokkkkkj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coe2gw/how_viable_is_it_to_host_a_site_to_farm_ads/</guid>
+      <pubDate>Fri, 10 May 2024 01:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在使用 Laravel 进行 AJAX 调用期间发回实时更新？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cocmq8/how_can_i_send_realtime_updates_back_during_an/</link>
       <description><![CDATA[您好， 在一个 AJAX 调用中，会发生多个操作。我想在每次任务完成时将更新消息发送回请求位置，以便用户知道当前正在处理哪个任务。  例如： 用户提交更新其姓名、地址和个人资料图片的请求。  进行 AJAX 调用，每次发生新更新时都会通知用户成功或失败消息。 如何实现这一点？ 谢谢你！   由   提交 /u/Afraid_Employment387   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cocmq8/how_can_i_send_realtime_updates_back_during_an/</guid>
@@ -36,7 +64,7 @@
     <item>
       <title>创建 Express 应用程序时，我应该拆分 /routes/* 和 /controllers/* 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cobo7q/creating_an_express_app_should_i_split_up_routes/</link>
-      <description><![CDATA[我直接在 /routes/* 内进行所有数据库调用： 例如  //routes/users.ts route.get(“/id”, (req, res) =&gt; { res.send(db.findOne(id: req.sessions.id)); });  但有人说我应该把代码放在 /controllers/ 中。 但我发现我只是添加了一个无关的调用，没有任何好处： &lt; pre&gt;//routes/users.ts route.get(&quot;/id&quot;, (req, res) =&gt; { res.send(userController); });  在 /controllers/ 内： //controllers/userController.ts 导出默认函数 users() { return db.findOne(id: req.会话.id); }  这种方法是否更好？ 现在，routes 文件夹只是控制器的一个薄垫片。我认为这一改变没有任何好处。   由   提交/u/phatangus  [链接] [评论]]]></description>
+      <description><![CDATA[我将所有数据库调用直接放在 /routes/* 里面： 例如 //routes/users.ts route.get(&quot;/id&quot;, (req, res) =&gt; { res.send(db.findOne(id: req.sessions.id)); });  但是有人说我应该将代码放在 /controllers/ 里面。 但我发现我只是添加了一个没有任何好处的无关调用： //routes/users.ts route.get(&quot;/id&quot;, (req, res) =&gt; { res.send(userController); });  在 /controllers/ 中： //controllers/userController.ts export default function users() { return db.findOne(id: req.sessions.id); }  这种方法是否更好？ 现在 routes 文件夹只是控制器的一个薄垫片。我看不出改变有什么好处。    提交人    /u/phatangus   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cobo7q/creating_an_express_app_should_i_split_up_routes/</guid>
       <pubDate>Thu, 09 May 2024 23:47:42 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>为全食超市（Whole Foods）这样的知名超市制作网站需要什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1co9pqx/what_goes_into_making_a_website_for_a_big_name/</link>
-      <description><![CDATA[通常，哪些编程语言、工具等会加入其中？欢迎回复。    提交人    /u/CozyMountain   [link] [comments]]]></description>
+      <description><![CDATA[通常包含哪些编程语言、工具等？感谢您的回复。   由   提交 /u/CozyMountain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1co9pqx/what_goes_into_making_a_website_for_a_big_name/</guid>
       <pubDate>Thu, 09 May 2024 22:19:06 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[抱歉，如果之前有人问过这个问题，我有点担心，当 TS 成为必备品时，我对 TS 感到不舒服。  我对 TS 有一些基础知识，毕竟只是在 JavaScript 中添加类型而已，这不像是在学习一门新语言，但最大的问题是阅读其他人的类型，尤其是泛型，让我很头疼，我对 Record&lt;&gt;、Partial&lt;&gt;、Omit&lt;&gt; 之类的东西感到不舒服，无论这些东西叫什么，就像我不知道何时使用它们一样以及它们有多少个（当然，这可能可以在 Google 上搜索，并且通过练习会变得更加自然，就像 JS 方法一样）。 我的问题是我是否应该花一些适当的时间来正确地学习 TS或者只是边写代码边学习？最终将一些React项目从JS转换为TS。   由   提交 /u/Soft-Sandwich-2499   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1co8zy3/learn_typescript_on_the_go/</guid>
       <pubDate>Thu, 09 May 2024 21:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求有关快速和肮脏的网络应用程序的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1co8s8f/advice_requested_on_quick_dirty_web_app/</link>
-      <description><![CDATA[我白天是一名服务器端/Linux 开发人员，但与工作无关，有人问我创建 (或者查找是否有人知道合适的东西）一个网络应用程序来跟踪谁在使用共享套件。 （想象一下，一个电池充电器有十几个充电插槽，但没有指示灯，因此用户希望跟踪谁在何时使用哪个插槽，这样他们就可以了解电池是否充电了很长时间，是否充满，或者刚刚充电添加，所以不是。） 这是为了在没有资金的情况下为研究生大学部门提供帮助，但我想知道可以轻松完成什么。就“网络”语言而言，我熟悉 Python（包括 Django），并且在某种程度上熟悉 Go，但很少熟悉 JS - 我已经做了一些“Hello WebApp”几年前使用 React，但最近没有什么重要的事情 我正在考虑一个 SPA，只不过是一个标签/按钮网格 - 目前倾向于基于 React - 以及一些如果我能找到免费/便宜的托管选项，我会尝试 SQL 持久化形式，但想知道是否有人能够指出我错过的选项以获得“足够好”的东西尽可能简单？   由   提交/u/gwynevans  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1co8s8f/advice_requested_on_quick_dirty_web_app/</guid>
-      <pubDate>Thu, 09 May 2024 21:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>书评：先整洁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1co7wbm/book_review_tidy_first/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1co7wbm/book_review_tidy_first/</guid>
-      <pubDate>Thu, 09 May 2024 21:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>一台设备上多个用户的 Google OAuth</title>
-      <link>https://www.reddit.com/r/webdev/comments/1co7q1a/google_oauth_for_many_users_on_one_device/</link>
-      <description><![CDATA[我正在开发一个使用 Google OAuth 来登录用户的 Flask Web 应用。我试图让用户退出，并允许其他用户在同一设备上登录。 我可以让用户退出，但一旦他们再次点击“使用 Google 登录”，它就会自动使用之前的帐户登录。有什么方法可以让我让用户退出，而下一个点击“使用 Google 登录”的用户需要输入他们自己的帐户凭据吗？ 我做了大量研究，但似乎找不到任何对我有帮助的东西。似乎使用此方法也会让用户登录到 Google，而要实现我想要的效果，我需要强制用户退出 Google。（这些用户中的大多数都没有自己的设备）。这有可能吗？ 我对 Flask 和 OAuth 还很陌生，所以如果我遗漏了一些明显的信息，请告诉我。 谢谢！    提交人    /u/InitialBN   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1co7q1a/google_oauth_for_many_users_on_one_device/</guid>
-      <pubDate>Thu, 09 May 2024 20:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 194 发行说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1co7in7/release_notes_for_safari_technology_preview_194/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1co7in7/release_notes_for_safari_technology_preview_194/</guid>
-      <pubDate>Thu, 09 May 2024 20:45:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

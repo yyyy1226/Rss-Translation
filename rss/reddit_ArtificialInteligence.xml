@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会发生什么、以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 10 May 2024 01:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:19:37 GMT</lastBuildDate>
     <item>
       <title>ElevenLabs 首次克隆新西兰口音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coar2d/introducing_the_firstever_cloned_new_zealand/</link>
@@ -20,11 +20,11 @@
       <pubDate>Thu, 09 May 2024 22:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 OpenAI Alignment 的研究人员如苍蝇般掉落？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co995d/why_are_openai_alignment_researchers_dropping/</link>
-      <description><![CDATA[近几个月来，我们看到 Daniel Kokotajlo、William Saunders、Leopold Aschenbrenner、Pavel Izmailov、Cullen O&#39;Keefe 的离开...这不是明确 Ilya Sutskever 是否还在那里工作。所有这些员工都致力于协调工作，其中一些是团队的关键成员。  Daniel Kokotajlo 的 p(doom) 是 70%。他们看到了什么？公司安全团队中发生的事情导致这些员工像苍蝇一样掉落。这并不让人放心。今天在《商业内幕》中概述了这一点的相关文章：https:/ /www.businessinsider.com/openai-safety-researchers-quit-superalignment-sam-altman-chatgpt-2024-5?amp  &amp;# 32；由   提交 /u/tall_chap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co995d/why_are_openai_alignment_researchers_dropping/</guid>
-      <pubDate>Thu, 09 May 2024 21:59:45 GMT</pubDate>
+      <title>为什么法学硕士似乎不能正确引用？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co90z4/why_cant_llms_seem_to_cite_properly/</link>
+      <description><![CDATA[我一直在尝试不同的法学硕士。我发现一些模型（主要是 Pi 和副驾驶）如果我足够具体地提示他们，我可以让他们引用我几乎逐字写下的零归因的东西。然后，当我提示它给我一个被引用的作品页面时，它要么给我错误/错误的引用，要么直截了当地说它不能引用它所训练的特定数据。我的背景是社会科学和人文学科，所以有人可以向我解释为什么这些模型无法很好地引用（如果有的话）的技术原因吗？另外，法学硕士在引用方面如此糟糕，这不是有点错误/不道德吗？    由   提交/u/EighthFirstCitizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co90z4/why_cant_llms_seem_to_cite_properly/</guid>
+      <pubDate>Thu, 09 May 2024 21:49:35 GMT</pubDate>
     </item>
     <item>
       <title>开源书籍</title>
@@ -36,7 +36,7 @@
     <item>
       <title>人工智能是否会发展出一种与人类创造力无法区分的创造力，从而模糊人工智能和人类创造力之间的界限？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co7el5/will_ai_develop_a_sense_of_creativity_that_is/</link>
-      <description><![CDATA[这让我思考，如果人工智能真的能够产生与人类创作无异的创意作品，在一个作者身份的世界里，我们该如何定义和保护知识产权呢？变得模糊？   由   提交 /u/theconceptualmind   [链接] [评论]]]></description>
+      <description><![CDATA[这让我开始思考，如果人工智能真的能够创造出与人类创作难以区分的创意作品，那么在一个作者身份变得模糊的世界里，我们该如何定义和保护知识产权？    提交人    /u/theconceptualmind   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co7el5/will_ai_develop_a_sense_of_creativity_that_is/</guid>
       <pubDate>Thu, 09 May 2024 20:40:51 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 19:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能新闻（新的人工智能模型可以拯救数百万人的生命！）</title>
+      <title>人工智能新闻（新型人工智能模型可以拯救数百万人的生命！）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co3gho/ai_news_new_ai_model_could_save_millions_of_lives/</link>
       <description><![CDATA[以下是最新人工智能新闻的一分钟概要：  GPT2-chatbot 返回：im-a-good-gpt2-chatbot &amp; im-also-a-good-gpt2-chatbot 已出现在 LMSYS 竞技场之战中，报告表明这比当前所有公开可用的模型都要好 AlphaFold3：Google DeepMind 已发布AlphaFold3，一种革命性的模型，有望加速药物发现并解开疾病的秘密。  CIA AI 模型：微软为 CIA 创建了一个安全的离线 AI。绰号“守护者计划”该人工智能可以在没有互联网风险的情况下分析机密数据，为美国情报部门提供潜在的游戏规则改变者。 TikTok 新的人工智能标签工具：Tiktok 最近推出了一些新的人工智能标签工具，这些工具将自动检测 DALLE-3 等工具制作的内容 OpenAI 面对 Google： 有消息称 OpenAI 将发布类似 perplexity 的搜索引擎工具，可能会推翻 google，彻底改变搜索  了解更多信息（无需注册）-    由   提交 /u/ArFiction   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co3gho/ai_news_new_ai_model_could_save_millions_of_lives/</guid>
@@ -69,9 +69,9 @@
       <pubDate>Thu, 09 May 2024 13:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>中国工厂里的人形机器人视频并不像人们想象的那么令人鼓舞</title>
+      <title>中国工厂中的人形机器人视频并不像人们想象的那么令人鼓舞</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</link>
-      <description><![CDATA[一段来自中国人形机器人工厂内部的 20 秒视频在社交媒体上引起轰动。它展示了各种正在建造中的高度逼真、部分蒙皮的类人生物。  https://www.ovniologia.com.br/2024/05/video-de-robos- humanoides-em-fabrica-da-china-e-menos -animador-do-que-se-imagina.html?m=1   由   提交/u/Few-Try-2056   [链接] [评论]]]></description>
+      <description><![CDATA[一段来自中国一家人形机器人工厂内部的 20 秒视频在社交媒体上引起轰动。它展示了正在建造的各种高度逼真、部分蒙皮的人形机器人。  https://www.ovniologia.com.br/2024/05/video-de-robos-humanoides-em-fabrica-da-china-e-menos-animador-do-que-se-imagina.html?m=1    提交人    /u/Few-Try-2056   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</guid>
       <pubDate>Thu, 09 May 2024 12:32:11 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 09 May 2024 10:38:31 GMT</pubDate>
     </item>
     <item>
-      <title>Google DeepMind 的新 AI 可以模拟 DNA、RNA 和“所有生命分子”</title>
+      <title>谷歌 DeepMind 的新人工智能可以模拟 DNA、RNA 和“所有生命的分子”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</link>
       <description><![CDATA[Google DeepMind 正在推出其 AI 模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。 新模型的成果，AlphaFold 3，将帮助医学、农业、材料科学和药物开发领域的研究人员测试潜在的发现。 想要在人工智能和技术领域保持领先地位吗？ 看看这里。 要点： &lt; ul&gt; AlphaFold 3，可以预测所有生命分子的结构，而不仅仅是蛋白质，包括DNA、RNA和更小的分子。与之前的版本相比，这是一个重大改进。 AlphaFold 3 使用与 AI 图像生成器类似的方法来预测不同分子如何组合在一起。这种方法称为扩散。 DeepMind 正在向一些研究人员免费提供 AlphaFold 3 和 AlphaFold 服务器，重点关注非商业用途。他们还在考虑生物安全风险的情况下负责任地部署该模型。  来源 (The Verge) PS：如果您喜欢这篇文章，您一定会喜欢我的ML 驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</guid>
