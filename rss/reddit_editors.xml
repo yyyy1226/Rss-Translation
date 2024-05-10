@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 10 May 2024 09:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:34:26 GMT</lastBuildDate>
+    <item>
+      <title>为网站/作品集选择作品</title>
+      <link>https://www.reddit.com/r/editors/comments/1coogwu/selecting_work_for_websiteportfolio/</link>
+      <description><![CDATA[您如何选择在您的作品集中展示哪些作品？我无法缩小我应该在网站上展示的作品范围，并且想了解其他人的思维过程。让我解释一下。 对于广告工作来说，客户是否更关心广告是否成功而不是广告制作得好？展示与我合作过的一系列客户（即使作品不那么好）是否比展示 1 个客户的 3 件非常好的作品更好？ 我主要从事广告工作（用于广播） ）、热闹的卷轴和企业类型的内容。我应该像这样对网站上的所有内容进行分类吗？或者我应该按特定类型（即政治、企业？）来细分它   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1coogwu/selecting_work_for_websiteportfolio/</guid>
+      <pubDate>Fri, 10 May 2024 12:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频是否可以通过随意显示或消失来改变嵌入字幕的行为？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cooe5z/is_it_possible_for_a_video_to_alter_the_behavior/</link>
+      <description><![CDATA[某些团体（例如 CrimsonSubs）使用此技术。我到处寻找答案，但一无所获。我已经用 SubtitleEdit 和 Aegisub 检查了这些 .ass 文件，它们没有什么特别的，没有 .ass 覆盖，只是常见的东西 - 纯文本、开始/结束时间和持续时间。 当我第一次时看到这个，我认为他们经历了一遍又一遍地复制粘贴他们的小组名称以匹配每个字幕行的麻烦。但令人惊讶的是，文件开头只有一行包含该名称的行，并且开始时间为 0，结束时间为最后一秒，使其持续时间为整个视频。 我删除了该行进行检查，果然，这个名字从整个视频中消失了，只留下每次出现的字幕。 当我检查时，没有任何提示说明该名字何时应该出现或消失，只是设置为在整个视频中显示的纯文本行。 这就是奇怪的地方。在字幕编辑器中，该行保持可见状态，根本不会消失，当您将此 exat 相同子文件混合到任何其他视频文件中时也是一样。它的行为符合预期，这意味着它始终停留在那里并且不会执行消失的操作。 但是这种奇怪的现象仅发生在嵌入字幕文件附带的原始视频中，该名称仅在实际的字幕确实如此，就像魔法一样，然后完美同步地消失，甚至没有一毫秒的差异。 我花了一个月的时间试图解决这个问题，但没有成功。任何破解魔术师密码的帮助都会很棒。感谢您的帮助。 P.S.由于规则 7，我不确定是否可以在此处发布字幕或视频文件，但请放心，这些 .ass 文件没有什么特别之处，它们与其他文件一样都是基本子文件。 编辑： 系统规格 - Acer Predator Helios 16 编解码器 - MKV 字幕 - .ASS   由   提交/u/gamerlinkon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cooe5z/is_it_possible_for_a_video_to_alter_the_behavior/</guid>
+      <pubDate>Fri, 10 May 2024 12:29:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解修剪模式及其在视频编辑工作流程中的用法</title>
+      <link>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</link>
+      <description><![CDATA[我是 Premiere Pro 用户，我一直对修剪模式功能感到好奇。有人可以解释一下此模式的用途以及如何有效地将其合并到您的工作流程中吗？ 据我了解，修剪模式允许您精确修剪剪辑边缘并通过相应调整周围的剪辑来进行波纹编辑。不过，我对如何与同步素材无缝配合感到有点困惑。 假设您在 V2 上有一些 B-roll 素材，您已仔细安排时间以匹配 V1 上的采访同步。如果您进入修剪模式并开始在 V2 上对这些 b-roll 剪辑进行波纹编辑，这是否可能会使它们与音频不同步？ 对于那些经常使用修剪模式的人，我很乐意了解您如何应对此类情况。您是否遵循特定的工作流程或一组最佳实践来充分利用修剪模式而不影响视频和音频元素之间的同步？ 经验丰富的编辑人员提供的任何见解或提示将不胜感激。我很想了解如何有效地利用修剪模式，同时在必要时保持精确同步。   由   提交 /u/indymoguler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</guid>
+      <pubDate>Fri, 10 May 2024 11:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>收入最高的 Youtube 利基以及如何获得高收入客户</title>
+      <link>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</link>
+      <description><![CDATA[ 由   提交/u/Grand_Promotion_2956   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</guid>
+      <pubDate>Fri, 10 May 2024 11:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>我们明天能拿到这个吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cokxgn/can_we_get_this_tomorrow/</link>
@@ -18,6 +46,13 @@
       <description><![CDATA[我有点困惑，我在首映时剪辑了一部在时间线上看起来很棒的电影，但是当我导出时，质量真的很差，特别糟糕。太糟糕了。 我可以通过导出 DNxHR/DNxHD MXF 0P1a 来修复它，但是当导出为 H.264 时，情况又很糟糕。 我做错了什么，我怀疑它是我的序列设置，但我无法确定它。 我使用的是 DJI Inspire 2 中的 DNG 文件和 DJI Ronin 4D 中的 Prores Raw   由   提交 /u/DistinctDuck9930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1coktao/export_of_video_is_significantly_lower_quality/</guid>
       <pubDate>Fri, 10 May 2024 08:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDISK G RAID MIRROR 36 TB - 将文件复制到磁盘后“磁盘损坏且无法读取”</title>
+      <link>https://www.reddit.com/r/editors/comments/1coj1we/sandisk_g_raid_mirror_36_tb_after_copying_files/</link>
+      <description><![CDATA[嘿伙计们， 我得到了新的 G raid 镜像 36 TB - 将其置于 raid 模式 0 - 在复制一定数量后将数据写入磁盘 - 大约 6 TB - 磁盘显示“磁盘损坏且无法读取” - 唯一的方法就是重新格式化。然后它看起来又像一个正常的磁盘 - 但再次尝试复制文件 - 我再次收到损坏的消息... 有什么想法吗？ 谢谢   由   提交 /u/Kls41   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1coj1we/sandisk_g_raid_mirror_36_tb_after_copying_files/</guid>
+      <pubDate>Fri, 10 May 2024 06:38:55 GMT</pubDate>
     </item>
     <item>
       <title>I/O 协调员需要了解哪些元数据并具备哪些经验？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[我通常使用 Bridge 在驱动器之间复制和粘贴 mxf 文件或决定将哪些内容导入到 PPro 中。仍然没有办法在查找器中按图标排序以快速查看您正在查看的内容吗？   由   提交/u/GuyNamedLindsey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnz2zd/how_are_you_all_previewing_mxf_files_on_your_mac/</guid>
       <pubDate>Thu, 09 May 2024 14:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在自由职业者简历中列出经常性预订？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cntlgp/how_to_list_recurring_bookings_on_freelance_resume/</link>
-      <description><![CDATA[仅供参考：我在公司/商业领域工作，而不是在电视或电影领域工作，因此仅使用人才管理器之类的东西并不是真正的常态！ 人们如何列出回头客，尤其是那些持续存在的客户，例如夏季活动工作？ 我听说人们做“季节性”的活动，但这似乎有点不对……就像我正在进行假期旅行一样！ 所以目前我有： 公司 - 工作（2021 年 6 月 - 2024 年） 但这只是那些年的 5 月，不像是一份连续的工作？ 公司 - 工作（季节性：6 月） 2021 - 2024) 公司 - 工作（持续：2021 年 6 月 - 2024 年） 公司 - 工作（季节性：2021 年 6 月 / 2022 / 2023 / 2024）    由   提交 /u/Girlagainstthings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cntlgp/how_to_list_recurring_bookings_on_freelance_resume/</guid>
-      <pubDate>Thu, 09 May 2024 10:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您喜欢的代理设置是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/</link>
-      <description><![CDATA[只是想知道你们将代理设置为了什么？  显然，这可能会因 Res 的不同而有所不同。原始镜头的内容，但您显然有一些经验法则？ 编解码器？解决？等等    由   提交/u/Pure-City1444   reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/</guid>
-      <pubDate>Thu, 09 May 2024 08:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这种特殊情况下，时间表分辨率是否会影响出口质量？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</link>
-      <description><![CDATA[前几天我正在与某人交谈，并意识到我从未真正考虑过这个特定的实例... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有什么区别吗？ 1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，4K 时间线有什么好处吗？首先将 4K 素材放入高清时间轴中是否会造成明显的质量损失？   由   提交 /u/carterketchup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</guid>
-      <pubDate>Thu, 09 May 2024 06:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有 AVID Media Composer 2020.4 安装程序吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cno5w0/does_anyone_have_an_avid_media_composer_20204/</link>
-      <description><![CDATA[没有意识到 Avid 放弃了旧版本，而且我在旧驱动器上找不到此版本。如果您收到了 - 如果您能将其发送给我，TIA，我将非常非常非常感谢！    由   提交/u/gengh08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cno5w0/does_anyone_have_an_avid_media_composer_20204/</guid>
-      <pubDate>Thu, 09 May 2024 03:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iconik 下载速度慢</title>
-      <link>https://www.reddit.com/r/editors/comments/1cnntme/iconik_slow_download_speeds/</link>
-      <description><![CDATA[我工作的公司转用 Iconik 来转移项目。我是一名家庭编辑。我们之前用过Box。我通过 AT&amp;T 有 2gig 光纤互联网，Iconik 的下载速度为 10 mbs。速度测试显示家庭互联网的下载速度为 750 mbs。我已经重新启动了路由器、计算机并运行了一些测试，但没有任何解决办法。有任何想法吗？  Iconik   由   提交/u/earthdragon2369   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cnntme/iconik_slow_download_speeds/</guid>
-      <pubDate>Thu, 09 May 2024 03:40:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
