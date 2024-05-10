@@ -4,20 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 10 May 2024 12:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:19:32 GMT</lastBuildDate>
     <item>
-      <title>为网站/作品集选择作品</title>
-      <link>https://www.reddit.com/r/editors/comments/1coogwu/selecting_work_for_websiteportfolio/</link>
-      <description><![CDATA[您如何选择在您的作品集中展示哪些作品？我无法缩小我应该在网站上展示的作品范围，并且想了解其他人的思维过程。让我解释一下。 对于广告工作来说，客户是否更关心广告是否成功而不是广告制作得好？展示与我合作过的一系列客户（即使作品不那么好）是否比展示 1 个客户的 3 件非常好的作品更好？ 我主要从事广告工作（用于广播） ）、热闹的卷轴和企业类型的内容。我应该像这样对网站上的所有内容进行分类吗？或者我应该按特定类型（即政治、企业？）来细分它   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1coogwu/selecting_work_for_websiteportfolio/</guid>
-      <pubDate>Fri, 10 May 2024 12:33:21 GMT</pubDate>
+      <title>初级编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1corq46/beginner_editor/</link>
+      <description><![CDATA[您好！我是一名初学者编辑，我想知道什么是最好的编辑计算机程序。我的目的是编辑 YouTube 视频，带有新闻氛围的视频，所以如果您能帮助我提供建议和提示，我将不胜感激！   由   提交 /u/JoaoFerrus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1corq46/beginner_editor/</guid>
+      <pubDate>Fri, 10 May 2024 15:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>视频是否可以通过随意显示或消失来改变嵌入字幕的行为？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cooe5z/is_it_possible_for_a_video_to_alter_the_behavior/</link>
-      <description><![CDATA[某些团体（例如 CrimsonSubs）使用此技术。我到处寻找答案，但一无所获。我已经用 SubtitleEdit 和 Aegisub 检查了这些 .ass 文件，它们没有什么特别的，没有 .ass 覆盖，只是常见的东西 - 纯文本、开始/结束时间和持续时间。 当我第一次时看到这个，我认为他们经历了一遍又一遍地复制粘贴他们的小组名称以匹配每个字幕行的麻烦。但令人惊讶的是，文件开头只有一行包含该名称的行，并且开始时间为 0，结束时间为最后一秒，使其持续时间为整个视频。 我删除了该行进行检查，果然，这个名字从整个视频中消失了，只留下每次出现的字幕。 当我检查时，没有任何提示说明该名字何时应该出现或消失，只是设置为在整个视频中显示的纯文本行。 这就是奇怪的地方。在字幕编辑器中，该行保持可见状态，根本不会消失，当您将此 exat 相同子文件混合到任何其他视频文件中时也是一样。它的行为符合预期，这意味着它始终停留在那里并且不会执行消失的操作。 但是这种奇怪的现象仅发生在嵌入字幕文件附带的原始视频中，该名称仅在实际的字幕确实如此，就像魔法一样，然后完美同步地消失，甚至没有一毫秒的差异。 我花了一个月的时间试图解决这个问题，但没有成功。任何破解魔术师密码的帮助都会很棒。感谢您的帮助。 P.S.由于规则 7，我不确定是否可以在此处发布字幕或视频文件，但请放心，这些 .ass 文件没有什么特别之处，它们与其他文件一样都是基本子文件。 编辑： 系统规格 - Acer Predator Helios 16 编解码器 - MKV 字幕 - .ASS   由   提交/u/gamerlinkon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cooe5z/is_it_possible_for_a_video_to_alter_the_behavior/</guid>
-      <pubDate>Fri, 10 May 2024 12:29:38 GMT</pubDate>
+      <title>需要帮助重新创建视频外观</title>
+      <link>https://www.reddit.com/r/editors/comments/1cor9ay/need_help_recreating_video_look/</link>
+      <description><![CDATA[我有一位客户询问我是否可以为他的歌曲重新制作 Max Tundra - Lysine 的音乐视频。我完全不知道如何重新创建附件中所示的细胞着色外观。  如果有任何建议，我们将不胜感激！我使用AE和Premiere作为参考。 Max Tundra - Lysine &lt; /div&gt;  由   提交/u/dreamwrld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cor9ay/need_help_recreating_video_look/</guid>
+      <pubDate>Fri, 10 May 2024 14:44:39 GMT</pubDate>
     </item>
     <item>
       <title>了解修剪模式及其在视频编辑工作流程中的用法</title>
@@ -25,13 +25,6 @@
       <description><![CDATA[我是 Premiere Pro 用户，我一直对修剪模式功能感到好奇。有人可以解释一下此模式的用途以及如何有效地将其合并到您的工作流程中吗？ 据我了解，修剪模式允许您精确修剪剪辑边缘并通过相应调整周围的剪辑来进行波纹编辑。不过，我对如何与同步素材无缝配合感到有点困惑。 假设您在 V2 上有一些 B-roll 素材，您已仔细安排时间以匹配 V1 上的采访同步。如果您进入修剪模式并开始在 V2 上对这些 b-roll 剪辑进行波纹编辑，这是否可能会使它们与音频不同步？ 对于那些经常使用修剪模式的人，我很乐意了解您如何应对此类情况。您是否遵循特定的工作流程或一组最佳实践来充分利用修剪模式而不影响视频和音频元素之间的同步？ 经验丰富的编辑人员提供的任何见解或提示将不胜感激。我很想了解如何有效地利用修剪模式，同时在必要时保持精确同步。   由   提交 /u/indymoguler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</guid>
       <pubDate>Fri, 10 May 2024 11:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>收入最高的 Youtube 利基以及如何获得高收入客户</title>
-      <link>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</link>
-      <description><![CDATA[ 由   提交/u/Grand_Promotion_2956   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</guid>
-      <pubDate>Fri, 10 May 2024 11:20:08 GMT</pubDate>
     </item>
     <item>
       <title>我们明天能拿到这个吗？</title>
@@ -60,13 +53,6 @@
       <description><![CDATA[我明天在邮局接受 I/O 职位的面试。我觉得我完蛋了，因为它说需要元数据方面的经验，而我对元数据的了解就是它基本上是关于数据的数据。我在另一家邮局有一年的 I/O 工作经验，但我们从未接触过任何与元数据有关的事情。我可以在明天下午 1 点之前灌输哪些知识来假装知识和经验？   由   提交/u/Elite_PS1-Hagrid  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1coiho7/what_does_an_io_coordinator_need_to_know_and_have/</guid>
       <pubDate>Fri, 10 May 2024 06:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您的客户说您的产品正在使用人工智能工具，但坦白说您没有使用，该怎么办？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</link>
-      <description><![CDATA[嗨，我在这个项目上花了几周时间。然而，当我将其提交给客户时，三天后他回来说他无法付款，因为该项目似乎是人工智能制作的。那一刻我震惊了。每次我试图解释，他都不肯理解   由   提交/u/Alert_Potato_6346   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</guid>
-      <pubDate>Fri, 10 May 2024 03:33:07 GMT</pubDate>
     </item>
     <item>
       <title>这就是“媒体缓存”一词的由来吗？</title>
@@ -109,6 +95,20 @@
       <description><![CDATA[我通常使用 Bridge 在驱动器之间复制和粘贴 mxf 文件或决定将哪些内容导入到 PPro 中。仍然没有办法在查找器中按图标排序以快速查看您正在查看的内容吗？   由   提交/u/GuyNamedLindsey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnz2zd/how_are_you_all_previewing_mxf_files_on_your_mac/</guid>
       <pubDate>Thu, 09 May 2024 14:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>您首选的代理设置是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/</link>
+      <description><![CDATA[只是想知道你们将代理设置为什么？ 显然，这可能会因原始素材的分辨率而异，但你显然有一些经验法则？ 编解码器？分辨率？等等。    提交人    /u/Pure-City1444   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/</guid>
+      <pubDate>Thu, 09 May 2024 08:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这种特殊情况下，时间表分辨率是否会影响出口质量？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</link>
+      <description><![CDATA[前几天我正在与某人交谈，并意识到我从未真正考虑过这个特定的实例... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有什么区别吗？ 1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，4K 时间线有什么好处吗？首先将 4K 素材放入高清时间轴中是否会造成明显的质量损失？   由   提交 /u/carterketchup   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</guid>
+      <pubDate>Thu, 09 May 2024 06:06:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

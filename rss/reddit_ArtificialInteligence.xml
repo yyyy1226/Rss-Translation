@@ -3,42 +3,49 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 10 May 2024 12:33:47 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 10 May 2024 15:18:53 GMT</lastBuildDate>
+    <item>
+      <title>超级提示集合（GPT4-Turbo）👾✨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1corxqd/superprompts_collection_gpt4turbo/</link>
+      <description><![CDATA[ 由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/gallery/1corws8&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1corxqd/superprompts_collection_gpt4turbo/</guid>
+      <pubDate>Fri, 10 May 2024 15:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁将赢得法学硕士（或其他）驱动的“真正的人工智能”家庭助理的竞争？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cork6m/who_will_win_the_race_to_an_llm_or_other_powered/</link>
+      <description><![CDATA[Google Home/Assistant、Alexa、Siri，每个人都知道它们糟糕的局限性。您认为谁会赢得这场将适当的、对话式的、类似 ChatGPT 的家庭助理集成到智能扬声器、家庭集线器等中的竞争？ 亚马逊和谷歌拥有明显的优势，因为它们已经有硬件了。他们能够用现代助手改造现有硬件吗？ 微软有机会颠覆吗？或者也许是一个新玩家？我们知道它可能不会是兔子，但值得称赞的尝试。 除了“谁”之外，“什么时候”？我愿意牺牲多个脚趾，以便能够在我的所有设备和汽车上用 ChatGPT 语音取代 Google Assistant。我知道谷歌正在他们的手机上进行尝试（您可以使用 Gemini），但它削弱了几乎所有功能。它甚至不能设置提醒。我们认为我们可以在一年内实现一些功能吗？   由   提交/u/cisco_bee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cork6m/who_will_win_the_race_to_an_llm_or_other_powered/</guid>
+      <pubDate>Fri, 10 May 2024 14:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>SharePoint 数据上的 Microsoft 语义搜索。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1corexv/microsoft_semantic_search_on_sharepoint_data/</link>
+      <description><![CDATA[https ://learn.microsoft.com/en-us/microsoftsearch/semantic-index-for-copilot 有人有对 SharePoint 数据进行 Azure 语义搜索的经验吗？我们正在研究它与创建一个填充所有文件的矢量数据库并使用 RAG。我们现在讨论的实例有 125GB 的 14k 个文件 - 99% 是 Word/Excel/PPT。 这可行吗？对于这些类型的卷的实际使用来说，它是否足够好？听起来绝对是我们想要做的事情的未来，而不是维护矢量数据库......但我不知道它会起作用。   由   提交/u/dude1995aa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1corexv/microsoft_semantic_search_on_sharepoint_data/</guid>
+      <pubDate>Fri, 10 May 2024 14:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有免费的网站或其他东西可以用来模仿动漫人物的声音？还是只是常规的表演角色？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cor709/is_there_a_website_or_something_for_free_that_i/</link>
+      <description><![CDATA[我找不到任何东西，我看到的所有东西似乎都有某种你需要付费的东西，我有时会做一些有趣的编辑，而且我想让一个角色说出一些具体的东西，但尽管我看起来很努力，但最终我总是被困在每月 20 美元的东西上，而且我不想花任何东西。有什么帮助吗？   由   提交 /u/RisingDDM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cor709/is_there_a_website_or_something_for_free_that_i/</guid>
+      <pubDate>Fri, 10 May 2024 14:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合清晰数学解释的人工智能是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cor3rq/what_is_the_best_ai_for_clear_mathematical/</link>
+      <description><![CDATA[大家好， 我正在寻找一个善于准确解释数学概念的人工智能。我不是在谈论解决问题 - 更像是有一个随时可用的私人导师。  有一段时间，“Copilot”正是我所寻找的，但最近它表现得很奇怪，重复相同的句子并解释一般概念，而不是我询问的具体术语。  有什么建议吗？   由   提交/u/Upset_Sock_425   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cor3rq/what_is_the_best_ai_for_clear_mathematical/</guid>
+      <pubDate>Fri, 10 May 2024 14:37:57 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能技能现在是在当今就业市场保持竞争力的必须条件：你能跟上吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coobab/ai_skills_is_now_a_must_to_stay_competitive_in/</link>
       <description><![CDATA[简历中缺乏人工智能技能可能会导致未来几年工资降低和工作机会减少。好消息？通过开发急需的人工智能技能，您的职业生涯仍然可以面向未来。 阅读全文：https://www.ibtimes.co.uk/ai-skills-now-must-stay-competitive-todays-job -market-can-you-keep-1724607   由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coobab/ai_skills_is_now_a_must_to_stay_competitive_in/</guid>
       <pubDate>Fri, 10 May 2024 12:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能何时能够在线执行操作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1conban/when_will_ai_be_capable_of_performing_actions/</link>
-      <description><![CDATA[目前的人工智能能力似乎集中在收集或生成信息上，但几乎没有能力实际执行操作，即使是在线操作。 例如，我希望能够告诉我的人工智能机器人“将此年度报告发送给我的所有员工”或“将约翰·多伊主演的每部电影添加到我的 Netflix 播放列表中”。 为什么 7 岁的孩子可以轻松地弄清楚如何发送电子邮件或在 Netflix 中选择电影，但人工智能机器人可以不是吗？这些功能在不久的将来会存在吗？   由   提交/u/david8840  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1conban/when_will_ai_be_capable_of_performing_actions/</guid>
-      <pubDate>Fri, 10 May 2024 11:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想使用哪种 AI 工具来进行您使用 Photoshop 进行的图像编辑？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1con1a9/which_ai_tool_would_i_want_to_use_to_do_the_kind/</link>
-      <description><![CDATA[假设我有一个类似 这个 我想在玻璃（显微镜载玻片）内放置另一张图像，就像您通过窗户观察它一样。没有额外的魔法背景或类似的东西。只是简单明确地直接切入正题。 我将使用哪种人工智能来实现此目的？   由   提交/u/seriouslyseriousacc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1con1a9/which_ai_tool_would_i_want_to_use_to_do_the_kind/</guid>
-      <pubDate>Fri, 10 May 2024 11:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Dalle 3 和 GPT4 生成图像👾✨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1comvt5/image_generation_with_dalle_3_gpt4/</link>
-      <description><![CDATA[ 由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/gallery/1comvf0&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1comvt5/image_generation_with_dalle_3_gpt4/</guid>
-      <pubDate>Fri, 10 May 2024 11:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paymanai 签署可疑回复</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1com9hc/paymanai_signing_up_suspicious_reply/</link>
-      <description><![CDATA[所以我在垃圾邮件文件夹中收到了这封电子邮件，它应该来自 Paymanai。由于发件人电子邮件地址不在 paymanai.com，这是否合法？我使用随机地址申请了 Paymanai，但为了以防万一，我没有点击该链接： 发件人：onboarding_at_paymanai_com_js19vbc9pg55rt_7exv****@icloud.com || || |感谢您注册！| || || |非常感谢您注册测试 Payman 的测试版。人们对人工智能与人类协作的未来感到兴奋，我们对此感到非常兴奋。因此，我们的候补名单比最初预期的要大得多，我们正在努力让更多的人加入！为了加快您的访问速度并帮助您开始使用 Payman，我们整理了一份快速表格供您填写。这将使我们能够更有效地吸引更多用户。请填写并提交下面的表格，以帮助我们更快地让您加入 Payman！ ~（链接已删除）~| || || |填写表格（链接已删除）| || || |我们迫不及待地欢迎您加入！~Tyllen|   由   提交 /u/CRMcNamara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1com9hc/paymanai_signing_up_suspicious_reply/</guid>
-      <pubDate>Fri, 10 May 2024 10:26:20 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 的开源替代方案，100% 在本地运行</title>
@@ -50,23 +57,16 @@
     <item>
       <title>为什么谷歌在人工智能方面表现如此糟糕？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1colb35/why_is_google_so_bad_at_ai/</link>
-      <description><![CDATA[说真的，我的意思是 Google 助理是最好的助手。但谷歌试图复制 Copilot 的人工智能搜索编译器在 70% 的情况下都是垃圾。我什至不能使用它，因为即使我不能证明它是错误的，它很可能仍然是错误的。我真的不能相信任何事情。这不是测试版，这是 Sub-Alpha 原型 AI。 然后是 Gemini。它本来应该非常好，然后令人惊讶的是，它在很多方面都令人非常失望，它甚至无法完成 Google Assistant 可以做的所有事情，更不用说它所做的事情也乏善可陈。  他们拥有如此多的数据、如此多的资源可以利用，以创造出比 Microsoft Copilot 更好的令人惊叹的浏览器 AI。到底是怎么回事？为什么他们在让人工智能发挥作用方面如此努力？   由   提交 /u/Correct_Bad_1353   [链接] [评论]]]></description>
+      <description><![CDATA[说真的，我的意思是 Google 助手是最好的助手。但 Google 的 AI 搜索编译器试图复制 Copilot，但 70% 的时间都是垃圾。我甚至不能使用它，因为即使我无法证明它是错的，它很可能还是错的。我真的不能相信它做任何事情。这不是测试版，这是 Sub-Alpha 原型 AI。 然后是 Gemini。它应该非常好，然后令人惊讶的是，它在很多方面都令人大失所望，它甚至不能完成 Google 助手可以做的所有事情，更不用说它所做的是乏善可陈的。 他们有如此多的数据，如此多的资源可以投入使用，以制作出比 Microsoft Copilot 更好的惊人的浏览器 AI。发生了什么事？为什么他们在制作有效的 AI 方面如此糟糕？    提交人    /u/Correct_Bad_1353   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1colb35/why_is_google_so_bad_at_ai/</guid>
       <pubDate>Fri, 10 May 2024 09:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>AI 审查与 Llama 3 8B 的对话</title>
+      <title>与 Llama 3 8B 的 AI 审查对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cokymd/ai_censorship_conversation_with_llama_3_8b/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cokymd/ai_censorship_conversation_with_llama_3_8b/</guid>
       <pubDate>Fri, 10 May 2024 08:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着人工智能特别是法学硕士和其他领域的发展，您认为就业或工作的未来是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coko06/with_all_development_in_ai_specially_llm_and/</link>
-      <description><![CDATA[人工智能正在以更快的速度前进； LLM 模型带来了越来越多的各种数据，不仅是文本，还有用于分析的文档、图像、视频、音频等，这导致了行业不可知论以及在您自己的基础设施上基于您自己的数据的无代码 ML 模型；结果是，许多初创公司已经在构建人形代理，以实现各种功能。 在这个已经复杂而困难的就业市场中，未来将会发现更多挑战，因为公司将考虑减少一些工作岗位；只有具备相关技能的人才会受到需求，并且得到更好的报酬。 即使在招聘中，许多人工智能工具也占用了人类流程的很大一部分等等。 在哪里您认为人工智能会在不久的将来取代就业或就业机会吗？ 零工经济和就业机会是在过去 5-10 年中出现的；最新的人工智能发展可以创造哪些类型的工作岗位？  如果达到一定阈值，政府是否会开始制定严格的政策来控制人工智能在特定领域的使用或应用程度，以控制失业？   由   提交 /u/vijaykurhade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coko06/with_all_development_in_ai_specially_llm_and/</guid>
-      <pubDate>Fri, 10 May 2024 08:33:35 GMT</pubDate>
     </item>
     <item>
       <title>了解如何使用 Groq LPU 推理引擎在 Jan AI 和 VSCode 中生成超快速响应。</title>
@@ -78,7 +78,7 @@
     <item>
       <title>消息人士称，OpenAI 计划周一宣布谷歌搜索竞争对手</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</link>
-      <description><![CDATA[https://www.reuters.com/technology/openai-plans-announce-google-search-competitor-monday-sources-say-2024-05-09/   由   提交 /u/BiggerGeorge   [链接] [评论]]]></description>
+      <description><![CDATA[https://www.reuters.com/technology/openai-plans-announce-google-search-competitor-monday-sources-say-2024-05-09/    提交人    /u/BiggerGeorge   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</guid>
       <pubDate>Fri, 10 May 2024 03:23:18 GMT</pubDate>
     </item>
