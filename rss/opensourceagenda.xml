@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 11 May 2024 06:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 09:20:33 GMT</lastBuildDate>
     <item>
-      <title>凹痕彩虹</title>
-      <link>https://www.opensourceagenda.com/projects/indentrainbow</link>
-      <description><![CDATA[用于缩进级别着色的 Visual Studio 扩展]]></description>
-      <guid>https://www.opensourceagenda.com/projects/indentrainbow</guid>
-      <pubDate>Sat, 11 May 2024 06:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>类固醇VS</title>
-      <link>https://www.opensourceagenda.com/projects/steroidsvs</link>
-      <description><![CDATA[Visual Studio 扩展]]></description>
-      <guid>https://www.opensourceagenda.com/projects/steroidsvs</guid>
-      <pubDate>Sat, 11 May 2024 06:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>与添加多个项目到解决方案</title>
-      <link>https://www.opensourceagenda.com/projects/vs-addmultipleprojectstosolution</link>
-      <description><![CDATA[Visual Studio 扩展，允许将多个现有项目添加到解决方案中。 （可选）创建反映磁盘上物理层次结构的解决方案文件夹结构。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vs-addmultipleprojectstosolution</guid>
-      <pubDate>Sat, 11 May 2024 06:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>锐源</title>
-      <link>https://www.opensourceagenda.com/projects/sharpsource</link>
-      <description><![CDATA[在编译时显示缺陷并防止可能被忽视的问题]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sharpsource</guid>
-      <pubDate>Sat, 11 May 2024 06:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令表信息</title>
-      <link>https://www.opensourceagenda.com/projects/commandtableinfo</link>
-      <description><![CDATA[Visual Studio 扩展]]></description>
-      <guid>https://www.opensourceagenda.com/projects/commandtableinfo</guid>
-      <pubDate>Sat, 11 May 2024 06:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlantUml 语言服务</title>
-      <link>https://www.opensourceagenda.com/projects/plantuml-language-service</link>
-      <description><![CDATA[适用于 Visual Studio 2017 和 2019 的 PlantUml 语言服务扩展]]></description>
-      <guid>https://www.opensourceagenda.com/projects/plantuml-language-service</guid>
-      <pubDate>Sat, 11 May 2024 06:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>QuadSpinner 荧光笔</title>
-      <link>https://www.opensourceagenda.com/projects/quadspinner-highlighter</link>
-      <description><![CDATA[任意荧光笔，可让您选择单个类、参数或其他元素名称以在整个项目中突出显示项目。它可以更轻松地查找和识别项目中的对象。您还可以将其用于注释注释、分隔线等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/quadspinner-highlighter</guid>
-      <pubDate>Sat, 11 May 2024 06:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vscode 彩虹括号</title>
-      <link>https://www.opensourceagenda.com/projects/vscode-rainbow-brackets</link>
-      <description><![CDATA[🌈 Visual Studio Code 的彩虹括号]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vscode-rainbow-brackets</guid>
-      <pubDate>Sat, 11 May 2024 06:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>DPDT注入</title>
-      <link>https://www.opensourceagenda.com/projects/dpdtinject</link>
-      <description><![CDATA[基于 C# 源代码生成器的高效编译时通用 DI 容器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dpdtinject</guid>
-      <pubDate>Sat, 11 May 2024 06:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSD365VS插件</title>
-      <link>https://www.opensourceagenda.com/projects/ssd365vsaddin</link>
-      <description><![CDATA[适用于 D365 财务和运营的 Visual studio 插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ssd365vsaddin</guid>
-      <pubDate>Sat, 11 May 2024 06:24:31 GMT</pubDate>
+      <title>自动保存与扩展</title>
+      <link>https://www.opensourceagenda.com/projects/auto-save-vs-extension</link>
+      <description><![CDATA[一个在您处理文件时自动保存文件的扩展程序。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/auto-save-vs-extension</guid>
+      <pubDate>Sat, 11 May 2024 09:20:33 GMT</pubDate>
     </item>
     <item>
       <title>VsLinux调试</title>
       <link>https://www.opensourceagenda.com/projects/vslinuxdebug</link>
       <description><![CDATA[VS 扩展可直接将 .NET（核心）C# 解决方案远程部署和调试到 Linux 或 Raspberry Pi设备！ .NET Core 3.1、.NET 5、6、7、8、9]]></description>
       <guid>https://www.opensourceagenda.com/projects/vslinuxdebug</guid>
-      <pubDate>Sat, 11 May 2024 06:24:30 GMT</pubDate>
+      <pubDate>Sat, 11 May 2024 09:20:33 GMT</pubDate>
     </item>
     <item>
-      <title>Vscode Cobol</title>
-      <link>https://www.opensourceagenda.com/projects/vscode-cobol</link>
-      <description><![CDATA[COBOL、JCL 和 MF 指令文件的 Visual Studio 代码扩展]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vscode-cobol</guid>
-      <pubDate>Sat, 11 May 2024 06:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>T4语言</title>
-      <link>https://www.opensourceagenda.com/projects/t4language</link>
-      <description><![CDATA[向 Visual Studio 添加对 .tt 文件的基本语言支持。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/t4language</guid>
-      <pubDate>Sat, 11 May 2024 06:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动保存与扩展</title>
-      <link>https://www.opensourceagenda.com/projects/auto-save-vs-extension</link>
-      <description><![CDATA[一个在您处理文件时自动保存文件的扩展程序。&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/auto-save-vs-extension</guid>
-      <pubDate>Sat, 11 May 2024 06:24:29 GMT</pubDate>
+      <title>文本模板核心</title>
+      <link>https://www.opensourceagenda.com/projects/texttemplatingcore</link>
+      <description><![CDATA[使用 .NET 6 进行 T4 文本模板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/texttemplatingcore</guid>
+      <pubDate>Sat, 11 May 2024 09:20:32 GMT</pubDate>
     </item>
     <item>
       <title>Bert2显微镜</title>
       <link>https://www.opensourceagenda.com/projects/bert2-microscope</link>
       <description><![CDATA[:microscope：Visual Studio 的 CodeLens 扩展，可让您检查方法和属性的中间语言指令.]]></description>
       <guid>https://www.opensourceagenda.com/projects/bert2-microscope</guid>
-      <pubDate>Sat, 11 May 2024 06:24:28 GMT</pubDate>
+      <pubDate>Sat, 11 May 2024 09:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>T4语言</title>
+      <link>https://www.opensourceagenda.com/projects/t4language</link>
+      <description><![CDATA[向 Visual Studio 添加对 .tt 文件的基本语言支持。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/t4language</guid>
+      <pubDate>Sat, 11 May 2024 09:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>vscodeAdblock 语法</title>
+      <link>https://www.opensourceagenda.com/projects/vscodeadblocksyntax</link>
+      <description><![CDATA[在 VSCode 中管理 Adblock 语法的综合扩展：语法突出显示、linter 等等。可在 VSCode Marketplace 上找到。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vscodeadblocksyntax</guid>
+      <pubDate>Sat, 11 May 2024 09:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡布奇辛视觉工作室</title>
+      <link>https://www.opensourceagenda.com/projects/catppuccin-visual-studio</link>
+      <description><![CDATA[:ocean：Visual Studio 的舒缓柔和主题]]></description>
+      <guid>https://www.opensourceagenda.com/projects/catppuccin-visual-studio</guid>
+      <pubDate>Sat, 11 May 2024 09:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>费德里克·维因恩</title>
+      <link>https://www.opensourceagenda.com/projects/sfederic-vengine</link>
+      <description><![CDATA[使用 DirectX 11、Direct2D、DirectWrite、Qt、FBX SDK、ImGui/ImGuizmo 和物理X]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sfederic-vengine</guid>
+      <pubDate>Sat, 11 May 2024 09:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>VisualStudioDiscordRPC</title>
+      <link>https://www.opensourceagenda.com/projects/visualstudiodiscordrpc</link>
+      <description><![CDATA[Discord 丰富的 Visual Studio 外观，支持 2019 和 2022 版本。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/visualstudiodiscordrpc</guid>
+      <pubDate>Sat, 11 May 2024 09:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ycherkes 对象转储器</title>
+      <link>https://www.opensourceagenda.com/projects/ycherkes-objectdumper</link>
+      <description><![CDATA[一个 Visual Studio 2019-2022 和 Visual Studio Code 扩展，用于在调试期间将内存中对象导出到C#、JSON、VB、XML 和 YAML 字符串。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ycherkes-objectdumper</guid>
+      <pubDate>Sat, 11 May 2024 09:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速图表</title>
+      <link>https://www.opensourceagenda.com/projects/quickdiagram</link>
+      <description><![CDATA[C# 代码可视化工具，用于快速探索、导航和记录源代码结构和关系。集成到 Visual Studio 中。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/quickdiagram</guid>
+      <pubDate>Sat, 11 May 2024 09:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇宙宇宙</title>
+      <link>https://www.opensourceagenda.com/projects/unitverse</link>
+      <description><![CDATA[Visual Studio 的单元测试生成扩展，旨在始终生成可编译的代码 - 自动覆盖基本情况并为复杂的案件尽可能做好准备。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unitverse</guid>
+      <pubDate>Sat, 11 May 2024 09:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>混音锻造</title>
+      <link>https://www.opensourceagenda.com/projects/remix-forge</link>
+      <description><![CDATA[VS Code 扩展，可让您生成可配置的 Remix 代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/remix-forge</guid>
+      <pubDate>Sat, 11 May 2024 09:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻松构建 Xbox</title>
+      <link>https://www.opensourceagenda.com/projects/easy-build-xbox</link>
+      <description><![CDATA[这将允许用户轻松构建 Xbox OG 源代码，并希望允许要修改的构建]]></description>
+      <guid>https://www.opensourceagenda.com/projects/easy-build-xbox</guid>
+      <pubDate>Sat, 11 May 2024 09:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>结构布局</title>
+      <link>https://www.opensourceagenda.com/projects/structlayout</link>
+      <description><![CDATA[用于 C++ 结构内存布局可视化的 Visual Studio 扩展]]></description>
+      <guid>https://www.opensourceagenda.com/projects/structlayout</guid>
+      <pubDate>Sat, 11 May 2024 09:20:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
