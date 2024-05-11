@@ -4,11 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 11 May 2024 01:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 03:21:31 GMT</lastBuildDate>
+    <item>
+      <title>PDF 中非 JavaScript 的浏览器安全漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp5vkm/browser_security_bugs_that_arent_javascript_in_pdf/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp5vkm/browser_security_bugs_that_arent_javascript_in_pdf/</guid>
+      <pubDate>Sat, 11 May 2024 01:30:23 GMT</pubDate>
+    </item>
     <item>
       <title>我应该使用 sql 还是 mongodb</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp5lhb/should_i_use_sql_or_mongodb/</link>
-      <description><![CDATA[所以我正在制作一个游戏，你必须随机猜测一种动物。您可以猜测它来自哪个大陆，属于什么顺序，栖息地等。您可以通过使用下拉菜单来猜测这些内容，例如一个名为“大陆”的下拉菜单，包含 7 个大陆 在我的当前的演示我有一些动物存储在 json 文件中，并且每个下拉列表都有一个 json 文件。然后，当您进行猜测时，它会检查下拉 json 文件中的数据是否与动物文件中的数据匹配。但现在是时候实现数据库而不是使用 json 了。  我真的不喜欢使用sql，但它可能会好得多。然后我可以做一些事情，比如拥有一个大陆模式，从动物模式等获取数据，而且我不必更新多个模式。我还有一些链接在一起的动物分类学之类的东西，例如：食肉目在哺乳动物内部，犬科在食肉目内部等等。 如果我要使用 mongodb，我会以与我现在已经完成了 json 文件。为每个下拉列表建立一个集合，然后检查它是否与动物等匹配，并执行诸如将集合映射在一起之类的操作。  所以我的问题是：用 mongodb 创建这个真的很愚蠢吗？我对数据库没有太多经验，但是当我使用 mongodb 时，感觉非常直观和简单，而 sql 确实给我带来了压力。我可以使用 mongodb 来实现这一点，而不会让它变得非常乏味吗？或者我应该使用sql？   由   提交 /u/tojzl   [链接] [评论]]]></description>
+      <description><![CDATA[所以我正在制作一个游戏，你必须随机猜测一种动物。您可以猜测它来自哪个大陆，属于什么顺序，栖息地等。您可以通过使用下拉菜单来猜测这些内容，例如一个名为“大陆”的下拉菜单，包含 7 个大陆 在我的当前演示我有一些动物存储在 json 文件中，并且每个下拉列表都有一个 json 文件。然后，当您进行猜测时，它会检查下拉 json 文件中的数据是否与动物文件中的数据匹配。但现在是时候实现数据库而不是使用 json 了。  我真的不喜欢使用sql，但它可能会好得多。然后我可以做一些事情，比如拥有一个大陆模式，从动物模式等获取数据，而且我不必更新多个模式。我还有诸如链接在一起的动物分类学之类的东西，例如：食肉目在哺乳动物内部，犬科在食肉目内部等等。 如果我要使用 mongodb，我会以与以下相同的方式设置系统我现在已经完成了 json 文件。为每个下拉列表建立一个集合，然后检查它是否与动物等匹配，并执行诸如将集合映射在一起之类的操作。  所以我的问题是：用 mongodb 创建这个真的很愚蠢吗？我对数据库没有太多经验，但是当我使用 mongodb 时，感觉非常直观和简单，而 sql 确实给我带来了压力。我可以使用 mongodb 来实现这一点，而不会让它变得非常乏味吗？或者我应该使用sql？   由   提交 /u/tojzl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cp5lhb/should_i_use_sql_or_mongodb/</guid>
       <pubDate>Sat, 11 May 2024 01:15:29 GMT</pubDate>
     </item>
@@ -22,14 +29,14 @@
     <item>
       <title>为什么fail2ban会出现这种意想不到的行为？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp3ttb/why_this_unexpected_behaviour_from_fail2ban/</link>
-      <description><![CDATA[我会保持简短。 UFW 的 Fail2ban 的表现并不像我预期的那样。我有一个规则集，如果 IP 地址访问记录到 nginx 日志的蜜罐 URL，则禁止 IP 地址。一旦 IP 被禁止（并显示在 UFW 拒绝列表中），在被禁止的同一 url 上刷新浏览器的请求仍会记录在 nginx 日志中，并且用户仍然能够查看被禁止的页面。如果他们关闭浏览器，重新打开并重试，禁令就会生效，并且“无法连接到服务器”将被取消。显示消息。  也许这是我的误解，但是防火墙规则不应该在 NGINX 应用程序之前在网络级别运行吗？ NGINX 如何记录来自不允许与服务器建立连接的 IP 的请求？浏览器现在是否会与服务器建立某种持久连接，该连接在浏览器关闭之前不会关闭？我以为 HTTP 连接是瞬时的、按需的？我认为它只是在浏览器中缓存，但缓存不会记录在服务器上的 NGINX 中。  你认为我在这里缺少什么？    由   提交 /u/99thLuftballon   [链接] [评论]]]></description>
+      <description><![CDATA[我会保持简短。 UFW 的 Fail2ban 的表现并不像我预期的那样。我有一个规则集，如果 IP 地址访问记录到 nginx 日志中的蜜罐 URL，则禁止 IP 地址。一旦 IP 被禁止（并显示在 UFW 拒绝列表中），在被禁止的同一 url 上刷新浏览器的请求仍会记录在 nginx 日志中，并且用户仍然能够查看被禁止的页面。如果他们关闭浏览器，重新打开并重试，禁令就会生效，并且“无法连接到服务器”将被取消。显示消息。  也许这是我的误解，但是防火墙规则不应该在 NGINX 应用程序之前在网络级别运行吗？ NGINX 如何记录来自不允许与服务器建立连接的 IP 的请求？浏览器现在是否会与服务器建立某种持久连接，该连接在浏览器关闭之前不会关闭？我以为 HTTP 连接是瞬时的、按需的？我认为它只是在浏览器中缓存，但缓存不会记录在服务器上的 NGINX 中。  你认为我在这里缺少什么？    由   提交 /u/99thLuftballon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cp3ttb/why_this_unexpected_behaviour_from_fail2ban/</guid>
       <pubDate>Fri, 10 May 2024 23:46:38 GMT</pubDate>
     </item>
     <item>
       <title>如何将 WebGi 与 Next Js 结合使用？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp25gx/how_to_use_webgi_with_next_js/</link>
-      <description><![CDATA[有没有办法将 WebGi 与 Next Js 一起使用？ 此基本模板显示了如何配置的示例： index.ts 从“react”导入{ useEffect }；从“webgi”导入 { ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }； async function setupViewer(){ constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }) 等待 addBasePlugins(viewer) 等待viewer.addPlugin(AssetManagerBasicPopupPlugin) 等待viewer.addPlugin(FileTransferPlugin) 等待查看器.addPlugin(CanvasSnipperPlugin) 等待查看器.load(&quot;./assets/classic-watch.glb&quot;) 等待查看器.setEnvironmentMap(&quot;./assets/environment.hdr&quot;); const uiPlugin =等待viewer.addPlugin(TweakpaneUiPlugin) uiPlugin.setupPlugins(TonemapPlugin, CanvasSnipperPlugin) } setupViewer()  index.html &lt; ;!DOCTYPE html&gt;  &lt;头&gt; WebGi 入门 &lt;元字符集=“UTF-8” &gt;&gt; &lt;元名称=“视口”内容＝“宽度＝设备宽度，用户可缩放＝否，最小比例＝1.0，最大比例＝1.0”&gt; &lt;/头&gt; &lt;正文&gt; &lt;div id=&quot;webgi-canvas-container&quot;&gt; &lt;canvas id=“webgi-canvas”&gt;&lt;/canvas&gt;  &lt;脚本 src=“src/index.ts” type=&quot;模块&quot;&gt;&lt;/script&gt; &lt;/正文&gt; &lt;/html&gt;  我尝试适应index.tsx： import { useEffect } from “react”;从“webgi”导入 { ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }；导出默认函数 Home() { useEffect(() =&gt; { async function setupViewer() { constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }); wait addBasePlugins(viewer ); 等待viewer.addPlugin(AssetManagerBasicPopupPlugin); 等待viewer.addPlugin(CanvasSnipperPlugin); 等待viewer.load(&quot;./assets/classic-watch.glb&quot;); .addPlugin(TweakpaneUiPlugin); uiPlugin.setupPlugins(CanvasSnipperPlugin); } setupViewer(); return (      ) ; }  “ViewerApp”类型的参数不可分配给“IViewerApp”类型的参数。 然后依赖于此查看器的所有其他查看器也会出现类型错误 （我在 package.json 中添加了依赖项） “devDependencies”：{“@types/节点”：“^20”、“@types/react”：“^18”、“@types/react-dom”：“^18”、“postcss”：“^8”、 “tailwindcss”：“^3.4.1”、“eslint”：“^8”、“eslint-config-next”：“14.2.3”、“typescript”：“^5.1”。 3”、“@types/webgi”：“https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-types-0.9.0.tgz”、“webgi”：“ ;https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-0.9.0.tgz” }  ​   由   提交 /u/my-name-is-Tracy   [链接] [评论]]]></description>
+      <description><![CDATA[有没有办法将 WebGi 与 Next Js 一起使用？ 此基本模板显示了如何配置的示例： index.ts 从“react”导入{ useEffect }；从“webgi”导入{ ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }； async function setupViewer(){ constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }) 等待 addBasePlugins(viewer) 等待viewer.addPlugin(AssetManagerBasicPopupPlugin) 等待viewer.addPlugin(FileTransferPlugin) 等待查看器.addPlugin(CanvasSnipperPlugin) 等待查看器.load(&quot;./assets/classic-watch.glb&quot;) 等待查看器.setEnvironmentMap(&quot;./assets/environment.hdr&quot;); const uiPlugin =等待viewer.addPlugin(TweakpaneUiPlugin) uiPlugin.setupPlugins(TonemapPlugin, CanvasSnipperPlugin) } setupViewer()  index.html &lt; ;!DOCTYPE html&gt;  &lt;头&gt; WebGi 入门 &lt;元字符集=“UTF-8” &gt;&gt; &lt;元名称=“视口”内容＝“宽度＝设备宽度，用户可缩放＝否，最小比例＝1.0，最大比例＝1.0”&gt; &lt;/头&gt; &lt;正文&gt; &lt;div id=&quot;webgi-canvas-container&quot;&gt; &lt;canvas id=“webgi-canvas”&gt;&lt;/canvas&gt;  &lt;脚本 src=“src/index.ts” type=&quot;模块&quot;&gt;&lt;/script&gt; &lt;/正文&gt; &lt;/html&gt;  我尝试适应index.tsx： import { useEffect } from “react”;从“webgi”导入{ ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }；导出默认函数 Home() { useEffect(() =&gt; { async function setupViewer() { constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }); wait addBasePlugins(viewer ); 等待viewer.addPlugin(AssetManagerBasicPopupPlugin); 等待viewer.addPlugin(CanvasSnipperPlugin); 等待viewer.load(&quot;./assets/classic-watch.glb&quot;); .addPlugin(TweakpaneUiPlugin); uiPlugin.setupPlugins(CanvasSnipperPlugin); } setupViewer(); return (      ) ; }  “ViewerApp”类型的参数不可分配给“IViewerApp”类型的参数。 然后依赖于此查看器的所有其他查看器也会出现类型错误 （我在 package.json 中添加了依赖项） “devDependencies”：{“@types/节点”：“^20”、“@types/react”：“^18”、“@types/react-dom”：“^18”、“postcss”：“^8”、 “tailwindcss”：“^3.4.1”、“eslint”：“^8”、“eslint-config-next”：“14.2.3”、“typescript”：“^5.1”。 3”、“@types/webgi”：“https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-types-0.9.0.tgz”、“webgi”：“ ;https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-0.9.0.tgz” }  ​   由   提交 /u/my-name-is-Tracy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cp25gx/how_to_use_webgi_with_next_js/</guid>
       <pubDate>Fri, 10 May 2024 22:29:50 GMT</pubDate>
     </item>
@@ -48,25 +55,11 @@
       <pubDate>Fri, 10 May 2024 22:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>Api 忍者窃取数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</link>
-      <description><![CDATA[不要为 api ninjas 服务付费。我们正在考虑为他们的“animals api”付费，但注意到所有数据都直接来自 A-Z 动物网站。从字面上看，他们只是从网站上删除了数据。 A-Z 动物也有相当严格的使用条款和条件，因此这可能对我们不利。 据我所知，API 忍者可以合法地访问这些数据，但我对此表示怀疑。&lt; /p&gt;   由   提交 /u/tojzl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</guid>
-      <pubDate>Fri, 10 May 2024 22:01:03 GMT</pubDate>
-    </item>
-    <item>
       <title>你们能帮我做这个调查吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</link>
       <description><![CDATA[我正在学习如何成为一名用户体验设计师，现在，我正在尝试为我当前的案例研究获取一些调查数据。我不知道发布这些东西的合适位置在哪里，所以请保持温柔。这是一个关于您使用操作系统的体验的简短调查。乐趣！ https://forms.gle/itnUGiKYcqBUgYa96   由   提交 /u/ilexcent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</guid>
       <pubDate>Fri, 10 May 2024 21:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>朋友被解雇了。萌生了这个念头。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</link>
-      <description><![CDATA[我一直在致力于这个名为：ApplyGoat：您的个人的想法职位申请助理。 为什么？人力资源部门100%使用ATS/AI/自动化方法筛选候选人简历和申请。 解决方案： ApplyGoat 将自动根据职位描述帮助定制您的简历，并代表您一键申请该职位，无需填写冗长的表格和求职信。 ApplyGoat 是反 ATS 的 ATS [ 申请人 申请跟踪系统 ]，可确保您在竞争中脱颖而出人群。 请讨论这个想法，设计，一切。 我需要知道我没有在“Tarpit 想法”上度过五月。 &lt; p&gt;提前致谢。   由   提交/u/pystar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</guid>
-      <pubDate>Fri, 10 May 2024 21:47:24 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们需要模板引擎？</title>
@@ -106,9 +99,16 @@
     <item>
       <title>您在构建 API 集成方面有什么经验？</title>
       <link>https://www.reddit.com/r/webdev/comments/1coyvdr/what_is_your_experience_with_building_api/</link>
-      <description><![CDATA[我正在为开发人员构建一个工具，让他们可以轻松地将后端与 API 集成，而无需深入研究 API 文档。如果您能填写此表格，让我更多地了解您的 API 开发流程，这对我来说意义非凡。 http://forms.gle/8BwXTbAa2ZQavrRPA 感谢您抽出时间！   由   提交/u/wonderfuledeneden   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为开发人员构建一个工具，让他们可以轻松地将后端与 API 集成，而无需深入研究 API 文档。如果您能填写此表格，让我更多地了解您的 API 开发流程，这对我来说意义重大。 http://forms.gle/8BwXTbAa2ZQavrRPA 感谢您抽出时间！   由   提交/u/wonderfuledeneden   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coyvdr/what_is_your_experience_with_building_api/</guid>
       <pubDate>Fri, 10 May 2024 20:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何构建 CRM 以实现规模化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coym77/how_would_you_structure_a_crm_for_scale/</link>
+      <description><![CDATA[我很好奇您将如何构建电子邮件营销/CRM 服务的架构以实现规模化。假设您有 5,000 名客户。有些客户的联系人数量为 5,000 或更少，有些客户的联系人数量超过 100,000，有些客户的联系人数量达到数百万。 您是否将他们的所有数据存储在一个大型数据库中？多个数据库？如果有多个数据库，是否有特定的方式在这些数据库之间分割数据？  如果有多个数据库，您如何确保应用程序中的搜索能够极快地返回客户在客户记录中查找的任何数据点？ 在发送电子邮件时，如何你在处理吗？假设您有 100 位客户同时发送包含 10MM 电子邮件的群发电子邮件。您使用什么队列服务？跟踪所有数据的分析怎么样？您是否将这些数据存储在单独的盒子上？ 复制怎么样？在所有盒子上进行设置？ 很想知道人们如何处理这样的设置，这种设置将保持极快的速度，所有数据都可以从 UI 中快速搜索，应用程序始终稳定并且不会在以下情况下减慢速度繁重的写入操作，如果出现停机，则可能整个应用程序并未离线，而只是几个仅包含一些客户数据的数据库。 我实际上只是扩展了 1 个非常庞大的数据库，（ 3TB+），并且很好奇这是否是最好/最简单的方法，或者是否出于某种原因我应该使用 10 个较小的数据库。    由   提交/u/usedigest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coym77/how_would_you_structure_a_crm_for_scale/</guid>
+      <pubDate>Fri, 10 May 2024 19:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
