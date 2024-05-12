@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 May 2024 03:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 06:25:24 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday]MinimalChat 是一款开源的轻量级且可定制的 LLM 聊天应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpyyxh/showoff_saturday_minimalchat_is_an_open_source/</link>
+      <description><![CDATA[大家好！我有一个爱好项目，随着时间的推移，它的功能已经相当齐全，所以我想我应该将它分享给其他可能觉得它有用的人。 MinimalChat 背后的想法是创建一个项目，轻量级且非常简单，使用 docker 在几秒钟内即可在本地部署和运行。当然，它还拥有大部分不错的功能，而且看起来也很漂亮。 一个不错的好处是它是一个渐进式 Web 应用程序，因此可以像移动设备上的普通应用程序一样安装。它还具有完整的移动用户界面。 对于使用 Chrome 和 Edge 的用户，您还可以完全从浏览器本地下载、加载和托管某些 LLM 模型，例如 LLama-3，并通过 WebGPU 进行硬件加速。这是相当实验性的，但它确实有效，感谢 WebLLM！ 我不会在这篇文章中重申所有功能、GitHub 自述文件等。它很好地了解了应用程序的功能。 我知道聊天应用程序是一个一打钱，但是...无论如何，这里还有一个哈哈！ 该网站的公共版本也可供任何只想浏览而不需要本地安装的人使用 - https://minimalchat.app GitHub 自述文件链接  &amp;# 32；由   提交 /u/fingerthief   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpyyxh/showoff_saturday_minimalchat_is_an_open_source/</guid>
+      <pubDate>Sun, 12 May 2024 03:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用我的 django web 应用程序和 apache 与 mod_wsgi 到目前为止，可以使用一些帮助进行故障排除</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpyj1p/i_got_this_far_with_my_django_web_app_and_apache/</link>
+      <description><![CDATA[      希望您周六晚上过得愉快， &lt; p&gt;我一直在开发我正在使用的这个网络应用程序，我终于让 mod_wsgi 工作了，并且我在屏幕上看到了该应用程序，但我认为这些包无法正常运行。 Here&#39;s我现在屏幕上的屏幕截图 不知道从哪里开始 谢谢 https://preview.redd.it/7hurmmtazwzc1.png?width=2085&amp;format=png&amp;auto=webp&amp; s=9f1e50f3493353df7c5a9cf47f6436ebbcf842fa 好的，所以图像不会显示，但基本上页面只显示基本的 html，而不显示任何 python/django 应用程序功能。 &lt; /div&gt;  由   提交 /u/RadeonPunk   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpyj1p/i_got_this_far_with_my_django_web_app_and_apache/</guid>
+      <pubDate>Sun, 12 May 2024 03:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>说服客户通过 CMS 提供完全定制的解决方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1cpy9hc/convincing_clients_of_fully_custom_solutions_over/</link>
-      <description><![CDATA[我如何向假设的客户解释使用完全定制的解决方案的好处？ CMS 通常更便宜、更快最初建立并开始开展业务（以我非专业的观点），除非您聘请了一个已经开发出满足您需求的解决方案的团队。 但是，如果您为一家拥有大量网站（全部构建）的公司工作，该怎么办？在流行的 CMS 上）并且该公司偶尔想要一个新的？作为一名员工，我如何说服他们使用 Laravel 或 Symfony 来定制解决方案（说实话，我希望它是为了我的乐趣和教育）？ 我的想法： - CMS 经常存在安全问题。 - 流行的框架具有可访问的解决方案，可以在相对较短的时间内开发具有内容管理功能的管理页面。 - 是的，这会有点长，但由于更清晰的架构，对这样一个网站的总体支持将更加顺利。 - 这是一个更具可定制性和面向未来（无论这意味着什么）的解决方案。   由   提交/u/qlinglo  [链接] [评论]]]></description>
+      <description><![CDATA[我如何向假设的客户解释使用完全定制的解决方案的好处？ CMS 通常更便宜、更快最初建立并开始开展业务（以我非专业的观点），除非您聘请了一个已经开发出满足您需求的解决方案的团队。 但是，如果您为一家拥有大量网站（所有网站均已构建）的公司工作，该怎么办？在流行的 CMS 上）并且该公司偶尔想要一个新的？作为一名员工，我如何说服他们使用 Laravel 或 Symfony 来定制解决方案（说实话，我希望它是为了我的乐趣和教育）？ 我的想法： - CMS 经常存在安全问题。 - 流行的框架具有可访问的解决方案，可以在相对较短的时间内开发具有内容管理功能的管理页面。 - 是的，这会有点长，但由于更清晰的架构，对这样一个网站的总体支持将更加顺利。 - 这是一个更具可定制性和面向未来（无论这意味着什么）的解决方案。   由   提交/u/qlinglo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cpy9hc/convincing_clients_of_fully_custom_solutions_over/</guid>
       <pubDate>Sun, 12 May 2024 03:07:18 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>我构建了一个简单且实用的人工智能面试官！ （对于应届毕业生和希望简化候选人筛选流程的招聘人员很有用）</title>
       <link>https://www.reddit.com/r/webdev/comments/1cpxdmx/i_built_a_simple_and_functional_ai_interviewer/</link>
-      <description><![CDATA[简短面试演示：IGPT - 面试简短演示- YouTube 完整产品演示：https ://www.loom.com/share/1dd70add2e6549419329a193a3d63f4c?sid=ea0084b1-b3e8-431e-b14f-e8e9834e0415 如果您喜欢您的内容，请访问我们的页面并考虑给我们投票参见。 interviewgpt.io - 轻松雇用 |产品搜索   由   提交 /u/ButterscotchNo3385   [链接] [评论]]]></description>
+      <description><![CDATA[简短面试演示：IGPT - 面试简短演示- YouTube 完整产品演示：https ://www.loom.com/share/1dd70add2e6549419329a193a3d63f4c?sid=ea0084b1-b3e8-431e-b14f-e8e9834e0415 如果您喜欢您的内容，请访问我们的页面并考虑给我们投票参见。 interviewgpt.io - 轻松雇用 |产品搜寻   由   提交 /u/ButterscotchNo3385   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cpxdmx/i_built_a_simple_and_functional_ai_interviewer/</guid>
       <pubDate>Sun, 12 May 2024 02:17:15 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Sun, 12 May 2024 00:53:57 GMT</pubDate>
     </item>
     <item>
-      <title>该菜单可以访问（鼠标和键盘）吗？</title>
+      <title>此菜单可以访问（鼠标和键盘）吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cpvmnu/is_this_menu_accessible_mouse_and_keyboard/</link>
       <description><![CDATA[ 由   提交/u/gullydon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cpvmnu/is_this_menu_accessible_mouse_and_keyboard/</guid>
@@ -57,21 +71,21 @@
     <item>
       <title>如何使音频循环播放*？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cpvmm2/how_do_i_make_audios_play_on_loop/</link>
-      <description><![CDATA[好的，我正在开发一个电子应用程序，但您可能已经知道，前端（以及后端）使用 HTML、CSS、和 JavaScript。但对于前端来说，它主要是 HTML 和 CSS。 我希望我的问题足以满足这个 Reddit 子版块，因为它有一些相关性。 所以我的计划是有两部分的音频播放。第一个音频（我们称之为起始音乐）将在用户进入窗口/页面后立即播放。一旦起始音乐完成，第二个音频就会播放，我们称之为循环音乐。循环音乐，顾名思义，会无限循环。 我尝试过一些基本的东西，比如 &lt;audio&gt; 。标签，但无法使其正常工作。我只能在循环/自动播放时播放一个音频，之后就再也不能播放了。 我还尝试了电子方法，它使用其他 .js 文件，而这些文件通常不会出现在 webdev 中环境（我认为），但效果不佳。 如果有任何帮助或参考，我会很高兴。感谢您的阅读   由   提交 /u/BrotherlyVirgo   [链接] [评论]]]></description>
+      <description><![CDATA[好的，我正在开发一个电子应用程序，但您可能已经知道，前端（以及后端）使用 HTML、CSS、和 JavaScript。但对于前端来说，它主要是 HTML 和 CSS。 我希望我的问题足以满足这个 Reddit 子版块，因为它有一些相关性。 所以我的计划是有两部分的音频播放。第一个音频（我们称之为起始音乐）将在用户进入窗口/页面后立即播放。一旦起始音乐完成，第二个音频就会播放，我们称之为循环音乐。循环音乐，顾名思义，会无限循环。 我尝试过一些基本的东西，比如&lt;音频&gt;。标签，但无法使其正常工作。我只能在循环/自动播放时播放一个音频，之后就再也不能播放了。 我还尝试了电子方法，它使用其他 .js 文件，而这些文件通常不会出现在 webdev 中环境（我认为），但效果不佳。 如果有任何帮助或参考，我会很高兴。感谢您的阅读   由   提交 /u/BrotherlyVirgo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cpvmm2/how_do_i_make_audios_play_on_loop/</guid>
       <pubDate>Sun, 12 May 2024 00:41:33 GMT</pubDate>
     </item>
     <item>
       <title>想要构建一个票务 Web 应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1cpvd5y/want_to_build_a_ticketing_web_application/</link>
-      <description><![CDATA[所以我目前管理着一家小型旅游企业的网站。它正在运行带有大量自定义功能和主题的 WordPress。该公司目前在其旅游中使用类似于 123Tix 或 Tickettek 的外部票务应用程序。 他们希望降低成本并实施更便宜的解决方案。  我想扩展我的技能和知识，所以我在想（距离他们当前的合同票务提供商结束还有 6 个月）也许我可以尝试使用框架构建一个定制的票务应用程序。 我有一些使用 Django 的经验，但我想知道你们认为这里最好的堆栈是什么？公司所有者需要能够编辑旅游和门票并添加会话并基本上管理数据库，因此像 Django 这样的管理界面会很好。我需要集成 Stripe 进行付款，并生成通过电子邮件/短信发送给每个客户的票证。 也许未来的插件也可以为企业主提供票证检查功能。 另外，我应该将其托管在主网站之外的单独网站上吗？就像 Tickets.maindomain.com 一样，保留 Wordpress 不变（他们也需要能够编辑它）。或者我应该尝试构建一个 api，然后将其集成到 Wordpress 网站中？ 正如你所知，我在这里没有太多后端经验，所以我有点试水一下，如果可以的话碰到风扇我只会使用另一个解决方案，例如 tixtree.com 或类似的东西。 谢谢！   由   提交/u/Ruppy2810   [链接] [评论]]]></description>
+      <description><![CDATA[所以我目前管理着一家小型旅游企业的网站。它正在运行带有大量自定义功能和主题的 WordPress。该公司目前在其旅游中使用类似于 123Tix 或 Tickettek 的外部票务应用程序。 他们希望降低成本并实施更便宜的解决方案。  我想扩展我的技能和知识，所以我在想（距离他们当前的合同票务提供商结束还有 6 个月）也许我可以尝试使用框架构建一个定制的票务应用程序。 我有一些使用 Django 的经验，但我想知道你们认为这里最好的堆栈是什么？公司所有者需要能够编辑旅游和门票并添加会话并基本上管理数据库，因此像 Django 这样的管理界面会很好。我需要集成 Stripe 进行付款，并生成通过电子邮件/短信发送给每个客户的票证。 也许未来的插件也可以为企业主提供票证检查功能。 此外，我应该将其托管在主网站之外的单独网站上吗？就像 Tickets.maindomain.com 一样，保留 Wordpress 不变（他们也需要能够编辑它）。或者我应该尝试构建一个 api，然后将其集成到 Wordpress 网站中？ 正如你所知，我在这里没有太多后端经验，所以我有点试水一下，如果可以的话击中风扇，我将使用另一个解决方案，例如 tixtree.com 或类似的东西。 谢谢！   由   提交/u/Ruppy2810   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cpvd5y/want_to_build_a_ticketing_web_application/</guid>
       <pubDate>Sun, 12 May 2024 00:27:43 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个具有实时视频和几乎实时云的 3D ISS 跟踪器</title>
       <link>https://www.reddit.com/r/webdev/comments/1cptjv5/i_built_a_3d_iss_tracker_with_live_video_and/</link>
-      <description><![CDATA[      我一直在构建一个美丽、逼真的（ish）您可能希望将其显示在电视或第二个屏幕上的国际空间站跟踪器。我也希望它能用于教育。它具有：  近实时云（我还在 https://clouds 上单独提供了它.matteason.co.uk) 来自安装在国际空间站上的摄像机的嵌入式直播 日夜循环 月球和月球太阳 月份精确的冰和水基于每月蓝色大理石图像 国际空间站 3D 模型的积雪（默认情况下禁用） 大量可切换设置来自定义显示  我还在开发其他东西，例如：  下次经过您的位置 显示接下来 90 分钟的路径 能够叠加更多统计数据  我很乐意尝试一下就知道您的想法。   由   提交/u/matteason  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我一直在构建一个美丽、逼真的（ish）您可能希望将其显示在电视或第二个屏幕上的国际空间站跟踪器。我也希望它能用于教育。它具有：  近实时云（我还在 https://clouds 上单独提供了它.matteason.co.uk) 来自安装在国际空间站上的摄像机的嵌入式直播 日夜循环 月球和月球太阳 月份精确的冰和温度。基于每月蓝色大理石图像 国际空间站 3D 模型的积雪（默认情况下禁用） 大量可切换设置来自定义显示  我还在开发其他东西，例如：  下次经过您的位置 显示接下来 90 分钟的路径 能够叠加更多统计数据  我很乐意尝试一下就知道您的想法。   由   提交/u/matteason  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cptjv5/i_built_a_3d_iss_tracker_with_live_video_and/</guid>
       <pubDate>Sat, 11 May 2024 22:57:40 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 这是一个非常菜鸟的问题。我想分叉这个 NPM 包 - https://github.com/klinecharts/pro 并对其进行一些更改。我对这样做还很陌生。它是一个 UI 包。我想在本地运行它并对其进行编辑然后提交。但我没有看到任何运行脚本。如何在本地运行包来测试和进行更改？   由   提交 /u/zZurf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cprvzl/how_can_i_run_this_ui_package_locally/</guid>
       <pubDate>Sat, 11 May 2024 21:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现这个动画呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpruc7/how_to_achieve_this_animation/</link>
-      <description><![CDATA[当您滚动经过底部时，它会转到上一页，但有重叠过渡。 示例 现在我有这个代码，当您滚动时，它会转到链接页面： &lt; ;script&gt; window.onscroll = function(ev) { if ((window.innerHeight + window.pageYOffset) &gt;= document.body.offsetHeight) { window.location.href = “about.html”; } };    由   提交 /u/Lazer_Flip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpruc7/how_to_achieve_this_animation/</guid>
-      <pubDate>Sat, 11 May 2024 21:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>非 REST 的好处？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cprt5i/benefits_of_nonrest/</link>
-      <description><![CDATA[我是一名自学成才的开发人员，在为小群用户构建应用程序方面获得了很多乐趣。我从未完全采用 REST，尽管我总是对此感到内疚。不过，我读得越多，它似乎就越是针对真正的大型应用程序，而我并没有真正构建这样的应用程序。似乎需要“为一切做好准备”。一种端点方法，您永远不知道您可能想要从哪个模型更新哪些字段组合。因此，在此基础上需要广泛的单元测试框架。但在实践中，我的应用程序都没有真正像这样工作。我编写带有少量端点的快速应用程序，每个端点依次处理一堆自定义操作。 所以，我知道 REST 是扩展的方式，但我想知道是否有经验丰富的开发人员发现“在”“之下”运作的REST 范围是处理小型应用程序的更好方法吗？或者我是否已经深陷坏模式之海，以至于再也看不到水了。 （我也知道现在有 graphQL 和各种其他实践......不过那是另一天的事了）&lt; /p&gt;   由   提交/u/elendee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cprt5i/benefits_of_nonrest/</guid>
-      <pubDate>Sat, 11 May 2024 21:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
