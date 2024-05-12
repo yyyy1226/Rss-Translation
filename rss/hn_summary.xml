@@ -4,7 +4,63 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 12 May 2024 01:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 03:21:46 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 上的 Noisy Sockets CLI 项目提供了一个 WireGuard 支持的远程 shell，用于安全、en [...]</title>
+      <link>https://t.me/hn_summary/89121</link>
+      <description><![CDATA[展示 HN：WireGuard 支持的远程 Shell
+GitHub 上的 Noisy Sockets CLI 项目提供了 WireGuard 支持的远程 shell，用于安全、加密的通信。它允许用户配置和管理用户空间 WireGuard 连接，并计划扩展以包含更多 WireGuard 支持的应用程序。 Noisy Sockets Shell 是该系列中的第一个应用程序，提供可通过终端或 Web 浏览器访问的安全远程 shell。该项目通过使用 WireGuard 进行身份验证和加密而脱颖而出，为安全远程通信提供了独特的解决方案。该项目根据 Noisy Sockets Source License 1.0 获得许可，并归功于 Jason A. Donenfeld 的wireguard-go 项目。]]></description>
+      <guid>https://t.me/hn_summary/89121</guid>
+      <pubDate>Sun, 12 May 2024 03:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我们很高兴地宣布 Jellyfin 10.9.0 发布，其中包含新功能，[...]</title>
+      <link>https://t.me/hn_summary/89120</link>
+      <description><![CDATA[Jellyfin 10.9.0
+我们很高兴地宣布 Jellyfin 10.9.0 发布，其中包含新功能、改进和错误修复，可增强您的 Jellyfin 体验。重要的变化包括放弃对非 LTS Ubuntu 版本的支持、切换到 GHCR 容器注册表以及出于安全原因删除 EasyPassword 功能。令人兴奋的更新包括实时视频清理、改进的家长评级以及对 AVIF 和 WEBP 图像的支持。合并了 1100 多个拉取请求，此版本的制作历时两年。我们期待 10 月份的 10.10.0 版本有更快的发布周期。感谢所有贡献者让 Jellyfin 成为今天的样子！]]></description>
+      <guid>https://t.me/hn_summary/89120</guid>
+      <pubDate>Sun, 12 May 2024 03:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multilspy 项目是一个跨平台框架，旨在开发语言服务器客户端 [...]</title>
+      <link>https://t.me/hn_summary/89119</link>
+      <description><![CDATA[显示 HN：Multilspy – 开发语言服务器客户端的跨平台框架&lt; /a&gt;
+Multilspy 项目是一个跨平台框架，旨在开发语言服务器客户端，特别关注使用语言模型生成代码的监视器引导解码 (MGD)。该项目包括数据集、评估脚本和推理结果，用于通过静态分析监控代码生成。该项目的独特之处在于跨多种编程语言实现了对不同属性进行监视的各种监视器，例如类型有效标识符取消引用和正确的方法调用序列。此外，multilspy 作为一个库可以轻松查询各种语言服务器，无需设置配置或实现语言服务器协议的客户端，目前支持 Java、Rust、C# 和 Python。 （根据 61% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89119</guid>
+      <pubDate>Sun, 12 May 2024 03:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 经过二十年的断断续续的工作，用于 MOS 的 Incredible KIMplement 仿真器 [...]</title>
+      <link>https://t.me/hn_summary/89118</link>
+      <description><![CDATA[使用 6o6 在 6502 上虚拟 6502
+经过二十年的断断续续的工作，基于 MOS/Commodore KIM-1 6502 的单板计算机的 Incredible KIMplement 仿真器终于准备好发布了。该模拟器在未扩展的库存 Commodore 64 上运行，提供扩展的 RAM 和 TTY 支持。然而，真正的亮点是在 6502 CPU 上运行的“6o6”虚拟化软件 NMOS 6502 CPU，允许完全控制来宾代码执行和抽象内存访问。这种创新方法可以在 Commodore 64 中模拟不同的基于 6502 的系统，展示了作者对创建独特且实用的虚拟环境的奉献精神。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89118</guid>
+      <pubDate>Sun, 12 May 2024 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在古埃及，对石英和花岗岩等硬石进行钻孔长期以来一直是 [...]</title>
+      <link>https://t.me/hn_summary/89117</link>
+      <description><![CDATA[古埃及石钻（1983）
+古埃及石英和花岗岩等硬石的钻探长期以来一直是学术争论的话题。埃及古物学家 A. 卢卡斯 (A. Lucas) 和弗林德斯·皮特里爵士 (Sir Flinders Petrie) 对于古埃及人是否使用湿沙或固定金刚砂点进行钻孔存在分歧。最近的实验证据表明金刚砂可能已被使用，但不一定用作固定点。钻芯上是否存在同心线可以表明所用磨料的类型。这项研究揭示了古代宝石技术和古埃及人用来钻探坚硬石头的方法，为这种古老的做法提供了新的见解。 （根据故事文本的 59% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89117</guid>
+      <pubDate>Sun, 12 May 2024 02:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]GHC 开发人员很高兴地宣布发布 GHC 9.10.1，现已发布 [...]</title>
+      <link>https://t.me/hn_summary/89116</link>
+      <description><![CDATA[GHC 9.10.1 现已推出
+GHC 开发人员很高兴地宣布发布 GHC 9.10.1，现已可供下载。此更新包括新功能，例如 GHC2024 语言版本、类型中的可见量化、LinearTypes 扩展改进、异常回溯注释、WebAssembly 中的 Javascript FFI 支持等。发行说明提供了完整的更改列表。特别感谢 GitHub、IOG 和其他贡献者的支持。尝试此版本并报告任何问题。查看 GHC Wiki 了解未来的发布计划。]]></description>
+      <guid>https://t.me/hn_summary/89116</guid>
+      <pubDate>Sun, 12 May 2024 01:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Charlieplexing 是一种可以有效控制大量数据的技术 [...]</title>
+      <link>https://t.me/hn_summary/89115</link>
+      <description><![CDATA[Charlieplexing
+Charlieplexing 是一种允许使用微控制器中很少的三态逻辑线来有效控制大量 LED、开关或其他 I/O 实体的技术。通过利用微控制器在逻辑 1、逻辑 0 和高阻抗状态之间快速变化的能力，Charlieplexing 与传统的多路复用方法相比，可以显着增加可寻址的实体数量。该方法由 Maxim Integrated 于 2001 年推出，并以 Charles“Charlie”M. Allen 的名字命名。凭借其独特的多路复用方法，Charlieplexing 提供了一种巧妙的解决方案，可以以最少的引脚数要求驱动显示器和其他 I/O 组件。 （根据故事文本的 16% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89115</guid>
+      <pubDate>Sun, 12 May 2024 01:29:40 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]软银在人工智能芯片上投入 640 亿美元的赌注是一个大胆的举动，可能会彻底改变 [...]</title>
       <link>https://t.me/hn_summary/89114</link>
@@ -28,62 +84,6 @@
 Reddit 用户丹尼尔认为，美国的经济崩溃迫在眉睫，类似于苏联的垮台。他投资了国防股票、黄金和加密货币来做好准备。随着谷歌搜索“股市崩溃”和“经济崩溃”的增加，人们对世界末日情景的兴趣在网上激增。经济崩溃子版块的成员数量也有所增加。尽管经济数据显示稳定，但由于生活成本高昂和财务焦虑，许多人担心危机迫在眉睫。专家将悲观情绪的上升归因于大流行带来的不确定性和恐惧。经济数据与人们生活经历之间的脱节加剧了人们对未来的担忧。]]></description>
       <guid>https://t.me/hn_summary/89112</guid>
       <pubDate>Sun, 12 May 2024 00:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]随着时间的推移，复古游戏变得越来越难玩，但是一种名为 N64Reco 的新工具 [...]</title>
-      <link>https://t.me/hn_summary/89111</link>
-      <description><![CDATA[新的静态重新编译器工具 N64Recomp 旨在无缝现代化 N64 游戏
-随着时间的推移，复古游戏变得越来越难玩，但一种名为 N64Recomp 的新工具正在改变这一状况。这个静态重新编译器由模组制作者 Mr-Wiseguy 创建，可以使 N64 游戏现代化，例如《塞尔达传说：马吉拉的面具》，具有自动保存、高帧率和自定义纹理等功能。重新编译器的工作原理是将 N64 二进制文件转换为 C 代码，从而为游戏玩法带来新的可能性。我们提供了该过程的详细分解，并且与 YouTuber Narrel 合作的视频进一步解释了该工具。 《塞尔达 64：重新编译》已经推出，并计划在未来支持时之笛。]]></description>
-      <guid>https://t.me/hn_summary/89111</guid>
-      <pubDate>Sun, 12 May 2024 00:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Steam 在越南被禁，有猜测称 Valve 的业务运营 [...]</title>
-      <link>https://t.me/hn_summary/89110</link>
-      <description><![CDATA[Steam 现已在越南被禁止
-Steam 在越南被禁止，有人猜测原因是 Valve 的业务运营。越南本地游戏开发商抱怨 Steam 的庞大游戏组合，声称它们无法与不受同样政府审查的国际游戏竞争。越南当局尚未正式解决该禁令，但越南所有互联网提供商均已阻止访问 Steam。玩家们对此感到不满，并在 Steam 论坛上表达了他们的不满。这一颇具争议的举动引发了网友热议，有人称这是对国内出版商的不公正。]]></description>
-      <guid>https://t.me/hn_summary/89110</guid>
-      <pubDate>Sat, 11 May 2024 23:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Fusion Drive 是个好主意吗？</title>
-      <link>https://t.me/hn_summary/89109</link>
-      <description><![CDATA[Fusion Drive 是个好主意吗？
-Fusion Drive 曾经是 iMac 和 Mac mini 的热门选择，提供速度和存储容量之间的平衡。然而，随着时间的推移，Fusion Drive 中的 SSD 组件的磨损速度可能比预期更快，从而导致潜在的故障。令人惊讶的是，许多 Fusion Drive 故障实际上影响的是硬盘而不是 SSD。 T2 芯片和 Apple 芯片的引入使 Fusion Drive 的使用进一步复杂化，导致其停产。虽然融合驱动器以较低的成本提供了性能优势，但它们的工作寿命也较短。最终，存储解决方案没有捷径。]]></description>
-      <guid>https://t.me/hn_summary/89109</guid>
-      <pubDate>Sat, 11 May 2024 23:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]蒂姆·邦巴迪尔是谁？</title>
-      <link>https://t.me/hn_summary/89108</link>
-      <description><![CDATA[蒂姆·庞巴迪尔是谁？
-在这篇博文中，我们深入研究了汤姆·庞巴迪尔是迈亚人之一的理论，探讨了这个想法的优点和缺点。虽然汤姆对森林和恶魔的独特力量最初支持了这一理论，但他与魔戒的关系以及他的年龄提出了重大挑战。当考虑到汤姆对魔戒的免疫力是否是因为他是一个更强大的玛雅时，争议就出现了，因为托尔金的著作表明权力并不能防止魔戒的腐败。最终，汤姆是玛雅人的想法受到了质疑，甘道夫本人对他们进行了区分。汤姆·邦巴迪尔之谜继续引起托尔金粉丝的兴趣。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89108</guid>
-      <pubDate>Sat, 11 May 2024 23:28:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国企业界有着利用强迫劳动的黑暗历史，尽管有道德声称 [...]</title>
-      <link>https://t.me/hn_summary/89107</link>
-      <description><![CDATA[美国企业从未放弃强迫劳动
-美国企业界有着利用强迫劳动的黑暗历史，尽管他们声称商业行为符合道德规范。从使用监狱劳工到外包到劳动法宽松的国家，许多公司对工人的剥削视而不见。这种有争议的做法仍然是世界上一些最大公司声誉的污点。尽管呼吁变革和加强审查，但廉价劳动力和利润增加的吸引力往往超过了道德影响。现在是消费者让这些公司承担责任并要求其供应链透明的时候了。]]></description>
-      <guid>https://t.me/hn_summary/89107</guid>
-      <pubDate>Sat, 11 May 2024 23:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]通货膨胀继续影响大型食品，快餐连锁店和其他食品公司[...]</title>
-      <link>https://t.me/hn_summary/89106</link>
-      <description><![CDATA[麦当劳等食品巨头受到通货膨胀的严重打击&lt; br/&gt;
-通货膨胀继续影响大型食品，快餐连锁店和其他食品公司正在努力应对价格上涨和劳动力短缺的问题。消费者正在勒紧钱包，导致麦当劳和星巴克等一些主要企业的销售额下降。然而，Chipotle 和 Wingstop 等公司通过专注于数字销售和迎合高收入人群而取得了成功。克罗格和阿尔迪等杂货店正受益于消费者减少餐馆规模。该行业还面临着最低工资上涨以及需要投资技术以降低成本和吸引客户的挑战。最终，当前环境下成功的关键在于拥抱数字化战略并适应不断变化的消费者行为。]]></description>
-      <guid>https://t.me/hn_summary/89106</guid>
-      <pubDate>Sat, 11 May 2024 23:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]东京熙熙攘攘的街道下面隐藏着一个古老的河流网络，曾经 [...]</title>
-      <link>https://t.me/hn_summary/89105</link>
-      <description><![CDATA[一座建在水上的城市：东京混凝土和霓虹灯下隐藏的河流
-在东京熙熙攘攘的街道下面，隐藏着一条古老的河流网络，它们曾经在这座城市的发展中发挥着至关重要的作用。从繁荣的渔村到繁华的大都市，水资源管理是东京发展的关键。然而，随着城市的现代化，水道被忽视和污染，导致东京人与曾经充满活力的河流之间脱节。随着 2020 年奥运会的临近，人们正在努力重新评估水在城市中的作用，包括计划增加水运选择和振兴滨水区。现在的挑战在于让公众重新了解他们被遗忘的水道。]]></description>
-      <guid>https://t.me/hn_summary/89105</guid>
-      <pubDate>Sat, 11 May 2024 23:13:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

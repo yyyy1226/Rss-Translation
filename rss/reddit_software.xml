@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 12 May 2024 01:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 03:21:10 GMT</lastBuildDate>
+    <item>
+      <title>当前最好的开源音频语音或视频配音翻译人工智能是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1cpyfyo/what_is_the_best_current_open_source_audio_speech/</link>
+      <description><![CDATA[我听说过 elevan labs 和其他 facebook 语音转语音翻译工具，但是有没有免费的开源 github 软件可以实现音频语音转语音或者使用ai进行视频配音翻译？   由   提交 /u/FiliusHades   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cpyfyo/what_is_the_best_current_open_source_audio_speech/</guid>
+      <pubDate>Sun, 12 May 2024 03:17:22 GMT</pubDate>
+    </item>
     <item>
       <title>创建/编辑单元格中包含长文本的表格的最佳工具是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cpw05s/what_is_the_best_tool_for_creating_editing_tables/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当麦克风音频在我的耳机中播放时，我该如何延迟？我正在尝试创建一个语音干扰器。我目前拥有的唯一 DAW 是 Cakewalk   由   提交 /u/ijustcantfeel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cp9d79/create_intentional_audio_delay/</guid>
       <pubDate>Sat, 11 May 2024 04:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个轻量级的 Windows 富文本编辑器，支持像 Notepad++ 这样的选项卡？</title>
-      <link>https://www.reddit.com/r/software/comments/1cp8v4m/a_lightweight_windows_rich_text_editor_that/</link>
-      <description><![CDATA[支持 Notepad++ 等选项卡的轻量级 Windows 富文本编辑器？    ;由   提交 /u/stoopidoMan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cp8v4m/a_lightweight_windows_rich_text_editor_that/</guid>
-      <pubDate>Sat, 11 May 2024 04:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
