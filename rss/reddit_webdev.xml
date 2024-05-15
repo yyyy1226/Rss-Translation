@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 09:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 12:37:46 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 API 来发送交易电子邮件可重用模板，该模板支持 Tailwind 和 JavaScript 以及 NextJS 和 Maizzle - 烘烤我的想法（链接第一条评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csjg9q/ive_made_an_api_to_send_transactionnal_emails/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Admirable_Proof8972   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csjg9q/ive_made_an_api_to_send_transactionnal_emails/</guid>
+      <pubDate>Wed, 15 May 2024 12:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webflow 站点地图 GSC 错误，需要帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</link>
+      <description><![CDATA[大家好！我的网站在 Google Search Console (GSC) 上面临双重打击。事情是这样的：  站点地图蓝调： 我的站点地图看起来非常健康。我通过验证器运行它，一切都检查完毕。然而，当我尝试将其上传到 GSC 时，我不断收到神秘的“常规 HTTP 错误”。 旧 URL 孤儿：我最近将我的域名从 GoDaddy 转移到了新的域名网站。问题？尽管已经过去一周了，那些来自上一个网站的令人讨厌的旧网址仍然在搜索结果中徘徊！  我已经尝试自己解决这两个问题，但我陷入了死胡同。希望这里有人能伸出援手！ 具体来说，我希望得到一些建议：  修复“常规 HTTP 错误”：我在 GSC 中的站点地图。 加快从搜索结果中删除那些顽固的旧网址。  任何见解或建议将不胜感激！  这是我的网站只读：Webflow - Al-Omran Building Materilas   由   提交/u/Historical-Motor8515   reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</guid>
+      <pubDate>Wed, 15 May 2024 12:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>在发布网站之前您会做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csj2ib/what_do_you_do_before_releasing_your_website/</link>
+      <description><![CDATA[我在过去几个月中开发了一个网站，并计划很快发布它。尽管我已经为另外两个网站做过这样的事情，但我在网络开发方面仍然非常缺乏经验。  现在我想知道在发布自己的网站之前绝对需要做什么。这可能是检查页面速度或法律要求... 在发布网站之前您会做什么？你有清单吗？   由   提交 /u/redditjannis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csj2ib/what_do_you_do_before_releasing_your_website/</guid>
+      <pubDate>Wed, 15 May 2024 12:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 UI/网页设计师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csit8g/uiweb_designer_needed/</link>
+      <description><![CDATA[虽然您不需要成为开发人员或策略师，但您应该对前端 Web 开发的核​​心原理有基本的了解，并且用户体验设计。您应该能够轻松地参加会议、表达想法以及与内部和外部利益相关者分享您的工作。虽然您可以在世界任何地方，但您必须能够按照东部时间晚上 9 点至 5 点的时间表重叠工作至少 5 小时。 您得到的： 您&#39;您将获得灵活的时间表、无限制的休假、有竞争力的薪水、利润分享奖金（从第二年开始）、可以在任何您想要的地方工作、个人发展预算以及所有美国联邦假期和多周休假。年底要充电。我们还将抵消您的全部碳足迹。如果您在美国，我们还提供健康保险、残疾和人寿保险以及 401(k) 匹配。 如何申请？ https://www.uxremotetalent.com/ux-job/remote-ui-web-designer   由   提交 /u/ismaruizdesign   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csit8g/uiweb_designer_needed/</guid>
+      <pubDate>Wed, 15 May 2024 11:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>很好的资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csibbg/a_good_resource/</link>
+      <description><![CDATA[我对这一切了解不多，但我决定在暑假学习 WebD，但我不知道该从哪里学学习我收到了一些人的建议： 1. Chai aur code 2. Code with Harry 3. Udemy 课程 我真的不知道哪一个是什么请帮我找到一个好的资源。谢谢    由   提交/u/Curiosity_144p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csibbg/a_good_resource/</guid>
+      <pubDate>Wed, 15 May 2024 11:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是如何开始编码的？您的母语是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csi5bn/how_did_you_start_coding_and_what_was_your_first/</link>
+      <description><![CDATA[我喜欢听人们如何进入编程领域。让我们沿着记忆的轨迹，分享我们的故事。我先走了。 我想，从 8 岁起，我就没有一天不看显示器。我一直对电脑很着迷，小时候经常生病。 。我经常接受注射，而且我害怕针头（就像所有孩子一样）。我爸爸找到了一种方法让我不那么脾气暴躁，当时我们没有互联网，每次我有机会我爸爸都会给我买一个电脑游戏。 当我 11 岁左右的时候，我发现了 Visual Basic 6，当时它是所有的炒作，所有很酷的孩子都用它制作愚蠢的小应用程序。我制作了一些简单的计算器之类的东西，当我 13 岁的时候，我为我玩的游戏制作了一个网络钓鱼应用程序。我更感兴趣的是看看我能用它愚弄多少人，而不是我窃取的账户。我用我的 Photoshop 技巧让它看起来超级真实，并将其发布到论坛上。大约一个月内，我的电子邮件中就有了 1500 个帐户。我登录并环顾四周，但从未偷过任何东西或更改任何密码，正如我所说，我对过程而不是结果更感兴趣。 在那之后我开始黑客攻击，我运行了一些 google dorks并破坏了一些易受攻击的网站。实际上，这更像是在主页上留下警告注释，而不是污损，我会说“您的网站容易受到攻击，请尽快修复”之类的内容。和东西。  幸运的是，这个阶段并没有持续很长时间，我终于意识到我更喜欢构建网站而不是破坏它们，并发现了一个令人惊叹的（当时）PHP 教程。然后是 html 和 css，以及对 Photoshop 和徽标设计的一些兴趣。快进 10 年，我仍然在制作网站，并且仍然热爱其中的每一分钟。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csi5bn/how_did_you_start_coding_and_what_was_your_first/</guid>
+      <pubDate>Wed, 15 May 2024 11:07:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>短信诈骗如何运作以及如何防范</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csi46m/how_sms_fraud_works_and_how_to_guard_against_it/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csi46m/how_sms_fraud_works_and_how_to_guard_against_it/</guid>
+      <pubDate>Wed, 15 May 2024 11:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管商关于域名的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cshvl0/question_about_the_domain_from_hostinger/</link>
+      <description><![CDATA[我想从托管商那里购买 1 年商业计划，它附带 1 年域名，我应该使用这个域名还是从 Porkbun 获取一个并且只使用Hostinger的主机服务？但这会花费我更多的钱。   由   提交/u/kod_32  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cshvl0/question_about_the_domain_from_hostinger/</guid>
+      <pubDate>Wed, 15 May 2024 10:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bulletproof React 刚刚更新！ - 一个简单、可扩展且功能强大的架构，用于构建生产就绪的 React 应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cshinh/bulletproof_react_just_got_updated_a_simple/</link>
+      <description><![CDATA[   /u/alan_alickovic  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cshinh/bulletproof_react_just_got_updated_a_simple/</guid>
+      <pubDate>Wed, 15 May 2024 10:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 步进值数学函数现已采用 Baseline 2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cshcdo/the_css_stepped_value_math_functions_are_now_in/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cshcdo/the_css_stepped_value_math_functions_are_now_in/</guid>
+      <pubDate>Wed, 15 May 2024 10:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站来创建知识聊天机器人，您可以在其中使用自己的 API 密钥</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csh3wy/i_made_a_website_to_create_knowledgechatbots/</link>
+      <description><![CDATA[ 由   提交 /u/Christian-Hoeller    Ghostly.chat/de&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csh3wy/i_made_a_website_to_create_knowledgechatbots/</guid>
+      <pubDate>Wed, 15 May 2024 10:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>您想使用带捕捉点的网站还是不带捕捉点的站点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1csgixr/would_you_like_to_use_a_site_with_snap_points_or/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好，我有我的作品集，是用 React 制作的，但是在意大利找工作很难，而且由于英语流利，我决定将其翻译成中文到英语并拥有多种语言，这样我就可以在其他地方寻找。 我查了一些有关该主题的内容，似乎 i18 是最常用的方式，但它不是一个很大的网站，所以我在考虑我自己用 JSON 文件来做。基本上有一个语言选择器，它使用上下文将用户选择的语言保存到全局状态，并导入组件的语言字符串。这是一个坏主意吗？ 而且我想如果我想将语言保存到会话中以防用户返回，那么我需要一个带有 cookie 的后端。这意味着饼干横幅吗？或者仅当您使用跟踪 cookie 时，这才是法律要求？   由   提交 /u/RyXkci   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csfvl2/translating_a_react_website/</guid>
       <pubDate>Wed, 15 May 2024 08:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我购买的域名被许多服务和防病毒软件标记。我有什么选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csfitm/a_domain_i_bought_is_flagged_by_many_services_and/</link>
-      <description><![CDATA[我购买了一个过去被用作诈骗网站的域名。我在购买几个月后才发现这一点，并且我注意到它一直存在问题。 我现在已经尝试了几个月，通过向防病毒软件（avast、norton、等等）、twitter 等等……只要保持干净和合法（笑）。 他们通常会很快解决问题，但几周后它又会再次出现。 &lt; p&gt;我最近购买了另一个域名并重复使用了该主机的电子邮件，新帐户也被标记了。 (?) 可能是与之前的域关联。 选项：  我唯一的选择是继续努力保持清洁并顺利进行吗？  还是我必须承担损失并购买新域名并重新开始？  &lt;!-- SC_ON - -&gt;  由   提交 /u/import-antigravity    reddit.com/r/webdev/comments/1csfitm/a_domain_i_bought_is_flaged_by_many_services_and/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csfitm/a_domain_i_bought_is_flagged_by_many_services_and/</guid>
-      <pubDate>Wed, 15 May 2024 08:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对中型网络和营销机构的 CRM 建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csewiq/crm_recommendations_for_medium_sized_web/</link>
-      <description><![CDATA[您好，我正在寻找有关我们的机构应选择 CRM 的建议。 我们并不是在寻找疯狂的高级功能，我们只是需要存储重要客户信息的集中位置。目前，我们有一个几年前构建的系统，但我们认为它不再值得维护，而且花在客户身上的时间比构建定制的内部工具更好。  关于我们 我们是一家拥有 15 名员工的机构，专门从事定制 Web 开发和营销。 我们的基本需求   存储客户信息 在客户端上存储自定义信息的选项 存储客户拥有的产品和协议 与客户的一般沟通  很高兴拥有  与任务管理紧密集成，取代我们当前的任务管理  预算  由于我们不需要高级 CRM，因此我们正在寻找具有以下功能的 CRM：入门价格低廉，可以满足我们的需求，但随着我们的发展，有可能实现更多功能。    由   提交/u/ClimateConcient275   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csewiq/crm_recommendations_for_medium_sized_web/</guid>
-      <pubDate>Wed, 15 May 2024 07:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发工具 UI 的 5 种基本设计模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cse5kl/5_essential_design_patterns_for_dev_tool_uis/</link>
-      <description><![CDATA[       由   提交/u/bogdanelcs  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cse5kl/5_essential_design_patterns_for_dev_tool_uis/</guid>
-      <pubDate>Wed, 15 May 2024 06:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>这2个文件真的创建了吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csdso7/are_these_2_files_really_created/</link>
-      <description><![CDATA[u/DigitalSplendid ➜ /workspaces/fin （主）$ 代码 test.txt u/DigitalSplendid ➜ /workspaces/fin （主）$ code rajeev  上述2个文件在fin目录下不可见：https://www.canva.com/design/DAGFRUlndiY/_oLeSoO_4i72U7XOybp85A/edit?utm_content=DAGFRUlndiY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csdso7/are_these_2_files_really_created/</guid>
-      <pubDate>Wed, 15 May 2024 05:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能让这种对齐不搞砸</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csdpe8/how_do_i_get_this_alignment_to_not_fuck_up/</link>
-      <description><![CDATA[嘿，很抱歉这个新手问题，只是在谷歌上搜索了一些东西，两天前学会了使用 html 制作一个网站 - 我用记事本写的 在我的页面顶部，我有一个由我叠加的文本字符组成的边框。在不同的设备上，对齐方式是完美的，但在某些设备上，与文本的其余部分相比，它在垂直方向上偏离了。我如何才能更好地对齐？我认为如果您“查看源代码”，您可以看到我的代码抱歉，但我不是编码员，所以我确定它不遵循既定标准： http://materiasecunda.com/    由   提交/u/dunayevskaya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csdpe8/how_do_i_get_this_alignment_to_not_fuck_up/</guid>
-      <pubDate>Wed, 15 May 2024 05:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个营销策略</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cschdw/need_a_marketing_strategy/</link>
-      <description><![CDATA[我开始从事自由职业。  我会打电话，但我还想要另一个渠道。  我的计划是：  制作一个 1-3 分钟的自我视频：我是谁，我做什么，是什么让我们与众不同等 在 Google 或 Twitter 等平台上投放广告  您建议我做什么？  编辑：我已经制作了我的网站。   由   提交 /u/Boxcer1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cschdw/need_a_marketing_strategy/</guid>
-      <pubDate>Wed, 15 May 2024 04:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>共享存储创新让Kafka再次伟大</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csbva7/innovation_in_shared_storage_makes_kafka_great/</link>
-      <description><![CDATA[   /u/wanshao  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csbva7/innovation_in_shared_storage_makes_kafka_great/</guid>
-      <pubDate>Wed, 15 May 2024 03:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>magento 2 是不是有点像定时炸弹？ （值得留下或移动的平台）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</link>
-      <description><![CDATA[您好 我有一个 magento 2 (2.2.7) 网站，需要投入大量资金将其升级到当前版本版本 (2.4.6)。 我有时听说 Magento 2 有点像定时炸弹，因为 Adob​​e 买下了它，而且他们只专注于 Adob​​e Commerce，这意味着 magento 2 最终可能无法使用或过度使用很难使用。  想听听关于 Magento 2 寿命的一些想法。 另外，有谁知道从 2.2.7 升级到 2.4.6 需要多少小时？ 谢谢！   由   提交 /u/Lucky-Pear-906   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</guid>
-      <pubDate>Wed, 15 May 2024 00:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何知道我的网站是否被 ISP 屏蔽？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</link>
-      <description><![CDATA[我正在运行一个托管在 GCP 云存储上的网站。尽管 99% 的用户从未遇到过问题，但一小部分用户偶尔会在访问该网站时遇到问题，我总是最终将其追溯到他们的 ISP。  我的主要问题是：是否有任何工具可以帮助我检查所有（或最常见的）ISP，看看是否有其他人阻止了我的网站？ 此外，是我还能做些什么来防止我的网站被屏蔽吗？该网站不是恶意的，每次我都会直接联系 ISP。他们说这是一个错误并纠正了它。但如果可能的话，我只是想尝试解决这个问题。 谢谢！   由   提交 /u/Unappreciable   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</guid>
-      <pubDate>Wed, 15 May 2024 00:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您何时、为何或是否关心网络开发对气候的影响？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs7laa/when_why_or_do_you_even_care_about_the_climate/</link>
-      <description><![CDATA[我在浏览 starlight 文档时发现了一个关于框架对环境影响的部分：https://starlight.astro.build/environmental-impact/ 这让我很惊讶，因为我从来没有想过这个，我的意思是，为什么拥有 0 个用户的应用程序需要关心环境吗？ 那么，我们或公司实际上是否应该关心应用程序/网站对环境的影响？或者我们只是让 Google、AWS、Cloudflare 和其他提供商完成他们的工作，以防止我们的 0 用户网站因能源消耗而毁掉地球。   由   提交 /u/NeoCiber   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs7laa/when_why_or_do_you_even_care_about_the_climate/</guid>
-      <pubDate>Wed, 15 May 2024 00:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>倾斜 ::before 伪元素过渡期间 1px 边缘伪影的解决方法/破解？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs6uaf/workaroundhack_for_1px_edge_artifacts_during/</link>
-      <description><![CDATA[Suppppp 书呆子们。 我正在尝试倾斜的网格布局，子卡组件会转换为 悬停时不倾斜。实际的动画运行得很好，但在 Firefox 和 Chrome 上（没有 Mac 或 BrowserStack 来测试 Safari），在转换过程中会出现轻微的伪影。 子卡组件倾斜网格的 ::before 带有半透明颜色叠加层，开始时完全透明。将鼠标悬停在卡片上时，::before 会在某些文本动画进入视图之前从不可见变为可见。同样，这一切都工作得很好，但在过渡期间，右下边缘周围有大约 1px，其中 ::before 的颜色叠加没有“覆盖”，因此在白卡上，它似乎有 1px 白色右侧和底部边缘的边框。转换完成后就会消失。 可能只是要切换转换动画的顺序，以便颜色叠加发生在转换之后以避免出现问题，但仍然会出现很想知道是否有人有任何想法。已经尝试过一些较旧的“-webkit-backface-visibility：hidden;”和“outline：1px Solid transparent;”黑客，以及“will-change”，但无济于事。 &lt;！ -- SC_ON --&gt;  由   提交/u/tetractys_gnosys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs6uaf/workaroundhack_for_1px_edge_artifacts_during/</guid>
-      <pubDate>Tue, 14 May 2024 23:45:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
