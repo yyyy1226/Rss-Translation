@@ -4,18 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 01:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:24:43 GMT</lastBuildDate>
+    <item>
+      <title>刚刚作为元实习生第一次推动！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csb04d/just_made_my_first_push_as_a_meta_intern/</link>
+      <description><![CDATA[超级兴奋；改变了一些小事情，但应该没什么大不了的。    由   提交/u/seasaltsaves  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csb04d/just_made_my_first_push_as_a_meta_intern/</guid>
+      <pubDate>Wed, 15 May 2024 03:11:47 GMT</pubDate>
+    </item>
     <item>
       <title>magento 2 是不是有点像定时炸弹？ （值得留下或移动的平台）</title>
       <link>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</link>
-      <description><![CDATA[您好 我有一个 magento 2 (2.2.7) 网站，需要投入大量资金将其升级到当前版本版本 (2.4.6)。 我有时听说 Magento 2 有点像定时炸弹，因为 Adob​​e 收购了它，而且他们只专注于 Adob​​e Commerce，这意味着 magento 2 最终可能无法使用或过度使用很难使用。  想听听关于 Magento 2 寿命的一些想法。 另外，有谁知道从 2.2.7 升级到 2.4.6 需要多少小时？ 谢谢！   由   提交 /u/Lucky-Pear-906   [链接] [评论]]]></description>
+      <description><![CDATA[您好 我有一个 magento 2 (2.2.7) 网站，需要投入大量资金将其升级到当前版本版本 (2.4.6)。 我有时听说 Magento 2 有点像定时炸弹，因为 Adob​​e 买下了它，而且他们只专注于 Adob​​e Commerce，这意味着 magento 2 最终可能无法使用或过度使用很难使用。  想听听关于 Magento 2 寿命的一些想法。 另外，有谁知道从 2.2.7 升级到 2.4.6 需要多少小时？ 谢谢！   由   提交 /u/Lucky-Pear-906   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</guid>
       <pubDate>Wed, 15 May 2024 00:57:42 GMT</pubDate>
     </item>
     <item>
       <title>如何知道我的网站是否被 ISP 屏蔽？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</link>
-      <description><![CDATA[我正在运行一个托管在 GCP 云存储上的网站。尽管 99% 的用户从未遇到过问题，但一小部分用户偶尔会在访问该网站时遇到问题，我总是最终将其追溯到他们的 ISP。  我的主要问题是：是否有任何工具可以帮助我检查所有（或最常见的）ISP，看看是否有其他人阻止了我的网站？ 此外，是我还可以采取其他措施来防止我的网站被屏蔽吗？该网站不是恶意的，每次我都会直接联系 ISP。他们说这是一个错误并纠正了它。但如果可能的话，我只是想尝试解决这个问题。 谢谢！   由   提交 /u/Unappreciable   [链接] [评论]]]></description>
+      <description><![CDATA[我正在运行一个托管在 GCP 云存储上的网站。尽管 99% 的用户从未遇到过问题，但一小部分用户偶尔会在访问该网站时遇到问题，我总是最终将其追溯到他们的 ISP。  我的主要问题是：是否有任何工具可以帮助我检查所有（或最常见的）ISP，看看是否有其他人阻止了我的网站？ 此外，是我还能做些什么来防止我的网站被屏蔽吗？该网站不是恶意的，每次我都会直接联系 ISP。他们说这是一个错误并纠正了它。但如果可能的话，我只是想尝试解决这个问题。 谢谢！   由   提交 /u/Unappreciable   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</guid>
       <pubDate>Wed, 15 May 2024 00:52:52 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>我怎样才能创建一个像这样的简单测验？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cs6o51/how_can_i_create_a_simple_quiz_like_this/</link>
-      <description><![CDATA[我是一名与慈善机构合作的设计师和内容创作者。我想提出一个简单的在线测验，如下所示：https://campaign.refuge.org.uk /page/145184/-/1  测验从几个问题开始，然后要求您注册他们的邮件列表，最后给出结果并询问您是否愿意捐。您也可以轻松跳过这些步骤，只查看结果。 我不知道从哪里开始。我追踪到了 Engaging Networks 软件（如果你从 URL 中删除 page/145184/-/1，它就会带你到那里），但看起来他们的套餐起价为每年 18k 美元。我很乐意以更便宜的价格完成这件事，同时也尽我所能。  有人知道提供此类解决方案的软件吗？如果不是的话，这需要什么知识呢？如果你是一名开发人员，你会为这样的事情收取多少费用？    由   提交 /u/theymademedoitagain   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名与慈善机构合作的设计师和内容创作者。我想提出一个简单的在线测验，如下所示：https://campaign.refuge.org.uk /page/145184/-/1  测验从几个问题开始，然后要求您注册他们的邮件列表，最后给出结果并询问您是否愿意捐。您也可以轻松跳过这些步骤，只查看结果。 我不知道从哪里开始。我追踪到了 Engaging Networks 软件（如果你从 URL 中删除 page/145184/-/1，它就会带你到那里），但看起来他们的套餐起价为每年 18k 美元。我很乐意以更便宜的价格完成这项工作，同时也尽我所能。  有人知道提供此类解决方案的软件吗？如果不是的话，这需要什么知识呢？如果你是一名开发人员，你会为这样的事情收取多少费用？    由   提交 /u/theymademedoitagain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs6o51/how_can_i_create_a_simple_quiz_like_this/</guid>
       <pubDate>Tue, 14 May 2024 23:37:39 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>图像/docx 字段输入。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cs6cg8/imagedocx_field_input/</link>
-      <description><![CDATA[大家好。我只是再次需要您的专家意见。我被要求在数据提交中添加一项新功能。现有功能允许用户输入 10 多个字段，所有这些字段都是基于文本的。现在，我们本周讨论的新功能涉及每次提交时提交扫描副本，每次提交可能包含大约 5-10 个以上文件。我认为限制文件大小是可行的，按照我们 IT 管理员的建议，每条记录大约 25mb。我担心的是：  上传速度（我们使用的是Linux服务器）我之前在上传阶段遇到过卡住，导致提交失败的情况。 图像/文件字段在表单中的位置。由于现有字段覆盖整个模式，该表格已经很长。如果添加更多图像/文件字段，可能会让人不知所措。 上传仍将其与特定记录相关联的文件的替代方法。但扫描副本的存储可能有所不同，例如云存储。我不确定这是否可行，或者是否太复杂。  任何建议或想法将不胜感激。我是唯一一个参与这个项目的人，所以我真的需要你的帮助。谢谢大家！   由   提交/u/_jettywessy  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我只是再次需要您的专家意见。我被要求在数据提交中添加一项新功能。现有功能允许用户输入 10 多个字段，所有这些字段都是基于文本的。现在，我们本周讨论的新功能涉及每次提交时提交扫描副本，每次提交可能会包含大约 5-10 个以上文件。我认为限制文件大小是可行的，按照我们 IT 管理员的建议，每条记录大约 25mb。我担心的是：  上传速度（我们使用的是Linux服务器）我之前在上传阶段遇到过卡住，导致提交失败的情况。 图像/文件字段在表单中的位置。由于现有字段覆盖整个模式，该表格已经很长。如果添加更多图像/文件字段，可能会让人不知所措。 上传仍将其与特定记录关联的文件的替代方法。但扫描副本的存储可能有所不同，例如云存储。我不确定这是否可行，或者是否太复杂。  任何建议或想法将不胜感激。我是唯一一个参与这个项目的人，所以我真的需要你的帮助。谢谢大家！   由   提交/u/_jettywessy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs6cg8/imagedocx_field_input/</guid>
       <pubDate>Tue, 14 May 2024 23:22:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由   提交/u/ercanvas  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs3tfm/suggests/</guid>
       <pubDate>Tue, 14 May 2024 21:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 RUM Archive 和 RUMvision 的基线集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs3sj1/baseline_integration_with_rum_archive_and/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs3sj1/baseline_integration_with_rum_archive_and/</guid>
-      <pubDate>Tue, 14 May 2024 21:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
