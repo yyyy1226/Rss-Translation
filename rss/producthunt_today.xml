@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 May 2024 03:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 06:23:36 GMT</lastBuildDate>
     <item>
       <title>米特拉分析</title>
       <link>https://www.producthunt.com/posts/miitra-analytics</link>
@@ -51,12 +51,12 @@
       <title>赞助.so</title>
       <link>https://www.producthunt.com/posts/sponsorship-so</link>
       <description><![CDATA[
-            使用我们的 YouTube 研究工具为您赢得下一次赞助
-          
+使用我们的 YouTube 研究工具获得您的下一个赞助
 
-讨论&lt; /a&gt;
-            |
-            链接
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/sponsorship-so</guid>
       <pubDate>Wed, 15 May 2024 01:23:26 GMT</pubDate>
@@ -132,6 +132,20 @@
       <pubDate>Tue, 14 May 2024 20:01:26 GMT</pubDate>
     </item>
     <item>
+      <title>Jovu 扩增</title>
+      <link>https://www.producthunt.com/posts/jovu-by-amplication</link>
+      <description><![CDATA[
+            唯一可投入生产的人工智能代码生成
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jovu-by-amplication</guid>
+      <pubDate>Tue, 14 May 2024 18:08:21 GMT</pubDate>
+    </item>
+    <item>
       <title>积木</title>
       <link>https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1</link>
       <description><![CDATA[
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1</guid>
       <pubDate>Tue, 14 May 2024 14:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中间件</title>
-      <link>https://www.producthunt.com/posts/middleware-2</link>
-      <description><![CDATA[
-            软件工程团队的开源 DORA 指标
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/middleware-2</guid>
-      <pubDate>Fri, 10 May 2024 16:17:28 GMT</pubDate>
     </item>
     <item>
       <title>点按扫描仪</title>
@@ -177,12 +177,12 @@
       <title>视频转页</title>
       <link>https://www.producthunt.com/posts/videotopage</link>
       <description><![CDATA[
-            立即总结并重新利用任何视频或音频
-          
+立即总结并重新利用任何视频或音频
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/videotopage</guid>
       <pubDate>Thu, 09 May 2024 21:41:09 GMT</pubDate>
