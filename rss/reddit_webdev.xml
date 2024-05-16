@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 16 May 2024 01:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 03:24:01 GMT</lastBuildDate>
+    <item>
+      <title>您需要多少台显示器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ct2rbm/how_many_monitor_you_need/</link>
+      <description><![CDATA[我是后端开发人员。我的办公桌上有两台 27 英寸（全高清）显示器。  主显示器：IDE + Copilot Chat 第二显示器：Postman + 浏览器（查看 api 文档） 我想我需要另一个显示器来查看项目文档和可能是 GitHub。  您使用了多少台显示器以及如何使用它们？   由   提交 /u/Vegetable_Carrot_873   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ct2rbm/how_many_monitor_you_need/</guid>
+      <pubDate>Thu, 16 May 2024 02:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人项目的前端框架。无意成为前端开发者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ct1ami/frontend_frameworks_for_personal_projects_no/</link>
+      <description><![CDATA[我目前是一名数据工程师，我正在慢慢学习前端开发，因为我计划构建一两个 Web 应用程序只是为了好玩。  假设我永远不想成为前端开发人员，React 仍然是最好的前端框架吗？  或者如果你处于我的情况，你会选择 Vue 还是 Svelte &amp;苗条套件？  请尽可能详细地说明您的选择，提前致谢！    由   提交/u/khaili109  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ct1ami/frontend_frameworks_for_personal_projects_no/</guid>
+      <pubDate>Thu, 16 May 2024 01:24:14 GMT</pubDate>
+    </item>
     <item>
       <title>使 flex-grow div 在溢出时滚动的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ct0y7k/what_is_the_best_way_to_make_a_flexgrow_div/</link>
-      <description><![CDATA[详细说明，我有一个基本网页，包含在具有 h-screen (100vh) 的根 Flex 容器中。有几个嵌套的 div，其中大多数使用 flex-grow 自动填充剩余空间。 在这些嵌套 div 之一 (id=&quot;itemsList&quot;) 中，我有一个项目列表（编号可以变化）。所需的行为是这些项目正常渲染，直到达到视口溢出且窗口变得可滚动的程度。那时，我希望 itemsList 变得可滚动。我认为将其设置为“h-full Overflow-auto”可以可以解决这个问题，但运气不好。 我创建了一个示例： https://play.tai​​lwindcss .com/g2Yp9OsBgg 基本上，我怎样才能使带有绿色和蓝色矩形的容器变得可滚动，以便窗口永远不会溢出（就像示例中所做的那样）？  谢谢！   由   提交 /u/MajorLeagueGMoney   [链接] [评论]]]></description>
+      <description><![CDATA[详细说明，我有一个基本网页，包含在具有 h-screen (100vh) 的根 Flex 容器中。有几个嵌套的 div，其中大多数使用 flex-grow 自动填充剩余空间。 在这些嵌套的 div 之一（id=“itemsList”）中，我有一个项目列表（编号可以变化）。所需的行为是这些项目正常渲染，直到达到视口溢出并且窗口变得可滚动的程度。那时，我希望 itemsList 变得可滚动。我认为将其设置为“h-full Overflow-auto”可以可以解决这个问题，但运气不好。 我创建了一个示例： https://play.tai​​lwindcss .com/g2Yp9OsBgg 基本上，我怎样才能使带有绿色和蓝色矩形的容器变得可滚动，以便窗口永远不会溢出（就像示例中所做的那样）？  谢谢！   由   提交 /u/MajorLeagueGMoney   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ct0y7k/what_is_the_best_way_to_make_a_flexgrow_div/</guid>
       <pubDate>Thu, 16 May 2024 01:05:59 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>您认为我可以通过我的网络应用程序获利吗？这是一个电子商务应用程序，有一个管理仪表板</title>
       <link>https://www.reddit.com/r/webdev/comments/1cszhfc/do_you_think_i_can_monetize_my_web_application_it/</link>
-      <description><![CDATA[      我最初构建的供某人使用，以便他们将其用于他们的商业产品。我只是想知道我是否可以通过这个赚钱？同样，我想到创建一个注册表单，然后在使用他们的名字或输入的任何内容注册后，它会创建一个动态路径 这就是网站的样子：  （它全部功能齐全，并使用 next.js、shadcnUI 和 supabase 构建） 主页 管理仪表板 您认为我可以通过此货币化吗？可以按月订阅吗？这是我第一次创建这样的项目，这让我觉得我可以添加付款，并且很高兴收到您对我想要采取的方法的想法和提示。   由   提交/u/macato  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我最初构建的供某人使用，以便他们将其用于他们的商业产品。我只是想知道我是否可以通过这个赚钱？同样，我想到创建一个注册表单，然后在使用他们的名字或输入的任何内容注册后，它会创建一个动态路径 这就是网站的样子：  （它功能齐全，并使用 next.js、shadcnUI 和 supabase 构建） 首页 管理仪表板 您认为我可以通过此货币化吗？可以按月订阅吗？这是我第一次创建这样的项目，这让我觉得我可以添加付款，并且很高兴收到您对我想要采取的方法的想法和提示。   由   提交/u/macato  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cszhfc/do_you_think_i_can_monetize_my_web_application_it/</guid>
       <pubDate>Wed, 15 May 2024 23:51:48 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Wed, 15 May 2024 23:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>还有人觉得自己为了同样多的钱而更加努力地工作吗？</title>
+      <title>还有人觉得他们为了同样多的钱而更加努力地工作吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1csypkn/anyone_else_feel_like_theyre_working_harder_for/</link>
       <description><![CDATA[我是前端开发人员和内容经理。尽管远程工作选项很棒，但我觉得在相同的工资下我的工作量是原来的三倍。更多的电子表格、基于更复杂的 CMS 的可视化页面构建器以及整体更高的工作量。 除此之外，我已经好几个月没有工作了，因为我拒绝了一些事情这低于我平时的速度。我对重返工作岗位并不感到兴奋。 还有其他人吗？   由   提交/u/christina______   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csypkn/anyone_else_feel_like_theyre_working_harder_for/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>对如何实施 SSO 感到困惑</title>
       <link>https://www.reddit.com/r/webdev/comments/1csyoge/confused_on_how_to_implement_sso/</link>
-      <description><![CDATA[我有一个具有单独前端和后端的应用程序。虽然我想让用户通过 Microsoft 进行身份验证，但一旦完成，我希望在后端为他们生成自己的 JWT，因为还有与我的应用程序相关的其他信息需要包含在我的前端在 A 上收到的 JWT 中。成功登录。 我很难理解的是如何让用户从前端开始，通过 MS 进行身份验证，然后让后端为他们生成一个新令牌并将其返回给前端，所有这些只需单击一下即可。 我目前非常接近，但还没有完全实现。我从前端重定向到处理 MS SSO 的后端端点/视图，当成功时，它会重定向到另一个后端端点，我在其中生成可通过 API 调用使用的令牌。我只是不确定如何执行最后一步，将令牌返回到我的前端。   由   提交/u/freew1ll_   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个具有单独前端和后端的应用程序。虽然我想让用户通过 Microsoft 进行身份验证，但完成后我希望在后端为他们生成自己的 JWT，因为还有与我的应用程序相关的其他信息需要包含在我的前端在 A 上收到的 JWT 中。成功登录。 我很难理解的是如何让用户从前端开始，通过 MS 进行身份验证，然后让后端为他们生成一个新令牌并将其返回给前端，所有这些只需单击一下即可。 我目前非常接近，但还没有完全实现。我从前端重定向到处理 MS SSO 的后端端点/视图，当成功时，它会重定向到另一个后端端点，我在其中生成可通过 API 调用使用的令牌。我只是不确定如何执行最后一步，将令牌返回到我的前端。   由   提交/u/freew1ll_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csyoge/confused_on_how_to_implement_sso/</guid>
       <pubDate>Wed, 15 May 2024 23:13:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[学习 MERN 堆栈时有哪些有用的资源？ （希望获得一些关于这个领域的新原因的指导）可能有关于 udemy 的好的课程吗？   由   提交/u/PhilosopherOk6920   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cswb6q/help_required/</guid>
       <pubDate>Wed, 15 May 2024 21:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些按钮可以在 css 中使用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csw3bn/is_these_buttons_doable_in_css/</link>
-      <description><![CDATA[      我尝试在 css 中制作这些按钮，但我做不到，我开始这样做认为它不能用 css 制作。    由   提交 /u/lorens_osman   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csw3bn/is_these_buttons_doable_in_css/</guid>
-      <pubDate>Wed, 15 May 2024 21:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为前端组件应该如何测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csvss7/how_do_you_think_frontend_components_should_be/</link>
-      <description><![CDATA[我总有一种感觉，在为前端组件创建单元测试时，如果它们有复杂的行为，那么测试这种行为通常是有效的在单元测试中。另一方面，当他们有一个简单的行为时，我的大多数测试只是变成“确保标题呈现”或类似的东西（实际上什么都不测试，因为如果如果它不是为了渲染）。 现在，我真的很喜欢对组件内部的复杂行为进行单元测试的方法，以及与 playwright 或 cypress 进行 E2E 测试以确保一切正常工作的方法，但是，我脑子里仍然有一个声音说我应该对每种情况下的所有内容进行单元测试（即使只是“确保标题呈现”）。 如何做你认为测试应该适用于前端的东西吗？你甚至测试过它吗？期待阅读您对此的看法。   由   提交 /u/llxd11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csvss7/how_do_you_think_frontend_components_should_be/</guid>
-      <pubDate>Wed, 15 May 2024 21:06:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
