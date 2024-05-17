@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 01:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 03:22:08 GMT</lastBuildDate>
     <item>
       <title>皮基莫夫</title>
       <link>https://www.producthunt.com/posts/pikimov</link>
@@ -37,7 +37,7 @@
       <title>流口水街机</title>
       <link>https://www.producthunt.com/posts/drooler-arcade</link>
       <description><![CDATA[
-            支付、玩并赢取运动卡和盒子或灰尘
+            支付、玩并赢取运动卡和盒子，或者灰尘！
           
 
 讨论&lt; /a&gt;
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/drooler-arcade</guid>
       <pubDate>Thu, 16 May 2024 06:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户呼叫</title>
-      <link>https://www.producthunt.com/posts/usercall</link>
-      <description><![CDATA[
-            AI语音用户访谈
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/usercall</guid>
-      <pubDate>Thu, 16 May 2024 00:46:01 GMT</pubDate>
     </item>
     <item>
       <title>刺猬</title>
@@ -93,7 +79,7 @@
       <title>普林基</title>
       <link>https://www.producthunt.com/posts/plinky</link>
       <description><![CDATA[
-            轻松保存链接，供稍后使用
+            轻松保存链接，稍后享用
           
 
 讨论
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/plinky</guid>
       <pubDate>Wed, 15 May 2024 15:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>固定</title>
+      <link>https://www.producthunt.com/posts/pinning</link>
+      <description><![CDATA[
+            与日历集成的强大倒计时应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pinning</guid>
+      <pubDate>Wed, 15 May 2024 04:56:52 GMT</pubDate>
     </item>
     <item>
       <title>收获（测试版）</title>
@@ -188,7 +188,7 @@
       <pubDate>Mon, 22 Apr 2024 16:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>边缘增量</title>
+      <title>边缘三角洲</title>
       <link>https://www.producthunt.com/posts/edge-delta</link>
       <description><![CDATA[
             AI 驱动的可观测性，每 GB 0.20 美元
