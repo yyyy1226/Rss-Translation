@@ -4,11 +4,32 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 17 May 2024 03:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 06:26:10 GMT</lastBuildDate>
+    <item>
+      <title>KCL 时事通讯 |社区驱动的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctxu3k/kcl_newsletter_a_community_driven_programming/</link>
+      <description><![CDATA[  由    /u/Peefy-  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctxu3k/kcl_newsletter_a_community_driven_programming/</guid>
+      <pubDate>Fri, 17 May 2024 05:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL 现在已经是 50 了！查询语言之后会发生什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctwkyn/sql_is_now_50_what_is_coming_next_to_the_query/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctwkyn/sql_is_now_50_what_is_coming_next_to_the_query/</guid>
+      <pubDate>Fri, 17 May 2024 04:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士和大数据通过 SQL 矢量数据库提高检索准确性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctvwc5/llms_and_big_data_through_sql_vector_database_for/</link>
+      <description><![CDATA[ 由   提交/u/No_Froyo_1059   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctvwc5/llms_and_big_data_through_sql_vector_database_for/</guid>
+      <pubDate>Fri, 17 May 2024 03:41:05 GMT</pubDate>
+    </item>
     <item>
       <title>NetBSD 禁止所有人工智能生成代码的提交</title>
       <link>https://www.reddit.com/r/programming/comments/1ctvfh9/netbsd_bans_all_commits_of_aigenerated_code/</link>
-      <description><![CDATA[ 由   提交/u/pyeri  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/pyeri  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctvfh9/netbsd_bans_all_commits_of_aigenerated_code/</guid>
       <pubDate>Fri, 17 May 2024 03:15:19 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>使用 NextJS 和 Wing 构建您自己的 ChatGPT 图形客户端</title>
       <link>https://www.reddit.com/r/programming/comments/1ctkvbx/building_your_own_chatgpt_graphical_client_with/</link>
-      <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/nate4t  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctkvbx/building_your_own_chatgpt_graphical_client_with/</guid>
       <pubDate>Thu, 16 May 2024 19:07:07 GMT</pubDate>
     </item>
@@ -76,39 +97,18 @@
       <pubDate>Thu, 16 May 2024 18:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>P NP 问题声称已解决</title>
+      <title>P NP 声称已解决的问题</title>
       <link>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</link>
       <description><![CDATA[中国天工大学的一名高年级学生声称他证明了P=NP。这是他在arxiv上的文章。 The Annual Journal of Mathematics正在审稿。使用的代码在百度网盘pan.baidu.com/wap/init?surl=…（密码：91re）    由   提交/u/Summer-Worm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</guid>
       <pubDate>Thu, 16 May 2024 17:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>Go 在动态语言 Rye 中的并发性</title>
+      <title>Go 的动态语言 Rye 中的并发</title>
       <link>https://www.reddit.com/r/programming/comments/1cth1ih/gos_concurrency_in_a_dynamic_language_rye/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cth1ih/gos_concurrency_in_a_dynamic_language_rye/</guid>
       <pubDate>Thu, 16 May 2024 16:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 StringScanner 的快速分词器</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctgzaj/fast_tokenizers_with_stringscanner/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctgzaj/fast_tokenizers_with_stringscanner/</guid>
-      <pubDate>Thu, 16 May 2024 16:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>终端状态</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctgz3s/state_of_the_terminal/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctgz3s/state_of_the_terminal/</guid>
-      <pubDate>Thu, 16 May 2024 16:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parseback：LuaJIT 的 FFI ctype 对象的纯 Lua 自省库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctgz1l/parseback_a_purelua_introspection_library_for/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctgz1l/parseback_a_purelua_introspection_library_for/</guid>
-      <pubDate>Thu, 16 May 2024 16:26:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

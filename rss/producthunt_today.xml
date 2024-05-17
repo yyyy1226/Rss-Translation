@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 03:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 06:26:37 GMT</lastBuildDate>
     <item>
       <title>皮基莫夫</title>
       <link>https://www.producthunt.com/posts/pikimov</link>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/drooler-arcade</guid>
       <pubDate>Thu, 16 May 2024 06:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户呼叫</title>
+      <link>https://www.producthunt.com/posts/usercall</link>
+      <description><![CDATA[
+AI语音用户访谈 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/usercall</guid>
+      <pubDate>Thu, 16 May 2024 00:46:01 GMT</pubDate>
     </item>
     <item>
       <title>刺猬</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/oliv-2</guid>
       <pubDate>Mon, 22 Apr 2024 16:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>边缘三角洲</title>
-      <link>https://www.producthunt.com/posts/edge-delta</link>
-      <description><![CDATA[
-            AI 驱动的可观测性，每 GB 0.20 美元
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/edge-delta</guid>
-      <pubDate>Wed, 10 Apr 2024 18:20:24 GMT</pubDate>
     </item>
     <item>
       <title>Scalenut 的 AI 链接管理器</title>
