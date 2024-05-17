@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 17 May 2024 09:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 12:35:04 GMT</lastBuildDate>
+    <item>
+      <title>跟踪波形问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</link>
+      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但它就在这里。我刚刚下载了 Tracktion Waveform 并且是第一次使用。我是一个完全的初学者，我一直在试图弄清楚为什么它不允许我从左侧延伸剪辑。为了描述我正在尝试做的事情，我正在尝试扩展第一张图像，以便边缘与第 4 条齐平，并且我知道剪辑的开头有一些空间来允许这样做（如图 2 所示） ）但我尝试过的一切都没有奏效。大多数教程视频都说只需按住 Alt 并从角落的三角形拖动即可，但这不适用于左侧的此剪辑。我已取消选中自动速度选项，因为这似乎不允许进行操作。对于一个完全的初学者来说，任何帮助都是值得的。   由   提交/u/deanofcool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</guid>
+      <pubDate>Fri, 17 May 2024 09:38:18 GMT</pubDate>
+    </item>
     <item>
       <title>用于考试的交互式视频软件</title>
       <link>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</link>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 16 May 2024 20:39:46 GMT</pubDate>
     </item>
     <item>
-      <title>Numla HR 的 AWOL 流程 | 休假应用程序</title>
+      <title>Numla HR 擅离职守流程 |休假应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1ctkrku/numla_hrs_awol_process_time_off_app/</link>
-      <description><![CDATA[ 由   提交/u/waqararif  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/waqararif  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctkrku/numla_hrs_awol_process_time_off_app/</guid>
       <pubDate>Thu, 16 May 2024 19:02:59 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>用于视频的 PhotoPea？</title>
       <link>https://www.reddit.com/r/software/comments/1ctgub4/a_photopea_for_videos/</link>
-      <description><![CDATA[ 由   提交/u/-t8Q  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/-t8Q  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctgub4/a_photopea_for_videos/</guid>
       <pubDate>Thu, 16 May 2024 16:20:43 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Thu, 16 May 2024 13:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>桌面软件可自动将文档照片拉直并更正为扫描件</title>
+      <title>桌面软件可自动将文档照片拉直并校正为扫描件</title>
       <link>https://www.reddit.com/r/software/comments/1ctbegy/desktop_software_to_autostraighten_and_correct/</link>
       <description><![CDATA[我需要的是一个 Windows 应用程序，当输入文档的照片时，它可以自动找到页面的边缘，将其拉直，透视-如果需要的话进行更正，删除深色阴影，基本上让它看起来就像是被扫描过的一样。 我对此所做的每次搜索都会将我发送到CamScanner，它的速度非常慢，甚至无法工作适合我（它使图片变亮，但不会使它们变直），或者我特别不想处理的任何数量的移动应用程序，因为我的工作全部在桌面上进行。 我确实不需要需要对结果页面进行 OCR 处理。 Linux 软件也可以工作。 我没有 MacOS 设备，所以这是不可能的。   由   提交 /u/IronMew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctbegy/desktop_software_to_autostraighten_and_correct/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>如何仅使用命令行获取音频输入和视频输入并将它们混合在一起？</title>
       <link>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</link>
-      <description><![CDATA[大家好，新来的。 我收到了这个非常长的视频，我什至无法在视频编辑器中打开它已经有了，我也有那个视频的音频。它们匹配得很好而且很容易。 问题是我可以使用什么库或程序或其他任何东西来组合这些输入并获得视频文件的单个输出以及我选择作为参数的音频？谢谢   由   提交/u/c0deLikeAPro   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是新来的。 我有一个很长的视频，我甚至无法在我拥有的视频编辑器中打开它，而且我还有该视频的音频。它们匹配起来很容易。 问题是我可以使用什么库或程序或其他什么来组合这些输入并获得带有我选择作为参数的音频的视频文件的单个输出？谢谢    提交人    /u/c0deLikeAPro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</guid>
       <pubDate>Thu, 16 May 2024 11:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 阅读器可以像网络浏览器一样浏览大文件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</link>
-      <description><![CDATA[我有一本巨大的教科书，内容中有超文本链接。我想要的是将内容页面固定在单独的选项卡中，然后“在新选项卡中”打开同一文件的某些主题。不然找一些资料的时候来来回回很烦人。你知道有什么可以像这样工作吗？   由   提交 /u/Pipettess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</guid>
-      <pubDate>Thu, 16 May 2024 10:36:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
