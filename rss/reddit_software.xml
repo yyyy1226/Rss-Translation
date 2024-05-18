@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 May 2024 03:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 06:24:28 GMT</lastBuildDate>
+    <item>
+      <title>寻找库存管理/维修软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</link>
+      <description><![CDATA[我正在寻找一款软件，我的公司可以在我们的仓库中使用它，不仅可以进行库存管理，还可以在整个过程中跟踪维修情况。目前，我们使用 Monday.com 和 Excel 工作表，将条形码扫描到 Excel 工作表中，然后将该 Excel 工作表上传到 Monday 以跟踪整个修复过程。寻找既可以保持 Monday.com 集成，又可以与我们的条形码扫描系统配合使用的选项。我们的流程如下所示：  将一箱物品（每箱最多 10 件）带入仓库（有时来自不同的供应商，有时来自我们的姊妹仓库，有时来自公司）  （进入仓库的物品需要进行扫描）  箱子被发送到组装/拆卸部门，在那里物品被拆卸并发送碎片发送给维修部门 维修部门将维修件发送回装配部门 装配部门扫描物品的条形码，以便创建一个主标签，并发送给运输团队出发  我研究过 Odoo，但不确定它的跨部门功能。    由   提交 /u/goliathinteractive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</guid>
+      <pubDate>Sat, 18 May 2024 05:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>电脑显示器问题</title>
       <link>https://www.reddit.com/r/software/comments/1cun5i4/computer_monitor_question/</link>
@@ -29,28 +36,28 @@
     <item>
       <title>希望这是正确的地方 - 寻找特定的功能/程序来帮助自动化流程（Windows）</title>
       <link>https://www.reddit.com/r/software/comments/1cuklio/hope_this_is_the_right_place_looking_for_a/</link>
-      <description><![CDATA[从事一个充满激情的工作项目，需要一个能够帮助我完成以下任务的程序。 在我的角色中，我需要从某人那里收集信息并填写模板 A。在与此人进行更多交互的某个时刻，我可能需要完成模板 B、C、D、E，以便发送某些电子邮件、作业、通信、说明等所有剩余的模板都是根据模板 A 中已收集的信息构建的。我正在寻找一个程序，该程序可以从模板 A 中获取特定字段，并将它们应用到需要的剩余模板中，以便最后，所有这些模板都将是。如果/当将来需要时填写。唯一的要求是它会自动执行，并且可以复制和粘贴。有谁知道有什么程序可以处理这个问题吗？   由   提交/u/mycomanic1991   [链接] [评论]]]></description>
+      <description><![CDATA[从事一个充满激情的工作项目，需要一个能够帮助我完成以下任务的程序。 在我的角色中，我需要从某人那里收集信息并填写模板 A。在与此人进行更多交互的某个时刻，我可能需要完成模板 B、C、D、E，以便发送某些电子邮件、作业、通信、说明等所有剩余的模板都是根据模板 A 中已收集的信息构建的。我正在寻找一个程序，该程序可以从模板 A 中获取特定字段，并将它们应用到需要的剩余模板中，以便最终，所有这些模板都将是。如果/当将来需要时填写。唯一的要求是它会自动执行，并且可以复制和粘贴。有谁知道有什么程序可以处理这个问题吗？   由   提交/u/mycomanic1991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuklio/hope_this_is_the_right_place_looking_for_a/</guid>
       <pubDate>Sat, 18 May 2024 00:24:04 GMT</pubDate>
     </item>
     <item>
       <title>真正基本的社区建设工具</title>
       <link>https://www.reddit.com/r/software/comments/1cueeeu/really_basic_community_building_tool/</link>
-      <description><![CDATA[我目前受雇于一家图书馆，为他们构思一个实践社区。我正在寻找合适的平台或软件，但这很麻烦。 我需要一些便宜（相对）、私密且可通过任何浏览器访问的东西。我需要能够共享文档并创建线程/公共论坛。高度安全、寿命长、与旧计算机兼容，并希望能够管理消息和文档共享。 这可以是独立软件，也可以是可以集成到当前网站的软件。帮助一个女孩？   由   提交 /u/el_is_indecisive   [链接] [评论]]]></description>
+      <description><![CDATA[我目前受雇于一家图书馆，负责为他们构思一个实践社区。我正在寻找合适的平台或软件，但这很麻烦。 我需要一些便宜（相对而言）、私密且可通过任何浏览器访问的东西。我需要能够共享文档并创建主题/公共论坛。高度安全、高寿命、与旧电脑兼容，并且希望能够调节消息和文档共享。 这可以是独立软件，也可以是可以集成到当前网站的东西。帮帮女孩？    提交人    /u/el_is_indecisive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cueeeu/really_basic_community_building_tool/</guid>
       <pubDate>Fri, 17 May 2024 19:46:09 GMT</pubDate>
     </item>
     <item>
       <title>我妈妈需要制作幻灯片；她应该用什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cudibm/my_mom_needs_to_make_a_slideshow_what_should_she/</link>
-      <description><![CDATA[我妈妈正在她的 MacBook 上为她的学生及其家长制作幻灯片，但自从我向她展示了如何将她想要的音乐下载为文件（她无法使用内置的照片应用程序来制作幻灯片，而不是购买歌曲或订阅 Apple Music。有什么她可以使用的基本程序吗？她不需要任何花哨的东西，但幻灯片将有 225 张照片（包括一些短片），最后 8 分 14 秒长，需要播放自定义音乐文件，并且可以导出。她说她不在乎有没有水印，一年最多只用几次。   由   提交 /u/Im-A-Moose-Man   [链接] [评论]]]></description>
+      <description><![CDATA[我妈妈正在用她的 MacBook 为她的学生和家长制作幻灯片，但由于我向她展示了如何将她想要的音乐下载为文件（而不是购买歌曲或订阅 Apple Music），她无法使用内置的照片应用制作幻灯片。有没有什么基本程序她可以使用？她不需要任何花哨的东西，但幻灯片将有 225 张照片（包括一些短视频），时长 8 分 14 秒，需要播放自定义音乐文件，并可导出。她说她不在乎是否有水印，她一年最多只会用几次。    提交人    /u/Im-A-Moose-Man   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cudibm/my_mom_needs_to_make_a_slideshow_what_should_she/</guid>
       <pubDate>Fri, 17 May 2024 19:08:57 GMT</pubDate>
     </item>
     <item>
       <title>小型企业日历调度程序</title>
       <link>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</link>
-      <description><![CDATA[我需要为一家有 6 名员工的小型建筑公司安排工作。 正在寻找能够容纳我们 6 个人的理想建筑公司一种观点。可能看起来像一个电子表格，其中包含员工的行，顶部有日期，也可能是日历网格。基于 PC 的理想选择，可以是网络。 想要在错过目标时能够推迟所有日期的东西，比如一个人每周生病一次。我不想以后必须手动调整所有日期。这是我遇到或尝试过的所有软件都有的致命缺陷。假设我们有一名员工安排了 8 份工作，每份工作一周。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩下的 7 个工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被几个承诺调整日期的软件演示所困扰（星期一就是其中之一） ，但最终他们并没有这么做——他们只想要 20 美元/员工/月。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者类似 5 美元/月……？只需要一些简单的东西。   由   提交 /u/LYL_Homer   [链接] [评论]]]></description>
+      <description><![CDATA[我需要为拥有 6 名员工的小型建筑公司安排工作。 寻找一种理想情况下可以将我们 6 个人都集中到一个视图中的软件。可以看起来像一个电子表格，上面有员工行和日期，也可以是日历网格。理想情况下是基于 PC 的，也可以是 Web。 想要一种可以在未达到目标时将所有日期推迟的功能，比如说某人生病请假一周。我不想手动调整他们未来的所有日期。这是我遇到或尝试过的所有软件都存在的致命缺陷。假设我们为一名员工安排了 8 项工作，每项工作需要一周时间。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩余的 7 项工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被一些软件演示搞得焦头烂额，这些软件承诺调整日期（星期一就是其中之一），但最终他们没有 - 他们只想要每位员工每月 20 美元。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者像 5 美元/月这样的价格......？只需要一些简单的东西。    提交人    /u/LYL_Homer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</guid>
       <pubDate>Fri, 17 May 2024 18:54:37 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>如何卸载moewalls？</title>
       <link>https://www.reddit.com/r/software/comments/1cu8tpj/how_to_uninstall_moewalls/</link>
-      <description><![CDATA[所以我决定卸载 moewalls，因为每当我让它运行时，由于某种原因，过了一会儿，当我回到桌面时，所有图标都消失了/隐藏。不知道为什么会发生这种情况，但我想卸载它以尝试使用不同的应用程序来运行动态壁纸，但当我想卸载它时，我找不到它的 uninstall.exe，也没有显示在控制面板上。  我想也许我删除了 uninstall.exe 或者其他东西，所以我再次下载了安装文件，但是在查看应用程序所在的 RAR 文件的内容后，他们没有任何 uninstall.exe首先，我该如何卸载它？只删除文件就足够了吗？   由   提交 /u/Dip2pot4t0Ch1P   [链接] [评论]]]></description>
+      <description><![CDATA[所以我决定卸载 moewalls，因为每当我让它运行一段时间后，由于某种原因，当我回到桌面时，所有图标都消失了/隐藏了。不知道为什么会发生这种情况，但我想卸载它以尝试使用其他应用程序来运行动态壁纸，但是当我想卸载它时，我找不到它的 uninstall.exe，它也没有显示在控制面板上。  我想也许我删除了 uninstall.exe 或类似的东西，所以我再次下载了安装文件，但查看了应用程序所在的 RAR 文件的内容后，发现它们根本没有 uninstall.exe，所以我该如何卸载它？只删除文件就够了吗？    提交人    /u/Dip2pot4t0Ch1P   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cu8tpj/how_to_uninstall_moewalls/</guid>
       <pubDate>Fri, 17 May 2024 15:57:04 GMT</pubDate>
     </item>
@@ -90,25 +97,18 @@
       <pubDate>Fri, 17 May 2024 13:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个免费的软件来循环按下键盘键</title>
+      <title>寻找一个免费的软件来循环按键盘按键</title>
       <link>https://www.reddit.com/r/software/comments/1cu4mi5/looking_for_a_free_software_to_press_keyboard/</link>
-      <description><![CDATA[大家好，有人知道有一个免费软件可以按两个键盘按键然后循环重复吗？ 我以前用过我的 MurGree 自动按键器试用已结束。 提前致谢。   由   提交/u/Heartnett4228  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，有人知道一个免费的软件可以按下两个键盘键然后循环重复吗？ 我曾经使用过 MurGree 的自动按键器，但我的试用期已经结束。 提前致谢。    提交人    /u/Heartnett4228   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cu4mi5/looking_for_a_free_software_to_press_keyboard/</guid>
       <pubDate>Fri, 17 May 2024 13:03:30 GMT</pubDate>
     </item>
     <item>
       <title>跟踪波形问题</title>
       <link>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</link>
-      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但就在这里。我刚刚下载了 Tracktion Waveform 并且是第一次使用。我是一个完全的初学者，我一直在试图弄清楚为什么它不允许我从左侧延伸剪辑。为了描述我正在尝试做的事情，我正在尝试扩展第一张图像，以便边缘与第 4 条齐平，并且我知道剪辑的开头有一些空间来允许这样做（如图 2 所示） ）但我尝试过的一切都没有奏效。大多数教程视频都说只需按住 Alt 并从角落的三角形拖动即可，但这对于左侧的此剪辑不起作用。我已取消选中自动速度选项，因为这似乎不允许进行操作。对于一个完全的初学者来说，任何帮助都是值得的。   由   提交/u/deanofcool  [链接] [评论]]]></description>
+      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但它就在这里。我刚刚下载了 Tracktion Waveform 并且是第一次使用。我是一个完全的初学者，我一直在试图弄清楚为什么它不允许我从左侧延伸剪辑。为了描述我正在尝试做的事情，我正在尝试扩展第一张图像，以便边缘与第 4 条齐平，并且我知道剪辑的开头有一些空间来允许这样做（如图 2 所示） ）但我尝试过的一切都没有奏效。大多数教程视频都说只需按住 Alt 并从角落的三角形拖动即可，但这不适用于左侧的此剪辑。我已取消选中自动速度选项，因为这似乎不允许进行操作。对于一个完全的初学者来说，任何帮助都是值得的。   由   提交/u/deanofcool  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</guid>
       <pubDate>Fri, 17 May 2024 09:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于考试的交互式视频软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</link>
-      <description><![CDATA[我需要在工作中培训员工，并希望通过视频软件进行培训，该软件具有互动性，带有多项选择题，可以让我查看他们给出的答案/向我发送总分。有人对此有什么建议吗？谢谢！    提交人    /u/AliceAensland   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</guid>
-      <pubDate>Fri, 17 May 2024 09:20:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
