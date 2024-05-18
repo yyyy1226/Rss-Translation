@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 May 2024 15:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 18:24:31 GMT</lastBuildDate>
     <item>
       <title>采访聊天</title>
       <link>https://www.producthunt.com/posts/interviews-chat</link>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 17 May 2024 15:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>六精灵</title>
+      <title>西克斯尔夫</title>
       <link>https://www.producthunt.com/posts/sixelf</link>
       <description><![CDATA[
             无缝跟踪您的所有设计贡献
@@ -132,20 +132,6 @@
       <pubDate>Fri, 17 May 2024 07:42:03 GMT</pubDate>
     </item>
     <item>
-      <title>focusOS</title>
-      <link>https://www.producthunt.com/posts/focusos</link>
-      <description><![CDATA[
-            一键隐藏所有干扰
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/focusos</guid>
-      <pubDate>Fri, 17 May 2024 05:15:59 GMT</pubDate>
-    </item>
-    <item>
       <title>泰洛</title>
       <link>https://www.producthunt.com/posts/telow-2</link>
       <description><![CDATA[
@@ -177,18 +163,18 @@
       <title>整洁的表情符号</title>
       <link>https://www.producthunt.com/posts/neatemoji</link>
       <description><![CDATA[
-            Chrome 扩展程序可在任何地方将文本转换为表情符号
-          
+Chrome 扩展程序可在任何地方将文本转换为表情符号
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/neatemoji</guid>
       <pubDate>Thu, 16 May 2024 18:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>应用存储</title>
+      <title>应用商店</title>
       <link>https://www.producthunt.com/posts/appstor</link>
       <description><![CDATA[
             轻松组织、管理和交易您的软件工具
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/buffup-ai-3</guid>
       <pubDate>Fri, 19 Apr 2024 20:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>功能.投票</title>
+      <link>https://www.producthunt.com/posts/features-vote</link>
+      <description><![CDATA[
+            根据用户反馈构建有利可图的功能
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/features-vote</guid>
+      <pubDate>Sun, 24 Mar 2024 01:03:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

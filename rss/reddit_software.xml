@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 May 2024 15:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 18:24:02 GMT</lastBuildDate>
     <item>
       <title>可以上传和剪切30GB的视频吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</link>
-      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频。关于如何修剪这个有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
+      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频，因为文件太大。关于如何修剪这个有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</guid>
       <pubDate>Sat, 18 May 2024 15:01:30 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 18 May 2024 14:33:52 GMT</pubDate>
     </item>
     <item>
-      <title>darkmodeanyapp(.)com - 该软件声称可以将任何软件变成暗模式。有什么好处吗？有用户吗？</title>
+      <title>darkmodeanyapp(.)com - 该软件声称可以将任何软件转变为黑暗模式。有什么好处吗？有用户吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cuy8qb/darkmodeanyappcom_this_software_claims_to_turn/</link>
       <description><![CDATA[你知道这样的软件吗？   由   提交/u/ultraman55ty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuy8qb/darkmodeanyappcom_this_software_claims_to_turn/</guid>
@@ -29,14 +29,14 @@
     <item>
       <title>间接访问LinkedIn的工具</title>
       <link>https://www.reddit.com/r/software/comments/1cuvmu7/tool_for_indirect_access_of_linkedin/</link>
-      <description><![CDATA[正在寻找一种工具，通过它可以间接访问我的客户 LinkedIn 个人资料。 希望将其用于外展目的。    由   提交 /u/Appropriate_Item_752   [链接] [评论]]]></description>
+      <description><![CDATA[寻找一种工具，通过它我可以间接访问我的客户的 LinkedIn 个人资料。 想要它用于外展目的。    提交人    /u/Appropriate_Item_752   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuvmu7/tool_for_indirect_access_of_linkedin/</guid>
       <pubDate>Sat, 18 May 2024 11:54:42 GMT</pubDate>
     </item>
     <item>
       <title>寻找库存管理/维修软件</title>
       <link>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</link>
-      <description><![CDATA[我正在寻找一款软件，我的公司可以在我们的仓库中使用它，不仅可以进行库存管理，还可以在整个过程中跟踪维修情况。目前，我们使用 Monday.com 和 Excel 工作表，将条形码扫描到 Excel 工作表中，然后将该 Excel 工作表上传到 Monday 以跟踪整个修复过程。寻找既可以保持 Monday.com 集成，又可以与我们的条形码扫描系统配合使用的选项。我们的流程如下所示：  将一箱物品（每箱最多 10 件）带入仓库（有时来自不同的供应商，有时来自我们的姊妹仓库，有时来自公司）  （进入仓库的物品需要进行扫描）  箱子被发送到组装/拆卸部门，在那里物品被拆卸并发送碎片发送给维修部门 维修部门将维修件发送回装配部门 装配部门扫描物品的条形码，以便创建一个主标签，并发送给运输团队出发  我研究过 Odoo，但不确定它的跨部门功能。    由   提交 /u/goliathinteractive   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一款软件，我的公司可以在仓库中使用，不仅可以进行库存管理，还可以跟踪整个维修过程。我们目前使用 Monday.com 和 Excel 表格，将条形码扫描到 Excel 表格中，然后将该 Excel 表格上传到 Monday 以跟踪整个维修过程。寻找可以保持 Monday.com 集成并与我们的条形码扫描系统配合使用的选项。我们的流程如下：  将一箱箱的物品（每箱最多 10 件）带入仓库（有时来自不同的供应商，有时来自我们的姊妹仓库，有时来自公司）  （进入仓库的物品需要进行扫描）  将箱子送到组装/拆卸部门，物品在那里被拆卸，破损的零件送到维修部门 维修部门将维修好的物品送回组装部门 组装部门扫描箱中物品的条形码，创建主标签，并发送给运输团队以便出发  我研究过 Odoo，但不确定它是否具有跨部门功能。    提交人    /u/goliathinteractive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</guid>
       <pubDate>Sat, 18 May 2024 05:10:51 GMT</pubDate>
     </item>
@@ -48,23 +48,23 @@
       <pubDate>Sat, 18 May 2024 02:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>无法打开 asar 文件</title>
+      <title>无法打开asar文件</title>
       <link>https://www.reddit.com/r/software/comments/1cukzco/cant_open_asar_file/</link>
       <description><![CDATA[我尝试过使用电子，但它不起作用，也许我做错了什么？我找不到任何易于使用的软件来打开 asar 文件，需要帮助，谢谢！！   由   提交 /u/MihaiFx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cukzco/cant_open_asar_file/</guid>
       <pubDate>Sat, 18 May 2024 00:43:38 GMT</pubDate>
     </item>
     <item>
-      <title>使安装在 QEMU Linux 服务器上的文件系统更易于访问 [Termux 上的 lftp、在 QEMU 下运行的 Alpine Linux 上的 vsftpd（匿名模式、被动模式）、QEMU 的 -device usb-redir 和 -chardev 套接字、硬盘驱动器连接到未 root 的 Android 11 智能手机的 USB-C 2.0 端口]</title>
+      <title>使挂载在 QEMU Linux 服务器上的文件系统更易于访问 [Termux 上的 lftp、在 QEMU 下运行的 Alpine Linux 上的 vsftpd（匿名模式、被动模式）、QEMU 的 -device usb-redir 和 -chardev socket、连接到未 root 的 Android 11 智能手机的 USB-C 2.0 端口的硬盘]</title>
       <link>https://www.reddit.com/r/software/comments/1cukwip/making_a_filesystems_mounted_on_the_qemu_linux/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cukwip/making_a_filesystems_mounted_on_the_qemu_linux/</guid>
       <pubDate>Sat, 18 May 2024 00:39:40 GMT</pubDate>
     </item>
     <item>
       <title>希望这是正确的地方 - 寻找特定的功能/程序来帮助自动化流程（Windows）</title>
       <link>https://www.reddit.com/r/software/comments/1cuklio/hope_this_is_the_right_place_looking_for_a/</link>
-      <description><![CDATA[从事一个充满激情的工作项目，需要一个能够帮助我完成以下任务的程序。 在我的角色中，我需要从某人那里收集信息并填写模板 A。在与此人进行更多交互的某个时刻，我可能需要完成模板 B、C、D、E，以便发送某些电子邮件、作业、通信、说明等所有剩余的模板都是根据模板 A 中已收集的信息构建的。我正在寻找一个程序，该程序可以从模板 A 中获取特定字段，并将它们应用到需要的剩余模板中，以便最后，所有这些模板都将是。如果/当将来需要时填写。唯一的要求是它会自动执行，并且可以复制和粘贴。有谁知道有什么程序可以处理这个问题吗？   由   提交/u/mycomanic1991   [链接] [评论]]]></description>
+      <description><![CDATA[正在从事一个工作热情项目，需要一个能帮助我完成以下工作的程序。 在我的角色中，我需要从某人那里收集信息并填写模板 A。在与此人进行更多互动的过程中，我可能需要完成模板 B、C、D、E，以便发送某些电子邮件、作业、通信、说明等。所有剩余模板均根据模板 A 中已收集的信息构建。我正在寻找一个程序，它可以从模板 A 中获取特定字段并将它们应用于剩余模板（如果需要），以便在最后填写所有字段以备将来需要时使用。唯一的要求是它必须自动执行，并且可以复制和粘贴。有人知道可以处理这个问题的程序吗？    提交人    /u/mycomanic1991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuklio/hope_this_is_the_right_place_looking_for_a/</guid>
       <pubDate>Sat, 18 May 2024 00:24:04 GMT</pubDate>
     </item>
