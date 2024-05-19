@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 18 May 2024 21:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 01:26:48 GMT</lastBuildDate>
     <item>
       <title>开源复制粘贴折线图组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cv2za0/open_source_copy_paste_line_chart_component/</link>
-      <description><![CDATA[        提交人    /u/fasaso25   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/fasaso25  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cv2za0/open_source_copy_paste_line_chart_component/</guid>
       <pubDate>Sat, 18 May 2024 17:52:47 GMT</pubDate>
     </item>
@@ -20,14 +20,14 @@
       <pubDate>Sat, 18 May 2024 15:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
+      <title>有没有具有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
       <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
       <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>browsermob-proxy 功能是否有真正的竞争者</title>
+      <title>browsermob-proxy 功能是否有真正的竞争对手</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
       <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>寻找一个支持 Vim 的 Windows 开源便签程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</link>
-      <description><![CDATA[我知道这听起来很具体，但你得问。我经常使用 Windows 便签，真的希望停止使用它，转而使用一些开源的东西。最终，我真的希望能够在输入 Vim 命令时使用它们，这就是我首先寻找替代方案的原因。    由   提交  /u/Verbais   [link] [评论]]]></description>
+      <description><![CDATA[我知道这听起来很具体，但你必须问。我经常使用 Windows 便笺，并且真的宁愿停止使用它而转而使用开源的东西。最终，我真的希望能够在键入 Vim 命令时使用它们，这就是促使我首先寻找替代方案的原因。   由   提交 /u/Verbais   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</guid>
       <pubDate>Sat, 18 May 2024 04:41:59 GMT</pubDate>
     </item>
