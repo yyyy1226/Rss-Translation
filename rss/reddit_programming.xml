@@ -4,16 +4,30 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 19 May 2024 01:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 03:22:42 GMT</lastBuildDate>
     <item>
-      <title>超越“陷阱”问题：LRU 缓存对现实世界技能的挑战</title>
+      <title>加入我们的 Beta：在一个 Web 应用程序中统一 ChatGPT、Gemini、Claude 和 Mistral - 我创建这个是为了在调试时帮助我！</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvet0x/join_our_beta_unify_chatgpt_gemini_claude_mistral/</link>
+      <description><![CDATA[  由    /u/Free_Cryptographer71  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvet0x/join_our_beta_unify_chatgpt_gemini_claude_mistral/</guid>
+      <pubDate>Sun, 19 May 2024 03:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 吞噬资源，微软排放量飙升 29%</title>
+      <link>https://www.reddit.com/r/programming/comments/1cveq2d/microsofts_emissions_spike_29_as_ai_gobbles_up/</link>
+      <description><![CDATA[ 由   提交/u/pyeri  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cveq2d/microsofts_emissions_spike_29_as_ai_gobbles_up/</guid>
+      <pubDate>Sun, 19 May 2024 03:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越“Gotcha”问题：LRU 缓存挑战赛考验实际技能</title>
       <link>https://www.reddit.com/r/programming/comments/1cv93bh/beyond_gotcha_questions_the_lru_cache_challenge/</link>
       <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cv93bh/beyond_gotcha_questions_the_lru_cache_challenge/</guid>
       <pubDate>Sat, 18 May 2024 22:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>strb_t：一种新的字符串缓冲区类型</title>
+      <title>strb_t：新的字符串缓冲区类型</title>
       <link>https://www.reddit.com/r/programming/comments/1cv87vq/strb_t_a_new_string_buffer_type/</link>
       <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cv87vq/strb_t_a_new_string_buffer_type/</guid>
@@ -62,7 +76,7 @@
       <pubDate>Sat, 18 May 2024 14:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>赛艇编程语言</title>
+      <title>划船编程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1cuyd37/rowing_programming_language/</link>
       <description><![CDATA[对于任何周末碰巧是划船者的软件工程师，请查看我的项目，如果您喜欢它，请留下一颗星并做出贡献😁    提交人    /u/Cerru905   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cuyd37/rowing_programming_language/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>我发表了一篇博客文章，介绍为什么测试范围很重要</title>
       <link>https://www.reddit.com/r/programming/comments/1cuy071/i_made_a_blog_post_about_why_the_scope_of_your/</link>
-      <description><![CDATA[我希望这篇博文能够帮助人们编写更好的测试    ;由   提交/u/Barsonax  [链接] [评论]]]></description>
+      <description><![CDATA[我希望这篇博文能够帮助人们编写更好的测试    ;由   提交 /u/Barsonax   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cuy071/i_made_a_blog_post_about_why_the_scope_of_your/</guid>
       <pubDate>Sat, 18 May 2024 14:02:23 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建交互式见证[评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cusqfv/how_to_create_an_interactive_testimonial_with/</guid>
       <pubDate>Sat, 18 May 2024 08:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员将近 57% 的时间花在救火上，而不是创新上——思科调查</title>
-      <link>https://www.reddit.com/r/programming/comments/1curlmb/developers_spend_close_to_57_of_their_time/</link>
-      <description><![CDATA[ 由   提交/u/john83672   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1curlmb/developers_spend_close_to_57_of_their_time/</guid>
-      <pubDate>Sat, 18 May 2024 07:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSON Fans - 极简的 JSON 格式化和编辑工具；很难找到比这更轻、更强大的了。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cup6rg/json_fans_a_minimalist_json_formatting_and/</link>
-      <description><![CDATA[ 由   提交 /u/Ordinary-Basis-6526   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cup6rg/json_fans_a_minimalist_json_formatting_and/</guid>
-      <pubDate>Sat, 18 May 2024 04:33:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
