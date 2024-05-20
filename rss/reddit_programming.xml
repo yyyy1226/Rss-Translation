@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 20 May 2024 01:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 03:22:24 GMT</lastBuildDate>
+    <item>
+      <title>.NET 和 .NET Framework 2024 年 5 月服务更新 - .NET 博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw5q2i/net_and_net_framework_may_2024_servicing_updates/</link>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw5q2i/net_and_net_framework_may_2024_servicing_updates/</guid>
+      <pubDate>Mon, 20 May 2024 03:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>数学语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw4vb0/a_language_for_math/</link>
+      <description><![CDATA[ 由   提交/u/KINGANSWERSPEOPLE2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw4vb0/a_language_for_math/</guid>
+      <pubDate>Mon, 20 May 2024 02:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试了解 Java 流中的虚拟线程</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw4s3z/trying_to_understanding_virtual_threads_in_java/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw4s3z/trying_to_understanding_virtual_threads_in_java/</guid>
+      <pubDate>Mon, 20 May 2024 02:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raymarching 交互式解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw43t2/raymarching_explained_interactively/</link>
+      <description><![CDATA[ 由   提交/u/imadr_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw43t2/raymarching_explained_interactively/</guid>
+      <pubDate>Mon, 20 May 2024 01:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[PATCH] mmc-utils：实现了 CMD42 锁定/解锁</title>
+      <link>https://www.reddit.com/r/programming/comments/1cw3vtc/patch_mmcutils_implemented_cmd42_lockingunlocking/</link>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cw3vtc/patch_mmcutils_implemented_cmd42_lockingunlocking/</guid>
+      <pubDate>Mon, 20 May 2024 01:30:35 GMT</pubDate>
+    </item>
     <item>
       <title>编程语言创造者的时代</title>
       <link>https://www.reddit.com/r/programming/comments/1cw2ri4/the_ages_of_programming_language_creators/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>PokeText - 一个 Pokemon 捕捉和（某种程度上）探索 CLI 应用程序。</title>
       <link>https://www.reddit.com/r/programming/comments/1cw0xev/poketext_a_pokemon_catching_and_sorta_exploring/</link>
-      <description><![CDATA[ 由   提交 /u/ThatProgrammingDude   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ThatProgrammingDude  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cw0xev/poketext_a_pokemon_catching_and_sorta_exploring/</guid>
       <pubDate>Sun, 19 May 2024 23:01:16 GMT</pubDate>
     </item>
@@ -29,7 +64,7 @@
     <item>
       <title>tdlib 🦀 的 Rust 跨平台包装器（为每个平台提供预编译的 tdlib）</title>
       <link>https://www.reddit.com/r/programming/comments/1cvzoe2/rust_crossplatform_wrapper_for_tdlib_precompiled/</link>
-      <description><![CDATA[ 由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/FedericoBruzzone  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvzoe2/rust_crossplatform_wrapper_for_tdlib_precompiled/</guid>
       <pubDate>Sun, 19 May 2024 22:03:32 GMT</pubDate>
     </item>
@@ -48,14 +83,14 @@
       <pubDate>Sun, 19 May 2024 17:53:21 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Kubernetes 对我的 SaaS 业务来说是一个错误</title>
+      <title>为什么 Kubernetes 对于我的 SaaS 业务来说是一个错误</title>
       <link>https://www.reddit.com/r/programming/comments/1cvtixc/why_kubernetes_was_a_mistake_for_my_saas_business/</link>
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvtixc/why_kubernetes_was_a_mistake_for_my_saas_business/</guid>
       <pubDate>Sun, 19 May 2024 17:29:02 GMT</pubDate>
     </item>
     <item>
-      <title>HVM2 101：新的（？）并行计算创新的无障碍指南</title>
+      <title>HVM2 101：新（？）并行计算创新的无障碍指南</title>
       <link>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</link>
       <description><![CDATA[ 由   提交/u/CrowSufficient  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</guid>
@@ -64,7 +99,7 @@
     <item>
       <title>weval 免费编译器：WebAssembly 部分评估器</title>
       <link>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</link>
-      <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/self  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvtd5s/compilers_for_free_with_weval_a_webassembly/</guid>
       <pubDate>Sun, 19 May 2024 17:21:36 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/superjet1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvsqek/my_experience_using_n8n_from_a_developer/</guid>
       <pubDate>Sun, 19 May 2024 16:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望我早点知道 BCR</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</link>
-      <description><![CDATA[为编码面试做好准备是很困难的，尤其是当您不确定 DSA 时。甚至当你在公司写一段片段时也可能如此。我知道只要有机会，我就想优化我的代码。所以我一直的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了“最佳可想象运行时”，在本文中，我尝试尽我所能总结这个概念。   由   提交 /u/Siddhapan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</guid>
-      <pubDate>Sun, 19 May 2024 15:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：摘要 #20</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvqnyz/engineering_with_java_digest_20/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvqnyz/engineering_with_java_digest_20/</guid>
-      <pubDate>Sun, 19 May 2024 15:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>IconMatch - 用于从图像或显示中获取图标位置的 python 库！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvp1cm/iconmatch_python_library_for_getting_positions_of/</link>
-      <description><![CDATA[ 由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvp1cm/iconmatch_python_library_for_getting_positions_of/</guid>
-      <pubDate>Sun, 19 May 2024 14:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 1,000 种计算机语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvodvt/top_1000_computer_languages/</link>
-      <description><![CDATA[ 由   提交/u/moontoadzzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvodvt/top_1000_computer_languages/</guid>
-      <pubDate>Sun, 19 May 2024 13:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于现代 CSS 你需要了解什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</link>
-      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</guid>
-      <pubDate>Sun, 19 May 2024 13:24:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
