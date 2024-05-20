@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 May 2024 15:23:01 GMT</lastBuildDate>
-    <item>
-      <title>艾迪</title>
-      <link>https://www.producthunt.com/posts/edde-ai</link>
-      <description><![CDATA[
-            您的学术助手，撰写论文、引用论文等
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/edde-ai</guid>
-      <pubDate>Sun, 19 May 2024 21:23:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 May 2024 18:26:04 GMT</lastBuildDate>
     <item>
       <title>格式化</title>
       <link>https://www.producthunt.com/posts/formatify</link>
@@ -93,12 +79,12 @@
       <title>SwagUp 的人力资源整合</title>
       <link>https://www.producthunt.com/posts/hr-integrations-by-swagup</link>
       <description><![CDATA[
-            自动发送新员工、生日和周年纪念礼物
-          
+自动发送新员工、生日和周年纪念日礼品
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/hr-integrations-by-swagup</guid>
       <pubDate>Fri, 17 May 2024 19:27:58 GMT</pubDate>
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/image-saver-by-playbook</guid>
       <pubDate>Fri, 17 May 2024 14:27:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试</title>
+      <link>https://www.producthunt.com/posts/coba</link>
+      <description><![CDATA[
+            美国与墨西哥权力的关系
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/coba</guid>
+      <pubDate>Thu, 16 May 2024 17:24:37 GMT</pubDate>
     </item>
     <item>
       <title>智能力</title>
@@ -174,15 +174,15 @@
       <pubDate>Fri, 10 May 2024 09:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>尽管</title>
+      <title>出色地</title>
       <link>https://www.producthunt.com/posts/vllo</link>
       <description><![CDATA[
-适合初学者的最简单视频编辑应用程序
-
+            适合初学者的最简单的视频编辑应用程序
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/vllo</guid>
       <pubDate>Thu, 09 May 2024 00:20:51 GMT</pubDate>
