@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 May 2024 03:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:28:09 GMT</lastBuildDate>
     <item>
       <title>在 Astro 的 Starlight 文档框架中添加结构化数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxsqj/adding_structured_data_in_astros_starlight/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>为什么用户代理是“Screenjesus”？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxpl7/why_is_the_useragent_screenjesus/</link>
-      <description><![CDATA[      https://preview.redd.it/nirt1cze1p1d1.jpg?width=2199&amp;format=pjpg&amp;auto=webp&amp;s=785501084bcfe9484fcec338472a243d0038030b 我查看了我的 NGINX 日志，发现我的几个 get 请求的用户代理为“Screenjesus”。这是什么意思呢    提交人    /u/Acornless   [链接] [评论] ]]></description>
+      <description><![CDATA[      https://preview.redd.it/nirt1cze1p1d1.jpg?width=2199&amp;format=pjpg&amp;auto=webp&amp;s=785501084bc fe9484fcec338472a243d0038030b 我查看了 NGINX 日志，注意到我的几个获取请求的用户代理为“Screenjesus”。这到底是什么意思   由   提交 /u/Acornless   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwxpl7/why_is_the_useragent_screenjesus/</guid>
       <pubDate>Tue, 21 May 2024 02:50:02 GMT</pubDate>
     </item>
     <item>
       <title>我想进步！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxaxw/i_want_to_improve/</link>
-      <description><![CDATA[我刚刚启动了Paive 的第一个版本，但我想要来改进。 我目前正在开发其他功能，这些功能将把这个平台提升到一个全新的水平，但在目前的状态下，我不禁感觉缺少了一些东西。 &gt; 你们介意检查一下并让我知道您的想法吗？ 我明天还将推出 Product Hunt！   由   提交 /u/phyziro   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚推出了 Paive 的第一个版本，但我想对其进行改进。 我目前正在开发其他功能，这些功能将使这个平台达到一个全新的水平，但在目前的状态下，我禁不住觉得缺少了一些东西。 你们介意查看一下并告诉我你们的想法吗？ 我明天还要在 Product Hunt 上发布！    提交人    /u/phyziro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwxaxw/i_want_to_improve/</guid>
       <pubDate>Tue, 21 May 2024 02:28:23 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>通过drive api从googledrive获取图像以在网站上使用</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwufs6/fetching_images_from_google_drive_to_use_on/</link>
-      <description><![CDATA[因此，我使用 Google Drive 存储我的摄影作品，并且我想显示并让用户选择通过我的网站下载图片。我考虑使用 Google Drive API 从 Google Drive 获取图片并将它们显示在网站上。这可能吗？这里有人有这方面的经验或类似经验吗？ 任何帮助都值得赞赏，谢谢。 编辑：我应该注意，我目前正在为此使用 php    提交人    /u/JudeaPeoplesFront   [链接] [评论]]]></description>
+      <description><![CDATA[所以我使用 Google Drive 来存储我的摄影作品，我想展示并让用户可以选择通过我的网站下载图像。我正在考虑使用 googledrive api 从 googledrive 获取图像并将其显示在网站上。这可能吗？这里有人有这方面的经验吗？ 感谢任何帮助，谢谢。 编辑：我应该注意，我目前正在使用 php这个   由   提交 /u/JudeaPeoplesFront   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwufs6/fetching_images_from_google_drive_to_use_on/</guid>
       <pubDate>Tue, 21 May 2024 00:04:30 GMT</pubDate>
     </item>
     <item>
       <title>NameCheap 与 Wordpress.com 网站构建器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</link>
-      <description><![CDATA[我计划为即将创办的企业制作一个非常简单的网站。由于网站简单，而且我自己也缺乏相关知识，所以我只想使用拖放式 CMS。我的计划是使用 NameCheap 注册网站并接收电子邮件，但通过 Wordpress.com 托管并使用其网站构建器 CMS（网站构建器和托管是同一个东西，购买其中一个即可获得另一个）。现在我看到 NameCheap 有自己的网站构建器，同样免费提供任何托管计划。有人使用过 NameCheap 的网站构建器吗？有人知道它与 Wordpress.com 相比如何吗？我知道 Wordpress 比 NameCheap 更注重 CMS，所以我可能希望它的网站构建具有更多的功能、内容和支持——但我不知道。NameCheap 也便宜一点，使用他们的网站构建器意味着将网站的所有组件保留在同一平台上。有什么建议吗？    提交人    /u/Particular-Pepper-64   [链接] [评论]]]></description>
+      <description><![CDATA[我计划为我正在创办的企业制作一个非常简单的网站。由于它的简单性和我自己缺乏知识，我只想坚持使用拖放式 CMS。我的计划是注册网站并通过 NameCheap 接收电子邮件，但通过 Wordpress.com 托管并使用他们的网站构建器 CMS（网站构建器和托管是一回事，当您购买一个时，您会得到另一个）。现在我看到 NameCheap 有自己的网站构建器，同样免费，适用于任何托管计划。有人用过 NameCheap 的建站工具吗？有人知道它与 Wordpress.com 相比如何吗？我知道 Wordpress 比 NameCheap 更主要以 CMS 为中心，所以我可能期望它的网站建设有更多的功能、内容和支持——但我不知道。 NameCheap 也便宜一点，使用他们的网站构建器意味着将网站的所有组件保留在同一平台上。有什么建议吗？   由   提交/u/Pspecial-Pepper-64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</guid>
       <pubDate>Mon, 20 May 2024 23:56:04 GMT</pubDate>
     </item>
@@ -85,14 +85,14 @@
     <item>
       <title>您的工作或个人设置是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</link>
-      <description><![CDATA[我已经坚持自己的方式有一段时间了，我倾向于喜欢主机上安装的所有内容（语言、驱动程序），这样我就可以管理更少的事情。但我想现代化一点。回到我的虚拟机时代，我使用 vagrant + virtual box，我假设现在每个人都已经转移到容器甚至云服务上。所以我想知道你喜欢如何进行项目工作？我可能很快就会成为自由职业者，所以我的项目环境可能看起来彼此非常不同。我使用的是 MBP M 系列，我选择的 IDE 是 web/phpstorm，我应该如何现代化？   由   提交 /u/IAmRules   [链接] [评论]]]></description>
+      <description><![CDATA[一段时间以来，我一直固步自封，我倾向于在主机上安装所有东西（语言、驱动程序），这样我就可以管理更少的东西。但我想稍微现代化一点。在我使用 VM 的日子里，我使用过 vagrant + virtual box，我假设现在每个人都已经转向容器甚至云服务了。所以我想知道你喜欢如何开展项目？我可能很快就会从事自由职业，所以我的项目环境可能看起来彼此非常不同。我在 MBP M 系列上，我选择的想法是 web/php storm，我应该如何现代化？    提交人    /u/IAmRules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</guid>
       <pubDate>Mon, 20 May 2024 21:37:58 GMT</pubDate>
     </item>
     <item>
       <title>Devolver Digital 揭露独立游戏网站复活节彩蛋并对其用户进行咆哮</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</link>
-      <description><![CDATA[        由    /u/3lijah 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/3lijah  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</guid>
       <pubDate>Mon, 20 May 2024 21:29:58 GMT</pubDate>
     </item>

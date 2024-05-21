@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 21 May 2024 03:22:05 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Tue, 21 May 2024 06:27:31 GMT</lastBuildDate>
+    <item>
+      <title>我在 Premiere 中创建了大约 48 小时的代理，我可以导出 xml 并且仍然在 Resolve 中使用原始代理和代理吗？提前致谢</title>
+      <link>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</link>
+      <description><![CDATA[正如标题所示，我花了几天时间为一些 blackmagic 素材创建代理，而我们的导演决定改为在 Resolve 中进行编辑。我可以使用我已经创建的代理吗？或者我必须创建新的代理...   由   提交 /u/MyCommentIsNo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</guid>
+      <pubDate>Tue, 21 May 2024 03:47:45 GMT</pubDate>
+    </item>
     <item>
       <title>再次爱上了编辑。</title>
       <link>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</link>
-      <description><![CDATA[您是否曾经感到困惑，觉得您的编辑毫无进展？上 vimeo 或看一些电影来补充大脑。 昨晚我重看了《热血警探》，是的，我又爱上了编辑。 你们有过这样的时刻吗？如果有，请分享，让我们知道哪些电影激发了您的兴趣。    提交人    /u/Ju1cyBr4in   [link] [评论]]]></description>
+      <description><![CDATA[您是否曾经感到卡住并且觉得您的编辑毫无进展？上 vimeo 或看一些电影来滋养大脑。 昨晚我重看了《热血警探》，是的，我再次爱上了剪辑。  你们有过这样的时刻吗？如果是这样，请分享，让我们知道哪些电影引起了您的兴趣。   由   提交 /u/Ju1cyBr4in   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</guid>
       <pubDate>Tue, 21 May 2024 02:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人参加过 Noble Desktop 编辑训练营课程吗？他们值得吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwvbp9/has_anybody_taken_the_noble_desktop_editing/</link>
-      <description><![CDATA[基本上只是标题，想要了解更多关于视频编辑的知识，并可能在某种程度上寻求职业发展。我试图在网上找到关于它们的东西，但没有找到太多关于它们的信息。     提交人    /u/crazyzjm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwvbp9/has_anybody_taken_the_noble_desktop_editing/</guid>
-      <pubDate>Tue, 21 May 2024 00:48:15 GMT</pubDate>
     </item>
     <item>
       <title>外部驱动器不断无故弹出</title>
@@ -36,7 +36,7 @@
     <item>
       <title>寻找婚礼影片剪辑师</title>
       <link>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</link>
-      <description><![CDATA[大家好，我叫 Caed Rodgers，我目前正在寻找婚礼电影制作人的业务。我目前正在寻找 1-2 名愿意担任我公司编辑的编辑。我发现我被所需的工作压得喘不过气来，需要外包一些婚礼电影，我还计划将未来的电影外包。 我的预算是一部电影最多 750 美元，我预计编辑需要 6 到 30 个小时。我的电影通常长 5-15 分钟。我在这里寻找是因为我想要一个私人编辑，而不是试图在 Fiverr、Upwork 等网站上找人。如果感兴趣，请直接发私信给我！    提交人    /u/caedr_   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我叫 Caed Rodgers，目前正在寻求扩展我作为婚礼电影制作人的业务。我目前正在寻找 1-2 名愿意担任我的业务编辑的编辑。我发现我对所需的工作感到不知所措，需要外包一些婚礼影片，我还计划外包未来的影片。 我的预算最多可支付 750 美元对于一部电影，我预计剪辑需要 6 到 30 个小时。我的电影长度通常为 5 至 15 分钟。我之所以来这里是因为我对拥有一名个人编辑感兴趣，而不是试图在 Fiverr、Upwork 等上寻找某人。如果有兴趣，请私信我！   由   提交/u/caedr_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</guid>
       <pubDate>Mon, 20 May 2024 22:14:42 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 20 May 2024 22:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>寻找视频编辑 - 简短形式</title>
+      <title>寻找视频编辑器 - 简短形式</title>
       <link>https://www.reddit.com/r/editors/comments/1cwqzdk/looking_for_video_editors_short_form/</link>
       <description><![CDATA[嗨， 我正在为几个不同领域的一些即将推出的项目寻找一些简短的视频编辑器。可能每月 10-15 小时，预算起价为 20 美元/小时（很乐意根据经验增加）。所有视频也将尽可能详细地进行介绍。 简而言之，我们是英国的一家品牌工作室，拥有有机的社交合作伙伴关系，每个帐户每周发布大约 5-10 个视频，结识来自世界各地的新创意，并希望在不久的将来进行合作，这将是令人难以置信的！ Ps。上一篇帖子因违反规则而被删除，但我现在已按照规则重新发布了该帖子。   由   提交 /u/Dutsford   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwqzdk/looking_for_video_editors_short_form/</guid>
@@ -69,9 +69,9 @@
       <pubDate>Mon, 20 May 2024 18:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>编辑长达六个月的延时摄影，从编辑的角度来看，有哪些最佳相机推荐？</title>
+      <title>编辑六个月的延时拍摄，从编辑的角度推荐最佳相机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cwlqsd/editing_six_month_long_timelapse_best_camera/</link>
-      <description><![CDATA[标准是每天使用手头上较旧型号的 GoPro 拍摄几张照片，插入墙上电源，存储卡容量从 32GB 到 512GB，最低分辨率为 1920x1080。    提交人    /u/ioncewasaking   [link] [评论]]]></description>
+      <description><![CDATA[标准是使用插入墙上电源的旧型号 GoPro 每天拍摄几张图像，存储卡容量从 32GB 到 512GB，最低容量为分辨率为1920x1080。   由   提交 /u/ioncewasaking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwlqsd/editing_six_month_long_timelapse_best_camera/</guid>
       <pubDate>Mon, 20 May 2024 17:52:55 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 20 May 2024 16:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>要学多久才能学会这样的编辑？</title>
+      <title>这样的编辑要多久才能学会？</title>
       <link>https://www.reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/</link>
       <description><![CDATA[https://www.tiktok.com/ t/ZPRKdoqRu/ https://www.tiktok.com/t/ZPRKdKmk1/  我想学习动态图形和基本视频编辑，目前担任数字营销助理。如果我每天练习几个小时，需要多长时间才能达到这一点？   由   提交/u/C3-D0  /u/C3-D0  reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/</guid>
