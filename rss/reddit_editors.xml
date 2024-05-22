@@ -3,12 +3,33 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 22 May 2024 03:23:20 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Wed, 22 May 2024 06:26:29 GMT</lastBuildDate>
+    <item>
+      <title>导出视频播放问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxt8kj/exported_video_playback_question/</link>
+      <description><![CDATA[请原谅我，因为我很确定这是一个愚蠢的问题，但我似乎无法在搜索中正确地表达它以产生结果这解决了我的具体问题。 如果我将一个已完成的项目（一部非常短的学生电影）导出到驱动器，然后将其交给某人以便可以在小型放映机上播放，驱动器的类型（以及驱动器的读/写速度）对于以后的播放是否重要？例如，如果高性能 SSD 的唯一目的是存储视频文件以供播放，那么它会产生与廉价 SD 卡不同的结果吗？    由   提交 /u/BeefOfTheSea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxt8kj/exported_video_playback_question/</guid>
+      <pubDate>Wed, 22 May 2024 06:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助解决“未找到 moovatom”的问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxroph/help_with_moov_atom_not_found/</link>
+      <description><![CDATA[大家好， 在这里试试运气。我正在尝试恢复损坏的 MP4 文件（从 Supremo HD 袖珍相机拍摄）。文件大小约为2.4GB，但文件长度显示为0:00，并且正如相机说明书所说，如果相机突然关机，它会自动保存文件。我使用格式化为 FAT32 的 128GB Micro SD 卡。我尝试过不同的恢复选项，到目前为止，我得到的最接近的是 djifix，但是 .H264 文件有故障，没有声音，有时会跳过某些部分，因此没有完全恢复。我还尝试将recover_mp4与ffmpeg一起使用，但我只获得了大约4%的文件，并且大小约为100MB，只是因为当我尝试播放它时，它具有全部内容但快进。我还可以尝试恢复已损坏的完全相同的文件吗？谢谢！ D:\mp4recover2\bin&gt;ffmpeg.exe -v error -i Corrupted.mp4 [mov,mp4,m4a,3gp,3g2,mj2 @ 000001ef5f9d1640] moovatom 未找到[in#0 @ 000001ef5f9b8580] 打开输入时出错：处理输入时发现无效数据 打开输入文件 Corrupted.mp4 时出错。打开输入文件时出错：处理输入时发现无效数据   由   提交/u/Few_Relationship250   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxroph/help_with_moov_atom_not_found/</guid>
+      <pubDate>Wed, 22 May 2024 04:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮忙</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxqx4f/need_help/</link>
+      <description><![CDATA[大家好， 我是这个游戏的新手，我遇到了困境。  我应该将 CEA-608 和 CEA-708 嵌入到 Apple Pro res MOV 上进行广播，但我远远超出了我的能力。  我正在使用 Premiere，但我完全不知道如何将两者嵌入到同一个文件中。  如果有人可以帮助我或向我指出一些教程/文章，我将不胜感激。    由   提交/u/At0micZ0mbie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxqx4f/need_help/</guid>
+      <pubDate>Wed, 22 May 2024 03:39:48 GMT</pubDate>
+    </item>
     <item>
       <title>ARM（高通）最终可能会杀死 Avid</title>
       <link>https://www.reddit.com/r/editors/comments/1cxnk2c/arm_qualcomm_may_end_up_killing_avid/</link>
-      <description><![CDATA[如果你们中有人使用过带有 Apple Silicon 的 Avid Media Composer，您就会了解这些问题。除非您有基本的设置，否则您可能会遇到无穷无尽的问题。想要安装 BRAW AMA 插件吗？它崩溃了。有超工作室吗？祝您好运，让它在 Avid 中运行！有音频插件吗？保持手指交叉。这些问题是由于 Avid 在模拟下表现不佳造成的。苹果使用 ARM，也称为 Apple Silicon 芯片。 但是您已经熟悉了这一切。 因此，昨天微软宣布他们将把笔记本电脑改用高通硬件，包括他们的 Surface 系列以及联想和戴尔等公司的许多新笔记本电脑。这是行业的新趋势。考虑到 Avid 花了数年时间才使 Media Composer 适应 Apple Silicon，我们对 Microsoft 的这一声明有何期待？ 我的想法是，Avid 可能也需要数年时间才能将 Media Composer 移植到 PC 上的 ARM就像他们在 Mac 上所做的那样。当他们这样做时，世界将会继续前进。该公告还提到了 Adob​​e Premiere，并强调 DaVinci Resolve 作为好莱坞的行业领导者。 激动人心的时刻即将到来，但 Avid 不一样！   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <description><![CDATA[如果你们中有人使用过带有 Apple Silicon 的 Avid Media Composer，您就会了解这些问题。除非您有基本的设置，否则您可能会遇到无穷无尽的问题。想要安装 BRAW AMA 插件吗？它崩溃了。有超工作室吗？祝您好运，让它在 Avid 中正常工作！有音频插件吗？保持手指交叉。这些问题是由于 Avid 在模拟下表现不佳造成的。苹果使用 ARM，也称为 Apple Silicon 芯片。 但是您已经熟悉了这一切。 因此，昨天微软宣布他们将把笔记本电脑改用高通硬件，包括他们的 Surface 系列以及联想和戴尔等公司的许多新笔记本电脑。这是行业的新趋势。考虑到 Avid 花了数年时间才使 Media Composer 适应 Apple Silicon，我们对 Microsoft 的这一声明有何期待？ 我的想法是，Avid 可能也需要数年时间才能将 Media Composer 移植到 PC 上的 ARM就像他们在 Mac 上所做的那样。当他们这样做时，世界将会继续前进。该公告还提到了 Adob​​e Premiere，并强调 DaVinci Resolve 作为好莱坞的行业领导者。 激动人心的时刻即将到来，但 Avid 不一样！   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxnk2c/arm_qualcomm_may_end_up_killing_avid/</guid>
       <pubDate>Wed, 22 May 2024 00:41:58 GMT</pubDate>
     </item>
@@ -20,23 +41,23 @@
       <pubDate>Tue, 21 May 2024 23:41:56 GMT</pubDate>
     </item>
     <item>
-      <title>在 Avid Media Composer 上使用“lift”时，有办法改变此问题吗？</title>
+      <title>在 Avid Media Composer 上使用“lift”时，有没有办法改变这个问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxls87/is_there_a_way_to_change_this_issue_when_using/</link>
-      <description><![CDATA[这已经困扰我很长时间了。下面是发生的情况的一个例子…… 当我在时间线上编辑时，我会在某些音频上标记一个“入点”和“出点”。然后突出显示选定区域。我按“z”键以 LIFT 出选定部分。然后烦人的部分发生了……我的编辑线会弹回到“入点”标记的位置。我更希望它停留在“出点”标记上并且根本不移动。  有办法改变这种情况吗？我使用的是 2022.12.6 版    提交人    /u/CovenantGiven   [链接] [评论]]]></description>
+      <description><![CDATA[这已经困扰了相当长一段时间了。这是发生的情况的示例... 当我在时间轴上进行编辑时，我会在时间轴上标记“in”。和“出”指向一些音频。然后所选区域会突出显示。我按“z”键键提起选定的部分。然后烦人的部分发生了......我的编辑行快速回到“in”所在的位置。马克是。我更喜欢它留在“外面”。标记并且根本不动。  有办法改变这个吗？我的版本是 2022.12.6   由   提交 /u/CovenantGiven   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxls87/is_there_a_way_to_change_this_issue_when_using/</guid>
       <pubDate>Tue, 21 May 2024 23:16:17 GMT</pubDate>
     </item>
     <item>
       <title>你们如何知道自己作为编辑的局限性以及如何应对？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</link>
-      <description><![CDATA[我一生中的大部分时间都是一名剪辑师，专业剪辑师大约有 7 年的时间。我制作过短片、在 iPhone 上拍摄的广告以及广告在 Alexa Mini 上拍摄的、简短的文档、功能文档等。我真的很喜欢我所做的事情，并且很感激能做这件事。  我也在一家制作公司的一份工作中完成所有这些工作，我们制作的产品几乎没有一致性，这让我在大多数时候都感到压力。但我遇到的问题是，我很难衡量自己在时间/日程安排方面的限制，我带来的创造性，以及当流程每天都不同时如何确保我不会让工作筋疲力尽。天。我觉得我正处于精疲力尽的状态，如果这是我所处的工作环境的结果，或者我的工作方式是自我破坏的。 所以我不知道，我很想听听其他也在相当不一致的环境中工作的编辑的意见，以及你们如何自己处理这个问题。谢谢大家:)   由   提交 /u/SpiffRogers   [链接] [评论]]]></description>
+      <description><![CDATA[我一生中大部分时间都在做编辑，从事专业工作大约 7 年。我制作过短片、用 iPhone 拍摄的广告和用 Alexa Mini 拍摄的广告、短纪录片、专题纪录片等。我真的很喜欢我所做的事情，并感激能够做这件事。 我还在一家制作公司做着所有这些工作，我们制作的东西几乎没有一致性，这让我大部分时间都感到压力很大。但我的问题是，我很难衡量自己的极限，无论是在时间/日程安排方面，还是在创意方面，以及如何确保在工作过程每天都不一样的情况下，我不会精疲力竭地离开工作岗位。我感觉自己正处于倦怠之中，这是否是我所处的工作环境造成的，或者我的工作方式是否自我破坏了。 所以我不知道，我很想听听其他也在相当不一致的环境中工作的编辑的意见，以及你们如何处理这个问题。谢谢大家 :)    提交人    /u/SpiffRogers   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</guid>
       <pubDate>Tue, 21 May 2024 22:15:35 GMT</pubDate>
     </item>
     <item>
       <title>自动数据传输/卸载</title>
       <link>https://www.reddit.com/r/editors/comments/1cxht6b/automating_data_transferring_offloading/</link>
-      <description><![CDATA[嗨， 我是一名编辑，经常在节日上进行编辑以进行日间回顾等。经常退出（如果不是总是）我也在做数据管理。在某些情况下，有相当多的射击者，因此将数据管理和编辑结合起来可能会变得非常忙碌。  我想知道将 SD 或磁盘插入我的 macbook m2 时是否有办法自动进行数据传输。我目前正在使用 Offshoot（以前的 Hedge）来传输数据。我读到可以通过分支上的脚本自动传输，但由于我不熟悉脚本，我希望是否有更直接的方法或软件允许这种自动化？ 下线我也在寻找一种在 davinci 中自动导入这些文件的方法。所以我除了把卡插入MacBook之外什么都不用做。   由   提交 /u/feanskarel   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我是一名编辑，经常在节日上进行编辑以进行日间回顾等。经常退出（如果不是总是）我也在做数据管理。在某些情况下，射击者数量相当多，因此将数据管理和编辑结合起来可能会变得非常忙碌。  我想知道将 SD 或磁盘插入我的 macbook m2 时是否有办法自动进行数据传输。我目前正在使用 Offshoot（以前的 Hedge）来传输数据。我读到可以通过分支上的脚本自动传输，但由于我不熟悉脚本，我希望是否有更直接的方法或软件允许这种自动化？ 下线我也在寻找一种在达芬奇中自动导入这些文件的方法。所以我除了把卡插入MacBook之外什么都不用做。   由   提交 /u/feanskarel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxht6b/automating_data_transferring_offloading/</guid>
       <pubDate>Tue, 21 May 2024 20:23:58 GMT</pubDate>
     </item>
@@ -48,9 +69,9 @@
       <pubDate>Tue, 21 May 2024 19:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>关于如何复制这种淡出样式有什么建议吗？</title>
+      <title>关于如何复制这种淡出风格有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxgcl6/any_advice_on_how_to_copy_this_fadeout_style/</link>
-      <description><![CDATA[因此，我正在使用 capcut，并尝试在下面的视频中模仿这种淡入淡出风格。我是一名菜鸟编辑，但这是我童年最喜欢的效果之一，我很乐意获得任何提示。 https://youtu.be/3iWdS1JAGsk?si=y2hQXehl_6fRWGQK    提交人    /u/yourfavoritenumber   [链接] [评论]]]></description>
+      <description><![CDATA[所以我正在使用 capcut，并且我一直在尝试在下面的视频中模拟这种淡入淡出样式。我是一名菜鸟编辑，但这是我童年时最喜欢的效果之一，我希望得到任何提示。 https://youtu.be/3iWdS1JAGsk?si=y2hQXehl_6fRWGQK   由   提交 /u/yourfavoritenumber   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxgcl6/any_advice_on_how_to_copy_this_fadeout_style/</guid>
       <pubDate>Tue, 21 May 2024 19:24:29 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Tue, 21 May 2024 18:11:01 GMT</pubDate>
     </item>
     <item>
-      <title>有什么技巧可以在 Premiere 中快速将预览低分辨率库存素材快速替换为高分辨率最终素材吗？</title>
+      <title>有什么技巧可以在 Premiere 中快速将预览低分辨率素材替换为高分辨率最终素材？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxdoiq/any_tips_to_quickly_replace_preview_lores_stock/</link>
       <description><![CDATA[我正在开发这个项目，其中我正在编辑数十个短视频，每个短视频包含数十个素材剪辑。对于每个视频，我必须获得低分辨率预览，在视频中对其进行编辑，然后在客户批准后将其替换为高分辨率版本。由于预览和最终版本之间的分辨率存在差异，因此我最终浪费了大量时间来手动调整每个剪辑的大小。 我无法将属性从一个剪辑复制并粘贴到所有其他剪辑，因为决赛并不都有相同的分辨率，我也经常重新调整它们。 知道如何做到这一点而不必手动调整所有内容的大小吗？ &lt; !-- SC_ON --&gt;  由   提交/u/5ERGlO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxdoiq/any_tips_to_quickly_replace_preview_lores_stock/</guid>
@@ -83,32 +104,11 @@
       <pubDate>Tue, 21 May 2024 16:53:21 GMT</pubDate>
     </item>
     <item>
-      <title>少量额外交付品？</title>
+      <title>小额额外交付？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxbruu/small_extra_deliverable/</link>
       <description><![CDATA[我有一个客户每月做项目，我对 5 分钟的视频收取固定项目费用，他们得到 2 轮修改。效果很好。现在，他们要求免费提供 60 小时的缩减，因为“只需要 10 分钟”。公平地说，他们只是要求我花第一分钟左右的时间并在最后添加一个徽标。但这是额外的时间，也可能为他们打开要求修改的大门。 由于我以固定的项目费用投标，我的费用增加应该是多少才能弥补削减的成本？我通常不会按小时计费，而且按 1 小时计费感觉很小，但也许只有我这么认为。   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxbruu/small_extra_deliverable/</guid>
       <pubDate>Tue, 21 May 2024 16:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关制作球形屏幕动态图形的建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1cx9dr2/advice_needed_on_making_motion_graphics_for_globe/</link>
-      <description><![CDATA[我已经束手无策了。我的工作是设计一些动态图形，用于类似于这些的球形屏幕。动态图形是我的强项，但不是这个该死的球形屏幕。球形屏幕的工作人员告诉我，我需要让图形具有等距矩形透视，以便图形正确显示在屏幕上。  在 Adob​​e 套件中，这方面的工作流程是什么样的？是否有人用智能对象在某处制作的 photoshop 文件，可以将图形转换为等距矩形透视？有没有办法在 After Effects 中编辑所有这些？任何帮助都将不胜感激，因为我的大脑无法理解它。     提交人    /u/Sweet_Advantage_6528   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cx9dr2/advice_needed_on_making_motion_graphics_for_globe/</guid>
-      <pubDate>Tue, 21 May 2024 14:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何去除 3D Logo 中的黑色背景？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cx4kag/how_to_remove_black_background_from_3d_logo/</link>
-      <description><![CDATA[大家好， 我有一个旋转 3D 动画的徽标视频。 我想将此徽标叠加到另一个视频上。 我的问题是，当我叠加我的徽标并使用“屏幕”时， Premier Pro 中的混合选项，它完美地去除了黑色，但徽标并非完全不透明，我可以看穿它。 解决此问题的最佳方法是什么？   由   提交 /u/Caddap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cx4kag/how_to_remove_black_background_from_3d_logo/</guid>
-      <pubDate>Tue, 21 May 2024 10:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找婚礼影片剪辑师</title>
-      <link>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</link>
-      <description><![CDATA[大家好，我叫 Caed Rodgers，目前正在寻求扩展我作为婚礼电影制作人的业务。我目前正在寻找 1-2 名愿意担任我的业务编辑的编辑。我发现我对所需的工作感到不知所措，需要外包一些婚礼影片，我还计划外包未来的影片。 我的预算最多可支付 750 美元对于一部电影，我预计剪辑需要 6 到 30 个小时。我的电影长度通常为 5 至 15 分钟。我之所以来这里是因为我对拥有一名个人编辑感兴趣，而不是试图在 Fiverr、Upwork 等上寻找某人。如果有兴趣，请私信我！   由   提交/u/caedr_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</guid>
-      <pubDate>Mon, 20 May 2024 22:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
