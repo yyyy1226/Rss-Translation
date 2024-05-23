@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 23 May 2024 03:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 06:27:44 GMT</lastBuildDate>
+    <item>
+      <title>你用什么截图注释工具？更喜欢开源</title>
+      <link>https://www.reddit.com/r/software/comments/1cym5pc/what_you_use_for_screenshot_annotation_tools/</link>
+      <description><![CDATA[了解 sharex 和 Microsoft 默认共享。 但正在寻找免费、可移植的东西。    由   提交/u/FutureLife777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cym5pc/what_you_use_for_screenshot_annotation_tools/</guid>
+      <pubDate>Thu, 23 May 2024 06:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您从未关闭许可证已过期的软件，会发生什么情况？</title>
+      <link>https://www.reddit.com/r/software/comments/1cym4dn/what_happens_if_you_never_close_a_software_that/</link>
+      <description><![CDATA[我的 IntelliJ IDEA 有许可证两天前就过期了，但我现在连续三天忘记关闭电脑，我很想知道。如果我从不关闭计算机并保持软件运行怎么办？通常当我忘记更新我的许可证并尝试打开软件时，它会要求我更新它并且不让我使用它。 所以问题如下。如果我从不关闭计算机怎么办？这是我过去经常做的事情，运行各种 minecraft 与工作相关的服务器。它会永远继续工作吗？如果确实如此，除了道德之外，这是否还被视为“盗版”？作为一家公司，您是否投入资源来修补这些奇怪的边缘情况？ 🤔🤔 PS：我很受诱惑。   由   提交/u/stathis21098   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cym4dn/what_happens_if_you_never_close_a_software_that/</guid>
+      <pubDate>Thu, 23 May 2024 06:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>对我们论文提案的思考</title>
       <link>https://www.reddit.com/r/software/comments/1cyj1c2/thoughts_on_our_thesis_proposal/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>一款支持手写的笔记软件</title>
       <link>https://www.reddit.com/r/software/comments/1cyi081/a_notes_taking_software_with_handwriting_support/</link>
-      <description><![CDATA[最近买了一个图形输入板，我的朋友推荐我用它来做笔记，所以我可以使用什么软件来用图形输入板做笔记呢？我以前在手机上做笔记时有过概念，但现在我不知道 Windows 是否支持手写，有人可以帮我吗     提交人    /u/ranjan_82   [link] [评论]]]></description>
+      <description><![CDATA[最近买了一个手写板，朋友推荐我用它来做笔记，那么我可以用什么软件来用手写板做笔记呢？以前在手机上做笔记时有想法，但现在我不知道我是否支持在 Windows 上手写，有人可以帮助我吗   由   提交/u/ranjan_82  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cyi081/a_notes_taking_software_with_handwriting_support/</guid>
       <pubDate>Thu, 23 May 2024 02:22:11 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>Grover 播客应用程序播放一首又一首EP？</title>
       <link>https://www.reddit.com/r/software/comments/1cy5czv/grover_podcast_app_plays_one_ep_after_another/</link>
-      <description><![CDATA[我最近购买了全新的桌面设置，因此我安装了 Grover 播客应用程序，并通过从旧系统导入 OPML 进行设置。一切看起来都很棒，但我现在注意到，当一集结束时，另一集就会开始。我的旧系统没有这样做，但我找不到新旧系统之间有任何不同的设置。那么有谁知道我应该寻找什么来停止这种情况？   由   提交 /u/locogirlp   [链接] [评论]]]></description>
+      <description><![CDATA[我最近买了一套全新的台式机，所以我安装了 Grover 播客应用，并从旧系统导入了 OPML。一切似乎都很好，但我现在注意到，当一集结束时，另一集就开始了。我的旧系统没有这样做，但我找不到新旧设置之间的任何不同。所以有人知道我应该寻找什么来停止这种情况吗？    提交人    /u/locogirlp   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cy5czv/grover_podcast_app_plays_one_ep_after_another/</guid>
       <pubDate>Wed, 22 May 2024 17:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何暂时禁用笔记本电脑键盘？？？</title>
-      <link>https://www.reddit.com/r/software/comments/1cy3gle/how_do_i_temporraily_disable_my_laptops_keyboard/</link>
-      <description><![CDATA[由于损坏，我目前不得不使用外部键盘，我想暂时禁用笔记本电脑键盘，但是“禁用” ;选项未显示。如果有人可以在这里帮助我，我将不胜感激 https://preview.redd.it/8udfn0tm002d1.png?width=595&amp;format=png&amp;auto=webp&amp;s=747b837ad6b77e5b3eec424f13c52d54 a1a17267   由   提交/u/4321getclappeboi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cy3gle/how_do_i_temporraily_disable_my_laptops_keyboard/</guid>
-      <pubDate>Wed, 22 May 2024 15:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪贴板实用程序，根据指示将所有剪辑记录在文本文件中</title>
-      <link>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</link>
-      <description><![CDATA[您好！ 我需要一些东西，当我尝试时，它会开始将我的 Ctrl+C 转储到文本文件中. 这将使我需要更快地执行一些轻微的网络抓取。 Windows 10 有类似的东西吗？ 谢谢大家！   由   提交 /u/Propenso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</guid>
-      <pubDate>Wed, 22 May 2024 14:51:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

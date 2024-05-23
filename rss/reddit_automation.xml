@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 23 May 2024 03:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 06:26:57 GMT</lastBuildDate>
     <item>
       <title>中央通知系统。</title>
       <link>https://www.reddit.com/r/automation/comments/1cy9frc/central_notification_system/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>有没有像 Tiny Task for Windows 这样的 iOS 应用程序？</title>
       <link>https://www.reddit.com/r/automation/comments/1cx7247/is_there_a_app_for_ios_like_tiny_task_für_windows/</link>
-      <description><![CDATA[嗨，我正在寻找一款功能与 Tiny Task 相同的 iOS 应用。记录我的输入并重复它们。我在网上没有找到任何东西。谢谢你的帮助。     提交人    /u/iNFiNiTiYoo   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我只是在寻找一款与 Tiny Task 功能相同的 iOS 应用程序。记录我的输入并重复它们。我在网上没有找到任何东西。感谢您的帮助。    由   提交/u/iNFiNiTiYoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cx7247/is_there_a_app_for_ios_like_tiny_task_für_windows/</guid>
       <pubDate>Tue, 21 May 2024 12:47:34 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>资源 - 找到了一个 Google 协作笔记本，用于将提供的 LoRA 适配器合并到指定的基本模型中。</title>
       <link>https://www.reddit.com/r/automation/comments/1cu6ite/resource_found_a_google_collab_notebook_for/</link>
-      <description><![CDATA[这是我们最近构建的一个协作笔记本，用于执行以下操作：  将提供的 LoRA 适配器合并到指定基础模型， 使用 AWQ 量化最终模型，并 将其推送到您的 Huggingface 存储库！  https://colab.research.google.com/drive/1O33ZNJbJPCYDSseabcZqKEBgcLDUzDaW?usp=sharing 早些时候，这些步骤曾经是 3 个大的复杂步骤。 现在有了这个笔记本，它是一个单一功能的执行！ 在构建用于受限生产的量化模型时，这些步骤有时至关重要/ GPU 内存支持有限的开发环境。 我已经使用这款笔记本 3 天了，希望它也能帮助您节省时间！ &lt;!-- SC_ON - -&gt;  由   提交/u/stupidauthor  [链接] [评论]]]></description>
+      <description><![CDATA[这是我们最近构建的一个单一协作笔记本，用于执行以下操作：  将提供的 LoRA 适配器合并到指定的基础模型中， 使用 AWQ 量化最终模型，然后 将其推送到您的 Huggingface Repo！  https://colab.research.google.com/drive/1O33ZNJbJPCYDSseabcZqKEBgcLDUzDaW?usp=sharing 以前，这曾经是 3 个复杂的大步骤。 现在有了这个笔记本，它就是一个单一功能的执行！ 这些步骤在以下时候至关重要：为 GPU 内存支持有限的受限生产/开发环境构建量化模型。 我已经使用这个笔记本 3 天了，希望它也能帮助你节省时间！    提交人    /u/stupidauthor   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cu6ite/resource_found_a_google_collab_notebook_for/</guid>
       <pubDate>Fri, 17 May 2024 14:24:34 GMT</pubDate>
     </item>
