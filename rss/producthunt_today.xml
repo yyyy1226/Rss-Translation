@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 23 May 2024 15:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 18:26:05 GMT</lastBuildDate>
+    <item>
+      <title>崛起2.0</title>
+      <link>https://www.producthunt.com/posts/rise-2-0</link>
+      <description><![CDATA[
+            项目、任务、Outlook 和移动设备
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rise-2-0</guid>
+      <pubDate>Thu, 23 May 2024 11:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>禅果</title>
       <link>https://www.producthunt.com/posts/zengoal</link>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 23 May 2024 08:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>Usermaven 2.0</title>
+      <title>用户maven 2.0</title>
       <link>https://www.producthunt.com/posts/usermaven-2-0</link>
       <description><![CDATA[
             由人工智能驱动的网络和产品分析的未来
@@ -79,12 +93,12 @@
       <title>我提醒AI</title>
       <link>https://www.producthunt.com/posts/remind-ai</link>
       <description><![CDATA[
-利用 AI 捕捉您的数字活动并将其用作记忆
+            捕捉您的数字活动并将其用作人工智能的记忆
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/remind-ai</guid>
       <pubDate>Thu, 23 May 2024 00:30:40 GMT</pubDate>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/starsearch</guid>
       <pubDate>Mon, 06 May 2024 02:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>流路2.0</title>
-      <link>https://www.producthunt.com/posts/flowlu-2-0</link>
-      <description><![CDATA[
-未来的商业是一体化的
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/flowlu-2-0</guid>
-      <pubDate>Tue, 23 Apr 2024 09:56:12 GMT</pubDate>
     </item>
     <item>
       <title>正常运行时间怪物</title>
