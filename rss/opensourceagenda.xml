@@ -3,112 +3,112 @@
   <channel>
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
-    <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Fri, 24 May 2024 15:22:20 GMT</lastBuildDate>
+    <description>最近添加的开源项目源</description>
+    <lastBuildDate>Fri, 24 May 2024 18:26:40 GMT</lastBuildDate>
     <item>
-      <title>庚烷</title>
-      <link>https://www.opensourceagenda.com/projects/epta</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/epta</guid>
-      <pubDate>Fri, 24 May 2024 15:22:19 GMT</pubDate>
+      <title>K 表示量化 Js</title>
+      <link>https://www.opensourceagenda.com/projects/k-means-quantization-js</link>
+      <description><![CDATA[使用 k-means 聚类对图像应用颜色量化。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/k-means-quantization-js</guid>
+      <pubDate>Fri, 24 May 2024 18:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>迪卡特里亚</title>
-      <link>https://www.opensourceagenda.com/projects/dekatria</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dekatria</guid>
-      <pubDate>Fri, 24 May 2024 15:22:19 GMT</pubDate>
+      <title>开放式服务</title>
+      <link>https://www.opensourceagenda.com/projects/opensvc</link>
+      <description><![CDATA[OpenSVC 节点代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opensvc</guid>
+      <pubDate>Fri, 24 May 2024 18:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>马努乔123二人组</title>
-      <link>https://www.opensourceagenda.com/projects/manucho123-duo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/manucho123-duo</guid>
-      <pubDate>Fri, 24 May 2024 15:22:19 GMT</pubDate>
+      <title>姆夫维埃</title>
+      <link>https://www.opensourceagenda.com/projects/mfcvae</link>
+      <description><![CDATA[🏁 MFCVAE 🏁 的官方 PyTorch 实现：“多方面聚类变分自编码器 (MFCVAE)”(NeurIPS 2021) ）。一类变分自动编码器，用于查找多个解纠缠的数据聚类。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mfcvae</guid>
+      <pubDate>Fri, 24 May 2024 18:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>减</title>
-      <link>https://www.opensourceagenda.com/projects/eksi</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/eksi</guid>
-      <pubDate>Fri, 24 May 2024 15:22:19 GMT</pubDate>
+      <title>M3C</title>
+      <link>https://www.opensourceagenda.com/projects/m3c</link>
+      <description><![CDATA[基于蒙特卡洛参考的共识聚类]]></description>
+      <guid>https://www.opensourceagenda.com/projects/m3c</guid>
+      <pubDate>Fri, 24 May 2024 18:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>Manucho123 泰塞拉</title>
-      <link>https://www.opensourceagenda.com/projects/manucho123-tessera</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/manucho123-tessera</guid>
-      <pubDate>Fri, 24 May 2024 15:22:18 GMT</pubDate>
+      <title>RBF 神经网络 Python</title>
+      <link>https://www.opensourceagenda.com/projects/rbf-neural-network-python</link>
+      <description><![CDATA[用于分类问题的径向基函数神经网络 (RBFNN) 的实现。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rbf-neural-network-python</guid>
+      <pubDate>Fri, 24 May 2024 18:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>MFaceTech InstantID</title>
-      <link>https://www.opensourceagenda.com/projects/mfacetech-instantid</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mfacetech-instantid</guid>
-      <pubDate>Fri, 24 May 2024 15:22:18 GMT</pubDate>
+      <title>猴头</title>
+      <link>https://www.opensourceagenda.com/projects/monkey-caput</link>
+      <description><![CDATA[图像的自定义 PyTorch 模型（VGG-16 自动编码器）和自定义标准（本地聚合）聚类。该存储库包含使用工厂方法详细创建真菌图像数据。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/monkey-caput</guid>
+      <pubDate>Fri, 24 May 2024 18:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>Manucho123 特里亚</title>
-      <link>https://www.opensourceagenda.com/projects/manucho123-tria</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/manucho123-tria</guid>
-      <pubDate>Fri, 24 May 2024 15:22:18 GMT</pubDate>
+      <title>大学文凭</title>
+      <link>https://www.opensourceagenda.com/projects/unidip</link>
+      <description><![CDATA[Unidip 聚类算法的 Python 端口，来自：http://www.kdd.org/kdd2016/subtopic /view/skinny-dip-clustering-in-a-sea-of-noise]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unidip</guid>
+      <pubDate>Fri, 24 May 2024 18:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>恩特卡</title>
-      <link>https://www.opensourceagenda.com/projects/enteka</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/enteka</guid>
-      <pubDate>Fri, 24 May 2024 15:22:18 GMT</pubDate>
+      <title>是的CDSD</title>
+      <link>https://www.opensourceagenda.com/projects/jo-cdsd</link>
+      <description><![CDATA[我们在 IEEE Transactions on MobileComputing 上的论文的模拟代码：“基站集群的联合优化”和以用户为中心的 MEC 中的服务缓存&#39;&#39;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jo-cdsd</guid>
+      <pubDate>Fri, 24 May 2024 18:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>LOURC0D3 CVE 2024 4367 PoC</title>
-      <link>https://www.opensourceagenda.com/projects/lourc0d3-cve-2024-4367-poc</link>
-      <description><![CDATA[CVE-2024-4367 和 CVE-2024-34342 概念证明]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lourc0d3-cve-2024-4367-poc</guid>
-      <pubDate>Fri, 24 May 2024 15:22:17 GMT</pubDate>
+      <title>特博纳德·巴黎</title>
+      <link>https://www.opensourceagenda.com/projects/tbonald-paris</link>
+      <description><![CDATA[层次图聚类]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tbonald-paris</guid>
+      <pubDate>Fri, 24 May 2024 18:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>德卡恩尼亚</title>
-      <link>https://www.opensourceagenda.com/projects/dekaennia</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dekaennia</guid>
-      <pubDate>Fri, 24 May 2024 15:22:17 GMT</pubDate>
+      <title>WPR自动编码器</title>
+      <link>https://www.opensourceagenda.com/projects/wprautoencoders</link>
+      <description><![CDATA[这是 Petrobras 在 GitHub 上的开放存储库之一。它包含 WPRAutoencoders 项目，其中包括井眼压力响应生成器、20,000 个合成压力响应的数据集以及能够根据传输率和储层几何形状对这些数据进行聚类的自动编码器神经网络。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wprautoencoders</guid>
+      <pubDate>Fri, 24 May 2024 18:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>埃科西</title>
-      <link>https://www.opensourceagenda.com/projects/eikosi</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/eikosi</guid>
-      <pubDate>Fri, 24 May 2024 15:22:17 GMT</pubDate>
+      <title>素食主义者旋转</title>
+      <link>https://www.opensourceagenda.com/projects/vectominist-spin</link>
+      <description><![CDATA[Interspeech 2023 论文“Self-supervised Fine-tuning for Improve Content Representations by Speaker-”的官方代码不变聚类”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vectominist-spin</guid>
+      <pubDate>Fri, 24 May 2024 18:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>自动语音注释器</title>
-      <link>https://www.opensourceagenda.com/projects/automatic-speech-annotator</link>
-      <description><![CDATA[自动语音注释器通过语音激活检测、重叠语音检测、说话人分类和自动处理语音语音识别]]></description>
-      <guid>https://www.opensourceagenda.com/projects/automatic-speech-annotator</guid>
-      <pubDate>Fri, 24 May 2024 15:22:16 GMT</pubDate>
+      <title>点过程</title>
+      <link>https://www.opensourceagenda.com/projects/point-processes</link>
+      <description><![CDATA[此存储库包含与我的书《随机过程》相关的材料（数据集、代码、视频、电子表格）和模拟 - 机器学习的视角。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/point-processes</guid>
+      <pubDate>Fri, 24 May 2024 18:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>Maxmandia 自动完成</title>
-      <link>https://www.opensourceagenda.com/projects/maxmandia-autocomplete</link>
-      <description><![CDATA[适用于每个  元素的人工智能自动完成功能。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/maxmandia-autocomplete</guid>
-      <pubDate>Fri, 24 May 2024 15:22:16 GMT</pubDate>
+      <title>集团普罗克斯</title>
+      <link>https://www.opensourceagenda.com/projects/grouprox</link>
+      <description><![CDATA[FedGroup，基于 Tensorflow 的集群联邦学习框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/grouprox</guid>
+      <pubDate>Fri, 24 May 2024 18:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>Shubh24电梯</title>
-      <link>https://www.opensourceagenda.com/projects/shubh24-elevator</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shubh24-elevator</guid>
-      <pubDate>Fri, 24 May 2024 15:22:16 GMT</pubDate>
+      <title>CS2008机器学习实践</title>
+      <link>https://www.opensourceagenda.com/projects/cs2008-machine-learning-practice</link>
+      <description><![CDATA[包含 scikit-learn 介绍的存储库，为以下人员提供解决问题的实践经验MLT中学到的所有方法和模型。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cs2008-machine-learning-practice</guid>
+      <pubDate>Fri, 24 May 2024 18:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>基本 ComfyUI 工作流程</title>
-      <link>https://www.opensourceagenda.com/projects/basic-comfyui-workflows</link>
-      <description><![CDATA[使用最少自定义节点的 ComyUI 基本稳定扩散工作流程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/basic-comfyui-workflows</guid>
-      <pubDate>Fri, 24 May 2024 15:22:16 GMT</pubDate>
+      <title>快速欧几里得聚类</title>
+      <link>https://www.opensourceagenda.com/projects/fast-euclidean-clustering</link>
+      <description><![CDATA[🚀 点云的快速欧几里得聚类✨]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fast-euclidean-clustering</guid>
+      <pubDate>Fri, 24 May 2024 18:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
