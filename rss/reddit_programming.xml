@@ -4,16 +4,30 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 01:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 03:24:22 GMT</lastBuildDate>
+    <item>
+      <title>signalfd没用</title>
+      <link>https://www.reddit.com/r/programming/comments/1d02tov/signalfd_is_useless/</link>
+      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d02tov/signalfd_is_useless/</guid>
+      <pubDate>Sat, 25 May 2024 03:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该从哪里开始学习？我正在为初学者开设一门应用于生物学的Python课程，并且是我生物技术职业生涯的最后一年。我想找一份编程方面的半职工作来生存，直到我完成学业，然后转向生物信息学。我应该学什么？ <3</title>
+      <link>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</link>
+      <description><![CDATA[ 由   提交/u/Keikeii0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</guid>
+      <pubDate>Sat, 25 May 2024 02:04:37 GMT</pubDate>
+    </item>
     <item>
       <title>开源人工智能简介（与 Llama 3）</title>
       <link>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</link>
-      <description><![CDATA[ 由   提交/u/kushalgoenka  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/kushalgoenka  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</guid>
       <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
     </item>
     <item>
-      <title>[IntelliJ Plugin] HoverNumberConverter - 即时数字转换信息</title>
+      <title>[IntelliJ Plugin] HoverNumberConverter - 动态数字转换信息</title>
       <link>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</link>
       <description><![CDATA[ 由   提交/u/ronmen91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>扩散模型</title>
       <link>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</link>
-      <description><![CDATA[  由    /u/reasonableklout  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/reasonableklout  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</guid>
       <pubDate>Fri, 24 May 2024 22:33:20 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/crazeeflapjack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czuwlp/software_as_a_point_of_failure/</guid>
       <pubDate>Fri, 24 May 2024 20:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是如何让 PHP 无法编写意大利面条式代码的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</link>
-      <description><![CDATA[ 由   提交 /u/Slow-Reaction-5655   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</guid>
-      <pubDate>Fri, 24 May 2024 20:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 python 库，用于连接线程并有效地从线程返回值！</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</link>
-      <description><![CDATA[ 由   提交/u/Sxvxge_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</guid>
-      <pubDate>Fri, 24 May 2024 20:36:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
