@@ -4,9 +4,16 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 May 2024 21:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 01:20:23 GMT</lastBuildDate>
     <item>
-      <title>最好的在线/免费工具来编制调查问卷并将其转换成词云，但略有不同？</title>
+      <title>需要销售 CRM</title>
+      <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
+      <description><![CDATA[我正在寻找一种处理销售数据并能生成大量报告的软件，就像 excel 的数据透视表一样。虽然 excel 可以很好地处理这个问题，但数据在增长，超过 4000 行，excel 变得越来越慢。 该软件可以免费或付费。最好是免费或免费增值版，甚至可以从 github 开源。    提交人    /u/awaixjvd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
+      <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
       <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且适合通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>手机和电脑上不可见的unicode</title>
+      <title>适用于移动设备和 PC 的隐形 unicode</title>
       <link>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</link>
       <description><![CDATA[是否存在在移动设备和 PC 上都看不见的 unicode？我不是在谈论空格，而是在谈论不可见的实际字符。   由   提交/u/Stab_me_goodnight  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 24 May 2024 13:55:07 GMT</pubDate>
     </item>
     <item>
-      <title>类似于 Windows 照片？</title>
+      <title>类似于 Windows Photo 的东西？</title>
       <link>https://www.reddit.com/r/software/comments/1czksbp/something_similar_to_windows_photo/</link>
       <description><![CDATA[你好，我最近安装了 Tiny10，它是 Windows 10 的精简版本，并且运行得非常好，不过现在我注意到我需要回顾一些pdf、jpg 等文件和文档，没有 Stock Windows Photo，我什至没有设法重新安装 Windows Store，所以我有点卡住了，我尝试了玻璃，但它对我来说很糟糕，速度慢，将图像压缩到难以辨认的程度和类似的，我想在观看 Windows 照片中的图像时使用箭头键滚动，所以有什么想法吗？   由   提交 /u/EcoIsASadBanana   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czksbp/something_similar_to_windows_photo/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我也有日本朋友聊天，我一直在寻找一些软件（或任何真正的东西），可以让我翻译我的日本朋友的内容他们用我有限的语言知识对我说？   由   提交 /u/LesPaular   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czct6s/is_there_any_translating_software_that_will/</guid>
       <pubDate>Fri, 24 May 2024 04:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需一分钟即可轻松启动任何 .exe 屏幕。我的第一个软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</link>
-      <description><![CDATA[大家好！想介绍一个我开发的通用启动器作为我的第一个软件。对于用户来说，这是一个非常简单的过程，所需要的只是一个自定义的 .png 图像。对于游戏开发者和其他软件创建者来说是一个很棒的工具。它为任何 Windows 应用程序增添了一丝优雅。 查看 Universal App Launcher Lite (UALL) @ https://craftyscript .com/software/ 只需将文件拖放到可执行文件夹中，创建自定义启动图像，然后启动！接受定制请求。    由   提交/u/NoobDev7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</guid>
-      <pubDate>Fri, 24 May 2024 04:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
