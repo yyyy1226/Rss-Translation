@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 06:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:19:23 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元的详细信息和有关我需要的内容的评论</title>
+      <link>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</link>
+      <description><![CDATA[我有许多旧杂志的 PDF 文件，这些杂志已不再印刷，而且已经有大约 30 年没有印刷了。我想要做的是进入 PDF 编辑器，在那里我可以更改页边距大小和页面大小，并添加来自 lulu.com 的模板，为自己打印一些单独的添加内容，这样我就可以像以前一样浏览它们当杂志还很流行的时候，我不需要专业的 PDF 编辑器，只需要可以轻松调整大小、压缩、组合和更改边距，还可以添加来自 lulu.com 的模板   由   提交 /u/thephillman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</guid>
+      <pubDate>Sat, 25 May 2024 08:46:07 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过这个吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</link>
-      <description><![CDATA[我正在寻找后台桌面日历并发现了这个网站。我真的很喜欢这个概念，但不知道它是否需要安全使用，我不希望它最终成为病毒 https://www.desktopcal.com/ 有人听说过这个并使用过它，或者对类似的应用程序有推荐吗？    由   提交 /u/Emozziis   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个背景桌面日历，然后偶然发现了这个网站。我真的很喜欢这个概念，但不知道它是否安全使用，我不希望它最终成为病毒  https://www.desktopcal.com/ 有没有人听说过这个并且用过它或者有类似的应用程序推荐？     提交人    /u/Emozziis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</guid>
       <pubDate>Sat, 25 May 2024 05:36:21 GMT</pubDate>
     </item>
@@ -22,12 +29,12 @@
     <item>
       <title>需要销售 CRM</title>
       <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
-      <description><![CDATA[我正在寻找一种处理销售数据并能生成大量报告的软件，就像 excel 的数据透视表一样。虽然 excel 可以很好地处理这个问题，但数据在增长，超过 4000 行，excel 变得越来越慢。 该软件可以免费或付费。最好是免费或免费增值版，甚至可以从 github 开源。    提交人    /u/awaixjvd   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
       <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
+      <title>最好的在线/免费工具来编制调查问卷并将其转换成词云，但略有不同？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
       <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且适合通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>允许您编辑 HTML 来撰写邮件的电子邮件客户端？</title>
       <link>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</link>
-      <description><![CDATA[是否有任何电子邮件客户端可以让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但会接受 Linux 选项。   由   提交/u/cisco_bee  [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何电子邮件客户端可让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但也接受 Linux 选项。    提交人    /u/cisco_bee   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</guid>
       <pubDate>Fri, 24 May 2024 16:32:08 GMT</pubDate>
     </item>
@@ -71,19 +78,19 @@
     <item>
       <title>类似于 Windows 照片？</title>
       <link>https://www.reddit.com/r/software/comments/1czksbp/something_similar_to_windows_photo/</link>
-      <description><![CDATA[你好，我最近安装了 Tiny10，这是 Windows 10 的精简版，运行效果非常好，但现在我注意到我需要审阅一些 pdf、jpg 等格式的论文和文档，但它没有 Stock Windows Photo，我甚至无法重新安装 Windows Store，所以我有点卡住了，我尝试了 glass，但它对我来说很糟糕，很慢，将图像压缩到难以辨认的程度等，我想在观看图像时使用箭头键滚动，就像在 Windows 照片中一样，所以有什么想法吗？    提交人    /u/EcoIsASadBanana   [链接] [评论]]]></description>
+      <description><![CDATA[你好，我最近安装了 Tiny10，它是 Windows 10 的精简版本，并且运行得非常好，不过现在我注意到我需要回顾一些pdf、jpg 等文件和文档，没有 Stock Windows Photo，我什至没有设法重新安装 Windows Store，所以我有点卡住了，我尝试了玻璃，但它对我来说很糟糕，速度慢，将图像压缩到难以辨认的程度和类似的，我想在观看 Windows 照片中的图像时使用箭头键滚动，所以有什么想法吗？   由   提交 /u/EcoIsASadBanana   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czksbp/something_similar_to_windows_photo/</guid>
       <pubDate>Fri, 24 May 2024 13:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>软件开发中的角色识别和分配调查——大学项目需要帮助！</title>
+      <title>软件开发中角色识别和分配调查——大学项目需要帮助！</title>
       <link>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</link>
-      <description><![CDATA[我是一名大学生，目前正在进行我的期末项目，该项目的重点是了解角色的识别和分配如何影响软件开发的各个阶段。您的意见对我的研究非常宝贵，如果您能花几分钟时间完成这项调查，我将不胜感激。  点击此处参与调查 该调查完全匿名，您的回答将对我的研究质量做出重大贡献。完成时间不会超过 10 分钟。 非常感谢您的时间和帮助！   由   提交 /u/LordDule   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名大学生，目前正在做我的期末项目，该项目的重点是了解角色的识别和分配如何影响软件开发的各个阶段。您的意见对我的研究非常宝贵，如果您能花几分钟时间完成这项调查，我将不胜感激。 单击此处参与调查 这项调查是完全匿名的，您的回答将大大提高我的研究质量。完成调查不应超过 10 分钟。 非常感谢您抽出时间和帮助！    提交人    /u/LordDule   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</guid>
       <pubDate>Fri, 24 May 2024 13:19:41 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个变声器软件，可以让我上传一堆具有特定声音的音频文件，以使用生成的声音创建现场录音</title>
+      <title>寻找一款变声软件，可以让我上传一堆特定声音的音频文件，用生成的声音创建现场录音</title>
       <link>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</link>
       <description><![CDATA[嘿，标题说明了一切：正在寻找一个变声软件，可以让我上传一堆具有特定声音的音频文件来创建现场 -带有生成语音的录音   由   提交 /u/birgiir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>规则引擎和文本在Word模板引擎中创建</title>
       <link>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</link>
-      <description><![CDATA[有没有一个软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。如：输入：a1f -&gt;输出：“这是一个测试” 然后 3. 使用占位符中的这些文本段填写标准化的预格式化 Word 模板？   由   提交/u/pivo161  [链接] [评论]]]></description>
+      <description><![CDATA[有没有软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。例如：输入：a1f -&gt; 输出：“this is a test” 然后 3. 用占位符中的这些文本段填写标准化、预格式化的 word 模板？    提交人    /u/pivo161   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</guid>
       <pubDate>Fri, 24 May 2024 07:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于创建剪贴簿/日记来记录我的愿望清单的最佳免费离线软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</link>
-      <description><![CDATA[我创建了一个愿望清单，我想在努力完成每个项目时保留我的愿望清单旅程的记忆。我正在寻找一款 Windows 10 上的免费软件，该软件可以离线运行，并且能够录制带有时间戳的音频、视频、照片和文本。  我想到了 OneNote，但找不到任何方法来创建只能离线使用的笔记本。我不想让遗愿清单上线，即使是无意的。尽管我可能会在我的 Facebook、个人网站或 YouTube 上分享部分愿望清单。  有什么最好的软件建议吗？   由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</guid>
-      <pubDate>Fri, 24 May 2024 07:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
