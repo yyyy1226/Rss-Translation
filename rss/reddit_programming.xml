@@ -4,11 +4,32 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 May 2024 06:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 09:21:19 GMT</lastBuildDate>
     <item>
-      <title>VS Code 问题，在 Google 和 Youtube 上找不到解决方案</title>
+      <title>您所在的 .NET 组织中是否有许多 API？您想为团队建立沟通变更的途径吗？查看我创建的这个项目，Pivotte！想想“protobuf”，但是对于 HTTP API！</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0xeo9/are_you_in_a_net_org_with_many_apis_do_you_want/</link>
+      <description><![CDATA[ 由   提交 /u/mind_your_blissness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0xeo9/are_you_in_a_net_org_with_many_apis_do_you_want/</guid>
+      <pubDate>Sun, 26 May 2024 09:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于大脑来说，阅读计算机代码与阅读语言不同</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</link>
+      <description><![CDATA[ 由   提交/u/pinkpen_net  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</guid>
+      <pubDate>Sun, 26 May 2024 08:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>由专人领导项目的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</link>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</guid>
+      <pubDate>Sun, 26 May 2024 07:49:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code 问题，在 Google 和 Youtube 中找不到解决方案</title>
       <link>https://www.reddit.com/r/programming/comments/1d0ujvj/vs_code_problem_cant_find_soln_in_google_youtube/</link>
-      <description><![CDATA[如何永久保存 vs code 中的断点和手动折叠？ 我在我的 1 个 vs code 文件中保存了大量断点和保存，其中 4000 行 js 代码是部分编写的，从我开始学习到现在已经积累了 2 个多月，但现在当我再次打开我的 vs code 时，却找不到断点和我创建的那些折叠！ 发现那些断点和折叠范围都是临时的，我怎样才能使这些断点和折叠范围永久存在，有没有什么方法因为我正在从课程中分部分学习，我已经存储了第 1 部分的代码和自我练习，并为第 1 部分、第 2 部分、第 3 部分等创建了手动折叠范围...... 如果您知道任何方法，请帮忙，因为我找不到使它们永久存在的方法    由    /u/JustRelaxAnonymous  提交  [链接] [评论]]]></description>
+      <description><![CDATA[如何永久保存 VS Code 中的断点和手动折叠？ 我在我的程序中保存了大量的断点和保存1个vs code文件，其中4000行js代码是逐段编写的，从我开始学习以来积累了2个多月，但现在当我再次打开我的vs code时，没有断点和我创建的那些折叠！&lt; /p&gt; 发现这些断点和折叠范围是临时的，我怎样才能使这些断点和折叠范围永久存在，有什么办法，因为我正在从课程中逐步学习，并且我已经存储了第 1 部分的代码和自我练习并为第 1 部分、第 2 部分、第 3 部分等创建手动搜索范围... 如果您知道有任何方法，请提供帮助，因为我找不到使它们永久化的方法   由   提交 /u/JustRelaxAnonymous   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0ujvj/vs_code_problem_cant_find_soln_in_google_youtube/</guid>
       <pubDate>Sun, 26 May 2024 05:37:17 GMT</pubDate>
     </item>
@@ -20,7 +41,7 @@
       <pubDate>Sun, 26 May 2024 01:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>.NES——NES 游戏机的 .NET</title>
+      <title>.NES——用于 NES 游戏机的 .NET</title>
       <link>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>我们可以从编程语言的版本号中了解到什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</guid>
       <pubDate>Sun, 26 May 2024 00:58:49 GMT</pubDate>
     </item>
@@ -62,53 +83,32 @@
       <pubDate>Sat, 25 May 2024 19:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>SemVer 非常需要升级：EmojiVer😂😄😄！</title>
+      <title>急需升级 SemVer：EmojiVer😂😄😄！</title>
       <link>https://www.reddit.com/r/programming/comments/1d0iqez/a_much_needed_upgrade_to_semver_emojiver/</link>
-      <description><![CDATA[ 由   提交/u/raelepei  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/raelepei  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0iqez/a_much_needed_upgrade_to_semver_emojiver/</guid>
       <pubDate>Sat, 25 May 2024 18:49:59 GMT</pubDate>
     </item>
     <item>
       <title>Flutter WhatsApp 网络克隆</title>
       <link>https://www.reddit.com/r/programming/comments/1d0ils4/flutter_whatsapp_web_clone/</link>
-      <description><![CDATA[  由    /u/Skipper_14Ck  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Skipper_14Ck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0ils4/flutter_whatsapp_web_clone/</guid>
       <pubDate>Sat, 25 May 2024 18:43:46 GMT</pubDate>
     </item>
     <item>
       <title>Python 类型提示：函数、返回值、变量</title>
       <link>https://www.reddit.com/r/programming/comments/1d0hajv/python_type_hints_functions_return_values_variable/</link>
-      <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0hajv/python_type_hints_functions_return_values_variable/</guid>
       <pubDate>Sat, 25 May 2024 17:42:54 GMT</pubDate>
     </item>
     <item>
       <title>MercadoLibre 开发人员 API 的分步指南</title>
       <link>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</link>
-      <description><![CDATA[  由    /u/API2Cart  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/API2Cart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</guid>
       <pubDate>Sat, 25 May 2024 17:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：摘要 #21</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0g01b/engineering_with_java_digest_21/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0g01b/engineering_with_java_digest_21/</guid>
-      <pubDate>Sat, 25 May 2024 16:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何将 DuckDB 融合到 Postgres 中</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0ftso/how_we_fused_duckdb_into_postgres/</link>
-      <description><![CDATA[ 由   提交/u/craig081785  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0ftso/how_we_fused_duckdb_into_postgres/</guid>
-      <pubDate>Sat, 25 May 2024 16:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的函数式编程和尾递归 |中等文章 |感谢反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0f4je/functional_programming_and_tail_recursion_in/</link>
-      <description><![CDATA[ 由   提交/u/Traditional_Hat861   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0f4je/functional_programming_and_tail_recursion_in/</guid>
-      <pubDate>Sat, 25 May 2024 16:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
