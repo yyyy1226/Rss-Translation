@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 May 2024 03:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:25:41 GMT</lastBuildDate>
     <item>
-      <title>什么可以让你更好地为这份工作做好准备？开发…</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0s3rx/what_prepares_you_for_the_job_betterdev/</link>
-      <description><![CDATA[我目前是一所不提供计算机数学学习的无名学校的一年级学生。我意识到我想进入软件工程领域。我想成为人工智能和机器学习方面的专家。我希望专注于人工智能系统和机器学习模型的设计、开发部署、维护和改进。我想研究预测和预测模型。我想成为 Spotify 和 Netflix 等公司的内容推荐、审核等算法方面的专家，或者 X 等公司的用户分类和客户细分算法、情感分析算法、识别和身份验证算法以及欺诈检测和智能信任安全系统方面的专家和Reddit。这个职位可能是由高级数据科学家、研究人员或机器学习工程师来描述的，所以没有真正的入门级工作。我如何进入大联盟，我应该从后端、开发运营还是数据工程开始。我应该获得工作经验还是硕士/博士学位。我的意思是，我绝对知道我应该转学到一所教授计算机科学的学校，因为即使我在大学做的数学也感觉很简单，但你能说什么来帮助我取得成功？   由   提交/u/Cold-Advance-2250   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0s3rx/what_prepares_you_for_the_job_betterdev/</guid>
-      <pubDate>Sun, 26 May 2024 03:00:33 GMT</pubDate>
+      <title>VS Code 问题，在 Google 和 Youtube 上找不到解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0ujvj/vs_code_problem_cant_find_soln_in_google_youtube/</link>
+      <description><![CDATA[如何永久保存 vs code 中的断点和手动折叠？ 我在我的 1 个 vs code 文件中保存了大量断点和保存，其中 4000 行 js 代码是部分编写的，从我开始学习到现在已经积累了 2 个多月，但现在当我再次打开我的 vs code 时，却找不到断点和我创建的那些折叠！ 发现那些断点和折叠范围都是临时的，我怎样才能使这些断点和折叠范围永久存在，有没有什么方法因为我正在从课程中分部分学习，我已经存储了第 1 部分的代码和自我练习，并为第 1 部分、第 2 部分、第 3 部分等创建了手动折叠范围...... 如果您知道任何方法，请帮忙，因为我找不到使它们永久存在的方法    由    /u/JustRelaxAnonymous  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0ujvj/vs_code_problem_cant_find_soln_in_google_youtube/</guid>
+      <pubDate>Sun, 26 May 2024 05:37:17 GMT</pubDate>
     </item>
     <item>
       <title>Galois/Counter 模式和随机数</title>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 26 May 2024 01:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>.NES——用于 NES 游戏机的 .NET</title>
+      <title>.NES——NES 游戏机的 .NET</title>
       <link>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</guid>
@@ -29,14 +29,14 @@
     <item>
       <title>我们可以从编程语言的版本号中了解到什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</link>
-      <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</guid>
       <pubDate>Sun, 26 May 2024 00:58:49 GMT</pubDate>
     </item>
     <item>
       <title>2024 年开发者最佳托管选择</title>
       <link>https://www.reddit.com/r/programming/comments/1d0m9u2/best_hosting_options_for_developers_in_2024/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0m9u2/best_hosting_options_for_developers_in_2024/</guid>
       <pubDate>Sat, 25 May 2024 21:40:34 GMT</pubDate>
     </item>
@@ -64,28 +64,28 @@
     <item>
       <title>SemVer 非常需要升级：EmojiVer😂😄😄！</title>
       <link>https://www.reddit.com/r/programming/comments/1d0iqez/a_much_needed_upgrade_to_semver_emojiver/</link>
-      <description><![CDATA[  由    /u/raelepei  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/raelepei  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0iqez/a_much_needed_upgrade_to_semver_emojiver/</guid>
       <pubDate>Sat, 25 May 2024 18:49:59 GMT</pubDate>
     </item>
     <item>
       <title>Flutter WhatsApp 网络克隆</title>
       <link>https://www.reddit.com/r/programming/comments/1d0ils4/flutter_whatsapp_web_clone/</link>
-      <description><![CDATA[ 由   提交/u/Skipper_14Ck   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Skipper_14Ck  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0ils4/flutter_whatsapp_web_clone/</guid>
       <pubDate>Sat, 25 May 2024 18:43:46 GMT</pubDate>
     </item>
     <item>
       <title>Python 类型提示：函数、返回值、变量</title>
       <link>https://www.reddit.com/r/programming/comments/1d0hajv/python_type_hints_functions_return_values_variable/</link>
-      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0hajv/python_type_hints_functions_return_values_variable/</guid>
       <pubDate>Sat, 25 May 2024 17:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>MercadoLibre 开发者 API 分步指南</title>
+      <title>MercadoLibre 开发人员 API 的分步指南</title>
       <link>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</link>
-      <description><![CDATA[ 由   提交 /u/API2Cart   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/API2Cart  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</guid>
       <pubDate>Sat, 25 May 2024 17:02:27 GMT</pubDate>
     </item>
