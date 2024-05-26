@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 May 2024 01:28:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 03:20:55 GMT</lastBuildDate>
     <item>
       <title>寻找一个可以使用一体机打印机的扫描仪功能一次从一张纸上读取多个条形码的程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0oehe/looking_for_a_program_that_can_read_several/</link>
-      <description><![CDATA[我有几张纸，上面有许多条形码，读取时，它会提供写在条形下方的代码（也许我是多余的，但这是我的第一次使用条形码）。我必须将上述代码复制到 Excel 文件中。 我可以像老式方法一样复制它们（用键盘打字），但这需要最长的时间。 我还可以使用Android 应用程序读取代码，将其复制到 Excel 文件，然后将文件传输到 PC，但这似乎是额外的步骤。 如果我能以某种方式使用打印机的扫描仪作为条形码读取器，它也是额外的步骤，但我可以更快地完成这项工作，因为一次会包含多个代码。 我在网上找到了一些程序，但它们要么一次只扫描一个代码，要么需要网络摄像头。  那么...有这样的程序吗？我使用的是 Windows 11，我的 AIO 是 HP Deskjet 1050A。   由   提交 /u/UnusualPete   [链接] [评论]]]></description>
+      <description><![CDATA[我有几张纸，上面有许多条形码，读取时会提供条形码下方的代码（可能我是多余的，但这是我第一次使用条形码）。我必须将这些代码复制到 Excel 文件中。 我可以像老式的方法一样复制它们（用键盘打字），但这需要最长的时间。 我也可以使用 Android 应用程序读取代码，将它们复制到 Excel 文件，然后将文件传输到 PC，但这似乎是额外的步骤。 如果我能以某种方式将打印机的扫描仪用作条形码读取器，这也是额外的步骤，但我可以更快地完成工作，因为一次可以扫描多个代码。 我在网上找到了一些程序，但它们要么每次只能扫描一个代码，要么需要网络摄像头。 那么...有这样的程序吗？我使用的是 Windows 11，我的 AIO 是 HP Deskjet 1050A。    提交人    /u/UnusualPete   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0oehe/looking_for_a_program_that_can_read_several/</guid>
       <pubDate>Sat, 25 May 2024 23:27:26 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>我需要 Windows 上的软件通过右键单击图像来为图像添加自定义水印。</title>
       <link>https://www.reddit.com/r/software/comments/1d0gtxy/i_need_software_on_windows_to_add_a_custom/</link>
-      <description><![CDATA[  由    /u/zizo999  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/zizo999  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0gtxy/i_need_software_on_windows_to_add_a_custom/</guid>
       <pubDate>Sat, 25 May 2024 17:21:01 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 25 May 2024 16:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>Freecommander 文件管理器</title>
+      <title>自由指挥官文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1d0epi9/freecommander_file_manager/</link>
       <description><![CDATA[大家好， 我目前在 Windows 11 上使用 freecommander 作为文件管理器。当我将工具栏按钮调整为使它们更大一点或调整它被切断的字体，并且它不完全可见。附上屏幕截图，您就会明白我的意思。 非常感谢任何帮助。这让我发疯！   由   提交/u/MikeGaud_78   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0epi9/freecommander_file_manager/</guid>
@@ -92,12 +92,12 @@
     <item>
       <title>需要销售 CRM</title>
       <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
-      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一种处理销售数据并能生成大量报告的软件，就像 excel 的数据透视表一样。虽然 excel 可以很好地处理这个问题，但数据在增长，超过 4000 行，excel 变得越来越慢。 该软件可以免费或付费。最好是免费或免费增值版，甚至可以从 github 开源。    提交人    /u/awaixjvd   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
       <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>最好的在线/免费工具来编制调查问卷并将其转换成词云，但略有不同？</title>
+      <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
       <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且能够通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</guid>
