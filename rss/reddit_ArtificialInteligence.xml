@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 May 2024 12:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 15:19:57 GMT</lastBuildDate>
+    <item>
+      <title>快速管理工具/软件</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d13g8y/prompt_management_toolssoftware/</link>
+      <description><![CDATA[大家好 - 我正在使用 ChatGPT 和 LangChain 构建一个 AI 应用程序。谁能推荐用于版本控制和跟踪提示输出质量的提示管理软件？   由   提交 /u/leveltenetenetlevel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d13g8y/prompt_management_toolssoftware/</guid>
+      <pubDate>Sun, 26 May 2024 15:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以通过 AI 检测来播放这首歌吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d12sml/could_someone_please_run_this_song_through_ai/</link>
+      <description><![CDATA[时长 30 秒，可在此处下载： https://www.watzatsong.com/uploads/samples/a00e2023-11b6-4f02-84c2-e985875f497b.mp3?1714520 094    由   提交 /u/nelgix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d12sml/could_someone_please_run_this_song_through_ai/</guid>
+      <pubDate>Sun, 26 May 2024 14:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ai元搜索（多引擎）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d11l5m/ai_meta_search_multiple_engines/</link>
+      <description><![CDATA[过去我们同时在多个引擎上进行元搜索。有没有人见过一种通过单一提示搜索 Gemini、ChatGPT 等并优先考虑最佳响应的方法？   由   提交 /u/thrashertm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d11l5m/ai_meta_search_multiple_engines/</guid>
+      <pubDate>Sun, 26 May 2024 13:39:25 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能热潮带来巨大收益后，英伟达将进行 10 股拆股</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</link>
@@ -20,23 +41,16 @@
       <pubDate>Sun, 26 May 2024 12:22:19 GMT</pubDate>
     </item>
     <item>
-      <title>专家团队 GPT4</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0y4w8/team_of_experts_gpt4/</link>
-      <description><![CDATA[ 由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/gallery/1d0y466&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0y4w8/team_of_experts_gpt4/</guid>
-      <pubDate>Sun, 26 May 2024 10:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>尝试授予 ChatGPT 访问客户电子邮件的权限。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0x1qa/trying_to_give_chatgpt_access_to_customer_emails/</link>
-      <description><![CDATA[我可能错过了一些简单而明显的东西。  让 GPT4 分析我的电子邮件并提供建议的好方法是什么？  示例：我想知道我上次为客户工作时他们试图实现的目标是什么。电子邮件有该信息。我希望 GPT 告诉我客户想要实现的目标，这样我就可以在几个月后将其作为个性化后续电子邮件的一种方式。  这比我预想的要困难得多。我认为对此会有很多用户友好的解决方案，因为每个企业可能都需要同样的东西。  我正在查看 IFTTT 和 chrome 扩展和脚本...  我不想手动执行操作。我试图根据电子邮件快速、轻松地获取有关每个客户的信息摘要。  从我在广告中看到的情况来看，谷歌的人工智能也可以做到这一点。但我和gemini聊天，它说它也无法访问我的电子邮件。  所以我最终一次将一批电子邮件导出到带有 chrome 扩展的 googlesheet，但这会自动将每封电子邮件的正文分成一个单独的文件，所以我不能简单地与GPT 让它分析数据。  让 GPT 访问我客户的电子邮件正文的简单、明显的方法是什么？谢谢！！！    由   提交 /u/FreelancerChurch   [链接] [评论]]]></description>
+      <description><![CDATA[我可能错过了一些简单而明显的东西。  让 GPT4 分析我的电子邮件并提供建议的好方法是什么？  示例：我想知道我上次为客户工作时他们试图实现的目标是什么。电子邮件有该信息。我希望 GPT 告诉我客户想要实现的目标，这样我就可以在几个月后将其作为个性化后续电子邮件的一种方式。  这比我预想的要困难得多。我认为对此会有很多用户友好的解决方案，因为每个企业可能都需要同样的东西。  我正在查看 IFTTT 和 chrome 扩展和脚本...  我不想手动执行操作。我试图根据电子邮件快速、轻松地获取每个客户的信息摘要。  从我在广告中看到的，谷歌的人工智能也可以做到这一点。但我和gemini聊天，它说它也无法访问我的电子邮件。  所以我最终一次将一批电子邮件导出到带有 chrome 扩展的 googlesheet，但这会自动将每封电子邮件的正文分成一个单独的文件，所以我不能简单地与GPT 让它分析数据。  让 GPT 访问我客户的电子邮件正文的简单、明显的方法是什么？谢谢！！！    由   提交 /u/FreelancerChurch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0x1qa/trying_to_give_chatgpt_access_to_customer_emails/</guid>
       <pubDate>Sun, 26 May 2024 08:39:19 GMT</pubDate>
     </item>
     <item>
       <title>xLSTM：新的、更好的 LSTM 回来了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0v4nl/xlstm_the_new_and_better_lstm_is_back/</link>
-      <description><![CDATA[LSTM 具有三个主要局限性： (i) 无法修改存储决策： LSTM 举步维艰当发现更相似的向量时修改存储值，而我们的新 xLSTM 通过指数门控来弥补这一限制。基本上，如果某些东西在之前的状态中以某种方式被遗忘，我们就无法检索它，因为 LSTM 中的记忆保存在某些单元状态中，而不是实际信息。 (ii) 有限存储容量：信息必须被压缩成标量单元状态。这种限制通过稀有令牌预测得到了例证。由于存储容量有限，LSTM 在稀有代币上的表现较差。新的xLSTM通过矩阵内存解决了这个问题。 (iii) 由于内存混合而缺乏并行性：隐藏状态之间从一个时间步长到另一个时间步长之间的隐藏-隐藏连接接下来，强制执行顺序处理。这是 LSTM 的最大问题，无法充分利用 GPU 并行性。 完整文章： https://medium.com/p/b7d3f2f50129 为了克服 LSTM 的限制，扩展长短期记忆 (xLSTM) 引入了两个主要修改。这些修改——指数门控和新颖的记忆结构——丰富了 LSTM 系列的两个成员：(i) 具有标量记忆、标量更新和记忆混合的新 sLSTM ，以及 (ii) 具有矩阵存储器和协方差（外积）更新规则的新 mLSTM，该规则是完全可并行化的。 两者都是 sLSTM mLSTM 通过指数门控增强 LSTM。为了实现并行化，mLSTM 放弃了内存混合，即隐藏-隐藏的循环连接。 mLSTM 和 sLSTM 都可以扩展到多个记忆单元，其中 sLSTM 具有跨单元记忆混合的特点。此外，sLSTM 可以有多个头，无需跨头进行内存混合，而只能在每个头内的单元之间进行内存混合。 sLSTM 头的引入与指数门控一起建立了一种新的内存混合方式。对于 mLSTM 来说，多个头和多个单元是等效的。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <description><![CDATA[LSTM 具有三个主要局限性： (i) 无法修改存储决策： LSTM 举步维艰当发现更相似的向量时修改存储值，而我们的新 xLSTM 通过指数门控来弥补这一限制。基本上，如果某些东西在之前的状态中以某种方式被遗忘，我们就无法检索它，因为 LSTM 中的记忆保存在某些单元状态中，而不是实际信息。 (ii) 有限存储容量：信息必须被压缩成标量单元状态。这种限制通过稀有代币预测得到了例证。由于存储容量有限，LSTM 在稀有代币上的表现较差。新的xLSTM通过矩阵内存解决了这个问题。 (iii) 由于内存混合而缺乏并行性：隐藏状态之间从一个时间步长到另一个时间步长之间的隐藏-隐藏连接接下来，强制执行顺序处理。这是 LSTM 的最大问题，无法充分利用 GPU 并行性。 完整文章： https://medium.com/p/b7d3f2f50129 为了克服 LSTM 的限制，扩展长短期记忆 (xLSTM) 引入了两个主要修改。这些修改——指数门控和新颖的记忆结构——丰富了 LSTM 系列的两个成员：(i) 具有标量记忆、标量更新和记忆混合的新 sLSTM ，以及 (ii) 具有矩阵存储器和协方差（外积）更新规则的新 mLSTM，该规则是完全可并行化的。 两者都是 sLSTM mLSTM 通过指数门控增强 LSTM。为了实现并行化，mLSTM 放弃了内存混合，即隐藏-隐藏的循环连接。 mLSTM 和 sLSTM 都可以扩展到多个记忆单元，其中 sLSTM 具有跨单元记忆混合的特点。此外，sLSTM 可以有多个头，无需在各个头之间进行内存混合，而只能在每个头内的单元之间进行内存混合。 sLSTM 头的引入与指数门控一起建立了一种新的内存混合方式。对于 mLSTM 来说，多个头和多个单元是等效的。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0v4nl/xlstm_the_new_and_better_lstm_is_back/</guid>
       <pubDate>Sun, 26 May 2024 06:18:03 GMT</pubDate>
     </item>
@@ -50,16 +64,9 @@
     <item>
       <title>为什么游戏公司不使用人工智能来平衡他们的角色和物品？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ucqq/why_dont_game_companies_use_ai_to_balance_their/</link>
-      <description><![CDATA[我认为并且相信这将有助于打破有毒机制而不会对游戏产生负面影响。 例如，Clash Royale 几个月来一直在尝试消灭有毒的熔岩猎犬卡组，但他们失败了。 使用 AI 这不是非常容易吗？    提交人    /u/Void-Arc   [link] [评论]]]></description>
+      <description><![CDATA[我认为并相信这对于打破有毒机制而不会对游戏产生负面影响很有用。 例如，《皇室战争》有几个月来一直试图消灭有毒的熔岩猎犬套牌，但他们失败了。  使用人工智能，这不是非常容易吗？    由   提交/u/Void-Arc  /u/Void-Arc  reddit.com/r/ArtificialInteligence/comments/1d0ucqq/why_dont_game_companies_use_ai_to_balance_their/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ucqq/why_dont_game_companies_use_ai_to_balance_their/</guid>
       <pubDate>Sun, 26 May 2024 05:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>“类器官智能”的未来是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0tp7v/what_is_the_future_of_organoid_intelligence/</link>
-      <description><![CDATA[“类器官智能”的未来是什么？它比普通人工智能好吗？ （讨论）   由   提交 /u/Ludditessuck1234   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0tp7v/what_is_the_future_of_organoid_intelligence/</guid>
-      <pubDate>Sun, 26 May 2024 04:40:30 GMT</pubDate>
     </item>
     <item>
       <title>我无法区分数据科学人工智能和机器学习。</title>
@@ -83,13 +90,6 @@
       <pubDate>Sun, 26 May 2024 00:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌的人工智能概述给了你错误的答案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ht5z/googles_ai_overview_gives_you_wrong_answers/</link>
-      <description><![CDATA[Google I/O 上周推出的最重要的新功能之一是 AI 生成的搜索结果摘要。从那时起，用户就开始在社交媒体上仔细审视这些人工智能生成的搜索结果摘要，并开玩笑，在这里阅读更多内容   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ht5z/googles_ai_overview_gives_you_wrong_answers/</guid>
-      <pubDate>Sat, 25 May 2024 18:07:12 GMT</pubDate>
-    </item>
-    <item>
       <title>消息：埃隆·马斯克 (Elon Musk) 的 xAI 计划建造一台超级计算机，连接 100,000 个 GPU，为其下一代人工智能 Grok 提供动力。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0eupe/theinformation_elon_musks_xai_is_planning_to/</link>
       <description><![CDATA[在 5 月份向投资者发表的演讲中，马斯克表示，他希望在 2025 年秋季之前让超级计算机运行起来，并将亲自负责交付它时间。他告诉投资者，完成后，连接的芯片组（Nvidia 的旗舰 H100 图形处理单元）的大小将至少是现有最大 GPU 集群的四倍，例如由 Meta Platforms 构建的用于训练其 AI 模型的集群。  https://www.theinformation.com /articles/musk-plans-xai-supercomputer-dubbed-gigafactory-of-compute 在此处关注我，了解更多市场和人工智能新闻 twitter.com/tradernewsai   由   提交 /u/tradernewsai   [链接] [评论]]]></description>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
