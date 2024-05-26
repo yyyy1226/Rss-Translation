@@ -4,27 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 21:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 01:28:42 GMT</lastBuildDate>
+    <item>
+      <title>Galois/Counter 模式和随机数</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0qk5y/galoiscounter_mode_and_random_nonces/</link>
+      <description><![CDATA[ 由   提交 /u/ScottContini   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0qk5y/galoiscounter_mode_and_random_nonces/</guid>
+      <pubDate>Sun, 26 May 2024 01:28:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NES——NES 游戏机的 .NET</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</link>
+      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0qalm/nes_net_for_the_nes_game_console/</guid>
+      <pubDate>Sun, 26 May 2024 01:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以从编程语言的版本号中了解到什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0q1sz/what_can_we_learn_from_programming_language/</guid>
+      <pubDate>Sun, 26 May 2024 00:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>“简单”脚本的摩擦和复杂性</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0pljj/frictions_and_complexities_of_simple_scripts/</link>
+      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0pljj/frictions_and_complexities_of_simple_scripts/</guid>
+      <pubDate>Sun, 26 May 2024 00:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年开发者最佳托管选择</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0m9u2/best_hosting_options_for_developers_in_2024/</link>
+      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0m9u2/best_hosting_options_for_developers_in_2024/</guid>
+      <pubDate>Sat, 25 May 2024 21:40:34 GMT</pubDate>
+    </item>
     <item>
       <title>编程挑战</title>
       <link>https://www.reddit.com/r/programming/comments/1d0lrxg/programming_challenges/</link>
       <description><![CDATA[ 由   提交/u/ShabelonMagician  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0lrxg/programming_challenges/</guid>
       <pubDate>Sat, 25 May 2024 21:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>转向 iPad 进行网络开发？</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0kody/moving_to_ipad_for_web_dev/</link>
-      <description><![CDATA[ 由   提交/u/ProfessionalSecret14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0kody/moving_to_ipad_for_web_dev/</guid>
-      <pubDate>Sat, 25 May 2024 20:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 python pysimplegui 的帮助。如果可以提供帮助，请在 snap 上发私信：jamgreen2023</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0jzi8/help_required_for_python_pysimplegui_if_can_help/</link>
-      <description><![CDATA[需要制作一个图书管理系统。   由   提交/u/WillPspecial9080  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0jzi8/help_required_for_python_pysimplegui_if_can_help/</guid>
-      <pubDate>Sat, 25 May 2024 19:49:31 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们切换到记录重放进行一次性 API 测试</title>
@@ -64,14 +85,14 @@
     <item>
       <title>MercadoLibre 开发者 API 分步指南</title>
       <link>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</link>
-      <description><![CDATA[  由    /u/API2Cart  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/API2Cart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0gfw8/a_stepbystep_guide_to_the_mercadolibre_developers/</guid>
       <pubDate>Sat, 25 May 2024 17:02:27 GMT</pubDate>
     </item>
     <item>
       <title>Java 工程：摘要 #21</title>
       <link>https://www.reddit.com/r/programming/comments/1d0g01b/engineering_with_java_digest_21/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0g01b/engineering_with_java_digest_21/</guid>
       <pubDate>Sat, 25 May 2024 16:41:34 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Traditional_Hat861   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0f4je/functional_programming_and_tail_recursion_in/</guid>
       <pubDate>Sat, 25 May 2024 16:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>滥用 Go 的基础设施</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0ex4v/abusing_gos_infrastructure/</link>
-      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0ex4v/abusing_gos_infrastructure/</guid>
-      <pubDate>Sat, 25 May 2024 15:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>JWT 令牌与会话令牌</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0eoqn/jwt_token_vs_session_token/</link>
-      <description><![CDATA[ 由   提交/u/TheZerachiel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0eoqn/jwt_token_vs_session_token/</guid>
-      <pubDate>Sat, 25 May 2024 15:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 如何比较浮点数和整数：为什么它可以给出令人惊讶的结果</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0e2jv/how_python_compares_floats_and_ints_why_it_can/</link>
-      <description><![CDATA[ 由   提交/u/FoxInTheRedBox  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0e2jv/how_python_compares_floats_and_ints_why_it_can/</guid>
-      <pubDate>Sat, 25 May 2024 15:08:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
