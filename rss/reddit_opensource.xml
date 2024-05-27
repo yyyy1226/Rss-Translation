@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 15:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 18:26:02 GMT</lastBuildDate>
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -36,21 +36,21 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交/u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     <item>
       <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
+      <description><![CDATA[马克·扎克伯格 (Mark Zuckerberg) 将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
       <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
     <item>
       <title>很高兴分享 tdlib-rs 的第一个版本 🦀</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</link>
-      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译并安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以尽量减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译和安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以尽量减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</guid>
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[因此，我花了两年时间致力于我的第一个大型开源项目。现在，它的第一个候选版本已经达到了某种稳定状态。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。此外，文件查找不连接到互联网。  您可以在以下位置查看它：  https://github.com/Pixel-Master/File-Find  或访问网站： https://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没有弄清楚。 如果您尝试一下并报告问题，那将非常友善。    提交人    /u/PixelMqster   [link] [comments]]]></description>
+      <description><![CDATA[过去两年我一直致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
@@ -99,12 +99,12 @@
     <item>
       <title>如何找到相对未知的开源存储库来做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</link>
-      <description><![CDATA[嗨，我正在寻找相对未知的开源存储库，我可能会帮助贡献。但我发现它不太难找到。    由   提交/u/BlueBoxxx  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在寻找一些我可能愿意为其做出贡献的相对不知名的开源存储库。但我发现很难找到。     提交人    /u/BlueBoxxx   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</guid>
       <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>python 和 React 的代码审查代理？</title>
+      <title>适用于 python 和 react 的代码审查代理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
       <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和找到好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
