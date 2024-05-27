@@ -4,90 +4,100 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 27 May 2024 01:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 03:06:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 十五年前，巴西营养学家卡洛斯·蒙泰罗提出了“[...]”这个术语。</title>
-      <link>https://t.me/hn_summary/91642</link>
-      <description><![CDATA[“否认、谴责、拖延”：关于风险的斗争超加工食品
-十五年前，巴西营养学家卡洛斯·蒙泰罗 (Carlos Monteiro) 引入了“超加工食品”(UPF) 一词，以强调理解饮食对健康影响的新范式。尽管糖和油的支出减少，巴西的肥胖率仍在上升，蒙泰罗将其归因于高度加工食品的消费增加。他的“Nova”分类系统不仅评估营养成分，还评估加工方法，将 UPF 与肥胖、癌症和糖尿病联系起来。包括美国科学家凯文·霍尔 (Kevin Hall) 所做的一项研究表明，UPF 会导致暴饮暴食和体重增加。然而，食品行业强烈抵制监管，花费数百万美元进行游说，并采用类似于烟草行业的策略来对科学研究提出质疑。尽管证据不断增加，但只有少数国家将 UPF 纳入膳食指南，这使得监管的未来充满不确定性。]]></description>
-      <guid>https://t.me/hn_summary/91642</guid>
-      <pubDate>Mon, 27 May 2024 01:23:28 GMT</pubDate>
+      <title>[媒体]我在旧金山湾区待了相当长的时间，总感觉自己像个外人。</title>
+      <link>https://t.me/hn_summary/91660</link>
+      <description><![CDATA[一位风险投资家走进酒吧
+我在旧金山湾区呆了很长时间，总感觉自己像个局外人。与其他努力改变世界的人不同，我的重点是确保基础设施的安全。尽管我是局外人，风险投资家（VC）最终还是找到了我，提供了大量资金来创办一家证券公司。虽然受宠若惊，但我知道他们的兴趣更多的是计算出的风险，而不是真正的升值。他们所表达的紧迫感让人感觉不真诚，而且在该地区快速增长的需求下，承诺的资金不会持续太久。我的观点并不是阻止创办信息安全业务或接受风险投资，而是要强调精心设计的求爱掩盖了真正的权衡。如需更多见解，请查看固定评论或浏览我的其他帖子。]]></description>
+      <guid>https://t.me/hn_summary/91660</guid>
+      <pubDate>Mon, 27 May 2024 03:06:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我开发出第一个人工记忆，而且是开源的！</title>
-      <link>https://t.me/hn_summary/91641</link>
-      <description><![CDATA[显示 HN：我创建了第一个人工记忆（它是开源）
-我开发了第一个人工记忆，而且它是开源的！您可以访问 www.recallmemory.io 进行探索。这个开创性的项目旨在彻底改变我们与信息交互和存储信息的方式。通过利用先进的算法和神经网络，这种人工记忆模仿人类的记忆过程，提供前所未有的效率和准确性。该项目的开源性质邀请全球社区的协作和创新。有些人可能会发现人工记忆的概念存在争议，特别是在隐私和道德影响方面。然而，教育、医疗保健和数据管理等领域的潜在好处是巨大且令人兴奋的。]]></description>
-      <guid>https://t.me/hn_summary/91641</guid>
-      <pubDate>Mon, 27 May 2024 01:22:24 GMT</pubDate>
+      <title>VisualRNG 是一个 Python 项目，旨在使用 DIY 设置生成真正的随机数。</title>
+      <link>https://t.me/hn_summary/91659</link>
+      <description><![CDATA[显示 HN：在家中廉价的高熵随机性&lt; br/&gt;
+VisualRNG 是一个 Python 项目，旨在使用 DIY 设置生成真正的随机数。它利用视频捕获设备（例如网络摄像头）从捕获的帧中产生随机性。该装置包括一个带有 RGB 强度计的麦克风和一个熔岩灯，两者都对熵有贡献。随机性是通过对视频帧进行散列得出的，其中包含来自声音和光变化的不可预测的元素。这种方法确保了廉价且可复制的高质量随机性。该项目的独特之处在于，它结合了多个熵源，即使某些源出现故障，也能增强安全性和可靠性。该项目已获得麻省理工学院的许可。]]></description>
+      <guid>https://t.me/hn_summary/91659</guid>
+      <pubDate>Mon, 27 May 2024 03:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]台积电是全球领先的芯片制造商，生产全球约 90% 的先进计算机 [...]</title>
-      <link>https://t.me/hn_summary/91640</link>
-      <description><![CDATA[台积电在中国入侵时有一个终止开关
-台积电是全球领先的芯片制造商，生产全球约 90% 的先进计算机芯片。如果发生地缘政治干扰，例如中国入侵，台积电及其主要供应商荷兰公司ASML会采取措施，防止其光刻机落入敌方手中。据彭博社报道，两家公司都可以远程禁用这些机器，特别是最新的 EUV 型号，这对于生产先进芯片至关重要。这项预防措施已经与关心台湾安全的美国官员进行了讨论。美国还通过CHIPS法案增加了对国内芯片制造设施的投资，尽管台湾在可预见的未来仍将是主要的芯片生产国。]]></description>
-      <guid>https://t.me/hn_summary/91640</guid>
-      <pubDate>Mon, 27 May 2024 01:12:18 GMT</pubDate>
+      <title>GitHub 项目“Show HN：按照 API 设计模式生成 Protobuf 和 ts-rest API”[...]</title>
+      <link>https://t.me/hn_summary/91658</link>
+      <description><![CDATA[显示 HN：按照 API 设计模式生成 Protobuf 和 ts-rest API 
+GitHub 项目“Show HN：按照 API 设计模式生成 Protobuf 和 ts-rest API”旨在通过遵循最佳实践设计模式来自动生成标准 Protobuf 和 TypeScript REST API。它受到既定 API 设计原则的启发，并提供了创建一致且结构良好的 API 定义的工具。该项目可以通过 Homebrew 或 Go 安装，支持为书籍和作者等资源生成服务定义，并完成 CRUD 操作和分页。该项目的与众不同之处在于它专注于生成 Protobuf 和 TypeScript REST API，确保一致性并减少手动编码工作。 （根据 75% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91658</guid>
+      <pubDate>Mon, 27 May 2024 03:04:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 就在几周前，《刺猬索尼克 2》被移植到 TI-84 Plus CE 图形卡 [...]</title>
-      <link>https://t.me/hn_summary/91639</link>
-      <description><![CDATA[无聊的学生现在可以在 TI-84 Plus CE 计算器上享受 Sonic 2 
-就在几周前，GitHub 用户 grubbyplaya（也称为 grubbycoder）将《刺猬索尼克 2》移植到 TI-84 Plus CE 图形计算器。这标志着索尼克游戏首次在该设备上运行。受到有关计算器游戏历史的 YouTube 视频的启发，由于 TI-84 Plus CE 硬件的兼容性问题，grubbycoder 选择了 8 位 Sega Master System 版本。尽管面临存储空间有限和缺乏图形加速等挑战，该移植仍保留了 90-95% 的原始游戏代码。虽然游戏以较低的帧速率运行并且缺乏音频，但它仍然是一项可玩且令人印象深刻的编程壮举。]]></description>
-      <guid>https://t.me/hn_summary/91639</guid>
-      <pubDate>Mon, 27 May 2024 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]标题：穆斯林和阿拉伯作家正在挑战西方帝国主义的叙事</title>
-      <link>https://t.me/hn_summary/91638</link>
-      <description><![CDATA[穆斯林和阿拉伯作家正在挑战西方帝国主义的叙述&lt; br /&gt;
-标题：穆斯林和阿拉伯作家正在挑战西方帝国主义的叙事
+      <title>[媒体] Show HN：我的数学谜题模拟</title>
+      <link>https://t.me/hn_summary/91657</link>
+      <description><![CDATA[显示 HN：我的数学谜题模拟
+显示 HN：我的数学谜题模拟
 
-网站：truthout.org
+欢迎来到外星人代数，这是一款独特且具有挑战性的数学益智游戏，托管于 外星人代数.github.io。目标是破译随机生成的涉及具有人工属性的未知操作的关系。这款游戏通过引入既令人惊讶又聪明的元素，突破了传统数学谜题的界限，要求玩家跳出框框思考。解决数学问题的创新方法使其成为益智爱好者的绝佳体验。潜心研究这些外星代数难题，测试你的智慧！]]></description>
+      <guid>https://t.me/hn_summary/91657</guid>
+      <pubDate>Mon, 27 May 2024 03:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 展示HN：你知道网上购物网站是如何浪费你的时间和金钱的吗？</title>
+      <link>https://t.me/hn_summary/91656</link>
+      <description><![CDATA[Show HN：您知道在线购物网站如何浪费您的时间和时间吗？钱？
+标题：Show HN：您知道在线购物网站如何浪费您的时间和金钱吗？
+网站：books-flcik.vercel.app&lt; br/&gt;
 
-选集《来自世界中心的故事：新中东小说》（城市之光，2024 年）收录了阿拉伯、伊朗和库尔德作家以及其他不同背景作家的短篇小说。该系列由法裔美国人摩洛哥文化倡导者乔丹·埃尔格拉布利 (Jordan Elgrbly) 编辑，旨在让中东人民变得人性化并反驳西方的刻板印象。埃尔格利格利批评“中东”一词是西方帝国主义的产物，并强调以色列以巴勒斯坦作家为目标，以压制对其在加沙行动的认识。他强调文学在将阿拉伯人和穆斯林描绘成多维个体方面的重要性，挑战西方媒体对他们的非人化。]]></description>
-      <guid>https://t.me/hn_summary/91638</guid>
-      <pubDate>Mon, 27 May 2024 01:01:07 GMT</pubDate>
+欢迎来到 BooksFlick！踏上文学书页的迷人旅程。通过 BooksFlick 发现引人入胜的故事、探索有趣的事实并拓展您的视野。我们的平台旨在帮助您快速轻松地找到下一篇阅读内容，这样您就可以花更少的时间搜索，花更多的时间阅读！]]></description>
+      <guid>https://t.me/hn_summary/91656</guid>
+      <pubDate>Mon, 27 May 2024 03:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果已与 OpenAI 签署协议，将聊天机器人功能集成到 iOS 18 中，因为 [...]</title>
-      <link>https://t.me/hn_summary/91637</link>
-      <description><![CDATA[Apple 与 OpenAI for iOS 签署协议，仍希望 Google 成为“选项&#39;
-据彭博社记者 Mark Gurman 报道，苹果已与 OpenAI 签署协议，将聊天机器人功能集成到 iOS 18 中。此次合作将在 6 月份的 Apple WWDC 开发者活动上得到重点强调。尽管存在这种合作关系，苹果仍在与谷歌进行谈判，以提供 Gemini AI 作为额外选项，不过下个月不会宣布。有趣的是，苹果还在开发自己的 Ajax AI 模型，用于文本分析和智能回复等设备上任务。 OpenAI 交易为苹果公司继续开发自己的聊天机器人技术提供了灵活性。此外，iOS 18 可能会引入自定义表情符号功能和其他 AI 功能。]]></description>
-      <guid>https://t.me/hn_summary/91637</guid>
-      <pubDate>Sun, 26 May 2024 23:58:47 GMT</pubDate>
+      <title>[媒体] 网站：apps.apple.com</title>
+      <link>https://t.me/hn_summary/91655</link>
+      <description><![CDATA[Show HN：让准妈妈们更多地了解宝宝何时出生的应用程序即将诞生
+标题：Show HN：让准妈妈们更多地了解宝宝何时出生的应用程序
+网站：apps.apple.com
+
+开发人员 John R. Bandela 创建了一款应用程序，旨在帮助准妈妈预测宝宝的出生日期。值得注意的是，该应用程序因其强大的隐私实践而脱颖而出，因为它不收集任何用户数据。但是，隐私惯例可能会根据所使用的功能或用户的年龄而有所不同。如需了解更多详细信息，我们鼓励用户查看开发者的隐私政策。在数据收集猖獗的时代，这种对隐私的承诺尤其独特和值得称赞。]]></description>
+      <guid>https://t.me/hn_summary/91655</guid>
+      <pubDate>Mon, 27 May 2024 03:04:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]黑洞，传统上被视为宇宙之谜，它会扭曲时空，甚至困住李 [...]</title>
-      <link>https://t.me/hn_summary/91636</link>
-      <description><![CDATA[黑洞可能是一种理论上的恒星类型，称为“引力星” 
-根据物理评论D的最新研究，黑洞传统上被视为扭曲时空甚至捕获光线的宇宙之谜，实际上可能是引力星。 Gravastars于2001年提出，是由真空或暗能量组成的理论上的物体，它也驱动宇宙的加速膨胀。与黑洞不同，引力星缺乏奇点，解决了黑洞理论的一个关键缺陷。 João Luís Rosa 及其同事探索了引力星如何与粒子和辐射相互作用，发现它们非常模仿黑洞，甚至由于引力红移而投射出类似的阴影。未来的实验，比如事件视界望远镜的实验，可以测试这个有趣的替代方案。]]></description>
-      <guid>https://t.me/hn_summary/91636</guid>
-      <pubDate>Sun, 26 May 2024 23:54:43 GMT</pubDate>
+      <title>GitHub 项目“Show HN：计算 GitHub Actions 的成功率和执行时间”是一个 [...]</title>
+      <link>https://t.me/hn_summary/91654</link>
+      <description><![CDATA[显示 HN：计算 GitHub Actions 成功率和执行时间
+GitHub 项目“Show HN：计算 GitHub Actions 成功率和执行时间”是一个 CLI 扩展，旨在分析 GitHub Actions 工作流程。它计算工作流和作业的成功率和执行时间，提供详细的统计数据，例如平均、中值、最小和最大执行时间。该工具获取工作流程运行和作业步骤，提供对成功、失败和其他结果的见解。独特的功能包括识别最失败和最耗时的步骤。它支持复合操作和可重用的工作流程。安装是通过 GitHub CLI 进行的，它包括用于 JSON 输出和处理 GitHub Enterprise Server 的选项。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91654</guid>
+      <pubDate>Mon, 27 May 2024 03:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“人工智能和技能溢价”中，David E.</title>
-      <link>https://t.me/hn_summary/91635</link>
-      <description><![CDATA[人工智能和技能溢价
-在《人工智能和技能溢价》一书中，David E. Bloom 探讨了人工智能对劳动力市场的影响，特别关注高技能工人和低技能工人之间日益扩大的工资差距。布鲁姆认为，人工智能技术让那些拥有高级技能的人受益匪浅，从而扩大了技能溢价。这一趋势引发了人们对经济不平等和工作未来的担忧。值得注意的是，布鲁姆强调需要采取政策干预措施来减轻这些影响并确保公平增长。讨论以经验数据为基础，并对人工智能进步的社会经济影响提供了细致入微的视角。]]></description>
-      <guid>https://t.me/hn_summary/91635</guid>
-      <pubDate>Sun, 26 May 2024 23:50:38 GMT</pubDate>
+      <title>网站：apps.apple.com</title>
+      <link>https://t.me/hn_summary/91653</link>
+      <description><![CDATA[显示 HN：Livity – 免费 Apple 健康翻译器&lt; br/&gt;
+标题：Show HN：Livity – 免费 Apple 健康翻译器
+网站：apps.apple.com
+
+Livity 提供简洁的设计，并通过将当前健康数据与历史记录进行比较来提供有用的信息。这一功能尤其受到赞赏，并显示出未来发展的巨大潜力。随着时间的推移，Livity甚至可能成为Athlytic的有力竞争对手。]]></description>
+      <guid>https://t.me/hn_summary/91653</guid>
+      <pubDate>Mon, 27 May 2024 03:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]有效的 API 治理对于确保 API 质量至关重要，包括一致性 [...]</title>
-      <link>https://t.me/hn_summary/91634</link>
-      <description><![CDATA[API 治理提供质量
-有效的 API 治理对于确保 API 质量至关重要，包括一致性、标准化、安全性、合规性、性能、敏捷性以及与业务目标的一致性。一致性涉及遵守设计标准，而安全性则侧重于通过各种测试保护数据。合规性对于银行和医疗保健等受监管行业至关重要。性能与低延迟和响应时间相关，敏捷性可确保无缝创新而不干扰消费者。将 API 与业务目标保持一致可以控制成本并增加收入。质量是主观的，并且因消费者而异，因此必须通过与治理目标相关的多个指标来定义质量。治理的目的不是强制执行规则，而是通过关注最终目标和激励 API 生产商来实现高质量的 API。这种方法可以促进更好地遵守治理原则，并最终提高 API 质量。]]></description>
-      <guid>https://t.me/hn_summary/91634</guid>
-      <pubDate>Sun, 26 May 2024 23:49:35 GMT</pubDate>
+      <title>[媒体] 欢迎来到 LowKDFinder.com，这是您发现低竞争关键的终极资源 [...]</title>
+      <link>https://t.me/hn_summary/91652</link>
+      <description><![CDATA[展示 HN：LowKDFinder – 用于低竞争关键词发现的人工智能工具&lt; /a&gt;
+欢迎访问 LowKDFinder.com，这是您发现低竞争的终极资源关键字来提升您的 SEO 策略。我们的平台使用尖端的人工智能技术来分析网站并建议不仅相关而且更容易排名的关键词。无论您是专业人士还是爱好者，LowKDFinder.com 都能为您提供帮助您可以增强内容策略、提高搜索引擎可见度并获得竞争优势。只需提交您的网站 URL，让我们的先进算法完成工作，即可收到针对您的内容量身定制的低竞争度关键字列表。通过 LowKDFinder.com 开始您的有效 SEO 之旅并探索利基市场今天。]]></description>
+      <guid>https://t.me/hn_summary/91652</guid>
+      <pubDate>Mon, 27 May 2024 03:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Wizardzines.com 上的 Julia Evans 的 Git Cheat Sheet pdf 是针对 [...]</title>
-      <link>https://t.me/hn_summary/91633</link>
-      <description><![CDATA[Julia Evans 的 Git 备忘单 [pdf](https:// news.ycombinator.com/item?id=40486197)
-Julia Evans 在 wizardzines.com 上的 Git Cheat Sheet pdf 是一份综合性的为初学者和有经验的用户导航 Git 功能的指南。它涵盖了启动新存储库、管理文件、提交、切换分支和探索代码历史记录的基本命令。该备忘单还深入探讨了更高级的主题，例如比较提交、配置 Git、编辑历史记录以及推/拉更改。一个独特的方面是针对复杂任务（例如压缩提交和撤消失败的变基）的清晰的分步说明。该指南强调实际用法，使 Git 的大量选项更易于使用。值得注意的是，它避免了争议，纯粹专注于技术指导。]]></description>
-      <guid>https://t.me/hn_summary/91633</guid>
-      <pubDate>Sun, 26 May 2024 23:49:32 GMT</pubDate>
+      <title>[媒体] 网址：shaoruu.io</title>
+      <link>https://t.me/hn_summary/91651</link>
+      <description><![CDATA[在我的体素引擎中显示 HN：3D 图像生成管道
+标题：展示 HN：我的体素引擎中的 3D 图像生成管道
+网站：shaoruu.io
+
+我目前在 Anysphere 构建 Cursor。要一睹我的 3D 作品集，请返回桌面查看！我的旅程始于 2018 年，当时我尝试使用 mc.js 在网络上重新创建 Minecraft，这导致了 Microsoft 的 DMCA 罢工。我没有被吓倒，在接下来的三年里致力于为浏览器开发最好的体素引擎，最终诞生了 Voxelize——最快、最可扩展的基于浏览器的体素引擎。不要错过我展示这项作品的最新视频！]]></description>
+      <guid>https://t.me/hn_summary/91651</guid>
+      <pubDate>Mon, 27 May 2024 03:04:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
