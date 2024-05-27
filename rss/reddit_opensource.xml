@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 09:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 12:37:16 GMT</lastBuildDate>
+    <item>
+      <title>我需要帮助寻找 PDF 编辑器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d1qcpd/i_need_help_finding_a_pdf_editor/</link>
+      <description><![CDATA[有人可以推荐一款外观现代、可以验证数字签名且功能丰富的开源 PDF 编辑器吗？    由   提交 /u/Spiritual_Extreme649   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d1qcpd/i_need_help_finding_a_pdf_editor/</guid>
+      <pubDate>Mon, 27 May 2024 12:27:01 GMT</pubDate>
+    </item>
     <item>
       <title>适合初学者的云架构 Python 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>您认为扎克伯格进军开源 AI 的举动很棒吗？</title>
+      <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
       <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>很高兴分享 tdlib-rs 的第一个版本 🦀</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</link>
-      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译并安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以尽量减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，大家好！ 🦀 我们非常高兴地告诉您，我们终于发布了 tdlib-rs。 与其他库相比，我们很荣幸能够带来以下改进：  它是跨平台的，适用于 Windows、Linux 和 MacOS。 不需要 pkg-config 来构建库和相关的导出变量。 不需要 tdlib 来编译和安装在系统上。 可以从 GitHub 版本中下载 tdlib 库。  当我们开始开发 tgt 时，我们意识到编译电报库（构建说明）不会导致其他开发人员为项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库以尽量减少开发电报客户端或机器人的工作量，因此也 tgt。 欢迎任何改进或贡献！❤️‍🔥    提交人    /u/FedericoBruzzone   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</guid>
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[过去两年我一直在致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我花了两年时间致力于我的第一个大型开源项目。现在，它的第一个候选版本已经达到了某种稳定状态。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。此外，文件查找不连接到互联网。  您可以在以下位置查看它：  https://github.com/Pixel-Master/File-Find  或访问网站： https://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没有弄清楚。 如果您尝试一下并报告问题，那将非常友善。    提交人    /u/PixelMqster   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
@@ -64,12 +71,12 @@
     <item>
       <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
-      <description><![CDATA[  由    /u/wiki_me  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>是否有 uad（通用 Android 清理工具）的替代品或更新版本？</title>
+      <title>是否有任何替代或更新的 uad（通用 Android debloater）分支？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</link>
       <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[现阶段，Adobe 凭借其 Adob​​e DNG 垄断了 RAW 照片的存档存储，并承诺长期支持该产品。这很棒，因为相机专有的 RAW 文件格式正在逐渐消失。最终，如果文件格式已过时，您将无法打开某些相机制造商的文件。 我遇到的主要问题是，在我越来越多地转向 Linux（其中 adobe 产品不支持）我可能无法使用 Adob​​e DNG。我想知道是否有人知道理论上可以经受时间考验的开源文件格式和转换器？   由   提交 /u/GreasyBogs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0uclq/open_source_digital_negative_formats/</guid>
       <pubDate>Sun, 26 May 2024 05:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZAMP 简介：零配置 Apache MySQL PHP 服务器管理应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0synm/introducing_zamp_zero_configuration_apache_mysql/</link>
-      <description><![CDATA[这是我第一次这样做，我很高兴向您介绍 ZAMP 服务器，这是一个简化设置过程的应用程序建立和管理本地 Web 开发环境。借助 ZAMP，您可以获得一个零配置堆栈，其中包括 Apache、MySQL 和 PHP，所有这些都捆绑到一个用户友好的包中。ZAMP 允许在应用内加载多个项目，以便更轻松地导航并节省时间。 不要犹豫，请访问 github 存储库以了解有关 ZAMP 的更多信息 功能：  零配置：只需安装并运行。无需花费数小时配置您的环境。 集成管理：通过单一界面轻松管理 Apache、MySQL 和 PHP 服务。 扩展管理：通过简单的复选框界面启用或禁用 PHP 扩展。 版本控制：轻松下载并在不同的 PHP 版本之间切换。 &lt; li&gt;拖放项目设置：只需将项目文件夹拖放到 ZAMP 中即可开始。  我需要您的帮助： 我正在创建这个应用程序，希望它对其他人来说确实有用，并且它可以帮助新的网络开发人员创建应用程序。 目前，该项目刚刚开始创建，我要求你们提供反馈意见以改进它。 此外，我需要你们帮助我找到好的新想法来实施，同时也人们做出贡献 到项目。我现在19岁，我怀念经验：这就是为什么我需要你的帮助。如果你认为这个项目有趣，请留下一个星星：D Github 上的下载链接   由   提交 /u/Dovahkciin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0synm/introducing_zamp_zero_configuration_apache_mysql/</guid>
-      <pubDate>Sun, 26 May 2024 03:54:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
