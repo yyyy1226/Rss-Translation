@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 May 2024 21:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 01:22:21 GMT</lastBuildDate>
+    <item>
+      <title>艾未未能否解决师资短缺问题？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</link>
+      <description><![CDATA[我记得 90 年代的互联网非常专业化；显然，从那时起它已经走了这么远。在学习方面，这很棘手。就像有人可能用它来学习如何烹饪冰毒一样；就像人工智能的教学能力——无论它们是什么——如何占据一个最终不会让它走上这条路的位置？   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</guid>
+      <pubDate>Mon, 27 May 2024 00:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于从图表中提取分数的 AI 工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cz9i/ai_tool_to_extract_scores_from_a_graph/</link>
+      <description><![CDATA[我正在寻找一个可以用来从图表（图像）中提取分数的 AI 工具。关于我可以使用什么有什么建议吗？   由   提交/u/vgideon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cz9i/ai_tool_to_extract_scores_from_a_graph/</guid>
+      <pubDate>Sun, 26 May 2024 22:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 AI Studio 上批量测试问答流程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cpdm/bulk_testing_on_ai_studio_for_qa_flows/</link>
+      <description><![CDATA[大家好！我目前正在 AI Studio 中进行开发，想要批量测试问答流程（输入 = 聊天历史 - 输入和输出 -，输出 = 预测响应） 事情是：测试它我需要用尽可能多的手动预先制定的问答会话作为输入来详细阐述 jsonl，为此，我需要阅读所有基本事实文档，然后手动输入问题和答案 这不是非常耗时吗？我想我需要创建至少 100 个会话，这样测试才能彻底。我应该在人工智能的帮助下做到这一点吗？您将如何处理此类测试？   由   提交/u/thehelptea  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cpdm/bulk_testing_on_ai_studio_for_qa_flows/</guid>
+      <pubDate>Sun, 26 May 2024 22:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何免费的人工智能现实文本到语音生成器可以让我导出并且不受时间或字符的限制？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1bmj4/any_free_ai_realistic_text_to_speech_generators/</link>
+      <description><![CDATA[基本上是标题。我需要它来进行学校配音，非常感谢您的帮助。我有一台 Windows 11 笔记本电脑，如果有帮助的话    由   提交 /u/ProgressingChad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1bmj4/any_free_ai_realistic_text_to_speech_generators/</guid>
+      <pubDate>Sun, 26 May 2024 21:25:56 GMT</pubDate>
+    </item>
     <item>
       <title>有什么好的视频/课程/系列/书籍可以教我人工智能/法学硕士如何运作？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ax4g/whats_a_good_videocourseseriesbook_to_teach_me/</link>
@@ -34,23 +62,9 @@
       <pubDate>Sun, 26 May 2024 20:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 一般用途的最佳企业培训？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d178vv/best_corporate_training_for_chatgpt_general_use/</link>
-      <description><![CDATA[有没有人有任何在线 AI ChatGPT 课程，适合企业知识工作者学习如何在工作中使用它？  具体来说，我正在寻找企业质量的内容，整个公司可以将其作为培训课程的一部分。重要的是，它需要与供应商无关，并且本质上不是促销，并且最好由知识管理系统支持来跟踪每个员工的培训。没有 YouTube 视频、随机在线人工智能影响者等。 更多信息：我为领导者提供有关人工智能的建议和教授，帮助他们将其纳入他们的业务战略，许多人希望我将我的面对面课程转换为被记录。我可能会这样做，因为我还没有找到任何我喜欢的课程，但这不是我的核心产品，创建起来可能会分散注意力，所以很想知道其他人找到的任何优质课程。    由   提交/u/TrentGillespieLive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d178vv/best_corporate_training_for_chatgpt_general_use/</guid>
-      <pubDate>Sun, 26 May 2024 18:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>LIMINAL：让历史成为体验式的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d177d1/liminal_making_history_experiential/</link>
-      <description><![CDATA[我是 Marcel Factor，LIMINAL 的创建者，我很高兴能分享一个我已经完成的项目在过去的一年里一直在努力。 LIMINAL 是一款人工智能驱动的应用程序，旨在通过允许用户使用真实的声音与历史人物进行真实对话，彻底改变我们学习和体验历史的方式。 什么是 LIMINAL？&lt; /p&gt;  真实对话：与 1000 多个历史人物进行对话，同时与多个历史人物对话。 图像生成：与您最喜欢的历史艺术家一起创作艺术品。 查看历史：与创作者一起体验历史。 恢复的声音强&gt;：利用先进的人工智能，我们已经将远至 1800 年代的声音（包括爱迪生蜡录音）恢复到了惊人的清晰度。 教育影响：LIMINAL 提供了独特的，以身临其境的方式了解历史，使其具有吸引力且易于理解。  订阅计划：  Illuminator ( 4.99 美元/月）： 50 个查询 仅访问对话 与著名历史人物互动 查看历史图像并获得创作新艺术的帮助 纯文本对话的每日上限  启蒙（14.99 美元/月） ： 150 个询问 获得对话和观点 对话：与知名人士交谈，访问历史图像，并创造新艺术 观点：通过同时与多个历史人物对话来了解各种主题 纯文本对话的每日上限  超越（$29.99/月）： 400 个查询 访问对话、观点以及抢先体验新功能 对话：与杰出的历史人物交谈并合作创造新艺术 观点：与过去的几位著名人物讨论各种话题 纯文本对话的每日上限   查看 liminalagi.com，开始您的穿越时间之旅，聆听历史的声音。我很想听听您的想法和反馈！   由   提交/u/Old_Professional_565   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d177d1/liminal_making_history_experiential/</guid>
-      <pubDate>Sun, 26 May 2024 18:04:23 GMT</pubDate>
-    </item>
-    <item>
       <title>“AI小姐”：世界上首届由计算机生成的女性参加的选美比赛</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d16cxl/miss_ai_worlds_first_beauty_contest_with_computer/</link>
-      <description><![CDATA[世界的点击此处订阅我的每日 ML 新闻通讯，其中汇总了来自 50 多个媒体来源的科技/人工智能新闻。来自 Apple、OpenAI 和 OpenAI 的 1000 多名专业人士已经阅读了该书。 HuggingFace。   由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <description><![CDATA[世界的基于机器学习的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 1000 多名专业人士正在阅读它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d16cxl/miss_ai_worlds_first_beauty_contest_with_computer/</guid>
       <pubDate>Sun, 26 May 2024 17:25:44 GMT</pubDate>
     </item>
@@ -74,20 +88,6 @@
       <description><![CDATA[当一家公司分割股票时，它赚多少钱并不会改变，但每股会变得更便宜，这可以让小投资者感觉更好。英伟达在一份新闻稿中表示，股票分割将使“员工和投资者”更有可能拥有所有权。在此处阅读更多信息   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</guid>
       <pubDate>Sun, 26 May 2024 12:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否应该能够使用人工智能来复活死者的数字“幽灵”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d106ek/should_we_be_able_to_use_ai_to_resurrect_digital/</link>
-      <description><![CDATA[我今天早上读了这篇文章，它让我思考......https://www.sciencenews.org/article/artificial-intelligence-digital-ghost-ai 查看投票    提交人    /u/Lost-Introduction210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d106ek/should_we_be_able_to_use_ai_to_resurrect_digital/</guid>
-      <pubDate>Sun, 26 May 2024 12:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>xLSTM：新的、更好的 LSTM 回来了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0v4nl/xlstm_the_new_and_better_lstm_is_back/</link>
-      <description><![CDATA[LSTM 具有三个主要局限性： (i) 无法修改存储决策： LSTM 举步维艰当发现更相似的向量时修改存储值，而我们的新 xLSTM 通过指数门控来弥补这一限制。基本上，如果某些东西在之前的状态中以某种方式被遗忘，我们就无法检索它，因为 LSTM 中的记忆保存在某些单元状态中，而不是实际信息。 (ii) 有限存储容量：信息必须被压缩成标量单元状态。这种限制通过稀有代币预测得到了例证。由于存储容量有限，LSTM 在稀有代币上的表现较差。新的xLSTM通过矩阵内存解决了这个问题。 (iii) 由于内存混合而缺乏并行性：隐藏状态之间从一个时间步长到另一个时间步长之间的隐藏-隐藏连接接下来，强制执行顺序处理。这是 LSTM 的最大问题，无法充分利用 GPU 并行性。 完整文章： https://medium.com/p/b7d3f2f50129 为了克服 LSTM 的限制，扩展长短期记忆 (xLSTM) 引入了两个主要修改。这些修改——指数门控和新颖的记忆结构——丰富了 LSTM 系列的两个成员：(i) 具有标量记忆、标量更新和记忆混合的新 sLSTM ，以及 (ii) 具有矩阵存储器和协方差（外积）更新规则的新 mLSTM，该规则是完全可并行化的。 两者都是 sLSTM mLSTM 通过指数门控增强 LSTM。为了实现并行化，mLSTM 放弃了内存混合，即隐藏-隐藏的循环连接。 mLSTM 和 sLSTM 都可以扩展到多个记忆单元，其中 sLSTM 具有跨单元记忆混合的特点。此外，sLSTM 可以有多个头，无需在各个头之间进行内存混合，而只能在每个头内的单元之间进行内存混合。 sLSTM 头的引入与指数门控一起建立了一种新的内存混合方式。对于 mLSTM 来说，多个头和多个单元是等效的。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0v4nl/xlstm_the_new_and_better_lstm_is_back/</guid>
-      <pubDate>Sun, 26 May 2024 06:18:03 GMT</pubDate>
     </item>
     <item>
       <title>为什么游戏公司不使用人工智能来平衡他们的角色和物品？</title>
