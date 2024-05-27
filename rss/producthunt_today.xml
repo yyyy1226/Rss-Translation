@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 27 May 2024 03:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:29:40 GMT</lastBuildDate>
     <item>
       <title>免费简历生成器</title>
       <link>https://www.producthunt.com/posts/free-resume-builder</link>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 24 May 2024 12:46:43 GMT</pubDate>
     </item>
     <item>
-      <title>柠檬挤压费用计算器</title>
+      <title>Lemon Squeezy 费用计算器</title>
       <link>https://www.producthunt.com/posts/lemon-squeezy-fee-calculator</link>
       <description><![CDATA[
             费用计算器可快速确定费用和您的利润
@@ -121,12 +121,12 @@
       <title>沃克斯帕德</title>
       <link>https://www.producthunt.com/posts/voxpad</link>
       <description><![CDATA[
-            人工智能驱动的视频和音频笔记
-          
+人工智能视频和音频笔记
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/voxpad</guid>
       <pubDate>Thu, 23 May 2024 22:54:23 GMT</pubDate>
@@ -135,12 +135,12 @@
       <title>2D 转 3D 图像</title>
       <link>https://www.producthunt.com/posts/2d-to-3d-image</link>
       <description><![CDATA[
-            在 Stylar 中将 2D 平面图像转换为 3D 视觉效果
-          
+在 Stylar 中将 2D 平面图像转换为 3D 视觉效果
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/2d-to-3d-image</guid>
       <pubDate>Wed, 22 May 2024 05:10:19 GMT</pubDate>
@@ -149,12 +149,12 @@
       <title>音调流</title>
       <link>https://www.producthunt.com/posts/pitchflow</link>
       <description><![CDATA[
-一分钟内制作一份成功的演示文稿
-
+            一分钟内生成获胜的宣传材料
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/pitchflow</guid>
       <pubDate>Wed, 22 May 2024 04:18:16 GMT</pubDate>
