@@ -3,35 +3,49 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 28 May 2024 06:26:05 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 28 May 2024 09:20:17 GMT</lastBuildDate>
+    <item>
+      <title>人工智能将如何影响我们的经济和就业市场？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2eys1/how_might_ai_affect_our_economy_and_job_market/</link>
+      <description><![CDATA[只需在乘坐地铁时阅读这篇有关人工智能和工作恐惧的论文。它深入探讨了“人工智能取代我们的工作”的整个过程。恐慌并正确看待事情。从历史上看，新技术总是让人们感到害怕，但它通常最终会创造新的机会和就业机会，而不会影响失业。一项很酷的统计数据：美国经济中只有约 5% 是基于科技的。该论文认为，如果人工智能不扩散到医疗保健、教育或制造业等主要领域，它最终可能会像其他大肆宣传的技术（纳米技术、区块链、物联网）一样，并没有像预期那样彻底改变一切。  关键的一点是人工智能可以提高生产力和经济增长，这将带来更好的生活方式并提高生活满意度，但我们需要对此保持明智。这意味着制定良好的政策和培训计划来帮助人们过渡到新的角色。 这是关于管理变革，而不是阻止变革。如果我们做得正确，人工智能可以带来共同繁荣，而不是失业。该论文还表明，政府、企业和教育工作者之间的合作对于确保人工智能的好处得到广泛传播而不仅仅是集中化至关重要在少数人手中。所以，是的，我们不应该强调机器人抢走我们的工作，而应该专注于适应未来并为未来做好准备。 然而，它提出的一个关键点是，一方面，类人人工智能-智力是通往前所未有的财富、更多的休闲、强大的智力、甚至更好地了解自己的道路。另一方面，如果 HLAI 引导机器实现自动化而不是增强人类劳动力，就会产生财富和权力集中的风险。随着这种专注，就会面临陷入平衡的危险，在这种平衡中，那些没有权力的人无法改善他们的结果，我将这种情况称为图灵陷阱 如果您对此感兴趣，那么绝对值得一读之类的东西。请查看此处。   由   提交/u/TankSubject6469   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2eys1/how_might_ai_affect_our_economy_and_job_market/</guid>
+      <pubDate>Tue, 28 May 2024 09:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 的 xAI 从顶级投资者 Valor、a16z 和红杉资本那里筹集了 60 亿美元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2ecns/elon_musks_xai_raises_6_billion_from_top/</link>
+      <description><![CDATA[xAI 是埃隆·马斯克 (Elon Musk) 旗下的人工智能初创公司，该公司今天表示，在新一轮融资中筹集了 60 亿美元。这是人工智能这个新兴热门领域最大的交易之一，马斯克正在利用这笔资金与 OpenAI、微软和谷歌积极竞争 https://theaiwired.com/elon-musks-xai-raises-6-billion-from-top-investors-valor -a16z-and-sequoia/   由   提交/u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2ecns/elon_musks_xai_raises_6_billion_from_top/</guid>
+      <pubDate>Tue, 28 May 2024 08:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客 ChatGPT：ASCII 艺术越狱揭晓</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2e57q/hacking_chatgpt_the_ascii_art_jailbreak_unveiled/</link>
+      <description><![CDATA[研究人员开发了 ArtPrompt，这是一种基于 ASCII art 的方法，用于绕过 GPT-4 等 LLM 中的安全措施。通过用 ASCII 艺术掩盖敏感词，他们欺骗模型生成有害内容。这揭示了当前人工智能安全协议中的一个重大漏洞 在此处阅读全文： https://medium.com/predict/hacking-chatgpt-the-ascii-art-jailbreak-unveiled-9efb0648cd0f   由   提交/u/Mr_Tommy777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2e57q/hacking_chatgpt_the_ascii_art_jailbreak_unveiled/</guid>
+      <pubDate>Tue, 28 May 2024 07:59:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>驯服 LLM 动物园：利用 LiteLLM 释放 AI 力量</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2dj23/tame_the_llm_zoo_unleash_ai_power_with_litellm/</link>
+      <description><![CDATA[厌倦了同时使用多个 AI API？ LiteLLM 是您通往大型语言模型统一仙境的钥匙。这个开源库可让您通过一个用户友好的界面访问来自不同提供商的 100 多个模型。毫不费力地在它们之间切换，简化开发，并专注于重要的事情：创新！ https://www.seaflux.tech/blogs/explore-litellm-effortless-ai-projects   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2dj23/tame_the_llm_zoo_unleash_ai_power_with_litellm/</guid>
+      <pubDate>Tue, 28 May 2024 07:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>千兆字节的巨人：探索大型语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2di7s/giants_of_gigabytes_exploring_large_language/</link>
+      <description><![CDATA[大型语言模型 (LLM) 是人工智能世界的天才。他们从大量文本数据中学习，真正擅长理解和使用语言。这些人工智能强大者可以编写真实的文本、翻译语言、创建各种创意内容，甚至以有用的方式回答您的问题。将它们想象为强大的自动完成工具！ 以下是一些著名的法学硕士：  我，双子座！ （是的，我也是法学硕士！） GPT-3，您可能会从 ChatGPT 等聊天机器人中认出它。 LaMDA，一种专为对话应用程序设计的模型。 &gt;  这些只是几个例子，法学硕士总是在进步。密切关注他们接下来会做的令人惊奇的事情！ https://www.seaflux.tech/blogs/llm-explained-with-examples&quot;&gt;https://www.seaflux.tech/blogs/llm-explained-with-examples&quot;&gt;https:// /www.seaflux.tech/blogs/llm-explained-with-examples   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2di7s/giants_of_gigabytes_exploring_large_language/</guid>
+      <pubDate>Tue, 28 May 2024 07:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>微软宣布“Team Copilot”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bzes/microsoft_announced_team_copilot/</link>
       <description><![CDATA[微软宣布推出一款名为 Team Copilot 的新 AI 助手，可用于 Microsoft Teams 会议和聊天。 Team Copilot 可以总结会议、建议后续任务、跟踪时间、主持聊天、根据共享文档回答问题、在 Planner 中充当项目经理，并提供推进任务的建议。 Team Copilot 类似于谷歌的 AI Teammate，后者也在本月发布。 Team Copilot 仅适用于 Microsoft 365 用户，将于今年晚些时候推出预览版。 您对此有何看法？ 如果您有任何与业务或 AI 相关的推荐 subreddit，请告诉我们我知道！谢谢！   由   提交/u/Joseph_Clark01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bzes/microsoft_announced_team_copilot/</guid>
       <pubDate>Tue, 28 May 2024 05:27:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人工智能根据我的输入生成音乐，这是否意味着我是作曲家？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bvsj/if_ai_generates_the_music_with_my_input_does_it/</link>
-      <description><![CDATA[在这个科技飞速发展的时代，人类创造力与机器辅助之间的界限日益模糊。这种融合最令人惊奇的例子之一就是人工智能生成音乐的出现。尽管如此，在这个新领域，我们还是要问一个问题：人工智能生成的音乐真的是音乐吗？艺术？ 为了理解，让我们来了解一下人工智能音乐创作和另一个同样发展出混乱遗产的艺术领域：摄影。假设您是一名摄影师，站在一些令人惊叹的风景前。你手中有一台相机——一个极其强大的工具，能够以最惊人的精度拍摄出你面前的绿色美景。但决定角度、取景或按下快门的时刻的并不是相机。这是你的决定——摄影师的愿景和意图——将简单的快照与艺术品区分开来。 与人工智能相关的音乐作品以类似的方式进行——人工智能是一种先进的工具，作曲家和音乐家，甚至像你我这样的外行人，都会开始使用它，以便将自己的想法融入生活。人工智能创作的旋律、和声和节奏受到人类输入、方向和创造力的指导。机器承担着重担，处理大量的信息，创造出新奇的东西，但视觉是来自人类艺术家，最后的润色是人类艺术家的技巧。 目前我们欣赏的大部分图片已经经过了一系列重要的编辑——裁剪、颜色校正、滤镜，有时甚至是操作。它们仍然被认为是艺术，因为摄影师在后期处理中表现出的技巧是他们视野的延伸，而不是对其视野的贬低。 这是在摄影热潮中，摄影突然变得很快，这些变化就在 2000 年代初发生了。这种复兴遭到了许多摄影师的怀疑和怀疑。他们心中的困惑是数字技术如何能够提高艺术的技巧。起初，怀疑论者完全认为数码摄影是“真实的”。艺术。然而，技术先进，数码相机已在日常使用中。如今，每位参考摄影师都使用数码相机，没有人花任何时间在暗室中冲洗照片。 技术可以在不失去艺术完整性的情况下对艺术进行彻底变革，这一事实对于任何想要拍摄照片的人来说都是至关重要的。认为人工智能生成的音乐“不是真正的音乐”只是因为它是在机器的帮助下开发的。这两种观点之间有一些相似之处，因为两者都具有抑制人为实施的性质，这在这两个过程中都是至关重要的。艺术的关键在于表达、情感和创造力——所有这些都牢牢地属于艺术家的领域，无论他们使用哪种工具。 而且，事实上，人工智能生成的音乐是探索和创造力的新领域。正如几十年前的摄影师能够以从未想过的方式捕捉图像一样，今天的音乐家也能够通过人工智能的镜头创造出新的音景、作品和风格。这就是基于人与机器交互中固有的音乐的可能性获得新的扩展的地方。 人工智能生成的音乐不是算法和代码的产物；而是人工智能生成的音乐。它是人类表达的新渠道。同样，摄影艺术从机械过程发展为完整的数字形式，随着时间的推移，将成为人工智能生成的音乐——人类创造力和独创性的见证。它挑战我们突破艺术和音乐的界限，拥抱我们在艺术追求中可用的新工具和手段。 真正的音乐应该感动每一位听众，激励他们，感动他们，无论旋律是人造的还是人工智能制作的。确实如此，通过人工智能，我们内心无数的潜在歌曲可以被释放，并且可以表达原本保持沉默的想法和情感。掌握这项技术可能会成为人类定义正常并在地球上释放创造力的转折点。如果我们释放这种潜力会怎样？几乎没有任何限制的音乐表达，将为我们以前无法想象的艺术开辟道路。   由   提交 /u/ComplaintBRA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bvsj/if_ai_generates_the_music_with_my_input_does_it/</guid>
-      <pubDate>Tue, 28 May 2024 05:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌与 OpenAi/微软</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2blzi/google_vs_openaimicrosoft/</link>
-      <description><![CDATA[任何熟悉该领域的人都可以告诉我 OpenAi 是如何以及为何能够开发出比 Google 更大的 LLM 吗？ Google AI在 OpenAi 与微软合作之前，我们已经进行了十年的研究和开发。 这是 OpenAi 专注于少数模型而 Google 将其研究扩展到许多不同潜在领域的案例吗？ 凭借其所有资源，谷歌确实将人工智能研究领域最优秀的人才聚集在一起，是什么让他们占据了第二位。 我错过了这里的故事，真的很想知道发生了什么&lt; /p&gt;   由   提交 /u/AwarenessNo4986   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2blzi/google_vs_openaimicrosoft/</guid>
-      <pubDate>Tue, 28 May 2024 05:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于优化视频编辑的人工智能解决方案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bk7n/ai_solutions_for_optimized_video_editing/</link>
-      <description><![CDATA[我想分享/交流不同有趣的基于人工智能的解决方案，这些解决方案可以真正帮助视频编辑。 很想知道什么社区必须推荐。 这是我可以分享的内容：  字幕生成：Whisper：可以自动生成字幕的工具。就质量而言，这可能是最先进的工具，并且适用于最多的语言。主要网站是 https://openai.com/index/whisper/ 但对于开发人员来说，这个 github 是获得的首选解决方案最新型号和选项 https://github.com/openai/whisper &lt; p&gt;基于文本的编辑：Descript，Davinci Resolve 19：我首先找到了 https://www.descript.com/，它允许用于从文本转录编辑视频。这很好用，但需要付费版本。这可能是一个很好的解决方案，因为总体来说并不太昂贵。但后来我发现最新的 Davinci Resolve 19 beta 版本（Studio 版本，售价约 300 美元）也直接集成在 Davinci Resolve 中。这对我来说好多了，所以我不需要切换不同的软件。成绩单总体来说不是很好，如果你使用英语以外的其他语言，成绩单会更糟。但它可以更快地剪切视频。不过，我不会使用脚本来生成最终的 SRT 文件（我有 Whisper） 字幕翻译：ChatGPT 4 &amp;深L.两者似乎都提供了最好的结果。我现在更喜欢 ChatGPT，但它也有点不稳定。结果，我一次翻译了 40 块字幕，并且每次都验证它没有混乱。常见的混乱是它破坏了字幕索引（将两个块合并为一个？），并且在普通话的情况下，它在简体字和繁体字之间切换。当这种情况发生时，我可以告诉 ChatGPT 重新翻译最后一个块组。对于 DeepL，我听说过很多关于它的事情，但我自己并没有尝试那么多。他们有一个 API，因此可以自动化整个 SRT 翻译过程。 https://www.deepl.com/  还有哪些其他工具你用吗？我对无需订阅计划即可在本地运行的项目特别感兴趣，但任何东西都值得分享！谢谢   由   提交 /u/instant_king   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2bk7n/ai_solutions_for_optimized_video_editing/</guid>
-      <pubDate>Tue, 28 May 2024 05:01:11 GMT</pubDate>
     </item>
     <item>
       <title>是否有真正的开源人工智能模型/引擎</title>
@@ -41,20 +55,6 @@
       <pubDate>Tue, 28 May 2024 04:48:56 GMT</pubDate>
     </item>
     <item>
-      <title>免费赠送目前最好的联盟营销模式（无附加条件）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2az7r/giving_away_the_best_affiliate_marketing_model/</link>
-      <description><![CDATA[无附加条件。经过培训和测试，可以推广目前正在销售的所有其他联属营销模式。在数据集上进行训练，使其表现就像联盟营销人员 Ronnie Sandlin 一样：https://www.youtube.com/watch?v=Vw8irojuB7c     由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2az7r/giving_away_the_best_affiliate_marketing_model/</guid>
-      <pubDate>Tue, 28 May 2024 04:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>这首歌是AI生成的吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2aisv/is_this_song_aigenerated/</link>
-      <description><![CDATA[可以在此处查看和下载歌曲：  https://voca.ro/1i53IWDMmnRj  机器人会删除少于 100 个字符的帖子，所以我写了这个无用的句子。   由   提交/u/Conscious_Art_2740   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2aisv/is_this_song_aigenerated/</guid>
-      <pubDate>Tue, 28 May 2024 03:58:15 GMT</pubDate>
-    </item>
-    <item>
       <title>AI会取代我吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2a7sw/is_ai_going_to_replace_me/</link>
       <description><![CDATA[我不确定这是否是问这个问题的正确子 - 但我不知道还能在哪里发布这个，老实说这是这是一直困扰我的事情。 我刚刚高中毕业，我计划获得英国文学硕士或博士学位。我的梦想是成为一名作家，用现在流行的比喻写出更古典的风格的书，让古典小说重新流行起来。 我害怕的是人工智能。我担心它会取代作家，很快所有的书都将是人工智能，作家将被淘汰。 我的兄弟和我的父亲从事科技工作。当我哥哥过来时，争论一直持续着。他告诉我，人工智能将取代写作，我的学位将毫无用处，我应该从事其他领域。我爸爸不同意，人工智能无法取代写作所需的心灵和人性。 我担心我投入所有这些工作，结果却被机器人取代。我对写作充满热情，但我想知道我是否应该从事其他真正能支持我的事情，只是兼职写作，而不是真正尝试出售我的作品。 我不这样做我对人工智能了解不多，我想知道你们是否认为它会取代作家。我想知道真相，我担心我爸爸只是说不会，因为他希望我追随我的梦想。大家觉得怎么样？   由   提交/u/boredbunny333  [链接] [评论]]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 28 May 2024 03:40:18 GMT</pubDate>
     </item>
     <item>
-      <title>如果他们发现我在论文中使用了人工智能工具，会发生什么？</title>
+      <title>如果他们发现我在论文中使用了人工智能工具会发生什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2859d/what_happens_if_they_find_out_i_used_ai_tools_in/</link>
       <description><![CDATA[嗨，基本上我自己完成了一半的工作，但在中间我失去了兴趣并且浪费了时间，所以我使用 chatgpt 和 Gemini 来帮助我解释我的写作，使我的段落更具学术性，但我已经调整了他们的段落，这样它就不会被检测为人工智能生成或解释。然而，我看到过一些关于因此而被举行纪律听证会或其他什么的帖子[不是在 reddit 中]。所以我想知道如果我提交的话会有风险还是应该重新开始并推迟到明年提交？    由   提交 /u/irusuma   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2859d/what_happens_if_they_find_out_i_used_ai_tools_in/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>是否存在无需人类输入即可执行操作的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wepj/are_there_any_ais_out_there_that_are_acting/</link>
-      <description><![CDATA[我目睹了一次交流，其中有人几乎驳回了人工智能取代人类编程的想法，因为人工智能实际上从来不想创造任何东西，因此总是需要有一个人类控制和指挥事物。  这让我想知道，现在有哪些人工智能潜伏在没有人类启动的情况下做事？   由   提交/u/mymooh  [链接] [评论]]]></description>
+      <description><![CDATA[我目睹了一场交流，有人几乎驳斥了人工智能取代人类编程的想法，因为人工智能实际上从来不想创造任何东西，因此总是需要人类来控制和指导事情。  这让我很好奇，现在有哪些人工智能潜伏在周围做着没有人类启动的事情？    提交人    /u/mymooh   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wepj/are_there_any_ais_out_there_that_are_acting/</guid>
       <pubDate>Mon, 27 May 2024 17:05:25 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
