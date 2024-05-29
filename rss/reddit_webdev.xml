@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 28 May 2024 21:19:41 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 29 May 2024 03:22:43 GMT</lastBuildDate>
+    <item>
+      <title>很值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d32fht/sizzy_worth_it/</link>
+      <description><![CDATA[嗨， 如果价格不是因素，sizzy 值得为浏览器测试付费吗？还是应该使用像 responsiverly 这样的免费产品？ 有谁用过 sizzy，能分享一下意见吗？有什么理由不买吗？    提交人    /u/soulitbit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d32fht/sizzy_worth_it/</guid>
+      <pubDate>Wed, 29 May 2024 03:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>cult/ui 开源 shadcn 风格组件🤌</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d313a9/cultui_open_source_shadcn_style_components/</link>
+      <description><![CDATA[        提交人    /u/NoLanSym   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d313a9/cultui_open_source_shadcn_style_components/</guid>
+      <pubDate>Wed, 29 May 2024 02:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在阅读其他人的代码并浏览多个文件和多行代码时，如何克服困倦和脑雾？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d3071h/how_do_you_combat_sleepiness_and_brain_fog_while/</link>
+      <description><![CDATA[我注意到，当我阅读其他人的代码以了解他们在做什么时，我会感到困倦。  在多个文件和不熟悉的代码行之间跳转让我感到困倦，这让本来就困难的过程变得更加困难。    提交人    /u/juzatypicaltroll   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d3071h/how_do_you_combat_sleepiness_and_brain_fog_while/</guid>
+      <pubDate>Wed, 29 May 2024 01:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅虎财经图表有什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2zwot/whats_wrong_with_yahoo_finance_chart/</link>
+      <description><![CDATA[      https://i.redd.it/ra0l80c4l93d1.gif https://i.redd.it/9scheq1lm93d1.gif 除非您禁用广告拦截，否则评论部分将被破坏，现在是这样。 enshittification 继续。我正在使用 Firefox。    提交人    /u/Historical_Nort-4857   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2zwot/whats_wrong_with_yahoo_finance_chart/</guid>
+      <pubDate>Wed, 29 May 2024 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>对术语 build-tool 和 web-framework 感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2xono/confused_on_terminology_buildtool_and_webframework/</link>
+      <description><![CDATA[学习 web 开发感觉很晦涩，涉及的所有术语让人不知所措。 构建工具和 web 框架的定义是什么？ 我了解 web 框架使用构建工具，但是 https://million.dev/docs 指出 next.js 和 remix 是构建工具？所以我有点搞不清楚 web 框架和构建工具之间的界限在哪里。澄清一下会有所帮助，谢谢。    提交人    /u/aaacgrdhurfq13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2xono/confused_on_terminology_buildtool_and_webframework/</guid>
+      <pubDate>Tue, 28 May 2024 23:18:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何去除 X 标志旁边的黑线？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2xhvq/how_do_i_remove_the_black_line_next_to_the_x_logo/</link>
+      <description><![CDATA[      h &lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; &lt;title&gt;Document&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;h3&gt; HTML 基础 &lt;/h3&gt; &lt;p&gt; HTML - 用于创建网站。 &lt;/p&gt; &lt;h3&gt; CSS 基础（带按钮） &lt;/h3&gt; &lt;a href=&quot;https://www.youtube.com/&quot; target=&quot;_blank&quot;&gt; &lt;button id=&quot;Youtube&gt; &lt;img src=&quot;youtube-logo.png&quot; height=&quot;30&quot; width=&quot;30&quot;&gt; &lt;/button&gt;&lt;/a&gt; &lt;a href=&quot;https://www.x.com/&quot; target=&quot;_blank&quot;&gt; &lt;button class=&quot;X&quot;&gt; &lt;img src=&quot;x-logo.jpg&quot; height=&quot;30&quot; width=&quot;30&quot;&gt; &lt;/button&gt; &lt;/a&gt; &lt;button class=&quot;Amazon&quot;&gt; 亚马逊 &lt;/button&gt; &lt;br&gt; &lt;a href=&quot;https://www.youtube.com/&quot; target=&quot;_blank&quot;&gt; &lt;button id=&quot;Youtube-alt&quot;&gt; Youtube &lt;/button&gt;&lt;/a&gt; &lt;a href=&quot;https://www.x.com/&quot; target=&quot;_blank&quot;&gt; &lt;button class=&quot;X-alt&quot;&gt; X &lt;/button&gt; &lt;/a&gt; #Youtube{ background-color: white; /*color:black;*/ border-color: white; border-radius: 10px; cursor: pointer; margin-left: 12px; } .X{ background-color: white; /*color:white;*/ border-color: white; margin-left: 30px; border-radius: 10px; cursor: pointer; } #Youtube-alt{ color: white; background-color: red; border: none;上边距：10px；边框半径：2px；宽度：62px；高度：24px；光标：指针；} .X-alt{ 颜色：白色；背景颜色：黑色；边框：无；上边距：10px；边框半径：2px；宽度：50px；高度：24px；光标：指针；左边距：24px；右边距：20px；} .Amazon{ 背景颜色：rgb(255, 216, 20); 颜色：黑色；边框：无；宽度：120px；边框半径：10px；高度：25px；轮廓：无；左边距：30px；}     提交人    /u/Affectionate-Ad-3234   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2xhvq/how_do_i_remove_the_black_line_next_to_the_x_logo/</guid>
+      <pubDate>Tue, 28 May 2024 23:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正准备辞职 - Vent</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2vsm9/im_on_the_verge_of_quitting_vent/</link>
+      <description><![CDATA[我再也受不了这种狗屁事了，我年轻的时候很感兴趣，因为它很迷人，但现在我已经无聊死了。Html 和 css 可以去搞死我了，只要放一个 pdf 或一个公司网站的模板就可以了。 我想要一份真正有价值的工作，有意义的工作，帮助别人，医学。人类不是为这种普通的狗屁事而生的。我只是在等待所有这些都自动化，我乞求它 我记得这个来自 fireship 的 视频 说编程感觉不真实，我也同意 我喜欢编程作为一种艺术，以及每个人做出的令人惊叹的东西，但我的工作是重复性的，我厌倦了这一切    提交人    /u/Tavapris04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2vsm9/im_on_the_verge_of_quitting_vent/</guid>
+      <pubDate>Tue, 28 May 2024 21:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 S3 和 CloudFront 上为图像创建付费墙</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2vilx/how_to_create_a_paywall_for_images_on_s3_and/</link>
+      <description><![CDATA[大家好， 我正在做一个项目，需要为托管在 AWS S3 上并通过 CloudFront 提供的图像创建付费墙。目标是如果用户没有付费，则显示模糊版本的图像，而向已付费的用户提供清晰的原始图像。 我有一些 AWS 经验，但我并不完全确定实现此目的的最佳方法。以下是我有几个具体的问题：  根据用户的付款状态在模糊和清晰图像之间动态切换的最佳方法是什么？ 是否有推荐的做法将两个版本的图像存储在 S3 上？ 如何利用 CloudFront 来处理提供正确图像版本的逻辑？ 我是否应该考虑使用 Lambda@Edge 或其他 AWS 服务来管理付费墙逻辑？ 使用此设置时我应该注意任何潜在的安全问题吗？  非常感谢任何建议、资源或示例！ 非常感谢！     提交人    /u/jeangilles78   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2vilx/how_to_create_a_paywall_for_images_on_s3_and/</guid>
+      <pubDate>Tue, 28 May 2024 21:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署个人页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2v27a/deploying_a_personal_page/</link>
+      <description><![CDATA[我正在尝试部署一个我一直在处理的网页。有人向我推荐了 Vercel，但是我在部署页面时一直收到“404 Not_Found”错误。如果有人介意检查我做错了什么，我可以从 github 链接到我的存储库。除此之外，我只是在寻求友好的建议，因为我正在这些水域中航行 TIA https://github.com/oleoresin/PROFILE    提交人    /u/FrontInternational85   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2v27a/deploying_a_personal_page/</guid>
+      <pubDate>Tue, 28 May 2024 21:25:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何让网站实时更新？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d2uvht/how_to_make_site_update_live/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[大家好👋 我想介绍我的开源项目Yoopta-Editor，并想请大家给我一些反馈。它具有丰富的功能，可让您构建与 Notion、Craft、Coda、Medium 等一样强大且用户友好的编辑器。 请随意使用，它遵循 MIT 许可证！ 查看下面的功能和示例。 示例 - https://yoopta-editor.vercel.app 功能：  轻松设置 强大插件的默认列表 解决了许多典型的 UX 行为问题。 具有优化和延迟加载功能的媒体插件 具有主题和语言功能的类固醇代码插件 每个插件都可以轻松定制和扩展 还支持拖放和嵌套 dnd 用于同时操作多个块的选择框一次 您可以创建自己的插件 方便使用编辑器的有用工具列表（ActionMenu、Toolbar 等） 媒体组件的自动延迟加载（例如嵌入） 大型文档 适合移动设备 通过 tab 和 shift+tabs 为每个插件缩进和缩小 编辑器实例以编程方式控制您的内容 用于实时保存到数据库的编辑器事件 以 markdown、纯文本、html 格式导出 - [进行中。当前仅提供 HTML 导出] 快捷方式、热键。以及对此的自定义！ 超级 AI 工具不是为了炒作，而是为了与编辑器内容进行真正有用的工作 - [进行中]     提交人    /u/Darginec05   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d2syjy/opensource_project_wysiwyg_editor_yoopta/</guid>
       <pubDate>Tue, 28 May 2024 20:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在 Coursera 上完成了 Meta 的前端 Web 开发课程吗？想知道你们对此的看法！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2s82m/has_anyone_completed_metas_front_end_web/</link>
-      <description><![CDATA[我现在自己在做，作为前端 Web 开发的入门。我正在用 Codeguage 和其他免费代码网站来补充它，我计划在完成 HTML、CSS 和 Javascript 模块后建立项目。我迫不及待地想开始制作东西，我通过反复试验学得最好。 我很好奇其他人对 Meta 课程的想法和体验。它是否帮助你入门？你有什么推荐吗？    提交人    /u/ProfessionalSad4U   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2s82m/has_anyone_completed_metas_front_end_web/</guid>
-      <pubDate>Tue, 28 May 2024 19:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Laravel、全栈 JavaScript 和高效框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2r6oe/on_laravel_fullstack_javascript_and_productive/</link>
-      <description><![CDATA[        提交者    /u/TheUserIsDrunk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2r6oe/on_laravel_fullstack_javascript_and_productive/</guid>
-      <pubDate>Tue, 28 May 2024 18:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>自学成才的 Web 开发人员简历应该是什么样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2qulg/what_should_a_selftaught_web_developer_resume/</link>
-      <description><![CDATA[      我在科技行业没有任何经验，正在尝试进入。到目前为止，我在没有任何真正指导的情况下做了所有事情，但我认为在这一点上，我需要一些帮助。我一直在发送简历，寻找初级前端/实习生职位，但只收到两次回复。我很感激任何反馈/建议     提交人    /u/kevvbro   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2qulg/what_should_a_selftaught_web_developer_resume/</guid>
-      <pubDate>Tue, 28 May 2024 18:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel 底层原理 - 扩展框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2qsas/laravel_under_the_hood_extending_the_framework/</link>
-      <description><![CDATA[Laravel 具有大量功能，但有时，您只需要稍微扩展一下。我会告诉你怎么做！ TL;DR：我遇到了一个问题，需要扩展框架。我正在分享我如何找到解决此类问题的思路。 我喜欢看着人们大声思考如何解决问题；这很相似，但采用书面形式。欢迎任何反馈或问题。 https://blog.oussama-mater.tech/laravel-extend-the-framework/    提交人    /u/According_Ant_5944   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2qsas/laravel_under_the_hood_extending_the_framework/</guid>
-      <pubDate>Tue, 28 May 2024 18:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>联系弹出模式中应该放些什么？HTML / CSS / JS / PHP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2qlne/what_to_put_inside_contact_pop_up_modal_html_css/</link>
-      <description><![CDATA[嘿，我在寻找可用的 PHP 联系表单时遇到了问题，不确定为什么大多数都不再起作用了。我可以在弹出模式中放些什么想法？或者你们有我可以在网上找到的有效联系表单吗？    提交人    /u/helpmeoutplease920   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2qlne/what_to_put_inside_contact_pop_up_modal_html_css/</guid>
-      <pubDate>Tue, 28 May 2024 18:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建教育平台 - 您想看什么教程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2qfvg/creating_an_educational_platform_what_tutorials/</link>
-      <description><![CDATA[大家好！ 我和我的合作伙伴都是行业资深人士，曾参与过许多项目，从游戏和模拟到网站和 Web 应用程序以及云基础设施。 多年来，人们一直说我们擅长解释概念，因此我们将对此进行测试，并创建一个教育网站，其中包含有关一系列开发主题的教程。 我很想知道您想看哪些 Web 开发教程？ 我们将提供一系列主题的教程，从 unity、unreal 和 godot 到 3d 和 2d 艺术、Web 开发、XR 开发和设计等。我们的想法是，人们可以访问该网站，以互动且有趣的方式学习他们需要的任何开发技能。如果我们有能力自己创建内容，我们会自己创建，如果我们没有，我们会外包给行业资深人士。 我们的想法是让内容免费（对于那些想要的人，可以选择通过 patreon 等方式支持）- 所以请说出你想看到的内容！我们将使用“公开构建”的心态来创建它，因此渴望从头开始让社区参与进来，以便在我们发布时会有所要求的内容。 我们的想法是在下个月内发布，然后继续每月甚至每周添加内容。 谢谢，期待听到您的意见！    提交人    /u/TheCreatorGlitch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2qfvg/creating_an_educational_platform_what_tutorials/</guid>
-      <pubDate>Tue, 28 May 2024 18:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>低努力的网站维护</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2p5no/loweffort_website_upkeep/</link>
-      <description><![CDATA[我是教堂管理员，也是网站管理员。也是簿记员。以及我在任何时候需要为教堂承担的其他角色。 话虽如此，我现在使用 Wix。它并不理想，特别是更新信息。我们的网站总体上相当静态，但我需要每月推送一两次更改和信息更新，而处理 Wix 对我来说非常乏味。我不喜欢它，并考虑过切换到 Wordpress，但甚至不确定我还想做什么。 理想情况下，我使用的平台应该易于设置和设计，并且对我来说可以快速添加/更改信息。这是我当前的网站（https://www.stpaulmethodist.org）。摆弄一切以确保它可见并适用于移动设备和桌面真是太痛苦了。更不用说，它似乎不是具有不同分辨率的超级动态，这令人沮丧。我不知道我是否在这里寻找独角兽。理论上，我确实具备从头开始构建网站的知识，但即便如此，我也不确定这是否是我想要做的。如果有一种方法可以将更新/内容更改推送到 git，然后将其上传到网站本身，那就太好了。当我需要添加或更新基本文本，或者可能需要在幻灯片中添加图像或其他内容时，我真的很讨厌与这些笨重的网站构建器应用程序交互。 任何见解都将非常棒。或者你可以告诉我我疯了，我要找的东西不存在哈哈。    提交人    /u/savvyl​​r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2p5no/loweffort_website_upkeep/</guid>
-      <pubDate>Tue, 28 May 2024 17:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>你使用什么鼠标？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2ofd2/what_mouse_do_you_use/</link>
-      <description><![CDATA[我在家工作，我以前玩游戏时用的 Logitech G502 Hero 终于报废了，我想要一款舒适、按钮不多（不是 MMO 鼠标）且符合人体工程学的鼠标。    提交人    /u/TertiaryOrbit   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2ofd2/what_mouse_do_you_use/</guid>
-      <pubDate>Tue, 28 May 2024 17:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题 301 重定向旧的/过时的 URL（Wordpress/NGINX）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d2noyu/issue_301_redirecting_oldoutdated_urls/</link>
-      <description><![CDATA[嘿，对我宽容点哈哈 - 我是新手，还在学习。 所以我们公司建立了一个新网站，希望它托管在 AWS 上，它在运行 NGINX 的 Wordpress 上运行。许多 URL 已更改，一些页面已被删除。我正在尝试进行 SEO 工作，并将不再存在的页面或 URL 重定向到现在具有不同名称的页面，我知道 Wordpress 有一个插件“重定向”，但出于某种原因 - 它不起作用。我输入了旧链接，然后输入了我想要 301 重定向到的链接......什么都没有。它转到 404 页面。我不太清楚为什么会发生这种情况。我可能是错的，很明显因为我还在学习 - 教我这个......但我认为这是因为重定向只是重写了 .htaccess 文件，而 NGINX 没有？我不知道。这是我在谷歌搜索中发现的。如何在 NGINX 上对一堆旧链接进行 301 重定向？    提交人    /u/Kaotix_Music   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d2noyu/issue_301_redirecting_oldoutdated_urls/</guid>
-      <pubDate>Tue, 28 May 2024 16:30:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
