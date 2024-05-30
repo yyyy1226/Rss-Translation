@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 30 May 2024 03:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 06:27:36 GMT</lastBuildDate>
+    <item>
+      <title>伙计们！您更喜欢哪种：使用 MongoDB Atlas 还是在本地运行 MongoDB？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d3x4ki/guys_which_do_you_prefer_using_mongodb_atlas_or/</link>
+      <description><![CDATA[大家好， 我使用 MongoDB Atlas 已经快一年了。它允许我与朋友分享我的连接 URL，以便他们可以访问数据库。最近，我意识到我们可以拉取 MongoDB Docker 映像并将其部署在 Render 上，从而消除数据库的大小限制。我还可以与朋友分享已部署的 URL。 您更喜欢哪种？分享您的想法。    提交人    /u/murugaperumalr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d3x4ki/guys_which_do_you_prefer_using_mongodb_atlas_or/</guid>
+      <pubDate>Thu, 30 May 2024 06:02:33 GMT</pubDate>
+    </item>
     <item>
       <title>开源项目中的代码抄袭</title>
       <link>https://www.reddit.com/r/opensource/comments/1d3nluv/code_plagiarism_in_open_source_projects/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Linkhub 建议更加现代化和简化</title>
       <link>https://www.reddit.com/r/opensource/comments/1d3hmyi/linkhub_suggestions_to_be_modern_and_more/</link>
-      <description><![CDATA[大家好，2021 年我创建了 Linkhub，这是一个开源的简单、快速、智能的链接管理应用程序，没有广告，我从谷歌游戏、f droid 和其他游戏商店获得了大量下载 现在是时候做一些重新设计了，目标是更简单（受 Apple 风格启发），以具有简单的 UI/UX 所需的功能 那么你需要什么功能用于这类应用，什么情况下可以让它易于使用，如果你有帐户，请随意写它或在 github 上打开功能请求 Github：https://github.com/AmrDeveloper/LinkHub    提交人    /u/AmrDeveloper   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，2021 年我创建了 Linkhub，这是一个开源的简单、快速、智能的链接管理应用程序，没有广告，我从谷歌游戏、f droid 和其他游戏商店获得了大量下载 现在是时候做一些重新设计了，目标是更简单（受 Apple 风格启发），以具有简单的 UI/UX 所需的功能 那么你需要什么功能用于这类应用，什么情况下可以让它易于使用，如果你有帐户，请随意编写它或在 github 上打开功能请求 Github：https://github.com/AmrDeveloper/LinkHub    提交人    /u/AmrDeveloper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d3hmyi/linkhub_suggestions_to_be_modern_and_more/</guid>
       <pubDate>Wed, 29 May 2024 17:23:05 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>终于有一个无痛的网络服务器了？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d37yx1/finally_a_painless_webserver/</link>
-      <description><![CDATA[tl;dr “另一个 web 服务器”（参见引号，因为其底层仍然是 nginx）。请注意，api 仍在发生变化。请勿在生产中使用。 Jucenit https://github.com/pipelight/jucenit 上下文 我一直在寻找生产 nginx Web 服务器的替代品。 我自然而然地开始使用 caddy 和 nginx-unit，两者都符合我的一半期望。 我可以使用 unit 将我的配置拆分成许多 Json 块，并且受益于使用 caddy 的无忧 autossl 更新。 但如果没有很大的开销，我不可能同时拥有两者。 解决方案 最务实的解决方案是将工具带到nginx-unit 添加：  自动 SSL 管理和续订 简单的配置语法  ```toml jucenit.toml [[unit]] listeners = [&quot;:80&quot;,&quot;:443&quot;] [unit.match] host = &quot;example.com&quot; [unit.action] proxy = &quot;http://127.0.0.1:8888&quot; ``` 然后轰隆隆！两全其美！很快就会出现在你的发行版中。   由    /u/poulain_ght  提交  [链接] [评论]]]></description>
+      <description><![CDATA[tl;dr “另一个 web 服务器”（参见引号，因为其底层仍然是 nginx）。请注意，api 仍在发生变化。请勿在生产中使用。 Jucenit https://github.com/pipelight/jucenit 上下文 我一直在寻找生产 nginx 网络服务器的替代品。 我自然而然地开始使用 caddy 和 nginx-unit，两者都符合我的一半期望。 我可以使用 unit 将我的配置分成许多 Json 块，并且受益于使用 caddy 的无忧 autossl 更新。 但如果没有很大的开销，我不可能同时拥有两者。 解决方案 最务实的解决方案是将工具带到nginx-unit 添加：  自动 SSL 管理和续订 简单的配置语法  ```toml jucenit.toml [[unit]] listeners = [&quot;:80&quot;,&quot;:443&quot;] [unit.match] host = &quot;example.com&quot; [unit.action] proxy = &quot;http://127.0.0.1:8888&quot; ``` 然后轰隆隆！两全其美！很快就会出现在你的发行版中。   由    /u/poulain_ght  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d37yx1/finally_a_painless_webserver/</guid>
       <pubDate>Wed, 29 May 2024 09:23:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好。长话短说，我是一名刚毕业的计算机科学毕业生，但这个学位并不会让我找到工作。我一直在考虑为一个开源项目做贡献，这既是为了避免简历上的空白，也是为了获得仅次于有偿工作经验的最佳机会。我几乎不知道我能为开源应用程序做些什么贡献，而且我试图避免浪费其他贡献者的时间。 不过，我一直不知道我能做什么。我承认，我对离散技术（.net、docker、node...）的了解远少于对理论概念（调度、算法设计、编程模式...）的了解，我不知道这会在多大程度上阻止我尝试做出贡献。我不知道在尝试理解软件背后的代码之前，我应该花多少时间来熟悉软件的实际使用，或者在接受 PR 之前我需要理解多少背后的代码。我只是觉得我什么都不知道，虽然我一直被告知这对于软件开发中的任何事情来说都是非常正常的，但当我尝试自我指导时，它就具有不同的分量。 有人能提供一些关于他们第一次开源贡献的提示或故事吗？我将不胜感激。    提交人    /u/Camoral   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d2sbaz/tips_for_knowing_if_im_able_to_help_with_a/</guid>
       <pubDate>Tue, 28 May 2024 19:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合毕业典礼的 FOSS A/V 软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</link>
-      <description><![CDATA[大家好， 我在一所学校从事 IT 工作，我们的毕业典礼分为几个活动（我们的学生遍布全州）。虽然我们最大的活动有音乐和学生演讲，由活动中心的 A/V 团队管理，但我们的第二个活动规模要小得多，我负责音乐、演讲等。我想知道是否有人建议使用 FOSS（或其他免费）软件，使播放更加无缝和“专业”？我可以通过 VLC 打开歌曲，但我希望时间安排看起来更专业，尤其是对于像毕业这样对学生来说很重要的事情。我在考虑某种均衡器软件，这样我就可以淡入音乐。幻灯片是一个通用的 Google Slide/Powerpoint，我们也可以将其下载为视频。提前致谢！    提交人    /u/New_Scientist_4532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</guid>
-      <pubDate>Tue, 28 May 2024 15:30:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
