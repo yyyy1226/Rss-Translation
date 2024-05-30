@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 30 May 2024 01:22:53 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 30 May 2024 03:23:10 GMT</lastBuildDate>
+    <item>
+      <title>放大后看起来更好！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d3u1ii/zoomed_in_looks_better/</link>
+      <description><![CDATA[每个网页都以 100% 缩放运行，但我的网页在浏览器缩放 80% 时看起来更好，我怎样才能在本地实现这一点，以至于每当有人加载它时它都会变成这样，到处修复每个 div 大小都会搞砸事情，（原始 css）    提交人    /u/samyakxenoverse   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d3u1ii/zoomed_in_looks_better/</guid>
+      <pubDate>Thu, 30 May 2024 02:57:32 GMT</pubDate>
+    </item>
     <item>
       <title>建立网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1d3s2zx/setting_up_website/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不是 API 领域的专家，但我知道 YouTube 允许 API 访问。  如果我尝试从客户的 YouTube 频道中抓取数据以便进行月度报告，是否可以获取所有信息，包括 YouTube 工作室中可供公开和私人使用的信息？    提交人    /u/AMartinez0310   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d3mwl2/youtube_studio_api/</guid>
       <pubDate>Wed, 29 May 2024 21:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建 c2c 市场，用户可以在其中出售/购买视频游戏帐户、模组、作弊程序等。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3lial/creating_c2c_marketplace_where_users_sell/</link>
-      <description><![CDATA[如果产品是视频游戏账户，创建消费者对消费者市场会被视为非法吗？我的意思是，我听说它违反了大多数视频游戏公司的服务条款。此外，如果网站位于东欧。    提交人    /u/soft-Ink   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3lial/creating_c2c_marketplace_where_users_sell/</guid>
-      <pubDate>Wed, 29 May 2024 20:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
