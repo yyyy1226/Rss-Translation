@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Fri, 31 May 2024 15:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 18:26:03 GMT</lastBuildDate>
     <item>
-      <title>检查数字是否为阿姆斯特朗数</title>
-      <link>https://www.opensourceagenda.com/projects/check-if-a-number-is-an-armstrong-number</link>
-      <description><![CDATA[检查数字是否为阿姆斯特朗数]]></description>
-      <guid>https://www.opensourceagenda.com/projects/check-if-a-number-is-an-armstrong-number</guid>
-      <pubDate>Fri, 31 May 2024 15:23:29 GMT</pubDate>
+      <title>瓦戈梅特罗</title>
+      <link>https://www.opensourceagenda.com/projects/vagometro</link>
+      <description><![CDATA[巴西 IT 职位追踪器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vagometro</guid>
+      <pubDate>Fri, 31 May 2024 18:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>网飞</title>
-      <link>https://www.opensourceagenda.com/projects/netfffex</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/netfffex</guid>
-      <pubDate>Fri, 31 May 2024 15:23:29 GMT</pubDate>
+      <title>Nuxtwind 雏菊</title>
+      <link>https://www.opensourceagenda.com/projects/nuxtwind-daisy</link>
+      <description><![CDATA[Nuxtwind Daisy 是 Nuxt.js 3 + Tailwind CSS + Daisy UI 的入门模板项目，其中附加了自定义字体、图标、动画等的安装设置。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nuxtwind-daisy</guid>
+      <pubDate>Fri, 31 May 2024 18:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>Malvinawolf 阅读</title>
-      <link>https://www.opensourceagenda.com/projects/malvinawolf-read-me</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/malvinawolf-read-me</guid>
-      <pubDate>Fri, 31 May 2024 15:23:29 GMT</pubDate>
+      <title>Sveltekit Supabase 仪表板</title>
+      <link>https://www.opensourceagenda.com/projects/sveltekit-supabase-dashboard</link>
+      <description><![CDATA[仪表板灵感来自 Supabase UI，以 SvelteKit 作为前端，Supabase 作为后端。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sveltekit-supabase-dashboard</guid>
+      <pubDate>Fri, 31 May 2024 18:26:02 GMT</pubDate>
     </item>
     <item>
-      <title>共生百科向量</title>
-      <link>https://www.opensourceagenda.com/projects/coherepedia-jvector</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coherepedia-jvector</guid>
-      <pubDate>Fri, 31 May 2024 15:23:28 GMT</pubDate>
+      <title>核心项目 Monorepo</title>
+      <link>https://www.opensourceagenda.com/projects/coreproject-monorepo</link>
+      <description><![CDATA[想象一个新的平台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/coreproject-monorepo</guid>
+      <pubDate>Fri, 31 May 2024 18:26:02 GMT</pubDate>
     </item>
     <item>
-      <title>Blackfliper 加密货币</title>
-      <link>https://www.opensourceagenda.com/projects/blackfliper-crypto</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/blackfliper-crypto</guid>
-      <pubDate>Fri, 31 May 2024 15:23:28 GMT</pubDate>
+      <title>Opensourcecheemsburgers 无处不在</title>
+      <link>https://www.opensourceagenda.com/projects/opensourcecheemsburgers-ubiquity</link>
+      <description><![CDATA[跨平台的 Markdown 编辑器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opensourcecheemsburgers-ubiquity</guid>
+      <pubDate>Fri, 31 May 2024 18:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>Dagedoge</title>
-      <link>https://www.opensourceagenda.com/projects/dagedoge</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dagedoge</guid>
-      <pubDate>Fri, 31 May 2024 15:23:28 GMT</pubDate>
+      <title>Whatsapp 联系人同步</title>
+      <link>https://www.opensourceagenda.com/projects/whatsapp-contact-sync</link>
+      <description><![CDATA[轻松将 WhatsApp 上的联系人照片同步到 Google 通讯录]]></description>
+      <guid>https://www.opensourceagenda.com/projects/whatsapp-contact-sync</guid>
+      <pubDate>Fri, 31 May 2024 18:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>将 JSON 转换为 CSV</title>
-      <link>https://www.opensourceagenda.com/projects/convert-json-to-csv</link>
-      <description><![CDATA[将 JSON 转换为 CSV]]></description>
-      <guid>https://www.opensourceagenda.com/projects/convert-json-to-csv</guid>
-      <pubDate>Fri, 31 May 2024 15:23:28 GMT</pubDate>
+      <title>Helius 实验室 Xray</title>
+      <link>https://www.opensourceagenda.com/projects/helius-labs-xray</link>
+      <description><![CDATA[由 Helius 提供支持的人类可读的 Solana 事务浏览器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/helius-labs-xray</guid>
+      <pubDate>Fri, 31 May 2024 18:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>8 轨道渡鸦阿尔法</title>
-      <link>https://www.opensourceagenda.com/projects/8-track-raven-alpha</link>
-      <description><![CDATA[8-Track Raven 4 线轴自动长丝更换器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/8-track-raven-alpha</guid>
-      <pubDate>Fri, 31 May 2024 15:23:27 GMT</pubDate>
+      <title>冰堡</title>
+      <link>https://www.opensourceagenda.com/projects/iceburgcrm</link>
+      <description><![CDATA[Laravel CRM - PHP CRM - AI CRM - 元数据 CRM。Iceburg CRM 是开源的、元数据驱动的、可扩展的、无限关系的、可转换模块的、29 个默认主题的、浅色/深色主题的。它还具有可选的 AI 能力，使用 AI 描述您的 CRM 并使用 AI 来创建它。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/iceburgcrm</guid>
+      <pubDate>Fri, 31 May 2024 18:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>我做什么</title>
-      <link>https://www.opensourceagenda.com/projects/what-i-do</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/what-i-do</guid>
-      <pubDate>Fri, 31 May 2024 15:23:27 GMT</pubDate>
+      <title>Lccn 预测器</title>
+      <link>https://www.opensourceagenda.com/projects/lccn-predictor</link>
+      <description><![CDATA[LeetCode 竞赛评分预测]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lccn-predictor</guid>
+      <pubDate>Fri, 31 May 2024 18:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>粮食价格指数</title>
-      <link>https://www.opensourceagenda.com/projects/wfa</link>
-      <description><![CDATA[Golang 中的波前对齐算法 (WFA)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wfa</guid>
-      <pubDate>Fri, 31 May 2024 15:23:27 GMT</pubDate>
+      <title>戴姆德</title>
+      <link>https://www.opensourceagenda.com/projects/daymd</link>
+      <description><![CDATA[个人站点生成器，可以在浏览器完成全部操作！从搭建到部署都可以在浏览器中完成，不需要本地环境。附详细文档。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/daymd</guid>
+      <pubDate>Fri, 31 May 2024 18:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>至尊长尾小鹦鹉</title>
-      <link>https://www.opensourceagenda.com/projects/supreme-parakeet</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/supreme-parakeet</guid>
-      <pubDate>Fri, 31 May 2024 15:23:27 GMT</pubDate>
+      <title>大水维尤</title>
+      <link>https://www.opensourceagenda.com/projects/daisyui-vue</link>
+      <description><![CDATA[(WIP) 基于 daisyui 的 Vue3 UI 组件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/daisyui-vue</guid>
+      <pubDate>Fri, 31 May 2024 18:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>React Query Rsc 博客文章</title>
-      <link>https://www.opensourceagenda.com/projects/react-query-rsc-blog-post</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/react-query-rsc-blog-post</guid>
-      <pubDate>Fri, 31 May 2024 15:23:26 GMT</pubDate>
+      <title>React Daisyui</title>
+      <link>https://www.opensourceagenda.com/projects/react-daisyui</link>
+      <description><![CDATA[使用 React 构建的 daisyUI 组件 🌼]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-daisyui</guid>
+      <pubDate>Fri, 31 May 2024 18:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>ADFSDump PS</title>
-      <link>https://www.opensourceagenda.com/projects/adfsdump-ps</link>
-      <description><![CDATA[PowerShell 实现 ADFSDump 以协助 GoldenSAML]]></description>
-      <guid>https://www.opensourceagenda.com/projects/adfsdump-ps</guid>
-      <pubDate>Fri, 31 May 2024 15:23:26 GMT</pubDate>
+      <title>CMSaasStarter</title>
+      <link>https://www.opensourceagenda.com/projects/cmsaasstarter</link>
+      <description><![CDATA[使用 SvelteKit、Tailwind 和 Supabase 构建的现代 SaaS 模板/样板。包括营销页面、博客、订阅、身份验证、用户仪表板、用户设置、定价页面等。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cmsaasstarter</guid>
+      <pubDate>Fri, 31 May 2024 18:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>Astro 主题 Mia</title>
-      <link>https://www.opensourceagenda.com/projects/astro-theme-mia</link>
-      <description><![CDATA[极简主义、功能强大的天文主题，集成粗略符号，可提供引人入胜、信息丰富的内容。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/astro-theme-mia</guid>
-      <pubDate>Fri, 31 May 2024 15:23:26 GMT</pubDate>
+      <title>Daisyui 管理仪表板模板</title>
+      <link>https://www.opensourceagenda.com/projects/daisyui-admin-dashboard-template</link>
+      <description><![CDATA[使用 Daisy UI、React js 和 Tailwind CSS 的免费管理仪表板模板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/daisyui-admin-dashboard-template</guid>
+      <pubDate>Fri, 31 May 2024 18:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>Cjk 罗马字</title>
-      <link>https://www.opensourceagenda.com/projects/cjk-romanizer</link>
-      <description><![CDATA[用于 cjk 字符的罗马化器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cjk-romanizer</guid>
-      <pubDate>Fri, 31 May 2024 15:23:25 GMT</pubDate>
+      <title>元立方体</title>
+      <link>https://www.opensourceagenda.com/projects/metacubexd</link>
+      <description><![CDATA[Mihomo 仪表板，官方仪表板，XD]]></description>
+      <guid>https://www.opensourceagenda.com/projects/metacubexd</guid>
+      <pubDate>Fri, 31 May 2024 18:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
