@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 31 May 2024 18:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 21:19:41 GMT</lastBuildDate>
+    <item>
+      <title>bithop - 比特币网络蜘蛛</title>
+      <link>https://www.reddit.com/r/programming/comments/1d54d8b/bithop_spider_the_bitcoin_network/</link>
+      <description><![CDATA[  由    /u/nantucket  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d54d8b/bithop_spider_the_bitcoin_network/</guid>
+      <pubDate>Fri, 31 May 2024 19:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 错误处理：Sentinel 错误和 errors.Is() 会使你的代码速度降低 3000％</title>
+      <link>https://www.reddit.com/r/programming/comments/1d536bb/go_error_handling_sentinel_errors_and_errorsis/</link>
+      <description><![CDATA[  由    /u/zachm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d536bb/go_error_handling_sentinel_errors_and_errorsis/</guid>
+      <pubDate>Fri, 31 May 2024 18:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>模块化：所有权的真正含义：一种心理模型方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52n7p/modular_what_ownership_is_really_about_a_mental/</link>
+      <description><![CDATA[  由    /u/ketralnis 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52n7p/modular_what_ownership_is_really_about_a_mental/</guid>
+      <pubDate>Fri, 31 May 2024 18:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lambda Way 项目 - Lisp、IDE 和 SSG</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52n5y/lambda_way_project_lisp_ide_ssg/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52n5y/lambda_way_project_lisp_ide_ssg/</guid>
+      <pubDate>Fri, 31 May 2024 18:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>云块存储的演变</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52ls6/evolution_of_cloud_block_store/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52ls6/evolution_of_cloud_block_store/</guid>
+      <pubDate>Fri, 31 May 2024 18:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果多播是答案——那么问题是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52lpd/if_multicast_is_the_answer_what_was_the_question/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52lpd/if_multicast_is_the_answer_what_was_the_question/</guid>
+      <pubDate>Fri, 31 May 2024 18:30:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rill - Go 中更简单的并发库</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52ln0/rill_library_for_simpler_concurrency_in_go/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52ln0/rill_library_for_simpler_concurrency_in_go/</guid>
+      <pubDate>Fri, 31 May 2024 18:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgres 在历史上的地位 [视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52iuq/the_place_of_postgres_in_history_video/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52iuq/the_place_of_postgres_in_history_video/</guid>
+      <pubDate>Fri, 31 May 2024 18:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>教孩子们二进制</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52idc/teaching_kids_about_binary/</link>
+      <description><![CDATA[  由    /u/Ok-Foundation3457  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52idc/teaching_kids_about_binary/</guid>
+      <pubDate>Fri, 31 May 2024 18:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>模糊测试 React GUI</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52ibw/fuzzing_react_guis/</link>
+      <description><![CDATA[  由    /u/trevboss124  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52ibw/fuzzing_react_guis/</guid>
+      <pubDate>Fri, 31 May 2024 18:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速检查字符串是否需要转义</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52i7q/quickly_checking_whether_a_string_needs_escaping/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52i7q/quickly_checking_whether_a_string_needs_escaping/</guid>
+      <pubDate>Fri, 31 May 2024 18:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>jank 是一种通用编程语言，它融合了 Clojure 的交互性和面向价值的特性，以及对本机编译和最小运行时间的需求</title>
+      <link>https://www.reddit.com/r/programming/comments/1d52hia/jank_is_a_generalpurpose_programming_language/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d52hia/jank_is_a_generalpurpose_programming_language/</guid>
+      <pubDate>Fri, 31 May 2024 18:25:19 GMT</pubDate>
+    </item>
     <item>
       <title>PyPy 已经默默地为我工作了好几年了</title>
       <link>https://www.reddit.com/r/programming/comments/1d52gmw/pypy_has_been_quietly_working_for_me_for_several/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d52fp4/provenance_and_concurrency_c/</guid>
       <pubDate>Fri, 31 May 2024 18:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于平台工程的误解：它是什么，不是什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1d52eyq/myths_about_platform_engineering_what_it_is_and/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d52eyq/myths_about_platform_engineering_what_it_is_and/</guid>
-      <pubDate>Fri, 31 May 2024 18:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你不希望知道的有关 S3 的事情</title>
-      <link>https://www.reddit.com/r/programming/comments/1d52ees/things_you_wish_you_didnt_need_to_know_about_s3/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d52ees/things_you_wish_you_didnt_need_to_know_about_s3/</guid>
-      <pubDate>Fri, 31 May 2024 18:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何像计算机科学家一样思考：互动版</title>
-      <link>https://www.reddit.com/r/programming/comments/1d52dwg/how_to_think_like_a_computer_scientist/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d52dwg/how_to_think_like_a_computer_scientist/</guid>
-      <pubDate>Fri, 31 May 2024 18:21:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DataFusion Comet：Apache Spark 加速器</title>
-      <link>https://www.reddit.com/r/programming/comments/1d52dam/datafusion_comet_apache_spark_accelerator/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d52dam/datafusion_comet_apache_spark_accelerator/</guid>
-      <pubDate>Fri, 31 May 2024 18:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>下划线如何改变 Python 中数据的可访问性 - 访问修饰符 - oop</title>
-      <link>https://www.reddit.com/r/programming/comments/1d51gnd/how_underscore_changes_the_accessibility_of_data/</link>
-      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d51gnd/how_underscore_changes_the_accessibility_of_data/</guid>
-      <pubDate>Fri, 31 May 2024 17:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>在交付了一个包含 60,000 行代码的项目之后，我对 Lua 有何看法？</title>
-      <link>https://www.reddit.com/r/programming/comments/1d513hj/what_do_i_think_about_lua_after_shipping_a/</link>
-      <description><![CDATA[  由    /u/gamescodedogs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d513hj/what_do_i_think_about_lua_after_shipping_a/</guid>
-      <pubDate>Fri, 31 May 2024 17:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>htmx：复杂解决方案时代下的简单性</title>
-      <link>https://www.reddit.com/r/programming/comments/1d50fcu/htmx_simplicity_in_an_age_of_complicated_solutions/</link>
-      <description><![CDATA[  由    /u/LetMeUseMyEmailFfs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d50fcu/htmx_simplicity_in_an_age_of_complicated_solutions/</guid>
-      <pubDate>Fri, 31 May 2024 16:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Firefox Nightly 中尝试本地替代文本生成</title>
-      <link>https://www.reddit.com/r/programming/comments/1d506y7/experimenting_with_local_alt_text_generation_in/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d506y7/experimenting_with_local_alt_text_generation_in/</guid>
-      <pubDate>Fri, 31 May 2024 16:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[抽象工程] 我们为什么还没有重构？</title>
-      <link>https://www.reddit.com/r/programming/comments/1d506de/abstract_engineering_why_arent_we_refactoring_yet/</link>
-      <description><![CDATA[我认为程序员不热衷于重构代码的几个原因。     提交人    /u/amirulmenjeni   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d506de/abstract_engineering_why_arent_we_refactoring_yet/</guid>
-      <pubDate>Fri, 31 May 2024 16:46:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用设备上的 LLM、STT、TTS 和 Wake Word 技术的 Python 人工智能语音助手</title>
-      <link>https://www.reddit.com/r/programming/comments/1d505vd/ai_voice_assistant_in_python_using_ondevice_llm/</link>
-      <description><![CDATA[  由    /u/eonlav  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d505vd/ai_voice_assistant_in_python_using_ondevice_llm/</guid>
-      <pubDate>Fri, 31 May 2024 16:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为高级 Go 开发人员：掌握 Go 及其生态系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1d50426/becoming_a_senior_go_developer_mastering_go_and/</link>
-      <description><![CDATA[  由    /u/nalexand  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d50426/becoming_a_senior_go_developer_mastering_go_and/</guid>
-      <pubDate>Fri, 31 May 2024 16:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 集成：改变您业务格局的利器</title>
-      <link>https://www.reddit.com/r/programming/comments/1d4z9jf/api_integration_a_gamechanger_for_your_business/</link>
-      <description><![CDATA[  由    /u/itsrorymurphy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d4z9jf/api_integration_a_gamechanger_for_your_business/</guid>
-      <pubDate>Fri, 31 May 2024 16:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
