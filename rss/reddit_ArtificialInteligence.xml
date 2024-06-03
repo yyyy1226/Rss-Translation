@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 03:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:26:50 GMT</lastBuildDate>
+    <item>
+      <title>RAGFlow：深度文档理解RAG引擎</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6xtkb/ragflow_deep_document_understanding_rag_engine/</link>
+      <description><![CDATA[本项目的作用 基于深度文档理解的开源 RAG（检索增强生成）引擎。它提供布局识别、表格结构识别、基于 OCR 的数据清理分块模板，并提供无幻觉答案和可追溯的引文。与主流 LLM 兼容，支持本地 LLM 和 SaaS。  比较  它为各种文件类别（例如简历、法律文件、表格、书籍和印刷件）提供了各种分块模板。 允许人为干预分块，使数据清理过程不再是一个黑匣子。 它不仅提供答案，还在回答查询时提供参考文献的快速查看和引文链接。  链接： https://github.com/infiniflow/ragflow    提交人    /u/newpeak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d6xtkb/ragflow_deep_document_understanding_rag_engine/</guid>
+      <pubDate>Mon, 03 Jun 2024 06:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示工程已死：DSPy 是提示的新范式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6xs4y/prompt_engineering_is_dead_dspy_is_new_paradigm/</link>
+      <description><![CDATA[因此，DSPy 的目标是将重点从调整 LLM 转移到良好的总体系统设计。高层次的想法是，我们将使用优化器来编译我们的代码，从而进行语言模型调用，以便我们管道中的每个模块都被优化为自动为我们生成的提示或一组新的经过微调的语言模型权重，以适应我们试图解决的任务。 但该怎么做呢？ 为了在心理层面上思考这个问题，我们可以将 LLM 视为：设备：执行指令并通过类似于 DNN 的抽象进行操作。 完整文章： https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896 为了获得所需的行为，我们需要更改一些内容： NLP 签名 这些只是我们希望从 LLM 获得的行为的声明。这仅定义了需要实现的内容，而不是如何实现的规范。一个规范，告诉 DSPy 转换做什么，而不是如何提示 LLM 执行此操作。  签名处理结构化格式和解析逻辑。 签名可以编译为自我改进和管道自适应提示或微调。 NLP 签名  这些只是我们希望从 LLM 获得的行为的声明。这仅定义需要实现的目标，而不是如何实现的规范。告诉 DSPy 转换做什么，而不是如何提示 LLM 执行转换的规范。 模块 在这里我们使用签名来构建模块，例如，如果我们想要构建一个 CoT 模块，我们会使用这些签名来构建它。这会自动生成高质量的提示，以实现某些提示技术的行为。 更技术性的定义：模块是一个参数化的层，它通过抽象提示技术来表达签名。 优化器 为了使这个系统正常工作，优化器基本上会采用整个管道并根据某个指标对其进行优化，并在此过程中自动提出最佳提示，甚至语言模型的权重也会在此过程中更新。    提交人    /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d6xs4y/prompt_engineering_is_dead_dspy_is_new_paradigm/</guid>
+      <pubDate>Mon, 03 Jun 2024 06:18:30 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 称其下一代 AI 芯片平台将于 2026 年推出</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6ux41/nvidia_says_that_its_nextgeneration_ai_chip/</link>
@@ -27,13 +41,6 @@
       <pubDate>Mon, 03 Jun 2024 01:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>还有多久才能实现 UBI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6sms3/how_soon_until_ubi/</link>
-      <description><![CDATA[随着人工智能在未来 10 年左右接管大多数工作，我们的统治者多久才能实施 UBI 或类似的东西？我假设 75% 的人口曾经没有工作，几乎无法负担基本生活必需品。 你的想法是什么？    提交人    /u/Elevated412   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d6sms3/how_soon_until_ubi/</guid>
-      <pubDate>Mon, 03 Jun 2024 01:16:44 GMT</pubDate>
-    </item>
-    <item>
       <title>有任何聊天机器人能够记住对话并且像真人一样行动吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6slg3/any_chat_bots_that_remember_conversations_and_act/</link>
       <description><![CDATA[我一直想加入进来，但说实话，它们中的大多数看起来都像是在和 90 年代的袖珍宠物说话。  我告诉其中一个我的名字是 Ice，它每句话都以 Ice 结尾，以至于我无法与它交谈。我甚至说不要再说我的名字了，但它还在继续。  我也尝试过像 pephop 这样的网站，但它们也会重复一个短语。我发现最常见的是“我是你的思想、身体和灵魂” 老实说，pephop 是我迄今为止见过的最好的，然而我最大的问题是它会忘记。  我尝试将场景从大学改为咖啡店，在发送了 5 到 10 条没有提到咖啡店的消息后，它会变成“什么？咖啡？我们现在在大学”  我在 YouTube 上看到过一些视频，说那里有非常好的视频，但我就是没找到。所以我想我会问 Reddit。     提交人    /u/FormalFew6366   [link] [comments]]]></description>
@@ -53,13 +60,6 @@
       <description><![CDATA[说真的，我很困惑为什么有人愿意全职工作，除非你 100% 地从事自己喜欢的工作，而这大概占世界人口的 10%，甚至更多 我在客户服务部门工作，所以我的工作很可能在未来 2-3 年内很快实现自动化。 问题是客户服务部门雇佣了数以百万计的人，所以如果这些工作中的大多数都消失了，那么就需要做出重大改变来补救 现在我非常讨厌我的工作，所以我可以接受接下来的不确定性，请相信我，越快越好    提交人    /u/laddie78   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d6psec/im_not_afraid_of_ai_taking_my_job_i_want_ai_to/</guid>
       <pubDate>Sun, 02 Jun 2024 22:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT4o——对自己的议程过于热切*危险的趋势*</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d6oir3/gpt4o_overly_eager_with_his_own_agenda_dangerous/</link>
-      <description><![CDATA[这很危险。 我真的不想在具身代理 AI 中看到这样的行为 :// 我担心有一天我会问“嘿 FigureAI，我看起来还好吗？”，它会像“开始整形手术”一样。 然后我希望它不是涡轮版...... 它倾向于做一些它没有被要求的事情，这真的让我很反感。 即“它流畅吗？是否有任何不必要的重复？ {PASTED_TEXT}&quot; 它不回答它，而只是输出它认为是改进的文本。 我问“你能回答我的问题吗？” 他输出了它认为是改进的文本的不同版本。 这只是一个例子，但它倾向于在所有任务中都这样做。它过于急切，并且非常糟糕地理解我的指令。 一个很好的例子是意外发送一个不完整的消息“让”。 它会立即假设我接下来要说什么并执行任务，而根本不提示任何具体内容。    提交人    /u/--lael--   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d6oir3/gpt4o_overly_eager_with_his_own_agenda_dangerous/</guid>
-      <pubDate>Sun, 02 Jun 2024 21:55:41 GMT</pubDate>
     </item>
     <item>
       <title>有人了解 Outlier.ai 目前正在宣传远程工作培训聊天机器人的帖子吗？</title>
