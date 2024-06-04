@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 31 May 2024 21:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 06:26:20 GMT</lastBuildDate>
+    <item>
+      <title>更快的英特尔 Gaudi 辅助生成支持</title>
+      <link>https://huggingface.co/blog/assisted-generation-support-gaudi</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/assisted-generation-support-gaudi</guid>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>太空秘密安全更新</title>
       <link>https://huggingface.co/blog/space-secrets-disclosure</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>利用键值缓存量化解锁更长的生成时间</title>
+      <title>利用键值缓存量化实现更长的生成时间</title>
       <link>https://huggingface.co/blog/kv-cache-quantization</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/kv-cache-quantization</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-arabic</guid>
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>召唤许可：Transformers Agents 2.0 介绍</title>
-      <link>https://huggingface.co/blog/agents</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/agents</guid>
-      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
