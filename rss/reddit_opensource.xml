@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Jun 2024 15:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:26:33 GMT</lastBuildDate>
+    <item>
+      <title>硕士论文：TextSight - 利用人工智能驱动的洞察力可视化文本连接 - 第 2 部分</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8wa9r/master_thesis_textsight_visualising_textual/</link>
+      <description><![CDATA[  由    /u/Yametsu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8wa9r/master_thesis_textsight_visualising_textual/</guid>
+      <pubDate>Wed, 05 Jun 2024 17:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>未记录但活跃的框架/脚本/工具的技术文档</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8w1c4/technical_documentation_for/</link>
+      <description><![CDATA[交叉发布此内容，希望没问题。  我是一名崭露头角的技术作家，需要大量练习和实际经验。我创建了 techdocs.guide 只是为了开始记录我喜欢的东西，但它缺乏方向性和实用性。另外，我还添加了一些我不太喜欢的 AI 内容。  我决定寻找开源项目、人们构建的脚本或任何几乎没有文档的有用内容，然后开始与作者合作编写它并将其托管在我的网站上。 我想知道是否有人使用过、尝试过使用或构建过缺少我可以撰写的文档的东西。     提交人    /u/flipsnapnet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8w1c4/technical_documentation_for/</guid>
+      <pubDate>Wed, 05 Jun 2024 17:45:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>纪念 Mike Karels | FreeBSD 基金会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8tzi0/in_memory_of_mike_karels_freebsd_foundation/</link>
+      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8tzi0/in_memory_of_mike_karels_freebsd_foundation/</guid>
+      <pubDate>Wed, 05 Jun 2024 16:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>Tach - 强制模块边界 + deps，现在在 Rust 中🦀</title>
       <link>https://www.reddit.com/r/opensource/comments/1d8sblz/tach_enforce_module_boundaries_deps_now_in_rust/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[在他们的电报频道上分享了我的观点，结果被疯狂地批评了。管理员批评了一点，但群成员是另一回事，天哪。 现在我明白为什么小偷会采取守势了。 同一个人有 4 个不同的频道，他在其中分享开源项目（和不分享），并使用链接缩短器上传项目，有时甚至不给予任何信用。 他在三个 YouTube 频道（我发现的）中做了所有这些： - Tech Karan - Everything Android - Karan Arora 注意：他似乎对他们表示了感谢，但只在他的四个 TELEGRAM 频道中的一个。不是 YouTube 频道。即便如此，他还是自己上传文件。没有提供开发者页面的下载链接。    提交人    /u/thejedih   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d8qe2f/wanted_to_share_a_open_source_monetizer/</guid>
       <pubDate>Wed, 05 Jun 2024 13:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要分享一个“开源货币化工具”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d8qdrv/wanted_to_share_a_open_source_monetizer/</link>
-      <description><![CDATA[在他们的电报频道上分享了我的观点，结果被疯狂地批评了。管理员批评了一点，但群成员是另一回事，天哪。 现在我明白为什么小偷会采取守势了。 同一个人有 4 个不同的频道，他在其中分享开源项目（和不分享），并使用链接缩短器上传项目，有时甚至不给予任何信用。 他在三个 YouTube 频道（我发现的）中做了所有这些： - Tech Karan - Everything Android - Karan Arora 注意：他似乎对他们表示了感谢，但只在他的四个 TELEGRAM 频道中的一个。不是 YouTube 频道。即便如此，他还是自己上传文件。没有提供开发者页面的下载链接。    提交人    /u/thejedih   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d8qdrv/wanted_to_share_a_open_source_monetizer/</guid>
-      <pubDate>Wed, 05 Jun 2024 13:48:21 GMT</pubDate>
     </item>
     <item>
       <title>用 C 语言编写的微型公共领域数学库（+网络演示）</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！ 我写这篇文章是为了和大家分享我的第一个开源项目。它是 Sons Of The Forest 专用服务器的容器化版本，通过 Wine 模拟与 Linux 平台兼容。 请随时告诉我您的想法，并给我一些改进它的提示！ https://github.com/gdegiorgio/sons-of-the-docker    提交人    /u/J0edg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d7x3oj/sons_of_the_docker/</guid>
       <pubDate>Tue, 04 Jun 2024 13:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源对人工智能的贡献：CPDP-ai 会议小组讨论</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d7smvx/contributions_of_open_source_to_ai_a_panel/</link>
-      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d7smvx/contributions_of_open_source_to_ai_a_panel/</guid>
-      <pubDate>Tue, 04 Jun 2024 09:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KQIR：Apache Kvrocks 的查询引擎，支持 SQL 和 RediSearch 查询</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d7m385/kqir_a_query_engine_for_apache_kvrocks_that/</link>
-      <description><![CDATA[  由    /u/pragma-twice  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d7m385/kqir_a_query_engine_for_apache_kvrocks_that/</guid>
-      <pubDate>Tue, 04 Jun 2024 02:11:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
