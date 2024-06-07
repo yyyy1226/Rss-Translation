@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 03:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 06:28:38 GMT</lastBuildDate>
+    <item>
+      <title>文件转换离线应用</title>
+      <link>https://www.reddit.com/r/software/comments/1da2rhf/file_conversion_offline_app/</link>
+      <description><![CDATA[有人知道有什么好的免费文件转换应用程序（比如从 jpg 转换为 png）吗？它可以在本机处理各种文件类型转换吗？我以前试过找一个，但它们要么很糟糕，要么只是让它看起来像是在离线操作，而实际上它正在将其上传到服务器，然后它会向你发出文件转换限制已达到的警报。    提交人    /u/MBgaming_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1da2rhf/file_conversion_offline_app/</guid>
+      <pubDate>Fri, 07 Jun 2024 05:06:37 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道有这样的软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d9ytsv/anyone_know_of_a_software_for_this/</link>
-      <description><![CDATA[这是一个声学项目。 我需要找到一个使用某种物理模拟（流体或其他）的程序，这样我就可以模拟空袭警报的声音。 我目前正在使用 Blender 来可视化气流，但它无法记录可以作为音频播放的任何压力差异。 基本上是一种可以保存虚拟“麦克风”压力差异的流体模拟。    提交人    /u/EASguy98   [链接] [评论]]]></description>
+      <description><![CDATA[这是一个声学项目。 我需要找到一个使用某种物理模拟（流体或其他）的程序，这样我就可以模拟空袭警报的声音。 我目前正在使用 Blender 来可视化气流，但它无法记录任何可以作为音频播放的压力差。 基本上是一种可以保存虚拟“麦克风”压力差的流体模拟。    提交人    /u/EASguy98   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d9ytsv/anyone_know_of_a_software_for_this/</guid>
       <pubDate>Fri, 07 Jun 2024 01:28:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我正在寻找一个类似于 Eagle App 的优秀数字资产管理应用程序，但不需要将文件复制到它自己的库中（这样做很令人沮丧！）。你们有人使用过其他替代方法吗？    提交人    /u/smernt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d9m4rj/anything_similar_to_eagle_app_eaglecool_that/</guid>
       <pubDate>Thu, 06 Jun 2024 16:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的下载管理器是什么？（FDM 与 JDownloader）</title>
-      <link>https://www.reddit.com/r/software/comments/1d9ll0l/whats_best_downoad_manager_fdm_vs_jdownloader/</link>
-      <description><![CDATA[大家好！ 我的问题是最好的下载管理器 FDM 还是 Jdownloader？ 实际上，我正在使用免费下载器管理器，它一直运行良好且快速。 我以前使用过 IDM，但不想购买一个许可证。    提交人    /u/BrunimHenriq   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d9ll0l/whats_best_downoad_manager_fdm_vs_jdownloader/</guid>
-      <pubDate>Thu, 06 Jun 2024 15:55:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
