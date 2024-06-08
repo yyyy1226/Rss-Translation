@@ -4,99 +4,110 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 08 Jun 2024 12:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 21:13:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 微软宣布在 Windows 11 中推出新的回忆功能，该功能可截图 [...]</title>
-      <link>https://t.me/hn_summary/93838</link>
-      <description><![CDATA[除非您选择加入，否则 Windows 不会截取您所做的一切
+      <title>[媒体] 网站：www.forbes.com</title>
+      <link>https://t.me/hn_summary/93906</link>
+      <description><![CDATA[搜索引擎 Perplexity 直接抄袭新闻媒体的内容
+标题：搜索引擎 Perplexity 直接抄袭新闻媒体的内容
+网站：www.forbes.com
 
-微软宣布，Windows 11 中的新 Recall 功能（可截取您在 PC 上所做的一切）将是一项可选功能，而不是默认启用。这一决定是在隐私倡导者和安全专家对潜在的网络安全风险表示担忧之后做出的。Recall 现在将需要通过 Windows Hello 进行用户身份验证，并将包括额外的数据保护措施，例如加密搜索索引和“即时”解密。这一变化是在批评 Recall 数据库以前以纯文本形式存储，使其容易受到恶意软件攻击之后做出的。微软强调，Recall 数据保持本地和私密，该功能仅在具有高级安全措施的新型 Copilot Plus PC 上可用。该公司致力于优先考虑安全性，正如首席执行官萨蒂亚·纳德拉 (Satya Nadella) 最近对员工的指示所强调的那样。]]></description>
-      <guid>https://t.me/hn_summary/93838</guid>
-      <pubDate>Sat, 08 Jun 2024 12:16:08 GMT</pubDate>
+Perplexity 首席执行官 Aravind Srinivas 受到抨击，因为他的人工智能搜索初创公司被指控通过其新功能 Perplexity Pages 抄袭主要新闻媒体的内容。此功能允许用户策划特定主题的内容，但许多帖子与福布斯、CNBC 和彭博社的原创故事非常相似，没有适当的归属。例如，Perplexity 上关于 Eric Sc​​hmidt 隐形无人机项目的帖子从《福布斯》中抄袭了大量内容，包括一张定制插图，只有一个很小、难以发现的徽标作为引文。首席执行官 Srinivas 承认了这个问题，并承诺会进行改进。值得注意的是，Perplexity 的人工智能本身认为这种做法是不道德的。这场争议凸显了人工智能创新与知识产权之间的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/93906</guid>
+      <pubDate>Sat, 08 Jun 2024 21:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 thenewsta 上的文章“冲刺让你慢下来：构建软件的更好方法”中 [...]</title>
-      <link>https://t.me/hn_summary/93837</link>
-      <description><![CDATA[冲刺让你慢下来：构建软件的更好方法
-在thenewstack.io上的文章“冲刺让你慢下来：构建软件的更好方法”中，作者批评了软件冲刺的普遍使用，认为它们经常导致倦怠、代码不达标和开发人员流失率高。凭借 12 年经营软件公司的经验和编程系统博士学位，作者主张采用一种替代方法，该方法可以消除截止日期并赋予规模较小、自主的团队权力。Everlaw 使用的这种方法使工程师能够在没有截止日期压力的情况下构建整个功能，从而提高代码质量并提高整体生产力。令人惊讶的是，这种方法随着时间的推移会推出更多功能，工程师也会更开心。作者强调，虽然这种模式可能不适合早期创业公司，但对于专注于长期成功的公司来说，它非常有效。]]></description>
-      <guid>https://t.me/hn_summary/93837</guid>
-      <pubDate>Sat, 08 Jun 2024 12:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 美国联邦法官裁定，针对谷歌的反垄断诉讼将由[...]决定。</title>
-      <link>https://t.me/hn_summary/93836</link>
-      <description><![CDATA[谷歌向山姆大叔开出 200 万美元支票，以避免陪审团审判
-在谷歌向政府支付 230 万美元以支付索赔后，美国一名联邦法官裁定，针对谷歌的反垄断诉讼将由法官而不是陪审团决定。此案的焦点是谷歌的广告技术，是拜登政府对大型科技公司提起的第一起反垄断诉讼。美国司法部和几个州指控谷歌存在反竞争行为。法官 Leonie Brinkema 的裁决对希望进行陪审团审判的司法部来说是一个挫折。谷歌发言人 Peter Schottenfels 对这项裁决表示赞赏，称司法部的损害赔偿要求“是捏造的”。谷歌的即时驳回动议听证会定于 6 月 21 日举行，如果不获批准，将于 9 月举行法庭审判。]]></description>
-      <guid>https://t.me/hn_summary/93836</guid>
-      <pubDate>Sat, 08 Jun 2024 12:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 用于生物信息学的 R 还是 Python？</title>
-      <link>https://t.me/hn_summary/93835</link>
-      <description><![CDATA[R 还是 Python 适合生物信息学？
-如果您在 Python 和 R 之间犹豫不决，那么您并不孤单——这已经困扰了初学者几十年。我的旅程始于 12 年前的 Unix 命令，然后是 Python，我发现 Python 对于生物信息学来说不太实用，因为它处理表格和电子表格很麻烦。另一方面，R 凭借其对数据框和 tidyverse 包的内置支持而表现出色，使复杂的数据整理变得轻而易举。它的 Bioconductor 生态系统提供了数千个生物信息学包，例如用于 RNAseq 分析的 DESeq2。然而，R 需要将所有数据加载到内存中，这对于大型数据集来说可能是一个缺点，尽管 DelayedArray 解决了这个问题。两种语言各有优势：R 可以使用预构建的包进行快速分析，而 Python 则适合进行严肃的编程和算法开发。理想情况下，学习这两种语言以充分利用它们的独特优势。祝您学习愉快！
+      <title>[媒体] 网站：www.thegreenwebfoundation.org</title>
+      <link>https://t.me/hn_summary/93905</link>
+      <description><![CDATA[使用 CO2.js 在 5 分钟内开始计算数字碳排放量
+标题：使用 CO2.js 在 5 分钟内开始计算数字碳排放量
+网站：www.thegreenwebfoundation.org
 
-Tommy
+随着数字用户越来越意识到数据传输对环境的影响，CO2.js 提供了一种快速有效的方法来估算数字碳排放量。这个开源 JavaScript 库集成了同行评审的碳估算模型，使开发人员能够轻松计算数据传输产生的二氧化碳排放量、访问电网强度数据并验证绿色网络托管。通过简化这些模型的实施，CO2.js 使开发人员能够在他们的项目中构建强大的碳测量。值得注意的是，该库支持 TypeScript 并提供各种安装选项。该指南提供了详细的入门说明，并展示了实际应用程序，包括 Mozilla 的开发人员工具和 Sitigreen 网站碳计算器。
 
-争议：关于 Python 还是 R 更适合生物信息学的争论仍未解决，双方都有强烈的意见。
+令人惊讶/独特/聪明的方面：CO2.js 不仅可以估算排放量，还可以检查网站是否托管在绿色服务器上，从而促进可持续的网络实践。
 
-独特/巧妙：R 中的 DelayedArray 包是一种巧妙的解决方案，无需过多的 RAM 即可处理大型数据集。]]></description>
-      <guid>https://t.me/hn_summary/93835</guid>
-      <pubDate>Sat, 08 Jun 2024 12:07:56 GMT</pubDate>
+有争议的方面：由于基础设施的复杂性和不同的电力组合而对概括和假设的依赖可能会引发对估计准确性的质疑。]]></description>
+      <guid>https://t.me/hn_summary/93905</guid>
+      <pubDate>Sat, 08 Jun 2024 21:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 中国曾经蓬勃发展的中产阶级，以强劲的消费和投资而闻名，但现在 [...]</title>
-      <link>https://t.me/hn_summary/93834</link>
-      <description><![CDATA[中国中产阶级正在消失
-中国曾经蓬勃发展的中产阶级以其强劲的消费和投资而闻名，但现在正面临大幅下滑，许多人重新陷入贫困。这种转变对中国共产党（CCP）构成了严峻挑战，该党长期以来一直与民众保持着一种隐性契约：容忍党的统治以换取经济繁荣。由恒大地产于 2021 年财务崩溃引发的持续房地产危机严重影响了房屋价值，而房屋价值是中产阶级财富的主要来源。最近的数据显示，个人所得税收入和起薪急剧下降，表明金融普遍下滑。奢侈品消费品销售额暴跌，进一步凸显了中产阶级的困境。经济衰退威胁到中共的繁荣承诺，引发了人们对潜在公众动荡的担忧。]]></description>
-      <guid>https://t.me/hn_summary/93834</guid>
-      <pubDate>Sat, 08 Jun 2024 11:58:48 GMT</pubDate>
+      <title>[媒体] Ventoy 是一个开源工具，旨在为各种映像创建可启动的 USB 驱动器 [...]</title>
+      <link>https://t.me/hn_summary/93904</link>
+      <description><![CDATA[Ventoy – 可启动 USB 解决方案
+Ventoy 是一款开源工具，旨在为各种映像文件格式（ISO/WIM/IMG/VHD(x)/EFI）创建可启动 USB 驱动器。与传统方法不同，Ventoy 无需反复格式化 USB 驱动器；用户只需将映像文件复制到驱动器并从中启动即可。它同时支持多个映像文件，并提供启动菜单供选择。Ventoy 与各种操作系统兼容，包括 Windows、Linux、Unix 和 ChromeOS，并支持各种启动模式（旧版 BIOS、UEFI）。主要区别在于它支持 MBR 和 GPT 分区样式、快速设置和广泛的操作系统兼容性。Ventoy 还具有 GUI 插件配置器、安全启动支持以及从本地磁盘文件启动的能力。]]></description>
+      <guid>https://t.me/hn_summary/93904</guid>
+      <pubDate>Sat, 08 Jun 2024 21:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：研究显示如今的汽车色彩远不如 20 年前</title>
-      <link>https://t.me/hn_summary/93833</link>
-      <description><![CDATA[研究显示，如今的汽车色彩远不如 20 年前
-标题：研​​究显示，如今的汽车色彩远不如 20 年前
+      <title>[媒体] 为什么赌博是错误的，而保险却是正确的？</title>
+      <link>https://t.me/hn_summary/93903</link>
+      <description><![CDATA[是什么让赌博变得错误，而保险却正确？（2017 年）
+在 BBC.com 上的文章“是什么让赌博变得错误，而保险却正确？”中，Tim Harford 探讨了保险和赌博之间的细微区别，特别是通过金融衍生品的视角。最初，保险（例如农作物保险）可帮助农民降低风险并扩大业务。然而，金融衍生品市场模糊了保险和赌博之间的界限。衍生品允许各方押注各种不确定因素，例如汇率波动或商品价格，而无需实际风险来投保。这个市场的投机性质导致了这样的情况：在 2007 年金融危机之前，衍生品的价值远远超过全球经济，使实体经济成为一场杂耍。这种投机泡沫加剧了危机，凸显了将金融衍生品视为单纯赌注的潜在危险。]]></description>
+      <guid>https://t.me/hn_summary/93903</guid>
+      <pubDate>Sat, 08 Jun 2024 20:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 苹果即将推出真正的 Siri 吗？</title>
+      <link>https://t.me/hn_summary/93902</link>
+      <description><![CDATA[苹果即将推出真正的 Siri 吗？
+2011 年，苹果在 iPhone 4S 上推出 Siri 时，承诺将推出一款革命性的语音助手，能够无缝处理各种任务。然而，在过去 13 年里，Siri 基本上未能发挥其潜力，通常只能设置计时器或提供基本信息。据传，苹果将在下周的 WWDC 上公布对 Siri 的重大改进，利用大型语言模型来增强其可靠性，并可能将其更深入地集成到应用程序中。这可能最终使 Siri 成为它一直想要成为的多功能助手。然而，考虑到过去的失望和人工智能炒作的快速步伐，人们依然持怀疑态度。]]></description>
+      <guid>https://t.me/hn_summary/93902</guid>
+      <pubDate>Sat, 08 Jun 2024 20:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 欧盟准备出台严格的大规模监控法规[...]</title>
+      <link>https://t.me/hn_summary/93901</link>
+      <description><![CDATA[欧盟计划大规模扩大大规模监控
+欧洲议会议员帕特里克·布雷耶警告称，欧盟 (EU) 准备在欧盟议会选举后推出严格的大规模监控法规。欧盟委员会泄露的文件揭示了不加区分的数据保留、加密后门和执法强制访问设备的计划。这些措施将允许对手机、物联网设备和汽车进行持续监控，甚至扩展到消息应用程序等 OTT 服务。尽管此前欧盟法院裁定禁止此类数据保留，但欧盟仍旨在跟踪所有互联网活动。布雷耶批评该计划是一个秘密、不民主的团体的产物，强调其可能滥用于反对异见人士和批评人士。]]></description>
+      <guid>https://t.me/hn_summary/93901</guid>
+      <pubDate>Sat, 08 Jun 2024 20:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名软件开发人员，我经常使用 iTerm2、PuTTY 和 GNOME Terminal 等终端仿真器。</title>
+      <link>https://t.me/hn_summary/93900</link>
+      <description><![CDATA[使用 MAME 进行真正的 VT102 模拟（2020 年）
+作为软件开发人员，我经常使用 iTerm2、PuTTY 和 GNOME Terminal 等终端仿真器。这些工具模拟较旧的终端，主要是 DEC VT102。包括 VT102 在内的 VT100 系列为终端仿真设定了标准。模拟这些终端涉及实现其文档中的功能，但由于缺乏详细的文档和测试套件，测试具有挑战性。
 
-TheDrive.com 报告称，过去二十年，灰度汽车（黑色、白色、灰色和银色）的流行度激增。iSeeCars 的数据显示，灰度汽车现在占新车市场的 80%，高于 2004 年的 60.3%。尽管汽车制造商提供的颜色选择数量与 2004 年相同，但消费者对灰度的偏好仍然很强烈。令人惊讶的是，灰色的受欢迎程度几乎与黑色相当，甚至在跑车中也是如此。蓝色是最受欢迎的非灰度颜色，尽管许多色调比蓝色更灰。有趣的是，绿色是最近唯一一种受欢迎程度上升的非灰度颜色。这种趋势的原因包括经销商的备货做法、成本考虑和转售价值问题。如果没有重大的文化转变，鲜艳的汽车颜色不太可能大幅回归。]]></description>
-      <guid>https://t.me/hn_summary/93833</guid>
-      <pubDate>Sat, 08 Jun 2024 11:14:31 GMT</pubDate>
+有趣的是，以模拟街机而闻名的 MAME 可以使用原始固件模拟 VT102，提供真实的体验。设置它需要兼容 POSIX 的操作系统、VT102 固件和 MAME。该过程包括配置 MAME 以使用 VT102 固件并设置终端以通过 PTY 设备进行通信。此设置允许现代应用程序在模拟的 VT102 内运行，从而提供一种体验历史计算硬件的独特方式。（基于 53% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93900</guid>
+      <pubDate>Sat, 08 Jun 2024 19:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在一次大胆而复杂的行动中，以色列国防军、辛贝特和以色列警察 (Yamam) 成功 [...]</title>
-      <link>https://t.me/hn_summary/93832</link>
-      <description><![CDATA[以色列国防军营救人质 Noa Argamani、Andrey Kozlov、Shlomi Ziv 和 Almog Meir
-在一次大胆而复杂的行动中，以色列国防军、辛贝特和以色列警察 (Yamam) 成功从加沙地带营救了四名以色列人质——Noa Argamani (25 岁)、Almog Meir (21 岁)、Andrey Kozlov (27 岁) 和 Shlomi Ziv (40 岁)。这些人质于 10 月 7 日被哈马斯从“Nova”派对绑架并关押在努塞拉特。辛贝特和 Yamam 战士执行的营救行动使人质情况稳定。他们已被转移到特拉哈绍梅尔的“Sheba”医疗中心接受进一步的医疗检查。安全部队仍致力于营救所有人质。这是一个正在发展的故事。]]></description>
-      <guid>https://t.me/hn_summary/93832</guid>
-      <pubDate>Sat, 08 Jun 2024 11:07:25 GMT</pubDate>
+      <title>[媒体] 联邦上诉法院裁定，Facebook 的母公司 Meta 必须面临 [...]</title>
+      <link>https://t.me/hn_summary/93899</link>
+      <description><![CDATA[法院裁定 Meta 必须因欺诈性广告面临诉讼
+联邦上诉法院裁定，Facebook 的母公司 Meta 必须面临诉讼，指控其违反服务条款，向中国公司招揽欺诈性广告。原告 Christopher Calise 和 Anastasia Groschen 声称 Meta 不正当地从中牟取暴利，并因接受和招揽欺诈性广告而疏忽大意，尽管内部数据显示许多广告违反了 Facebook 政策。美国地区法官 Jeffrey White 最初根据《通信规范法》第 230 条驳回了这一驳回，但第九巡回上诉法院推翻了这一驳回，称 Meta 打击欺诈性广告的合同义务与其出版商身份无关。该案已被发回重审。值得注意的是，美国巡回法官瑞安·尼尔森 (Ryan Nelson) 呼吁重新考虑第 230 条赋予科技公司的广泛豁免权，强调该豁免权可能与其他法律发生冲突，并鼓励对非法内容“故意视而不见”。]]></description>
+      <guid>https://t.me/hn_summary/93899</guid>
+      <pubDate>Sat, 08 Jun 2024 19:17:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 1986 年 11 月的《计算机编年史》这一集中，Stewart Cheifet 和 Gary Ki [...]</title>
-      <link>https://t.me/hn_summary/93831</link>
-      <description><![CDATA[101 个适用于 Lotus 1-2-3 的宏和未命名的 Lotus Symphony 冒险游戏 (2022)
-在 1986 年 11 月的这一集Computer Chronicles中，Stewart Cheifet 和 Gary Kildall 深入研究了 Lotus 1-2-3 的宏世界，Lotus 1-2-3 是 1980 年代后期占主导地位的商业编程语言。这一集邀请了多位专家，包括 Alan Simpson，他演示了宏如何节省按键并扩展 Lotus 1-2-3 的功能，以及 Lynne Hughes，她分享了创建复杂宏来管理大型预算结构的经验。本集还探讨了宏在不同环境中的使用，例如 Macintosh 上的 Microsoft Excel，甚至还介绍了如何创新地使用 Lotus Symphony 宏来开发冒险游戏。令人惊讶的是，Lotus Symphony 被用作游戏引擎，展示了宏在传统商业应用程序之外的多功能性。（根据 61% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/93831</guid>
-      <pubDate>Sat, 08 Jun 2024 11:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在网络安全这个充满活力的领域，预防威胁至关重要。</title>
-      <link>https://t.me/hn_summary/93830</link>
-      <description><![CDATA[秘密扫描研究揭示包管理器中的严重漏洞
-在网络安全这个动态领域，保持领先于威胁至关重要。这篇博文深入探讨了在 PyPI、npm、NuGet 和 RubyGems 等包存储库中进行秘密扫描的重要性，揭示了令人震惊的漏洞。API 密钥和身份验证令牌等秘密泄露可能会导致严重违规。这篇文章详细介绍了使用 EC2 机器扫描这些存储库的三管齐下的方法，强调了 AWS 访问令牌和其他敏感数据的普遍性。创新工具 PackageSpy 被引入用于自动化和增强安全扫描，提供可自定义的规则和 CI/CD 集成。研究结果强调了软件开发中对机密管理的严格要求。
+      <title>[媒体] 标题：Adobe 用户对新政策模糊的 AI 影响感到愤怒</title>
+      <link>https://t.me/hn_summary/93898</link>
+      <description><![CDATA[Adobe 用户对模糊的新政策对 AI 的影响感到愤怒
+标题：Adobe 用户对模糊的新政策对 AI 的影响感到愤怒
 
-有争议的方面：AWS 访问令牌和其他敏感信息在广泛使用的软件包存储库中的暴露引发了重大的安全问题。
+网站：mashable.com
 
-独特/巧妙的亮点：PackageSpy 的开发是一个开源工具，支持多个软件包管理器并与 CI/CD 管道无缝集成，是解决普遍问题的巧妙解决方案。（基于 81% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93830</guid>
-      <pubDate>Sat, 08 Jun 2024 10:48:11 GMT</pubDate>
+更新：2024 年 6 月 7 日，美国东部时间上午 9:44
+
+Adobe 已澄清其 Firefly AI 模型未针对未发布的用户内容进行训练。然而，Adobe 服务条款的变更让用户感到困惑和愤怒，他们担心自己的工作（包括未发布的项目）可能会被用来训练 AI 模型。弹出通知指出，Adobe 可能会访问用户内容进行内容审查，这引发了隐私问题，尤其是对于那些处理机密信息的用户而言。Adobe 的条款提到使用机器学习来改进服务，但模糊的语言引发了对未经授权使用创意作品的担忧。Adobe 声称它只将公开内容用于 AI 训练，但这场争议凸显了有关 AI 训练数据和版权的更广泛问题。Mashable 已向 Adob​​e 寻求进一步澄清。]]></description>
+      <guid>https://t.me/hn_summary/93898</guid>
+      <pubDate>Sat, 08 Jun 2024 19:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CAMB.AI 的 MARS5 项目是一个开源、高韵律的文本转语音 (TTS) 系统 [...]</title>
-      <link>https://t.me/hn_summary/93829</link>
-      <description><![CDATA[显示 HN：MARS5，开源、韵律超强的 TTS 模型
-CAMB.AI 的 MARS5 项目是一个开源、韵律超强的文本转语音 (TTS) 模型，旨在从文本和简短的音频样本生成听起来自然的语音。MARS5 利用两级 AR-NAR 管道，擅长为体育评论和动漫等复杂场景生成语音。它支持 140 多种语言，并允许通过标点符号和大写字母进行细微的韵律控制。独特功能包括“深度克隆”以实现更高质量的输出，以及通过 torch.hub 轻松加载模型。该项目旨在提高推理稳定性、性能和参考音频选择。欢迎贡献，该模型已获得 GNU AGPL 3.0 许可。]]></description>
-      <guid>https://t.me/hn_summary/93829</guid>
-      <pubDate>Sat, 08 Jun 2024 10:27:59 GMT</pubDate>
+      <title>[媒体] 在 Lupin & Holmes，我们最近发现了一个严重的缓存中毒攻击漏洞 [...]</title>
+      <link>https://t.me/hn_summary/93897</link>
+      <description><![CDATA[一个漏洞就能摧毁 JavaScript 生态系统
+在 Lupin &amp; Holmes，我们最近发现了 npm 注册表中存在一个重大的缓存中毒攻击漏洞，而 npm 注册表是 JavaScript 生态系统的基石。这种攻击被称为缓存中毒拒绝服务 (CPDoS)，利用 Web 缓存系统中的漏洞来传递恶意内容或拒绝访问合法软件包。我们的研究表明，攻击者可以操纵 npm 的缓存系统，使热门软件包无法访问，从而可能导致软件开发流程出现大范围中断。
+
+尽管我们发现了这一问题，但 npm 的所有者 GitHub 淡化了其严重性，理由是攻击的复杂性和不一致性。他们承认了这个问题，但将其归类为滥用问题，并提供了 500 美元的适度奖励。我们不同意这一评估，强调软件供应链中需要更强大的安全措施。
+
+争议：尽管我们有证据表明该漏洞可能造成影响，但 GitHub 对该漏洞的回应是将其标记为滥用问题，而不是重大安全风险。
+
+独特见解：该攻击能够从单台机器破坏 npm 注册表，而无需全面的 DDoS 攻击。]]></description>
+      <guid>https://t.me/hn_summary/93897</guid>
+      <pubDate>Sat, 08 Jun 2024 19:12:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
