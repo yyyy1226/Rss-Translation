@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sun, 09 Jun 2024 15:20:24 GMT</lastBuildDate>
+    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Sun, 09 Jun 2024 18:25:15 GMT</lastBuildDate>
+    <item>
+      <title>SPCCSM - 你什么意思 (S_TN rmx)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dc0cmf/spccsm_wtf_u_mean_s_tn_rmx/</link>
+      <description><![CDATA[      SPCCSM - wtf u mean (S_TN rmx) Remix on @SPCCSM - wtf u mean 与 GB 拦截器共享屏幕：https://ferrantecrafts.c​​om/products/gb-interceptor 您可以在此处找到完整专辑：https://spccsm.bandcamp.com/album/anxiety-episode 在 LSDJ 8.4.4 上创作的曲目https://www.littlesounddj.com/lsd/index.php 在 M8 跟踪器上的效果（延迟和滤波器）https://dirtywave.com/ chiptune #lsdj #m8tracker    由   提交  /u/Stress_TN   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dc0cmf/spccsm_wtf_u_mean_s_tn_rmx/</guid>
+      <pubDate>Sun, 09 Jun 2024 18:20:48 GMT</pubDate>
+    </item>
     <item>
       <title>写给 2000 年代 Gameboy Chiptune 的一封情书</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1dbtkos/a_love_letter_to_2000s_gameboy_chiptune/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>六月 - 草图</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1d9v6x1/june_sketch/</link>
-      <description><![CDATA[      这是另一个在 FamiStudio 中完成的小音乐草图，因为我每次都会吃掉那些噪音通道的刺耳声音时间。    由    /u/Smaradav  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      这是另一个在 FamiStudio 中完成的小音乐草图，因为我把那些噪音通道的刺耳声音都吃掉了时间。    由    /u/Smaradav  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1d9v6x1/june_sketch/</guid>
       <pubDate>Thu, 06 Jun 2024 22:33:35 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/Speedvicio   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1d91q2h/stop_the_fight_ahx/</guid>
       <pubDate>Wed, 05 Jun 2024 21:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>芯片音乐唱片公司</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1d8w8pm/chiptune_record_label/</link>
-      <description><![CDATA[我正在考虑创办一家名为 Extra Life Records 的在线独立唱片公司，该公司将发行 chiptune 风格的音乐（包括 chiptune 启发的 EDM 和经典 chiptune），我可能需要一些帮助。我还需要一些艺术家 :P 如果您有兴趣，请告诉我！ 编辑：说实话，这可能不会发生，或者如果发生，规模可能会很小    提交人    /u/ESOrSomething   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1d8w8pm/chiptune_record_label/</guid>
-      <pubDate>Wed, 05 Jun 2024 17:54:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
