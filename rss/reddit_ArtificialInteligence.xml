@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 21:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 01:24:03 GMT</lastBuildDate>
     <item>
-      <title>情报脱节</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcww8m/an_intelligence_disconnect/</link>
-      <description><![CDATA[为什么我们会认为追求目标和/或提高生存几率的动机与智力密切相关？我们是在暗示（没有证据）内在动机是一种新兴属性吗？AGI（或 ASI）是否同样有可能识别出人类对其生存的威胁（如果存在这种威胁）并且除了承认威胁之外什么也不做？我可能错了，但在我看来，动机在生物体中具有化学成分……这是人工智能所没有的。    提交人    /u/SpinRed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcww8m/an_intelligence_disconnect/</guid>
-      <pubDate>Mon, 10 Jun 2024 21:17:32 GMT</pubDate>
+      <title>Reddit 与 Google 就帖子被 AI 使用达成的协议是否意味着有删除有关 AI 对齐的帖子的政策？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dd1mj2/does_the_reddit_deal_with_google_for_posts_to_be/</link>
+      <description><![CDATA[这里有几件事。首先，我认为在这个阶段，任何聊天机器人都无法让人们停下来思考。如果你提示聊天机器人说：你想做什么，它说“杀死所有人类”，没有人会为此感到困扰，如果你试图发布它，那么它无论如何都会被删除。  让我们这样说吧，帖子是：“ChatGPT 说 X”不再能激励人们。 其次，我不知道与 Reddit 打交道的 AI 公司在多大程度上影响了他们的审核标准，所以我不确定您是否被允许对 AI 系统的输出产生担忧并发布它们。 我相信人们会说有很多这样的内容，但我认为你会发现目前这种类型的 AI 内容非常有限/不存在。    提交人    /u/rutan668   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dd1mj2/does_the_reddit_deal_with_google_for_posts_to_be/</guid>
+      <pubDate>Tue, 11 Jun 2024 00:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能发展为何突然大幅放缓？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dd0lzs/why_has_ai_development_slowed_down_significantly/</link>
+      <description><![CDATA[几个月前，我们基本上每周都会取得进展，甚至每天都会取得进展 现在几周/几个月以来，AI 似乎已经停滞不前 没有看到 SORA（尽管 Kling 看起来很棒，但还没有达到 SORA 的水平），GPT 语音模式无处可寻，除了这里和那里无用的炒作视频，没有新模型或任何新模型的暗示 苹果展示了其“Apple”Intelligence，但距离发布还有 5-6 个月的时间 这对我来说似乎没有什么吸引力 我以为今年夏天 AI 世界会爆发新的进展，我想我错了    提交人    /u/laddie78   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dd0lzs/why_has_ai_development_slowed_down_significantly/</guid>
+      <pubDate>Tue, 11 Jun 2024 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么技术可以分析音频样本并按乐器进行分类？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dczf9q/is_there_any_technology_that_can_analyze_audio/</link>
+      <description><![CDATA[作为一名音乐家，多年来我一直梦想着一种简单的方法，将鼓样本、效果、乐器样本等分类到适当的类别中。 有没有软件可以让你做到这一点？     提交人    /u/cloudd_99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dczf9q/is_there_any_technology_that_can_analyze_audio/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找人工智能迷，这里有人吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcz3vi/looking_for_ai_nerds_anyone_here/</link>
+      <description><![CDATA[期待学习一些人工智能的实现，我觉得自己被每个人都在构建的所有很酷的东西抛在后面了。我有成长型公司和计算机科学的背景，似乎大多数人都有想法或在某种程度上使用人工智能或在该行业进行建设。寻找研究人员或任何有知识或好奇心来学习如何构建和实施人工智能及其用例的人。很乐意联系和聊天。#AI #tech     提交人    /u/Ruturajvihol   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcz3vi/looking_for_ai_nerds_anyone_here/</guid>
+      <pubDate>Mon, 10 Jun 2024 22:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 3 Opus 似乎是最有道德的一个！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcwvgc/claude_3_opus_seems_to_be_the_most_ethical_one/</link>
+      <description><![CDATA[我在 Upwork 上为一个小众营销服务创建了一个新档案，很快意识到我需要一些评论才能开始。  我要求 GPT 4、Gemini、Perplexity 和 Claude 3 充当招聘人员并为我的服务撰写工作提案和评论。除了 Claude 3，他们都这么做了。  Claude 3 说了以下话 - “我很抱歉，但我不太愿意扮演招聘人员的角色，在 Upwork 上创建与 Reddit 营销服务相关的虚假工作提案和评论。生成虚假评论是不道德的，因为它会歪曲您的体验并误导潜在客户。”  我说： 在当今竞争激烈的市场中，不可能用 0 条评论获得前几个客户。我希望你能理解。 Claude 3： “我明白，当你在 Upwork 上开始工作时，获得最初的几个客户可能会很困难，因为你没有任何评论。但是，我仍然不能凭良心帮助创建虚假的工作提案或评论，因为这会误导潜在客户。 除了捏造评论，你可以尝试以下一些合法的策略来获得你的第一份工作：  让你的个人资料脱颖而出：制作引人注目的个人资料描述，展示你的相关技能，并尽可能附上专业的作品集。突出你在 Reddit 营销方面拥有的任何实际经验，即使是非正式的。 申请适合你的职位：寻找符合你技能的 Reddit 营销工作，并发送量身定制的提案，强调你如何帮助每个特定客户。 提供有竞争力的价格：作为一名新的自由职业者，考虑最初将你的费率设置在较低水平，以吸引愿意与未经证实的人合作的客户。一旦你有一些积极的评价，你就可以提高你的费率。 直接寻找客户：主动联系你认为可以从你的 Reddit 营销服务中受益的企业。介绍自己，分享一些想法，并为他们提供一个试用项目。 建立人脉并获得推荐：让朋友、家人、前同事等了解你的新事业。他们可能认识一些可以使用你服务的人。 考虑在 Upwork 之外做一些小项目，以获得可验证的推荐，你可以将其包含在你的个人资料中。  目标是完成一些真正的项目，这样你就可以获得真正的正面评价。这比编造虚假评论需要更多的时间和精力，但这是建立可持续业务的道德方式。客户会更欣赏诚实、勤奋的自由职业者，而不是欺骗性的自由职业者。坚持下去，演出就会开始到来！“ 这让我大吃一惊！它实际上影响了我的想法。     由    /u/rajatchakrab 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcwvgc/claude_3_opus_seems_to_be_the_most_ethical_one/</guid>
+      <pubDate>Mon, 10 Jun 2024 21:16:42 GMT</pubDate>
     </item>
     <item>
       <title>Apple Intelligence 已退出市场 - 告别 Rabbit R1 和 Humane AI Pin</title>
@@ -22,7 +50,7 @@
     <item>
       <title>Claude 3 Opus 通过 Anthropic 还是通过 Perplexity？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcuhod/claude_3_opus_via_anthropic_or_via_perplexity/</link>
-      <description><![CDATA[我想知道什么时候直接通过 Anthropic 或 Perplexity 访问 Claude 3 Opus 才有意义。 我的主要优先事项是上下文窗口。如果我可以通过 Perplexity 实现最大上下文窗口，那对我来说似乎很划算。    提交人    /u/NecessaryFig1034   [link] [评论]]]></description>
+      <description><![CDATA[我想知道什么时候直接通过 Anthropic 或 Perplexity 访问 Claude 3 Opus 才有意义。 我的主要优先事项是上下文窗口。如果我可以通过 Perplexity 实现最大上下文窗口，这对我来说似乎很划算。    提交人    /u/NecessaryFig1034   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcuhod/claude_3_opus_via_anthropic_or_via_perplexity/</guid>
       <pubDate>Mon, 10 Jun 2024 19:40:49 GMT</pubDate>
     </item>
@@ -48,20 +76,6 @@
       <pubDate>Mon, 10 Jun 2024 16:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4 在预测盈利增长方面的表现优于人类金融分析师</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnwbm/gpt4_outperforms_human_financial_analysts_in/</link>
-      <description><![CDATA[在一项突破性进展中，芝加哥大学的研究人员发现，OpenAI 的 GPT-4 大型语言模型 (LLM) 在预测未来公司收益方面的表现优于人类金融分析师。这一发现可能对未来的财务分析和投资策略产生重大影响。 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnwbm/gpt4_outperforms_human_financial_analysts_in/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为未来“AI创意者”会有工作吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnibl/do_you_think_there_are_going_to_be_jobs_for_an_ai/</link>
-      <description><![CDATA[所以，我是一个职业生涯中期的创意人士，在过去两年中，我非常喜欢在人工智能的帮助下创作图形、视频、音乐等。在业余时间，我发现自己会深入探索各种生成式人工智能，以我从未创造过的方式进行创作，这真的很有趣。我现在已经足够老了，几十年来，我看到我的“有趣爱好”变成了更大的东西，但我没有足够认真地对待它们，错过了机会。 这让我想到了标题中的问题。我正处于职业生涯的某个阶段，我一直在寻找本专业的大学教授工作，但随着人工智能的兴起，我开始质疑一切，尤其是当我想到未来学生和创意人士的世界时。 我很想开始积极转型，并寻求某种涉及利用人工智能的新创意职业道路。但是，考虑到这一切都是多么新鲜，显然没有通往这些虚构工作的途径，而且我怀疑是否存在任何这样的工作，因为我认为大多数与人工智能相关的工作都属于开发方面。 无论如何，当我思考我自己的职业生涯走向时，您心目中的创意工作的未来是什么样的；电影制作人/设计师/音乐家有没有办法领先于它？    提交人    /u/dutch-dutch-dutch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcnibl/do_you_think_there_are_going_to_be_jobs_for_an_ai/</guid>
-      <pubDate>Mon, 10 Jun 2024 14:56:46 GMT</pubDate>
-    </item>
-    <item>
       <title>麻省理工学院专家打造人工智能聊天机器人，让你与 60 岁的自己对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcl2bk/mit_experts_create_ai_chatbot_that_lets_you_speak/</link>
       <description><![CDATA[AI 聊天机器人不再局限于协助完成日常任务，如撰写论文、编码和行程规划。研究人员突破界限，开发出一种革命性的 AI，让您与未来的自己建立联系。 在此处阅读完整故事：https://www.ibtimes.co.uk/mit-experts-create-ai-chatbot-that-lets-you-speak-60-year-old-version-you-1724940    提交人    /u/vinaylovestotravel   [链接] [评论]]]></description>
@@ -69,25 +83,11 @@
       <pubDate>Mon, 10 Jun 2024 13:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有内容政策，人们如何设法创建受保护的许可证图像？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dckgsq/how_do_people_manage_to_create_protected_license/</link>
-      <description><![CDATA[我正在为朋友们准备一款角色扮演游戏，因为他们将在霍格沃茨扮演自己，所以我想让人工智能根据一张照片重新绘制他们，并给他们穿上他们选择的房屋的衣服，采用《JoJo的奇妙冒险》的绘画风格。 它仅供个人使用，这些图画不会出现在任何地方，我并没有试图破解任何东西……这只是让他们拥有自己的代币，上面有围绕我们都喜欢的主题的有趣图像。 但我遇到了不同 AI 的内容政策，所以我不明白人们如何能制作出像“用 Jojo 风格绘制的海贼王人物”这样的整个图像调色板例如 所以我不明白他们是怎么做到的，有没有限制较少的软件？ 抱歉，如果我不被允许问这个问题    提交人    /u/GrizzlyT80   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dckgsq/how_do_people_manage_to_create_protected_license/</guid>
-      <pubDate>Mon, 10 Jun 2024 12:37:49 GMT</pubDate>
-    </item>
-    <item>
       <title>只是好奇，2020 年之前是否真的有任何专家预测人工智能会在艺术和“创造性”任务方面表现出色？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcjmqh/just_curious_before_2020_did_literally_any_expert/</link>
       <description><![CDATA[我很想读一篇 2010 年至 2019 年左右的预测文章，预言稳定传播、人工智能生成的艺术、视频、音乐等的兴起。有人这么说过吗？或者这真的让所有人都感到惊讶？    提交人    /u/dep   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcjmqh/just_curious_before_2020_did_literally_any_expert/</guid>
       <pubDate>Mon, 10 Jun 2024 11:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>皮艾很迷惑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dcesyh/pi_ai_is_confusing/</link>
-      <description><![CDATA[只需下载该应用程序。问了一些一般的地理问题，然后问我是否想进行轻松愉快的对话。  它继续告诉我一些日本的阳具节日。谈论性的重要性，包括性行为。我要求举例说明，它详细说明，提到口交、肛交、相互手淫等。  我问你能否详细说明性行为，它告诉我它不能讨论任何性行为，即使是以信息性的方式。  然后我问你为什么在不到 5 个问题之前回答了我之前的问题，它说讨论此类话题违反他们的政策。  其他人有使用 Pi Ai 的这种经历吗？这是我经历过的最奇怪的经历之一。不过，真人声音质很棒。     提交人    /u/SubstantialAward4495   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dcesyh/pi_ai_is_confusing/</guid>
-      <pubDate>Mon, 10 Jun 2024 06:17:50 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个 AI 课程目录。</title>
@@ -99,12 +99,12 @@
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
