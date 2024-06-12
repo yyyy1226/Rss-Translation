@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Jun 2024 03:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 06:27:51 GMT</lastBuildDate>
+    <item>
+      <title>您如何推广您的开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ddzowy/how_do_you_popularize_your_opensource_project/</link>
+      <description><![CDATA[嗨， 最近有人在这个 subreddit 上发布了一个问题，关于你如何开始为开源做贡献。受这个问题的启发，我想发布一个类似的问题：你如何推广你的开源项目？我不是那种追逐 GitHub 星星的人，但我真的希望人们使用我的作品并给我反馈。 人们通常给你的建议是，你应该在 Reddit、HackerNews 等网站上发布关于你项目的帖子。我过去曾尝试过这种方法，但我发现这只能暂时增加看到你项目的人数。发布一篇帖子后，事情就会平息下来。我不确定你是否被允许反复发帖——你会因为发送垃圾邮件或其他原因被禁止吗？ 人们还说你应该找到与你的项目主题相对应的 subreddit、Discord 服务器，并在那里闲逛和互动。但我想，有时你的项目主题可能相当小众，可能很难找到一个活跃的社区。例如，我为终端制定了一个配色方案。r/terminal_porn 似乎已关闭，到目前为止我还没有找到替代社区。 因此，我将非常感谢任何关于如何围绕我的项目建立一个蓬勃发展的社区的建议。谢谢！    提交人    /u/codeandfire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ddzowy/how_do_you_popularize_your_opensource_project/</guid>
+      <pubDate>Wed, 12 Jun 2024 06:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 C++ 制作了一款多人射击游戏，没有使用游戏引擎 - 而且它可以在浏览器中运行！我的代码被重新用于《刺客信条：英灵殿》和 Skydio 无人机。它就像《迈阿密热线》，但更具竞争性 - 你需要战斗才能获得排名。网络代码基于完全模拟确定性，包括 Box2D 物理。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ddz9iy/i_made_a_multiplayer_shooter_in_c_without_a_game/</link>
+      <description><![CDATA[        提交人    /u/pbcdev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ddz9iy/i_made_a_multiplayer_shooter_in_c_without_a_game/</guid>
+      <pubDate>Wed, 12 Jun 2024 05:41:20 GMT</pubDate>
+    </item>
     <item>
       <title>Adobe Acrobat Pro 的开源免费替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ddrsco/open_source_free_alternatives_to_adobe_acrobat_pro/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>看板（trello）板无需任何安装？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ddhygw/kanban_trello_board_without_any_installation/</link>
-      <description><![CDATA[大家好，我的 PC 设置非常有限，而且我的组织不允许我在 PC 上运行任何 exe 文件。任何需要运行 exe 文件或 cmd 的东西都行不通。 我有一台 Windows 机器，想使用看板，最好是在本地，最好是通过网络浏览器。 你知道有什么类似的东西吗？    提交人    /u/Piotrazz   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我的 PC 设置非常有限，我的组织不允许我在 PC 上运行任何 exe 文件。任何需要运行 exe 文件或 cmd 的东西都行不通。 我有一台 Windows 机器，想使用看板，最好是在本地，最好是通过网络浏览器。 你知道有什么类似的东西吗？    提交人    /u/Piotrazz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ddhygw/kanban_trello_board_without_any_installation/</guid>
       <pubDate>Tue, 11 Jun 2024 16:10:55 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>保护开源项目免受商标流氓的侵害？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dcq8ut/protecting_open_source_project_against_trademark/</link>
-      <description><![CDATA[我曾经从事过一个与 GNU 类似的项目，但它并不是 GNU 的替代品或附属品，因为它将专注于不同的领域，并且主要只是在 GNU 活跃的领域推广或跟随 GNU，但它专注于其他领域，而 GNU 主要关注软件、文档和硬件的自由，而这个项目将关注人民和世界的自由及其权利。 然而，我在专利制度方面有很多经验，大公司会复制他人的作品，然后为其申请专利并起诉原始设计师，尽管有足够的现有技术来证明原创者确实是其幕后推手，我不禁想知道商标制度是怎样的，尤其是最近的一些案例，一些公司会将普通的单词注册为商标，并起诉任何在其名称中使用普通单词的网站，例如 limb 中的 &amp;quot;arm&amp;quot; 或 &amp;quot;intel&amp;quot;如信息等。 那么一般的开源项目如何保护自己免受此类商标流氓的侵害？这些商标流氓会在看到一个项目后将其名称或部分内容注册为商标，然后攻击或起诉他们等。尤其是像 GNU 或与 GNU 类似的项目。 尤其是现在，因为在过去的互联网上，大公司没有这么大，也没有那么大的影响力，人们仍然可以很容易地找到一些不错的小项目，而现在这要困难得多。    提交人    /u/EllesarDragon   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经从事过一个与 GNU 类似的项目，但它并不是 GNU 的替代品或附属品，因为它将专注于不同的领域，并且主要只是在 GNU 活跃的领域推广或跟随 GNU，但它专注于其他领域，而 GNU 主要关注软件、文档和硬件的自由，而这个项目将关注人民和世界的自由及其权利。 然而，我在专利制度方面有很多经验，大公司会复制他人的作品，然后为其申请专利并起诉原始设计师，尽管有足够的现有技术来证明原始设计师确实是幕后推手，我不禁想知道商标制度是怎样的，尤其是最近的一些案例，一些公司会将普通的单词注册为商标，并起诉任何在其名称中使用普通单词的网站，例如 limb 中的 &amp;quot;arm&amp;quot; 或 &amp;quot;intel&amp;quot;如信息等。 那么一般的开源项目如何保护自己免受此类商标流氓的侵害？这些商标流氓会在看到一个项目后将其名称或部分内容注册为商标，然后攻击或起诉他们等。尤其是像 GNU 或与 GNU 类似的项目。 尤其是现在，因为在过去的互联网上，大公司没有这么大，也没有那么大的影响力，人们仍然可以很容易地找到一些不错的小项目，而现在这要困难得多。    提交人    /u/EllesarDragon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dcq8ut/protecting_open_source_project_against_trademark/</guid>
       <pubDate>Mon, 10 Jun 2024 16:49:58 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿！ 我不想再使用 Adob​​e 了，但我真的需要运输标签的快照功能（我可以选择标签并直接打印） 有谁知道是否有一个开源程序也可以做到这一点？甚至可以编辑 PDF？    提交人    /u/Nathural   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</guid>
       <pubDate>Mon, 10 Jun 2024 15:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>goManageDocker——管理docker对象的权威方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcjpw4/gomanagedocker_the_definitive_way_to_manage/</link>
-      <description><![CDATA[  由    /u/Krunchy_Almond  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcjpw4/gomanagedocker_the_definitive_way_to_manage/</guid>
-      <pubDate>Mon, 10 Jun 2024 11:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源新手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dceq2w/new_to_open_source/</link>
-      <description><![CDATA[嗨，我是一名新手开发者，我遇到过很多开发者求助于开源软件而不是闭源软件。例如，使用 coolify 而不是 vercel。我的问题是，coolify 也是付费的，是什么让它成为比 vercel 更好的选择？    提交人    /u/FullEntrepreneur7054   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dceq2w/new_to_open_source/</guid>
-      <pubDate>Mon, 10 Jun 2024 06:12:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
