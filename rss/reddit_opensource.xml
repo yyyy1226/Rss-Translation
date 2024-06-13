@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 13 Jun 2024 09:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:38:23 GMT</lastBuildDate>
     <item>
-      <title>有没有什么好的 FOSS 放大镜和屏幕阅读器软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1detonn/is_there_any_good_foss_magnifying_and/</link>
-      <description><![CDATA[  由    /u/neongruen404  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1detonn/is_there_any_good_foss_magnifying_and/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:02:50 GMT</pubDate>
+      <title>有没有一个词可以形容一个应用程序可以开源？我们可以说“开源性”吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dev911/is_there_a_word_to_say_that_an_app_can_become/</link>
+      <description><![CDATA[  由    /u/e-bio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dev911/is_there_a_word_to_say_that_an_app_can_become/</guid>
+      <pubDate>Thu, 13 Jun 2024 09:55:54 GMT</pubDate>
     </item>
     <item>
       <title>寻求赞助热门开源项目</title>
@@ -71,7 +71,7 @@
     <item>
       <title>Paper JS 是一种完全用 JavaScript 编写 HTML 的新方法。</title>
       <link>https://www.reddit.com/r/opensource/comments/1deevht/paper_js_is_a_new_way_to_write_html_entirely_in/</link>
-      <description><![CDATA[介绍 Paper JS，一种完全在 JavaScript 中编写和构建 html 的新方法。由于库的大小仅为 800 字节，因此在您的网站上占用的空间很小。 查看 GitHub  开始使用，如果您发现错误或有疑问，请直接给我发星号。    提交人    /u/Medical_Start4604   [链接] [评论]]]></description>
+      <description><![CDATA[介绍 Paper JS，一种完全在 JavaScript 中编写和构造 html 的新方法。由于库的大小仅为 800 字节，因此在您的网站上占用的空间很小。 查看 GitHub  开始使用，如果您发现错误或问题，请给我发星号。 编辑： 我非常感谢大家对项目的反馈，因为它绝对不是完美的，但主要是作为原型或演示创建的，是一个自定义 js 到 html 系统。我的下一个计划是允许在后端支持 nodejs，以便您可以在服务器端构建网页。    提交人    /u/Medical_Start4604   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1deevht/paper_js_is_a_new_way_to_write_html_entirely_in/</guid>
       <pubDate>Wed, 12 Jun 2024 19:13:28 GMT</pubDate>
     </item>
