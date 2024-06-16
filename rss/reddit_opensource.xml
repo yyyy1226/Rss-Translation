@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 16 Jun 2024 09:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:36:28 GMT</lastBuildDate>
     <item>
       <title>AkiraOS：我的新操作系统项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1dh3qvy/akiraos_my_new_operating_system_project/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>适用于 Microsoft 的 FOSS 以及如何查找它</title>
       <link>https://www.reddit.com/r/opensource/comments/1dgmel2/foss_for_microsoft_and_how_to_find_it/</link>
-      <description><![CDATA[如果您是 Windows 用户，我想问一下您使用哪些免费开源软件。您能解释一下您为什么要寻找它以及如何找到它的吗？我目前正在尝试改善我的 Windows 体验，但大多数软件或实用程序都很低调或不是我想要的。     提交人    /u/CH0NZA1   [link] [评论]]]></description>
+      <description><![CDATA[如果您是 Windows 用户，我想问一下您使用哪些免费和开源软件。您能解释一下您为什么要寻找它以及如何找到它的吗？我目前正在尝试改善我的 Windows 体验，但大多数软件或实用程序都很低调或不是我想要的。     提交人    /u/CH0NZA1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dgmel2/foss_for_microsoft_and_how_to_find_it/</guid>
       <pubDate>Sat, 15 Jun 2024 16:59:44 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Eicrud：一个 CRUD/授权 Node.js 框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</link>
-      <description><![CDATA[我制作了 Eicrud，因为我在编写 CRUD 应用程序时厌倦了样板代码。 GitHub 链接 您所要做的就是关注您的数据模型和授权规则，然后 Eicrud 会为您处理样板（保护、控制器、基本方法、客户端...）。 如果您需要执行非 CRUD 操作，您可以使用命令并编写您想要的任何逻辑。 您可以提供微服务配置使您的应用程序分布式，当调用您的服务方法时，它会运行实现或根据您所在的位置进行 http 调用。 它基于 NestJS，因此您可以使用其 API 来处理边缘情况。 所有软件包均在 GitHub Actions 上签名，如果您想尝试并有任何问题，我很乐意回答。 文档从这里开始。    提交人    /u/acrosett   [link] [评论]]]></description>
+      <description><![CDATA[我制作了 Eicrud，因为我在编写 CRUD 应用程序时厌倦了样板代码。 GitHub 链接 您所要做的就是专注于数据模型和授权规则，然后 Eicrud 会为您处理样板（保护、控制器、基本方法、客户端...）。 如果您需要执行非 CRUD 操作，您可以使用命令并编写您想要的任何逻辑。 您可以提供微服务配置使您的应用程序分布式，当调用您的服务方法时，它会运行实现或根据您所在的位置进行 http 调用。 它基于 NestJS，因此您可以使用其 API 处理边缘情况。 所有软件包均在 GitHub Actions 上签名，如果您想尝试并有任何问题，我很乐意回答。 文档从这里开始。    提交人    /u/acrosett   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</guid>
       <pubDate>Sat, 15 Jun 2024 11:29:50 GMT</pubDate>
     </item>
