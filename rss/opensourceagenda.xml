@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Sun, 16 Jun 2024 21:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:27:27 GMT</lastBuildDate>
     <item>
-      <title>TokenUnify</title>
-      <link>https://www.opensourceagenda.com/projects/tokenunify</link>
-      <description><![CDATA[此存储库包含论文 TokenUnify：具有混合令牌预测的可扩展自回归视觉预训练的官方实现。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tokenunify</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:25 GMT</pubDate>
+      <title>Hakky54 Java 教程</title>
+      <link>https://www.opensourceagenda.com/projects/hakky54-java-tutorials</link>
+      <description><![CDATA[📝 包含不同 Java 教程的存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hakky54-java-tutorials</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>Uuidv7</title>
-      <link>https://www.opensourceagenda.com/projects/uuidv7</link>
-      <description><![CDATA[N 种语言中的 UUIDv7]]></description>
-      <guid>https://www.opensourceagenda.com/projects/uuidv7</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:25 GMT</pubDate>
+      <title>应用组</title>
+      <link>https://www.opensourceagenda.com/projects/app-grpc</link>
+      <description><![CDATA[Spiral Framework Skeleton GRPC 应用程序：队列、控制台、ORM]]></description>
+      <guid>https://www.opensourceagenda.com/projects/app-grpc</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>Trumans Utils</title>
-      <link>https://www.opensourceagenda.com/projects/trumans-utils</link>
-      <description><![CDATA[TRUMANS 存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/trumans-utils</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:25 GMT</pubDate>
+      <title>佩科·格鲁克</title>
+      <link>https://www.opensourceagenda.com/projects/pekko-grpc</link>
+      <description><![CDATA[Apache Pekko gRPC]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pekko-grpc</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能视觉设计100个例子</title>
-      <link>https://www.opensourceagenda.com/projects/100-ornekle-yapay-zeka-ile-gorsel-tasarimi</link>
-      <description><![CDATA[人工智能视觉设计 100 个示例]]></description>
-      <guid>https://www.opensourceagenda.com/projects/100-ornekle-yapay-zeka-ile-gorsel-tasarimi</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:24 GMT</pubDate>
+      <title>Grpc Csharp 课程</title>
+      <link>https://www.opensourceagenda.com/projects/grpc-csharp-course</link>
+      <description><![CDATA[gRPC C# 大师班：构建现代 API 和微服务]]></description>
+      <guid>https://www.opensourceagenda.com/projects/grpc-csharp-course</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>CVE 2024 30078</title>
-      <link>https://www.opensourceagenda.com/projects/cve-2024-30078</link>
-      <description><![CDATA[CVE-2024-30078 检测和命令执行脚本]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cve-2024-30078</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:24 GMT</pubDate>
+      <title>亚马逊做 PM</title>
+      <link>https://www.opensourceagenda.com/projects/aws-do-pm</link>
+      <description><![CDATA[用于构建预测建模应用程序的框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aws-do-pm</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:25 GMT</pubDate>
     </item>
     <item>
-      <title>激光共聚焦显微镜</title>
-      <link>https://www.opensourceagenda.com/projects/m-lrm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/m-lrm</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:24 GMT</pubDate>
+      <title>Mitch528 React Native Grpc</title>
+      <link>https://www.opensourceagenda.com/projects/mitch528-react-native-grpc</link>
+      <description><![CDATA[用于 react-native 的 gRPC]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mitch528-react-native-grpc</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:25 GMT</pubDate>
     </item>
     <item>
-      <title>碎纸</title>
-      <link>https://www.opensourceagenda.com/projects/shreddedpaper</link>
-      <description><![CDATA[多线程、单世界 papermc 实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shreddedpaper</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:24 GMT</pubDate>
+      <title>Go Clean 架构示例</title>
+      <link>https://www.opensourceagenda.com/projects/go-clean-architecture-example</link>
+      <description><![CDATA[Golang 清洁架构示例]]></description>
+      <guid>https://www.opensourceagenda.com/projects/go-clean-architecture-example</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:25 GMT</pubDate>
     </item>
     <item>
-      <title>终极 Python 课程</title>
-      <link>https://www.opensourceagenda.com/projects/the-ultimate-python-course</link>
-      <description><![CDATA[CodeWithHarry 频道上的 Ultimate Python 课程的源代码和所有详细信息]]></description>
-      <guid>https://www.opensourceagenda.com/projects/the-ultimate-python-course</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:23 GMT</pubDate>
+      <title>城堡锈迹</title>
+      <link>https://www.opensourceagenda.com/projects/zitadel-rust</link>
+      <description><![CDATA[ZITADEL gRPC API 在 Rust 中的实现。与其他有用元素（如 ServiceAccount 身份验证）相辅相成。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zitadel-rust</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>发光波浪</title>
-      <link>https://www.opensourceagenda.com/projects/glowingwaves</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/glowingwaves</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:23 GMT</pubDate>
+      <title>Grpc Mtls 示例</title>
+      <link>https://www.opensourceagenda.com/projects/grpc-mtls-example</link>
+      <description><![CDATA[grpc mTLS 示例]]></description>
+      <guid>https://www.opensourceagenda.com/projects/grpc-mtls-example</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>SMTV修复</title>
-      <link>https://www.opensourceagenda.com/projects/smtvfix</link>
-      <description><![CDATA[修复《真女神转生 V：复仇》中超宽/较窄显示屏的问题。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/smtvfix</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:23 GMT</pubDate>
+      <title>V2ray 子版块</title>
+      <link>https://www.opensourceagenda.com/projects/v2ray-sub</link>
+      <description><![CDATA[24 小时不间断上传 v2ray 配置和 Telegram 代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/v2ray-sub</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>Rwkv 标记器</title>
-      <link>https://www.opensourceagenda.com/projects/rwkv-tokenizer</link>
-      <description><![CDATA[用 Rust 编写的快速 RWKV Tokenizer]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rwkv-tokenizer</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:23 GMT</pubDate>
+      <title>Helloworld Grpc 网关</title>
+      <link>https://www.opensourceagenda.com/projects/helloworld-grpc-gateway</link>
+      <description><![CDATA[该项目是一个使用 gRPC-Gateway 的基本 hello world 程序。它是我参加 2020 年 Google Docs 季时使用 gRPC-Gateway 开发的。该项目的目标是向人们介绍并熟悉 gRPC-Gateway。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/helloworld-grpc-gateway</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>铁锈基因</title>
-      <link>https://www.opensourceagenda.com/projects/rust-genai</link>
-      <description><![CDATA[Rust 多提供商生成式 AI 客户端（Ollama、OpenAi、Anthropic、Cohere 等）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rust-genai</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:22 GMT</pubDate>
+      <title>米什尼特抓斗</title>
+      <link>https://www.opensourceagenda.com/projects/mishnit-grab</link>
+      <description><![CDATA[使用 Go 微服务、GRPC、Protobuf、Postgresql、Elastic search、Docker 和 GraphQL 的电子商务后端]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mishnit-grab</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>布鲁姆机器人</title>
-      <link>https://www.opensourceagenda.com/projects/blum-bot</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/blum-bot</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:22 GMT</pubDate>
+      <title>ECRS 网站</title>
+      <link>https://www.opensourceagenda.com/projects/ecrs-web</link>
+      <description><![CDATA[基于深度学习的商品推荐系统，高性能，可承受高并发，可跨平台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ecrs-web</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>H7ml 脏话</title>
-      <link>https://www.opensourceagenda.com/projects/h7ml-badwords</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/h7ml-badwords</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:22 GMT</pubDate>
+      <title>Grpc 中间件哨兵</title>
+      <link>https://www.opensourceagenda.com/projects/grpc-middleware-sentry</link>
+      <description><![CDATA[Sentry 的 gRPC Go 中间件：服务器和客户端拦截器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/grpc-middleware-sentry</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>开放教育</title>
-      <link>https://www.opensourceagenda.com/projects/open-ed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/open-ed</guid>
-      <pubDate>Sun, 16 Jun 2024 21:22:21 GMT</pubDate>
+      <title>Ordinarylabs 自行车</title>
+      <link>https://www.opensourceagenda.com/projects/ordinarylabs-bicycle</link>
+      <description><![CDATA[RPC DBMS。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ordinarylabs-bicycle</guid>
+      <pubDate>Mon, 17 Jun 2024 01:27:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

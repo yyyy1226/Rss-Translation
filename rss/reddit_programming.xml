@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 16 Jun 2024 21:21:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:26:45 GMT</lastBuildDate>
+    <item>
+      <title>Spring Boot 3.3 的新特性</title>
+      <link>https://www.reddit.com/r/programming/comments/1dhj3ys/the_new_features_of_spring_boot_33/</link>
+      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dhj3ys/the_new_features_of_spring_boot_33/</guid>
+      <pubDate>Sun, 16 Jun 2024 22:29:38 GMT</pubDate>
+    </item>
     <item>
       <title>Wi-Fi 仅在下雨时可用</title>
       <link>https://www.reddit.com/r/programming/comments/1dhhf7s/the_wifi_only_works_when_its_raining/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dh750e/a_brief_history_of_web_development/</guid>
       <pubDate>Sun, 16 Jun 2024 13:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在计算笔记本中进行动态计算</title>
-      <link>https://www.reddit.com/r/programming/comments/1dh69fa/how_to_do_dynamics_in_computation_notebooks/</link>
-      <description><![CDATA[  由    /u/Inst2f  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dh69fa/how_to_do_dynamics_in_computation_notebooks/</guid>
-      <pubDate>Sun, 16 Jun 2024 12:12:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
