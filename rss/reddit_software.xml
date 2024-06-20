@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 06:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 09:23:24 GMT</lastBuildDate>
+    <item>
+      <title>软件和 Web 开发中应避免的 10 个常见错误</title>
+      <link>https://www.reddit.com/r/software/comments/1dk7bqx/10_common_mistakes_to_avoid_in_software_and_web/</link>
+      <description><![CDATA[  由    /u/anujtomar_17  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dk7bqx/10_common_mistakes_to_avoid_in_software_and_web/</guid>
+      <pubDate>Thu, 20 Jun 2024 09:18:50 GMT</pubDate>
+    </item>
     <item>
       <title>标牌软件可以在连接到单台电视进行显示的 Windows 11 PC 上运行吗？</title>
       <link>https://www.reddit.com/r/software/comments/1dk2tic/signage_software_to_run_on_a_windows_11_pc/</link>
-      <description><![CDATA[大家好，Redditors！ 我正在尝试寻找简单的标牌软件。用例是曲棍球场上的电视显示器。我需要它在网站、视频和静态图像之间循环。我希望能够控制旋转和时间。 我们有一台通过 HDMI 连接到电视的 Windows 11 Pro 迷你电脑。除了网页之外，内容将存储在连接到电视的电脑上。我们要显示的主要网站将是 Outlook 日历（MS 365 Business Premium 帐户）。视频将是没有音频的简短精彩片段。 我们将来可能会通过迷你电脑上的第二个 HDMI 端口添加第二台显示器，但不需要远程显示支持。一切都将在迷你电脑上完成，除了获取网页来显示之外，一切都应该在电脑本地进行。 我发现的所有标牌软件选项都集中在多个远程显示器上，将内容存储在云中等。我正在寻找本地的、简单的，最好是免费的或合理的一次性购买价格。 有什么建议吗？    提交人    /u/Individual-Judge-243   [link] [评论]]]></description>
+      <description><![CDATA[大家好，Redditors！ 我正在尝试寻找简单的标牌软件。用例是曲棍球场上的电视显示器。我需要它在网站、视频和静态图像之间循环。我希望能够控制旋转和时间。 我们有一台通过 HDMI 连接到电视的 Windows 11 Pro 迷你电脑。除了网页之外，内容将存储在连接到电视的电脑上。我们要显示的主要网站将是 Outlook 日历（MS 365 Business Premium 帐户）。视频将是没有音频的简短精彩片段。 我们将来可能会通过迷你电脑上的第二个 HDMI 端口添加第二台显示器，但不需要远程显示支持。一切都将在迷你电脑上完成，除了获取网页以显示之外，所有内容都应该在电脑本地。 我发现的所有标牌软件选项都集中在多个远程显示器上，将内容存储在云中等。我正在寻找本地的、简单的，最好是免费的或合理的一次性购买价格。 有什么建议吗？    提交人    /u/Individual-Judge-243   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dk2tic/signage_software_to_run_on_a_windows_11_pc/</guid>
       <pubDate>Thu, 20 Jun 2024 04:13:17 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 19 Jun 2024 20:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>如何用人工智能克隆你的声音？</title>
+      <title>如何利用人工智能克隆你的声音？</title>
       <link>https://www.reddit.com/r/software/comments/1djrwfa/how_to_clone_your_voice_with_ai/</link>
       <description><![CDATA[  由    /u/Valorantify  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1djrwfa/how_to_clone_your_voice_with_ai/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我已经放弃尝试修复此问题：每次我尝试捕获矩形时，鼠标都会变得非常滞后，绘制矩形时好时坏。我猜我的设置中的驱动程序存在一些不兼容性。当我“仅”有 2 个显示器时，它运行良好。 本质上寻找相同的功能和易用性，特别是注释和视频捕获。 谢谢！    提交人    /u/llondru-es   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1djre2l/been_using_sharex_screencapture_software_for_ages/</guid>
       <pubDate>Wed, 19 Jun 2024 19:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以捕捉下载链接的程序，例如 IDM</title>
-      <link>https://www.reddit.com/r/software/comments/1djqyn6/looking_for_program_that_catch_download_links/</link>
-      <description><![CDATA[IDM 投入了大量资金，它让我的电脑一直处于错误状态，我需要一个可以捕获链接并持续下载的应用程序，而不像浏览器下载选项那样每次我下载东西时都会失败     提交人    /u/BrainShot2   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djqyn6/looking_for_program_that_catch_download_links/</guid>
-      <pubDate>Wed, 19 Jun 2024 18:56:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
