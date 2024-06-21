@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 21 Jun 2024 18:26:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 21:20:03 GMT</lastBuildDate>
+    <item>
+      <title>Mutahunter.ai——LLM 代理支持与语言无关的代码变异测试。</title>
+      <link>https://www.reddit.com/r/programming/comments/1dleqk8/mutahunterai_llm_agents_powered_language_agnostic/</link>
+      <description><![CDATA[  由    /u/omniopsFounder  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dleqk8/mutahunterai_llm_agents_powered_language_agnostic/</guid>
+      <pubDate>Fri, 21 Jun 2024 21:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Java 8 迁移到 Java 17：新功能综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1dle7et/migrating_from_java_8_to_java_17_a_comprehensive/</link>
+      <description><![CDATA[  由    /u/Igor_Victor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dle7et/migrating_from_java_8_to_java_17_a_comprehensive/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>NES 模拟器 #3 - 编写 6502 CPU 模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/1dldxnf/nes_emulator_3_coding_a_6502_cpu_emulator/</link>
+      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dldxnf/nes_emulator_3_coding_a_6502_cpu_emulator/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oils 0.22.0 - 文档、漂亮的打印、Nix 和 Zsh</title>
+      <link>https://www.reddit.com/r/programming/comments/1dlcba7/oils_0220_docs_pretty_printing_nix_and_zsh/</link>
+      <description><![CDATA[  由    /u/oilshell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dlcba7/oils_0220_docs_pretty_printing_nix_and_zsh/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 Unity AR 项目作为库集成到 Android 中（Uaal、Geospatial、AR）</title>
+      <link>https://www.reddit.com/r/programming/comments/1dlc708/how_to_integrate_a_unity_ar_project_as_a_library/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dlc708/how_to_integrate_a_unity_ar_project_as_a_library/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您将数据库放入浏览器时会发生什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1dlc51x/what_happens_when_you_put_a_database_in_your/</link>
+      <description><![CDATA[  由    /u/self  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dlc51x/what_happens_when_you_put_a_database_in_your/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们不再使用 LangChain 来构建我们的 AI 代理</title>
       <link>https://www.reddit.com/r/programming/comments/1dlaub0/why_we_no_longer_use_langchain_for_building_our/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/smarvin2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dl7zft/implementing_semantic_search_in_postgres_in_15/</guid>
       <pubDate>Fri, 21 Jun 2024 16:21:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>TonicsCloud - PHP 开源容器托管</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl770c/tonicscloud_opensource_container_hosting_in_php/</link>
-      <description><![CDATA[我已经研究这个问题有一段时间了，请告诉我你们的想法，谢谢。    提交人    /u/Exclu254   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl770c/tonicscloud_opensource_container_hosting_in_php/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>ONNX 优化的 SigLIP 和相关基础模型 - 全部通过单个 Python 包提供</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl6vf1/onnx_optimized_siglip_and_related_foundation/</link>
-      <description><![CDATA[  由    /u/rhysdg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl6vf1/onnx_optimized_siglip_and_related_foundation/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU C 库的内存密封</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl655g/memory_sealing_for_the_gnu_c_library/</link>
-      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl655g/memory_sealing_for_the_gnu_c_library/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>华为推出自己的编程语言“仓颉”</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl51uf/huawei_unveils_its_own_programming_language_the/</link>
-      <description><![CDATA[  由    /u/techyguy76  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl51uf/huawei_unveils_its_own_programming_language_the/</guid>
-      <pubDate>Fri, 21 Jun 2024 14:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 chrome devtools 构建了一个免费的 localStorage 检查器。</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl446q/i_built_a_free_localstorage_inspector_for_chrome/</link>
-      <description><![CDATA[  由    /u/wjd1991  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl446q/i_built_a_free_localstorage_inspector_for_chrome/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 GUI 生成的 Hibernate 连接库</title>
-      <link>https://www.reddit.com/r/programming/comments/1dl3966/hibernate_connection_library_with_gui_generation/</link>
-      <description><![CDATA[ [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dl3966/hibernate_connection_library_with_gui_generation/</guid>
-      <pubDate>Fri, 21 Jun 2024 12:50:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
