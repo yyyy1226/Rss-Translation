@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 03:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:28:35 GMT</lastBuildDate>
+    <item>
+      <title>之前在这里看到过对 porkbun 的推荐，这是一个人的负面体验。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dkv17i/have_seen_porkbun_recommended_here_before_heres/</link>
+      <description><![CDATA[        由    /u/-kl0wn- 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dkv17i/have_seen_porkbun_recommended_here_before_heres/</guid>
+      <pubDate>Fri, 21 Jun 2024 04:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>前端问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1dku4ye/frontend_issues/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我大部分时间都在用 Mac，所以我只是在 Awwwards 上快速浏览网站，并没有考虑性能问题。我在我的 HP 笔记本电脑上进行了测试 - 这款笔记本电脑性能中等/适合办公室工作 - 很多网站的性能充其量也只是很差，而且经常无法使用。我在我妻子的戴尔电脑上进行了测试 - 她用它来玩游戏 - 性能稍好一些，但在很多情况下仍然很差。 与我的 2017 Intel Macbook Pro 相比，Three.js 和滚动动画似乎严重阻碍了 Windows。在 Windows 上使用 three.js 或一般的繁重动画是否有一些已知的限制？这只是糟糕的编码吗？人们不在 Windows 上测试吗？    提交人    /u/HaddockBranzini-II   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dkm6rl/ive_tested_some_of_these_sites_on_awwwards_on/</guid>
       <pubDate>Thu, 20 Jun 2024 20:52:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅供学习，我想知道如何建立直播网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dklvfy/only_for_the_sake_of_learning_i_want_to_know_how/</link>
-      <description><![CDATA[我不是在问如何实现的代码片段，而是我需要了解它的组件以及如何搜索它们。 我所知道的是我需要一个兼容 RTPM/srt 的源，发送到一个服务器，在那里动态处理所有格式并根据互联网质量交付给客户端。但是，直播网站这些未知元素的实现让我很头疼，因为我不知道它们。 那么，哪些组件使得直播网站得以存在，哪些潜在危险会发生，可以预防？ 我只是想学习如何/实现什么东西，为了学习。直到我达到生产水平.....目前不是真正的目标    提交人    /u/zendal_xxx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dklvfy/only_for_the_sake_of_learning_i_want_to_know_how/</guid>
-      <pubDate>Thu, 20 Jun 2024 20:38:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
