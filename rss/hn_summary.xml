@@ -4,101 +4,111 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:32:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 研究人员观察到，乌干达布东戈中央森林保护区的黑猩猩会自我治疗 [...]</title>
-      <link>https://t.me/hn_summary/96250</link>
-      <description><![CDATA[黑猩猩用具有治疗作用的植物“自我治疗”
-根据牛津大学 Elodie Freymann 博士领导的一项研究，乌干达布东戈中央森林保护区的黑猩猩被发现使用具有止痛和抗菌特性的植物进行自我治疗。四年来，研究人员对两个黑猩猩群落进行了细致的追踪，重点关注那些有受伤或生病迹象的黑猩猩。他们收集并分析了黑猩猩寻找的植物，发现近 90% 的植物提取物可以抑制细菌生长，三分之一具有抗炎特性。这项发表在 PLOS One 上的研究强调了这些“森林药房”在寻找新药方面的潜力，并强调了保护这些栖息地的重要性。值得注意的是，所有观察到的黑猩猩都康复了，尽管直接的因果关系仍未得到证实。]]></description>
-      <guid>https://t.me/hn_summary/96250</guid>
-      <pubDate>Sun, 23 Jun 2024 09:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] “Hugo 静态视频站点生成器”是一个旨在创建静态视频的项目 [...]</title>
-      <link>https://t.me/hn_summary/96249</link>
-      <description><![CDATA[显示 HN：Hugo 的静态视频网站生成器
-“Hugo 的静态视频网站生成器”是一个使用 Hugo 框架创建静态视频网站的项目。它需要 Go 1.22，并涉及将视频信息添加到 videos.json 文件，然后在“style”和“templates”文件夹中自定义 CSS 和模板文件。网站的 HTML 是通过运行 Go 脚本 (go run main.go) 生成的。此工具对于希望高效构建静态视频网站的用户特别有用。作者强调了自定义的简易性和生成静态 HTML 的简单过程是与其他类似项目的主要区别。]]></description>
-      <guid>https://t.me/hn_summary/96249</guid>
-      <pubDate>Sun, 23 Jun 2024 09:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：grski.pl</title>
-      <link>https://t.me/hn_summary/96248</link>
-      <description><![CDATA[为什么你的大脑比 GPT-4 效率高 300 万倍
-标题：为什么你的大脑比 GPT-4 效率高 300 万倍
-网站：grski.pl
+      <title>[媒体] 网站：www.iflscience.com</title>
+      <link>https://t.me/hn_summary/96283</link>
+      <description><![CDATA[世界将很快见证“我们一生中最罕见的太空事件之一”
+标题：世界将很快见证“我们一生中最罕见的太空事件之一”
+网站：www.iflscience.com
 
-最近，我为了某个特定项目踏上了探索矢量数据库世界的旅程，这是一次相当不错的经历。大型语言模型 (LLM) 的兴起为矢量数据库带来了新的关注，矢量数据库通常被视为一种新的、未经测试的技术，仅适用于基于 LLM 的应用程序。这种看法是不正确的。矢量数据库的存在时间比大多数人想象的要长得多，多年来一直经过严格的工程设计和测试。每个数据库都有自己的怪癖，就像 RDBMS 一样，PostgreSQL 通常占据主导地位。我的探索包括收集事实和形成意见，以选择适合我的用例的数据库。
+这十年是宇宙事件的十年，而接下来将更加精彩。北冕座T预计将变成新星，这一事件最早记录于中世纪。此外，小行星 99942 阿波菲斯将于 2029 年与地球近距离接触，距离地球不到 32,000 公里。最初，阿波菲斯被认为是一个潜在威胁，但进一步的观察排除了至少未来 100 年内发生碰撞的风险。欧洲航天局 (ESA) 和 NASA 计划在阿波菲斯飞越期间对其进行研究，这为了解行星防御提供了难得的机会。这颗小行星的距离和大小使得这一事件极为罕见，每 5,000 至 10,000 年发生一次。]]></description>
+      <guid>https://t.me/hn_summary/96283</guid>
+      <pubDate>Sun, 23 Jun 2024 12:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 上的“Laravel & Vue SaaS Boilerplate”项目旨在加快开发[...]</title>
+      <link>https://t.me/hn_summary/96282</link>
+      <description><![CDATA[显示 HN：Laravel 和 Vue SaaS 样板
+GitHub 上的“Laravel &amp; Vue SaaS 样板”项目旨在加快使用 Laravel 和 Vue 堆栈（特别是使用 Inertia.js）开发 SaaS 产品的速度。此样板由一名独立开发人员创建，包含基本功能和 UI 组件，使开发人员可以专注于其 SaaS 理念的独特方面，而不是重复的设置任务。它利用 Laravel、Vue.js、Daisy UI、Stripe 和 Mailgun 等技术，并基于 Jetstream 入门套件，提供内置功能，如个人资料屏幕、会话管理和 2FA。该项目可定制，旨在节省早期开发时间。]]></description>
+      <guid>https://t.me/hn_summary/96282</guid>
+      <pubDate>Sun, 23 Jun 2024 12:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS Surf 是一个综合性博客，旨在为开发人员、设计师、制造商、创意人员提供 [...]</title>
+      <link>https://t.me/hn_summary/96281</link>
+      <description><![CDATA[向 HN 展示：SaaS Surf – 为制造商提供精选工具，让您无后顾之忧
+SaaS Surf 是一个综合博客，旨在为开发人员、设计师、制造商、创意人士和企业家提供一流的 SaaS 资源和产品。该网站提供精选的工具、免费设计资源、终身优惠和工作机会，是满足所有 SaaS 需求的一站式商店。用户可以找到从分析仪表板到社交媒体工具的所有内容，以及免费的图形工具包、图标包、字体和插图，以增强他们的项目。该博客还重点介绍了终身 SaaS 优惠，这些优惠为产品提供终身大幅折扣，可能会为用户节省大量资金。这些优惠虽然看似好得令人难以置信，但却提供了巨大的长期利益。]]></description>
+      <guid>https://t.me/hn_summary/96281</guid>
+      <pubDate>Sun, 23 Jun 2024 12:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] “再见 Google One 的 VPN，你好 Google Cloud 上的 VPN”项目提供了一份指南 [...]</title>
+      <link>https://t.me/hn_summary/96280</link>
+      <description><![CDATA[告别 Google One 的 VPN，迎接 Google Cloud 上的 VPN
+“告别 Google One 的 VPN，迎接 Google Cloud 上的 VPN”项目提供了在 Google Cloud 免费套餐内使用 Pi-hole 和 Wireguard 在 Ubuntu 24.04 LTS 上设置自托管 VPN 服务器的指南。目的是确保安全、私密的互联网使用，同时阻止侵入性广告并防止 ISP 和其他实体跟踪用户活动。该项目支持全隧道（所有流量）和拆分隧道（仅 DNS 流量）VPN 连接，在安全性和本地网络交互方面提供灵活性。差异化因素包括详细的 cloud-init 配置和利用 Google Cloud 的免费套餐实现经济高效的部署。]]></description>
+      <guid>https://t.me/hn_summary/96280</guid>
+      <pubDate>Sun, 23 Jun 2024 12:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《如何通过写作思考》一书中，亨利克·卡尔森探讨了写作与思考之间的深刻联系 [...]</title>
+      <link>https://t.me/hn_summary/96279</link>
+      <description><![CDATA[如何用写作思考
+在《如何用写作思考》一书中，Henrik Karlsson 探讨了写作与提炼思想之间的深刻联系。他认为，写作迫使思想变得更加精确和完整，这表明那些不写作的人在复杂话题上缺乏完整的想法。Karlsson 从 Imre Lakatos 的《证明与反驳》中汲取灵感，这是一本数学哲学书，如果“从侧面”阅读，可以深入了解写作行为。他强调提出明确、明确的主张，然后严格测试和展开这些主张以揭示更深入的理解的重要性。这个过程虽然具有挑战性，但对于智力成长至关重要。卡尔森还强调了接受思想分裂作为启蒙之路的价值，呼应了伦纳德·科恩的观点：“万物皆有裂缝，那是光照进来的地方。”（基于 87% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/96279</guid>
+      <pubDate>Sun, 23 Jun 2024 12:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：深入探究 GitHub Actions Docker 与 Docker Desktop 的构建</title>
+      <link>https://t.me/hn_summary/96278</link>
+      <description><![CDATA[使用 Docker Desktop 深入研究 GitHub Actions Docker 构建
+标题：使用 Docker Desktop 深入研究 GitHub Actions Docker 构建
 
-在深入研究之前，必须了解一些基础知识。计算机以二进制语言（1 和 0）运行，这转化为数字。这些数字可以映射到字母和单词，但这缺乏上下文。上下文化词嵌入通过根据单词的上下文为其分配不同的数字来解决这个问题，使计算机更好地理解语义。这就是为什么像 GPT-4 这样的 LLM 可以生成令人信服的文本，尽管它们并不像人类那样真正理解它。这背后的技术涉及复杂的数学，包括线性代数和向量，它们表示多维空间中的数字。
+网站：www.docker.com
 
-令人惊讶的见解：从理论模型到 GPT-4 等实际应用的快速进步令人惊叹，凸显了人工智能发展的惊人速度。（基于 35% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/96248</guid>
-      <pubDate>Sun, 23 Jun 2024 09:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] WebForAll：让每个人都能享受无障碍服务</title>
-      <link>https://t.me/hn_summary/96247</link>
-      <description><![CDATA[显示 HN：面向残障用户的免费开源 Chrome 扩展程序
-WebForAll：为所有人提供无障碍功能
+我们很高兴地宣布 Docker Desktop 4.31 中一项新功能的 Beta 版发布，该功能允许您直接检查 GitHub Actions 构建。像 GitHub Actions 这样的集中式 CI/CD 环境非常有价值，但它们通常缺乏对 Docker 构建的可见性，从而使问题诊断变得复杂。我们在 GitHub Actions Summary 和 Docker Desktop 中新增的增强功能旨在通过提供对 Docker 构建的更深入了解来解决此问题。
 
-WebForAll 是一款强大且直观的 Web 扩展程序，旨在增强残障人士的网站无障碍功能。它将基本的无障碍功能直接集成到您的浏览体验中，确保 Web 内容对所有人都具有包容性和可导航性。主要功能包括可自定义的文本放大、高对比度模式、替代文本工具提示和文本转语音功能。这些工具使 Web 内容对于有视力障碍、阅读困难或喜欢听觉学习的用户来说更具可读性和可理解性。WebForAll 易于使用，无需复杂的设置，并支持企业展示其对包容性的承诺。作为一个开源项目，它诚邀全球开发者做出贡献，促进网络的包容性。安装 WebForAll 可增强您的浏览体验并支持无障碍运动。]]></description>
-      <guid>https://t.me/hn_summary/96247</guid>
-      <pubDate>Sun, 23 Jun 2024 08:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Eclypsium 的自动二进制分析系统 Automata 发现了一个重要的 vu [...]</title>
-      <link>https://t.me/hn_summary/96246</link>
-      <description><![CDATA[流行 PC 和服务器固件中的漏洞
-Eclypsium 的自动二进制分析系统 Automata 发现了 Phoenix SecureCore UEFI 固件中的一个重大漏洞 (CVE-2024-0762，CVSS 评分 7.5)，影响了各种英特尔酷睿处理器。该漏洞位于可信平台模块 (TPM) 配置中，可能导致缓冲区溢出和潜在的恶意代码执行。Phoenix Technologies 最初在联想 ThinkPad X1 Carbon 第 7 代和 X1 Yoga 第 4 代中发现该问题，并确认该问题涉及多个英特尔处理器系​​列，可能影响众多 OEM 和数百种 PC 产品。此漏洞允许本地攻击者提升权限并在 UEFI 固件中执行代码，从而构成持续威胁。联想已发布 BIOS 更新，Eclypsium 建议客户扫描其设备是否存在漏洞。此事件凸显了 UEFI 固件在技术供应链中的重要性以及采取强大安全措施的必要性。]]></description>
-      <guid>https://t.me/hn_summary/96246</guid>
-      <pubDate>Sun, 23 Jun 2024 08:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.sciencealert.com</title>
-      <link>https://t.me/hn_summary/96245</link>
-      <description><![CDATA[数学家意外发现了表示圆周率的新方法
-标题：数学家意外发现了表示圆周率的新方法
-网站：www.sciencealert.com
+GitHub Actions 中的 Docker Build Summary 现在提供详细报告，包括性能指标、构建持续时间和缓存利用率。docker/build-push-action 和 docker/bake-action 的用户将自动收到这些摘要。此外，您可以将 .dockerbuild 存档导入 Docker Desktop 以获取全面的构建详细信息，包括错误行、时间和依赖项。
 
-我们最喜欢的数学常数圆周率 (π) 有了新的含义，这要归功于印度科学研究所 (IISc) 两位数学家的意外发现。Aninda Sinha 和 Arnab Priya Saha 在研究高能物理和量子理论时，偶然发现了圆周率的新级数表示。这一发现源于他们努力使用更少的参数更准确地模拟粒子碰撞的努力。他们的工作利用了费曼图，不仅提供了一种更简单的方法来提取圆周率，而且还反映了印度数学家 Sangamagrama Madhava 在 15 世纪提出的首个级数表示法。虽然仍处于理论阶段，但这种新的表示法可以有实际应用，用于重新检查强子散射的实验数据并与天体全息术联系起来。这项研究已发表在《物理评论快报》上。]]></description>
-      <guid>https://t.me/hn_summary/96245</guid>
-      <pubDate>Sun, 23 Jun 2024 08:19:12 GMT</pubDate>
+此功能允许您轻松共享 .dockerbuild 文件，从而增强团队协作，保留故障排除上下文。要开始使用，请将您的 Docker Build GitHub Actions 配置和 Docker Desktop 更新至版本 4.31。我们很高兴您尝试这些功能并欢迎您的反馈！]]></description>
+      <guid>https://t.me/hn_summary/96278</guid>
+      <pubDate>Sun, 23 Jun 2024 12:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 项目“DOS 游戏‘F15 SE II’逆向”旨在重建 DOS 游戏‘F15 SE II’的源代码 [...]</title>
-      <link>https://t.me/hn_summary/96244</link>
-      <description><![CDATA[DOS 游戏“F15 SE II”逆向：更多故事，现在在 GitHub 上
-GitHub 项目“DOS 游戏‘F15 SE II’逆向”旨在重建 Microprose 游戏 F-15 Strike Eagle 2 v451.03 的 MS-DOS 版本源代码，这是 1991 年的 Desert Storm 扩展。原始游戏是用 C 和汇编语言编写的，重建力求忠实于每个错误，在使用相同工具编译时产生相同的 CPU 指令。该项目用于保存和历史研究，属于 DMCA 互操作性豁免。它不包括游戏资产或可执行文件。未来计划包括移植到现代操作系统和潜在改进。该项目正在进行中，一些可执行文件已完全重建，其他一些尚待解决。]]></description>
-      <guid>https://t.me/hn_summary/96244</guid>
-      <pubDate>Sun, 23 Jun 2024 08:12:07 GMT</pubDate>
+      <title>[媒体] 今晚与印象派艺术家</title>
+      <link>https://t.me/hn_summary/96277</link>
+      <description><![CDATA[今夜与印象派
+“今夜与印象派”是巴黎奥赛博物馆的虚拟现实体验，它将游客带到 1874 年的首届印象派展览。与典型的 VR 设置不同，这种体验需要在房间里走动，导致与其他参与者频繁发生碰撞。作者批评这是他们遇到的最糟糕的 VR 体验，因为空间迷失方向和不安全的交互。尽管视觉效果高质量且历史背景有趣，但技术和设计缺陷掩盖了体验。令人惊讶的是，作者发现传统的艺术投影比 VR 更能欣赏艺术，这凸显了当前 VR 技术在博物馆环境中的局限性。（基于 90% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/96277</guid>
+      <pubDate>Sun, 23 Jun 2024 12:20:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过七年的努力，达美乐比萨 (Domino’s Pizza) 退出了意大利市场 [...]</title>
-      <link>https://t.me/hn_summary/96243</link>
-      <description><![CDATA[达美乐未能征服披萨之乡，退出意大利市场（2022 年）
-达美乐披萨在尝试在披萨的发源地站稳脚跟七年后，退出了意大利市场。这家美国快餐连锁店举步维艰，尤其是在新冠疫情期间，传统的意大利披萨店纷纷增加自己的配送服务。达美乐曾雄心勃勃地计划到 2030 年开设 880 家门店，但最终只开设了 29 家，随后就全部关闭。特许经营权持有者 ePizza 于 4 月申请破产，并在 4 月 20 日前停止所有配送服务。这家由企业家 Alessandro Lazzaroni 牵头的企业面临着来自当地披萨店的激烈竞争，这些披萨店提供更便宜的传统披萨。尽管最初取得了一些成功，但达美乐无法赢得意大利顾客的青睐，尤其是菠萝等有争议的配料。拉扎罗尼现在为 Crazy Pizza 工作，那里的玛格丽特披萨售价为 15 欧元，凸显了明显的价格差异。]]></description>
-      <guid>https://t.me/hn_summary/96243</guid>
-      <pubDate>Sun, 23 Jun 2024 08:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 塞缪尔·约翰逊有一句名言：“当一个人厌倦了伦敦，他就厌倦了生活……</title>
-      <link>https://t.me/hn_summary/96242</link>
-      <description><![CDATA[解释：不属于伦敦的秘密伦敦城
-塞缪尔·约翰逊有句名言：“当一个人厌倦了伦敦，他就厌倦了生活”，这种观点至今仍然正确，因为伦敦继续以其历史地标和现代奇迹吸引着游客。然而，很少有人意识到，在这个庞大的大都市中，存在着最初的伦敦，即伦敦城。近 2000 年前，罗马人将这个地区建立为伦敦，称为伦迪尼姆，后来成为重要的贸易中心。尽管伦敦城规模很小，但它一直保持着独立，拥有自己的旗帜、警察部队，甚至还有一位与大伦敦市长不同的市长。有趣的是，英国君主必须获得许可才能进入这个独特的飞地。尽管伦敦看起来像是一个独立的国家，但它却是一个拥有丰富而独特历史的地方。]]></description>
-      <guid>https://t.me/hn_summary/96242</guid>
-      <pubDate>Sun, 23 Jun 2024 07:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：www.meisterplanet.com</title>
-      <link>https://t.me/hn_summary/96241</link>
-      <description><![CDATA[Richard Stallman、su 和“wheel”组 (2004)
-标题：Richard Stallman、su 和“wheel”组 (2004)
-网站：www.meisterplanet.com
+      <title>[媒体] Gergely Orosz 在 Twitter 上发起了关于推荐“软件工程方案”的讨论 [...]</title>
+      <link>https://t.me/hn_summary/96276</link>
+      <description><![CDATA[软件工程实践 (2022)
+Gergely Orosz 在 Twitter 上发起了一场关于向开发团队推荐“软件工程实践”的讨论，他拒绝使用“最佳实践”一词，认为它过于规范且具有误导性。受到启发，我将我的回复扩展为这篇文章。关键实践包括：
 
-我最近发现了为什么 GNU 版本的 su 不支持常见的 wheel 组，这一决定源于 Richard Stallman 的哲学。 Stallman 讲述了 1984 年在麻省理工学院人工智能实验室发生的一起事件，当时少数用户试图通过更改操作员密码并保密来垄断权力。他通过修补内核阻止了这一行为，但在 Unix 中，wheel 组会阻止普通用户获得 root 访问权限，从而将权力集中在少数人手中。Stallman 反对这种做法，他站在群众一边，反对统治者。就我个人而言，我不会相信 Stallman 能负责我的系统安全。]]></description>
-      <guid>https://t.me/hn_summary/96241</guid>
-      <pubDate>Sun, 23 Jun 2024 07:55:52 GMT</pubDate>
+1. 同一存储库中的文档：确保信任和最新信息，并与代码审查和自动化测试集成。
+2. 测试数据创建：用于生成各种测试数据场景的工具，以避免使用敏感的生产数据。
+3. 数据库迁移：强调版本控制、无停机时间的架构更改，以 Django 为模型系统。
+4. 项目模板：使用 Python 的 cookiecutter 等工具实现一致、最新的项目结构。
+5. 自动代码格式化：采用 Black 或 Prettier 等工具节省时间并避免格式争议。
+6. 自动化开发环境：Gitpod 和 Codespaces 等基于云的解决方案简化了设置，提高了生产力。
+7. 自动预览环境：Vercel 和 Netlify 等工具通过提供实时预览来增强 PR 审查。
+
+有争议：拒绝接受“最佳实践”这一误导性术语。
+令人惊讶的是：强调基于云的开发环境将改变游戏规则。]]></description>
+      <guid>https://t.me/hn_summary/96276</guid>
+      <pubDate>Sun, 23 Jun 2024 12:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：www.spinpress.app</title>
+      <link>https://t.me/hn_summary/96275</link>
+      <description><![CDATA[Show HN：一个用于自动旋转 WordPress 内容的 Web 应用程序（不是插件）
+标题：Show HN：一个用于自动旋转 WordPress 内容的 Web 应用程序（不是插件）
+网站：www.spinpress.app
+
+本地 SEO 通常需要为每个城市创建几乎相同但略有差异的页面，这是一个耗时且低效的过程。即使每页 3 分钟，对 100 个城市进行排名也需要 5 个小时。这项繁琐的任务会阻碍您超越专注于大城市而因时间投入而跳过小城市的竞争对手的能力。 SpinPress 解决了这个问题，您只需创建一次页面，然后轻松将内容拆分成数百个独特的页面。这种创新方法可以为您节省大量时间和精力，让您制定 SEO 策略。]]></description>
+      <guid>https://t.me/hn_summary/96275</guid>
+      <pubDate>Sun, 23 Jun 2024 12:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] E25DX 项目是一个现代的 Hugo 主题，旨在创建技术文档 [...]</title>
+      <link>https://t.me/hn_summary/96274</link>
+      <description><![CDATA[刚刚开源 E25DX：用于技术文档的现代 Hugo 主题
+E25DX 项目是一个现代 Hugo 主题，旨在创建技术文档网站。其主要目的是为技术文档提供简单、模块化和可定制的解决方案，而无需依赖外部框架，如 node/npm、CSS、JS、图标或字体。主要功能包括响应式布局、内置明暗模式以及使用 Hugo 数据模板的可自定义侧边栏。未来的增强功能旨在支持多个文档集、通过 Hugo 配置实现菜单以及搜索或 AI 助手的集成。该项目通过专注于简单性和最小的外部依赖性来脱颖而出，使其易于设置和维护。]]></description>
+      <guid>https://t.me/hn_summary/96274</guid>
+      <pubDate>Sun, 23 Jun 2024 12:14:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
