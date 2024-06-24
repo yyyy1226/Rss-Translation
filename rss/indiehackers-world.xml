@@ -4,7 +4,24 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 24 Jun 2024 03:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 06:28:45 GMT</lastBuildDate>
+    <item>
+      <title>利用人工智能在几分钟内从网络深处找到任何信息——趋势、主题分析等等</title>
+      <link>https://feed.indiehackers.world/post/c06188ee11</link>
+      <description><![CDATA[提前致谢，
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c06188ee11</guid>
+      <pubDate>Mon, 24 Jun 2024 05:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经推出了这个产品——AI Professional Headshot。</title>
+      <link>https://feed.indiehackers.world/post/58de254ff5</link>
+      <description><![CDATA[https://takeheadshot.com
+这是一款帮助人们生成专业头像的AI产品，可用于为LinkedIn或其他社交媒体平台创建头像，更方便，更简单，更便宜，还可以实现更好的美化效果。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/58de254ff5</guid>
+      <pubDate>Mon, 24 Jun 2024 05:46:54 GMT</pubDate>
+    </item>
     <item>
       <title>何时转变你的独立黑客策略</title>
       <link>https://feed.indiehackers.world/post/307380d302</link>
@@ -125,7 +142,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>从我的 SaaS 中删除了免费计划 - 为什么？</title>
       <link>https://feed.indiehackers.world/post/42de69e943</link>
       <description><![CDATA[我在 Twitter 上分享我的旅程。您可以在 Twitter 上与我联系：Twitter 👈
-Discord Indiehackers Chat广告 此处]]></description>
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/42de69e943</guid>
       <pubDate>Sun, 23 Jun 2024 10:46:24 GMT</pubDate>
     </item>
@@ -138,37 +155,6 @@ Discord Indiehackers Chat广告 此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/5f17c00c13</guid>
       <pubDate>Sun, 23 Jun 2024 09:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 JavaScript 创建进度条</title>
-      <link>https://feed.indiehackers.world/post/6842dc21e7</link>
-      <description><![CDATA[const progressBar = document.getElementById(&quot;progress-bar&quot;);
-const interval = setInterval(() =&gt; {
-if (progress &lt; 100) {
-progress += 5;
-progressText.textContent = progress + &quot;%&quot;;
-progressBar.style.width = progress + &quot;%&quot;;
-} else {
-clearInterval(interval);
-}
-}, 100);
-
-});
-```
-结论
-在本教程中，我们使用 Tailwind CSS 和 JavaScript 创建了一个进度条。我们向窗口对象添加了一个事件监听器，以检测页面何时加载，并使用当前进度值更新进度条元素。我们还添加了一个条件来检查进度值是否小于 100，并每次将其增加 5。
-希望您喜欢本教程并祝您有美好的一天！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6842dc21e7</guid>
-      <pubDate>Sun, 23 Jun 2024 07:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器人工智能</title>
-      <link>https://feed.indiehackers.world/post/a9be555844</link>
-      <description><![CDATA[刚刚发现了featherless，它允许您从 huggingface serverless 运行任何 LLAMA 模型。如果您发现部署和运行模型太麻烦，那么这个工具非常有用。目前有 492 个模型可用。它们还允许您与不同的模型聊天作为预览。huggingface 应该有这个。而且看起来他们也会支持更多开源模型。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a9be555844</guid>
-      <pubDate>Sun, 23 Jun 2024 06:56:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
