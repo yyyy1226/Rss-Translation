@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 25 Jun 2024 01:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 03:22:42 GMT</lastBuildDate>
     <item>
-      <title>寻求一些关于构建文件同步、共享和备份以及加密的云服务的意见</title>
-      <link>https://www.reddit.com/r/programming/comments/1dntzsu/asking_for_some_input_on_building_a_cloud_service/</link>
-      <description><![CDATA[  由    /u/radumarias  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dntzsu/asking_for_some_input_on_building_a_cloud_service/</guid>
-      <pubDate>Tue, 25 Jun 2024 01:21:29 GMT</pubDate>
+      <title>研究人员发现 npm Registry 存在缓存中毒和 DoS 攻击漏洞 - Socket</title>
+      <link>https://www.reddit.com/r/programming/comments/1dnuuld/researchers_uncover_npm_registry_vulnerability_to/</link>
+      <description><![CDATA[  由    /u/nameisxname  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dnuuld/researchers_uncover_npm_registry_vulnerability_to/</guid>
+      <pubDate>Tue, 25 Jun 2024 02:05:52 GMT</pubDate>
     </item>
     <item>
       <title>wasmer-zig-api：Wasmer 运行时的 Zig API</title>

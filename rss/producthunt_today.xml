@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 01:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 03:23:13 GMT</lastBuildDate>
     <item>
       <title>明亮的</title>
       <link>https://www.producthunt.com/posts/bright-51100347-8b81-41db-a2ec-e839017e00cd</link>
@@ -20,20 +20,6 @@
       <pubDate>Mon, 24 Jun 2024 06:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>SEO 统计</title>
-      <link>https://www.producthunt.com/posts/seo-stats</link>
-      <description><![CDATA[
-所有 Google Search Console 数据均集中在一个信息中心内
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/seo-stats</guid>
-      <pubDate>Mon, 24 Jun 2024 04:53:37 GMT</pubDate>
-    </item>
-    <item>
       <title>第章</title>
       <link>https://www.producthunt.com/posts/chap</link>
       <description><![CDATA[
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/chap</guid>
       <pubDate>Sun, 23 Jun 2024 21:24:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portfolio2me</title>
+      <link>https://www.producthunt.com/posts/portfolio2me</link>
+      <description><![CDATA[
+游戏化的投资组合构建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/portfolio2me</guid>
+      <pubDate>Sun, 23 Jun 2024 19:59:00 GMT</pubDate>
     </item>
     <item>
       <title>图片提示</title>
@@ -121,7 +121,7 @@ Instagram 的 AI 副驾驶
       <title>无羽毛的人工智能</title>
       <link>https://www.producthunt.com/posts/featherless-ai</link>
       <description><![CDATA[
-运行 🤗 huggingface 的每个 🦙 AI 模型及更多内容
+运行来自 🤗 huggingface 的每个 🦙 AI 模型及更多内容
 
 
 讨论
@@ -149,7 +149,7 @@ Instagram 的 AI 副驾驶
       <title>框架仪表板</title>
       <link>https://www.producthunt.com/posts/framen-dashboard</link>
       <description><![CDATA[
-在健身房、共享办公空间等场所开展程序化数字户外广告活动
+健身房、共享办公空间等场所的程序化 DOOH 活动
 
 
 讨论
