@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 01:24:37 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 26 Jun 2024 03:23:38 GMT</lastBuildDate>
+    <item>
+      <title>技术工作与计算机科学应届毕业生</title>
+      <link>https://www.reddit.com/r/webdev/comments/1donm8m/tech_jobs_vs_new_cs_graduates/</link>
+      <description><![CDATA[        提交人    /u/MannyDantyla   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1donm8m/tech_jobs_vs_new_cs_graduates/</guid>
+      <pubDate>Wed, 26 Jun 2024 02:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML/CSS 速查表 - 紫色阴影</title>
+      <link>https://www.reddit.com/r/webdev/comments/1domoqv/htmlcss_cheat_sheet_shades_of_purple/</link>
+      <description><![CDATA[我制作了一个 HTML/CSS 备忘单，其配色方案为 Vision Studio 中的“紫色阴影”，请随意使用 :) 非常适合刚开始学习的人或希望两个屏幕都匹配颜色主题的长期使用者。  https://tjvanny.github.io/    提交人    /u/LavenderTay   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1domoqv/htmlcss_cheat_sheet_shades_of_purple/</guid>
+      <pubDate>Wed, 26 Jun 2024 01:34:58 GMT</pubDate>
+    </item>
     <item>
       <title>使用 FastAPI 和 Apitally 进行 API 开发和监控</title>
       <link>https://www.reddit.com/r/webdev/comments/1dol63v/api_development_and_monitoring_with_fastapi_and/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>阻止来自不同国家的访客（人和机器人！）。</title>
       <link>https://www.reddit.com/r/webdev/comments/1doi8qe/block_visitors_people_and_bots_from_different/</link>
-      <description><![CDATA[嗨！ 想知道 1. 这对于一般来说是一件好事还是不好的网络实践？2. 怎么做！  只是在想，我是否想阻止任何来自我国家/地区以外的人访问我的网站？出于安全考虑？太多了？！而且，网站不为英国以外的客户提供服务，因此可能会清除无用的流量？ 你在哪里做的？从主机？我正在使用 Hostinger 和 Wordpress。  感谢所有建议和建议！🙂    提交人    /u/Jaroojuk   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 想知道 1. 这对于一般来说是一件好事还是不好的网络实践？2. 怎么做！  只是在想，我是否想阻止任何来自我国家/地区以外的人访问我的网站？出于安全考虑？太多了？！而且，网站不为英国以外的客户提供服务，因此可能会清除无用的流量？ 你在哪里做的？从主机？我正在使用 Hostinger 和 Wordpress。  感谢所有建议和意见！🙂    提交人    /u/Jaroojuk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1doi8qe/block_visitors_people_and_bots_from_different/</guid>
       <pubDate>Tue, 25 Jun 2024 22:05:30 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我们将所有项目的默认设置都设置为 cookiebot.com。主要是因为它让我们不必担心 youtube、google 和其他跟踪器在我们网站上放置的所有 cookie 的法律问题。客户通常管理自己的 GTM，因此我们甚至不知道他们在做什么奇怪的事情。 缺点是对性能造成很大影响，而且他们经常阻止我们自己的脚本，这非常烦人。 目前最好的 cookie 横幅是什么？    提交人    /u/Flashy-Protection-13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dogcx4/what_cookie_banner_do_you_use/</guid>
       <pubDate>Tue, 25 Jun 2024 20:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>将基本个人网站从 Wordpress 迁移出去</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dofy0g/migrating_basic_personal_site_off_of_wordpress/</link>
-      <description><![CDATA[我有一个小型静态网站，目前托管在 Wordpress 上，我想在 TS 中重新做，作为学习练习，以学习使用 Web 框架和托管提供商（如 Netlify）的一些经验。我应该使用什么框架？    提交人    /u/backpackofSuitcases   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dofy0g/migrating_basic_personal_site_off_of_wordpress/</guid>
-      <pubDate>Tue, 25 Jun 2024 20:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找滚动/交互式时间轴上讲故事的最佳实践和工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dofqd4/looking_for_best_practices_tooling_for/</link>
-      <description><![CDATA[      https://preview.redd.it/t0osvmnt0s8d1.png?width=699&amp;format=png&amp;auto=webp&amp;s=685842aacd7ac81e599e1255ea6bbcd41363bb83 我正在寻找如何将类似于上图的印刷设计转化为交互式网站的想法。基本上，这是一个时间轴（左边缘），路径上的一些点象征着事件。  当然，一切都应该是响应式的。  结果应该类似于 https://million-devs.netlify.com/ - 他们选择制作一个巨大的动画 svg 和一些滚动触发器（gsap？） - 我不确定这是否是最好的方法。  您将如何尝试创建这样的东西？您会推荐哪些工具和库？  我正在考虑使用类似 scrollama.js 的东西，并以某种方式显示动画路径和点。但是，我不确定如何定位元素并保持其响应。此外，三管齐下的部分似乎很难转化为网络。  我很感激任何输入！    提交人    /u/PixelCharlie   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dofqd4/looking_for_best_practices_tooling_for/</guid>
-      <pubDate>Tue, 25 Jun 2024 20:20:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
