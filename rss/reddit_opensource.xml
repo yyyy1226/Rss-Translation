@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 27 Jun 2024 06:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 09:21:57 GMT</lastBuildDate>
+    <item>
+      <title>singulatron：自托管 AI 超级应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpmz7d/github_singulatronsingulatron_the_selfhosted_ai/</link>
+      <description><![CDATA[        由    /u/crufter  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpmz7d/github_singulatronsingulatron_the_selfhosted_ai/</guid>
+      <pubDate>Thu, 27 Jun 2024 09:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>非程序员如何为开源项目做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpli6w/how_can_a_nonprogrammer_contribute_to_a/</link>
+      <description><![CDATA[Hello reddit, 我想知道程序员在哪些方面遇到困难，而其他角色可以提供帮助，你希望有更多哪些角色，而哪些角色被低估了？我理解，了解代码是与开发团队进行良好沟通的基本必要条件    提交人    /u/JimmymfPop   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpli6w/how_can_a_nonprogrammer_contribute_to_a/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:30:49 GMT</pubDate>
+    </item>
     <item>
       <title>我如何确保我的贡献能够传达给目标受众？</title>
       <link>https://www.reddit.com/r/opensource/comments/1dpicxh/how_do_i_make_sure_my_contribution_reaches_the/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[GitCode https://gitcode.com/ 是中国“开源”社区 CSDN 推出的 git 托管网站，最近观察到该网站镜像了 GitHub 上几乎所有 star 数超过一定数量（10？）的公共存储库。随机搜索了几个：tqdm、yaml-mode、just、brainfuck 中的 brainfuck interpreter 和一个随机家伙的 neovim config。 运营实体是重庆开源共创科技有限公司，由 CSDN 和华为云提供技术支持。 显然，如果您使用 github 登录，您可以声明您的帐户和存储库，但用户界面都是中文的。 Redditors：您的存储库被盗了吗？ （重新发布；原始标题使用“被盗”，但大多数 GitHub 存储库的许可证允许重新分发）    由    /u/EtaoinWu 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1doh0gl/github_repo_extensively_mirrored_by_gitcode/</guid>
       <pubDate>Tue, 25 Jun 2024 21:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>DBee - 快速且简约的数据库浏览器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dofdmi/dbee_fast_minimalistic_database_browser/</link>
-      <description><![CDATA[        提交人    /u/TimeOperator   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dofdmi/dbee_fast_minimalistic_database_browser/</guid>
-      <pubDate>Tue, 25 Jun 2024 20:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>goManageDocker v1.2 已经发布🎉（有一些重大变化）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1doe4lg/gomanagedocker_v12_is_here_and_has_some_big/</link>
-      <description><![CDATA[  由    /u/Krunchy_Almond  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1doe4lg/gomanagedocker_v12_is_here_and_has_some_big/</guid>
-      <pubDate>Tue, 25 Jun 2024 19:12:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
