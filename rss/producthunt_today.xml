@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 21:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 01:25:41 GMT</lastBuildDate>
     <item>
       <title>Fastly 免费账户</title>
       <link>https://www.producthunt.com/posts/fastly-free-accounts</link>
@@ -160,6 +160,20 @@
       <pubDate>Tue, 25 Jun 2024 23:47:20 GMT</pubDate>
     </item>
     <item>
+      <title>Fin人工智能副驾驶</title>
+      <link>https://www.producthunt.com/posts/fin-ai-copilot</link>
+      <description><![CDATA[
+每位支持代理均配备 AI 助手
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fin-ai-copilot</guid>
+      <pubDate>Tue, 25 Jun 2024 17:13:32 GMT</pubDate>
+    </item>
+    <item>
       <title>芽编码器</title>
       <link>https://www.producthunt.com/posts/budcoder</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@ WordPress 的 CodeSandBox
 ]]></description>
       <guid>https://www.producthunt.com/posts/faq-generator-for-your-website</guid>
       <pubDate>Mon, 17 Jun 2024 15:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatScreen: Sider 2.0 适用于 iOS</title>
-      <link>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</link>
-      <description><![CDATA[
-无需切换应用，即可与屏幕上的任何内容进行 AI 聊天
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</guid>
-      <pubDate>Wed, 05 Jun 2024 10:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
