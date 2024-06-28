@@ -4,110 +4,91 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 12:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 18:26:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：www.theregister.com</title>
-      <link>https://t.me/hn_summary/97042</link>
-      <description><![CDATA[Windows：设计不安全
-标题：Windows：设计不安全
-网站：www.theregister.com
-
-观点：自 1992 年以来，我一直在强调 Windows 的安全漏洞，从 Windows for Workgroups 开始，情况只会变得更糟。2023 年 6 月，中国黑客组织 Storm-0558 从微软的 Exchange Online 窃取了美国政府信息，而微软甚至没有发现。前白宫网络政策主管 AJ Grotto 恰当地称微软是国家安全隐患。每月的补丁星期二和 CVE-2024-30080 和 CVE-2024-30078 等严重漏洞凸显了持续存在的问题。
-
-真正令人担忧的是微软故意制造的安全漏洞，例如人工智能功能 Microsoft Recall，它会拍摄您在计算机上执行的所有操作的快照。这是一场隐私噩梦，即使它现在是可选的，但仍然是一个重大风险。此外，微软推动强制执行 OneDrive 备份的做法对拥有大量数据的用户来说是侵入性的和不切实际的。
-
-我已经使用 Linux 超过 30 年了，我想知道这些最新的安全漏洞是否会最终促使其他人加入我。用户还能忍受多少？]]></description>
-      <guid>https://t.me/hn_summary/97042</guid>
-      <pubDate>Fri, 28 Jun 2024 12:38:29 GMT</pubDate>
+      <title>[媒体]《人物》杂志怎么了？</title>
+      <link>https://t.me/hn_summary/97098</link>
+      <description><![CDATA[《人物》杂志发生了什么？
+在这篇详尽的文章中，安妮·海伦·彼得森深入探讨了《人物》杂志的历史和演变，这是一本她从小就着迷的杂志。她讲述了该杂志在 20 世纪 70 年代和 80 年代的崛起，强调了它对个人故事而非政治问题的独特关注。然而，她指出，该杂志的内容和影响力显著下降，并将其归因于数字革命和企业合并等各种因素。彼得森还探讨了 Dotdash Meredith 收购《人物》杂志，Dotdash Meredith 是一家以 SEO 驱动的内容策略而闻名的媒体集团。这种转变导致大量低效、聚合的内容，旨在最大化广告收入，而不是新闻诚信。本文强调了这一趋势对传统出版物和整个媒体格局的更广泛影响。（基于 74% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/97098</guid>
+      <pubDate>Fri, 28 Jun 2024 18:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 您是否后悔在点击发送后立即发送了一条愤怒的消息？</title>
-      <link>https://t.me/hn_summary/97041</link>
-      <description><![CDATA[清晰思考——来自关于决策的最佳书籍之一的见解
-您是否后悔在点击发送后立即发送了一条愤怒的消息？那是一个糟糕的决定。成功人士擅长做出伟大的决定，而这种技能是可以学习的。Shane Parrish 的书《清晰思考：将平凡时刻变成非凡成果》深入探讨了顶尖成就者如何做出决策。定期读者和客座作者 Michał 分享了这本书的见解。关键点包括理解决策与其结果无关，并认识到情绪、自我、社交和惯性默认值等偏见。创建自动规则、使用清单和记录决策等策略可以改善决策。本文是对这本书的摘要，让我们一窥其中的宝贵经验。如果您喜欢这个摘要，那么这本书是必读之作。]]></description>
-      <guid>https://t.me/hn_summary/97041</guid>
-      <pubDate>Fri, 28 Jun 2024 12:37:22 GMT</pubDate>
+      <title>[媒体] 推出 Crosspo.st，这是一款旨在帮助您增加 Threads 关注度的新工具，[...]</title>
+      <link>https://t.me/hn_summary/97097</link>
+      <description><![CDATA[Show HN：通过交叉发布推文来增加 Threads 关注度的工具
+推出Crosspo.st，这是一款新工具，旨在帮助您通过无缝交叉发布推文来增加 Threads 关注度。您的数据安全是我们的首要任务；请放心，它只会用于让您了解我们的产品更新。如有任何疑问，请随时通过 us@crosspo.st 与我们联系。]]></description>
+      <guid>https://t.me/hn_summary/97097</guid>
+      <pubDate>Fri, 28 Jun 2024 18:25:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Substack 正在寻找系统工程师来开发核心基础设施和工具 [...]</title>
-      <link>https://t.me/hn_summary/97040</link>
-      <description><![CDATA[Substack 正在招聘系统工程师，为文化打造新的经济引擎
-Substack 正在寻找系统工程师来开发支持其快速扩展的产品生态系统的核心基础设施和工具。工程师将与各个团队合作，设计可扩展、有弹性的系统，为作家和读者增强平台。该职位提供有竞争力的薪资范围 170,000 - 230,000 美元、股权和优厚福利。应聘者应具有 5 年以上的软件工程经验，特别是在构建强大的后端系统方面，并且能够独立工作。熟悉 Node/Express、Postgres、Redis 和 AWS 是有益的。Substack 强调以使命为导向的方法，以创建更好的写作商业模式，摆脱传统广告的限制。该职位在美国境内远程工作，Substack 致力于提供平等就业机会。]]></description>
-      <guid>https://t.me/hn_summary/97040</guid>
-      <pubDate>Fri, 28 Jun 2024 12:01:08 GMT</pubDate>
+      <title>[媒体] 比尔·盖茨保证，人工智能的大量能源消耗并不是一个问题，因为人工智能[...]</title>
+      <link>https://t.me/hn_summary/97096</link>
+      <description><![CDATA[比尔盖茨表示不必担心人工智能的能源消耗，技术会适应
+比尔盖茨保证，人工智能的大量能源消耗并不是一个问题，因为人工智能最终将有助于减少电力使用并促进可持续能源。盖茨在伦敦举行的突破能源基金活动上强调，人工智能将提高技术和电网的效率。他承认数据中心可能占全球用电量的 6%，但他辩称，人工智能将推动超过这一比例的减排。相反，在彭博电视采访中，盖茨表示数据中心可能消耗全球 6% 的电力，尽管超过 10% 的估计被夸大了。高盛和电力研究所的研究预测，到 2030 年，美国数据中心的电力消耗可能高达 9%，而 Arm 首席执行官 Rene Haas 估计这一数字为 20-25%。国际能源署警告称，到 2026 年，全球数据中心的电力需求可能会翻一番。盖茨认为，能源需求将通过对绿色电力的投资来抵消。然而，微软报告称，由于数据中心的扩张，自 2020 年以来，碳排放量增加了近 30%。突破能源公司已投资了 100 多家专注于可持续能源的公司。比尔和梅琳达·盖茨基金会支持 Numenta 的“千脑”项目，旨在对人类大脑皮层进行逆向工程。]]></description>
+      <guid>https://t.me/hn_summary/97096</guid>
+      <pubDate>Fri, 28 Jun 2024 18:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 拯救犀牛的新方法</title>
-      <link>https://t.me/hn_summary/97039</link>
-      <description><![CDATA[一种遏制偷猎的新方法，向 20 头活犀牛体内注入放射性同位素
-一种拯救犀牛的新方法
+      <title>[媒体] 网站：lifehacker.com</title>
+      <link>https://t.me/hn_summary/97095</link>
+      <description><![CDATA[您需要一个备用银行
+标题：您需要一个备用银行
+网站：lifehacker.com
 
-2024 年 6 月 25 日 - 威特沃特斯大学
-
-威特沃特斯大学的 Rhisotope 项目已进入新阶段，向 20 头活犀牛的角注入低剂量放射性同位素。在詹姆斯·拉金教授的领导下，这种创新方法旨在通过使用现有的核安全基础设施使犀牛角在国际边界可检测到，从而阻止偷猎。这种方法对动物或环境没有危害，可以通过使走私的犀牛角更容易在黑市上被发现和贬值，从而彻底改变野生动物保护。该项目还旨在扩展到其他物种，并包括教育和社会提升计划，特别是针对农村社区的妇女。这项跨学科努力展示了威特斯大学富有影响力的研究，解决了当地和全球挑战。
-
-争议：在活体动物中使用放射性同位素可能会引发伦理担忧和关于对野生动物的长期影响的争论。
-
-独特/巧妙：利用现有的核安全基础设施打击野生动物贩运是一种新颖且资源丰富的方法。]]></description>
-      <guid>https://t.me/hn_summary/97039</guid>
-      <pubDate>Fri, 28 Jun 2024 11:54:02 GMT</pubDate>
+在当今的数字时代，尽管有大量用于管理资金的应用程序和服务，但银行账户仍然不可或缺。然而，银行可能不可靠，经常在没有任何警告的情况下关闭账户，让客户陷入财务困境。这种不可预测性凸显了拥有备用银行账户的重要性。如果您的主要账户突然被关闭，辅助账户可以缓解混乱，让您迅速重新分配存款和付款。此外，备用账户可以作为应急基金，并提供额外的 FDIC 保险保障。虽然管理多个账户可能很麻烦，而且成本可能很高，但财务安全和灵活性带来的好处远远超过缺点。]]></description>
+      <guid>https://t.me/hn_summary/97095</guid>
+      <pubDate>Fri, 28 Jun 2024 18:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最新的人工智能炒作周期中，Perplexity 正成为一个备受争议的参与者，艾米 [...]</title>
-      <link>https://t.me/hn_summary/97038</link>
-      <description><![CDATA[Perplexity 的“大盗版”人工智能
-在最新的人工智能炒作周期中，Perplexity 正成为一个备受争议的参与者，其目标是创建一个“答案引擎”，而不是传统的搜索引擎。与将流量引导至主要来源的谷歌不同，Perplexity 提供直接答案，实际上使原创内容创作者无法获得广告收入。随着 Perplexity 的 Pages 产品出现，争议进一步加深，该产品汇总了整篇文章，经常避开付费墙，几乎不注明来源，导致剽窃和侵犯版权的指控。首席执行官 Aravind Srinivas 的辩护涉及第三方抓取工具忽略 robots.txt，引发了道德问题。此外，Perplexity 被发现揭露人工智能生成的错误信息，进一步质疑其对“事实”的承诺。该公司的基础似乎建立在欺骗之上，挑战了互联网所依赖的信任。]]></description>
-      <guid>https://t.me/hn_summary/97038</guid>
-      <pubDate>Fri, 28 Jun 2024 11:51:55 GMT</pubDate>
+      <title>[媒体] 1994 年根据迈克尔·克莱顿的小说改编的电影《揭露》中，虚拟现实系统 [...]</title>
+      <link>https://t.me/hn_summary/97094</link>
+      <description><![CDATA[科幻界面
+在根据迈克尔·克莱顿的小说改编的 1994 年电影《揭露》中，一个名为“走廊”的虚拟现实系统用于 3D 文件浏览。主角汤姆·桑德斯是 Digicom 的高管，他使用该系统寻找针对竞争对手梅雷迪斯·约翰逊的证据，后者正在陷害他制造失败。VR 设置包括耳机、手套、激光扫描仪和用于移动的凹板。走廊是一座虚拟建筑，里面有代表计算机文件的文件柜。值得注意的是，该系统没有访问控制，允许无限制的文件访问，这是一个关键的情节设备，但却是一个糟糕的设计选择。当梅雷迪斯删除罪证文件时，汤姆遇到了梅雷迪斯的化身，这凸显了该系统的多用户功能。该场景还展示了一个语音激活的帮助系统，由一个老套的天使化身代表。这部电影对虚拟现实技术的描述既有创新性又有缺陷，反映了这个时代的技术抱负和局限性。（基于 51% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/97094</guid>
+      <pubDate>Fri, 28 Jun 2024 18:05:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 中国海上风电价格今年将低于煤炭，标志着 [...]</title>
-      <link>https://t.me/hn_summary/97037</link>
-      <description><![CDATA[今年中国海上风电价格将低于煤炭
-今年，中国海上风电价格将低于煤炭，标志着中国可再生能源努力的一个重要里程碑。这一转变是由海上风电领域的技术进步和规模经济推动的。此举有望加强中国减少碳排放和向清洁能源转型的承诺。然而，这一发展可能会引起煤炭行业利益相关者的争议，他们可能因此面临经济挑战。令人惊讶的是，海上风电的成本竞争力迅速增强，凸显了中国积极推动可持续能源解决方案。]]></description>
-      <guid>https://t.me/hn_summary/97037</guid>
-      <pubDate>Fri, 28 Jun 2024 11:36:47 GMT</pubDate>
+      <title>[媒体] 软银首席执行官孙正义以其戏剧性和高风险的投资风格而闻名，[...]</title>
+      <link>https://t.me/hn_summary/97093</link>
+      <description><![CDATA[软银首席执行官称，他来到地球就是为了创造超级人工智能
+软银首席执行官孙正义以其戏剧性和高风险的投资风格而闻名，他认为自己的最终目的是创造超级人工智能 (ASI)。尽管孙正义的业绩记录动荡不安，包括 WeWork 和愿景基金的巨额亏损，但他依然毫不气馁。他声称，从阿里巴巴到优步的每项投资都只是他超级人工智能野心的前奏。最近，软银加大了对人工智能的投资力度，包括对 Perplexity AI 的 30 亿美元支持。孙正义的愿景是让超级人工智能比人类聪明 10,000 倍，他致力于将这一未来变为现实，并声称“这就是我生来要做的事情。”]]></description>
+      <guid>https://t.me/hn_summary/97093</guid>
+      <pubDate>Fri, 28 Jun 2024 18:04:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 日本的微型卡车在美国销量激增，原因是其[...]</title>
-      <link>https://t.me/hn_summary/97036</link>
-      <description><![CDATA[尽管存在安全隐患，日本微型轻型卡车在美国销量激增
-日本微型轻型卡车在美国销量激增，这得益于其价格实惠、燃油效率高和多功能性。这些紧凑型车辆最初是为日本狭窄的街道和小农场设计的，现在受到美国农民、园艺师和小企业主的青睐。然而，存在重大的安全隐患，因为轻型卡车通常缺乏安全气囊和防抱死制动系统等现代安全功能。尽管存在这些问题，但它们的受欢迎程度仍在不断增长，凸显了美国汽车市场的独特趋势。它们的实际好处与安全风险的对比呈现出一种有争议但又有趣的动态。]]></description>
-      <guid>https://t.me/hn_summary/97036</guid>
-      <pubDate>Fri, 28 Jun 2024 11:35:44 GMT</pubDate>
+      <title>[媒体] 在 yamamoto-ls.com 上的这篇博客文章中，作者探讨了说“n [...]”的微妙艺术。</title>
+      <link>https://t.me/hn_summary/97092</link>
+      <description><![CDATA[不说不的说不艺术
+在yamamoto-ls.com的这篇博文中，作者探讨了日本商业文化中说“不”的微妙艺术，但并未明确使用这个词。作者强调了日本普遍存在的间接沟通风格，并引用了 Patrick Harlan (Pakkun) 讨论这些文化差异的 YouTube 视频。Pakkun 提供了一些巧妙表达拒绝的短语示例，例如“让我和老板商量一下”或“我会以前瞻性的方式考虑”。作者同意 Pakkun 的一般性观察，但指出他的例子有些极端。这篇文章强调了日语的高语境特性，其中很多内容都是隐含的，而不是直接表达出来的，并强调了口译员在向非日本受众传达这些微妙之处时面临的挑战。作者还谈到了日本商人在英语国家工作时需要适应更直接的沟通方式。翻译文化细微差别的独特挑战是口译员角色的一个引人入胜的方面。]]></description>
+      <guid>https://t.me/hn_summary/97092</guid>
+      <pubDate>Fri, 28 Jun 2024 17:59:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 阿桑奇的请求是在美国发出警告之后提出的。</title>
-      <link>https://t.me/hn_summary/97035</link>
-      <description><![CDATA[阿桑奇认罪是在警告美国将输掉引渡之战之后做出的
-4 月 4 日，欧洲的一名司法部律师警告同事，除非在 4 月 16 日的最后期限之前达成协议，否则他们为将朱利安·阿桑奇从英国引渡到美国而进行的五年努力很可能会失败。美国审判团队一直在倡导一项认罪协议，让阿桑奇远程承认轻罪，但高级官员犹豫不决。最终，认罪协议允许阿桑奇在承认在偏远的太平洋岛屿犯下违反《间谍法》的重罪后返回澳大利亚。此案凸显了言论自由权与国家安全之间的紧张关系，以及司法部内部紧张的关系。这项认罪协议十分独特，涉及一个偏远的美国领土法庭和由澳大利亚政府协助的私人飞机安排。]]></description>
-      <guid>https://t.me/hn_summary/97035</guid>
-      <pubDate>Fri, 28 Jun 2024 11:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：twomillioncheckboxes.com</title>
-      <link>https://t.me/hn_summary/97034</link>
-      <description><![CDATA[两百万个复选框（用 Elixir 编写）
-标题：两百万个复选框（用 Elixir 编写）
-网站：twomillioncheckboxes.com
+      <title>调用“malloc”会分配多少内存？</title>
+      <link>https://t.me/hn_summary/97091</link>
+      <description><![CDATA[调用“malloc”会分配多少内存？——Daniel Lemire 的博客
+在 C 语言中，malloc 函数在堆上分配内存，了解其行为至关重要，因为其他语言（如 C++ 和 Zig）可能会使用它。当您请求内存（例如一个字节）时，现代系统会分配虚拟内存，而虚拟内存可能不会立即对应于物理内存。Linux 等系统会延迟分配物理内存，而 Windows 则会急切地分配物理内存。通常，每次分配都有固定的开销（大约 8 个字节），并且由于对齐要求（通常为 16 个字节），实际可用内存通常大于请求的内存。例如，一个字节的请求可能会产生 16-24 个字节的可用内存。 malloc_usable_size (Linux) 和 malloc_size (macOS) 等工具可以显示实际分配的大小。避免分配微小的内存块（小于 16 字节），并考虑使用 realloc 来有效扩展内存。这种细致入微的理解有助于优化内存分配实践。
 
-连接丢失。正在重试...
-
-正在尝试重新连接
-
-出现问题！
-
-请坚持下去，我们会回到正轨]]></description>
-      <guid>https://t.me/hn_summary/97034</guid>
-      <pubDate>Fri, 28 Jun 2024 11:07:20 GMT</pubDate>
+Daniel Lemire，《调用‘malloc’会分配多少内存？》，Daniel Lemire 的博客，2024 年 6 月 27 日。]]></description>
+      <guid>https://t.me/hn_summary/97091</guid>
+      <pubDate>Fri, 28 Jun 2024 17:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>本参考资料是关于轨道力学和天体动力学的，是为机械或 [...]</title>
-      <link>https://t.me/hn_summary/97033</link>
-      <description><![CDATA[轨道力学和天体动力学
-本轨道力学和天体动力学参考资料专为康涅狄格大学机械或航​​空航天工程本科生量身定制。它列出了必备教科书，包括 Roger R. Bate、Howard D. Curtis 等人的作品，涵盖该领域的基础和高级主题。内容可以改进，欢迎通过 GitHub 或电子邮件做出贡献。该徽标由 MenteMagica 创建并托管在维基百科上，根据 Creative Commons BY-SA 3.0 许可。值得注意的是，纳入跨越数十年的教科书突显了该领域的不断发展。]]></description>
-      <guid>https://t.me/hn_summary/97033</guid>
-      <pubDate>Fri, 28 Jun 2024 10:43:11 GMT</pubDate>
+      <title>[媒体] EcoFlow 联合创始人 Hannah Sieber 成立了一家新创业公司 Artyc，旨在 [...]</title>
+      <link>https://t.me/hn_summary/97090</link>
+      <description><![CDATA[冷藏运输可能是电池颠覆的下一个行业
+EcoFlow 联合创始人 Hannah Sieber 成立了一家新创业公司 Artyc，旨在通过电池供电解决方案彻底改变冷藏运输。受加州停电对较小社区造成不成比例影响的启发，Sieber 探索了电池供电制冷的潜力。Artyc 的旗舰产品 Medstow Micro 是一款紧凑、可重复使用的设备，使用锂离子电池和固态热泵将对温度敏感的样本保持在 3°C 至少 56 小时。该设备还具有跟踪功能和蜂窝连接。Artyc 的可重复使用盒子提供更低的碳足迹，旨在扩大患者参加临床试验的机会。未来的产品将针对对温度敏感的食品和更大的存储需求。Sieber 还在探索全球健康应用，强调电池供电比干冰等传统冷却方法更实用。]]></description>
+      <guid>https://t.me/hn_summary/97090</guid>
+      <pubDate>Fri, 28 Jun 2024 17:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 英国面临严重的贫困危机，贫困人口超过1400万人，其中包括100万人[...]</title>
+      <link>https://t.me/hn_summary/97089</link>
+      <description><![CDATA[对福利的歧视使英国的极度贫困变得可以接受
+英国面临严重的贫困危机，超过 1400 万人（包括 100 万儿童）生活在赤贫之中。福利削减和对福利接受者的强烈歧视加剧了日益加深的贫困，福利接受者被划分为“应得”和“不应得”两类。像里希·苏纳克这样的政客通过暗示福利接受者正在利用该系统来延续这种歧视。这种说法根植于对“福利骗子”的刻板印象和道德恐慌，被用来为紧缩措施辩护。这种歧视使人们不愿寻求帮助，并在社会上孤立他们。为了消除贫困，必须从政策中消除污名，并将贫困重新定义为经济不公。下一届政府必须停止污名化标签，促进薪酬平等和实际生活工资。文章强调，污名化是当权者用来为经济不平等辩护的工具。]]></description>
+      <guid>https://t.me/hn_summary/97089</guid>
+      <pubDate>Fri, 28 Jun 2024 17:41:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
