@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 29 Jun 2024 03:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:26:36 GMT</lastBuildDate>
     <item>
-      <title>LLM发展的5个阶段</title>
-      <link>https://www.reddit.com/r/programming/comments/1dr1umy/the_5_stages_of_llm_development/</link>
+      <title>LZAV 4.1（编译器合规性修复）。快速内存数据压缩算法（内联 C/C++）460+MB/s 压缩，2500+MB/s 解压缩，比例% 优于 LZ4、Snappy 和 Zstd@-1</title>
+      <link>https://www.reddit.com/r/programming/comments/1dr4gkg/lzav_41_compiler_compliance_fix_fast_inmemory/</link>
+      <description><![CDATA[  由    /u/avaneev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dr4gkg/lzav_41_compiler_compliance_fix_fast_inmemory/</guid>
+      <pubDate>Sat, 29 Jun 2024 06:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[OSS] 又一个 LLM 开发框架 | 专注于准确性（幻觉）的提高</title>
+      <link>https://www.reddit.com/r/programming/comments/1dr3qi3/oss_yet_another_llm_development_framework_focused/</link>
       <description><![CDATA[  由    /u/palicoxasif  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dr1umy/the_5_stages_of_llm_development/</guid>
-      <pubDate>Sat, 29 Jun 2024 03:22:28 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1dr3qi3/oss_yet_another_llm_development_framework_focused/</guid>
+      <pubDate>Sat, 29 Jun 2024 05:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>OOP 设计模式：代理就像是外观和装饰器生下的孩子</title>
+      <link>https://www.reddit.com/r/programming/comments/1dr2rb3/oop_design_patterns_proxy_is_like_the_result_of/</link>
+      <description><![CDATA[title    由   提交  /u/pinchonalizo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dr2rb3/oop_design_patterns_proxy_is_like_the_result_of/</guid>
+      <pubDate>Sat, 29 Jun 2024 04:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 Code2Prompt：一个开源 CLI 工具，可将您的代码库转换为 LLM 就绪提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1dr2qaz/i_built_code2prompt_an_opensource_cli_tool_that/</link>
+      <description><![CDATA[  由    /u/raphaelmansuy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dr2qaz/i_built_code2prompt_an_opensource_cli_tool_that/</guid>
+      <pubDate>Sat, 29 Jun 2024 04:13:17 GMT</pubDate>
     </item>
     <item>
       <title>软件工程师的禁忌</title>
@@ -39,13 +60,6 @@
       <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dr0qjb/why_im_switching_from_prettier_and_eslint_to_biome/</guid>
       <pubDate>Sat, 29 Jun 2024 02:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是首席执行官、企业主或经理，在 Slack 上有员工吗？查看 CommuniFlow！</title>
-      <link>https://www.reddit.com/r/programming/comments/1dr02m9/are_you_a_ceo_business_owner_or_manager_with_a/</link>
-      <description><![CDATA[  由    /u/khalidd877  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dr02m9/are_you_a_ceo_business_owner_or_manager_with_a/</guid>
-      <pubDate>Sat, 29 Jun 2024 01:46:13 GMT</pubDate>
     </item>
     <item>
       <title>艾伦·图灵：温斯顿·丘吉尔的秘密武器</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/TheDeepThinker_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dqqq0w/coding_a_neural_network_from_scratch_for_absolute/</guid>
       <pubDate>Fri, 28 Jun 2024 18:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>返回基础论坛 - 所有关于 BASIC 业余编程的论坛</title>
-      <link>https://www.reddit.com/r/programming/comments/1dqpi2s/back_to_basic_forum_all_about_basic_hobby/</link>
-      <description><![CDATA[  由    /u/ronblue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dqpi2s/back_to_basic_forum_all_about_basic_hobby/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决多租户排队系统中的嘈杂邻居问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1dqpc9p/fixing_noisy_neighbor_problems_in_multitenant/</link>
-      <description><![CDATA[  由    /u/self-taught16  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dqpc9p/fixing_noisy_neighbor_problems_in_multitenant/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:33:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
