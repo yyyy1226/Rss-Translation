@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 29 Jun 2024 21:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 01:37:23 GMT</lastBuildDate>
+    <item>
+      <title>软件复杂性的三大定律（或者：为什么软件工程师总是脾气暴躁）</title>
+      <link>https://www.reddit.com/r/programming/comments/1drqb1f/three_laws_of_software_complexity_or_why_software/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1drqb1f/three_laws_of_software_complexity_or_why_software/</guid>
+      <pubDate>Sun, 30 Jun 2024 01:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Angular 构建可扩展的 Web 应用程序：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1drq6wy/building_a_scalable_web_app_with_angular_a/</link>
+      <description><![CDATA[  由    /u/judescripts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1drq6wy/building_a_scalable_web_app_with_angular_a/</guid>
+      <pubDate>Sun, 30 Jun 2024 01:24:14 GMT</pubDate>
+    </item>
     <item>
       <title>我们从一年的法学硕士建设中学到了什么（第一部分）</title>
       <link>https://www.reddit.com/r/programming/comments/1drky7z/what_we_learned_from_a_year_of_building_with_llms/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[  由    /u/wrong-dog  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1drj3n3/its_been_a_long_time_since_i_learned_a_new/</guid>
       <pubDate>Sat, 29 Jun 2024 19:35:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 PYTHON 了解不多，我是一名三年级机械工程专业的学生。我想转行，我应该选择 CS50-PYTHON 吗？请帮我选择，因为我很困惑，不知道 E 是否能忍受，如果可以的话我应该尝试哪些东西来开始编程生涯？</title>
-      <link>https://www.reddit.com/r/programming/comments/1drih85/i_have_little_knowledge_in_python_i_am_a_third/</link>
-      <description><![CDATA[  由    /u/Ill-Wrongdoer-7935  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1drih85/i_have_little_knowledge_in_python_i_am_a_third/</guid>
-      <pubDate>Sat, 29 Jun 2024 19:06:38 GMT</pubDate>
     </item>
     <item>
       <title>一进程编程笔记（使用Go和SQLite）</title>
@@ -64,7 +71,7 @@
     <item>
       <title>我制作了一个使用 Laravel 的 Blade 模板引擎的静态站点生成器。</title>
       <link>https://www.reddit.com/r/programming/comments/1drd1kx/i_made_a_static_site_generator_which_uses/</link>
-      <description><![CDATA[我制作了一个新的极简框架，它可以创建用 PHP 编写的静态站点生成器，该生成器在底层使用 Laravel 的 Blade 模板引擎来生成构建。    提交人    /u/ItsMeNiyko   [链接] [评论]]]></description>
+      <description><![CDATA[我已经制作了一个新的极简框架，它可以创建用 PHP 编写的静态站点生成器，该生成器在底层使用 Laravel 的 Blade 模板引擎来生成构建。    提交人    /u/ItsMeNiyko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1drd1kx/i_made_a_static_site_generator_which_uses/</guid>
       <pubDate>Sat, 29 Jun 2024 14:57:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在过去的几年里，我学习了投资和交易。在那段时间里，我学习了一些编程。 我想学习如何构建一些 AI 和 SaaS 的东西，但这对我来说太难了。该 Web 应用程序是一组文章，是公司年度报告的摘要。ChatGPT 用于生成摘要。 我花了大约一周的时间来制作这个 Web 应用程序。第一次尝试 nextjs。这很有趣。这会是有用的东西吗？    提交人    /u/Middle_Aspect8379   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dr75yq/investnotes_10k_reports_summarized/</guid>
       <pubDate>Sat, 29 Jun 2024 09:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体查询 | 运算符 | CSS 中的查询模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1dr6qzp/media_queries_operators_query_patterns_in_css/</link>
-      <description><![CDATA[  由    /u/nameisxname  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dr6qzp/media_queries_operators_query_patterns_in_css/</guid>
-      <pubDate>Sat, 29 Jun 2024 08:41:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
