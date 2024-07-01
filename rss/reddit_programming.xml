@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 01 Jul 2024 06:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 09:25:51 GMT</lastBuildDate>
     <item>
-      <title>Flutter Rest API BootCamp：构建 3 个真实世界应用程序 -[ 2024 ]</title>
-      <link>https://www.reddit.com/r/programming/comments/1dsm6hi/flutter_rest_api_bootcamp_build_3_real_world_apps/</link>
-      <description><![CDATA[  由    /u/rayaeve  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dsm6hi/flutter_rest_api_bootcamp_build_3_real_world_apps/</guid>
-      <pubDate>Mon, 01 Jul 2024 06:29:28 GMT</pubDate>
+      <title>让 LLM 用技术原语进行构建</title>
+      <link>https://www.reddit.com/r/programming/comments/1dsnyju/let_llms_build_with_technical_primitives/</link>
+      <description><![CDATA[  由    /u/ecz- 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dsnyju/let_llms_build_with_technical_primitives/</guid>
+      <pubDate>Mon, 01 Jul 2024 08:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>请检查代码：预订可用性检查代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1dsnm1b/please_code_review_booking_availability_checking/</link>
+      <description><![CDATA[  由    /u/still_sitter_g  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dsnm1b/please_code_review_booking_availability_checking/</guid>
+      <pubDate>Mon, 01 Jul 2024 08:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍代码截图 - 创建可用于演示的代码视觉效果</title>
+      <link>https://www.reddit.com/r/programming/comments/1dsmzoa/introducing_code_screenshot_create/</link>
+      <description><![CDATA[  由    /u/Evening-Schedule-662  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dsmzoa/introducing_code_screenshot_create/</guid>
+      <pubDate>Mon, 01 Jul 2024 07:22:49 GMT</pubDate>
     </item>
     <item>
       <title>掌握 Nextjs 14，从初学者到高级表单创建</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/lelanthran  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ds5csl/dev_rejects_cve_severity_makes_his_github_repo/</guid>
       <pubDate>Sun, 30 Jun 2024 16:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过减轻对专家的依赖来快速恢复团队流动性</title>
-      <link>https://www.reddit.com/r/programming/comments/1ds4obw/how_to_reclaim_team_flow_fast_by_relieving_your/</link>
-      <description><![CDATA[  由    /u/ToddLankford  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ds4obw/how_to_reclaim_team_flow_fast_by_relieving_your/</guid>
-      <pubDate>Sun, 30 Jun 2024 15:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL 面试问题：经理团队规模 - 异步队列</title>
-      <link>https://www.reddit.com/r/programming/comments/1ds42w6/sql_interview_question_manager_team_sizes_async/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ds42w6/sql_interview_question_manager_team_sizes_async/</guid>
-      <pubDate>Sun, 30 Jun 2024 15:29:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
