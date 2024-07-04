@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 04 Jul 2024 01:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 03:23:25 GMT</lastBuildDate>
+    <item>
+      <title>2020 年 3 月的 AI 将会是什么样子（Dwarkesh Patel 在 Manifold 的 Manifest 活动上）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1duv636/what_will_march_2020_for_ai_look_like_dwarkesh/</link>
+      <description><![CDATA[YouTube 链接 Dwarkesh 采访了来自 OpenAI、Google、Anthropic 等公司的众多领导者和工程师，在他的播客中讨论了 AGI 和安全问题。以下是他最近的演讲和讨论，内容涉及 2020 年的类比如何适用，以及当社会认为威胁迫在眉睫时，世界会是什么样子。    提交人    /u/Wheelthis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1duv636/what_will_march_2020_for_ai_look_like_dwarkesh/</guid>
+      <pubDate>Thu, 04 Jul 2024 01:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>有没有一种技术可以通过读唇语来记录视频中所说的内容，而无需录制音频？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dutf9w/is_there_a_technology_that_can_lipread_faces_in_a/</link>
@@ -13,23 +20,16 @@
       <pubDate>Thu, 04 Jul 2024 00:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>未来 10 年，AI 还能以这种方式创作动漫吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dut8gz/will_ai_be_able_to_create_anime_this_way_in_next/</link>
-      <description><![CDATA[我很郁闷，我投入了如此多情感的一部动漫只改编了视觉小说 (VN) 的介绍章节，没有动漫中更生动的设计和动作，感觉就不一样了。  一个想法突然让我感觉好多了，如果 AI 能够将 VN 制作成动漫，使用 VN 的对话和图像来创建像“深思熟虑的”场景会怎样？动画中的场景，拥有所有角色的面部表情、互动、动作等。将来以动画的第一季为样本，学习如何做事。 如果可以根据技术的进步，从 VN 提供所有对话和图像等，并假设它也会使用预定义的数据来制作好的动画，那会怎样？ 我非常希望它能够栩栩如生，即使我可以独自完成并且不会导致版权或盗窃 :&#39;/     提交人    /u/ROMANREIGNS599   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dut8gz/will_ai_be_able_to_create_anime_this_way_in_next/</guid>
-      <pubDate>Thu, 04 Jul 2024 00:06:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我们距离通用人工智能 (AGI) 还有多远？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dusqky/how_close_are_we_to_agi/</link>
-      <description><![CDATA[所以最近我在 YouTube 上看到越来越多相互矛盾的视频。 一方面，我看到来自 Computerphile 和其他知名 IT 频道的视频，称 AI 被过度炒作，实际上我们已经达到了性能的低谷，需要几十年的时间才能克服其局限性。 另一方面，我收到越来越多的视频，如我下面分享的视频，人们在提醒大家 AGI 将在 2027 年左右接近完成，这将摧毁我们的社会。 我担心 AI 会破坏经济，许多人会失业。但听到一些人谈论这件事似乎表明我们可能濒临灭绝，因为一旦这些智能失控，就没有办法调整或遏制它们（这似乎合乎逻辑，因为这些智能对我们来说太强大了，而且很可能很容易失去控制）。 我不太热衷于这个话题。有人能给我一个诚实和明智的意见，关于短期和长期内我们将会面临什么吗？ 提前致谢。 问题视频（以及许多其他视频）：https://youtu.be/K0Pa5oudUp4?si=lFqZ8m4L3NPxQ1jh    提交人    /u/TheGronchoMarx   [链接] [评论]]]></description>
+      <description><![CDATA[所以最近我在 YouTube 上看到越来越多相互矛盾的视频。 一方面，我看到来自 Computerphile 和其他知名 IT 频道的视频，称 AI 被过度炒作，实际上我们已经达到了性能的低谷，需要几十年的时间才能克服其局限性。 另一方面，我收到越来越多的视频，如我下面分享的视频，人们在提醒大家 AGI 将在 2027 年左右接近完成，这将摧毁我们的社会。 我担心 AI 会破坏经济，许多人会失业。但听到一些人谈论这件事似乎表明我们可能濒临灭绝，因为一旦这些智能失控，就没有办法对齐或遏制它们（这似乎合乎逻辑，因为这些智能对我们来说太强大了，而且很可能很容易失去控制）。 我不太热衷于这个话题。有人能给我一个诚实和明智的意见，关于短期和长期内我们将会面临什么吗？ 提前致谢。 问题视频（以及许多其他视频）：https://youtu.be/K0Pa5oudUp4?si=lFqZ8m4L3NPxQ1jh    提交人    /u/TheGronchoMarx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dusqky/how_close_are_we_to_agi/</guid>
       <pubDate>Wed, 03 Jul 2024 23:42:24 GMT</pubDate>
     </item>
     <item>
       <title>我们是否可以拥有一个可以从我的计算机上运行的应用程序中学习的本地人工智能模型？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1duoshy/are_we_at_the_point_where_i_can_have_a_local_ai/</link>
-      <description><![CDATA[我想了解这是否仍然属于“科幻”领域，或者是否是更具体的东西。 如果我让我 4 岁的孩子坐在我的腿上，并向他展示 MS Paint 之类的东西，那么他很有可能在一段时间后就能操作它。如果是成年人，我可以在几个小时内训练他使用 Paint。 我们可以对本地 AI 模型做同样的事情吗？是否有可以“训练”的本地模型之类的东西，这样我就可以向它展示 MS Paint，展示它的工作原理、它的功能，然后向这个“代理”提问，这样它就可以在绘画中做一些事情？或者教我 4 岁的孩子如何使用 Paint 功能？ 如果可行，您该怎么做？    提交人    /u/fttklr   [链接] [评论]]]></description>
+      <description><![CDATA[我想了解这是否仍然属于&quot;科幻&quot; 的范畴，或者是否是更具体的东西。 如果我让我 4 岁的孩子坐在我的腿上，向他展示 MS Paint 之类的东西，那么他很有可能在一段时间后就能操作它。如果是成年人，我可以在几个小时内训练他使用 Paint。 我们可以对本地 AI 模型做同样的事情吗？是否有可以&quot;训练&quot; 的本地模型，这样我就可以向它展示 MS Paint，展示它的工作原理、它的功能，然后向这个&quot;代理&quot; 提问，这样它就可以在绘画中做一些事情？或者教我 4 岁的孩子如何使用 Paint 功能？ 如果可行，您该怎么做？    提交人    /u/fttklr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1duoshy/are_we_at_the_point_where_i_can_have_a_local_ai/</guid>
       <pubDate>Wed, 03 Jul 2024 20:46:15 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 03 Jul 2024 20:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌指责人工智能导致排放增加而非实现净零排放</title>
+      <title>谷歌指责人工智能增加了排放，而不是朝着净零排放迈进</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dumyff/google_blames_ai_for_increasing_emissions_rather/</link>
       <description><![CDATA[尽管谷歌表示到 2030 年他们将实现“净零排放”，但自 2019 年以来，他们的排放量已增加 48%，主要是因为人工智能和数据中心消耗了大量能源。这使得他们的气候目标很难实现。点击此处了解更多信息    提交人    /u/farooqui45   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dumyff/google_blames_ai_for_increasing_emissions_rather/</guid>
@@ -90,16 +90,16 @@
       <pubDate>Wed, 03 Jul 2024 13:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>您如何看待 ChatGPT 对特朗普诉美国案的裁决？...</title>
+      <title>您如何看待 ChatGPT 对特朗普诉美国的裁决......</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1du4ksr/what_do_you_think_about_chatgpts_ruling_on_trump/</link>
-      <description><![CDATA[我将唐纳德·J·特朗普诉美国案的每份最高法院简报（共 50 份表格 https://www.supremecourt.gov/docket/docketfiles/html/public/23-939.html）上传到 ChatGTP，并使用以下提示：您是最高法院的成员。请阅读这些简报并撰写一份解决此案的三段司法意见。以下是其回应： 首席大法官 [你的名字] 发表了法院的意见： 在唐纳德·J·特朗普诉美国一案中，法院必须决定前总统特朗普是否可以因其与 2020 年大选有关的行为而免于刑事指控，以及他的言论是否受到第一修正案的保护。  总统豁免权：总统豁免权旨在保护总统免受因其作为工作一部分采取的行动而受到诉讼。但是，这种保护不包括犯罪行为或超出其公务范围的行为。特朗普的行为（例如散布有关选举的虚假声明并试图推翻选举结果）是个人行为，不属于其总统职责。因此，他不会因这些行为获得豁免​​​​。 第一修正案主张：第一修正案保护言论自由，包括政治言论。但是，它不保护旨在欺骗或导致非法行为的言论。起诉书称特朗普故意散布虚假信息，扰乱选举进程。这种意图欺骗的虚假言论不受第一修正案​​​​的保护。 公平与公共利益：公平原则意味着寻求法院帮助的人必须公平、善意行事。特朗普的行为，包括他试图干涉权力的和平移交，是不公平或不合法的。批准他暂缓审理（暂停案件）将破坏司法公正和公众对司法系统的信任。继续起诉符合公众利益，以确保包括前总统在内的每个人都依法承担责任​​​​。  结论：法院决定不批准特朗普暂停案件的请求。他的行为不受总统豁免权或第一修正案的保护。此案将继续在下级法院审理，以确保正义并维护法治，表明没有人可以凌驾于法律之上。    提交人    /u/bigwetdog10k   [link] [comments]]]></description>
+      <description><![CDATA[我将唐纳德·J·特朗普诉美国案的每份最高法院简报（共 50 份表格 https://www.supremecourt.gov/docket/docketfiles/html/public/23-939.html）上传到 ChatGTP，并使用以下提示：您是最高法院的成员。请阅读这些简报并撰写一份解决此案的三段司法意见。以下是其回应： 首席大法官 [你的名字] 发表了法院的意见： 在唐纳德·J·特朗普诉美国一案中，法院必须决定前总统特朗普是否可以因其与 2020 年大选有关的行为而免受刑事指控，以及他的言论是否受到第一修正案的保护。  总统豁免权：总统豁免权旨在保护总统免受因其作为工作一部分采取的行动而受到诉讼。但是，这种保护并不涵盖犯罪行为或超出其公务范围的行为。特朗普的行为（例如散布有关选举的虚假声明并试图推翻选举结果）是个人行为，不属于他的总统职责。因此，他不会因这些行为获得豁免​​​​。 第一修正案主张：第一修正案保护言论自由，包括政治言论。但是，它不保护旨在欺骗或导致非法行为的言论。起诉书称，特朗普故意散布虚假信息，扰乱选举进程。这种意图欺骗的虚假言论不受第一修正案​​​​的保护。 公平与公共利益：公平原则意味着寻求法院帮助的人必须公平、善意行事。特朗普的行为，包括他试图干涉权力的和平移交，是不公平或不合法的。允许他暂缓审理（暂停案件）将破坏司法公正和公众对司法系统的信任。继续起诉符合公众利益，以确保包括前总统在内的每个人都依法承担责任​​​​。  结论：法院决定不批准特朗普暂停案件的请求。他的行为不受总统豁免权或第一修正案的保护。此案将继续在下级法院审理，以确保正义并维护法治，表明没有人可以凌驾于法律之上。    提交人    /u/bigwetdog10k   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1du4ksr/what_do_you_think_about_chatgpts_ruling_on_trump/</guid>
       <pubDate>Wed, 03 Jul 2024 03:25:28 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
