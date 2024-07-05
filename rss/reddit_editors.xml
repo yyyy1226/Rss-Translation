@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 15:21:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 18:26:43 GMT</lastBuildDate>
     <item>
       <title>Silverstack - 转码</title>
       <link>https://www.reddit.com/r/editors/comments/1dvwjt3/silverstack_transcoding/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>故意创建重叠字幕</title>
       <link>https://www.reddit.com/r/editors/comments/1dve0ie/creating_overlapping_subtitles_on_purpose/</link>
-      <description><![CDATA[各位编辑，大家好， 抱歉，这个问题太过菜鸟，虽然我有编辑经验，但我最近才开始编辑字幕，有些技术上的疑问。 我的问题如下：如何创建包含两个字幕轨道的字幕文件？我知道 srt 文件不可能做到这一点，我认为必须是图形字幕。 基本上，我试图创建的是顶部和底部的字幕，它们有时会重叠。 谢谢！！    提交人    /u/deadmemorywaste   [链接] [评论]]]></description>
+      <description><![CDATA[各位编辑，大家好， 抱歉，这个问题太过菜鸟，虽然我有编辑经验，但最近才开始编辑字幕，有些技术上的疑问。 我的问题如下：如何创建包含两个字幕轨道的字幕文件？我知道 srt 文件不可能做到这一点，我认为必须是图形字幕。 基本上，我试图创建的是顶部和底部的字幕，它们有时会重叠。 谢谢！！ 编辑：我已设法使用 SubtitleEdit 解决这个问题，并将字幕编辑为 .ssa 或 .ass。谢谢您的回答！    提交人    /u/deadmemorywaste   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dve0ie/creating_overlapping_subtitles_on_purpose/</guid>
       <pubDate>Thu, 04 Jul 2024 18:37:49 GMT</pubDate>
     </item>
