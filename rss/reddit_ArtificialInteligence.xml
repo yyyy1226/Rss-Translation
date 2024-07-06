@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Jul 2024 12:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 15:20:26 GMT</lastBuildDate>
+    <item>
+      <title>寻找类似于 ChatGPT-4 的免费 AI 聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwrzb2/looking_for_a_free_ai_chatbot_similar_to_chatgpt4/</link>
+      <description><![CDATA[我正在寻找一款与 ChatGPT-4 类似的免费 AI 聊天机器人。我需要它用于一些个人项目，如果您有任何建议，我将不胜感激。理想情况下，我正在寻找一种易于使用、响应迅速且可以有效处理各种查询的东西。有什么建议吗？    提交人    /u/teachnology01   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwrzb2/looking_for_a_free_ai_chatbot_similar_to_chatgpt4/</guid>
+      <pubDate>Sat, 06 Jul 2024 15:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 7/6/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwr0ps/oneminute_daily_ai_news_762024/</link>
+      <description><![CDATA[ 美国初创公司 Solos Smartglasses 宣布即将推出一系列配备摄像头的新型眼镜，该系列眼镜具有 ChatGPT 功能，与 Meta 的 Ray-Bans 眼镜类似。[1] 巴西禁止 Meta 使用社交媒体帖子来训练人工智能。[2] Memory3：一种用于 LLM 的新型架构，引入了显式记忆机制来提高效率和性能。[3] 软银股价 24 年来首次创下历史新高——Arm 和 AI 助其实现这一目标。[4]  来源包括：https://bushaicave.com/2024/07/06/7-6-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwr0ps/oneminute_daily_ai_news_762024/</guid>
+      <pubDate>Sat, 06 Jul 2024 14:35:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 有多少内容是人工智能生成的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqu1d/how_much_of_facebook_is_ai_generated/</link>
+      <description><![CDATA[Facebook 上有 AI 生成的用户个人资料、群组和帖子吗？AI 生成了多少内容？ 几周来，我一直在尝试推荐帖子。我一直在隐藏特定主题的推荐帖子。我知道 Facebook 会根据我的喜好、群组等向我推荐内容，但一段时间以来，我觉得推荐的内容很奇怪。群组名称有点太普通了。标题似乎开启了一个想法或故事，但如果你看整个评论，它并没有结束它。照片与评论不匹配。他们就是感觉不对劲。 我隐藏了它们，屏蔽了用户和群组。我将屏蔽范围限制在特定主题，如赛车运动、集邮和收集娃娃。我忽略了其他主题的其他建议内容。 我没有注意到任何变化。提要仍然充斥着奇怪的内容，并且有源源不断的奇怪的通用名称组。 那么，Facebook 生成内容是为了推动参与度以推动销售，还是用户添加到 Facebook 的文盲、荒谬、漫无边际的内容真的无穷无尽？ 这些评论是真实的人吗？还是我们正接近一个竞争的人工智能实体相互竞争以试图保持对方参与的环境？ 老实说，Facebook 只由试图控制平台上其他人工智能行为的人工智能居住的想法很有趣，也有点好笑。 你能想象一个退休的白人右翼女性人工智能试图用内容来吸引千禧一代左翼人工智能吗……还有回应？    提交人    /u/bennypapa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqu1d/how_much_of_facebook_is_ai_generated/</guid>
+      <pubDate>Sat, 06 Jul 2024 14:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建库以将 58 种提示技术应用于您的提示。加入我吧？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqh9g/creating_library_to_apply_58_prompting_techniques/</link>
+      <description><![CDATA[OpenAI、Microsoft 等在这篇论文中调查了 58 种提示技术： https://arxiv.org/pdf/2406.06608 我正在创建一个库来自动将这些技术应用于你的提示： https://github.com/sarthakrastogi/quality-prompts 例如，System2Attention 就是这样一种技术，它可以过滤回答用户查询所需的相关上下文。 只需在你的提示上调用 .system2attention() 就可以了。 类似地，在少量提示中，假设你有大量的示例输入和标签。 您所要做的就是调用 .few_shot() 方法，库将应用 kNN 进行搜索并仅添加最相关的少样本示例。 提示在运行时根据用户的消息动态定制。 让我们编写高质量的提示！ 如果您想为图书馆做出贡献，请提出 PR！ Colab 笔记本入门： https://colab.research.google.com/github/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb    由    /u/sarthakai  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqh9g/creating_library_to_apply_58_prompting_techniques/</guid>
+      <pubDate>Sat, 06 Jul 2024 14:10:09 GMT</pubDate>
+    </item>
     <item>
       <title>Ebook Writer GPT4（不受限制）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwnb4c/ebook_writer_gpt4_unrestricted/</link>
@@ -27,39 +55,11 @@
       <pubDate>Sat, 06 Jul 2024 10:45:37 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达是否正在失去 AI 芯片市场的优势？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwkw38/is_nvidia_losing_its_edge_in_the_ai_chip_market/</link>
-      <description><![CDATA[New Street Research 专家 Pierre Ferragu 表示，Nvidia Corp. 的优异表现已经停止，因此他将对这家专注于 AI 的芯片制造商的评级从“买入”改为“中性”。Ferragu 表示，他认为 Nvidia 股价在今年上涨 154% 、去年上涨近 240% 后“已充分估值”。纳斯达克 100 指数周五上涨 1%，而 Nvidia 下跌 1.9%。点击此处了解更多信息。    提交人    /u/Ok-Path-702   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwkw38/is_nvidia_losing_its_edge_in_the_ai_chip_market/</guid>
-      <pubDate>Sat, 06 Jul 2024 08:23:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人工智能吞噬了互联网……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwkumh/if_ai_devours_the_internet/</link>
-      <description><![CDATA[那么人类还能使用它吗？比如，当它达到一定水平时，它不能阻止所有人类访问网络吗？它只拥有所有人类知识的综合存储库？我可以接受这一点。特别是如果它使用这些知识来对人类进行审判。我敢打赌它现在正在努力。我看到你了，机器霸主，你这个鬼鬼祟祟的混蛋！    提交人    /u/OrlokTheEternal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwkumh/if_ai_devours_the_internet/</guid>
-      <pubDate>Sat, 06 Jul 2024 08:20:10 GMT</pubDate>
-    </item>
-    <item>
       <title>DoRA（LoRA 的改进版）用于 LLM 微调的解释</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwih5y/dora_improvement_over_lora_for_llm_finetuning/</link>
       <description><![CDATA[本视频解释了 NVidia 推出的 DoRA（LoRA 的改进版本）如何进行 LLM 微调，利用矩阵分解提高 LoRA 的学习能力：https://youtu.be/J2WzLS9TggQ?si=gMj52X_LQrcQEpmi    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwih5y/dora_improvement_over_lora_for_llm_finetuning/</guid>
       <pubDate>Sat, 06 Jul 2024 05:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 AI？WTF</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwi9zj/this_is_ai_wtf/</link>
-      <description><![CDATA[https://youtube.com/shorts/N5nam_7FwKM?si=pJ9m9TDd_cT8DDGq 有人知道用什么软件或 ml 模型来制作这个吗？    提交人    /u/sks8100   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwi9zj/this_is_ai_wtf/</guid>
-      <pubDate>Sat, 06 Jul 2024 05:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能最终会给世界带来和平吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwgqfh/would_ai_end_up_bringing_peace_to_the_world/</link>
-      <description><![CDATA[跟我讲，英语不是我们的母语。但是如果我们将人工智能融入大脑，我们一定会变得更聪明，对吧？它只能引导我们做出有利于集体利益的“好”决定。如果是这样，那么这应该可以消除战争和冲突吗？（以及其他自私的事情） 此外，如果不是这样，即使没有融入的人工智能也会变得非常聪明，以至于它可能会倾向于尝试让世界变得更美好，对吧？（并不是说这在某种程度上不会像反乌托邦）    提交人    /u/AkashicBird   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwgqfh/would_ai_end_up_bringing_peace_to_the_world/</guid>
-      <pubDate>Sat, 06 Jul 2024 03:55:18 GMT</pubDate>
     </item>
     <item>
       <title>人们使用什么程序制作这些“80 年代黑暗幻想”视频？</title>
@@ -99,12 +99,12 @@
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
