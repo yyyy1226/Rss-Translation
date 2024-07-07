@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 07 Jul 2024 06:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 09:22:14 GMT</lastBuildDate>
+    <item>
+      <title>如何正确开始开源？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dxcecu/how_to_start_with_open_source_properly/</link>
+      <description><![CDATA[大家好，我开始认真接触开源。不想做简单的行更改或更改注释并提出拉取请求，但真的想做出贡献。我的开源编程技能处于 0 级，但在大学生活中编程很少。我熟悉 github 的概念，但从未真正深入其中。我已经使用 Linux 作为我的日常驱动程序很长一段时间了，对它相当熟悉。我应该如何提升我的技能？    提交人    /u/1150-Laxh-0722   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dxcecu/how_to_start_with_open_source_properly/</guid>
+      <pubDate>Sun, 07 Jul 2024 09:14:08 GMT</pubDate>
+    </item>
     <item>
       <title>Droid-在您的项目目录中开源 AI 编码自动化。</title>
       <link>https://www.reddit.com/r/opensource/comments/1dx88np/droid_open_source_ai_coding_automation_right_in/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在使用 caddy，并对它在后台自动 ssl 方面的出色表现感到惊讶。直到我意识到我无法将我的配置拆分成多个文件。 因此我去了 nginx-unit。并且有很多的乐趣，但是配置文件是原始的深层 json 对象，对于简单的东西来说太不友好了。 介绍Jucenit的最佳点。 简单的语法，自动 ssl 和 scaterd 配置文件。 ```toml jucenit.toml [[unit]] uuid = &quot;55df967c-1db3-4bef-871e-b414196be17f&quot; listeners = [&quot;*:443&quot;] [unit.match] hosts = [&quot;example.com&quot;] [unit.action] proxy = &quot;http://127.0.0.1:8888&quot; ``` 我现在可以将 Web 服务器配置存储在网站存储库本身内并使用 sh jucenit push my_config.toml  推送它   提交人    /u/poulain_ght   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dw5mi0/a_sweet_web_server/</guid>
       <pubDate>Fri, 05 Jul 2024 19:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有更大的社区？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dw133m/is_there_a_community_bigger/</link>
-      <description><![CDATA[比这个更大？在 reddit 之外，我的意思是，我有一个项目在脑海中（针对视障人士）    由   提交  /u/LeBlindGuy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dw133m/is_there_a_community_bigger/</guid>
-      <pubDate>Fri, 05 Jul 2024 15:47:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
