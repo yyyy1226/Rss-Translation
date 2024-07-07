@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 07 Jul 2024 12:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 18:25:07 GMT</lastBuildDate>
+    <item>
+      <title>PostgreSQL 和 UUID 作为主键</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxn5z9/postgresql_and_uuid_as_primary_key/</link>
+      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxn5z9/postgresql_and_uuid_as_primary_key/</guid>
+      <pubDate>Sun, 07 Jul 2024 18:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chunkit：将 URL 转换为适合你的 RAG 项目的 LLM 友好型 markdown 块</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxn3wb/chunkit_convert_urls_into_llmfriendly_markdown/</link>
+      <description><![CDATA[  由    /u/Findep18  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxn3wb/chunkit_convert_urls_into_llmfriendly_markdown/</guid>
+      <pubDate>Sun, 07 Jul 2024 18:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Spring Boot 的六边形架构 | 使用 Arho 进行编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxmy67/hexagonal_architecture_with_spring_boot_code_with/</link>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxmy67/hexagonal_architecture_with_spring_boot_code_with/</guid>
+      <pubDate>Sun, 07 Jul 2024 18:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed Editor 无需用户同意即可自动从互联网下载二进制文件和 NPM 包</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/</link>
+      <description><![CDATA[  由    /u/imbev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/</guid>
+      <pubDate>Sun, 07 Jul 2024 18:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>方便的 Python 脚本让你的生活更安全、更轻松、更快乐</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxj4uu/handy_python_scripts_that_made_your_life_securer/</link>
+      <description><![CDATA[  由    /u/yangzhou1993  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxj4uu/handy_python_scripts_that_made_your_life_securer/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要使用洋葱分层？</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/</link>
+      <description><![CDATA[  由   提交  /u/OutsidePosition4250   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何以及为何获得 AWS Solutions Architect Associate 认证？准备 AWS Solutions Architect Associate 考试的分步指南。</title>
+      <link>https://www.reddit.com/r/programming/comments/1dxgyrv/how_and_why_did_i_get_certified_as_an_aws/</link>
+      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dxgyrv/how_and_why_did_i_get_certified_as_an_aws/</guid>
+      <pubDate>Sun, 07 Jul 2024 13:50:01 GMT</pubDate>
+    </item>
     <item>
       <title>革命性的用户界面：我对统一聊天驱动 (UCD) 体验的愿景</title>
       <link>https://www.reddit.com/r/programming/comments/1dxf7so/revolutionizing_user_interfaces_my_vision_for_a/</link>
@@ -20,13 +69,6 @@
       <pubDate>Sun, 07 Jul 2024 11:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个可以绕过验证码的 Tiktok View Booster！</title>
-      <link>https://www.reddit.com/r/programming/comments/1dxee3u/i_made_a_tiktok_view_booster_with_captcha_bypass/</link>
-      <description><![CDATA[  由    /u/Gh_Sn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dxee3u/i_made_a_tiktok_view_booster_with_captcha_bypass/</guid>
-      <pubDate>Sun, 07 Jul 2024 11:29:30 GMT</pubDate>
-    </item>
-    <item>
       <title>如何知道你已成为高级程序员</title>
       <link>https://www.reddit.com/r/programming/comments/1dxe7ij/how_to_know_youve_become_a_senior_programmer/</link>
       <description><![CDATA[  由    /u/junkam  提交  [链接] [评论]]]></description>
@@ -39,13 +81,6 @@
       <description><![CDATA[  由    /u/wannabearoboticist  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dxdo2d/i_made_a_computational_string_art_generation/</guid>
       <pubDate>Sun, 07 Jul 2024 10:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>高薪科技工作的时代已经结束</title>
-      <link>https://www.reddit.com/r/programming/comments/1dxbgjc/the_era_of_highpaying_tech_jobs_is_over/</link>
-      <description><![CDATA[  由    /u/PolyglotReader  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dxbgjc/the_era_of_highpaying_tech_jobs_is_over/</guid>
-      <pubDate>Sun, 07 Jul 2024 08:09:11 GMT</pubDate>
     </item>
     <item>
       <title>使用 D3.js 和 Plotly 的高级数据可视化技术</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/Sad-Piccolo-161  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dwy0z2/2sat_solver_3sat_layers_analyser/</guid>
       <pubDate>Sat, 06 Jul 2024 19:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复虚幻引擎（5.3+）项目的代码签名和公证问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1dwxi7x/fixing_the_code_signing_and_notarization_issues/</link>
-      <description><![CDATA[  由    /u/pgaleone  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dwxi7x/fixing_the_code_signing_and_notarization_issues/</guid>
-      <pubDate>Sat, 06 Jul 2024 19:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>将你的 GitHub 贡献变成俄罗斯方块 GIF！🎮</title>
-      <link>https://www.reddit.com/r/programming/comments/1dwx6cz/turn_your_github_contributions_into_a_tetris_gif/</link>
-      <description><![CDATA[  由    /u/debba_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dwx6cz/turn_your_github_contributions_into_a_tetris_gif/</guid>
-      <pubDate>Sat, 06 Jul 2024 19:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于编程的播客</title>
-      <link>https://www.reddit.com/r/programming/comments/1dwvezp/podcasts_about_programming/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dwvezp/podcasts_about_programming/</guid>
-      <pubDate>Sat, 06 Jul 2024 17:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的编码标准应该高度主观，而不是你的开发人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1dwuukq/your_coding_standards_should_be_highly/</link>
-      <description><![CDATA[  由    /u/vehiclestars  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dwuukq/your_coding_standards_should_be_highly/</guid>
-      <pubDate>Sat, 06 Jul 2024 17:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 和 Flask 创建一个简单的 Pastebin 服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1dwte59/creating_a_simple_pastebin_service_in_python_and/</link>
-      <description><![CDATA[  由    /u/mraza007  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dwte59/creating_a_simple_pastebin_service_in_python_and/</guid>
-      <pubDate>Sat, 06 Jul 2024 16:23:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
