@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Jul 2024 06:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 09:23:21 GMT</lastBuildDate>
+    <item>
+      <title>如何估算某个功能的开发工作量？寻求建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dy207h/how_to_estimate_the_development_effort_for_a/</link>
+      <description><![CDATA[大家好！我是一名 Web 开发人员，希望能够更好地估算新功能的开发工作量。当我们收到新功能请求时，准确估算所需的时间和工作量可能具有挑战性。 我很好奇你们如何处理这项任务。你们使用什么方法或工具来确保你们的估算尽可能准确？此外，你们如何避免低估或高估所涉及的工作量？ 我很想听听你们的策略和任何你们想分享的建议。提前感谢你们的帮助！    提交人    /u/Dushusir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dy207h/how_to_estimate_the_development_effort_for_a/</guid>
+      <pubDate>Mon, 08 Jul 2024 06:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>当人们说 Svelte 不具备 React 所具有的所有出色库时，通常会忽略哪些库？（菜鸟在这里）</title>
       <link>https://www.reddit.com/r/webdev/comments/1dy1yr8/when_people_say_svelte_doesnt_have_all_of_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/vezaynk   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dxs7f4/learn_suspense_by_building_a_suspenseenabled/</guid>
       <pubDate>Sun, 07 Jul 2024 21:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>单击“提交”时出现此错误“ TypeError：无法读取未定义的属性（读取‘filename’）”，并且上传的图像未保存。有什么提示我做错了什么吗？提前谢谢♥</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dxr9to/i_am_getting_this_error_when_clicking_on_submit/</link>
-      <description><![CDATA[        由    /u/titoubouba  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dxr9to/i_am_getting_this_error_when_clicking_on_submit/</guid>
-      <pubDate>Sun, 07 Jul 2024 21:19:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
