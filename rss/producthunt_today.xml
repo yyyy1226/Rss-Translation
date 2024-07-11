@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Jul 2024 01:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 03:25:30 GMT</lastBuildDate>
     <item>
       <title>弗兰兹艾</title>
       <link>https://www.producthunt.com/posts/franzai</link>
@@ -174,20 +174,6 @@
       <pubDate>Wed, 03 Jul 2024 14:56:32 GMT</pubDate>
     </item>
     <item>
-      <title>剪辑</title>
-      <link>https://www.producthunt.com/posts/klipy</link>
-      <description><![CDATA[
-AI 驱动的 CRM，从初次使用到不断更新
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/klipy</guid>
-      <pubDate>Tue, 02 Jul 2024 04:51:16 GMT</pubDate>
-    </item>
-    <item>
       <title>橡皮筋</title>
       <link>https://www.producthunt.com/posts/rubbrband</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@ AI 驱动的 CRM，从初次使用到不断更新
 ]]></description>
       <guid>https://www.producthunt.com/posts/streamalive-app-for-zoom</guid>
       <pubDate>Thu, 27 Jun 2024 14:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>日语：汉字更新</title>
+      <link>https://www.producthunt.com/posts/nihongo-the-kanji-update</link>
+      <description><![CDATA[
+了解构成每个汉字的元素
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/nihongo-the-kanji-update</guid>
+      <pubDate>Tue, 25 Jun 2024 01:10:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
