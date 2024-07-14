@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 13 Jul 2024 21:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 01:39:50 GMT</lastBuildDate>
+    <item>
+      <title>[2013] stderr 的诞生</title>
+      <link>https://www.reddit.com/r/programming/comments/1e2qcq4/2013_the_birth_of_stderr/</link>
+      <description><![CDATA[  由    /u/BrewedDoritos  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e2qcq4/2013_the_birth_of_stderr/</guid>
+      <pubDate>Sun, 14 Jul 2024 01:30:40 GMT</pubDate>
+    </item>
     <item>
       <title>复活一款失败的 Dune RTS 游戏</title>
       <link>https://www.reddit.com/r/programming/comments/1e2hyqr/resurrecting_a_dead_dune_rts_game/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Man-vith  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e23uj3/screen_recorder_with_intuitive_gui_using_python/</guid>
       <pubDate>Sat, 13 Jul 2024 06:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>最优化的排序算法是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1e22rtj/what_is_the_most_optimized_sorting_algorithm/</link>
-      <description><![CDATA[  由    /u/TheTHKjud  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e22rtj/what_is_the_most_optimized_sorting_algorithm/</guid>
-      <pubDate>Sat, 13 Jul 2024 05:32:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
