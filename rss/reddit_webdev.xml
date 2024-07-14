@@ -4,9 +4,37 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 14 Jul 2024 03:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 06:30:21 GMT</lastBuildDate>
     <item>
-      <title>我建立了一个网站，在上面写教程、指南等......</title>
+      <title>尝试在虚拟机上的服务器上设置 websocket</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2vh33/trying_to_set_up_websockets_on_my_server_on_vm/</link>
+      <description><![CDATA[因此，我尝试使用 websockets 与后端通信。由于我在本地使用 ws 而不是 wss，因此一切都在本地运行。 问题是，当我尝试使用 wss 连接到后端时，它只是没有连接，甚至没有记录任何内容。 我使用 ngnix 将请求转发到我的节点服务器。我已将其配置为通过 http 与服务器通信，然后在消息到达或来自客户端时对其进行加密。 这是 nginx 配置： ``` server { listen 80; listen 443 ssl; server_name trymeddy.com www.trymeddy.com; root /home/meddy/web-frontend/dist; index index.html;位置 / { try_files $uri $uri/ /index.html; } 位置 /api/ { proxy_pass http://127.0.0.1:8000; proxy_http_version 1.1; proxy_set_header 升级 $http_upgrade; proxy_set_header 连接“升级”; proxy_set_header 主机 $host; proxy_cache_bypass $http_upgrade; proxy_set_header X-Real-IP $remote_addr; proxy_buffering 关闭; proxy_cache 关闭; proxy_read_timeout 86400s; proxy_send_timeout 86400s; keepalive_timeout 86400s; } ssl_certificate /etc/letsencrypt/live/www.trymeddy.com/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.trymeddy.com/privkey.pem;包括 /etc/letsencrypt/options-ssl-nginx.conf; ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; 如果 ($scheme = http) { 返回 301 https://$host$request_uri; }  } ``` 有什么想法为什么 wss 请求会失败？    提交人    /u/qstart   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2vh33/trying_to_set_up_websockets_on_my_server_on_vm/</guid>
+      <pubDate>Sun, 14 Jul 2024 06:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚制作了我的第一个 Npm 包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2u7a4/i_just_made_my_first_npm_package/</link>
+      <description><![CDATA[我刚刚制作了我的第一个 npm 包！我想与您分享我的经验并征求您的反馈。 TLDR：我的包名为 universal-fs  我启动这个项目是因为我需要在没有节点的环境中访问 Node 文件系统。我找不到好的解决方案，所以我制作了 universal-fs。任何环境中 Node fs 的 polyfill。 现在我必须构建项目。我做出了以下技术堆栈选择：  typescript rollup express  我面临的一些挑战是 pollyfilling 几种 Nodejs 类型，它们在各个文件中紧密相连。创建中继服务器并安全地转发开放端口。 我正在寻找有关此库的下一个主要版本的反馈和建议。    提交人    /u/tech_w0rld   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2u7a4/i_just_made_my_first_npm_package/</guid>
+      <pubDate>Sun, 14 Jul 2024 05:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>高中水平？真的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ts1k/highschool_grade_really/</link>
+      <description><![CDATA[        提交人    /u/Beginning-Roof4889   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ts1k/highschool_grade_really/</guid>
+      <pubDate>Sun, 14 Jul 2024 04:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>MongoDB 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e2ss44/mongodb_error/</link>
+      <description><![CDATA[      终端  index.js 显示状态错误 大家好，我已经遇到这个问题/错误好几个小时了，无法修复。有人能帮我吗，或者知道在哪里可以找到解决方案。任何帮助都非常感谢！谢谢！ https://preview.redd.it/dij4o2qq0fcd1.png?width=1291&amp;format=png&amp;auto=webp&amp;s=b3a204c9e69cb09814d02c489b4d233a26089646 编辑：我已经解决了，伙计们！！我要做的就是将我的 DNS 更改为谷歌的！     由    /u/Unicorn_fartzz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e2ss44/mongodb_error/</guid>
+      <pubDate>Sun, 14 Jul 2024 03:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，在那里我写教程、指南等......</title>
       <link>https://www.reddit.com/r/webdev/comments/1e2sea4/i_made_a_website_where_i_write_tutorials_guides/</link>
       <description><![CDATA[        提交人    /u/felipeizo   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e2sea4/i_made_a_website_where_i_write_tutorials_guides/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[正如标题所述。典型的步骤是什么？    提交人    /u/rickybasses   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e2owgt/how_does_one_learn_to_develop_his_own_search/</guid>
       <pubDate>Sun, 14 Jul 2024 00:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助在 firebase 和 mysql 之间做出选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2opc0/help_deciding_between_firebase_and_mysql/</link>
-      <description><![CDATA[我正在为一家餐馆建立一个大学项目，但他们现在规模很小。它基本上是一个发票/库存系统，允许他们按月、年查看财务记录。问题是，我不确定是否使用 firebase 或 mysql，因为 firebase 是无服务器的，而且我听说过有关扩展的恐怖故事。  该项目是免费的，因为大学是个笑话。     提交人    /u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2opc0/help_deciding_between_firebase_and_mysql/</guid>
-      <pubDate>Sun, 14 Jul 2024 00:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人使用 Google Forms ID/Payload 以编程方式提交表单吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2olxt/anyone_else_using_the_google_forms_idpayload_to/</link>
-      <description><![CDATA[我刚刚发现这一点。这似乎是一种帮助客户端捕获表单数据并接收电子邮件的绝佳方式，而无需建立 DB 和 SendGrid 之类的东西。 有人发现这样做有什么问题吗？感觉就像一个魔术。    提交人    /u/engage_intellect   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2olxt/anyone_else_using_the_google_forms_idpayload_to/</guid>
-      <pubDate>Sun, 14 Jul 2024 00:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个用于比较通勤（公寓或酒店）的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2ojof/i_made_a_website_for_comparing_commutes_for/</link>
-      <description><![CDATA[        提交人    /u/MaulFuse   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2ojof/i_made_a_website_for_comparing_commutes_for/</guid>
-      <pubDate>Sat, 13 Jul 2024 23:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢网络开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e2nunk/i_love_web_development/</link>
-      <description><![CDATA[作为一名 Web 开发者，我感到非常自豪。这个领域有如此多的创新。很多很酷的事情正在发生。我并不是要打击那些从事移动、游戏等开发的兄弟姐妹们。我只是说，Web 的功能非常强大，而且随着时间的推移，它的功能只会比现在更强大，而且改进的速度会越来越快。每当我想象 5 年、10 年、20 年后 Web 会是什么样子时，我总是非常兴奋。    提交人    /u/sYfPxiq2sDlIltLc5ux1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e2nunk/i_love_web_development/</guid>
-      <pubDate>Sat, 13 Jul 2024 23:23:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
