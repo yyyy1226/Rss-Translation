@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 15 Jul 2024 03:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 06:31:38 GMT</lastBuildDate>
+    <item>
+      <title>我刚刚把自己上传到 GitHub</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e3m6bc/i_just_uploaded_myself_to_github/</link>
+      <description><![CDATA[https://github.com/0x77dev/dna 此存储库将来会包含更多内容，但目前，它包含一个带有我的 DNA 的简单文本文件。    提交人    /u/0x77dev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e3m6bc/i_just_uploaded_myself_to_github/</guid>
+      <pubDate>Mon, 15 Jul 2024 04:40:52 GMT</pubDate>
+    </item>
     <item>
       <title>新的图形预算规划器免费开源 Linux 应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1e3kv6x/new_graphical_budget_planner_free_and_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/PiyushXCoder   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e2xkp9/i_made_a_power_profile_indicator_which_works_on/</guid>
       <pubDate>Sun, 14 Jul 2024 08:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找个人评审委员会</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e2traq/looking_for_a_personal_review_board/</link>
-      <description><![CDATA[嗨，我和我的朋友们喜欢探索不同的餐厅，我们会记录我们喜欢的菜肴。现在一切都在我们的脑海中。当一个新人加入我们时，我想如果有一个包含所有详细信息的评论板会更容易。  有没有什么应用程序可以让我做到这一点？尽可能方便。比如添加项目和添加评论。一旦我们有了大量的评论，只需显示一个带有突出显示的板即可。     提交人    /u/Jayjoshi64   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e2traq/looking_for_a_personal_review_board/</guid>
-      <pubDate>Sun, 14 Jul 2024 04:39:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
