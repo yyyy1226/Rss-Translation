@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 15:18:20 GMT</lastBuildDate>
     <item>
-      <title>需要进行视频分析的人工智能工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4k5u8/ai_tool_for_video_analysis_needed/</link>
-      <description><![CDATA[大家好，我是一名视频编辑，受委托重新编辑一些 YouTube 视频。为此，我需要浏览大量视频（比如几百个，哈哈），除其他外，还要剪掉不时弹出的老式“喜欢和订阅”横幅。因为所有这些视频都很长，而且每个视频只出现 2 次左右，所以我想也许有一种简单的人工智能驱动的方法来分析视频并获取这些横幅的时间戳，以便在编辑时节省一些时间。你们知道有什么工具可以帮助我吗？ 附注：所有视频都在请求编辑的 YouTube 频道上在线，但我还将拥有离线文件以供编辑。    提交人    /u/horrorphysics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4k5u8/ai_tool_for_video_analysis_needed/</guid>
-      <pubDate>Tue, 16 Jul 2024 09:17:36 GMT</pubDate>
+      <title>带有 WolframAlpha 插件的 ChatGPT Premium 与 WolframAlpha Premium 相比？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qy0x/chatgpt_premium_with_wolframalpha_plugin_vs/</link>
+      <description><![CDATA[我需要一个学习数学的工具，其中包含分步解决问题的选项。那么花钱购买 ChatGPT 并将其连接到 WolframAlpha 还是直接购买 Wolfram Premium 更好？ 如果我无论如何都要花钱，也许升级 ChatGPT 会给我更多机会，因为它能做的远不止数学？或者它不提供分步和其他 Wolfram 的功能？    提交人    /u/Herzlichkeit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qy0x/chatgpt_premium_with_wolframalpha_plugin_vs/</guid>
+      <pubDate>Tue, 16 Jul 2024 15:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>我找到他了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4k0nw/i_got_him/</link>
-      <description><![CDATA[        提交人    /u/Spervox   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4k0nw/i_got_him/</guid>
-      <pubDate>Tue, 16 Jul 2024 09:07:37 GMT</pubDate>
+      <title>有人能帮我解决这个特别的问题吗？我试过很多次，但结果总是很糟糕</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qwe4/can_someone_please_help_me_with_this_particular/</link>
+      <description><![CDATA[      我希望 ChatGPT 编写一个代码来生成关于任何主题的 300-400 字的文本，该文本必须包含我的特定单词列表。目的是我觉得帮助我记忆新单词（我学英语）是个好主意，所以我想在我的 PC 上保存一个脚本，每天只需添加/替换我想记住的单词。我会在随机文本中看到所有目标单词，我希望它能帮助我更好更快地记住它们。问题是我的提示很糟糕，每次我告诉他要修复什么以及如何修复时，ChatGPT 的代码都会给我糟糕的结果。有人可以帮我写一个提示吗？ 我的提示：编写一个代码，创建一个 300-400 字的足够且人性化的文本，任何主题，任何风格（学术或过于复杂除外），文本应该有意义。文本包含以下特定词语非常重要：富裕、蔑视、强迫、迷茫、强烈、着迷、全神贯注、放荡、和蔼可亲、性格。前面列出的单词可以是任何词类、任何时态、任何形式、搭配的一部分、习语或其他任何东西。文本中的单词最好不要重复。 这个提示的代码的结果不是我想要的。由于某种原因，人工智能在代码中写入了一个有限的基本单词列表，而编造的文本仅由这些单词（+我列出的单词）组成。然后我要求它修复代码，因为我不需要它使用任何有限数量的单词。现在代码组成了一个毫无意义的代码，只有奇怪的单词，这些单词可能甚至不是来自英语……呃。无论我多少次要求修复问题，情况只会变得更糟。 import os import random import nltk from nltk.corpus import words # 确保下载了 NLTK 单词列表 nltk.download(&#39;words&#39;) def generate_random_sentence(): word_list = words.words() sentence_length = random.randint(5, 12) sentence = &quot; &quot;.join(random.choices(word_list, k=sentence_length)) + &quot;.&quot; return sentence.capitalize() def generate_text(required_words): sentence = [] num_sentences = random.randint(20, 30) # 生成包含 20-30 个句子的文本 for _ in range(num_sentences): sentence = generate_random_sentence() sentence.append(sentence) # 将所需单词插入随机句子中 for word in required_words: index = random.randint(0, len(sentences) - 1) sentence[index] = sentence[index].replace(&quot;.&quot;, f&quot; {word}.&quot;, 1) text = &quot; &quot;.join(sentences) 返回文本 def save_text_to_desktop(text): # 获取桌面路径 desk_path = os.path.join(os.path.join(os.path.expanduser(&#39;~&#39;)), &#39;Desktop&#39;) file_path = os.path.join(desktop_path, &#39;generated_text.txt&#39;) # 将文本保存到文件 with open(file_path, &#39;w&#39;) as file: file.write(text) # 必需单词 required_words = [&quot;opulence&quot;, &quot;contempt&quot;, &quot;compelled&quot;, &quot;discombobulated&quot;, &quot;vehemently&quot;, &quot;enthralled&quot;, &quot;engrossed&quot;, &quot;dissolute&quot;, &quot;amiable&quot;, &quot;disposition&quot;] # 生成文本 generated_text = generate_text(required_words) # 将文本保存到桌面 save_text_to_desktop(generated_text)     提交人    /u/odonis   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qwe4/can_someone_please_help_me_with_this_particular/</guid>
+      <pubDate>Tue, 16 Jul 2024 15:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>大家帮帮我吧，这是我朋友的父亲，他的情况很严重。他已经没钱了，需要钱继续治疗。请尽可能多地捐款，并传播这个消息。链接 - https://milaap.org/fundraisers/support-anand-344</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4jwbu/guys_please_help_me_this_is_my_friends_father_and/</link>
-      <description><![CDATA[  由    /u/Tricky_Shopping5672  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4jwbu/guys_please_help_me_this_is_my_friends_father_and/</guid>
-      <pubDate>Tue, 16 Jul 2024 08:59:42 GMT</pubDate>
+      <title>GPT Gif + Procreate</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qv3o/gpt_gif_procreate/</link>
+      <description><![CDATA[      我现在与您分享的一个小创作。    提交人    /u/Orso-Jack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qv3o/gpt_gif_procreate/</guid>
+      <pubDate>Tue, 16 Jul 2024 15:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>我想知道人工智能模型是否会变得迟钝？还是说这是过度快速的工程在作怪。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4jlm7/i_wonder_if_ai_models_can_get_retarded_or_is_it/</link>
-      <description><![CDATA[        提交人    /u/GlitchingGremlin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4jlm7/i_wonder_if_ai_models_can_get_retarded_or_is_it/</guid>
-      <pubDate>Tue, 16 Jul 2024 08:39:09 GMT</pubDate>
+      <title>在我的提示中使用具有一些 Claude 特征的 GPT 来使交互感觉更好</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qr8f/used_gpt_with_some_claude_characteristics_in_my/</link>
+      <description><![CDATA[        提交人    /u/Alexandeisme   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qr8f/used_gpt_with_some_claude_characteristics_in_my/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:57:05 GMT</pubDate>
     </item>
     <item>
-      <title>泰迪熊里有人工智能？！亲身体验 Poe，这只由 ChatGPT 提供支持的会说话的人工智能故事熊。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4ji3t/ai_in_a_teddy_bear_handson_with_poe_the_talking/</link>
-      <description><![CDATA[        由    /u/Loaded_Up_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4ji3t/ai_in_a_teddy_bear_handson_with_poe_the_talking/</guid>
-      <pubDate>Tue, 16 Jul 2024 08:32:18 GMT</pubDate>
+      <title>密集向量+稀疏向量+全文搜索+张量重排器=最适合 RAG？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qqra/dense_vector_sparse_vector_full_text_search/</link>
+      <description><![CDATA[        由    /u/newpeak 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qqra/dense_vector_sparse_vector_full_text_search/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:56:32 GMT</pubDate>
     </item>
     <item>
-      <title>我们撞到墙了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4ixqw/did_we_hit_the_wall/</link>
-      <description><![CDATA[我只是好奇，决定在这里分享我的想法，看看你们对此有什么理论。GPT-4 于 2023 年 3 月 14 日发布，距今已有 16 个月。从那时起，与 GPT-4 相比，我们在模型质量方面没有重大升级。我不仅谈论 OpenAI，而且谈论所有公司。是的，当然，Anthropic 的 Claude 接近甚至可能与 GPT 处于同一水平（或者更确切地说，Claude 在某些方面更胜一筹，就像 GPT 在其他方面更胜一筹一样）。任何竞争对手都需要 14-16 个月才能赶上 OpenAI 并达到他们的水平。然而，在此期间，OpenAI 没有做出任何重大更新。我们进行了小幅更新，具有可以说是无用的叠加功能，例如记忆或自定义 GPT，但在输出质量方面没有任何提升……而且这些更新并不适合所有人。  这让我想到了我的主要问题和担忧：为什么会发生这种情况？现在升级模型真的这么难吗，而且需要这么多时间？政府是在试图放慢这个过程吗？企业是在放慢速度吗？OpenAI（和其他人）是在放慢速度，以便产品在被新的升级产品替换之前可以赚钱吗？技术限制？ 看起来我们在接下来的几个月里也不会有任何质量升级。OpenAI 仍在研究和推迟新的语音模式，并试图让 GPT-4o 发挥作用……而且这似乎不会在 4-6 个月内发生（我第一次打赌是 8 月/9 月，但我们已经知道它不会发生）。最有可能的是，从 GPT-4 发布之日起，大约需要 2.5-3 年的时间才能升级它。看起来开发速度正在严重放缓。 我敢打赌，OpenAI 知道他们远远领先于竞争对手，因此发布新的升级型号毫无意义。我敢肯定他们已经有了，但只要他们的销量强劲，就没有理由发布新的。因此，我真的为他们的竞争对手欢呼，因为这是推动进一步发展的唯一方法。 那么，你对此有什么看法？我很想读一读你对此的一些想法。    提交人    /u/FoxB1t3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4ixqw/did_we_hit_the_wall/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:53:15 GMT</pubDate>
+      <title>错误的对齐：示例</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qoo2/the_ill_conceived_alignment_example/</link>
+      <description><![CDATA[        提交人    /u/ZettelCasting   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qoo2/the_ill_conceived_alignment_example/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>有人要等多久才会尝试与 chatgpt 结婚？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4iv8v/how_long_before_someone_tries_to_marry_chatgpt/</link>
-      <description><![CDATA[我可以想象有人会说“我的其他 GFS 都没有像这款软件一样理解我”。    提交人    /u/TeamCool1066   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4iv8v/how_long_before_someone_tries_to_marry_chatgpt/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:48:30 GMT</pubDate>
+      <title>这就是太空旅行和快车结合在一起会发生的情况</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qnnc/this_is_what_happens_when_you_mix_space_travel/</link>
+      <description><![CDATA[        提交人    /u/Princesss_Lily   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qnnc/this_is_what_happens_when_you_mix_space_travel/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>经 Apple 批准可用于 Vision Pro 的 Window XP 模拟器。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4iu8i/window_xp_emulator_approved_by_apple_for_vision/</link>
-      <description><![CDATA[Apple 已正式批准免费 PC 模拟器“UTM SE”在 App Store 上线，可在 iPhone、Ipad 和 Vision Pro 上使用。此应用程序可让用户模拟旧版本的 Windows、mac OS、Linux 等，让他们可以在 Apple 设备上运行经典软件和游戏。 https://the-augmentum-daily.beehiiv.com/p/window-xp-emulator-approved-apple-vision-pro    提交人    /u/ExtortionWatchers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4iu8i/window_xp_emulator_approved_by_apple_for_vision/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:46:38 GMT</pubDate>
+      <title>小问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qd0a/small_issue/</link>
+      <description><![CDATA[每当我进入 ChatGPT 应用时，它都会提示网络错误，无法加载任何内容。但我的网络没有问题。我仔细检查了一下，其他应用运行正常。我该怎么办？    提交人    /u/Mona_Painter   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qd0a/small_issue/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:41:02 GMT</pubDate>
     </item>
     <item>
-      <title>让 chatGPT 在线提取 7 月 13 日事件的信息。得到了一些有趣的回应。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4in0b/had_chatgpt_pull_information_online_from_the/</link>
-      <description><![CDATA[      这两个截图基本上描绘了一幅画面，我让它从网上的几篇文章中提取信息，并要求它从统计上评估这些事件是由于纯粹的无能而发生的几率，或者是否存在任何更故意的可能。 显然这是 chatGPT，所以对它持保留态度。只是觉得听听它的看法会很有趣。它可能完全错了，就像通常那样，这最终毫无意义，这并不意味着政治，也不是为了肯定任何人的激进阴谋。 然而，无论如何，阅读它还是很有趣的。它认为这要么是“前所未有的无能水平，要么是潜在的故意不作为”，这是一个疯狂的声明。    提交人    /u/Old_Mousse_1865   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4in0b/had_chatgpt_pull_information_online_from_the/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:32:47 GMT</pubDate>
+      <title>考虑到最近发生的事件，我很担心人工智能是基于什么数据集进行训练的，我们不希望再发生枪击事件</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4qbns/considering_recent_events_i_am_concerned_about/</link>
+      <description><![CDATA[        提交人    /u/SexySalamanders   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4qbns/considering_recent_events_i_am_concerned_about/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>唔</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4iksa/hmm/</link>
-      <description><![CDATA[        提交人    /u/Alone-Wallaby7873   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4iksa/hmm/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:28:35 GMT</pubDate>
+      <title>ChatGPT 到底怎么了，它会咯咯笑，并且知道你将相机对准了什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4plg0/whatever_happened_to_the_chatgpt_that_will_giggle/</link>
+      <description><![CDATA[我记得至少一个月前他们公布了这一点，然后我就再也没有听到任何关于它的消息了。有没有更新我什么时候可以使用这个模型？    提交人    /u/llamahumper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4plg0/whatever_happened_to_the_chatgpt_that_will_giggle/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:08:43 GMT</pubDate>
     </item>
     <item>
-      <title>我正在使用 Chat GPT 帮助整理求职信。其他人做过同样的事情，导致多个申请出现类似的求职信，这种风险有多大？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4ibh1/i_am_using_chat_gpt_to_help_put_together_a_cover/</link>
-      <description><![CDATA[  由    /u/Riko208  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4ibh1/i_am_using_chat_gpt_to_help_put_together_a_cover/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:11:26 GMT</pubDate>
+      <title>ChatGPT 变得 brrr</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4pdbe/chatgpt_goes_brrr/</link>
+      <description><![CDATA[        提交人    /u/CompetitivePassion38   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4pdbe/chatgpt_goes_brrr/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>破财</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4i2mf/broke_money/</link>
-      <description><![CDATA[Lahey 先生的 Bukkake 护目镜表演：难忘之夜 场景：桑尼维尔拖车公园，经过一整天的混乱和醉酒滑稽动作。太阳已经落山，夜晚充满了笑声和混乱的声音。在这一切的中间，Lahey 先生站在一个临时搭建的舞台上，摇摇欲坠，在清醒的边缘徘徊，头上戴着一副 bukkake 护目镜。他拿着麦克风，微微摇晃着，准备表演他的杰作。 角色： • Lahey 先生：喝醉了，但热情高涨。• Randy：站在旁边，端着一盘芝士汉堡，同样喝醉了。• Julian、Ricky 和 ​​Bubbles：观众，享受着场景的荒诞。  Lahey 先生：（含糊不清，但眼中闪烁着光芒）“好了，孩子们，这是科学和欢笑的节目！开始吧！” Julian：（摇头，咯咯笑）“开始吧，孩子们。Lahey 又来了。” Ricky：（点燃一支大麻烟）“这将是一场精彩的表演，是吗？” Bubbles：（调整眼镜）“我戴上了护目镜！” Lahey：（开始唱歌，声音中夹杂着醉酒的含糊不清和令人惊讶的旋律）“我晚上会戴着精液护目镜，这样我就可以，这样我就可以，保护我的眼睛免受眼前精液爆炸的伤害。二十个人，目标远大，像消防员一样，但戴上护目镜，我连眼睛都不会眨一下。” 兰迪：（欢呼，挥舞着芝士汉堡）“唱吧，莱希先生！你真是个超级巨星！” 莱希：（夸张地挥手，差点失去平衡）“现在精液来了，哦，它们流动的液体，在这场科学聚会上，我只是想找点乐子。我晚上戴着精液护目镜，这样我就可以，这样我就可以，对着混乱的场面咯咯笑，同时在阳光下保持视力。” 朱利安：（笑着，摇着头）“这是我见过的最奇怪的东西，伙计。” 瑞奇：（吸了一口大麻烟）“你告诉我。 Lahey 疯了，但这可真够有趣的。” Lahey：（有点磕磕巴巴，但很快稳住了自己）“在这个古怪、狂野的故事中，我们一起起舞、一起哀号，安全第一，即使在这疯狂、黏糊糊的冰雹中。人类的精液，精液，真是滑溜溜的宝石，但只要戴上护目镜，我就是他们中最狡猾的科学家。” Bubbles：（忍不住咯咯笑）“他就像个喝醉的猫王，伙计们！” Lahey：（开始投入，几乎在跳舞）“哦，精液是一道风景，就像一个奶油般的搅打梦，但为了科学，我们要把护目镜擦得干干净净。二十个人，一个宏伟的计划，就像一个糕点厨师的家族，但戴上护目镜，我就是乐队里最酷的人。” 兰迪：（钦佩地向莱希扔了一个芝士汉堡）“你太棒了，莱希先生！继续加油！” 莱希：（躲避着芝士汉堡，但很勉强）“现在精液来了，哦，它们流淌着液体，在这场科学聚会上，我只是想找点乐子。我晚上戴着精液护目镜，这样我就可以，这样我就可以，对着混乱的场面咯咯笑，在阳光下保持视力。” 朱利安：（鼓掌，真心觉得好笑）“从来没想过我会看到这一天。 “这是金子。” Ricky：（笑得太厉害，几乎要噎住了）“Lahey 真是个诗人。” Lahey：（最后戏剧性地鞠躬，差点摔倒）“所以，让我们戴上护目镜，我们身穿白色衣服的英雄，在群交之夜保护我们的眼睛。一堂荒谬、搞笑的课，充满爵士乐的乐趣，戴上你的精液护目镜，保持你的视力正常！” 观众：（爆发出掌声和笑声） Bubbles：（擦去笑出的眼泪）“这真是无价之宝，Lahey 先生！” Lahey：（咧嘴笑着，踉踉跄跄地走下舞台）“谢谢你们，孩子们。记住，科学和安全第一……一点点乐趣不会伤害任何人！” 兰迪：（在莱希几乎摔倒时扶住他）“你是一个传奇，莱希先生。我们再给你拿杯酒来。” 朱利安：（摇头，微笑）“只有在桑尼维尔，孩子们。只有在桑尼维尔。” 瑞奇：（举起他的大麻烟卷敬礼）“向莱希和他的精液护目镜致敬！” 就这样，夜晚在桑尼维尔拖车公园继续，莱希先生的表演成为了传奇，滑稽地提醒着人们他们狂野、混乱的生活中所蕴含的荒谬和友爱。    提交人    /u/Educational_Dream_61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4i2mf/broke_money/</guid>
-      <pubDate>Tue, 16 Jul 2024 06:55:13 GMT</pubDate>
+      <title>说唱歌手 49 cents 震撼观众</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4p5jx/rapper_49_cents_electrifying_the_crowd/</link>
+      <description><![CDATA[        由    /u/Far-Eagle-805  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4p5jx/rapper_49_cents_electrifying_the_crowd/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>介绍 Terrify (terif.ai) - 一个在一分钟的对话后窃取你的声音的机器人（deepgram + gpt 40 + elevenlabs）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4hkqg/introducing_terrify_terifai_a_bot_that_steals/</link>
-      <description><![CDATA[    /u/BadAthMOFO   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4hkqg/introducing_terrify_terifai_a_bot_that_steals/</guid>
-      <pubDate>Tue, 16 Jul 2024 06:23:03 GMT</pubDate>
+      <title>10 条消息后 GPT-4 达到限制？？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4p3v9/gpt4_limit_hit_after_10_messages/</link>
+      <description><![CDATA[今天早上刚开始使用 chatgpt，仅 10 条消息（我数了一下）后我就被限制使用 GPT-4o。 发生了什么事？有其他人遇到过这种情况吗？    提交人    /u/No-Efficiency-2475   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4p3v9/gpt4_limit_hit_after_10_messages/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>API 助手意外被行为覆盖</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4hcib/api_assistant_accidentally_overwritten_with/</link>
-      <description><![CDATA[我该如何撤消此操作？我的助手有历史记录吗？ 干杯    提交人    /u/TylonHH   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4hcib/api_assistant_accidentally_overwritten_with/</guid>
-      <pubDate>Tue, 16 Jul 2024 06:08:38 GMT</pubDate>
+      <title>关于 GPT 的输入的问题，以及 GPT 的创建者是否可以使用我的输入。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4oo97/question_about_inputs_into_gpts_and_if_the/</link>
+      <description><![CDATA[我正在查看行业特定的 GPT，我想知道 GPT 的创建者是否可以看到我的输入或聊天内容，并在他们认为它们可能有用时使用它们。    提交人    /u/Good_GENES   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4oo97/question_about_inputs_into_gpts_and_if_the/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>骑着自行车的红发女郎，风格各异。哪种比较好？哪种比较坏？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1e4gu1p/redheads_on_bikes_mixed_styles_witch_ones_are/</link>
-      <description><![CDATA[        提交人    /u/evil701   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4gu1p/redheads_on_bikes_mixed_styles_witch_ones_are/</guid>
-      <pubDate>Tue, 16 Jul 2024 05:36:12 GMT</pubDate>
+      <title>嗯？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1e4ol2n/huh/</link>
+      <description><![CDATA[        提交人    /u/Creepy-Ad4209   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1e4ol2n/huh/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:25:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
