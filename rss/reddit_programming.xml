@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 17 Jul 2024 01:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 03:23:38 GMT</lastBuildDate>
+    <item>
+      <title>我根据你上传的文件创建了一个人工智能测验生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1e57wkp/i_created_an_aipowered_quiz_generator_based_on/</link>
+      <description><![CDATA[  由    /u/MiloTheOverthinker  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e57wkp/i_created_an_aipowered_quiz_generator_based_on/</guid>
+      <pubDate>Wed, 17 Jul 2024 03:13:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个功能惊人的 RPN 计算器，仅包含大约 100 行 Zig 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1e570hp/a_surprisingly_capable_rpn_calculator_in_about/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e570hp/a_surprisingly_capable_rpn_calculator_in_about/</guid>
+      <pubDate>Wed, 17 Jul 2024 02:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 基础知识：使用 Flet 进行 Web 游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1e56a8v/basics_of_python_web_game_with_flet/</link>
+      <description><![CDATA[直播网页游戏开发，展示面向对象编程的基础知识    提交人    /u/whitechoc6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e56a8v/basics_of_python_web_game_with_flet/</guid>
+      <pubDate>Wed, 17 Jul 2024 01:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>PS-HTTPD：用 PostScript 编写的 Web 服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1e55spp/pshttpd_a_web_server_written_in_postscript/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e55spp/pshttpd_a_web_server_written_in_postscript/</guid>
+      <pubDate>Wed, 17 Jul 2024 01:29:40 GMT</pubDate>
+    </item>
     <item>
       <title>不包含时区的日期时间是 Python 中最危险的对象之一</title>
       <link>https://www.reddit.com/r/programming/comments/1e55ppl/timezonenaive_datetimes_are_one_of_the_most/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e55kut/convex_architecture_handbook_1984_pdf/</guid>
       <pubDate>Wed, 17 Jul 2024 01:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>C3 - 第一印象 [编程语言第 31 集]</title>
-      <link>https://www.reddit.com/r/programming/comments/1e54vm3/c3_first_impression_programming_languages_episode/</link>
-      <description><![CDATA[  由    /u/Nuoji  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e54vm3/c3_first_impression_programming_languages_episode/</guid>
-      <pubDate>Wed, 17 Jul 2024 00:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>CFLAG.h - 简单的命令行标志</title>
-      <link>https://www.reddit.com/r/programming/comments/1e531xe/cflagh_simple_command_line_flags/</link>
-      <description><![CDATA[  由    /u/TheChief275  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e531xe/cflagh_simple_command_line_flags/</guid>
-      <pubDate>Tue, 16 Jul 2024 23:21:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新构想的开发环境：从 JavaScript 工具到 Rust</title>
-      <link>https://www.reddit.com/r/programming/comments/1e52gc4/a_reimagined_development_environment_javascript/</link>
-      <description><![CDATA[  由    /u/john_at_jetpack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e52gc4/a_reimagined_development_environment_javascript/</guid>
-      <pubDate>Tue, 16 Jul 2024 22:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>切换（禁用/启用）错误和警告波浪线 VS Code 扩展：畅享无干扰的编码和演示 - 适用于所有语言 🎉</title>
-      <link>https://www.reddit.com/r/programming/comments/1e51ttt/toggledisableenable_error_and_warning_squiggles/</link>
-      <description><![CDATA[  由    /u/BurningAntares  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e51ttt/toggledisableenable_error_and_warning_squiggles/</guid>
-      <pubDate>Tue, 16 Jul 2024 22:27:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
