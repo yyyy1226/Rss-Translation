@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:29:22 GMT</lastBuildDate>
     <item>
       <title>哇商店</title>
       <link>https://www.producthunt.com/posts/wowstore</link>
@@ -18,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/wowstore</guid>
       <pubDate>Thu, 18 Jul 2024 06:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>blogstatic.io</title>
+      <link>https://www.producthunt.com/posts/blogstatic-io</link>
+      <description><![CDATA[
+使用 DesignStudio 创建博客并设计其样式
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blogstatic-io</guid>
+      <pubDate>Thu, 18 Jul 2024 06:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>布伊尔科</title>
+      <link>https://www.producthunt.com/posts/builco</link>
+      <description><![CDATA[
+使用 AI 在几分钟内通过 Next.js 构建 MVP
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/builco</guid>
+      <pubDate>Thu, 18 Jul 2024 04:34:34 GMT</pubDate>
     </item>
     <item>
       <title>收藏数据库</title>
@@ -34,6 +62,34 @@
       <pubDate>Thu, 18 Jul 2024 04:07:53 GMT</pubDate>
     </item>
     <item>
+      <title>太郎出纳员</title>
+      <link>https://www.producthunt.com/posts/taroteller</link>
+      <description><![CDATA[
+利用人工智能塔罗牌洞察揭开你的未来
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/taroteller</guid>
+      <pubDate>Thu, 18 Jul 2024 01:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>可交易</title>
+      <link>https://www.producthunt.com/posts/tradible</link>
+      <description><![CDATA[
+为当今的爱好者重新定义收藏品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tradible</guid>
+      <pubDate>Wed, 17 Jul 2024 16:15:55 GMT</pubDate>
+    </item>
+    <item>
       <title>SaaSy 趋势</title>
       <link>https://www.producthunt.com/posts/saasy-trends</link>
       <description><![CDATA[
@@ -48,46 +104,18 @@
       <pubDate>Wed, 17 Jul 2024 16:12:03 GMT</pubDate>
     </item>
     <item>
-      <title>育碧</title>
-      <link>https://www.producthunt.com/posts/ubiops</link>
+      <title>Veedo人工智能</title>
+      <link>https://www.producthunt.com/posts/veedoai-2</link>
       <description><![CDATA[
-AI 模型服务和编排
+为您的视频内容提供人工智能洞察
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ubiops</guid>
-      <pubDate>Wed, 17 Jul 2024 09:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>文档翻译</title>
-      <link>https://www.producthunt.com/posts/docutranslate</link>
-      <description><![CDATA[
-将任何 PDF 翻译成可编辑文档
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/docutranslate</guid>
-      <pubDate>Wed, 17 Jul 2024 07:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>亡灵领域</title>
-      <link>https://www.producthunt.com/posts/undead-domains</link>
-      <description><![CDATA[
-分享您未使用的域名并查找新域名
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/undead-domains</guid>
-      <pubDate>Wed, 17 Jul 2024 00:07:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/veedoai-2</guid>
+      <pubDate>Tue, 16 Jul 2024 17:12:46 GMT</pubDate>
     </item>
     <item>
       <title>智能画布</title>
@@ -118,32 +146,18 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Tue, 16 Jul 2024 07:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>流动工作室</title>
-      <link>https://www.producthunt.com/posts/flow-studio</link>
+      <title>宠物应用程序</title>
+      <link>https://www.producthunt.com/posts/pet-app</link>
       <description><![CDATA[
-文字转电影
+一款集宠物健康追踪和提醒功能于一体的应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/flow-studio</guid>
-      <pubDate>Tue, 16 Jul 2024 06:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>普罗贝里克斯</title>
-      <link>https://www.producthunt.com/posts/proberix</link>
-      <description><![CDATA[
-网站和 API 正常运行时间监控服务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/proberix</guid>
-      <pubDate>Mon, 15 Jul 2024 19:19:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/pet-app</guid>
+      <pubDate>Mon, 15 Jul 2024 09:38:03 GMT</pubDate>
     </item>
     <item>
       <title>动漫君</title>
@@ -160,20 +174,6 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Sat, 13 Jul 2024 08:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>循环</title>
-      <link>https://www.producthunt.com/posts/loops-b4eb3c28-5d9d-4d4a-9414-e57e3faf3f67</link>
-      <description><![CDATA[
-产品分析可揭示您最大的因果见解
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/loops-b4eb3c28-5d9d-4d4a-9414-e57e3faf3f67</guid>
-      <pubDate>Fri, 12 Jul 2024 22:05:33 GMT</pubDate>
-    </item>
-    <item>
       <title>阿奇</title>
       <link>https://www.producthunt.com/posts/archie-4</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Fri, 12 Jul 2024 19:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>他</title>
-      <link>https://www.producthunt.com/posts/him</link>
+      <title>开始</title>
+      <link>https://www.producthunt.com/posts/startt</link>
       <description><![CDATA[
-个性化 AI 语音呼吁情感支持
+在几秒钟内为您的产品创建登录页面
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/him</guid>
-      <pubDate>Wed, 19 Jun 2024 08:02:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/startt</guid>
+      <pubDate>Fri, 12 Jul 2024 14:30:30 GMT</pubDate>
     </item>
     <item>
       <title>巴西姆</title>

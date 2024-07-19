@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:29:16 GMT</lastBuildDate>
+    <item>
+      <title>FUTO 应用程序为什么这么重？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e6x1we/why_is_futo_apps_so_heavy/</link>
+      <description><![CDATA[我注意到他们的应用程序与其他应用程序相比体积较大，例如他们的键盘应用程序大小为 129 MB，与其他 Android 键盘相比，这是一个巨大的尺寸。 Grayjay 似乎也有点庞大，相比之下 bravenewpipe 支持很多服务，但体积仍然很小。 在我看来，唯一一款尺寸合理的应用程序是他们的语音识别，而与 Transcribro 相比，它看起来有点丑陋。 这一切都有原因吗？    提交人    /u/TheOneTheGuyTheKing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e6x1we/why_is_futo_apps_so_heavy/</guid>
+      <pubDate>Fri, 19 Jul 2024 06:28:28 GMT</pubDate>
+    </item>
     <item>
       <title>寻找垫脚石</title>
       <link>https://www.reddit.com/r/opensource/comments/1e6tqqz/looking_for_stepping_stones/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我刚刚开始使用 ri 音乐，我对了解更多方便的开源项目感兴趣    提交人    /u/fuckredit21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e5vx63/best_open_source_apps_for_android/</guid>
       <pubDate>Wed, 17 Jul 2024 22:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 CRO 和数据分析</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e5voov/open_source_cro_and_data_analytics/</link>
-      <description><![CDATA[嗨，我想估算一个开源库的使用情况，该库有助于构建基于块的编码程序。我的团队有兴趣弄清楚所有时间使用情况/最终用户统计数据，我想知道是否有任何方法可以通过市场研究/趋势或任何其他统计数据来做到这一点。任何指导都将不胜感激。    提交人    /u/asheeshaggarwal35314   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e5voov/open_source_cro_and_data_analytics/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:42:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
