@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 19 Jul 2024 01:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:25:43 GMT</lastBuildDate>
     <item>
-      <title>我希望 API 获取 URL 参数而不是从正文中获取</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6rjvl/i_want_api_to_get_url_params_and_not_from_body/</link>
-      <description><![CDATA[大家好， 我是 API 新手，有一个问题。我目前正在使用 Matillion Data Loader 对 plytix 进行 API 自定义连接器调用。调用工作正常，直到我想要使用分页引入所有记录。我使用的分页方法是脚本分页。但是，我遇到了一个问题。API 要求页面和页面大小位于 API 调用的正文中。我试图将页面和页面大小作为参数包含在 URL 中，但除非我将其放在正文中，否则分页将不起作用。 我尝试在我的 URI 中定义参数。生成的 URL 为： https://pim.plytix.com/api/v1/products/search?page=3&amp;pageSize=100  但由于页面和页面大小不在正文中，API 将返回页面 1，页面大小为 25（API 文档中的默认数量）。 有没有办法让 API 分页在 URI 中工作，或者有没有办法在 API 正文中动态执行此操作。任何帮助都非常感谢。这只有在我在正文中指明页面和页面大小时才有效。  例如，实际起作用的 API 主体是： &quot;pagination&quot;: { &quot;order&quot;: &quot;sku&quot;, &quot;page&quot;: 3, &quot;page_size&quot;: 100} 无论如何，我都必须使用页码使上述主体动态化。  作为参考，这是我在 Matillion 中使用的自定义脚本：  @request.uri.set(&quot;https://pim.plytix.com/api/v1/products/search?page=3&amp;pageSize=100&quot;); var currentPage = @response.body.get(&quot;/data/pagination/page&quot;);  var nextPage = currentPage + 1;  @request.query.put(&quot;page&quot;, nextPage); @request.query.put(&quot;page_size&quot;, &quot;100&quot;); var pageNumber = @response.body.get(&quot;/pagination/page&quot;); @pager.stop(pageNumber == 5);    提交人    /u/cnmreddit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6rjvl/i_want_api_to_get_url_params_and_not_from_body/</guid>
-      <pubDate>Fri, 19 Jul 2024 01:15:18 GMT</pubDate>
+      <title>揭秘 Cookies 和 Tokens</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6tod8/demystifying_cookies_and_tokens/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6tod8/demystifying_cookies_and_tokens/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 Cookies 和 Tokens</title>
+      <link>https://www.reddit.com/r/programming/comments/1e6tobz/demystifying_cookies_and_tokens/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e6tobz/demystifying_cookies_and_tokens/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:05:56 GMT</pubDate>
     </item>
     <item>
       <title>使用 Python 制作饼图动画</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e6jkqj/keep_perfecting_your_config/</guid>
       <pubDate>Thu, 18 Jul 2024 19:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将未完成的业余项目集中存放</title>
-      <link>https://www.reddit.com/r/programming/comments/1e6ip5z/how_to_keep_your_unfinished_side_projects_in_one/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e6ip5z/how_to_keep_your_unfinished_side_projects_in_one/</guid>
-      <pubDate>Thu, 18 Jul 2024 18:42:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

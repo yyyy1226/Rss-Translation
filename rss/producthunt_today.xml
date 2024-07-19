@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 01:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:26:12 GMT</lastBuildDate>
     <item>
       <title>哇商店</title>
       <link>https://www.producthunt.com/posts/wowstore</link>
@@ -34,34 +34,6 @@
       <pubDate>Thu, 18 Jul 2024 04:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>苹果商店 6.0</title>
-      <link>https://www.producthunt.com/posts/apple-store-6-0</link>
-      <description><![CDATA[
-为您量身打造的购物体验
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/apple-store-6-0</guid>
-      <pubDate>Thu, 18 Jul 2024 01:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>可交易</title>
-      <link>https://www.producthunt.com/posts/tradible</link>
-      <description><![CDATA[
-为当今的爱好者重新定义收藏品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tradible</guid>
-      <pubDate>Wed, 17 Jul 2024 16:15:55 GMT</pubDate>
-    </item>
-    <item>
       <title>SaaSy 趋势</title>
       <link>https://www.producthunt.com/posts/saasy-trends</link>
       <description><![CDATA[
@@ -74,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/saasy-trends</guid>
       <pubDate>Wed, 17 Jul 2024 16:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>育碧</title>
+      <link>https://www.producthunt.com/posts/ubiops</link>
+      <description><![CDATA[
+AI 模型服务和编排
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ubiops</guid>
+      <pubDate>Wed, 17 Jul 2024 09:34:08 GMT</pubDate>
     </item>
     <item>
       <title>文档翻译</title>
@@ -104,10 +90,24 @@
       <pubDate>Wed, 17 Jul 2024 00:07:28 GMT</pubDate>
     </item>
     <item>
+      <title>智能画布</title>
+      <link>https://www.producthunt.com/posts/intelligent-canvas</link>
+      <description><![CDATA[
+Miro 画布，通过 AI 和可组合工作流重新发明
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/intelligent-canvas</guid>
+      <pubDate>Tue, 16 Jul 2024 14:58:26 GMT</pubDate>
+    </item>
+    <item>
       <title>拉格纳</title>
       <link>https://www.producthunt.com/posts/ragna</link>
       <description><![CDATA[
-100% 私密桌面 AI 聊天机器人
+100% 私密的桌面 AI 聊天机器人
 
 
 讨论
@@ -146,20 +146,6 @@
       <pubDate>Mon, 15 Jul 2024 19:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>UXWizz</title>
-      <link>https://www.producthunt.com/posts/uxwizz</link>
-      <description><![CDATA[
-自托管网络分析
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/uxwizz</guid>
-      <pubDate>Sat, 13 Jul 2024 12:56:01 GMT</pubDate>
-    </item>
-    <item>
       <title>动漫君</title>
       <link>https://www.producthunt.com/posts/animekun</link>
       <description><![CDATA[
@@ -188,24 +174,38 @@
       <pubDate>Fri, 12 Jul 2024 22:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>开始</title>
-      <link>https://www.producthunt.com/posts/startt</link>
+      <title>阿奇</title>
+      <link>https://www.producthunt.com/posts/archie-4</link>
       <description><![CDATA[
-在几秒钟内为您的产品创建登录页面
+使用 AI 在几分钟内设计和规划软件应用程序
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/startt</guid>
-      <pubDate>Fri, 12 Jul 2024 14:30:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/archie-4</guid>
+      <pubDate>Fri, 12 Jul 2024 19:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>他</title>
+      <link>https://www.producthunt.com/posts/him</link>
+      <description><![CDATA[
+个性化 AI 语音呼吁情感支持
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/him</guid>
+      <pubDate>Wed, 19 Jun 2024 08:02:29 GMT</pubDate>
     </item>
     <item>
       <title>巴西姆</title>
       <link>https://www.producthunt.com/posts/bazium</link>
       <description><![CDATA[
-适用于 SEO 的网站构建器，Google Pagespeed 得分高于 90
+Google Pagespeed 得分高于 90 的 SEO 网站构建器
 
 
 讨论
