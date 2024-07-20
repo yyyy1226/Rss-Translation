@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 20 Jul 2024 01:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 03:23:20 GMT</lastBuildDate>
     <item>
-      <title>我编写了一个基本脚本，每 10 分钟更新一次此 YouTube 视频的标题（只是为了好玩）</title>
-      <link>https://www.reddit.com/r/programming/comments/1e7jy99/i_coded_a_basic_script_that_updates_the_title_of/</link>
-      <description><![CDATA[  由    /u/Takyamoto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e7jy99/i_coded_a_basic_script_that_updates_the_title_of/</guid>
-      <pubDate>Sat, 20 Jul 2024 01:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>加入我的空间 Badland</title>
-      <link>https://www.reddit.com/r/programming/comments/1e7jv4i/join_my_space_badland/</link>
-      <description><![CDATA[  由    /u/Shadowknight260  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e7jv4i/join_my_space_badland/</guid>
-      <pubDate>Sat, 20 Jul 2024 01:17:39 GMT</pubDate>
+      <title>Google 日历</title>
+      <link>https://www.reddit.com/r/programming/comments/1e7k3yr/google_calendar/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e7k3yr/google_calendar/</guid>
+      <pubDate>Sat, 20 Jul 2024 01:30:26 GMT</pubDate>
     </item>
     <item>
       <title>鸭子游戏重建——具有许多改进的开源替代客户端</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/photon_lines  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e76tmb/algorithms_for_optimization_explained_simply/</guid>
       <pubDate>Fri, 19 Jul 2024 15:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 GPT-4o Mini：体积小，影响大</title>
+      <link>https://www.reddit.com/r/programming/comments/1e76pw9/openais_gpt4o_mini_compact_size_massive_impact/</link>
+      <description><![CDATA[  由    /u/nuriodaci  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e76pw9/openais_gpt4o_mini_compact_size_massive_impact/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:38:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
