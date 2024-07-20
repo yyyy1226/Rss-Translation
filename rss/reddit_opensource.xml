@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Jul 2024 12:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 15:20:26 GMT</lastBuildDate>
+    <item>
+      <title>AI-First Album，基于 GPT-4o-mini 与你的相册聊天</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</link>
+      <description><![CDATA[        由    /u/blueeony 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</guid>
+      <pubDate>Sat, 20 Jul 2024 14:04:11 GMT</pubDate>
+    </item>
     <item>
       <title>可以进行文本识别和文本听写的开源 API</title>
       <link>https://www.reddit.com/r/opensource/comments/1e7siyp/open_source_api_which_can_do_text_recognition_and/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[  由    /u/WalkingGundam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7ivdr/noob_question_is_nvk_now_obsolete_with_open/</guid>
       <pubDate>Sat, 20 Jul 2024 00:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 desmos/Geogebra 的开源替代品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</link>
-      <description><![CDATA[我正在寻找一个开放的、本地运行的 desmos/geogebra 替代方案，它允许我快速绘制或多或少简单的函数以及 2D/3D 中的隐式曲线或曲面。我对常见的 python 库有点熟悉，但我希望有一个程序需要我编写更少的“样板”代码。本质上是一个与 desmos 或 mathematica 一样快的东西。 有这样的东西吗？    提交人    /u/Alphakka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</guid>
-      <pubDate>Fri, 19 Jul 2024 16:40:31 GMT</pubDate>
     </item>
     <item>
       <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
