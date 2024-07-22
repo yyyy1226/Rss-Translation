@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Jul 2024 01:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 03:24:34 GMT</lastBuildDate>
+    <item>
+      <title>我为 Javascript 创建了一个 Unmarshall 包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e932jk/i_created_a_unmarshall_package_for_javascript/</link>
+      <description><![CDATA[它被称为 unmarshalljs，基于 golang。请在 npm 和 github 上查看。    由   提交  /u/acfilho77   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e932jk/i_created_a_unmarshall_package_for_javascript/</guid>
+      <pubDate>Mon, 22 Jul 2024 02:14:14 GMT</pubDate>
+    </item>
     <item>
       <title>作为 PO，我讨厌 Google 产品，因此我尝试创建一个 Windows 翻译应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1e923b2/as_a_po_i_hate_google_products_so_i_tried_to/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>自定义许可 - 要求明确标明原始来源</title>
       <link>https://www.reddit.com/r/opensource/comments/1e8etp0/custom_license_requiring_explicitly_indicate/</link>
-      <description><![CDATA[嗨，朋友们！ 我对在典型变体中选择许可证有点困惑 - 我想要的是当有人重复使用项目的原始或修改版本（基于 Web 的应用程序）时，最终用户会被告知原始版本，例如，他们也可以找到、下载和使用原始项目用于自己的目的。 我相信 GPL 坚持类似但不同的是，派生版本应该披露其完整来源 - 我不想成为要求。如果最终用户被授予对“基本”版本的访问权限，这似乎就足够了。 现在，我将这个想法以自定义许可证的形式提出。但也许存在一些类似的众所周知的许可证形式而我不知道？ 全文在这里https://github.com/CodeAbbey/src/blob/master/LICENSE.txt - 以防有人想详细审查它（我会很感谢适当的更正）。    提交人    /u/RodionGork   [link] [评论]]]></description>
+      <description><![CDATA[嗨，朋友们！ 我对在典型变体中选择许可证有点困惑 - 我想要的是当有人重复使用项目的原始或修改版本（基于 Web 的应用程序）时，最终用户会被告知原始版本，例如，他们也可以找到、下载和使用原始项目用于自己的目的。 我相信 GPL 坚持类似但不同的是，派生版本应该披露其完整来源 - 我不想成为要求。如果最终用户被授予对“基本”版本的访问权限，这似乎就足够了。 现在，我将这个想法以自定义许可证的形式提出。但也许存在一些类似的众所周知的许可证形式而我不知道？ 全文在这里https://github.com/CodeAbbey/src/blob/master/LICENSE.txt - 以防有人想详细审查它（我会很感激适当的更正）。    提交人    /u/RodionGork   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e8etp0/custom_license_requiring_explicitly_indicate/</guid>
       <pubDate>Sun, 21 Jul 2024 05:13:51 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>AI-First Album，基于 GPT-4o-mini 与你的相册聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</link>
-      <description><![CDATA[        由    /u/blueeony  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/blueeony 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</guid>
       <pubDate>Sat, 20 Jul 2024 14:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以进行文本识别和文本听写的开源 API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e7siyp/open_source_api_which_can_do_text_recognition_and/</link>
-      <description><![CDATA[我正在寻找一个开源 API，它可以执行文本识别和文本听写等任务，同时完全免费用于学校作业。 如果有，请在评论中发布链接。    提交人    /u/No_Clue1000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e7siyp/open_source_api_which_can_do_text_recognition_and/</guid>
-      <pubDate>Sat, 20 Jul 2024 10:24:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

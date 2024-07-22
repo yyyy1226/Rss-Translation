@@ -4,13 +4,13 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 01:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 03:23:25 GMT</lastBuildDate>
     <item>
-      <title>BuildCast #1：我的第一个 BuildCast，现场创建一家 AI 初创公司</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e927pn/buildcast_1_my_first_ever_buildcast_building_a_ai/</link>
-      <description><![CDATA[大家好，我是 Mas，我正在构建 TalentRun[dot]io 决定尝试一些新的东西 (BuildCast)，我将在其中实时编码并与大家分享我的创业之旅。今天，我们将使用 NextJS 和 Inngest 添加一些很酷的 AI 自动化来预订日历邀请。  这是我第一次这样做，所以期待一些真正的、未经过滤的创业行动 - 错误、突破等等！无论您是喜欢科技、创业公司，还是只是对构建 SaaS 感到好奇，都可以来玩一玩。  欢迎随时提问、分享想法，或者只是放松观看。 评论中的直播链接 BuildInPublic #StartupJourney #SaaS #AIRecruitment #LiveCoding   由    /u/Fast-Society7107  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e927pn/buildcast_1_my_first_ever_buildcast_building_a_ai/</guid>
-      <pubDate>Mon, 22 Jul 2024 01:30:13 GMT</pubDate>
+      <title>多久才能有可靠的现场语言翻译？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e945hw/how_long_until_there_is_reliable_live_language/</link>
+      <description><![CDATA[比如，有人说一种语言，人工智能会自动将其翻译成另一种语言？这样要么有实时记录，要么将其声音改变为新语言？ 企业和政府什么时候会开始采用这项技术？    提交人    /u/lambo0o   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e945hw/how_long_until_there_is_reliable_live_language/</guid>
+      <pubDate>Mon, 22 Jul 2024 03:11:36 GMT</pubDate>
     </item>
     <item>
       <title>编码助手-Visual Studio Code 扩展???</title>
@@ -69,18 +69,18 @@
       <pubDate>Sun, 21 Jul 2024 17:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>对于具体的 LLM 有什么推荐吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8q913/any_recommendations_for_a_specific_llm/</link>
-      <description><![CDATA[嘿，我想知道哪个 LLM 最适合我的用例：使用讲故事创建电子邮件营销活动，并在我的 PC（NVIDIA GTX 1650）上下载和本地运行。我尝试过 ChatGPT（所有版本），但没有得到我想要的结果。我也尝试过 Perplexity AI，它的有效性为 65%，但对我来说最好的是 Claude AI 3.5 Sonnet。它给了我我想要的详细更正。我正在寻找一个类似于 Claude AI 3.5 Sonnet 的 LLM，我可以本地运行。有什么建议吗？    提交人    /u/adnanedinox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8q913/any_recommendations_for_a_specific_llm/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:29:38 GMT</pubDate>
-    </item>
-    <item>
       <title>“人道主义将被视为种族主义”——杰弗里·辛顿（人工智能教父）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8mvhx/humanism_will_be_considered_racism_geoffrey/</link>
       <description><![CDATA[大家好！首先，我要为我的英语道歉，因为它不是我的母语。不过，我更喜欢用自己的声音讲述，而不是使用人工智能生成的声音。当我听到 Geoffrey Hinton 关于人工智能未来的言论，特别是关于未来“人文主义者”一词可能被视为种族主义的事实时，我决定制作这个视频。从那里，我扩展了关于人工智能的发展及其未来影响的主题。虽然我对这种类型的视频没有太多经验，但我尽了最大努力。这是视频的链接👉视频希望你喜欢！干杯！    提交人    /u/MoysesGurgel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8mvhx/humanism_will_be_considered_racism_geoffrey/</guid>
       <pubDate>Sun, 21 Jul 2024 13:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Google Gemini 提取数据</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8d5cx/how_to_use_google_gemini_to_extract_data/</link>
+      <description><![CDATA[嗨，AI 粉丝们，我想分享一个关于如何使用 AI（特别是 Google 的新 Gemini 模型）从 PDF 中提取结构化数据为 CSV/XLSX 格式的实用指南。希望这可以成为这里最有用的帖子之一。 我分享这个是因为大多数不使用 AI 的传统解决方案似乎都无法处理非常复杂的 PDF。 本指南介绍了如何完全使用 API 执行此操作，指南中链接的 API github 提供了有关如何使用 LLM 提供程序使用 Python 自行完成整个过程的进一步说明。 玩得开心！    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8d5cx/how_to_use_google_gemini_to_extract_data/</guid>
+      <pubDate>Sun, 21 Jul 2024 03:29:59 GMT</pubDate>
     </item>
     <item>
       <title>Taylor & Francis 以 1000 万美元的价格将其研究成果出售给微软 AI，学术作者对此感到“震惊”</title>
