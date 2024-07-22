@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 21:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 01:35:47 GMT</lastBuildDate>
     <item>
-      <title>寻找关于人工智能生存风险的论文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8wrui/looking_for_paper_on_ai_existential_risk/</link>
-      <description><![CDATA[我不敢相信我竟然记不住/找不到这篇文章或它的作者的名字，但它很有名，所以我希望有人能帮忙。这是一篇博客文章/在线白皮书（不是期刊文章），大约 25 页，作者是一位著名的人工智能研究人员。几个月前问世，引起了很多关注。结尾处有一节关于中美在人工智能方面的竞争。有人能帮忙吗？非常感谢。    提交人    /u/SmokeMon99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8wrui/looking_for_paper_on_ai_existential_risk/</guid>
-      <pubDate>Sun, 21 Jul 2024 21:12:51 GMT</pubDate>
+      <title>BuildCast #1：我的第一个 BuildCast，现场创建一家 AI 初创公司</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e927pn/buildcast_1_my_first_ever_buildcast_building_a_ai/</link>
+      <description><![CDATA[大家好，我是 Mas，我正在构建 TalentRun[dot]io 决定尝试一些新的东西 (BuildCast)，我将在其中实时编码并与大家分享我的创业之旅。今天，我们将使用 NextJS 和 Inngest 添加一些很酷的 AI 自动化来预订日历邀请。  这是我第一次这样做，所以期待一些真正的、未经过滤的创业行动 - 错误、突破等等！无论您是喜欢科技、创业公司，还是只是对构建 SaaS 感到好奇，都可以来玩一玩。  欢迎随时提问、分享想法，或者只是放松观看。 评论中的直播链接 BuildInPublic #StartupJourney #SaaS #AIRecruitment #LiveCoding   由    /u/Fast-Society7107  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e927pn/buildcast_1_my_first_ever_buildcast_building_a_ai/</guid>
+      <pubDate>Mon, 22 Jul 2024 01:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码助手-Visual Studio Code 扩展???</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8zcty/coding_assistant_visual_studio_code_extensions/</link>
+      <description><![CDATA[我是 js 和 python 编码的完全初学者。不过，我有一个想法，并且一直在使用 chatgpt4o 和 Claude 来帮助我编写代码。完全不了解您使用的语言并不是最好的情况，即使 AI 给出了答案。不过，我正在进步 - 并且实际上是在边学边做。 使用 Visual Studio Code 中的扩展会更好吗？我知道 github copilot 在那里 - 这个或其他扩展是否是更好的选择，因为它们会知道我正在处理的所有不同文件？如果它试图在实际代码中为您完成代码而不仅仅是我可以选择剪切和粘贴的更新，会不会更烦人？    提交人    /u/dude1995aa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8zcty/coding_assistant_visual_studio_code_extensions/</guid>
+      <pubDate>Sun, 21 Jul 2024 23:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何免费的 AI 转录软件能够转录一堆 4-5 秒长的 .WAV 文件吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8y34h/any_free_ai_transcription_software_capable_of/</link>
+      <description><![CDATA[我目前正在尝试转录大约 50 多个小型 .WAV 文件，用于我大学的一个研究项目，但我还没有找到能够做到这一点的软件。我已经能够将音频文件合并在一起并使用 Word 或其他基于 AI 转录的方法转录整个文件，但由于我希望仍然能够看到每个音频片段的单独文件名，所以这有点问题。最终，我试图找到一种方法，让我能够批量转录大量这些小文件，同时仍然用原始文件名标记每个单独的输出。我知道这很具体，但我只是想看看是否有任何人知道的潜在资源！    提交人    /u/Apprehensive_Ad_7249   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8y34h/any_free_ai_transcription_software_capable_of/</guid>
+      <pubDate>Sun, 21 Jul 2024 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>哪种 AI 最适合创建逼真的人物形象，但又能使其变瘦？比如让超重的人恢复到健康体重。</title>
@@ -62,25 +76,11 @@
       <pubDate>Sun, 21 Jul 2024 16:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>我想恢复视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8pb6j/i_want_to_restore_a_video/</link>
-      <description><![CDATA[您好，我的问题是...我的视频中有 2 - 5 个角色。我想为“程序”提供我希望 AI 识别的高清图像。这太复杂了吗？我的视频只有 480p 的一半，非常模糊，但您可以理解发生了什么，只是许多细节可能会错位，因为它是卡通动画，脸部可能无法被识别... 是否有可以在这里工作的流程？如果是这样，我将不胜感激。谢谢     提交人    /u/Ramune99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8pb6j/i_want_to_restore_a_video/</guid>
-      <pubDate>Sun, 21 Jul 2024 15:48:31 GMT</pubDate>
-    </item>
-    <item>
       <title>“人道主义将被视为种族主义”——杰弗里·辛顿（人工智能教父）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8mvhx/humanism_will_be_considered_racism_geoffrey/</link>
       <description><![CDATA[大家好！首先，我要为我的英语道歉，因为它不是我的母语。不过，我更喜欢用自己的声音讲述，而不是使用人工智能生成的声音。当我听到 Geoffrey Hinton 关于人工智能未来的言论，特别是关于未来“人文主义者”一词可能被视为种族主义的事实时，我决定制作这个视频。从那里，我扩展了关于人工智能的发展及其未来影响的主题。虽然我对这种类型的视频没有太多经验，但我尽了最大努力。这是视频的链接👉视频希望你喜欢！干杯！    提交人    /u/MoysesGurgel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8mvhx/humanism_will_be_considered_racism_geoffrey/</guid>
       <pubDate>Sun, 21 Jul 2024 13:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Google Gemini 提取数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e8d5cx/how_to_use_google_gemini_to_extract_data/</link>
-      <description><![CDATA[嗨，AI 粉丝们，我想分享一个关于如何使用 AI（特别是 Google 的新 Gemini 模型）从 PDF 中提取结构化数据为 CSV/XLSX 格式的实用指南。希望这可以成为这里最有用的帖子之一。 我分享这个是因为大多数不使用 AI 的传统解决方案似乎都无法处理非常复杂的 PDF。 本指南介绍了如何完全使用 API 执行此操作，指南中链接的 API github 提供了有关如何使用 LLM 提供程序使用 Python 自行完成整个过程的进一步说明。 玩得开心！    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e8d5cx/how_to_use_google_gemini_to_extract_data/</guid>
-      <pubDate>Sun, 21 Jul 2024 03:29:59 GMT</pubDate>
     </item>
     <item>
       <title>Taylor & Francis 以 1000 万美元的价格将其研究成果出售给微软 AI，学术作者对此感到“震惊”</title>
