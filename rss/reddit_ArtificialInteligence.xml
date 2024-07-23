@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:27:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 09:21:38 GMT</lastBuildDate>
+    <item>
+      <title>潜在客户群体对人工智能持怀疑和冷漠态度，很难激发人们对产品的热情</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ea2ryp/so_much_sceptism_and_meh_feelings_about_ai_in/</link>
+      <description><![CDATA[似乎越来越多的人对人工智能炒作持负面反应，或者根本不感兴趣。我听到很多人说“我试过 Chatgpt，但它对我的工作没什么帮助”。或者他们附和“它会夺走我的工作/摧毁人类”之类的恐慌言论。在试图销售产品时，很难打破这种局面。 我与特定领域的人合作开发了一款人工智能工具，并进行了数月的演示。它的价格非常合理，解决了一个特定的问题。人们对这个工具很好奇，我收到了很多积极的反馈，但没有人想买。我甚至很难找到可以免费使用工具作为参考的人。 是的，当然这可能是我的销售宣传或营销等等，我完全接受这一点，我一直在尝试不同的市场营销途径、信息传递等等，我也寻求了专家的帮助。但即使这样，我还是没有人接受。 我所面对的客户群体非常“以人为本”，因为他们帮助他人，而且往往是以一种真正无私的方式。我相信这个特定的领域天生就倾向于拒绝人工智能，所以这是一场艰苦的战斗。 可悲的是，我的工具实际上可以帮助他们解决许多人面临的特定问题，但这些人宁愿让这个问题继续下去，也不愿将自己与人工智能联系起来。 我相信炒作对我们人工智能爱好者来说是令人兴奋的，但许多其他人，也许是大多数人，仍然不加入人工智能，现在被炒作所关闭，这对我们这些试图将实用的人工智能工具交到人们手中的人构成威胁。    提交人    /u/JackStrawWitchita   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ea2ryp/so_much_sceptism_and_meh_feelings_about_ai_in/</guid>
+      <pubDate>Tue, 23 Jul 2024 08:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为下个世纪的个人理财提供动力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ea27n9/powering_the_next_century_of_personal_finance/</link>
+      <description><![CDATA[大家好，我是 Ali El，今天很高兴向大家介绍一些特别的东西。您是否厌倦了在电子表格、银行对账单和多个应用程序之间来回切换以管理您的财务？欢迎认识一下 Luna，您的个人财务伴侣，全天候 24/7 为您服务！ 欢迎使用 Paradoxly - 您的轻松个人理财之门。只需几分钟即可开始使用我们的应用程序，与主要银行无缝集成，获取实时财务洞察。 您可以执行以下操作：  智能财务意识：Luna 提供量身定制的建议、人工智能驱动的支出洞察、新闻更新等。 放心投资：使用我们的股票和加密货币模拟器进行交易练习。随时了解动态财经新闻。 增强的用户控制：使用高级安全功能轻松管理帐户。 社区债券：与志同道合的人竞争和联系。加入充满活力的金融讨论社区。  加入 Paradoxly，今天就改变您的财务旅程。立即下载 期待您的反馈并随时关注更新！ 祝好，Ali El 创始人兼开发者 来自地球的爱    提交人    /u/Softwurx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ea27n9/powering_the_next_century_of_personal_finance/</guid>
+      <pubDate>Tue, 23 Jul 2024 07:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>ModelClash：通过 AI 对决进行动态 LLM 评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ea104c/modelclash_dynamic_llm_evaluation_through_ai_duels/</link>
+      <description><![CDATA[我开发了 ModelClash，这是一个用于 LLM 评估的开源框架，与静态基准测试相比，它可以提供一些潜在优势：  自动生成挑战，减少人工工作量 应随着模型功能的进步而扩展 评估问题的创建和解决能力  该项目尚处于早期阶段，但使用 GPT 和 Claude 模型进行的初步测试显示出令人鼓舞的结果。 GitHub：https://github.com/mrconter1/model-clash 我很想听听你对此的想法！    提交人    /u/Alarmed-Profile5736   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ea104c/modelclash_dynamic_llm_evaluation_through_ai_duels/</guid>
+      <pubDate>Tue, 23 Jul 2024 06:39:39 GMT</pubDate>
+    </item>
     <item>
       <title>台积电创下 1 万亿美元里程碑，人工智能需求猛增，领先亚洲公司</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ea02g7/tsmc_hits_1_trillion_milestone_as_ai_demand/</link>
@@ -55,32 +76,11 @@
       <pubDate>Tue, 23 Jul 2024 02:11:02 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能检查网站声称我的文章很可能是人工智能生成的，但事实上并非如此</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9ubor/ai_checking_websites_claim_my_essay_is_likely_to/</link>
-      <description><![CDATA[正如标题所说，我完成了一篇论文，想用人工智能检查器 ( https://www.zerogpt.com/ ) 检查一下，看看它是否看起来像是人工智能生成的（因为老师经常使用人工智能检查网站，我不想让他们认为我使用人工智能来帮助我写论文），结果显示 99% 都是人工智能生成的。我把它放在另一个人工智能检查器里，看看它是否说了同样的话 ( https://skilldeck.org/ai-detector/ )，它说大约 64% 的论文可能是人工智能生成的。我根本没有使用人工智能来帮助我写这篇文章，为什么它会这么说呢？我能做些什么吗？   提交者    /u/Mmath_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9ubor/ai_checking_websites_claim_my_essay_is_likely_to/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地可用的最佳 txt2music 技术是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9i4wr/what_is_the_best_locally_available_txt2music_tech/</link>
-      <description><![CDATA[一直在尝试寻找最佳的本地可训练 txt2music 设置...过去一年一直处于脱节状态（没有双关语），现在又重新开始，但不确定该将注意力集中在哪里。 谢谢！    提交人    /u/nattydroid   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9i4wr/what_is_the_best_locally_available_txt2music_tech/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:10:45 GMT</pubDate>
-    </item>
-    <item>
       <title>看到人们在不同的领域使用人工智能真是令人难以置信</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9fnnr/its_unbelievable_to_see_how_people_are_using_ai/</link>
       <description><![CDATA[最近，我偶然看到了一篇文章，声称介绍了最新的 AI 项目。我最初以为它们只是一些我已经听说过或使用过的基本且无趣的工具。然而，我很惊喜地发现，它们都是新的，对我很有用。 以下是工具 ReplyGuy - 此工具可以自动将您的产品或初创公司链接提交到 Reddit 和 Twitter 上的相关帖子，以推广或营销它。 Infography - 此工具可以使用 AI 将枯燥的博客文章转换为引人注目的信息图表。 Audionotes - 此工具将您的想法和创意转换为清晰、结构化的文本和语音笔记。 BuildTheKeyword - 它可以找到尚未开发的关键字并生成产品创意，以自动吸引受众和流量。 如果您想阅读完整的文章，这里是链接：文章链接    由    /u/gary_king_001  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9fnnr/its_unbelievable_to_see_how_people_are_using_ai/</guid>
       <pubDate>Mon, 22 Jul 2024 14:27:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用自己的数据训练 LLM</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9f5oj/training_llm_on_own_data/</link>
-      <description><![CDATA[大家好，早上好。我有大量教育内容（书籍、PDF 等），想用它培训一名法学硕士。最终目标是让学生可以使用它们。最好的方法是什么？    提交人    /u/thelastlehmanbrother   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9f5oj/training_llm_on_own_data/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:05:54 GMT</pubDate>
     </item>
     <item>
       <title>既然 Claude-3.5-Sonnet 在 MMLU 和 HumanEval 上的得分更高，为什么你仍在使用 GPT-4o？讨论</title>
