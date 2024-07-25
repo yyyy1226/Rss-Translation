@@ -4,11 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Jul 2024 01:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 03:23:14 GMT</lastBuildDate>
+    <item>
+      <title>非营利组织希望我重新设计他们的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ebivty/nonprofit_org_wants_me_to_redesign_their_website/</link>
+      <description><![CDATA[我的常规客户是需要简单网站来显示其信息的企业，因此没什么复杂的，我使用 Wix。我有一个客户希望我重新设计他们非常非常旧的网站。他们不关心我使用什么网站构建服务，但我担心如果我使用像 Wix 或 Squarespace 这样的网站构建器，他们可能会面临长期问题。该网站将包含大量信息，包括会员注册、捐赠页面会员付款等功能。所以我只是想谨慎行事。我知道如何在 wordpress 上构建，但问题是客户端对技术不是很友好，而且对于网页设计师来说，wordpress 很难导航，所以我只能想象一些老人试图操纵它。因此，任何反馈都将不胜感激，以便与该客户一起前进。    提交人    /u/Intelligent_Band_391   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ebivty/nonprofit_org_wants_me_to_redesign_their_website/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>我在 React 中制作了图像的循环幻灯片，但它存在滞后现象，导致浏览器加载速度非常慢</title>
       <link>https://www.reddit.com/r/webdev/comments/1ebid1w/i_made_a_circular_slideshow_for_images_in_react/</link>
-      <description><![CDATA[https://clipper-goat.vercel.app/（忽略我从一个网站复制的内容，我正在复制它以学习 React） 它是滑动的对面图像/视频幻灯片，如果你想了解有关代码的任何信息，请问我，但它在这里 一两分钟后，视频开始滞后，每张幻灯片滞后得越来越多 在手机上，滑块闪烁（仅在 iPhone 上） 它很滞后，看起来很慢，不像我希望的那样流畅 import React, { useState, useRef, useEffect, memo } from &#39;react&#39;; import &#39;./SliderTop.css&#39;; const DURATION = 50000; const InfiniteLoopSlider = memo(({ children, duration, direction }) =&gt; { const TranslationStart = direction === &#39;right&#39; ? &#39;-25%&#39; : &#39;0&#39;; const TranslationEnd = direction === &#39;right&#39; ? &#39;0&#39; : &#39;-25%&#39;; return ( &lt;div className=&#39;loop-slider&#39; style={{ &#39;--duration&#39;: `${duration}ms`, &#39;--translate-start&#39;: TranslationStart, &#39;--translate-end&#39;: TranslationEnd }} &gt; &lt;div className=&#39;inner&#39;&gt; {children} {children} {children} {children} &lt;/div&gt; &lt;/div&gt; ); }); const ImageSlide = memo(({ src, title, description }) =&gt; { const [isVisible, setIsVisible] = useState(false); const imageRef = useRef(null); useEffect(() =&gt; { const observer = new IntersectionObserver( ([entry]) =&gt; { if (entry.isIntersecting) { setIsVisible(true); observer.disconnect(); } }, { rootMargin: &#39;400px&#39;, } ); if (imageRef.current) { observer.observe(imageRef.current); } return () =&gt; { if (imageRef.current) { observer.unobserve(imageRef.current); } }; }, []); return ( &lt;div className=&#39;slide&#39;&gt; {isVisible ? ( src.endsWith(&#39;.mp4&#39;) ? ( &lt;video src={src} 自动播放 循环 静音 playsInline ref={imageRef} className=&quot;slide-media&quot; /&gt; ) : ( &lt;img loading=&quot;lazy&quot; src={src} alt={`slidetop ${title}`} ref={imageRef} className=&quot;slide-media&quot; /&gt; ) ) : ( &lt;div className=&#39;slide-placeholder&#39; ref={imageRef}&gt;&lt;/div&gt; )} &lt;div className=&quot;slidetopoverlay&quot;&gt; &lt;p className=&quot;slidetopshow-container-title&quot;&gt;{title}&lt;/p&gt; &lt;p className=&quot;slidetopshow-container-extra&gt;{description}&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; ); }); const SliderTop = ({ images, direction }) =&gt; ( &lt;div className=&#39;SliderTop&#39;&gt; &lt;div className=&#39;slider-container&#39;&gt; &lt;InfiniteLoopSlider duration={DURATION} direction={direction}&gt; {images.map((img, index) =&gt; ( &lt;ImageSlide src={img.src} title={img.title} description={img.description} key={index} /&gt; ))} &lt;/InfiniteLoopSlider&gt; &lt;/div&gt; &lt;/div&gt; ); export default SliderTop; .SliderTop { 最小宽度：100vw; 显示：flex; 对齐项目：center; 对齐内容：center; 弹性方向：column; } .slider-container { 宽度：100vw; 高度：400px;; 位置：relative; overflow-x：hidden; } .loop-slider { 高度：100%; } .loop-slider .inner { 显示：flex; 宽度：fit-content; 动画名称：loop; 动画计时函数：linear; 动画迭代计数：infinite; 动画方向：normal; 动画持续时间：var(--duration); } .slide { 右边距：1rem; 宽度：260px; 高度：360.65px; 位置：relative; 文本对齐：center; } .slidetopshow-container-title { 边距：0 auto; 宽度：80%;字体大小：17px；颜色：白色；底部边距：10px；填充：5px 12px；边框半径：50px；显示：flex；对齐项目：center；对齐内容：center；盒子阴影：inset 0 0 15px rgba（20，110，255，0.5）；} .slide-placeholder {宽度：100％；高度：100％；背景颜色：#f0f0f0；显示：flex；对齐项目：center；对齐内容：center；} .slidetopshow-container-extra {字体大小：14px；颜色：rgb（229，229，229）；} .slide img，.slide video {object-fit：cover；盒子阴影：0 0.1rem 0.2rem rgb（0 0 0 / 20%），0 0.1rem 0.5rem rgb（0 0 0 / 30%），0 0.2rem 1.5rem rgb（0 0 0 / 40%）；宽度：260px；高度：360.65px；边框半径：15px；显示：块；不透明度：0.5；} .slidetopoverlay {位置：绝对；底部：0；左边：0；右边：0；填充：30px；背景：线性渐变（rgba（0, 0, 0, 0），rgb（51, 90, 153））；左下边框半径：15px；右下边框半径：15px；边框：0px；显示：flex；flex-direction：column；justify-content：flex-end；} @keyframes 循环 { 0% { 变换：translateX(var(--translate-start)); } 100% { 变换：translateX(var(--translate-end)); } }     提交人    /u/jakes7788   [链接] [评论]]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ebid1w/i_made_a_circular_slideshow_for_images_in_react/</guid>
       <pubDate>Thu, 25 Jul 2024 01:20:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我也想继续做自由职业者。    提交人    /u/Mplus479   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eb8rz0/what_could_i_do_in_the_field_of_web_development/</guid>
       <pubDate>Wed, 24 Jul 2024 18:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是一个简单的项目...*用 JavaScript 哭泣*</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eb8gt1/just_a_simple_projectcries_in_javascript/</link>
-      <description><![CDATA[您好！我只是在乱搞代码，想构建一个简单的应用程序供我自己的电脑使用，但可以访问一些外部的 RSS 源。我不打算发布、上传到 github 等。但是，我发现获得一个还算不错的 UI 的唯一方法是使用 React，而使用 React 意味着要下载 Node，而我只是在细节中摸索。我最大的困扰是它是否安全？出于某种原因，运行服务器感觉就像是暴露在攻击之下，但也许我有点偏执…… 再说一次，我只是把这当作一种爱好，所以请原谅我的无知——如果您有任何见解或不同的解决方法，我很乐意听听 :)    提交人    /u/viatorSpero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eb8gt1/just_a_simple_projectcries_in_javascript/</guid>
-      <pubDate>Wed, 24 Jul 2024 18:16:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
