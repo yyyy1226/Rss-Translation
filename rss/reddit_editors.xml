@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 26 Jul 2024 01:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 03:23:31 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Avid 在处理媒体方面如此糟糕？我想切换到 Premiere，但变化太大了</title>
+      <link>https://www.reddit.com/r/editors/comments/1ecd4dc/why_is_avid_so_terrible_at_dealing_with_media_i/</link>
+      <description><![CDATA[我使用 Avid 多年，我可以快速、高效地进行编辑。我喜欢使用它。 但是为什么处理媒体这么困难呢？使用 Premiere 基本上就是拖放，可以轻松创建代理，易于导入，无论源素材是什么。它只是适应并理解您要做什么。 为什么使用 Avid 时，它无法处理如此基本的功能而不会让人头疼？有人能向我解释为什么 Avid 没有像 Adob​​e 那样实现简单的导入吗？我很想继续使用 Avid，但它处理媒体的方式让自由职业变得异常困难。 还有，有人能推荐一些好的 Premiere 专业课程吗，这样我就可以达到 Premiere 技能与 Avid 技能相当的水平？当我的学习有条理时，我会学得更好    提交人    /u/tcarter1102   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ecd4dc/why_is_avid_so_terrible_at_dealing_with_media_i/</guid>
+      <pubDate>Fri, 26 Jul 2024 02:32:57 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Premiere 代理工作流程时将媒体送至调色师</title>
       <link>https://www.reddit.com/r/editors/comments/1ecayxi/getting_media_to_colorist_when_using_premiere/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>避免（重大的）小错误</title>
       <link>https://www.reddit.com/r/editors/comments/1ec2nkk/avoiding_big_small_mistakes/</link>
-      <description><![CDATA[大家好 我是一名视频编辑，在一家代理机构工作，是个新手。我有一些经验（1 年多或少），我认为我最大的缺点是我经常犯很多小错误（一些闪烁、没有居中等等）。  每个人都会犯错，但我总是重复犯错，我觉得我给团队和我自己带来了麻烦，我想改变这种状况。  今天，我觉得创建一个包含我经常犯的错误清单，这样在发送之前检查一下，这可能是一个好主意。但我认为从长远来看，我可以忽略那张清单，所以……你们是如何系统地避免这些错误的？     提交人    /u/SrThomsen   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我是一名视频编辑，在一家代理机构工作，是个新手。我有一些经验（1 年多或少），我认为我最大的缺点是我经常犯很多小错误（一些闪烁，没有居中等等）。  每个人都会犯错，但我总是重复犯错，我觉得我给团队和我自己带来了麻烦，我想改变这种状况。  今天，我认为创建一个包含我经常犯的错误清单，以便在发送之前检查它，这可能是一个好主意。但我认为从长远来看，我可以忽略该清单，所以...你们是如何系统地避免这些错误的？     提交人    /u/SrThomsen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ec2nkk/avoiding_big_small_mistakes/</guid>
       <pubDate>Thu, 25 Jul 2024 18:48:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[视频播放时有“雪花”干扰。但如果我逐帧播放，我可以看到图像。有什么建议吗？我在 FCPX 中工作。以下是发生的情况： https://www.youtube.com/watch?v=wPCxoG8E_PA    提交人    /u/PaulKropfl   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ebx41r/fix_for_damaged_archival_video/</guid>
       <pubDate>Thu, 25 Jul 2024 15:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>特定影院出口要求</title>
-      <link>https://www.reddit.com/r/editors/comments/1ebvyia/specific_cinema_export_requirements/</link>
-      <description><![CDATA[救命！ 这可能是一个愚蠢的问题，所以我很感谢你的耐心！ 我没有导出用于屏幕/电影院的经验，客户想在当地一家电影院播放我制作的广告 12 个月。 电影院详细说明的媒体工具包规格要求 JPEG2000/MJPEG-A @100% 质量的编码。  我正在 Premiere 上进行编辑，并尝试尽可能接近地匹配这些导出设置。 有什么建议或指示吗？ 编辑：所需的完整规格如下： 内容分辨率：1920x1080 像素几何：正方形 1：1 长宽比：16：9 [1.78：1] 色彩模式：8 位 RGB [24 位] 音频：48KHZ 16 位立体声 帧速率：23.976 或 24 文本安全区：1724x972 编码：JPEG2000/MJPEG-A @100％质量    由    /u/Cornstarchvanilla  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ebvyia/specific_cinema_export_requirements/</guid>
-      <pubDate>Thu, 25 Jul 2024 14:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
