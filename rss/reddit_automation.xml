@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 26 Jul 2024 12:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 15:21:19 GMT</lastBuildDate>
     <item>
       <title>电火花快速钻孔</title>
       <link>https://www.reddit.com/r/automation/comments/1ecmzc4/edm_fast_hole_drilling/</link>
@@ -83,13 +83,6 @@
       <pubDate>Sun, 21 Jul 2024 06:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>我的创业想法失败了但是......</title>
-      <link>https://www.reddit.com/r/automation/comments/1e81b6s/my_startup_idea_failed_but/</link>
-      <description><![CDATA[我们为处理大量 PDF 文档的办公室工作人员创建了一个非常酷的文档分割器和提取器。最好的部分是什么？它不需要像 Google Document AI 或 Azure Document Intelligence 那样进行任何预先训练。此外，它可以将数据提取为 JSON 并将组合的 PDF 文档拆分为正确的部分。 尽管我们在这方面取得了一些重大里程碑，但我知道它可能不是每个人的心头好。但如果您认为这对您的网站或您正在开发的任何功能有用，请告诉我！    提交人    /u/dhj9817   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1e81b6s/my_startup_idea_failed_but/</guid>
-      <pubDate>Sat, 20 Jul 2024 17:47:56 GMT</pubDate>
-    </item>
-    <item>
       <title>WhatsApp 至 Monday 自动化，从对话中提取所有信息并将其作为项目发布（不是 TimelinesAI）</title>
       <link>https://www.reddit.com/r/automation/comments/1e7t697/whatsapp_to_monday_automation_extracting_all_info/</link>
       <description><![CDATA[大家好， 我需要设置一个 WhatsApp 到 Monday 的自动化功能 -   当任何 WhatsApp 对话进来时（3 种类型：入站新线索、出站到现有客户、员工之间），它会提取信息（名称、对话类型、对话的主要内容（是新线索吗，还是订购东西？等）t 在 Monday 板上创建一个新项目 它将操作项目设置为注释（例如需要订购 X） 聊天本身将由当前某人手动回答，因此不需要自动化。   我尝试了 TimelinesAI，它很笨重，没有做我需要它做的事情。  还有其他选择吗？我也很高兴走 Zapier/Make 路线。  谢谢！    由    /u/Kittyisaboo 提交   [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[当企业决定开始自动化业务流程时，他们如何决定走哪条路？您是否更有可能使用 zapier 或 make 等知名工具？还是更喜欢聘请一家提供自己工具的自动化机构？ 如果您能提供任何关于是什么导致企业决定走上相应道路的建议，我们将不胜感激！    提交人    /u/Digital_Sprint   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1e7ggsu/how_do_businesses_choose_what_automation_tool_or/</guid>
       <pubDate>Fri, 19 Jul 2024 22:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名人工智能顾问，我刚刚用人工智能取代了我自己。</title>
+      <link>https://www.reddit.com/r/automation/comments/1e7aps8/im_an_ai_consultant_and_ive_just_replaced_myself/</link>
+      <description><![CDATA[我一直在研究一些提示技术来制作多步骤 GPT。事实证明，使用普通英语提示和代码的混合是可能的。这让我能够创建一个完成大部分工作的 GPT。 完整文章在这里：https://aipostscarcity.substack.com/p/im-an-ai-consultant-and-ive-just?r=1vhv07    提交人    /u/andysurtees   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1e7aps8/im_an_ai_consultant_and_ive_just_replaced_myself/</guid>
+      <pubDate>Fri, 19 Jul 2024 18:25:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
