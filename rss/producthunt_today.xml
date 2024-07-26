@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jul 2024 18:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 21:21:34 GMT</lastBuildDate>
     <item>
       <title>这就是你所说的！</title>
       <link>https://www.producthunt.com/posts/that-s-what-you-said</link>
@@ -34,6 +34,20 @@
       <pubDate>Fri, 26 Jul 2024 02:13:59 GMT</pubDate>
     </item>
     <item>
+      <title>书迷</title>
+      <link>https://www.producthunt.com/posts/bookfave</link>
+      <description><![CDATA[
+探索畅销书和杰出创意的世界
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bookfave</guid>
+      <pubDate>Thu, 25 Jul 2024 21:11:02 GMT</pubDate>
+    </item>
+    <item>
       <title>SearchGPT 原型</title>
       <link>https://www.producthunt.com/posts/searchgpt-prototype</link>
       <description><![CDATA[
@@ -46,20 +60,6 @@ OpenAI 新搜索功能原型
 ]]></description>
       <guid>https://www.producthunt.com/posts/searchgpt-prototype</guid>
       <pubDate>Thu, 25 Jul 2024 18:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>MBox人工智能见面会</title>
-      <link>https://www.producthunt.com/posts/mbox-ai-meet</link>
-      <description><![CDATA[
-Google Meet 实时转录，带有 AI 摘要
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mbox-ai-meet</guid>
-      <pubDate>Thu, 25 Jul 2024 16:37:23 GMT</pubDate>
     </item>
     <item>
       <title>百里香与告诉</title>
@@ -93,7 +93,7 @@ Google Meet 实时转录，带有 AI 摘要
       <title>有状态的</title>
       <link>https://www.producthunt.com/posts/stateful</link>
       <description><![CDATA[
-团队版 DevOps Notebooks
+团队版 DevOps 笔记本
 
 
 讨论
