@@ -4,13 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 25 Jul 2024 21:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 01:26:36 GMT</lastBuildDate>
     <item>
-      <title>“即兴”视频编辑器。</title>
-      <link>https://www.reddit.com/r/editors/comments/1ec5sqz/monteur_vidéo_unscripted_non_scénarisé/</link>
-      <description><![CDATA[晚上好！我看到一则无脚本编辑职位的招聘广告。一般编辑的工作有什么区别？这意味着什么？例如，它是否可以在没有简报的情况下独立工作？    由   提交 /u/Margareth92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ec5sqz/monteur_vidéo_unscripted_non_scénarisé/</guid>
-      <pubDate>Thu, 25 Jul 2024 20:57:03 GMT</pubDate>
+      <title>使用 Premiere 代理工作流程时将媒体送至调色师</title>
+      <link>https://www.reddit.com/r/editors/comments/1ecayxi/getting_media_to_colorist_when_using_premiere/</link>
+      <description><![CDATA[大家好， 想知道是否有人遇到过这种情况。我正在编辑一个项目，并使用自动代理生成工作流程在 Premiere 中创建代理。因此，我的所有原始媒体都在带有附加代理文件的项目中。我们正在使用 Lucid Link 进行编辑，因此我们所有的媒体都在那里。 我们现在需要通过上传文件将媒体发送给调色师。我尝试使用项目管理器，在我的颜色准备序列中关闭代理，并尝试将原始 MXF 合并并转码为 ProRes 4444。第一个问题是项目管理器似乎没有意识到我只选择了准备序列，它开始转码项目中的所有媒体。 第二个问题是，它仍在转码代理文件，而不是 MXF，即使我关闭了它们。然后我尝试完全分离代理文件，问题仍然存在。 幸运的是，我有原始素材驱动器，所以现在我只需从那里上传原始剪辑给调色师即可。但这意味着我根本无法修剪它们以节省时间，而且我必须手动进入并抓取每个剪辑进行上传。 想知道是否有人知道如何在使用 Premiere 中的代理工作流程时有效地将原始文件发送给调色师？    提交人    /u/dsedit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ecayxi/getting_media_to_colorist_when_using_premiere/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:45:01 GMT</pubDate>
     </item>
     <item>
       <title>申请你不符合所有资格的工作</title>
@@ -18,6 +18,13 @@
       <description><![CDATA[我一直在寻找新的工作机会，有时会遇到我不符合所有资格要求的职位。通常，这只是意味着我缺乏他们所期望的工作年限，但拥有他们所要求的所有技能。一般来说，即使你不符合他们的所有标准，也要申请工作（事实上，我很确定我在申请时不符合我目前工作的所有资格要求）。 也许这是一个愚蠢的问题，但在这种情况下礼仪是什么？我的直觉是不强调任何不足之处，但我是否应该在求职信中提到它？当然，我当然不打算就我的资格撒谎。我能做些什么来提高获得我不完全“合格”的工作的机会？    提交人    /u/cutcutpastepaste   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ec4hlb/applying_to_jobs_you_dont_meet_all_the/</guid>
       <pubDate>Thu, 25 Jul 2024 20:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么显示器进行编辑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ec41qo/what_monitor_do_you_use_for_editing/</link>
+      <description><![CDATA[对于那些应用色彩等级和使用白平衡的人，您使用的是游戏 ips 显示器还是专业显示器？它如何影响您的工作？     提交人    /u/lastsliceofpizza0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ec41qo/what_monitor_do_you_use_for_editing/</guid>
+      <pubDate>Thu, 25 Jul 2024 19:45:15 GMT</pubDate>
     </item>
     <item>
       <title>环球电影领导者帮忙？</title>
@@ -69,25 +76,11 @@
       <pubDate>Thu, 25 Jul 2024 17:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能学习类似的编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ec0ma4/how_can_i_learn_the_similar_editing/</link>
-      <description><![CDATA[我看到一些优秀的编辑完成了令人惊叹的工作，我想了解更多。我看到了以下短片，它引起了我的注意，编辑能够显示笔记本电脑。有什么想法可以实现吗？ https://youtube.com/shorts/UH8xhZqx6ZQ?si=lQR2Q6YsUbckogo_    提交人    /u/ApprehensiveCable641   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ec0ma4/how_can_i_learn_the_similar_editing/</guid>
-      <pubDate>Thu, 25 Jul 2024 17:26:46 GMT</pubDate>
-    </item>
-    <item>
       <title>想摆脱我的 13700k、Rtx 3080 并转而使用 M2 Pro Mac Mini 我疯了吗？大多数情况下，编辑高达 4K 的 SD 需要最快的导出时间。</title>
       <link>https://www.reddit.com/r/editors/comments/1ec0gub/thinking_of_getting_rid_of_my_13700k_rtx_3080_and/</link>
       <description><![CDATA[  由    /u/waloshin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ec0gub/thinking_of_getting_rid_of_my_13700k_rtx_3080_and/</guid>
       <pubDate>Thu, 25 Jul 2024 17:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获得客户</title>
-      <link>https://www.reddit.com/r/editors/comments/1ec0gc5/how_to_get_clients/</link>
-      <description><![CDATA[您好，我是来自印度的平面设计师和视频编辑，拥有 2.5 年的工作经验。最初，我只专注于平面设计，但一年后，我将自己的技能扩展到视频编辑。我曾与一些受欢迎的印度 YouTuber 合作过，但那只是一份短期工作。为了寻求更多的稳定性，我加入了一家公司，但不幸的是，这家公司的薪水不高。后来，我获得了国际客户，但这些机会的薪水也很低。我正在寻找建议，了解如何在印度以外获得薪水更高的客户，或与未来项目的潜在合作者建立联系。    提交人    /u/Many_End2944   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ec0gc5/how_to_get_clients/</guid>
-      <pubDate>Thu, 25 Jul 2024 17:20:01 GMT</pubDate>
     </item>
     <item>
       <title>远程自由职业新手 - 需要建议</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[视频播放时有“雪花”干扰。但如果我逐帧播放，我可以看到图像。有什么建议吗？我在 FCPX 中工作。以下是发生的情况： https://www.youtube.com/watch?v=wPCxoG8E_PA    提交人    /u/PaulKropfl   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ebx41r/fix_for_damaged_archival_video/</guid>
       <pubDate>Thu, 25 Jul 2024 15:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>特定影院出口要求</title>
+      <link>https://www.reddit.com/r/editors/comments/1ebvyia/specific_cinema_export_requirements/</link>
+      <description><![CDATA[救命！ 这可能是一个愚蠢的问题，所以我很感谢你的耐心！ 我没有导出用于屏幕/电影院的经验，客户想在当地一家电影院播放我制作的广告 12 个月。 电影院详细说明的媒体工具包规格要求 JPEG2000/MJPEG-A @100% 质量的编码。  我正在 Premiere 上进行编辑，并尝试尽可能接近地匹配这些导出设置。 有什么建议或指示吗？ 编辑：所需的完整规格如下： 内容分辨率：1920x1080 像素几何：正方形 1：1 长宽比：16：9 [1.78：1] 色彩模式：8 位 RGB [24 位] 音频：48KHZ 16 位立体声 帧速率：23.976 或 24 文本安全区：1724x972 编码：JPEG2000/MJPEG-A @100％质量    由    /u/Cornstarchvanilla  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ebvyia/specific_cinema_export_requirements/</guid>
+      <pubDate>Thu, 25 Jul 2024 14:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
