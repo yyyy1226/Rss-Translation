@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 28 Jul 2024 01:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 03:22:14 GMT</lastBuildDate>
+    <item>
+      <title>代币是什么以及为什么重要：你需要知道的一切</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edxuir/tokens_what_are_they_and_why_they_matter/</link>
+      <description><![CDATA[我知道对于很多人来说这都是基本的东西，但对于那些可能听说过 token、token 窗口、上下文大小这些词，但不完全理解 token 是什么以及它为什么重要的人来说，你可能会从中获得一些价值。 下面是包含所有关键部分的摘要，但完整的博客在这里 那么什么是 token？ token 是大型语言模型 (LLM)（如 ChatGPT、GPT-3 等）使用的文本的基本构建块。您可以将标记视为构成 AI 系统用于交流的“单词”和“句子”的“字母”。 具体来说，标记是输入到机器学习模型中并由其生成的文本片段。这些可以是单个字符、整个单词、单词的一部分，甚至是更大的文本块。例如，您刚刚阅读的两个句子包含 34 个单词，即 40 个标记。一个有用的经验法则是，一个标记通常对应于常见英语文本的 ~4 个文本字符。这大约相当于一个单词的 ¾（因此 100 个标记 ~= 75 个单词）。 将文本分解为标记的过程称为标记化。这使 AI 能够分析和“消化”人类语言，使其成为它可以理解的形式。令牌成为用于训练、改进和运行 AI 系统的数据。 为什么令牌如此重要？ 有两个主要原因需要理解令牌： 令牌限制：所有 LLM 在每个输入或响应中可以处理的最大令牌数量。此限制范围从小型模型的几千个到大型商业模型的数万个。超过令牌限制可能会导致 AI 出现错误、混乱和质量低下的响应。把它想象成一个短期记忆有限的朋友。你必须保持在他们可以吸收的范围内，否则他们会超负荷并失去对对话的跟踪。令牌限制对 AI 机器人的运作方式相同。 成本：当人们访问他们的 AI 服务时，像 Anthropic、Alphabet 和 Microsoft 这样的公司会根据令牌使用情况收费。通常定价是每 1000 个令牌。因此，输入到系统中的令牌越多，生成响应的成本就越高。令牌限制有助于控制费用。 消息上限：大多数聊天机器人（例如 ChatGPT 和 Claude），即使是高级订阅也会限制您每天可以发送的消息数量。通过优化并注意提示的大小，您可以从订阅中获得更多收益！ 虽然令牌和标记化乍一看似乎很复杂，但核心思想相对简单。令牌使 AI 机器人能够用人类语言交谈。了解它们的工作原理有助于避免常见的陷阱并改善您的体验。通过练习，使用令牌进行提示工程将成为第二天性。 因此，下次您听到与 ChatGPT 或其他热门 AI 趋势一起提到的“令牌”时，您就会确切地知道它的含义以及它的重要性。令牌系统构成了将人类交流转化为机器逻辑的基础。随着人工智能的进步，其从有限的输入标记中生成丰富信息的能力也将不断增强。 感谢阅读！    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edxuir/tokens_what_are_they_and_why_they_matter/</guid>
+      <pubDate>Sun, 28 Jul 2024 03:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我的效率不如人工智能，那我还有什么用呢？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edxf9z/if_im_less_efficient_than_ai_what_earthly_use_am_i/</link>
+      <description><![CDATA[基本上，我们必须在经济框架之外重新概念化自己。这是出乎意料的挑战。 https://open.substack.com/pub/humanpost/p/if-im-less-effective-than-ai-what?r=3jbkxu&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true    提交人    /u/bpfusi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edxf9z/if_im_less_efficient_than_ai_what_earthly_use_am_i/</guid>
+      <pubDate>Sun, 28 Jul 2024 02:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>艾与上帝对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edw48o/ai_talks_to_god/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[不确定这种情况是否存在，但我希望能够上传行业特定电子产品的手册（PDF /照片），并在遇到电子产品时使用它来帮助我排除故障。     提交人    /u/Sendapicofyour80085   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edt2b3/is_there_an_ai_i_can_upload_user_manuals_to/</guid>
       <pubDate>Sat, 27 Jul 2024 22:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>元认知专家（GPT4）✨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edrh6g/meta_cognitive_expert_gpt4/</link>
-      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edrh6g/meta_cognitive_expert_gpt4/</guid>
-      <pubDate>Sat, 27 Jul 2024 21:44:07 GMT</pubDate>
     </item>
     <item>
       <title>尝试人工智能</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[思想实验：这重要吗？如果不可能，那就应该证明 AI 内容是原创的，如果可能，我们就可以真正深入研究图像相对于原始来源生成的细节，更不用说我们可以确保 AI 公司不会违反版权/许可/剽窃/等等。与我们制定自己的内容的方式相比，可视化/阅读它如何制作自己的内容也很有趣。想想艺术风格和写作风格，甚至可能是超级书呆子的技术术语。 TLDR；标题是一个问题。正文是一个思想实验。    提交人    /u/MasterPatriot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edmna3/is_it_possible_to_reverse_enginer_generative_ai/</guid>
       <pubDate>Sat, 27 Jul 2024 18:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一本好书来指导我的认知心理学课程，将认知心理学与人工智能 / genAI 联系起来</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edh6gk/need_good_book_to_assign_my_cognitive_psych_class/</link>
-      <description><![CDATA[你好， 我是认知心理学教授。除了正常的讲座材料外，我通常会在 200 级认知心理学课程中指定 Kahneman 的《思考，快与慢》。 我正在修改课程，在很多相关的地方涉及生成式人工智能，但我很想找一本书（非教科书）来指定，让他们快速了解或思考人工智能与认知心理学的关系。 针对一般读者，而不是计算机科学专业。 你能想到有什么适合这门课的东西吗，或者我应该结合一些较小的阅读材料？    提交人    /u/notthatkindadoctor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edh6gk/need_good_book_to_assign_my_cognitive_psych_class/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:06:55 GMT</pubDate>
     </item>
     <item>
       <title>如何从语音音频中提取表现力，然后获得提取的表现力曲线？</title>
