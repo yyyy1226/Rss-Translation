@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 29 Jul 2024 01:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 03:24:01 GMT</lastBuildDate>
+    <item>
+      <title>海康威视实时取景 5 分钟后停止</title>
+      <link>https://www.reddit.com/r/software/comments/1eep8xs/hikvison_live_view_stopping_after_5minites/</link>
+      <description><![CDATA[  由    /u/Due_Employer_2995  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eep8xs/hikvison_live_view_stopping_after_5minites/</guid>
+      <pubDate>Mon, 29 Jul 2024 03:06:55 GMT</pubDate>
+    </item>
     <item>
       <title>有什么软件可以通过本地网络为 USB 网络摄像头提供信号吗？</title>
       <link>https://www.reddit.com/r/software/comments/1eel19z/software_to_serve_a_usb_webcam_feed_over_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿！我目前正在寻找某种可以记录我的鼠标按钮（或者可能是网站上的某些窗口）并自动执行它们的宏软件。  有关更多信息，我正试图摆脱我在 Meta 的主题上的所有帖子，手动执行几乎是不可能的，而且似乎也没有工具可以做到这一点。  也许有人知道我可以使用什么？    提交人    /u/TobeyDE   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ee6v1q/software_to_automate_one_certain_action/</guid>
       <pubDate>Sun, 28 Jul 2024 12:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 文件资源管理器（文件夹和文件名）管理器？</title>
-      <link>https://www.reddit.com/r/software/comments/1ee5z9x/windows_file_explorer_folder_and_file_name_manager/</link>
-      <description><![CDATA[您好！ 我想知道是否有人能帮我寻找适用于 Windows 11 的文件/文件夹管理器，它允许我更改文件夹或文件名的显示方式，而无需实际重命名它们。它可以让我为文件夹创建显示别名，同时在系统中保留其原始名称，以免对相关软件造成任何问题。 提前谢谢您！ 此致敬意。    提交人    /u/6174Unknown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ee5z9x/windows_file_explorer_folder_and_file_name_manager/</guid>
-      <pubDate>Sun, 28 Jul 2024 12:08:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
