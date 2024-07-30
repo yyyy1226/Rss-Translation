@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 21:20:22 GMT</lastBuildDate>
+    <item>
+      <title>说实话，你为什么要从事开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1eg291g/be_honest_why_do_you_work_on_opensource_projects/</link>
+      <description><![CDATA[您好，我见证了许多开源项目从一开始只有一位或几位创始人，到成长为一个真正的社区。但我永远好奇，是什么促使这些人，也许有着普通的工作，牺牲大量的个人时间，来编写开源人工智能解决方案或其他什么？请不要给我“为了人类”的答案，我知道有些充满激情的人沉迷于编码，但他们是少数，所以我很想知道另一类人的动机，他们是下班后疲惫的普通人。谢谢！    提交人    /u/shesHereyeah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1eg291g/be_honest_why_do_you_work_on_opensource_projects/</guid>
+      <pubDate>Tue, 30 Jul 2024 19:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maelstrom – 适用于 Go、Python 和 Rust 的密封集群测试运行器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1eg19oa/maelstrom_a_hermetic_clustered_test_runner_for_go/</link>
+      <description><![CDATA[  由    /u/bobbobbio2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1eg19oa/maelstrom_a_hermetic_clustered_test_runner_for_go/</guid>
+      <pubDate>Tue, 30 Jul 2024 18:48:16 GMT</pubDate>
+    </item>
     <item>
       <title>用于快速设置新 Godot 4 C# 游戏的模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1eg03v6/a_template_used_for_quickly_setting_up_new_godot/</link>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 29 Jul 2024 14:54:12 GMT</pubDate>
     </item>
     <item>
-      <title>请求创建开源移动操作系统 - 免费和/或每月支付 1 美元</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ef0kg0/request_to_create_open_source_mobile_operating/</link>
-      <description><![CDATA[我不太擅长操作系统开发，所以无法制作自己的操作系统。 此请求的动机： 如果我们有一个 Debian Mobile（开源）、一个 Ubuntu Mobile（免费和每月支付 1 美元）、一个 RHEL Mobile（每月支付 1 美元）、Rocky Linux Mobile（免费）；并且希望还有一个基于文本的 Unix Mobile；事情会变得非常好。 一些旧手机可用于运行简单的 LAMP 服务器，而不必购买空间。 有些可以重新用作连接到我网络的云存储。 请求 希望这里的某个人/团队能够制作出好的开源操作系统，可以安装在我们的手机上 - 就像我可以删除笔记本电脑自带的 Windows 并使用 USB 安装 Debian 一样。 同样，我应该能够解锁我的摩托罗拉引导程序，使用我的 USB C 驱动器并在我的手机上安装 Debian Mobile。 就像在任何行业一样，至少有 3-10 个拥有独立技术、操作系统、浏览器引擎等的强大参与者也应该是这样的。否则，如果只有一半的玩家决定技术应该如何发展，那么我们将错过很多选择。 对于操作系统，我希望至少有 5 个，以及它们的分支 - 比如用于桌面的 - Unix（像 Solaris 等分支）、Linux（像 debian、fedora、ubuntu、lubuntu 这样的分支和 therk 分支）、Mac、Windows、RTOS 等 对于移动设备也应该像 - AOSP、Linux、Unix、iOS、Windows、新版本 - 以及它们的分支。用户应该可以自由购买和安装任何这些操作系统。 我理解一个很大的困难是一些核心驱动程序不像 CPU、GPU、NPU 和相机那样容易和完全可用。 一旦你遇到这个阻碍，我们普通人就可以提高我们的声音，迫使骁龙、联发科和相机制造商发布驱动程序。我们普通人有充分的理由提出要求。 我提出这个要求是因为在过去 15 年里，无论是 Android 还是 iOS，都没有为移动操作系统做出太多贡献。除了总体上 20% 的改进外，其他几乎都一样。 我知道所有基于 AOSP 的操作系统 - 用过其中一些。它们不够好。依我之见，基于 AOSP 的操作系统并不那么好，希望看到纯基于 linux/unix/一些新东西的操作系统。    提交人    /u/ElizabethThomas44   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ef0kg0/request_to_create_open_source_mobile_operating/</guid>
-      <pubDate>Mon, 29 Jul 2024 14:13:02 GMT</pubDate>
-    </item>
-    <item>
       <title>超级线程正在运行的 Invidious/Freetube/Piped 实例？</title>
       <link>https://www.reddit.com/r/opensource/comments/1eezexs/megathread_your_working_invidiousfreetubepiped/</link>
       <description><![CDATA[嘿伙计们，我们可以为 YouTube 替代品的工作实例启动一个大型讨论帖吗？我在 reddit 上找不到任何类似的东西，而且由于 YT 的持续阻止策略，我几乎每两三天就必须切换一次 Invidious 实例。  现在，我正在使用 yewtu.be、https://piped.video/ 和 https://invidious.reallyaweso.me/ 作为 Web 或 FreeTube 实例。 也许这可以帮助很多人跟踪工作实例？ 干杯！    提交人    /u/Sensitive_Plenty2649   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eezexs/megathread_your_working_invidiousfreetubepiped/</guid>
       <pubDate>Mon, 29 Jul 2024 13:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该向开源贡献者付费吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eexsov/should_i_pay_opensource_contributors/</link>
-      <description><![CDATA[经过几年的奉献，我最近将我的一个 Next.js 项目公之于众。我现在想知道围绕向小型开源项目付费贡献的规范。 对开发人员创建新模块或做出重大贡献进行经济补偿是一种常见的做法吗？我正在考虑每月留出几百美元的预算来激励对我的项目做出有意义的贡献。 任何见解都将不胜感激！    提交人    /u/BillyTheMilli   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eexsov/should_i_pay_opensource_contributors/</guid>
-      <pubDate>Mon, 29 Jul 2024 12:04:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
