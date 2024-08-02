@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 02 Aug 2024 03:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 06:31:23 GMT</lastBuildDate>
+    <item>
+      <title>未来五年内，你将只能使用一种技术栈，它是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ei2r4t/you_will_be_stuck_with_one_tech_stack_for_the/</link>
+      <description><![CDATA[你建立了全栈网站 但是一个巫师诅咒了你！ 现在，无论你使用什么技术堆栈，在未来 5 年内，你都将无法切换到其他技术堆栈 这适用于重叠工具 如果你选择 react，则以后无法切换到 Vue 如果你选择 postgresql，则不能使用 mongoDB 如果你选择 tailwind，则不能切换到 bootstrap 等其他工具 如果你的后端在 node 上运行，则不能切换到 go 或 php 如果你部署到 vercel，则不能使用 digital ocean 你也可以选择 supabase、firebase、auth 库、邮件服务等服务，应用相同的重叠规则 你始终可以使用 vanilla html、css 和 JavaScript，因为这些都被视为&quot;强制性&quot; 如果您被困在一个堆栈中，您会被困在哪个堆栈中？    提交人    /u/saito200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ei2r4t/you_will_be_stuck_with_one_tech_stack_for_the/</guid>
+      <pubDate>Fri, 02 Aug 2024 06:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚接触 Web 开发全栈，有很多高级问题！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ei04rk/new_to_web_dev_full_stack_lots_of_high_level/</link>
+      <description><![CDATA[我是一名刚入行的 Web 开发程序员，想开发一个 Web 应用。 我问了 chat gpt 如何实现，它建议我使用 React.js 作为前端，使用 Express/Node 作为后端。 我的应用是一个非常简单的文件提交，AI api 会对其进行分析。我的主要问题在于这些东西是如何在一台机器（我的）上制作的，然后基本上分发到互联网上。我用来部署应用的任何平台如何知道我的前端和后端需要专门相互通信？ 有没有人有任何好的教程/资源来解释/部署全栈应用到 Web？ 如何为回访用户存储信息？这是我在自己的计算机上托管的数据库还是云服务中的存储？ 我了解一些小部分，例如 React 如何做前端，或者数据库如何工作。但我不明白它们是如何结合在一起并部署给用户的。我很想得到一个教程/解释来解释所有这些小事情，因为我没有多年的经验。    提交人    /u/FlashyEnvironment534   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ei04rk/new_to_web_dev_full_stack_lots_of_high_level/</guid>
+      <pubDate>Fri, 02 Aug 2024 03:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>ASP.NET Core MVC 和 Razor 的 UI 框架（又名 Bootstrap 替代品）</title>
       <link>https://www.reddit.com/r/webdev/comments/1ehzxfb/ui_framework_for_aspnet_core_mvc_and_razor_aka/</link>
@@ -76,13 +90,6 @@
       <pubDate>Thu, 01 Aug 2024 23:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>吐槽我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ehutug/roast_my_website/</link>
-      <description><![CDATA[因此，我为我的新创业公司完成了网站的大部分页面（除了几个页面），我希望有更多经验丰富的人来彻底批评我的网站。我的目标是了解我可以改进和做得更好的地方。  网站是 www.solarius.solar 尽你所能 :)    提交人    /u/Gaster6666   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ehutug/roast_my_website/</guid>
-      <pubDate>Thu, 01 Aug 2024 23:15:09 GMT</pubDate>
-    </item>
-    <item>
       <title>Webhook - WooCommerce Stripe 问题 - 它重要吗？如何修复？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ehtevd/webhook_woocommerce_stripe_issue_is_it_important/</link>
       <description><![CDATA[在 WPWngine 上的 WordPress 后端，在 WooCommerce 网站上，在启用 Stripe 的区域中，webhook 显示为已禁用，但登录 Stripe 时，它​​会显示 webhook 已启用。感谢您的任何见解！     提交人    /u/Reshab99   [link] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[为防止公司有人发现此帖子，某些详细信息已更改以保持匿名。 正如标题所述，我目前与客户签订了为期 4 个月的合同，负责重新开发一个网站。现在的问题是，他们有一个平面设计师，他为我提供的设计非常奇怪和古怪，不符合良好的网页设计原则，而且看起来很糟糕。 此外，客户感到压力很大，因为我无法以他们在 Wix 中构建网站的速度自定义编码网站。他似乎不明白，使用看起来像传单的古怪设计自定义编码网站需要时间，而且不会像拖放网站那样快速完成。我已经工作了 2 周，他期望我能以这种速度和条件取得比我更多的进展。我也正在为这个项目学习自定义 wordpress 主题开发，因此它花费的时间更长，因为我必须不断参考文档。 现在我陷入了两难境地。要么我：1. 只听从平面设计师的命令，而不必费心添加我自己的优秀网页设计知识。 或者   将我的知识和经验付诸实践，尝试构建一个具有良好网页设计的网站，但也包括平面设计师想要的一些古怪的东西。我需要说服老板，这将比 Wix 花费更长的时间，但好处是自定义编码的网站。  我该怎么办？要么埋头成为代码猿，要么试图与平面设计师的糟糕设计作斗争，从而进一步推迟项目。 现在的就业市场很糟糕。我是一名刚刚大学毕业的初级开发人员。这是我急需的第一笔收入。帮助。    由   提交  /u/Dev_throwaway12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eht6z3/how_to_deal_with_client_providing_bad_designs_and/</guid>
       <pubDate>Thu, 01 Aug 2024 22:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建用于 SEO 实践的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ehscbe/creating_a_website_for_seo_practice/</link>
-      <description><![CDATA[正如标题所说，我正在尝试学习 SEO，有人建议我尝试使用一个网站进行 SEO 练习。有什么建议可以从哪里开始吗？    提交人    /u/DrewH1999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ehscbe/creating_a_website_for_seo_practice/</guid>
-      <pubDate>Thu, 01 Aug 2024 21:26:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
