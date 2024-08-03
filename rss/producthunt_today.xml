@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 09:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 12:36:49 GMT</lastBuildDate>
     <item>
       <title>城市网格</title>
       <link>https://www.producthunt.com/posts/urban-grid</link>
@@ -51,7 +51,7 @@ YouTube 缩略图滑动文件创建器
       <title>性能</title>
       <link>https://www.producthunt.com/posts/perfio</link>
       <description><![CDATA[
-Web Vitals 和性能监控
+Web 重要信息和性能监控
 
 
 讨论
@@ -132,34 +132,6 @@ PasteBin 的开源替代品
       <pubDate>Thu, 01 Aug 2024 11:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>Kyyro（Buildspace S5）</title>
-      <link>https://www.producthunt.com/posts/kyyro-buildspace-s5</link>
-      <description><![CDATA[
-与全球随机技术人员进行视频聊天的网站
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kyyro-buildspace-s5</guid>
-      <pubDate>Wed, 31 Jul 2024 13:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>月光</title>
-      <link>https://www.producthunt.com/posts/moonglow</link>
-      <description><![CDATA[
-在云 GPU 上运行本地 Jupyter 笔记本
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/moonglow</guid>
-      <pubDate>Mon, 29 Jul 2024 19:59:20 GMT</pubDate>
-    </item>
-    <item>
       <title>Jotlify (BuildSpace S5)</title>
       <link>https://www.producthunt.com/posts/jotlify-buildspace-s5</link>
       <description><![CDATA[
@@ -177,7 +149,7 @@ PasteBin 的开源替代品
       <title>Subbb.me</title>
       <link>https://www.producthunt.com/posts/subbb-me</link>
       <description><![CDATA[
-在几分钟内将您的在线社区货币化
+几分钟内让您的在线社区盈利
 
 
 讨论
@@ -188,10 +160,24 @@ PasteBin 的开源替代品
       <pubDate>Sat, 27 Jul 2024 05:12:56 GMT</pubDate>
     </item>
     <item>
+      <title>文蒂夫</title>
+      <link>https://www.producthunt.com/posts/ventivo</link>
+      <description><![CDATA[
+围绕您的 Firebase 数据的实时图表
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ventivo</guid>
+      <pubDate>Fri, 26 Jul 2024 22:00:46 GMT</pubDate>
+    </item>
+    <item>
       <title>明达克</title>
       <link>https://www.producthunt.com/posts/minduck</link>
       <description><![CDATA[
-通过思维导图转换，将想法转化为创作形式。
+通过思维导图转换将想法转化为创作形式
 
 
 讨论
@@ -202,18 +188,32 @@ PasteBin 的开源替代品
       <pubDate>Sat, 20 Jul 2024 17:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>流动调节器</title>
-      <link>https://www.producthunt.com/posts/flowmodor</link>
+      <title>逃离算法</title>
+      <link>https://www.producthunt.com/posts/escape-the-algorithm</link>
       <description><![CDATA[
-灵活的焦点计时器可帮助您保持心流状态
+重新掌控时间，逃离算法
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/flowmodor</guid>
-      <pubDate>Sat, 20 Jan 2024 03:55:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/escape-the-algorithm</guid>
+      <pubDate>Thu, 11 Jul 2024 17:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HappyPagesAI</title>
+      <link>https://www.producthunt.com/posts/happypagesai</link>
+      <description><![CDATA[
+创建个性化着色页
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/happypagesai</guid>
+      <pubDate>Mon, 01 Jul 2024 12:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
