@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 04 Aug 2024 01:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 03:22:31 GMT</lastBuildDate>
     <item>
       <title>获得演出机会的礼仪？</title>
       <link>https://www.reddit.com/r/editors/comments/1ejioml/etiquette_for_getting_a_gig/</link>
@@ -92,7 +92,7 @@
     <item>
       <title>相机连续移动时为 23.98 至 25 fps</title>
       <link>https://www.reddit.com/r/editors/comments/1ehzq09/2398_to_25_fps_on_continuous_camera_move/</link>
-      <description><![CDATA[正在制作一个 30 秒的视频，该视频以 60fps 拍摄，时间基数为 23.98。Premiere 中的时间线设置为 23.98，所有素材都加速了 250%。该视频由长而流畅的摄像机移动组成，帧中有很多精细的细节，几乎没有剪切。一切都很好，运行流畅。 现在收到以 25 fps 导出到欧洲播出的请求。在时间轴中转换时，我得到的结果并不令人满意：   只需将视频放入 25fps 序列中就会使视频缩短一秒多。 将视频放入 25 fps 序列并将其加速 4% 会每秒创建一个额外的帧，这在平滑的相机移动中非常明显地出现了 1 帧抖动/闪烁。 使用光流处理速度的增加会在细节上产生伪影。 将 23.98 序列导出为 25 fps 会产生相同的结果，要么是间歇性的“跳过”，要么是伪影。  有什么想法或经验吗？    提交人    /u/enno108   [链接] [评论]]]></description>
+      <description><![CDATA[正在制作一个 30 秒的视频，该视频以 60fps 拍摄，时间基数为 23.98。Premiere 中的时间线设置为 23.98，所有素材都加速了 250%。该视频由长而流畅的摄像机移动组成，帧中有很多精细的细节，几乎没有剪切。一切都很好，运行流畅。 现在收到以 25 fps 导出到欧洲播出的请求。在时间轴中转换时，我得到的结果并不令人满意：   只需将视频放入 25fps 序列中就会使视频缩短一秒多。 将视频放入 25 fps 序列并将其加速 4% 会每秒创建一个额外的帧，这在平滑的相机移动中非常明显，即 1 帧抖动/闪烁。 使用光流处理速度的增加会在细节上产生伪影。 将 23.98 序列导出为 25 fps 会产生相同的结果，要么是间歇性的“跳过”，要么是伪影。  有什么想法或经验吗？    提交人    /u/enno108   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ehzq09/2398_to_25_fps_on_continuous_camera_move/</guid>
       <pubDate>Fri, 02 Aug 2024 03:11:57 GMT</pubDate>
     </item>
