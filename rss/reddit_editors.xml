@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 05 Aug 2024 01:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 03:23:25 GMT</lastBuildDate>
+    <item>
+      <title>需要一个视频编辑器。</title>
+      <link>https://www.reddit.com/r/editors/comments/1ekdp4d/needed_a_video_editor/</link>
+      <description><![CDATA[大家好， 我正在寻找热情且技术娴熟的视频编辑人员来加入一个令人兴奋的新项目。如果您对细节有敏锐的洞察力、擅长通过视觉讲故事，并且有编辑软件的经验，我很乐意听到您的声音！ 您可以通过以下方式与我们联系： 电子邮件：[sadyantra59@gmail.co](mailto:sadyantra59@gmail.co)    提交人    /u/EzSuGaM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ekdp4d/needed_a_video_editor/</guid>
+      <pubDate>Mon, 05 Aug 2024 03:17:25 GMT</pubDate>
+    </item>
     <item>
       <title>预告片编译建议</title>
       <link>https://www.reddit.com/r/editors/comments/1ekbop7/teaser_compilation_advice/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我目前已通过 PCIe 将 DNxIQ 连接到我的工作站。我有一台通过 hdmi 输出连接到 io 盒的台式显示器，另一台通过 sdi 输出连接到 BMD 12g SDI 到 HDMI 微型转换器的 55 英寸电视的 hdmi 连接。台式显示器有 1 帧延迟，电视有 3 帧延迟 - 这绝对让我抓狂。 我知道 Avid 中有一个桌面播放延迟设置，但由于第三台显示器和电视的偏移帧不同（1 vs 3f），有没有人有解决方案来同步显示器，这样就不会出现延迟？和/或有没有人有好的 55 英寸以上的电视/显示器建议，不会出现这么严重的延迟？台式显示器是三星 U28E590。电视我不确定。 如果有人有使用 io 盒的经验，是否可以通过 hdmi 无延迟输出，或者总是会至少有 1 帧关闭？ 旁注：当我在 Avid 的桌面播放延迟设置中偏移同步延迟帧时 - 它是否也会延迟音频（来自 io 的 xlr 输出）？    提交人    /u/tortilla_thehun   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1eisbhm/video_delay_out_of_dnxiq/</guid>
       <pubDate>Sat, 03 Aug 2024 02:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>The-dots.com 专业网络？</title>
-      <link>https://www.reddit.com/r/editors/comments/1einvtr/thedotscom_professional_networking/</link>
-      <description><![CDATA[有人能告诉我关于这个专业网络应用程序/网站/社交媒体平台的任何信息吗？ 一个潜在的业务主管在使用它，我想知道花时间在这里建立自己是否值得。 这个应用程序很干净，并且充满了我所在城市的许多专业活动。但我在 Reddit 或其他地方找不到太多关于它的信息。 我确实喜欢它的布局，它有一些展示投资组合项目等的选项。如果它全是空谈，没有实质内容，我只是不愿意投入时间和精力。 真的有人使用这个特定的平台吗？ 任何见解都将不胜感激。    提交人    /u/RaytheonOrion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1einvtr/thedotscom_professional_networking/</guid>
-      <pubDate>Fri, 02 Aug 2024 22:59:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
