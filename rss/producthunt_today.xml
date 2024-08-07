@@ -4,48 +4,20 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Aug 2024 15:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:28:34 GMT</lastBuildDate>
     <item>
-      <title>醒来 3.0</title>
-      <link>https://www.producthunt.com/posts/waking-up-3-0</link>
+      <title>轻浮 4.0</title>
+      <link>https://www.producthunt.com/posts/flighty-4-0</link>
       <description><![CDATA[
-为您的大脑打造全新操作系统
+实时航班跟踪器，提供全球最快延误警报
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/waking-up-3-0</guid>
-      <pubDate>Wed, 07 Aug 2024 05:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯波特</title>
-      <link>https://www.producthunt.com/posts/spottr-2</link>
-      <description><![CDATA[
-视频的真正 Ctrl F
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/spottr-2</guid>
-      <pubDate>Tue, 06 Aug 2024 19:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>中途停留</title>
-      <link>https://www.producthunt.com/posts/layover</link>
-      <description><![CDATA[
-面向设计师的社交应用
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/layover</guid>
-      <pubDate>Tue, 06 Aug 2024 15:01:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/flighty-4-0</guid>
+      <pubDate>Wed, 07 Aug 2024 04:55:20 GMT</pubDate>
     </item>
     <item>
       <title>樂基</title>
@@ -65,7 +37,7 @@
       <title>GitHub 个人资料吐槽</title>
       <link>https://www.producthunt.com/posts/github-profile-roast</link>
       <description><![CDATA[
-有建设性地嘲讽你的 GitHub 帐户
+建设性地嘲笑你的 GitHub 帐户
 
 
 讨论
@@ -74,6 +46,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/github-profile-roast</guid>
       <pubDate>Tue, 06 Aug 2024 08:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>传播网站</title>
+      <link>https://www.producthunt.com/posts/spreadsite</link>
+      <description><![CDATA[
+将电子表格变成交互式仪表板
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/spreadsite</guid>
+      <pubDate>Tue, 06 Aug 2024 07:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>文本转信息图</title>
+      <link>https://www.producthunt.com/posts/text2infographic</link>
+      <description><![CDATA[
+AI 信息图生成器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/text2infographic</guid>
+      <pubDate>Tue, 06 Aug 2024 02:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>联系按钮</title>
+      <link>https://www.producthunt.com/posts/contact-button</link>
+      <description><![CDATA[
+一体化网站小部件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/contact-button</guid>
+      <pubDate>Mon, 05 Aug 2024 21:45:11 GMT</pubDate>
     </item>
     <item>
       <title>营地</title>
@@ -88,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/campsite-4</guid>
       <pubDate>Mon, 05 Aug 2024 20:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git Grok 卡</title>
-      <link>https://www.producthunt.com/posts/git-grok-cards</link>
-      <description><![CDATA[
-通过一副奇幻的卡片学习 Git
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/git-grok-cards</guid>
-      <pubDate>Sun, 04 Aug 2024 02:45:29 GMT</pubDate>
     </item>
     <item>
       <title>弗洛斯</title>
@@ -205,7 +205,7 @@ AI 私人教练、卡路里计数器、营养和瑜伽
       <title>基普索</title>
       <link>https://www.producthunt.com/posts/kypso-2</link>
       <description><![CDATA[
-产品制造商的 AI 代理
+使用 AI 代理管理团队的工作流程
 
 
 讨论
