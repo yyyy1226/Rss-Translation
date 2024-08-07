@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Aug 2024 01:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:24:05 GMT</lastBuildDate>
     <item>
       <title>工艺云</title>
       <link>https://www.producthunt.com/posts/craft-cloud</link>
@@ -34,6 +34,20 @@
       <pubDate>Mon, 05 Aug 2024 21:56:32 GMT</pubDate>
     </item>
     <item>
+      <title>ChatGPT 队列 - 队列提示，节省时间</title>
+      <link>https://www.producthunt.com/posts/chatgpt-queue-queue-prompts-save-time</link>
+      <description><![CDATA[
+队列和批量提示可实现最高效率
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chatgpt-queue-queue-prompts-save-time</guid>
+      <pubDate>Mon, 05 Aug 2024 19:20:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Webflow 的 Finsweet 组件</title>
       <link>https://www.producthunt.com/posts/finsweet-components-for-webflow</link>
       <description><![CDATA[
@@ -46,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/finsweet-components-for-webflow</guid>
       <pubDate>Mon, 05 Aug 2024 19:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮政编码热图</title>
+      <link>https://www.producthunt.com/posts/zipcode-heat-map</link>
+      <description><![CDATA[
+根据邮政编码生成美国各州和各县的热图
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/zipcode-heat-map</guid>
+      <pubDate>Mon, 05 Aug 2024 17:40:59 GMT</pubDate>
     </item>
     <item>
       <title>齐特菲</title>
@@ -74,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/bubble-screener</guid>
       <pubDate>Mon, 05 Aug 2024 16:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士 Beefer Upper</title>
-      <link>https://www.producthunt.com/posts/llm-beefer-upper</link>
-      <description><![CDATA[
-使用多代理提示模板自动化思路链
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/llm-beefer-upper</guid>
-      <pubDate>Mon, 05 Aug 2024 15:48:35 GMT</pubDate>
     </item>
     <item>
       <title>AWSME.ai</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/coblr</guid>
       <pubDate>Mon, 15 Jul 2024 17:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brainybear.ai</title>
-      <link>https://www.producthunt.com/posts/brainybear-ai</link>
-      <description><![CDATA[
-只需 3 次点击即可训练 AI 聊天机器人并立即为客户提供帮助
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/brainybear-ai</guid>
-      <pubDate>Sun, 14 Jul 2024 16:04:02 GMT</pubDate>
     </item>
     <item>
       <title>冷静度测量表</title>
