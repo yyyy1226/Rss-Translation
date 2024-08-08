@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Aug 2024 12:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 15:23:40 GMT</lastBuildDate>
+    <item>
+      <title>省略号旅行</title>
+      <link>https://www.producthunt.com/posts/ellipsis-travel</link>
+      <description><![CDATA[
+研究、组织和规划个性化旅行计划 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ellipsis-travel</guid>
+      <pubDate>Thu, 08 Aug 2024 06:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Drupal 11</title>
       <link>https://www.producthunt.com/posts/drupal-11</link>
@@ -20,32 +34,18 @@
       <pubDate>Thu, 08 Aug 2024 04:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>振动追踪</title>
-      <link>https://www.producthunt.com/posts/vibetrack</link>
+      <title>工作编织</title>
+      <link>https://www.producthunt.com/posts/workweave</link>
       <description><![CDATA[
-Calendly 适合喜欢面对面会议的人
+成为 10x 工程师
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/vibetrack</guid>
-      <pubDate>Thu, 08 Aug 2024 02:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开建设</title>
-      <link>https://www.producthunt.com/posts/publiclybuild</link>
-      <description><![CDATA[
-将 Github 提交转换为 Twitter/X 帖子
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/publiclybuild</guid>
-      <pubDate>Wed, 07 Aug 2024 22:34:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/workweave</guid>
+      <pubDate>Wed, 07 Aug 2024 22:45:12 GMT</pubDate>
     </item>
     <item>
       <title>网络镜头</title>
@@ -62,18 +62,60 @@ Calendly 适合喜欢面对面会议的人
       <pubDate>Wed, 07 Aug 2024 21:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能声音份额计算器</title>
-      <link>https://www.producthunt.com/posts/ai-share-of-voice-calculator</link>
+      <title>铅钙</title>
+      <link>https://www.producthunt.com/posts/leadcal</link>
       <description><![CDATA[
-免费比较品牌的社交影响力
+Framer 的潜在客户定价计算器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-share-of-voice-calculator</guid>
-      <pubDate>Wed, 07 Aug 2024 19:36:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/leadcal</guid>
+      <pubDate>Wed, 07 Aug 2024 20:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSM 的安全加密注释</title>
+      <link>https://www.producthunt.com/posts/secure-and-encrypted-notes-for-jsm</link>
+      <description><![CDATA[
+在 JSM 请求中安全地共享机密和敏感信息
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/secure-and-encrypted-notes-for-jsm</guid>
+      <pubDate>Wed, 07 Aug 2024 19:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>英凯普</title>
+      <link>https://www.producthunt.com/posts/inkeep</link>
+      <description><![CDATA[
+由您的内容提供支持的 AI 搜索和支持
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/inkeep</guid>
+      <pubDate>Wed, 07 Aug 2024 15:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>zoetroView</title>
+      <link>https://www.producthunt.com/posts/zoetroview</link>
+      <description><![CDATA[
+像浏览博客文章一样滚动浏览 YouTube 视频
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/zoetroview</guid>
+      <pubDate>Wed, 07 Aug 2024 14:55:25 GMT</pubDate>
     </item>
     <item>
       <title>最佳 CRM 软件</title>
@@ -90,18 +132,46 @@ Calendly 适合喜欢面对面会议的人
       <pubDate>Wed, 07 Aug 2024 13:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>普查泰</title>
-      <link>https://www.producthunt.com/posts/pdfchatai</link>
+      <title>西尔维娅</title>
+      <link>https://www.producthunt.com/posts/silvia</link>
       <description><![CDATA[
-使用 AI 询问、回答、查找 PDF 中的项目
+适用于 iOS 的多语言听写
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pdfchatai</guid>
-      <pubDate>Wed, 07 Aug 2024 11:57:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/silvia</guid>
+      <pubDate>Wed, 07 Aug 2024 05:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI产品猎人</title>
+      <link>https://www.producthunt.com/posts/ai-product-hunter</link>
+      <description><![CDATA[
+AI 对所有产品（包括非推荐产品）进行评论和评分
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-product-hunter</guid>
+      <pubDate>Wed, 07 Aug 2024 04:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>合法的电子签名</title>
+      <link>https://www.producthunt.com/posts/legitt-e-signature</link>
+      <description><![CDATA[
+世界上唯一一款支持 AI 的电子签名，可主动跟踪文档
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/legitt-e-signature</guid>
+      <pubDate>Mon, 05 Aug 2024 21:52:25 GMT</pubDate>
     </item>
     <item>
       <title>StatusSight</title>
@@ -132,49 +202,7 @@ Calendly 适合喜欢面对面会议的人
       <pubDate>Thu, 01 Aug 2024 11:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>销售</title>
-      <link>https://www.producthunt.com/posts/salesify</link>
-      <description><![CDATA[
-您的个人 AI 销售教练
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/salesify</guid>
-      <pubDate>Thu, 01 Aug 2024 04:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>小行星X</title>
-      <link>https://www.producthunt.com/posts/asteroid-x</link>
-      <description><![CDATA[
-认领、跟踪和投资实体采矿项目
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/asteroid-x</guid>
-      <pubDate>Tue, 23 Jul 2024 06:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>慢性阻塞性肺病</title>
-      <link>https://www.producthunt.com/posts/spok</link>
-      <description><![CDATA[
-利用 AI 驱动的洞察提升您的营销能力
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/spok</guid>
-      <pubDate>Sat, 20 Jul 2024 02:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>精选信件</title>
+      <title>精选快报</title>
       <link>https://www.producthunt.com/posts/curatedletters</link>
       <description><![CDATA[
 几分钟内即可创建您的简报，永久免费
@@ -186,34 +214,6 @@ Calendly 适合喜欢面对面会议的人
 ]]></description>
       <guid>https://www.producthunt.com/posts/curatedletters</guid>
       <pubDate>Wed, 10 Jul 2024 16:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Harmonian | 用爱连接</title>
-      <link>https://www.producthunt.com/posts/harmonian-connect-with-love</link>
-      <description><![CDATA[
-为生活的和谐与成长提供在线支持和指导
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/harmonian-connect-with-love</guid>
-      <pubDate>Tue, 09 Jul 2024 08:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>全方位</title>
-      <link>https://www.producthunt.com/posts/omnifact</link>
-      <description><![CDATA[
-面向企业的超安全 AI 聊天助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/omnifact</guid>
-      <pubDate>Thu, 04 Jul 2024 12:50:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
