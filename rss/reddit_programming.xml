@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 07 Aug 2024 21:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 01:35:35 GMT</lastBuildDate>
+    <item>
+      <title>Russ Cox 将辞去 Go 技术主管一职</title>
+      <link>https://www.reddit.com/r/programming/comments/1emt8a4/russ_cox_is_stepping_down_as_the_go_tech_lead/</link>
+      <description><![CDATA[tl;dr：Austin Clements 将从 9 月 1 日开始接任    提交人    /u/ZigIsGreat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emt8a4/russ_cox_is_stepping_down_as_the_go_tech_lead/</guid>
+      <pubDate>Thu, 08 Aug 2024 01:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 JSON 创建者 Douglas Crockford 的简短采访</title>
+      <link>https://www.reddit.com/r/programming/comments/1emrzg3/a_brief_interview_with_json_creator_douglas/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emrzg3/a_brief_interview_with_json_creator_douglas/</guid>
+      <pubDate>Thu, 08 Aug 2024 00:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>cables.gl，免费可视化编程：现在开源、离线</title>
+      <link>https://www.reddit.com/r/programming/comments/1emq5i9/cablesgl_free_visual_programming_now_open_source/</link>
+      <description><![CDATA[  由    /u/ZigIsGreat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emq5i9/cablesgl_free_visual_programming_now_open_source/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>图遍历算法可视化工具:)</title>
+      <link>https://www.reddit.com/r/programming/comments/1emnvsp/graph_traversal_algorithm_visualizer/</link>
+      <description><![CDATA[  由    /u/weltschmerst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emnvsp/graph_traversal_algorithm_visualizer/</guid>
+      <pubDate>Wed, 07 Aug 2024 21:26:32 GMT</pubDate>
+    </item>
     <item>
       <title>停止在 TypeScript 中使用 .d.ts 文件</title>
       <link>https://www.reddit.com/r/programming/comments/1emmwnn/stop_using_dts_files_in_typescript/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1emisjg/the_ultimate_guide_to_creating_a_game_development/</guid>
       <pubDate>Wed, 07 Aug 2024 18:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软投资 Postgres</title>
-      <link>https://www.reddit.com/r/programming/comments/1emir7c/microsoft_invests_in_postgres/</link>
-      <description><![CDATA[  由    /u/carlotasoto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emir7c/microsoft_invests_in_postgres/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blink 代码搜索 - 源代码索引器和即时搜索工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1emiljh/blink_code_search_source_code_indexer_and_instant/</link>
-      <description><![CDATA[源代码索引搜索工具。适用于中小型代码库。它支持模糊匹配、自动完成和实时 grep。    提交人    /u/_janc_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emiljh/blink_code_search_source_code_indexer_and_instant/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 TestContainers 设计强大的集成测试套件</title>
-      <link>https://www.reddit.com/r/programming/comments/1emih9f/designing_a_robust_integration_test_suite_with/</link>
-      <description><![CDATA[  由    /u/subomiOluwalana  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emih9f/designing_a_robust_integration_test_suite_with/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建“Auto-Analyst”——数据分析人工智能代理系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1emh63t/building_autoanalyst_a_data_analytics_ai_agentic/</link>
-      <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emh63t/building_autoanalyst_a_data_analytics_ai_agentic/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:00:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

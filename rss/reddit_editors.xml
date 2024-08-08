@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 07 Aug 2024 21:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 01:35:21 GMT</lastBuildDate>
+    <item>
+      <title>有人知道 Tubi 交付规格吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1emrfek/anyone_know_the_tubi_delivery_specs/</link>
+      <description><![CDATA[在视频和音频通道映射方面也是如此。    提交人    /u/glowinthedark   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1emrfek/anyone_know_the_tubi_delivery_specs/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:57:58 GMT</pubDate>
+    </item>
     <item>
       <title>拓展我的业务</title>
       <link>https://www.reddit.com/r/editors/comments/1emm8xh/expanding_my_business/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>从 8.6k 渲染到 .mp4 时长？</title>
       <link>https://www.reddit.com/r/editors/comments/1em9p5g/rendering_from_86k_to_mp4_duration/</link>
-      <description><![CDATA[所以最近我被聘请为这个小广告制作每日素材，这是我以前从未做过的，因为我通常是一名工会搬运工，所以我处理的是布景工作而不是后期工作。我们使用 Sony Venice 2 8.6k - 全传感器 - X-OCN - LT 进行拍摄，我使用 DaVinci Resolve 19 制作每日素材。 摄取素材没有问题。但是，在我完成音频和视频同步、应用 LUT 并刻录时间码和剪辑名称、将其设置为 .mp4 以便之后上传到 frame.io 并开始渲染后，它说需要 1 小时 10 分钟，这似乎还不错。现在，已经过去了 10 个小时，还说还有 22 个小时。素材的总时长约为 58 分钟，有 21 个剪辑。  我使用的是 Mac Mini 2018，3.2 GHz 六核 Intel Core i7，配备 64GB RAM。  我还带着我的 MacBook Pro 2021 M1 Max，配备 32GB RAM。  导演/制片人希望当晚能拿到每日素材，但看起来不可行。如果我无法获得更快的速度，我可以研究哪些方面？  如果这不是发布此内容的子版块，请见谅……    提交人    /u/formerinmate4921   [链接] [评论]]]></description>
+      <description><![CDATA[所以最近我被聘请为这个小广告制作每日素材，这是我以前从未做过的，因为我通常是一名工会搬运工，所以我处理的是布景工作而不是后期工作。我们使用 Sony Venice 2 8.6k - 全传感器 - X-OCN - LT 进行拍摄，我使用 DaVinci Resolve 19 制作每日素材。 摄取素材没有问题。但是，在我完成音频和视频同步、应用 LUT 并刻录时间码和剪辑名称、将其设置为 .mp4 以便之后上传到 frame.io 并开始渲染后，它说需要 1 小时 10 分钟，这似乎还不错。现在，已经过去了 10 个小时，还说还有 22 个小时。素材的总时长约为 58 分钟，有 21 个剪辑。  我使用的是 Mac Mini 2018，3.2 GHz 六核 Intel Core i7，配备 64GB RAM。  我还带着我的 MacBook Pro 2021 M1 Max，配备 32GB RAM。  导演/制片人希望当晚能拿到每日素材，但看起来不可行。如果我无法获得更快的速度，我可以研究哪些东西？  如果这不是发布此内容的子版块，请见谅……    提交人    /u/formerinmate4921   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1em9p5g/rendering_from_86k_to_mp4_duration/</guid>
       <pubDate>Wed, 07 Aug 2024 11:48:17 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>用于视频编辑的 RDP</title>
       <link>https://www.reddit.com/r/editors/comments/1elul36/rdp_for_video_editing/</link>
-      <description><![CDATA[最近，我的长期客户开始以 4K 30MBPS 拍摄，文件大小越来越大。因此，我的内心天才开始发挥作用，我想到以低质量下载素材（将其用作代理），对其进行编辑，将项目文件放入 RDP，然后链接高质量素材然后渲染。 我需要帮助寻找具有高存储、高性能和快速互联网的 RDP。    由   提交  /u/AhmedAguech   [link] [评论]]]></description>
+      <description><![CDATA[最近，我的长期客户开始以 4K 30MBPS 拍摄，文件大小越来越大。因此，我的内心天才开始发挥作用，我想到以低质量下载素材（将其用作代理），对其进行编辑，将项目文件放入 RDP，然后链接高质量素材然后渲染。 我需要帮助寻找具有高存储、高性能和快速互联网的 RDP。    提交人    /u/AhmedAguech   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1elul36/rdp_for_video_editing/</guid>
       <pubDate>Tue, 06 Aug 2024 22:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合远程编辑的虚拟机。适合我的编辑团队吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1elt58u/best_vms_for_remote_editing_for_my_team_of_editors/</link>
-      <description><![CDATA[大家好，我有一个由 8 名全职编辑组成的团队。我们所有的编辑目前都在远程 Mac 上工作，而我们的办公室里有 parsec。 但是这太麻烦了，我想外包托管，切换到虚拟机。 有什么建议吗？我需要快速连接和 16GB 以上的 RAM。我将在虚拟机上运行 parsec，以便我的编辑可以连接。    提交人    /u/mercuruno   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1elt58u/best_vms_for_remote_editing_for_my_team_of_editors/</guid>
-      <pubDate>Tue, 06 Aug 2024 21:02:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
