@@ -4,101 +4,107 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 03:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 08:54:21 GMT</lastBuildDate>
     <item>
-      <title>标题：该新闻网站被指煽动骚乱</title>
-      <link>https://t.me/hn_summary/103085</link>
-      <description><![CDATA[新闻网站被指控煽动骚乱
-标题：新闻网站被指控煽动骚乱
+      <title>[媒体] 由 David Giller 和 Adria 创建的“IBM PC/XT 和克隆版的 RAM 测试 ROM”项目 [...]</title>
+      <link>https://t.me/hn_summary/103103</link>
+      <description><![CDATA[IBM PC/XT 和克隆机的 RAM 测试 ROM
+“IBM PC/XT 和克隆机的 RAM 测试 ROM”项目由 David Giller 和 Adrian Black 创建，是一款诊断工具，用于测试 IBM PC/XT 计算机及其克隆机中的 RAM。通过用此 EPROM 芯片替换 BIOS ROM，它可直接启动 RAM 测试程序，无需运行 RAM 或文件存储。ROM 采用 March-U 算法和位模式/地址总线练习测试来检测各种 RAM 故障。它需要 CGA 或 MDA 适配器来报告和视频 RAM 使用情况。该项目的特点是能够测试传统 RAM 的每个字节，并且依赖有据可查的诊断技术。它目前不支持奇偶校验 RAM 或 EGA/VGA 卡。 ROM 使用 NASM 构建，并包含用于在 MAME 仿真下构建和测试的脚本。该项目根据 GNU 公共许可证版本 2 获得许可。]]></description>
+      <guid>https://t.me/hn_summary/103103</guid>
+      <pubDate>Thu, 08 Aug 2024 08:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] FlexAttention：PyTorch 的灵活性与 FlashAttention 的性能</title>
+      <link>https://t.me/hn_summary/103102</link>
+      <description><![CDATA[FlexAttention：PyTorch 的灵活性与 FlashAttention 的性能兼具
+FlexAttention：PyTorch 的灵活性与 FlashAttention 的性能兼具
 
-网站：www.bbc.com
+作者：PyTorch 团队：Horace He、Driss Guessous、Yanbo Liang、Joy Dong
 
-新闻网站 Channel3Now 被指控传播错误信息，导致英国各地发生骚乱。该网站错误地将一名 17 岁的少年称为南港袭击者，并暗示他是一名寻求庇护者和穆斯林，导致针对清真寺和穆斯林社区的暴力行为。 BBC 调查发现，Channel3Now 是一家商业运营公司，其贡献者来自美国、英国、巴基斯坦和印度。尽管有人指控其与俄罗斯有联系，但没有找到任何证据支持这一说法。该网站为虚假报道道歉，并指责其英国团队。有争议的是，社交媒体上的阴谋论者和极右翼影响者加剧了虚假信息的传播，尤其是在 X（以前的 Twitter）上，最近的变化使此类内容更容易货币化。]]></description>
-      <guid>https://t.me/hn_summary/103085</guid>
-      <pubDate>Thu, 08 Aug 2024 03:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 20 世纪 50 年代，孩子们享受着“狩猎采集教育”，在混合环境中自由玩耍[...]</title>
-      <link>https://t.me/hn_summary/103084</link>
-      <description><![CDATA[当今儿童缺乏玩耍
-20 世纪 50 年代，儿童享受“狩猎采集教育”，在混龄群体中自由玩耍，培养创造力、解决问题能力和社交技能。然而，在过去 50 年里，儿童自由玩耍的机会急剧减少，取而代之的是越来越多的课业和成人指导的活动。这种转变与儿童精神障碍（包括焦虑和抑郁）的增加、同理心的下降和自恋的增加有关。作者是一位进化心理学家，他认为玩耍对于学习生活技能至关重要，并提倡更多的自由玩耍时间。有争议的是，他批评了当前的教育政策，并认为传统的学校教育未能让孩子们为快速变化的世界做好准备。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/103084</guid>
-      <pubDate>Thu, 08 Aug 2024 03:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：cheriot.org</title>
-      <link>https://t.me/hn_summary/103083</link>
-      <description><![CDATA[如何与父母谈论硬件内存安全 (CHERI)
-标题：如何与父母谈论硬件内存安全 (CHERI)
-网站：cheriot.org
+在实践中，像 FlashAttention 这样的优化注意力实现至关重要，但它们往往会牺牲灵活性。研究人员面临着“软件抽奖”的局面，新的注意力变体可能不适合现有的内核，从而导致运行速度缓慢和 CUDA OOM。FlexAttention 是一种新的 PyTorch API，它通过允许在几行代码中实现各种注意力变体来解决此问题。它利用 torch.compile 生成高效内核并支持自动反向传递生成。FlexAttention 还利用了注意力掩码中的稀疏性，显著提高了性能。此 API 旨在尽可能轻松地尝试新的注意力变体。
 
-与熟悉旧计算系统的老一辈讨论 CHERI 可能具有挑战性。本指南旨在通过澄清 CHERI 不是强制执行特定对象模型，而是为语言实现者提供工具来强制执行内存安全和控制流完整性，从而简化这些对话。与过去与特定语言绑定的系统不同，CHERI 支持多种语言和组件。 CHERIoT 是一种针对嵌入式和物联网应用优化的变体，可确保不受信任的代码无法在未经适当授权的情况下访问或修改对象。它使用不可伪造的授权令牌来强制执行内存安全、不变性和类型安全。这种方法允许不同编程语言和系统之间更安全地进行互操作。（基于 69% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/103083</guid>
-      <pubDate>Thu, 08 Aug 2024 02:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在日常繁忙中抽空，我决定关注一下 Drmortalwombat 的新款 Commodore 64 [...]</title>
-      <link>https://t.me/hn_summary/103082</link>
-      <description><![CDATA[Mineshaft Gap – Drmortalwombat 为 C64 开发的实时战略游戏
-在日常繁忙之余，我决定重点介绍 Drmortalwombat 的新 Commodore 64 游戏 Mineshaft Gap。这款实时战略游戏可让您管理多达 32 名地堡居民，努力创造一个放射性更低的未来。游戏的前提很有趣：核辐射后，您的大脑被提取出来并放置在控制中心，监督文明的重建。在玩了几千年的扫雷和纸牌游戏后，您感到无聊，于是唤醒了地堡居民，让他们重建并抵御敌人。查看 Saberman 的游戏视频以更详细地了解。这个独特的故事情节为战略游戏类型增添了巧妙的转折。 
+令人惊讶/巧妙的方面：FlexAttention 在 softmax 之前修改注意力分数的能力令人惊讶地足以满足大多数注意力变体的需求，展示了其表现力和灵活性。
 
-争议：无。
-独特/聪明：控制中心的大脑管理世界末日后重建的概念相当新颖。]]></description>
-      <guid>https://t.me/hn_summary/103082</guid>
-      <pubDate>Thu, 08 Aug 2024 02:51:43 GMT</pubDate>
+争议：“软件彩票”问题凸显了当前注意力实现状态中的一个重大挑战，研究人员的创新往往受到现有内核限制的阻碍。（基于 35% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/103102</guid>
+      <pubDate>Thu, 08 Aug 2024 08:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 自 1985 年以来，高氯酸盐污染（主要来自军工活动）已 [...]</title>
-      <link>https://t.me/hn_summary/103081</link>
-      <description><![CDATA[为什么火箭燃料多年来一直在污染我们的食物和水
-自 1985 年以来，高氯酸盐污染（主要来自军工活动）一直是美国的一个持续问题，影响了加州超级基金场地附近的地下水。1997 年，新的 EPA 测试协议揭示了广泛的污染，这一问题变得更加明显。到 2003 年，20% 的超市生菜中发现了高氯酸盐，部分原因是米德湖的污染。令人惊讶的是，2005 年，FDA 允许在食品接触材料中使用高氯酸盐，导致婴儿食品中的高氯酸盐含量增加。尽管人们对监管改革抱有希望，但 FDA 仍坚持其立场，尽管 EPA 估计，到 2011 年，将有 520 万至 1660 万美国人可能接触到不安全的高氯酸盐饮用水。]]></description>
-      <guid>https://t.me/hn_summary/103081</guid>
-      <pubDate>Thu, 08 Aug 2024 02:36:36 GMT</pubDate>
+      <title>[媒体] 夏普的 Denshi Techō (電子手帳)，在日本称为 Bware，在其他地方称为 Wizard 或 IQ，[...]</title>
+      <link>https://t.me/hn_summary/103101</link>
+      <description><![CDATA[夏普电子笔记本的俄罗斯方块 (1989)
+夏普的 Denshi Techō (電子手帳)，在日本称为 Bware，在其他地方称为 Wizard 或 IQ，是一款创新的电子笔记本，于 1988 年赢得了日本著名的 G-mark 优秀设计奖，甚至在美国《宋飞正传》的一集中出现过。这些设备可以运行 IC 卡上的软件，可以运行各种游戏，包括推箱子和麻将等经典游戏，尤其是 1989 年 12 月在俄罗斯方块狂热高峰期发布的俄罗斯方块版本。这个版本的俄罗斯方块可能是第二个手持版本，由 BPS (Bullet-Proof Software) 开发，具有独特的游戏机制，例如随着关卡的推进游戏区域会缩小。该设备的影响是巨大的，促进了 Apple Newton 的开发，为 iPhone 和随后的 Android 设备铺平了道路。博客文章强调了有关这些设备和游戏的信息稀缺性，并敦促爱好者向 Tetris.wiki 等资源贡献更多详细信息。]]></description>
+      <guid>https://t.me/hn_summary/103101</guid>
+      <pubDate>Thu, 08 Aug 2024 07:51:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 根据预测，到 2030 年，中国拥有的宠物数量将是幼儿数量的近两倍 [...]</title>
-      <link>https://t.me/hn_summary/103080</link>
-      <description><![CDATA[到 2030 年，中国宠物数量将几乎是儿童数量的两倍
+      <title>似乎在访问 NuclearStations.com 的内容时出现了问题，因为页面显示 [...]</title>
+      <link>https://t.me/hn_summary/103100</link>
+      <description><![CDATA[向 HN 展示：我制作了现役和退役核电站的交互式地图
+似乎在从 nuclearstations.com 访问内容时出现问题，因为页面显示错误消息，表示互联网连接出现问题。标题表明该网站提供了现役和退役核电站的交互式地图，这对那些对核能及其基础设施感兴趣的人而言可能是一种宝贵的资源。不幸的是，如果无法访问完整内容，我无法提供详细摘要或突出任何争议或独特之处。请稍后再尝试访问该网站。]]></description>
+      <guid>https://t.me/hn_summary/103100</guid>
+      <pubDate>Thu, 08 Aug 2024 07:50:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际上有哪些适合工作的地方？</title>
+      <link>https://t.me/hn_summary/103099</link>
+      <description><![CDATA[哪些国际地点适合工作？
+我的职业生涯已经 4.5 年了，正在考虑在下一份工作中搬到国外，计划在六个月内实现这一目标。目前没有孩子或其他伴侣等责任，感觉这是迈出大胆一步的最佳时机。我正在寻找提供丰富文化、户外活动、技术机会和易于获得签证的地方的推荐。新西兰是我正在考虑的一个选择。有什么建议吗？]]></description>
+      <guid>https://t.me/hn_summary/103099</guid>
+      <pubDate>Thu, 08 Aug 2024 07:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我之前的帖子中，我发现 Casio VZ-1 合成器的官方文档 [...]</title>
+      <link>https://t.me/hn_summary/103098</link>
+      <description><![CDATA[Casio VZ-1 算法
+在我之前的帖子中，我发现 1988 年 Casio VZ-1 合成器的官方文档含糊不清且不完整。这篇文章旨在阐明 VZ-1 的合成引擎实际上是如何工作的。Casio 的手册未能解释 VZ-1 是使用相位调制还是波形整形，导致混淆。例如，用户界面允许您更改锁定在 0Hz 的运算符的音高，并显示仍会影响声音的禁用运算符。与普遍看法相反，VZ-1 不使用相位调制。相反，它采用了复杂的波形整形系统和隐藏的“激励器”运算符。Casio 的设计选择使 VZ-1 难以理解，几乎就像他们在误导用户了解机器的内部工作原理一样。这种复杂性与 Yamaha 更精致的 FM 合成形成鲜明对比，后者花费了数年时间和大量投资才得以完善。尽管有些混乱，但我还是喜欢钻研 VZ-1 独特的合成方法，并期待在我的音乐中使用它。]]></description>
+      <guid>https://t.me/hn_summary/103098</guid>
+      <pubDate>Thu, 08 Aug 2024 06:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：developer.mozilla.org</title>
+      <link>https://t.me/hn_summary/103097</link>
+      <description><![CDATA[付款请求浏览器 API 是一种更快速、更安全的表单付款版本
+标题：付款请求浏览器 API 是一种更快速、更安全的表单付款版本
+网站：developer.mozilla.org
 
-高盛报告显示，到 2030 年，中国宠物数量预计将几乎是儿童数量的两倍。城市宠物数量预计将超过 7000 万，而四岁以下儿童数量将降至 4000 万以下。这与 2017 年相比发生了重大变化，当时儿童数量为 9000 万，而城市宠物数量为 4000 万。由于 20-35 岁女性数量减少，年轻一代不愿意生育，导致出生率下降，而宠物拥有量激增，尤其是 23-33 岁人群。因此，预计到 2030 年，中国的宠物食品市场将增长至 120 亿美元，由于空间方面的考虑，猫的拥有量可能会超过狗。在全球范围内，出生率下降是一种普遍趋势，中国人口在 2023 年连续第二年下降。尽管 2023 年新婚人数增加了 12.4%，但 25-29 岁人群中仍有一半以上未婚，反映出晚婚的趋势。有趣的是，日本的宠物数量几乎是四岁以下儿童的四倍，突显出类似的人口结构变化。]]></description>
-      <guid>https://t.me/hn_summary/103080</guid>
-      <pubDate>Thu, 08 Aug 2024 02:34:32 GMT</pubDate>
+结帐表单是导致在线购物车放弃的主要原因，因为它们复杂且耗时。付款请求 API 通过简化付款流程解决了这一问题，可能消除了对传统结帐表单的需求。此 API 通过允许付款应用存储用户详细信息，然后安全地传递给商家，从而增强了可访问性。当用户发起付款时，会创建一个 PaymentRequest 对象，以促进网页和用户代理之间的信息交换，从而完成交易。有关详细指南，请参阅“使用 Payment Request API”。]]></description>
+      <guid>https://t.me/hn_summary/103097</guid>
+      <pubDate>Thu, 08 Aug 2024 06:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这项发表在《自然》杂志上的研究中，研究人员探索了核糖体如何影响[...]</title>
-      <link>https://t.me/hn_summary/103079</link>
-      <description><![CDATA[核糖体降低蛋白质折叠的熵损失（Nature）
-在这项发表在《Nature》上的研究中，研究人员探索了核糖体如何影响蛋白质折叠过程中的熵损失。他们利用各种 DNA 构建体，包括 FLN5、titin I27 和 HRAS，并引入特定突变进行同位素标记。蛋白质在大肠杆菌中表达，并使用亲和层析和尺寸排阻色谱纯化。采用先进的核磁共振光谱技术分析这些蛋白质的折叠动力学和热力学参数。研究表明，核糖体可以降低蛋白质折叠的熵成本，这是理解蛋白质合成和折叠机制的重要发现。使用 CRISPR 生成修饰的E。 coli 菌株和详细的 NMR 方法是本研究特别独特和巧妙的方面。（基于 19% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/103079</guid>
-      <pubDate>Thu, 08 Aug 2024 02:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Techstars 裁员 17%，结束其 J.P.</title>
-      <link>https://t.me/hn_summary/103078</link>
-      <description><![CDATA[Techstars 裁员 17%，终止其摩根大通支持的项目
-据 TechCrunch 报道，Techstars 将裁员 17%，并在今年年底前终止其价值 8000 万美元的摩根大通支持的 AdvancingCities 计划。该计划于 2022 年启动，旨在支持奥克兰、纽约、迈阿密和华盛顿特区等城市的多元化创始人。然而，摩根大通和 Techstars 之间的关系迅速恶化，导致该计划的未来和约 20 名员工的命运变得不确定。Techstars 联合创始人兼首席执行官 David Cohen 将过度建设和过度招聘列为裁员的原因，这将主要影响工程、支持服务和销售团队。此前，该公司于 1 月份裁员 7%，标志着公司从扩大规模转向更好地支持创始人。这一消息发布之际，Techstars 正处于转型之年，前首席执行官 Maëlle Gavet 于 5 月卸任。]]></description>
-      <guid>https://t.me/hn_summary/103078</guid>
-      <pubDate>Thu, 08 Aug 2024 01:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] CrowdStrike 最近于 2024 年 7 月 18 日发生全球 IT 中断，造成了重大的经济损失 [...]</title>
-      <link>https://t.me/hn_summary/103077</link>
-      <description><![CDATA[CrowdStrike 的中断本不应该发生
-CrowdStrike 最近于 2024 年 7 月 18 日发生的全球 IT 中断，对包括航空、银行和医疗保健在内的各个行业造成了重大的经济中断。根本原因是远程更新系统中的一个错误，特别是 C++ 代码中的索引越界错误。尽管 CrowdStrike 进行了事后审查和根本原因分析，但提出的缓解措施被视为仅仅是补丁，而不是解决根本的设计缺陷。作者认为，对于关键软件，使用 SPARK 保证等现有技术应该不可能出现此类问题。争议在于 CrowdStrike 对 C++ 的依赖以及他们提出的解决方案的不足，引发了对未来可靠性的担忧。]]></description>
-      <guid>https://t.me/hn_summary/103077</guid>
-      <pubDate>Thu, 08 Aug 2024 01:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argdown 是一个用户友好的参数映射工具，类似于用于文本格式化的 Markdown。</title>
-      <link>https://t.me/hn_summary/103076</link>
-      <description><![CDATA[Argdown，类似 Markdown 的参数映射工具
-Argdown 是一款用户友好的参数映射工具，类似于用于文本格式化的 Markdown。版本 1.8.2 引入了简单的规则，使撰写正反两方意见变得像撰写推文一样简单。这些规则允许用户定义复杂的参数关系并深入研究逻辑结构。Argdown 与 Markdown 集成，实时将代码转换为参数映射。用户可以以各种格式发布他们的分析，包括 PDF 和 Web 组件。该工具的灵活性通过来自《辩论者手册》的详细示例展示，该示例说明了支持和反对审查制度和言论自由的论点。Argdown 的易用性和强大功能使其成为分析复杂论点的绝佳选择。 
+      <title>网站：discuss.python.org</title>
+      <link>https://t.me/hn_summary/103096</link>
+      <description><![CDATA[Python 核心开发人员被停职三个月
+标题：Python 核心开发人员被停职三个月
+网站：discuss.python.org
 
-争议亮点：关于审查制度与绝对言论自由的争论本质上是有争议的，涉及基本权利和社会影响。
+Thomas Wouters 代表指导委员会宣布，根据 PSF 行为准则工作组的建议，对一名 Python 核心开发人员停职三个月。该开发人员多次违反行为准则，包括过度讨论、为“反向种族主义”和“反向性别歧视”等有争议的概念辩护、使用攻击性语言以及淡化敏感话题。指导委员会强调了社区内榜样的重要性，并指出这一行动是一项纠正措施。Brett Cannon 和 Łukasz Langa 为避免偏见而弃权。停职旨在强调保持尊重和包容环境的重要性。]]></description>
+      <guid>https://t.me/hn_summary/103096</guid>
+      <pubDate>Thu, 08 Aug 2024 06:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：www.ft.com</title>
+      <link>https://t.me/hn_summary/103095</link>
+      <description><![CDATA[谷歌和 Meta 达成秘密广告协议，瞄准青少年
+标题：谷歌和 Meta 达成秘密广告协议，瞄准青少年
+网站：www.ft.com
 
-独特/巧妙的亮点：Argdown 与 Markdown 的集成以及它在打字时生成实时论证图的能力特别具有创新性。（基于 95% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/103076</guid>
-      <pubDate>Thu, 08 Aug 2024 01:18:49 GMT</pubDate>
+据报道，科技巨头谷歌和 Meta 达成秘密协议，以加强针对青少年的广告策略。这项秘密交易引起了人们的关注，因为针对如此脆弱的人群存在道德问题。这项合作关系至今尚未公开披露，凸显了这些公司将不遗余力地主宰数字广告市场。批评者认为，此举可能会利用年轻用户的数据，并不当影响他们的在线行为。如需了解更多详情，请注册 FT Edit，免费阅读全文和其他深刻内容（30 天）。]]></description>
+      <guid>https://t.me/hn_summary/103095</guid>
+      <pubDate>Thu, 08 Aug 2024 06:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>禽流感并不像我们担心的那么可怕。</title>
+      <link>https://t.me/hn_summary/103094</link>
+      <description><![CDATA[禽流感没有我们想象的那么可怕。但我们并没有努力去控制它。
+标题：禽流感没有我们想象的那么可怕。但我们并没有努力去控制它。
+网站：static.nytimes.com
+订阅者 2024 年 8 月 7 日 Ibrahim Rayintakath 禽流感对人类的危害没有我们想象的那么可怕。但我们并没有努力去控制它。大卫·华莱士-威尔斯 (David Wallace-Wells) 撰稿
+
+禽流感首次出现在美国近两年后，我们的应对措施仍然不足。尽管最初令人担忧，但 H5N1 病毒并未被证实对人类具有致命性，在 13 例确诊病例中无一人死亡。然而，与欧洲的主动措施不同，美国缺乏一个严肃的计划来监测或控制其传播。美国疾病控制与预防中心 (CDC) 在推动广泛检测方面进展缓慢，许多美国农场拒绝配合监测工作。这种冷漠令人担忧，尤其是考虑到该病毒有可能变异并变得更加危险。这种自满情绪反映了 Covid-19 大流行早期的失误，可能会在未来爆发疫情。]]></description>
+      <guid>https://t.me/hn_summary/103094</guid>
+      <pubDate>Thu, 08 Aug 2024 06:02:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
