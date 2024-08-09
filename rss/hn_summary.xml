@@ -4,111 +4,117 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 09 Aug 2024 03:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 09:11:59 GMT</lastBuildDate>
     <item>
-      <title>SaaS 文案：真正有效的 SaaS 营销框架</title>
-      <link>https://t.me/hn_summary/103234</link>
-      <description><![CDATA[SaaS 文案：营销 SaaS 框架
-SaaS 文案：真正有效的 SaaS 营销框架
-
-作者：Andrew，2024 年 8 月 8 日
-
-大多数 SaaS 营销都充斥着流行语和空洞的承诺，但事实并非如此。有效的营销在于清晰度和影响力。想象一个矩阵，一个轴上是“清晰度”，另一个轴上是“影响力”，从而形成四个象限：
-
-1. 高清晰度、高影响力（圣杯）：清晰的信息可以解决紧急需求（例如 Stripe、Slack、Shopify）。
-2. 低清晰度、高影响力（未经雕琢的钻石）：有价值但隐藏在行话中（例如 Oracle、SAP）。
-3. 高清晰度、低影响力（“那又怎样？”区域）：清晰但不重要（例如通用技术声明）。
-4. 低清晰度、低影响力（浪费比特）：不清楚且不重要（例如 IBM、埃森哲）。
-
-为了改进，请审核您的文案，澄清不清楚的信息，扩大影响力，并瞄准右上象限。坚持不懈地进行测试，并记住，最好的 SaaS 营销听起来就像是直接回答了实际问题。在毫无意义的营销世界中，清晰度和影响力是您的秘密武器。]]></description>
-      <guid>https://t.me/hn_summary/103234</guid>
-      <pubDate>Fri, 09 Aug 2024 03:11:35 GMT</pubDate>
+      <title>我是一名长期的软件开发人员，具有静态类型语言的背景。</title>
+      <link>https://t.me/hn_summary/103261</link>
+      <description><![CDATA[问 HN：改变我对 JavaScript 的看法
+我是一名资深软件开发人员，具有静态类型语言背景。最近，我一直在从事一些 JavaScript 项目，并开始改变我对该语言的看法。虽然我仍然认为静态类型语言对于大型项目来说更好、更安全，但我现在认为 JavaScript 值得有机会“真正”学习。我说的不是遵循网上许多不合格的教程，这些教程严重依赖大量 npm 包或预制解决方案，而没有理解它们的全部潜力。您是否有任何关于学习 JavaScript 基础知识的技巧，包括内部结构、高级模式以及任何其他有助于深入理解该语言的内容？]]></description>
+      <guid>https://t.me/hn_summary/103261</guid>
+      <pubDate>Fri, 09 Aug 2024 09:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 派拉蒙将裁减其美国业务的 15% 员工</title>
-      <link>https://t.me/hn_summary/103233</link>
-      <description><![CDATA[派拉蒙将裁减 15% 的美国员工
-派拉蒙将裁减 15% 的美国员工，影响到营销、财务、法律、技术和其他支持职能等部门。克里斯·麦卡锡在公司第二季度财报电话会议上宣布了这一消息。这一决定反映了公司内部正在进行的调整，以精简运营并适应不断变化的媒体格局。虽然裁员一直是一个敏感话题，但这一举措凸显了行业重组以保持竞争力的更广泛趋势。]]></description>
-      <guid>https://t.me/hn_summary/103233</guid>
-      <pubDate>Fri, 09 Aug 2024 02:50:23 GMT</pubDate>
+      <title>[媒体] 日本首相岸田文雄取消了原计划的中亚之行 [...]</title>
+      <link>https://t.me/hn_summary/103260</link>
+      <description><![CDATA[专家发出“特大地震”警告后，日本首相取消海外之行
+日本首相岸田文雄取消了原定的中亚之行，此前专家警告称，最近西南部发生 7.1 级地震后，“特大地震”风险增加。岸田文雄面临低支持率和即将到来的党内选举，决定留在日本为任何潜在灾难做准备。日本气象局首次发出太平洋沿岸可能发生大地震的警告，特别是在南海海槽俯冲带。虽然该警告并不能保证即将发生地震，但它强调了高于正常水平的风险。历史上，该地区曾经历过毁灭性的地震和海啸，专家估计未来 30 年发生特大地震的概率为 70-80%。潜在的灾难可能导致重大生命损失和经济损失。尽管发出了令人震惊的警告，但专家敦促公众不要惊慌，并指出立即发生危险的可能性很低。]]></description>
+      <guid>https://t.me/hn_summary/103260</guid>
+      <pubDate>Fri, 09 Aug 2024 09:01:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 史密斯的妻子遭遇了 USPS 短信诈骗，史密斯因此开始研究 Reddit 和其他网站 [...]</title>
-      <link>https://t.me/hn_summary/103232</link>
-      <description><![CDATA[USPS 短信诈骗者欺骗了他的妻子，因此他入侵了他们的操作
-Smith 的妻子遭遇了 USPS 短信诈骗，这促使他深入研究 Reddit 和其他在线资源，以发现并发布诈骗者使用的 URL。这些网站每天都会收集数千条个人记录，包括姓名、地址和付款详细信息。尽管他的妻子迅速取消了她的卡，但诈骗者仍试图将其用于 Uber 等服务。Smith 的调查结果与一家银行、FBI 和美国邮政检查局 (USPIS) 分享，后者目前正在调查。
+      <title>[媒体] 网站：www.helpnetsecurity.com</title>
+      <link>https://t.me/hn_summary/103259</link>
+      <description><![CDATA[影响 GitHub、Bitbucket、Gitlab 和 Jira 的事件数量正在增加
+标题：影响 GitHub、Bitbucket、Gitlab 和 Jira 的事件数量正在增加
+网站：www.helpnetsecurity.com
 
-Smith 的行动虽然有效，但根据《计算机欺诈和滥用法案》，它涉足了法律灰色地带。短信钓鱼三合会是一个讲中文的组织，他们每天发送多达 10 万条诈骗短信，他们使用的是一种复杂的短信钓鱼工具包，在 Telegram 上以每月 200 美元的价格出售。这种工具包允许诈骗者冒充各种组织并收取可观的利润。该组织的运营非常成熟，主要针对非中国用户。
+影响 GitHub、Bitbucket、GitLab 和 Jira 的事件数量增加，这让 DevSecOps 团队越来越担心，因为他们经常面临中断、网络攻击和数据泄露。 2023 年，GitHub 的事件数量增加了 21%，这主要是由于 RepoJacking 漏洞影响了数百万个存储库。Bitbucket 和 GitLab 也面临重大问题，包括高严重性缺陷和服务中断。Jira 用户的事件数量增加了 50%，严重漏洞和数据泄露构成了重大威胁。将安全性集成到开发流程中虽然有益，但也带来了挑战，需要所有团队成员保持警惕和协作，才能有效降低风险。
 
-短信钓鱼的兴起，以及即时短信通知，凸显了识别可疑信息的重要性，尤其是来自未知来源或包含紧急请求的信息。]]></description>
-      <guid>https://t.me/hn_summary/103232</guid>
-      <pubDate>Fri, 09 Aug 2024 02:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] ChargePoint 推出了 Omni Port，这是一种新的充电解决方案，它消除了 [...]</title>
-      <link>https://t.me/hn_summary/103231</link>
-      <description><![CDATA[新充电器让所有电动汽车无需适配器即可插入
-ChargePoint 推出了 Omni Port，这是一种新的充电解决方案，可消除电动汽车 (EV) 驾驶员对适配器的需求。尽管大多数非特斯拉电动汽车仍在使用 J1772 和 CCS1 端口，但这一创新是在行业转向特斯拉更小、更优雅的充电插头之后推出的。Omni Port 配有一对电缆，允许驾驶员通过 ChargePoint 应用程序或触摸屏选择合适的连接器类型，使其与所有电动汽车兼容。该解决方案可确保特斯拉和非特斯拉驾驶员获得无缝充电体验。Omni Port 将于今年年底上市，可以以象征性的成本改装到现有的 ChargePoint 型号上。]]></description>
-      <guid>https://t.me/hn_summary/103231</guid>
-      <pubDate>Fri, 09 Aug 2024 02:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 单一服务网站：单一页面和专用域名，服务于单一目的</title>
-      <link>https://t.me/hn_summary/103230</link>
-      <description><![CDATA[单一服务网站：单页和专用域名，服务于一个目的
-单一服务网站：单页和专用域名，服务于一个目的
+争议：事件数量显著增加，尤其是影响数百万个 GitHub 存储库的 RepoJacking 漏洞，凸显了一个关键的安全漏洞。
 
-网站：singleservingsites.cool
+独特/巧妙：威胁行为者使用 GitHub 托管恶意软件并通过 git 提交消息发出恶意命令是一种特别聪明且令人担忧的策略。]]></description>
+      <guid>https://t.me/hn_summary/103259</guid>
+      <pubDate>Fri, 09 Aug 2024 08:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.theregister.com</title>
+      <link>https://t.me/hn_summary/103258</link>
+      <description><![CDATA[如果您将控制权交给 Copilot，当它泄露您的秘密时，请不要感到惊讶
+标题：如果您将控制权交给 Copilot，当它泄露您的秘密时，请不要感到惊讶
+网站：www.theregister.com
 
-探索一系列迷人的单一服务网站，每个网站都有独特的、常常异想天开的目的。从 Jason Cosper 创建的 timwalzfixedyourbicycle.com（一个大概是庆祝自行车维修的古怪网站）到 eieio 创建的 onemillioncheckboxes.com（勾选一个方框即可为所有人检查），这些网站兼具实用性和幽默感。值得注意的是 Sam Rose 的 symbol.wtf，一个“复制符号的愚蠢网站”，以及 Lemon 的 isthisnickiminaj.com，幽默地挑战了粉丝对 Nicki Minaj 的了解。该合集展示了创造力和简单性，使互联网成为一个更令人愉快的地方。（基于 28% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/103230</guid>
-      <pubDate>Fri, 09 Aug 2024 02:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：ryzekit.com</title>
-      <link>https://t.me/hn_summary/103229</link>
-      <description><![CDATA[展示 HN：RyzeKit 的 Next.js SaaS 入门套件/样板
-标题：展示 HN：RyzeKit 的 Next.js SaaS 入门套件/样板
-网站：ryzekit.com
+在 Black Hat 上，Zenity 首席技术官 Michael Bargury 揭露了 Microsoft Copilot 中的重大安全漏洞，并揭示由于不安全的默认设置，创建安全的 Copilot 机器人具有挑战性。他的演讲重点介绍了攻击者如何利用 Copilot 访问敏感数据并执行恶意活动。尽管微软解决了一些问题，但许多机器人仍然存在漏洞，尤其是较旧的安装。Bargury 的发现强调了企业环境中人工智能的固有风险，强调了实时监控和安全措施的必要性。Zenity 发布了 CopilotHunter 和 LOLCopilot 等工具来帮助组织测试漏洞。微软声称它可以保护其用户，但对 Zenity 的报告表示赞赏。
 
-RyzeKit 推出新一代 SaaS 入门套件，旨在帮助您以极快的​​速度启动下一个创业公司。这款 NextJS 样板通过提供预构建的基本功能为您节省无数时间，让您专注于真正重要的事情。告别重复性的基本功能重建任务，加快项目进度。立即获取 RyzeKit，以前所未有的速度交付您的下一个项目！]]></description>
-      <guid>https://t.me/hn_summary/103229</guid>
-      <pubDate>Fri, 09 Aug 2024 02:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 苹果公司</title>
-      <link>https://t.me/hn_summary/103228</link>
-      <description><![CDATA[Mac Mini M4：苹果计划发布迄今为止最小的台式电脑
-Apple Inc. 正准备发布新版 Mac mini，这将是迄今为止最小的台式电脑。这款即将推出的机型预计将于今年晚些时候上市，是 Mac 系列大规模改版的一部分，将采用以 AI 为中心的芯片。值得注意的是，这将是自 2010 年史蒂夫·乔布斯改版以来 Mac mini 的首次重大重新设计。据内部人士透露，新设备将比其前代产品小得多，接近 Apple TV 机顶盒的大小。此信息来自熟悉该秘密项目的匿名消息人士。]]></description>
-      <guid>https://t.me/hn_summary/103228</guid>
-      <pubDate>Fri, 09 Aug 2024 02:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：autodocument.app</title>
-      <link>https://t.me/hn_summary/103227</link>
-      <description><![CDATA[显示 HN：AutoDocument – 多源文档生成
-标题：显示 HN：AutoDocument – 多源文档生成
-网站：autodocument.app
+争议：声称微软的默认设置不安全，尽管进行了修复，但许多机器人仍然容易受到攻击。
 
-AutoDocument 是一款多功能工具，旨在通过集成多个来源来简化文档生成。它支持通用文件存储选项，例如 S3、SharePoint 和传统文件系统，使用户可以轻松上传和下载文档。这种创新解决方案旨在简化文档创建过程，使其更高效、更易于访问。AutoDocument 的独特之处在于它能够无缝处理各种存储系统，为文档管理提供统一的平台。这种方法可以彻底改变企业管理文档的方式，为常见的挑战提供聪明而实用的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/103227</guid>
-      <pubDate>Fri, 09 Aug 2024 02:35:54 GMT</pubDate>
+独特见解：有用的人工智能机器人天生就容易受到攻击，因为完全保护它们会使它们的功能降低。]]></description>
+      <guid>https://t.me/hn_summary/103258</guid>
+      <pubDate>Fri, 09 Aug 2024 08:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>今天，我们很高兴地推出 Bigcapital v0.19.0，它对我们的银行功能进行了重大改进[...]</title>
-      <link>https://t.me/hn_summary/103226</link>
-      <description><![CDATA[Bigcapital – Quickbooks 的开源替代品发布 v0.19.0
-今天，我们很高兴推出 Bigcapital v0.19.0，它对我们的银行服务进行了重大改进。一个突出的功能是能够同时对多个银行交易进行分类或匹配单个 Bigcapital 交易。我们还引入了批量交易排除功能，允许用户同时管理多个存款或取款，这对于处理重复交易特别有用。您现在可以暂停、恢复或停止银行账户连接，以更好地控制自动同步。此外，多付款可以记录为未来发票的贷方，确保准确的财务记录。账单页面也已升级，支持订阅管理和付款方式更改。]]></description>
-      <guid>https://t.me/hn_summary/103226</guid>
-      <pubDate>Fri, 09 Aug 2024 02:35:51 GMT</pubDate>
+      <title>[媒体] OTranscribe 是一款免费的开源工具，旨在简化转录过程 [...]</title>
+      <link>https://t.me/hn_summary/103257</link>
+      <description><![CDATA[OTranscribe：一款免费开放的音频采访转录工具
+OTranscribe 是一款免费的开源工具，旨在简化音频采访转录流程。该平台提供用户友好的功能，例如用于格式化文本的键盘快捷键（Ctrl+I 为斜体，Ctrl+B 为粗体），以及方便的控件，例如按 ESC 播放或暂停音频，按 Ctrl+J 插入当前时间戳。此工具对于记者、研究人员以及任何需要高效转录音频的人特别有用。其开源性质确保它仍然易于访问并能适应用户需求，使其成为转录工具市场的杰出选择。]]></description>
+      <guid>https://t.me/hn_summary/103257</guid>
+      <pubDate>Fri, 09 Aug 2024 07:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Elabeler 是一款简单的文本注释应用程序，专为 NLP 文本标记而设计，具有 S [...]</title>
-      <link>https://t.me/hn_summary/103225</link>
-      <description><![CDATA[向 HN 展示：Elabeler 是一款用于分类标签的简单文本注释应用程序
-Elabeler 是一款专为 NLP 文本标记而设计的简单文本注释应用程序，具有 Streamlit 前端和 FastAPI 后端。它允许用户高效地从 CSV 文件上传、标记和管理文本数据，并以各种格式（CSV、JSON、Parquet）导出标记数据。该工具以其直观的标记界面和强大的导出选项而著称，具有基于时间戳、批次 ID 和批次名称的过滤功能。该项目使用 Docker 和 Docker Compose 进行容器化，以便于设置和部署。鼓励通过拉取请求或问题提交做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/103225</guid>
-      <pubDate>Fri, 09 Aug 2024 02:33:47 GMT</pubDate>
+      <title>[媒体] 东京 — — 日本首次发出警告，称可能发生“特大地震”，随后 [...]</title>
+      <link>https://t.me/hn_summary/103256</link>
+      <description><![CDATA[日本发布史上首个特大地震预警
+东京——日本南部海岸发生 7.1 级强震，引发海啸预警，但未造成立即严重损坏或人员伤亡。地震发生在九州岛宫崎县附近，震源深度为 18 英里。三人受伤，但没有报告停电或重大基础设施损坏。当局敦促居民保持警惕，避开海岸线。地震学家正在评估对南海海槽的影响，南海海槽是过去发生过毁灭性地震的源头。首相岸田文雄强调做好准备的必要性。核监管局确认受影响地区所有核反应堆都是安全的。日本位于太平洋“火环”上，地震多发，2011 年福岛核灾难仍让人记忆犹新。]]></description>
+      <guid>https://t.me/hn_summary/103256</guid>
+      <pubDate>Fri, 09 Aug 2024 07:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：商业源许可证（BUSL）转换的复杂性</title>
+      <link>https://t.me/hn_summary/103255</link>
+      <description><![CDATA[商业源许可证 (BUSL) 转换的复杂性
+标题：商业源许可证 (BUSL) 转换的复杂性
+
+网站：lwn.net
+
+作者：Joe Brockmeier，2024 年 8 月 5 日
+
+商业源许可证 (BUSL) 是一种独特的源可用许可证，在一段固定时间（通常为四年）后过渡到开源许可证。这一概念由 Michael Widenius 和 Linus Nyman 于 2013 年首次提出，旨在平衡开源的好处与可持续收入的需求。然而，Fedora 项目最近强调了这一转变所涉及的复杂性。例如，Michal Schorm 寻求有关如何处理 MaxScale 向免费许可证过渡的指导。Red Hat 的 Richard Fontana 指出，由于 BUSL 和后 BUSL 许可证之间可能存在重叠，因此打包此类软件存在风险。讨论强调了维护前 BUSL 软件的安全更新和错误修复的挑战，并建议公司可以通过从一开始就采用开源许可证或遵循 Aladdin 的双重发布模式来避免这些问题。]]></description>
+      <guid>https://t.me/hn_summary/103255</guid>
+      <pubDate>Fri, 09 Aug 2024 07:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>在《如何认识某人》一书中，诺尔·西迪圭分享了一系列发人深省的问题 [...]</title>
+      <link>https://t.me/hn_summary/103254</link>
+      <description><![CDATA[如何了解某人（2018）
+在《如何了解某人》一书中，Noor Siddiqui 分享了一系列发人深省的问题，旨在促进与新认识的人进行有意义的对话。这些问题旨在引发情绪激动的回忆、很少出现的怀旧时刻和新颖的回应。Siddiqui 强调避免使用陈词滥调的回答，确保对方感到被理解。问题范围从“你的父母是怎么认识的？”这样的软问题到“你最激进的信仰是什么？”这样的硬问题。Siddiqui 还为情侣提供了量身定制的问题和一系列“不闲聊”的问题。目标是发现对方深知的事情，让了解某人的过程变得愉快而有见地。 
+
+有争议：“你最激进的信仰是什么？”这个问题可能会引起强烈反应和潜在的争议性讨论。
+
+独特/聪明：询问赠送或收到的最佳礼物以了解价值观和生活取向的方法特别有见地。]]></description>
+      <guid>https://t.me/hn_summary/103254</guid>
+      <pubDate>Fri, 09 Aug 2024 07:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 我对 Rust 很感兴趣——它的类型安全、内存安全，以及重点 [...]</title>
+      <link>https://t.me/hn_summary/103253</link>
+      <description><![CDATA[不要像写 Java 那样写 Rust
+我对 Rust 感兴趣已经有一段时间了——它的类型安全、内存安全和对正确性的重视非常吸引人。在开发 Python 应用程序 Apollo 时，我意识到 Rust 的编译器可以捕获许多错误。虽然 Java 的编译时检查非常有用，尤其是在进行重大重构时，但它在空引用等方面仍然存在不足。然而，Rust 会指导您谨慎处理未知值。
+
+尽管 Rust 前景光明，但我的旅程并不顺利。像对待 Java 那样对待 Rust，尤其是使用接口（Rust 中的特征），导致沮丧。Rust 的内存安全性使特征实现变得复杂，通常需要装箱或泛型。所有权增加了另一层复杂性，尤其是在依赖关系方面。
+
+我发现，与其将 Rust 强行塞入面向对象模式，不如尽可能使用函数，这样会更有趣。例如，使用函数而不是服务对象来处理 Stripe 结账会话会更简单。接受 Rust 的习语而不是与之抗争是掌握该语言的关键。]]></description>
+      <guid>https://t.me/hn_summary/103253</guid>
+      <pubDate>Fri, 09 Aug 2024 07:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：ainotebook.app</title>
+      <link>https://t.me/hn_summary/103252</link>
+      <description><![CDATA[我为大学生打造了第二个大脑工具
+标题：我为大学生打造了第二个大脑工具
+网站：ainotebook.app
+
+AI Notebook 增强了您的笔记记录能力。以文本、图像或音频（带有实时转录！）的形式捕捉想法。AI 通过摘要、自动分类和抽认卡帮助您组织和理解。所有这些都可以通过您的手机、平板电脑或计算机访问。它是您的个性化学习助手！]]></description>
+      <guid>https://t.me/hn_summary/103252</guid>
+      <pubDate>Fri, 09 Aug 2024 06:40:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
