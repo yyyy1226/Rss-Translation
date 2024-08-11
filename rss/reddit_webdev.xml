@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 11 Aug 2024 01:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 03:23:27 GMT</lastBuildDate>
+    <item>
+      <title>Google API 文档冗余多乱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1epafgw/google_apis_documentation_a_redundant_mess/</link>
+      <description><![CDATA[我正在尝试制作一个需要读取/写入 Google Sheet 的简单应用。我正在尝试查找 Google 推荐我使用的客户端应用的文档，但存在一个大问题：https://googleapis.dev/nodejs/googleapis/latest/ 单击工作表、sql、笔记本等……它们都会将您带到完全相同的资源，而没有针对该特定 api 路由的任何参数或方法的定义。有没有人遇到过这种情况，并且知道哪里可能有好的、特定于 api 路由的文档？    提交人    /u/FluffyBacon_steam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1epafgw/google_apis_documentation_a_redundant_mess/</guid>
+      <pubDate>Sun, 11 Aug 2024 02:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！我在网页上添加了 Google 地图自动填充文本框，但现在当我退出自动填充文本框并点击其他地方时，自动填充选项仍然显示。我该如何解决这个问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ep9feu/help_i_added_a_google_maps_autofill_textbox_on_my/</link>
+      <description><![CDATA[        提交人    /u/rajmksingh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ep9feu/help_i_added_a_google_maps_autofill_textbox_on_my/</guid>
+      <pubDate>Sun, 11 Aug 2024 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于仅使用一次的东西，使用单独的 UI 组件是否很常见？如果是，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ep94x9/is_it_common_to_use_separate_ui_components_for/</link>
+      <description><![CDATA[我正在学习 React，并下载了一堆免费的框架样板，只是为了四处看看它是如何工作的，我注意到它们中的大多数都有主页上每个块的单独组件文件（英雄部分、常见问题、功能、评论等）。  我只是想知道这样做是否有任何实际好处，因为这些块只在主页上使用，所以它并不是在节省任何类型的代码重复或任何东西。至少对于我喜欢的工作方式来说，它会更烦人，我会立即将所有一次性主页元素移动到一个文件中。 我只是想知道这是否很常见，或者主要是在这种样板情况下使用的东西，以便以某种方式让使用它的人更容易。    提交人    /u/drippyneon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ep94x9/is_it_common_to_use_separate_ui_components_for/</guid>
+      <pubDate>Sun, 11 Aug 2024 01:44:45 GMT</pubDate>
+    </item>
     <item>
       <title>字体帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1ep7kzm/font_help/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[它让我想起了 10 多年前的优秀 Flash 网站。但我不知道他们用什么构建了这个网站： https://thisisnotawebsitedotcom.com    由   提交  /u/ryanmulford   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ep43dv/can_anyone_tell_me_how_this_website_was_built/</guid>
       <pubDate>Sat, 10 Aug 2024 21:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 并不一定要只关注业务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ep3tdp/react_doesnt_have_to_be_all_about_business/</link>
-      <description><![CDATA[        提交人    /u/rgi_casterly   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ep3tdp/react_doesnt_have_to_be_all_about_business/</guid>
-      <pubDate>Sat, 10 Aug 2024 21:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 开发人员，您日常使用的一些有用的工具和技巧是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ep3igl/windows_devs_what_are_some_useful_tools_and_tips/</link>
-      <description><![CDATA[我一直在使用 Linux，刚刚在一家 Windows 商店开始了一份新工作。目前，我最大的挫败感是 powershell（wsl 很好但性能不佳）以及似乎大多数事情都是使用 gui+mouse 完成的事实。您使用哪些工具和设置让您的生活更轻松？    提交人    /u/Delicious_South2955   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ep3igl/windows_devs_what_are_some_useful_tools_and_tips/</guid>
-      <pubDate>Sat, 10 Aug 2024 21:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些考虑过 Cloudflare 但犹豫不决的人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ep3423/for_those_that_have_considered_cloudflare_but/</link>
-      <description><![CDATA[我从事编码工作已近 30 年，大部分时间都在使用 WHM/cPanel 的 VPS。我考虑使用 Cloudflare 已经很久了，但一直犹豫不决，因为你必须更改域名服务器，这意味着没有回头路了！ 去年我终于迈出了这一步，现在我想与像我一样犹豫不决的其他人分享我的经验。  过渡期间完全没有停机。你在 Cloudflare (CF) 中创建一个免费帐户并输入域，然后 CF 会导入现有的 DNS 记录。完成这些操作后，您可以将域的名称服务器更改为指向 CF 为您提供的名称服务器，DNS 保持不变。  如果您将 A 记录用于托管客户端的虚荣名称服务器，则仍然可以正常工作。  我大约有 200 个站点想要与 CF 一起使用。我创建了一个帐户，然后必须一次设置一个站点。这有点麻烦，但一旦完成就结束了 :-) 我想，虽然有点麻烦，但收获颇丰。 您的安全证书将更新以通过 CF 运行。我一直在使用 Sectigo，但它有点不稳定，而 Let&#39;s Encrypt 的证书数量有上限，所以对我来说这不是一个好的选择。不过，到目前为止，CF 的证书都很好！  说到证书，当您创建帐户时，默认情况下会将 SSL 加密设置为“灵活”。但这会给我带来错误，所以我必须立即将其更改为“完整”。可能有办法更改该默认值，但如果有，我还没有看到。  您可以更改设置以阻止恶意机器人和 AI 爬虫。这对我来说非常重要！我的服务器负载在下午 4 点（当前时间）通常为 3+，但目前为 0.4！ 它似乎还默认阻止 SQL 注入尝试和其他漏洞。这对我来说也很重要；我的脚本非常严格，但我会在错误日志中看到几乎恒定的尝试列表。知道另一家公司在后端阻止它，会让人有很强的安全感，因此我不会总是在攻击结束后才做出反应。 在“安全”&gt;“WAF”下有一个部分，可让您创建自定义规则，以在不需要的流量到达防火墙之前阻止或挑战它。这对我来说也很重要；在过去的 24 小时内，它阻止了超过 500,000 个不良请求，并挑战了另外 5000 个请求（“挑战”意味着他们将采取一些步骤来确保它不是机器人，并且您可以控制这些步骤）。这也减轻了我的服务器负载。  不过，我认为没有办法创建通用的 WAF 设置，所以我必须一次为每个网站执行此操作。如果您熟悉 bash 脚本，那么您可以编写自己的脚本通过 API 完成很多工作，但是他们的 API 文档有点糟糕，而且没有太多帮助可以帮助您弄清楚。  他们还有一个名为“Zaraz”的工具，可以为您插入第三方工具。我将其设置为插入 Google Analytics，发现它的处理速度比标准 GA 代码更快（这意味着页面加载速度更快）。但是，它每月最多有 100 万个“事件”，因此您可能必须转到 Zaraz &gt;设置，滚动到“机器人分数阈值”，并将其设置为“阻止自动和可能自动”。  您也必须一次完成此操作，因此这很耗时，但从长远来看是有帮助的。  我尝试的主要原因是因为他们以批发价提供域名！目前 .COM 的价格为 9.77 美元。我每年续订大约 200 个域名，因此为我节省了一大笔钱，值得弄清楚 :-)  还有很多其他可选功能，其中许多是免费的（我从未使用过任何付费功能）。但到目前为止，我可以说我的页面加载速度明显更快，没有明显的缺点 :-D    提交人    /u/csdude5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ep3423/for_those_that_have_considered_cloudflare_but/</guid>
-      <pubDate>Sat, 10 Aug 2024 20:53:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
