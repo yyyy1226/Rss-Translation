@@ -4,13 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 01:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 03:23:30 GMT</lastBuildDate>
     <item>
-      <title>使用人工智能完成工作的人不是正在培训他们的接班人吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eq1by6/arent_people_that_use_ai_to_do_their_job_training/</link>
-      <description><![CDATA[我的意思是，如果你用它来帮助你完成工作，你就是在训练它来完成你的工作。而到了某个时候，它就可以在没有你的情况下完成工作。这就是机器学习的工作原理。 因此，跳入“我现在要开始使用人工智能工具，这样我以后就可以保住我的工作”可能感觉很聪明。但实际上，你可能是最快失业的人。 我一直在争论我是否应该以某种方式使用人工智能。我不知道，你怎么看？    提交人    /u/remiohart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eq1by6/arent_people_that_use_ai_to_do_their_job_training/</guid>
-      <pubDate>Mon, 12 Aug 2024 01:31:56 GMT</pubDate>
+      <title>有没有完全免费的在线 AI 换脸？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eq2tjd/is_there_a_totally_free_ai_face_swap_online/</link>
+      <description><![CDATA[在讨论“完全免费”的工具时，必须澄清的是，这意味着它们同时提供图像换脸和视频换脸功能，没有任何隐藏费用、免费试用或免费积分。市场上的许多工具可能会提供免费的图像换脸服务，但随后会施加限制或要求为视频换脸付费。其他人可能最初会提供一些免费积分，但最终需要订阅或付费才能访问完整功能。 据我所知，AIFaceswap 和 Vidwud 是“完全免费”的。  Vidwud  它是一个简单的工具，提供图像换脸和视频换脸功能，完全免费。它的操作简单，是需要基本换脸功能而又不需要复杂附加功能的用户的绝佳选择。  AIFaceswap  AIFaceswap 凭借全面的功能脱颖而出。它不仅允许用户在图像和 GIF 中换脸，还允许用户在视频中换脸。这使其成为适用于各种媒体的多功能选项。除了这些核心功能外，AIFaceswap 还支持批量换脸，如果您需要一次处理多个文件，此功能特别有用。 与 Vidwud 相比，AIFaceswap 的突出功能之一是它能够更精确地处理视频换脸。具体来说，它包含一项名为“捕捉帧”的功能，可让您在原始视频的任何随机帧中换脸。这意味着您可以选择性地针对视频中的特定时刻进行换脸。 此外，AIFaceswap 还可以控制原始视频的时间，允许您设置换脸过程的开始和结束时间。这种控制级别增强了最终输出的灵活性和可定制性。 此外，AIFaceswap 允许您同时渲染最多三个视频，这对于需要同时处理多个视频的用户来说非常方便。此功能不仅节省时间，而且使该工具更高效、更人性化。 如果您有任何建议，请随时与我分享。谢谢！    提交人    /u/GroceryExcellent788   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eq2tjd/is_there_a_totally_free_ai_face_swap_online/</guid>
+      <pubDate>Mon, 12 Aug 2024 02:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动日历软件</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eq266g/automated_calendar_software/</link>
+      <description><![CDATA[因此，我创建了一个自动日历软件，它简化了我在日历上安排活动所需的时间。我通常每天花大约 15 到 20 分钟制作日历，但这个软件使这个过程快了很多。现在平均需要 5 分钟。由于这个软件对我真的很有用，我决定将它编码到一个网站中：asorti.co 要使用此日历，只需输入一两句话说明您一天中想要的活动，软件就会自动为该活动创建活动和描述。然后，软件会在将活动集成到主日历之前向您显示待批准的活动。  该软件是免费的，所以请尝试一下 :) 此外，如果您有任何问题或意见，请随时给我发私信。    提交人    /u/One-Smile-69420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eq266g/automated_calendar_software/</guid>
+      <pubDate>Mon, 12 Aug 2024 02:14:03 GMT</pubDate>
     </item>
     <item>
       <title>使用 ChatGPT 构建 AI 应用程序</title>
@@ -22,7 +29,7 @@
     <item>
       <title>有任何不错的 AI 语音调制器吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eq0kh5/any_decent_ai_voice_modulators_out_there/</link>
-      <description><![CDATA[我曾经使用过 kits.ai 语音调制，当时他们有社区声音、用户制作的角色语音转换器等，但他们很久以前就将它们私有化了。我经常将它们用于评论目的，过去几个月我一直在寻找替代品。最好是那些可以使用麦克风或输入 mp3 文件的。    提交人    /u/Zack_Vikander117   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经使用过 kits.ai 语音调制，当时他们有社区声音、用户制作的角色语音转换器等，但他们很久以前就将它们私有化了。我经常将它们用于评论目的，过去几个月我一直在寻找替代品。最好是使用麦克风或输入 mp3 文件的那种。    提交人    /u/Zack_Vikander117   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eq0kh5/any_decent_ai_voice_modulators_out_there/</guid>
       <pubDate>Mon, 12 Aug 2024 00:55:10 GMT</pubDate>
     </item>
@@ -32,13 +39,6 @@
       <description><![CDATA[我尝试了各种各样的文本转语音模型，并且使用了一代又一代的 rvc。我发现，这些 tts 要么听起来非常自然，但会发错很多单词，要么听起来非常机械化，但发音正确。鉴于有 rvc 之类的东西，它允许您使用任何 tts 进行语音克隆，是否有任何语音转语音模型可以将情感应用于听起来机械化的 tts 模型？    提交人    /u/Hefty_Wolverine_553   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1epz48m/are_there_any_speechtospeech_models_that_apply/</guid>
       <pubDate>Sun, 11 Aug 2024 23:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我获得了一个法学硕士学位，它结合了 Claude 3.5、Gemini 1.5、GPT-40 和 LLama 3.1 的答案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1epz1wo/i_made_an_llm_that_combines_the_answers_from/</link>
-      <description><![CDATA[想象一下，将每个 LLM 的独特卖点组合成一个。 例如GPT-4o 更合乎逻辑，而 Claude 更具创造力，这结合了每个模型的独特卖点。 当我们与客户交谈时，他们询问我们是否可以将所有 LLM 的所有输出合成一个高质量的响应。 所以今天，我们推出了 Mixture AI。 Mixture AI (MoA) 是一种新颖的方法，它利用多个 LLM 的集体优势来提高性能，实现最先进的结果。 通过采用分层架构，其中每层包含多个 LLM 代理，MoA 在 AlpacaEval 2.0 上的表现显著优于 GPT-4 Omni 的 57.5%，得分为 77.1%！ 在 ChatPlayground AI 上试一试    提交人    /u/Saas-builder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1epz1wo/i_made_an_llm_that_combines_the_answers_from/</guid>
-      <pubDate>Sun, 11 Aug 2024 23:42:57 GMT</pubDate>
     </item>
     <item>
       <title>是否存在任何 AI 软件可以将包含作者的歌曲列表转换为 Spotify 播放列表？</title>
