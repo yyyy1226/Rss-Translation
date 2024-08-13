@@ -4,20 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 21:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 01:37:52 GMT</lastBuildDate>
     <item>
-      <title>如何对在线网站进行修改？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqp5nk/how_to_make_changes_to_online_site/</link>
-      <description><![CDATA[长话短说，我家买了一家本地特许经营店，我们想更改一个列出我们位置的特别信息。该网站是随业务一起提供的，所以我们不确定该联系谁。似乎 Squarespace 是网站上图片特别信息的子域。我希望看看是否有人可以给我一些关于如何或我们可以做些什么来更改我们网站的信息。任何关于它如何工作的信息也都很棒！如果没有太多细节可以提供，请见谅。我们对编程一无所知，但很想学习，这样我们就可以拥有网站的功能！我们只是不知道从哪里开始。  此外，我们尝试询问原始所有者，但他们说他们不知道该网站是如何创建的或是谁创建的......    提交人    /u/Strangeavenger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqp5nk/how_to_make_changes_to_online_site/</guid>
-      <pubDate>Mon, 12 Aug 2024 20:58:34 GMT</pubDate>
+      <title>在云中部署/托管多个容器的最佳方法是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqvc55/what_is_the_best_approach_to_deployhost_multiple/</link>
+      <description><![CDATA[      几天前我创建了一个帖子，并从那里复制了一些信息。 https://www.reddit.com/r/webdev/comments/1enoe2v/how_to_keep_login_session_when_communicating_from/ 1. Web App 这是一个 React 应用程序，它仅与 My-Backend 通信 2. My-Backend 这是一个 Springboot 应用程序。我已经编写了自定义身份验证逻辑。 当它收到来自 Web App 的请求时，它应该 a) 如果请求路径为 /users、/restaurants 等，则直接从数据库检索数据 b) 如果请求路径为 /foods、/drinks 等，则通过 Dockerized 后端检索数据 3. Dockerized 后端 由于它是一个 Docker 映像，因此我无法控制代码，并且此应用程序不提供 API 密钥。它只接收来自 My-Backend 的请求。除创建 MQTT 连接外，它只能私下访问。 它有很多端点，如 /foods、/drinks 等。但要从这些端点获取数据。我们需要在标头中提供授权令牌。 要获取授权令牌，我们需要发送带有有效负载的 /login 请求 { username: &quot;abc&quot;, password: &quot;abc&quot; }  然后我将令牌存储在 Redis 中，这是另一个 docker 容器。 现在的架构就像 https://preview.redd.it/o97nvrnz1cid1.png?width=1141&amp;format=png&amp;auto=webp&amp;s=a5da9657bb14e58283ee22b99c46fdc67b9a5506 我已经在本地设置了 docker-compose，效果很好。  现在我正在考虑如何在 GCP 中托管我的整个应用程序。我想实现以下目标。  最小化 My-backend 和 Dockerized backend 之间的延迟 Dockerized Backend 应该只能通过 MQTT 和 My-Backend 访问 轻松设置 CI/CD 只有 my-backend 容器会发生变化，其他容器永远保持不变  我脑子里有几个选择。 1. 在 GCE VM 中使用 Docker Compose 优点  my-backend &amp; dockerized 后端在同一个 docker 网络上，这减少了它们之间的延迟。 简单直接，只需要下载 docker 镜像并运行 docker-compose up -d  缺点  即使我们只使用 docker，也需要管理 VM  2. 在云上运行托管多个容器 优点  由于每个服务都是一个容器，因此关注点分离 更容易调试/监控特定服务  缺点  它们在不同的网络中提供服务，这可能会导致我的后端和   提交人    /u/More-Ad-5258   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqvc55/what_is_the_best_approach_to_deployhost_multiple/</guid>
+      <pubDate>Tue, 13 Aug 2024 01:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>寻求意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqoxoe/looking_for_opinions/</link>
-      <description><![CDATA[我没有任何编程经验，我主要听 Frank&#39;s Laboratory 并使用 ChatGDP。我正在尝试编写自己的网站，并寻求意见和建议，以使该网站变得有趣 https://postquem.ca/ 请随意发表评论    由   提交  /u/SnooPaintings3122   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqoxoe/looking_for_opinions/</guid>
-      <pubDate>Mon, 12 Aug 2024 20:49:40 GMT</pubDate>
+      <title>显示后字幕不再起作用：无</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqthsv/marquee_not_working_anymore_after_displaynone/</link>
+      <description><![CDATA[嗨，有一个从右向左滚动的字幕样式 css。为了控制字幕的速度，以便每个字幕都具有相同的速度，而不管文本长度如何，我使用了以下 jquery：  &lt;script&gt; var defaultDelay = 1; // 是 CSS 定义的延迟。var defaultWidth = 40; // 是您测试的 100 个字符串的宽度。 $(&quot;.allxmydetails&lt;?php echo $Recordcount;?&gt; p&quot;).each(function(){ var width = $(this).width(); var newDelay = defaultDelay*(width/defaultWidth); $(this).closest(&quot;span&quot;).css(&quot;animation&quot;, &quot;allxmydetails &quot; + newDelay + &quot;s linear 3s infinite&quot;); }); &lt;/script&gt;  我更改了页面的设计，在更改之前只有 1 个表（html），其中有一个 php 循环，产生了几行结果，并且每个上述循环都应用了 jquery。因此，所有结果都以相同的速度滚动。 更改后，我现在有 2 个表格（html），1 个表格（编号 1）带有 display:table，不需要字幕，1 个表格（编号 2）带有 display:none，原始表格包含每个结果的上述 jquery。 然后我在顶部有按钮来触发点击事件（jquery）来切换两个表格的显示 css 属性，因此您单击“查看表格 1”（默认）或“查看表格 2”....当页面第一次加载时，显示表格 1。 所以点击“查看表格 2”将隐藏表 1 并显示表 2....并且字幕不再起作用...文本在那里但没有从右到左滚动。 我试图将上面的 jquery 包装在 document.ready 中，但没有工作，我试图分配一个函数在单击“查看表 2”按钮时在 jquery 上面运行，但没有工作。 所以希望有人能指出我正确的方向...谢谢    提交人    /u/rick007back   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqthsv/marquee_not_working_anymore_after_displaynone/</guid>
+      <pubDate>Tue, 13 Aug 2024 00:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚假产品评论已经失控。我的想法能解决这个问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqscbp/fake_product_reviews_are_out_of_control_would_my/</link>
+      <description><![CDATA[大家好 - 不确定我是否在浪费时间构建人们实际上并不想要的东西。欢迎大家提供反馈！ 问题：G2、Capterra、Gartner 都有一个共同的问题：大多数评论都是由平台本身（G2 等）或要求他们发布匿名评论以换取礼品卡的供应商“激励”的。 解决方案：一个平台，您可以在其中查看您的网络中的人推荐哪些软件。我们中的许多人都会求助于我们网络中的联系人，以了解他们推荐的软件，我们的平台将允许您快速轻松地大规模地做到这一点。 工作原理： 2 层系统：  第 1 层：私人，仅限会员：在我们的平台上，您可以将网络中的人添加到您的“联系人”列表中，并查看他们的个人资料以查看他们评价过的软件。为了查看实际评级，您自己必须至少对 1 个产品进行评级。 第 2 层：每个产品的公开评论页面。将对每个产品的私人会员专区评分进行汇编和匿名化。  注意：  所有用户必须通过工作电子邮件/ LinkedIn 进行验证，以确保个人资料真实。 虽然供应商仍有可能在我们的平台上激励评论，但我们认为人们在那里向来自他们个人网络的人推销软件以换取礼品卡的可能性要小得多。 我们将跟踪产品评论中不寻常的快速飙升，以清除可疑活动。  你会对此感兴趣吗？为什么或为什么不？ 查看投票    提交人    /u/Mark_Discombobulated   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqscbp/fake_product_reviews_are_out_of_control_would_my/</guid>
+      <pubDate>Mon, 12 Aug 2024 23:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>js1024 获奖者 - 2024 年版</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqs7ke/js1024_winners_2024_edition/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqs7ke/js1024_winners_2024_edition/</guid>
+      <pubDate>Mon, 12 Aug 2024 23:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳平台是否能快速构建基本功能，然后添加这些功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqrb2i/best_platform_to_build_with_basic_functionality/</link>
+      <description><![CDATA[这样我就不必一直更换平台了。首先创建带有服务概述的基本主页的最佳方法是什么？ 然后添加客户登录。 然后按月/年订阅等。使用支付网关。CC 或离线发票付款。 然后添加安全的客户门户，我为他们制作的数字项目可以存储在其中以供下载。（或下载它们的链接）。 即使他们取消订阅，他们仍然需要访问权限。 有道理吗？ 我用过 Shopify，但我认为它不能很好地处理客户门户或订阅，我讨厌和他们打交道。    提交人    /u/loosepantsbigwallet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqrb2i/best_platform_to_build_with_basic_functionality/</guid>
+      <pubDate>Mon, 12 Aug 2024 22:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习 JavaScript 基础知识后，多快可以掌握 WordPress 和 Shopify？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqr3ec/how_quickly_can_i_pickup_wordpress_and_shopify/</link>
+      <description><![CDATA[我已经学习了几个月的 HTML、CSS 和原生 JavaScript。这可能听起来有些老套，但我已经完成了 FrontEndMentor 上的所有新手和初级挑战，以供练习。我打算在对自己的 JS 技能感到满意后立即转向 WordPress 和 Shopify，因为我的主要目标是成为一名自由开发者，为小型企业构建个人网站、企业业务网站（由于朋友和家人的帮助，我可能已经有几个客户为此排队了）、专业博客网站和电子商务网站。 那么，考虑到我对 HTML、CSS 和 JavaScript 的熟悉程度，学习 WordPress/Shopify 会更容易吗？此外，我对这些编程语言的理解是否允许我使用 WordPress/Shopify 构建“更漂亮”、更具交互性的网站？ 提前感谢您的回复。    提交人    /u/FamSimmer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqr3ec/how_quickly_can_i_pickup_wordpress_and_shopify/</guid>
+      <pubDate>Mon, 12 Aug 2024 22:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>试用我的番茄工作法应用 | 由人工智能助力打造</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eqqvlc/try_my_pomodoro_app_made_with_the_help_of_ai/</link>
+      <description><![CDATA[有时我太专注于工作而忘记休息，所以我开始使用番茄工作法来提醒自己休息。我也喜欢在工作时听音乐或白噪音，我寻找一个可以让我随着计时器播放音乐的应用程序，但找不到。所以，我决定尝试用人工智能来实现这个想法，结果真的让我很惊讶！做起来很有趣。如果有人想尝试一下，请告诉我你的想法。 Focus Waves    提交人    /u/ramizmortada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eqqvlc/try_my_pomodoro_app_made_with_the_help_of_ai/</guid>
+      <pubDate>Mon, 12 Aug 2024 22:08:06 GMT</pubDate>
     </item>
     <item>
       <title>可以将表格提交到不是我本人的电子邮箱吗？</title>
@@ -39,13 +74,6 @@
       <description><![CDATA[这不会是一个以盈利为目的的网站，甚至不会大规模使用。如果可以的话，我很乐意让随机的人使用它，但因为我做了很多自定义的东西，dnd beyond 不喜欢，所以我想创建一个我自己的，我的玩家可以使用，我可以在其中添加我的东西。  我尝试查找有关如何制作 Web 应用程序的信息，但我不知道使用什么术语来指定它基本上仅用于角色表管理，因此输入您的名字，从玩家可以添加到他们的角色表的盔甲和武器数据库中绘制，根据他们输入的统计数据和盔甲自动更新盔甲等级等内容，添加法术等内容，当玩家点击法术时，它可以将他们带到详细介绍该法术的页面或弹出带有法术描述的侧窗，并且 Web 应用程序会自动为他们更新诸如护甲等级计算之类的内容，他们在伤害掷骰中添加了什么数字，他们的技能检查修正器，诸如此类的事情。 我愿意将其制作成移动应用程序。我对一些编码语言有了更高的初学者水平的了解，并且想用它来练习我的技能以及开发一些功能性的东西。  是否有资源我可以用来制作类似的东西，而不是用于商业或作为赚钱的手段？    提交人    /u/Your-Friend-Bob   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eqmtet/trying_to_make_an_app_like_dnd_beyond_for_my/</guid>
       <pubDate>Mon, 12 Aug 2024 19:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqmliw/roast_my_resume/</link>
-      <description><![CDATA[      最近我被解雇了。我刚毕业不久，毕业后有大约 1 年的工作经验。现在我又回到了申请和投递简历的阶段，投递简历到任何符合我的经验和技能的地方。在申请过程中，我注意到我收到了很多拒绝回复，我想对我的简历进行一些反馈，认为这可能是我被拒绝的原因。任何建议都值得感激。  https://preview.redd.it/w1yacz3c9aid1.png?width=656&amp;format=png&amp;auto=webp&amp;s=b62ce019c8bfbde16e87f0a0f07365b2a014b5f8   由    /u/Hopeful-Gate8525  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqmliw/roast_my_resume/</guid>
-      <pubDate>Mon, 12 Aug 2024 19:17:30 GMT</pubDate>
     </item>
     <item>
       <title>我有一个为 gpt 4o 构建工具的想法。</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[我如何将电子邮件捕获嵌入到我的博客页面？电子邮件将发送到哪里，我如何获取它们...    提交人    /u/JamesFromKAW   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eqlzau/embed_an_email_capture/</guid>
       <pubDate>Mon, 12 Aug 2024 18:53:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>婴儿网络开发人员在这里......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqlvv2/baby_web_dev_here/</link>
-      <description><![CDATA[嗨，不确定这是否符合规则，因为我还很新，但我主要设计网站，所以我主要使用 CMS 软件。我目前主要使用 Wix，很快将转向 Webflow。有一件事我发现很难创建像这样的平滑滚动。我尝试在线搜索，但结果不是我想要的。 仅供参考，这里有一个网站，我正尝试将其复制为一个项目，以了解如何编写动画代码，或者至少使用 wix studio 工具复制它https://www.defprojetos.com/ 它与正常滚动的工作方式非常不同。我在网站上经常看到它，它使滚动动画看起来更流畅。 我尝试过在线查找，但我发现的那些似乎只是减慢了滚动速度以创建“平滑滚动”这不是我想要的。 任何帮助都将不胜感激。    提交人    /u/Direct_Walk_5866   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqlvv2/baby_web_dev_here/</guid>
-      <pubDate>Mon, 12 Aug 2024 18:49:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>加载页面的编码动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqluxk/coding_animation_for_loading_page/</link>
-      <description><![CDATA[我正在制作一个新的作品集，灵感来自于在屏幕上显示一行代码的加载屏幕，类似于此处的操作。但是，它可能比这短。 我希望能够显示启动屏幕或填充代码行的终端，然后显示实际的主页。你们有人用过吗？有任何启发性的建议吗，如果有，请分享。    提交人    /u/kero_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqluxk/coding_animation_for_loading_page/</guid>
-      <pubDate>Mon, 12 Aug 2024 18:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个天气应用！链接见评论</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqlpq9/i_made_a_weather_app_link_in_comments/</link>
-      <description><![CDATA[        提交人    /u/De_Hbih   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqlpq9/i_made_a_weather_app_link_in_comments/</guid>
-      <pubDate>Mon, 12 Aug 2024 18:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是被骗了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eqlmh0/am_i_being_scammed/</link>
-      <description><![CDATA[我即将完成一门 Web 开发课程，正在寻找实习机会。一家公司联系我，说要安排面试，我需要下载一款名为 Wire Secure Messenger 的应用程序，然后从那里联系招聘经理。他们发给我的电子邮件的其他部分似乎都是合法的，但具体部分敲响了一些警钟。这是一些科技公司会做的事情吗？这个问题可能看起来很愚蠢，但我真的想进入这个行业，所以我不一定相信自己能准确判断这一点哈哈。它声称来自的公司是合法的，电子邮件以“.online”结尾。如果需要，我可以提供电子邮件/附加 PDF 的屏幕截图。    提交人    /u/TheComputerHermit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eqlmh0/am_i_being_scammed/</guid>
-      <pubDate>Mon, 12 Aug 2024 18:39:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
