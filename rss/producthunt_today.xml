@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Aug 2024 18:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:20:24 GMT</lastBuildDate>
     <item>
       <title>Grok-2 和 Grok-2 迷你</title>
       <link>https://www.producthunt.com/posts/grok-2-grok-2-mini</link>
@@ -23,7 +23,7 @@ xAi 的前沿法学硕士 (LLM) 具有最先进的推理能力
       <title>法力流</title>
       <link>https://www.producthunt.com/posts/manaflow</link>
       <description><![CDATA[
-在表格中自动执行重复的办公室工作
+通过表格自动执行重复的办公室工作
 
 
 讨论
@@ -76,20 +76,6 @@ xAi 的前沿法学硕士 (LLM) 具有最先进的推理能力
       <pubDate>Tue, 13 Aug 2024 22:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>近在咫尺</title>
-      <link>https://www.producthunt.com/posts/closeby-2</link>
-      <description><![CDATA[
-适合您品牌的店铺定位器地图
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/closeby-2</guid>
-      <pubDate>Tue, 13 Aug 2024 22:38:28 GMT</pubDate>
-    </item>
-    <item>
       <title>达普布</title>
       <link>https://www.producthunt.com/posts/dapphub</link>
       <description><![CDATA[
@@ -107,7 +93,7 @@ xAi 的前沿法学硕士 (LLM) 具有最先进的推理能力
       <title>超级大脑</title>
       <link>https://www.producthunt.com/posts/gigabrain-2</link>
       <description><![CDATA[
-自动化 Reddit 研究
+自动 Reddit 研究
 
 
 讨论
@@ -191,7 +177,7 @@ Slack 调查
       <title>卡通谈话</title>
       <link>https://www.producthunt.com/posts/toontalk</link>
       <description><![CDATA[
-专为儿童设计的 AI 朋友
+专为儿童设计的人工智能朋友
 
 
 讨论
@@ -214,6 +200,20 @@ Slack 调查
 ]]></description>
       <guid>https://www.producthunt.com/posts/gpt-computer-assistant</guid>
       <pubDate>Mon, 24 Jun 2024 11:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿罗</title>
+      <link>https://www.producthunt.com/posts/arro-2</link>
+      <description><![CDATA[
+使用人工智能研究打造更好的产品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/arro-2</guid>
+      <pubDate>Tue, 06 Feb 2024 15:44:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
