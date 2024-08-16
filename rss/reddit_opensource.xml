@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 16 Aug 2024 09:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 12:40:02 GMT</lastBuildDate>
+    <item>
+      <title>开源App要组织抗议？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1etl5tv/open_source_app_to_organize_for_protest/</link>
+      <description><![CDATA[ 应该能够创建匿名账户 应该能够在没有互联网的情况下与附近的应用程序连接，在互联网被政府关闭的情况下创建本地网络。   如果有人已经创建了这样的应用程序或可以，请这样做。你将成为整个国家的救世主。这将有助于反对政府的暴政，特别是在发展中国家和欠发达国家。     提交人    /u/ninetails02132   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1etl5tv/open_source_app_to_organize_for_protest/</guid>
+      <pubDate>Fri, 16 Aug 2024 10:20:57 GMT</pubDate>
+    </item>
     <item>
       <title>开源 I/O 基准测试项目/程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1etkb5y/open_source_io_benchmarking_projectprogram/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一切都在标题中。    提交人    /u/WonderWoman2025   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1essgrk/best_open_source_time_tracker_that_can_sync/</guid>
       <pubDate>Thu, 15 Aug 2024 11:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合初学者的 0 依赖类 VIM 终端文本编辑器，用 C++ 编写</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eskoq3/beginnerfriendly_0dependencies_vimlike_terminal/</link>
-      <description><![CDATA[我最近一直在做一个项目，它本质上是一个用 C++ 编写的 VIM 克隆，仅使用 C++ STL 和特定于操作系统的 API。它是跨平台的（仅在 Windows 和 Ubuntu 22.04 上测试过），我的目标是让它尽可能地适合初学者，因此任何想要了解跨平台开发的初级/中级程序员都可以做出贡献。 当我说 0 个依赖项时，我的意思实际上是 0 个依赖项。这个文本编辑器甚至不依赖于 curses/libcurses/ncurses/pdcurses。  欢迎在此处查看此项目：https://github.com/nathandavis18/NotVim-Editor 如果您是初学者并希望做出贡献，请随时加入此项目！    提交人    /u/Disaster3209   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eskoq3/beginnerfriendly_0dependencies_vimlike_terminal/</guid>
-      <pubDate>Thu, 15 Aug 2024 03:02:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
