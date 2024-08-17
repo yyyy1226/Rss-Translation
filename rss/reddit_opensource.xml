@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 17 Aug 2024 03:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 06:28:25 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 增强的替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1eu9z76/alternative_to_adobe_enhance/</link>
+      <description><![CDATA[有没有 Adob​​e 增强的替代品来消除背景噪音呢？    提交人    /u/Fearless_Major_7456   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1eu9z76/alternative_to_adobe_enhance/</guid>
+      <pubDate>Sat, 17 Aug 2024 05:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>另一个很棒的笔记 F/OSS 项目：SilverBullet</title>
       <link>https://www.reddit.com/r/opensource/comments/1eu6wur/yet_another_awesome_note_taking_foss_project/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>有没有功能齐全的 REST API 测试软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1etrktz/are_there_any_full_featured_rest_api_testing/</link>
-      <description><![CDATA[我尝试过 Nightingale、Bruno、HTTPie 和 Insomnium。 我目前正在使用 Insomnium，但总是遇到小错误或烦恼。它是 Insomnia 更高版本的一个分支，在他们将所有内容锁定在登录之后之前。但它似乎已经停止开发，我不确定它是否会再次被使用。它现在非常有用，但我有兴趣探索替代方案。 我关心的一件关键事情是存储环境变量并在请求中使用它们的能力。更重要的是能够在另一个请求中使用一个请求的部分响应，这样我就可以将它们链接在一起。考虑从 JSON 响应中获取令牌并动态地将其用于不同请求的标头中 一些替代方案确实能够定义环境变量，但我认为它们都不能动态使用来自其他请求的内容。这对我来说是一个杀手级功能，因为我一直在使用它！如果我错了，其他替代方案可以做到这一点而我没有注意到，或者如果您知道我可以尝试的任何其他工具，请告诉我。 重新访问 Nightingale 后，我发现有一种方法可以设置变量链。整个过程似乎比我在 Insomnium 中习惯的更不雅观，但它确实在某种程度上支持它，这很好。    提交人    /u/Dismal-Monitor1930   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试过 Nightingale、Bruno、HTTPie 和 Insomnium。 我目前正在使用 Insomnium，但不断遇到小错误或烦恼。它是 Insomnia 更高版本的一个分支，在他们将所有内容锁定在登录之后之前。但它似乎已经停止开发，我不确定它是否会再次被拾起。它现在非常有用，但我有兴趣探索替代方案。 我关心的一件关键事情是存储环境变量并在请求中使用它们的能力。更重要的是能够在另一个请求中使用一个请求的部分响应，这样我就可以将它们链接在一起。考虑从 JSON 响应中获取令牌并动态地将其用于不同请求的标头中 一些替代方案确实能够定义环境变量，但我认为它们都不能动态使用来自其他请求的内容。这对我来说是一个杀手级功能，因为我一直在使用它！如果我错了，其他替代方案可以做到这一点而我没有注意到，或者如果您知道我可以尝试的任何其他工具，请告诉我。 重新访问 Nightingale 后，我发现有一种方法可以设置变量链。整个过程似乎比我在 Insomnium 中习惯的更不雅观，但它确实在某种程度上支持它，这很好。    提交人    /u/Dismal-Monitor1930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1etrktz/are_there_any_full_featured_rest_api_testing/</guid>
       <pubDate>Fri, 16 Aug 2024 15:20:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 正如标题所示，我正在寻找一些反检测浏览器的 FOSS 替代品。我从事网页抓取，不想花时间通过 selenium 制作工具并以此方式使用代理，相反，我想进行网页抓取并通常使用反检测浏览器。我的主要功能我无法在任何地方找到，就是能够出于某种原因连接到某些 FOSS 替代品上的代理。 我不相信这些其他浏览器会保护我的隐私，例如 dolphin-anty go login 等，所以我来这里寻求一些替代方案的建议    提交人    /u/Shankss_-   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1etk7gm/foss_antidetect_browser_alternatives_to/</guid>
       <pubDate>Fri, 16 Aug 2024 09:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源计算机科学学位（Github）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1etjpdc/the_open_source_computer_science_degree_github/</link>
-      <description><![CDATA[        提交人    /u/llathreddzg   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1etjpdc/the_open_source_computer_science_degree_github/</guid>
-      <pubDate>Fri, 16 Aug 2024 08:41:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
