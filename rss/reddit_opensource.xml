@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 17 Aug 2024 12:36:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 15:20:28 GMT</lastBuildDate>
+    <item>
+      <title>有没有类似 glasswire 的 PC 程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1euj7v6/ls_there_a_glasswire_like_program_for_pc/</link>
+      <description><![CDATA[我知道 glasswire 有 PC 版本，但有些功能需要付费。我想要免费的东西。    提交人    /u/Kimyakimya   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1euj7v6/ls_there_a_glasswire_like_program_for_pc/</guid>
+      <pubDate>Sat, 17 Aug 2024 14:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>RPCSX 开发停止</title>
       <link>https://www.reddit.com/r/opensource/comments/1eud6u5/rpcsx_development_halted/</link>
-      <description><![CDATA[最后一次提交是在 2024 年 3 月。RPCSX 由 RPCS3 的开发人员创建    提交人    /u/condratiy_makarson   [link] [comments]]]></description>
+      <description><![CDATA[最后一次提交是在 2024 年 3 月。RPCSX 由 RPCS3 的开发人员创建    提交者    /u/condratiy_makarson   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eud6u5/rpcsx_development_halted/</guid>
       <pubDate>Sat, 17 Aug 2024 08:50:50 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>有没有功能齐全的 REST API 测试软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1etrktz/are_there_any_full_featured_rest_api_testing/</link>
-      <description><![CDATA[我尝试过 Nightingale、Bruno、HTTPie 和 Insomnium。 我目前正在使用 Insomnium，但总是遇到小错误或烦恼。它是 Insomnia 更高版本的一个分支，在他们将所有内容锁定在登录之后之前。但它似乎已经停止开发，我不确定它是否会再次被使用。它现在非常有用，但我有兴趣探索替代方案。 我关心的一件关键事情是存储环境变量并在请求中使用它们的能力。更重要的是能够在另一个请求中使用一个请求的部分响应，这样我就可以将它们链接在一起。考虑从 JSON 响应中获取令牌并动态地将其用于不同请求的标头中 一些替代方案确实能够定义环境变量，但我认为它们都不能动态使用来自其他请求的内容。这对我来说是一个杀手级功能，因为我一直在使用它！如果我错了，其他替代方案可以做到这一点而我没有注意到，或者如果您知道我可以尝试的任何其他工具，请告诉我。 重新访问 Nightingale 后，我发现有一种方法可以设置变量链。整个过程似乎比我在 Insomnium 中习惯的更不雅观，但它确实在某种程度上支持它，这很好。    提交人    /u/Dismal-Monitor1930   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试过 Nightingale、Bruno、HTTPie 和 Insomnium。 我目前正在使用 Insomnium，但不断遇到小错误或烦恼。它是 Insomnia 更高版本的一个分支，在他们将所有内容锁定在登录之后之前。但它似乎已经停止开发，我不确定它是否会再次被拾起。它现在非常有用，但我有兴趣探索替代方案。 我关心的一件关键事情是存储环境变量并在请求中使用它们的能力。更重要的是能够在另一个请求中使用一个请求的部分响应，这样我就可以将它们链接在一起。考虑从 JSON 响应中获取令牌并动态地将其用于不同请求的标头中 一些替代方案确实能够定义环境变量，但我认为它们都不能动态使用来自其他请求的内容。这对我来说是一个杀手级功能，因为我一直在使用它！如果我错了，其他替代方案可以做到这一点而我没有注意到，或者如果您知道我可以尝试的任何其他工具，请告诉我。 重新访问 Nightingale 后，我发现有一种方法可以设置变量链。整个过程似乎比我在 Insomnium 中习惯的更不雅观，但它确实在某种程度上支持它，这很好。    提交人    /u/Dismal-Monitor1930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1etrktz/are_there_any_full_featured_rest_api_testing/</guid>
       <pubDate>Fri, 16 Aug 2024 15:20:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/dontgo2sleep  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1etozxl/best_opensource_applications_for_developers_my/</guid>
       <pubDate>Fri, 16 Aug 2024 13:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源App要组织抗议？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1etl5tv/open_source_app_to_organize_for_protest/</link>
-      <description><![CDATA[ 应该能够创建匿名账户 应该能够在没有互联网的情况下与附近的应用程序连接，在互联网被政府关闭的情况下创建本地网络。   如果有人已经创建了这样的应用程序或可以，请这样做。你将成为整个国家的救世主。这将有助于反对政府的暴政，特别是在发展中国家和欠发达国家。     提交人    /u/ninetails02132   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1etl5tv/open_source_app_to_organize_for_protest/</guid>
-      <pubDate>Fri, 16 Aug 2024 10:20:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
