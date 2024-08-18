@@ -4,112 +4,122 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 18 Aug 2024 18:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 21:14:02 GMT</lastBuildDate>
     <item>
-      <title>Streamyfin 是一款使用 Expo 构建的现代化、用户友好的 Jellyfin 客户端，旨在提供所有 [...]</title>
-      <link>https://t.me/hn_summary/104557</link>
-      <description><![CDATA[显示 HN：Streamyfin – 一款时尚现代的 Jellyfin 客户端
-Streamyfin 是一款使用 Expo 构建的现代、用户友好的 Jellyfin 客户端，旨在为现有的 Jellyfin 客户端提供替代方案。它具有一个原生视频播放器，支持字幕、播放速度控制、iPhone 画中画模式、背景音频流以及媒体下载和 Chromecast 支持等实验性功能。独特之处包括能够在主屏幕上以行或轮播形式显示 Jellyfin 集合以及用于自动集合管理的插件。Streamyfin 处于测试阶段，可通过 iOS 的 TestFlight 和 Android 的 APK 获得，并欢迎社区贡献。它根据 Mozilla Public License 2.0 获得许可。]]></description>
-      <guid>https://t.me/hn_summary/104557</guid>
-      <pubDate>Sun, 18 Aug 2024 18:26:14 GMT</pubDate>
+      <title>[媒体] 在与 NPR 的 David Folkenflik 的对话中，战略研究教授 Phillips O’[...]</title>
+      <link>https://t.me/hn_summary/104587</link>
+      <description><![CDATA[乌克兰入侵俄罗斯可能改变了战争的进程
+在与 NPR 的 David Folkenflik 的对话中，圣安德鲁斯大学战略研究教授 Phillips O’Brien 讨论了乌克兰对俄罗斯库尔斯克地区的重大军事入侵——这是自二战以来规模最大的一次入侵。这一大胆举动迫使俄罗斯保卫边境，暴露了其军事弱点和后备力量不足。虽然一些西方分析人士认为这是一次冒险的过度行动，但乌克兰消息人士认为，这在战略上破坏了俄罗斯在顿巴斯的地位。这次行动对总统弗拉基米尔·普京的实力和控制形象构成了重大挑战，尤其是因为它涉及征兵，这与他的保证相矛盾。预计这种情况将持续下去，迫使俄罗斯部署大规模军队收复该领土。]]></description>
+      <guid>https://t.me/hn_summary/104587</guid>
+      <pubDate>Sun, 18 Aug 2024 21:14:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 理解预言机：Web3 的支柱</title>
-      <link>https://t.me/hn_summary/104556</link>
-      <description><![CDATA[了解预言机：Web3 的支柱
-了解预言机：Web3 的支柱
-
-Web3 正在通过使互联网去中心化和以用户为中心来彻底改变互联网，而预言机在其中发挥着至关重要的作用。预言机充当区块链网络和现实世界数据之间的中介，使去中心化应用程序 (dApp) 能够与外部系统交互。本指南介绍了预言机的基础知识、它们在 Web3 生态系统中的重要性、各种类型及其运行机制。
-
-预言机获取、验证并将外部数据传递到区块链，从而促进复杂的智能合约功能。它们有不同的形式，包括入站、出站、基于共识、软件和硬件预言机。 Chainlink 和 Band Protocol 等热门服务提供可靠的数据馈送。
-
-虽然预言机增强了 dApp 功能和自动化，但它们也带来了数据完整性、安全风险和潜在中心化等挑战。随着 Web3 的发展，预言机将变得更加重要，推动创新并扩展 dApp 功能。
-
-争议亮点：对单一预言机提供商的依赖可能会带来中心化风险，这与区块链的去中心化精神相矛盾。
-
-独特/巧妙的亮点：本指南采用结构化方法来解释预言机，从基本定义到实际集成步骤，使其对新手和专家都易于理解且信息丰富。]]></description>
-      <guid>https://t.me/hn_summary/104556</guid>
-      <pubDate>Sun, 18 Aug 2024 18:25:11 GMT</pubDate>
+      <title>[媒体] 美国宇航局官员承认，他们尚无法量化与之相关的风险 [...]</title>
+      <link>https://t.me/hn_summary/104586</link>
+      <description><![CDATA[NASA 承认无法量化 Starliner 推进问题的风险
+NASA 官员承认，他们尚无法量化困扰波音 Starliner 航天器的推进问题所带来的风险。由于存在可疑的推进器和氦气泄漏，该航天器占据了国际空间站 (ISS) 的关键对接点。NASA 必须尽快决定是让宇航员 Butch Wilmore 和 Suni Williams 返回地球，还是将他们的停留时间延长到明年。由于需要为 SpaceX 的下一次 Dragon 机组任务腾出对接端口，这一决定变得复杂。工程师们仍在调查 Starliner 的 28 个反作用控制推进器中有 5 个在接近国际空间站时发生故障的原因。尽管一些推进器已经恢复，但 NASA 的许多人仍然对它们在返回过程中的可靠性持怀疑态度。这一情况凸显了波音公司的星际客机计划与自 2020 年投入运营的 SpaceX Dragon 相比面临的重大延误和技术挑战。]]></description>
+      <guid>https://t.me/hn_summary/104586</guid>
+      <pubDate>Sun, 18 Aug 2024 21:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：michalmalewicz.medium.com</title>
-      <link>https://t.me/hn_summary/104555</link>
-      <description><![CDATA[Figma 并非永恒
-标题：Figma 并非永恒
-网站：michalmalewicz.medium.com
-
-再见 inVision！数百万人使用的另一个设计工具刚刚宣布关闭。如果您在 2010 年至 2017 年期间从事设计工作，那么您可能使用过 inVision。在我们公司，它是 99% 项目的首选，包括财富 500 强公司的项目。现在，他们要关门了。 Figma 的市场主导地位是一个主要因素，但 inVision 缺乏更新和创新也是一个原因。他们推出了 inVision Studio，这是一款我非常喜欢的原型/动画工具，但多年来一直没有更新。令人惊讶的是，即使在发布时，它在原型动画方面的表现也优于 Figma 的智能动画。]]></description>
-      <guid>https://t.me/hn_summary/104555</guid>
-      <pubDate>Sun, 18 Aug 2024 18:24:06 GMT</pubDate>
+      <title>[媒体] 家长们对高科技摇篮公司 Happiest Baby 的行为表示愤怒 [...]</title>
+      <link>https://t.me/hn_summary/104585</link>
+      <description><![CDATA[智能摇篮公司收取摇动婴儿床费用，家长对 Snoo 表示愤怒
+高科技摇篮公司 Happiest Baby 对其售价 1,700 美元的 Snoo 摇篮的基本功能收取每月 20 美元的订阅费，家长对此表示愤怒。之前包含的自动摇动和睡眠跟踪等功能现在需要付费，五个月的使用费总计 100 美元。这一变化引发了强烈反对，一些家长呼吁对评论进行轰炸并提出投诉。该公司的创始人哈维·卡普 (Harvey Karp) 为此举辩护，称这是收入的必要措施，并指出该公司不是政府资助的。卡普希望为 Snoo 申请保险或政府承保，该设备旨在通过绑住婴儿以防止危险的翻滚来防止婴儿猝死综合症 (SIDS)。]]></description>
+      <guid>https://t.me/hn_summary/104585</guid>
+      <pubDate>Sun, 18 Aug 2024 21:05:52 GMT</pubDate>
     </item>
     <item>
-      <title>大胆编辑：由高级用户编写的编辑器</title>
-      <link>https://t.me/hn_summary/104554</link>
-      <description><![CDATA[Bold Edit：由高级用户编写的编辑器
-Bold Edit：由高级用户编写的编辑器
+      <title>[媒体] 日期：2024-08-18</title>
+      <link>https://t.me/hn_summary/104584</link>
+      <description><![CDATA[丢失的 Salamanders：Matrix 媒体可以解密为多个有效明文
+标题：丢失的 Salamanders：Matrix 媒体可以解密为多个有效明文
+网站：lotte.chir.rs
+日期：2024-08-18
 
-网站：bold-edit.com
-
-Bold Edit 是一款由高级用户为高级用户打造的尖端编辑器。它拥有广泛的语言支持，通过语言服务器协议 (LSP) 适应 Python、Go 和 C++ 等语言。该编辑器性能卓越，在使用不到一个 CPU 核心的情况下，以 144Hz 保持完美的 4K 分辨率。其独特的调试功能允许特定于函数的监视变量，从而减少监视列表中的混乱。 Bold Edit 的输入延迟低于 5 毫秒，并且 UI 和 GDB 响应迅速，因此响应速度极快。它可以处理大型文件，在几秒钟内打开 GB 大小的日志或 JSON 文件。此外，编辑器和调试器的脚本功能（可绑定到按键和 UI 按钮）将于 2025 年推出。]]></description>
-      <guid>https://t.me/hn_summary/104554</guid>
-      <pubDate>Sun, 18 Aug 2024 18:22:02 GMT</pubDate>
+Matrix 的聊天媒体端到端加密存在一个严重缺陷：它不执行经过身份验证的加密。这意味着可以使用不同的密钥将加密媒体解密为多个有效明文，从而带来重大安全风险。出现此问题的原因是 Matrix 将加密媒体存储为纯密文，与加密参数分离，从而允许潜在的操纵。所使用的加密算法（AES256-CTR 和 SHA256）不足以确保消息完整性。规范的模糊要求和缺乏关于密钥/IV 使用的明确指南加剧了这一问题。本文还强调了一个巧妙的概念证明，其中将不同的文件格式（PNG、JPEG、ZIP）组合成一个加密文件，展示了该漏洞。如果不妥善解决，此漏洞可能会导致严重的安全漏洞。（基于 56% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/104584</guid>
+      <pubDate>Sun, 18 Aug 2024 20:48:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] MariaDB 基金会发布了 Vector 搜索的公开预览版 [...]</title>
-      <link>https://t.me/hn_summary/104553</link>
-      <description><![CDATA[MariaDB 推出开源向量预览版
-MariaDB Foundation 在发布 MariaDB 11.6 时公布了向量搜索的公开预览版，通过提供开源向量支持来引领 MySQL 生态系统。此举与 Oracle 的做法形成鲜明对比，后者将新功能保留在其企业版中。MariaDB 的向量搜索基于 HNSW 算法，包括专用索引和函数，如 VECToText 和 VECFromText，尽管它目前缺少单独的向量数据类型。完整版本预计很快发布，MariaDB 11.7 及更高版本将完全支持向量功能。
+      <title>【媒体】网站：digitalcreative.cn</title>
+      <link>https://t.me/hn_summary/104583</link>
+      <description><![CDATA[弥合文化用户体验鸿沟：为什么中国的方法很重要 (2023)
+标题：弥合文化用户体验鸿沟：为什么中国的方法很重要 (2023)
+网站：digitalcreative.cn
 
-MariaDB Foundation 首席执行官 Kaj Arnö 强调其向量搜索的开源性质，与 MySQL 的 Heatwave 不同。 Percona 的 Peter Zaitsev 强调了 MariaDB 在满足现代开发人员需求方面优于 Oracle MySQL。此次合作包括 MariaDB 的最新支持者 AWS 的贡献。
+在研究影响中国用户体验的关键因素时，很明显出现了两种截然不同的理念，反映了各自地区的文化差异。在西方，尤其是北美和欧洲，极简主义的“少即是多”方法占主导地位，强调简单、干净的美学和必要的设计元素。这与实用性和秩序的文化价值观相一致。相反，中国则信奉“多即是多”的理念，偏爱生动的视觉效果、丰富的内容和丰富的功能，与将视觉丰富性等同于参与度的用户产生共鸣。
 
-随着生成式 AI 工作负载的增加，其他关系数据库（如 Google 和 AWS 管理的 RDBMS）也在探索向量搜索。然而，一些开发人员（如 Reddit 用户 nhatnv）质疑除非处理大规模数据，否则多个向量 DB 选项的必要性。MariaDB 的 alpha 版本包括一个带有 CPU 优化的容器映像，可在 Quay.io 上找到。]]></description>
-      <guid>https://t.me/hn_summary/104553</guid>
-      <pubDate>Sun, 18 Aug 2024 18:17:58 GMT</pubDate>
+功能也不同；中国的用户体验集成了更多的社交分享选项、多媒体输入和上下文内容，旨在提供身临其境的体验。用户体验设计的新兴趋势，如全渠道体验和人工智能进步，是东方和西方公司的优先事项。消费者现在期望在多个数字接触点之间实现无缝互动，而人工智能驱动的聊天机器人正在不断发展，以提供更自然、更人性化的交流。尽管审美观念不同，但普遍的目标仍然是提供无缝、直观、无摩擦的用户体验，在支离破碎的世界中培养持久的关系。]]></description>
+      <guid>https://t.me/hn_summary/104583</guid>
+      <pubDate>Sun, 18 Aug 2024 20:43:38 GMT</pubDate>
     </item>
     <item>
-      <title>网站: www.getaially.com</title>
-      <link>https://t.me/hn_summary/104552</link>
-      <description><![CDATA[展示 HN：我们正在培养 AI 员工 - 寻求早期采用者和反馈
-标题：展示 HN：我们正在培养 AI 员工 - 寻求早期采用者和反馈
-网站：www.getaially.com
+      <title>[媒体] 网站：yuezhao.substack.com</title>
+      <link>https://t.me/hn_summary/104582</link>
+      <description><![CDATA[您的沟通方式表明您的资历
+标题：您的沟通方式表明您的资历
+网站：yuezhao.substack.com
 
-在 GetAIAilly，我们率先开发能够从头到尾自主解决复杂任务的 AI 员工。每位 AI 员工都拥有独特的个性，确保互动自然而引人入胜。我们的 AI 员工在项目上无缝协作，反映了人类团队的动态。此外，这些人工智能员工不断发展、学习和适应，以满足贵公司的特定需求。这种创新方法旨在彻底改变工作场所的效率和生产力。
+客户：我知道我有能力在高级或领导级别进行产品管理。但是，每当我与招聘经理交谈时，谈话结束后我的级别就会降低。他们不认为我是领导者。我做错了什么？
 
-争议：人工智能员工取代人类角色的概念可能会引发关于工作岗位流失和人工智能部署中的道德考虑的争论。]]></description>
-      <guid>https://t.me/hn_summary/104552</guid>
-      <pubDate>Sun, 18 Aug 2024 18:16:52 GMT</pubDate>
+请考虑以下两个对常见面试问题的回答：“介绍一下你自己。”
+
+示例 1：
+我是整个产品开发生命周期内产品路线图方面的专家。我在发展产品团队、明确产品愿景、将机会转化为战略以及制定有凝聚力的计划方面拥有丰富的经验。我有记录和评估决策以及召开日常站立会议和敏捷发布会议的经验。
+
+示例 2：
+我是一名产品负责人，在消费者和 SaaS 公司拥有 10 多年的经验。我推出了一款新产品，并将其用户从 100 人发展到 10,000 人，管理着一个由 PM 和 80 多名跨职能合作伙伴组成的团队。我在纽约为公司开设了一个新办事处，将其发展到 40 名 PM、设计师和工程师，然后在迪拜开设了另一个新办事处。我与我们的 CPO 合作起草了我们的团队价值观，迭代了招聘渠道，并标准化了产品和设计评审等运营论坛。
+
+仅根据回复，您会雇用谁？您会考虑让谁担任经理职位？您甚至相信这是同一个人吗？
+
+您沟通的高度表明了您的资历和经验。我一次又一次地看到候选人在简历或初次电话面试中关注错误的经验部分，而他们却没有在简历或初次电话面试中突出显示这些经验，尽管他们拥有与该职位相关的丰富经验。领导者关注他们所做工作的成果和影响，而不是工作方式。招聘经理想知道您为公司带来了什么业务影响，而不是您知道如何进行冲刺规划和演示。因此，请将您宝贵的时间或空间集中在描述结果上。听起来像以下内容：
+
+我在 Thumbtack 工作了 5 年，领导市场的供应方。在我任职期间，我们将供应量从 5,000 家小型企业扩展到 100,000 家，增长了 20 倍——这是美国最大的中小型企业服务平台。我在 Meta 任职期间，我们发布了一系列更新，介绍小型企业如何设置广告预算和定位。这使广告系列的启动转化率提高了 15%，从而导致全球收入增加了 2,000 万美元。我在 Instagram 任职期间，我们重新设计了“个人资料”选项卡，以更好地适应 IGTV、购物和 Reels 等新功能。这导致 IGTV 的参与度提高了 50%，购物的参与度提高了 100%，这是当时公司的关键举措。我领导了一个项目，重构核心代码库并进行性能改进，将开发速度提高了 30%，应用程序大小减少了 50%，从而使应用程序安装量增加了 10%。（请注意，所有数字仅供参考）
+
+特别是对于产品负责人而言，您的角色与业务结果直接相关。如果您推出了产品功能，但无法描述它对业务的影响，那么我们为什么要花费宝贵的工程和设计资源呢？有些项目可能比其他项目更容易衡量影响。一般来说，如果您想在职业生涯中取得进步，重要的是要安排人员参与与业务指标紧密相关的项目（请参阅上一篇文章“有疑问时，追求数字”）。虽然进行重构或重新设计，或处理烦人的错误可能“有用”，但如果它没有很大的影响，它就不会让您的职业生涯更进一步。正如您在上面看到的，即使是重新设计和性能改进也可以并且应该与业务案例挂钩。]]></description>
+      <guid>https://t.me/hn_summary/104582</guid>
+      <pubDate>Sun, 18 Aug 2024 20:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Moonlight 是您实现无缝流媒体的首选平台。</title>
-      <link>https://t.me/hn_summary/104551</link>
-      <description><![CDATA[Moonlight
-Moonlight 是您实现无缝流媒体的首选平台。如果您是新手，我们的设置指南提供了基本提示，让您轻松入门。对于任何疑问，我们全面的常见问题解答页面可能已经提供了您需要的答案。经验丰富的用户可以加入我们的 Discord 服务器并帮助他人，为社区做出贡献。立即进入 Moonlight 的世界并增强您的流媒体体验！]]></description>
-      <guid>https://t.me/hn_summary/104551</guid>
-      <pubDate>Sun, 18 Aug 2024 18:00:43 GMT</pubDate>
+      <title>[媒体] 网站：bigonx.com</title>
+      <link>https://t.me/hn_summary/104581</link>
+      <description><![CDATA[Show HN：我创建了“Big on X”来发现任何关注者级别的 X 新星
+标题：Show HN：我创建了“Big on X”来发现任何关注者级别的 X 新星
+网站：bigonx.com
+
+摘要：
+我创建了“Big on X”来帮助用户识别平台 X 上的新星，无论他们当前的关注者数量如何。该工具使用独特的算法来跟踪增长率和参与度指标，从而深入了解谁可能是下一个大影响者。这种方法让用户可以尽早发现新兴人才，而不仅仅是关注那些已经拥有大量粉丝的人。数据驱动的方法确保即使粉丝数量不多但参与度很高的人也可以被视为潜在的明星。
+
+亮点：
+- 独特/巧妙：该工具能够发现任何粉丝级别的后起之秀，这是一个突出的功能，可以更轻松地尽早发现新兴的影响者。
+- 令人惊讶：重视参与度指标而不是纯粹的粉丝数量，为影响者潜力提供了新的视角。（基于 32% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/104581</guid>
+      <pubDate>Sun, 18 Aug 2024 20:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“为什么卫生纸越来越小”一文中，The Hustle 深入探讨了卫生纸尺寸越来越小的原因。</title>
-      <link>https://t.me/hn_summary/104550</link>
-      <description><![CDATA[为什么卫生纸越来越小——The Hustle
-在《为什么卫生纸越来越小》一文中，The Hustle 深入探讨了缩水膨胀现象，尤其关注卫生纸。作者幽默地讲述了他们的偏执和寻找真相的过程，最终发现了 1992 年的 Charmin Ultra 卷纸有 170 张，而今天只有 56 张。消费者权益倡导者、缩水膨胀领域的顶尖专家 Edgar Dworsky 透露，卫生纸自 1970 年代以来一直在缩水，Charmin 卷纸曾有 650 张。文章强调了该行业通过缩小产品尺寸来避免价格上涨的策略，以及木浆价格波动是其中一个因素。有争议的是，尽管有竹浆等替代品，但 Charmin 等大品牌却因未采用更可持续的做法而受到批评。这篇文章强调了缩水通胀缺乏法律后果，尽管最近的立法努力旨在解决这一问题。（基于 94% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/104550</guid>
-      <pubDate>Sun, 18 Aug 2024 17:49:37 GMT</pubDate>
+      <title>[媒体] 三十五年前，《勇者斗恶龙》彻底改变了角色扮演游戏类型，并为 [...] 奠定了基础。</title>
+      <link>https://t.me/hn_summary/104580</link>
+      <description><![CDATA[35 年前，一款 RPG 改变了电子游戏的历史进程
+35 年前，勇者斗恶龙 彻底改变了 RPG 类型，并为无数深受喜爱的游戏奠定了基础，例如最终幻想和博德之门。这款游戏于 1986 年在日本发行，后来在北美以勇者斗恶龙 的名称发行，它将 PC RPG 的复杂性带到了家用游戏机上，使该类型更容易上手。与简化 RPG 元素的前辈不同，勇者斗恶龙 将统计数据、关卡和宏大的冒险整合到一个精简、平易近人的包装中。其影响力在《时空之轮》和《精灵宝可梦》等游戏中可见一斑。值得注意的是，该系列不断创新，《勇者斗恶龙 XI》体现了原作的精神。高清 2D 重制版也正在开发中。]]></description>
+      <guid>https://t.me/hn_summary/104580</guid>
+      <pubDate>Sun, 18 Aug 2024 20:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 迷幻蘑菇巧克力正风靡一时。</title>
-      <link>https://t.me/hn_summary/104549</link>
-      <description><![CDATA[神奇蘑菇巧克力风靡一时。但它们含有蘑菇吗？
-神奇蘑菇巧克力越来越受欢迎，但其成分往往令人生疑。这些产品在南加州的大麻用品店出售，标签含糊不清，有些声称是“素食太空舱”或“新奇收藏品”。美国食品药品监督管理局在人们因食用 Prophet Premium Blends 产品而生病或死亡后发出警告，这些产品含有标签上未列出的合成致幻剂。《泰晤士报》的一项调查发现，40% 的测试样品不含裸盖菇素，有些含有合成化合物甚至浴盐。这种缺乏质量控制的情况给消费者带来了风险，导致意外的强烈旅行和其他负面体验。尽管存在争议，蘑菇和其他迷幻药的受欢迎程度仍在不断上升，这得益于名人的代言和表明其可能对心理健康有益的研究。（基于 88% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/104549</guid>
-      <pubDate>Sun, 18 Aug 2024 17:33:28 GMT</pubDate>
+      <title>[媒体] 宜家宣布其升级的库存盘点无人机将很快在 [...] 投入使用。</title>
+      <link>https://t.me/hn_summary/104579</link>
+      <description><![CDATA[宜家库存盘点仓库无人机将在美国与工人一起飞行
+宜家宣布，其升级版库存盘点无人机将很快在美国投入使用，首先从其位于马里兰州佩里维尔的配送中心开始。这些配备全新人工智能系统的 Verity 品牌自主无人机现在将全天候与人类工人一起飞行，协助盘点库存并识别放错位置的物品。此前，无人机仅在非运营时间运行。宜家首席数字官 Parag Parekh 强调，无人机使用定制的室内定位系统和障碍物检测来安全导航。宜家的无人机队伍由遍布 9 个国家 73 个仓库的 250 多架无人机组成，旨在减轻工人的人体工程学压力，使他们能够专注于更具吸引力的任务。]]></description>
+      <guid>https://t.me/hn_summary/104579</guid>
+      <pubDate>Sun, 18 Aug 2024 20:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 看起来您提供的内容不完整。</title>
-      <link>https://t.me/hn_summary/104548</link>
-      <description><![CDATA[南极洲麦克默多站仪表着陆系统如何工作
-您提供的内容似乎不完整。您能否提供来自www.flightradar24.com的标题为“南极洲麦克默多站仪表着陆系统如何工作”的文章的全文或更多详细信息？这将有助于我为您生成准确的摘要。]]></description>
-      <guid>https://t.me/hn_summary/104548</guid>
-      <pubDate>Sun, 18 Aug 2024 17:29:23 GMT</pubDate>
+      <title>[媒体] 在 biorxiv.org 上发表的一项有趣的研究中，研究人员发现，在 REM 睡眠期间 [...]</title>
+      <link>https://t.me/hn_summary/104578</link>
+      <description><![CDATA[大脑在快速眼动睡眠期间模拟动作及其后果
+在一项发表于biorxiv.org的引人入胜的研究中，研究人员发现，在快速眼动睡眠期间，大脑会模拟动作及其后果。生动的梦境主要发生在这个睡眠阶段，涉及大脑内部的方向转变表征，就好像动物醒着并且正在移动一样。这项研究的重点是小鼠的上丘，这是一个运动指挥中心，它在快速眼动睡眠期间发出“左转”等命令。这些命令虽然没有执行，但会改变内部的方向感，就好像这些动作已经发生了一样。这表明，即使脱离外部环境，大脑也会使用其内部模型来模拟现实世界的互动。作者报告称，不存在竞争利益。]]></description>
+      <guid>https://t.me/hn_summary/104578</guid>
+      <pubDate>Sun, 18 Aug 2024 19:58:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
