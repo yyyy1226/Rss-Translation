@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 18 Aug 2024 03:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 06:27:27 GMT</lastBuildDate>
+    <item>
+      <title>在两个存储设备之间同步程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1euzqiq/sync_a_program_between_two_storage_devices/</link>
+      <description><![CDATA[寻找一种可以在两个设备之间同步程序实例上所做的任何更改的软件。 更具体地说，我使用一个音乐创作程序，它可以从 USB 记忆棒或本地 PC 上运行，但每次使用其中一个时，手动在我的 USB 或 PC 上制作最新副本有点麻烦（例如，如果我使用 USB 副本制作音乐，然后回到家后将其重新插入 PC，必须手动移动使用 USB 制作的文件）。    提交人    /u/Snoo_50786   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1euzqiq/sync_a_program_between_two_storage_devices/</guid>
+      <pubDate>Sun, 18 Aug 2024 03:27:38 GMT</pubDate>
+    </item>
     <item>
       <title>鼠标点击器</title>
       <link>https://www.reddit.com/r/software/comments/1euxo4t/mouse_clicker/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[XDM 或 Xtreme Download Manager 是开源的，也是我发现的最好的。GitHub 上的最后一次预发布是在 2023 年 7 月，而 Windows 商店上的最后一次更新是在 2023 年 1 月。网站也已上线。我不知道它是否已经停产，我在 GitHub 页面上发起了讨论，只有一个人回复说它已经停产了。 那么，如果 XDM 停产了，最接近的替代方案是什么？我试过 FDM（免费下载管理器），但有很多错误。请推荐一些下载管理器，开源的更好。    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1euffuw/is_xdm_xtreme_download_manager_discontinued_whats/</guid>
       <pubDate>Sat, 17 Aug 2024 11:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于语法校正的 Grammarly 的命令行替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1eu7fs5/commandline_alternative_to_grammarly_for/</link>
-      <description><![CDATA[我正在处理尼科洛·马基雅维利的《孙子兵法》的大型文本文件，我正在寻找一个命令行工具来帮助我应用语法更正，使其阅读效果更好。有谁知道 Grammarly 的替代品，可以直接从命令行运行并将更改应用到文件中？ 任何建议都将不胜感激！    提交人    /u/Puzzleheaded-Option8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eu7fs5/commandline_alternative_to_grammarly_for/</guid>
-      <pubDate>Sat, 17 Aug 2024 02:49:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
