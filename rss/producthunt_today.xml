@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 01:40:22 GMT</lastBuildDate>
     <item>
       <title>卢莫斯马克西玛</title>
       <link>https://www.producthunt.com/posts/lumosmaxima</link>
@@ -34,18 +34,60 @@
       <pubDate>Tue, 20 Aug 2024 07:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>威格罗</title>
-      <link>https://www.producthunt.com/posts/wiglo</link>
+      <title>每日机器人</title>
+      <link>https://www.producthunt.com/posts/daily-bots</link>
       <description><![CDATA[
-通过游戏化应用跟踪狗狗的幸福感
+使用任何 LLM 和开源软件构建语音对语音 AI 代理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/wiglo</guid>
-      <pubDate>Mon, 19 Aug 2024 11:36:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/daily-bots</guid>
+      <pubDate>Tue, 20 Aug 2024 05:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>塞利克斯人工智能</title>
+      <link>https://www.producthunt.com/posts/selix-ai</link>
+      <description><![CDATA[
+提出您的外向想法 - 观察您的 AI 执行它
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/selix-ai</guid>
+      <pubDate>Tue, 20 Aug 2024 05:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>海姆达尔2.0</title>
+      <link>https://www.producthunt.com/posts/heimdall-2-0</link>
+      <description><![CDATA[
+AI 可跟踪您在亚马逊、Instacart、Booking 等平台上的支出。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/heimdall-2-0</guid>
+      <pubDate>Tue, 20 Aug 2024 02:40:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ko-fi React 库</title>
+      <link>https://www.producthunt.com/posts/ko-fi-react-library</link>
+      <description><![CDATA[
+在您的 React 项目中获取提示和捐赠
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ko-fi-react-library</guid>
+      <pubDate>Mon, 19 Aug 2024 18:43:20 GMT</pubDate>
     </item>
     <item>
       <title>适用于 Microsoft Teams 的 Jotform</title>
@@ -62,20 +104,6 @@
       <pubDate>Mon, 19 Aug 2024 07:23:36 GMT</pubDate>
     </item>
     <item>
-      <title>内心深处 (YC S24)</title>
-      <link>https://www.producthunt.com/posts/undermind-yc-s24</link>
-      <description><![CDATA[
-用于发现科学论文的 AI 代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/undermind-yc-s24</guid>
-      <pubDate>Sun, 18 Aug 2024 16:10:06 GMT</pubDate>
-    </item>
-    <item>
       <title>WebAssistants.ai</title>
       <link>https://www.producthunt.com/posts/webassistants-ai</link>
       <description><![CDATA[
@@ -90,18 +118,18 @@
       <pubDate>Sat, 17 Aug 2024 07:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>Glasp：精选内容，精心制作帖子</title>
-      <link>https://www.producthunt.com/posts/glasp-curated-content-to-crafted-posts</link>
+      <title>浣熊包装</title>
+      <link>https://www.producthunt.com/posts/rakun-packing</link>
       <description><![CDATA[
-从亮点和笔记中精选内容以创建博客文章
+需要打包帮助吗？
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/glasp-curated-content-to-crafted-posts</guid>
-      <pubDate>Wed, 14 Aug 2024 17:08:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/rakun-packing</guid>
+      <pubDate>Fri, 16 Aug 2024 13:48:58 GMT</pubDate>
     </item>
     <item>
       <title>Aicado 的 GPT</title>
@@ -146,20 +174,6 @@
       <pubDate>Fri, 26 Jul 2024 23:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>密钥已就绪</title>
-      <link>https://www.producthunt.com/posts/passkey-ready</link>
-      <description><![CDATA[
-了解您的用户是否已准备好使用密钥
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/passkey-ready</guid>
-      <pubDate>Wed, 24 Jul 2024 18:11:42 GMT</pubDate>
-    </item>
-    <item>
       <title>WOLO:我们只活一次</title>
       <link>https://www.producthunt.com/posts/wolo-we-only-live-once</link>
       <description><![CDATA[
@@ -174,32 +188,18 @@
       <pubDate>Tue, 16 Jul 2024 11:20:14 GMT</pubDate>
     </item>
     <item>
-      <title>EmailFlow.AI</title>
-      <link>https://www.producthunt.com/posts/emailflow-ai</link>
+      <title>麦利克</title>
+      <link>https://www.producthunt.com/posts/mailik</link>
       <description><![CDATA[
-使用自主 AI 代理进行 B2B 潜在客户生成
+直接在您的电子邮件收件箱中通过网页进行表单回复
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/emailflow-ai</guid>
-      <pubDate>Tue, 16 Jul 2024 09:24:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tweetlio</title>
-      <link>https://www.producthunt.com/posts/tweetlio</link>
-      <description><![CDATA[
-安排、起草推文并获得灵感
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tweetlio</guid>
-      <pubDate>Thu, 06 Jun 2024 18:22:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/mailik</guid>
+      <pubDate>Sat, 06 Jul 2024 06:26:27 GMT</pubDate>
     </item>
     <item>
       <title>主要的</title>

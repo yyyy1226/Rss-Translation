@@ -4,112 +4,92 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 01:27:08 GMT</lastBuildDate>
     <item>
-      <title>网站：third-bit.com</title>
-      <link>https://t.me/hn_summary/104884</link>
-      <description><![CDATA[成为优秀研究合作伙伴的简单规则
-标题：成为优秀研究合作伙伴的简单规则
-网站：third-bit.com
-
-半个世纪前，C.P. Snow 强调了科学与人文之间的鸿沟，这种鸿沟至今仍然存在于研究人员和从业人员之间，常常阻碍合作。概述的十条规则旨在缓解这种挫败感。对于学术研究人员：要明白公司在较短的时间内运作，公开您的发现，优先考虑可操作的见解而不是理论见解，简化您的沟通，并承认学术出版的缺陷。对于行业从业者：认识到学术界的季节性发展速度，尊重以出版为导向的成功指标，做好背景阅读，避免夸大研究成果。双方都应该为他们的数据状态道歉。最终，合作可以更有效地解决重大问题。
-
-有争议：对现代学术出版的批评似乎将利润置于研究可及性之上。
-令人惊讶/聪明：建议观看吉利姆的巴西，以了解学术出版的复杂性质。]]></description>
-      <guid>https://t.me/hn_summary/104884</guid>
-      <pubDate>Tue, 20 Aug 2024 21:11:43 GMT</pubDate>
+      <title>[媒体] “oh-my-posh” GitHub 项目是一个高度可定制且低延迟的跨平台 [...]</title>
+      <link>https://t.me/hn_summary/104901</link>
+      <description><![CDATA[oh-my-posh：最可定制且延迟最低的跨平台/shell 提示符
+“oh-my-posh”GitHub 项目是一个高度可定制且延迟最低的跨平台/shell 提示符主题引擎。它最初源自 PowerShell 的 oh-my-posh2，经过四年的发展，现已成为满足现代需求的多功能工具。它旨在提供一种快速且易于配置的提示实用程序，可在不同的 shell 和平台上运行。主要功能包括辅助、正确和瞬时提示符。该项目以其广泛的可配置性和效率而脱颖而出。作者感谢各种个人和项目的贡献，强调了其开发的社区驱动性质。]]></description>
+      <guid>https://t.me/hn_summary/104901</guid>
+      <pubDate>Wed, 21 Aug 2024 01:27:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 嘘！</title>
-      <link>https://t.me/hn_summary/104883</link>
-      <description><![CDATA[Swift 可选类型的黑暗秘密
-嘘！过来，我要告诉你一个秘密。你认为 Swift 可选类型是某种语言魔法，带有问号、感叹号、链接和合并功能？再想想。打开 Xcode 并输入 Optional.none()。现在，按 CMD + 单击 Optional。按 Enter。你即将揭开真相：可选类型只是 Swift 标准库中的一个 2 大小写枚举。?、! 和 ?? 只是语法糖。Swift 编译器将它们转换为相同的最终产品：类型安全的可空性。例如，您可以使用显式类型的可选值来简化入门导航逻辑，而不是复杂的导航逻辑。这种启示可能感觉像是从黑客帝国中逃脱出来，但这只是 Swift 设计的现实。]]></description>
-      <guid>https://t.me/hn_summary/104883</guid>
-      <pubDate>Tue, 20 Aug 2024 21:11:38 GMT</pubDate>
+      <title>[媒体] 技术面试经常会让应聘者不清楚自己的表现，这 [...]</title>
+      <link>https://t.me/hn_summary/104900</link>
+      <description><![CDATA[为什么提供反馈（无论是好是坏）会帮助您招聘
+技术面试通常会让候选人对自己的表现一无所知，这不仅令人沮丧，而且对企业也有害。我们的研究表明，43% 的候选人低估了自己的表现，25% 的候选人认为自己失败了，而实际上他们通过了。这种误解会影响他们加入贵公司的兴趣。提供即时反馈可以显著提高您的招聘成功率，并维持与未来潜在雇员的关系。尽管担心法律后果，但没有一家美国公司因提供建设性反馈而被起诉。通过关注具体、详细的评估而不是结果，您可以有效地提供反馈，而不会让候选人产生防御心理。这种方法得到了我们的数据支持，表明诚实的反馈可以增强候选人的体验，对双方都有利。]]></description>
+      <guid>https://t.me/hn_summary/104900</guid>
+      <pubDate>Wed, 21 Aug 2024 01:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作者对“SSO 税”进行了细致的辩护，“SSO 税”是 [...]</title>
-      <link>https://t.me/hn_summary/104882</link>
-      <description><![CDATA[对 SSO 税的辩护虽然不严谨，但确实不严谨
-
-在本文中，作者对“SSO 税”进行了细致入微的辩护，该术语用于描述将单点登录 (SSO) 功能保留给更高价格的软件层的做法。作者承认，这种定价策略引起了广泛的不满，但他认为，价格并不是产品固有的；它们来自市场谈判和买家偏好。本文深入探讨了价格歧视的复杂性，说明了供应商如何细分市场以实现收入最大化。作者认为，像 SSO 这样的功能可用于区分具有不同需求和支付意愿的客户群，最终使供应商和某些客户群受益。本文挑战了“公平”定价的概念，并强调了此类定价策略背后的实用性和经济原理。 
-
-争议：价格歧视的做法，尤其是 SSO 税，经常被消费者视为不公平，他们觉得自己在基本功能上被多收了钱。
-
-独特见解：作者巧妙地运用经济理论和实例来论证价格歧视有时可以为供应商和消费者带来更好的结果，尽管它被认为不公平。（基于 84% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/104882</guid>
-      <pubDate>Tue, 20 Aug 2024 21:10:34 GMT</pubDate>
+      <title>[媒体] Amazon S3 现在支持条件写入，允许用户检查是否存在 [...]</title>
+      <link>https://t.me/hn_summary/104899</link>
+      <description><![CDATA[Amazon S3 现在支持条件写入
+Amazon S3 现在支持条件写入，允许用户在创建对象之前检查对象是否存在。此功能有助于防止应用程序在数据上传期间覆盖现有对象。可以使用通用存储桶和目录存储桶中的 PutObject 或 CompleteMultipartUpload API 请求执行条件写入。这简化了分布式应用程序的流程，多个客户端同时更新数据，无需客户端共识机制或额外的 API 请求。通过添加 HTTP if-none-match 条件标头，用户可以将验证卸载到 S3，从而提高大规模分析和分布式机器学习的性能和效率。此功能在所有 AWS 区域（包括 AWS GovCloud（美国）和 AWS 中国区域）均可免费使用。更多详细信息，请参阅 S3 用户指南。]]></description>
+      <guid>https://t.me/hn_summary/104899</guid>
+      <pubDate>Wed, 21 Aug 2024 01:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名联邦法官下令将拥有 70 年历史的 SS United States 从其 [...]</title>
-      <link>https://t.me/hn_summary/104881</link>
-      <description><![CDATA[法官下令将 1,000 英尺长的腐烂远洋客轮从费城码头移走
-一名联邦法官下令将 70 年历史的 SS United States 号在 9 月 12 日之前从费城码头移走，并威胁称如果不遵守，将把所有权转让给码头的所有者。SS United States Conservancy 是这艘 1,000 英尺长、47,000 吨重船只的看管人，他们卷入了一场关于停泊费的法律纠纷，每天支付 850 美元，而不是要求的 1,700 美元。尽管有雄心勃勃的计划来重新利用这艘船，但都没有实现。该保护协会面临将船只沉没作为人工鱼礁可能花费 1000 万美元的成本，因此更倾向于重建，而重建费用可能超过 4 亿美元。他们已呼吁拜登总统和夏皮罗州长进行干预，强调这艘船的象征意义。白宫尚未作出回应。]]></description>
-      <guid>https://t.me/hn_summary/104881</guid>
-      <pubDate>Tue, 20 Aug 2024 20:30:16 GMT</pubDate>
+      <title>[媒体] Zen Browser 是一款基于 Firefox 引擎构建的开源浏览器，其设计速度极快，[...]</title>
+      <link>https://t.me/hn_summary/104898</link>
+      <description><![CDATA[Zen，一款基于 Firefox 引擎的 Arc 类开源浏览器
+Zen Browser 是一款基于 Firefox 引擎的开源浏览器，其设计以速度为核心重点。Zen 始终领先于竞争对手，承诺每次发布新版本都会带来更快的浏览体验。对于那些寻求快速高效的网页导航工具的人来说，Zen Browser 可在 www.zen-browser.app 下载。]]></description>
+      <guid>https://t.me/hn_summary/104898</guid>
+      <pubDate>Wed, 21 Aug 2024 01:24:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最近修补的 Windows 零日漏洞 CVE-2024-38193 被 No [...]</title>
-      <link>https://t.me/hn_summary/104880</link>
-      <description><![CDATA[朝鲜利用 Windows 0-day 安装高级 rootkit
-研究人员报告称，最近修补的 Windows 零日漏洞 CVE-2024-38193 被朝鲜黑客利用来安装高级 rootkit 恶意软件。此漏洞是 Microsoft 每月更新的一部分，攻击者可以利用 AFD.sys 中的“释放后使用”漏洞获得系统权限。朝鲜政府支持的 Lazarus Group 利用此漏洞安装了 FudModule，这是一种能够逃避内部和外部安全防御的复杂 rootkit。该恶意软件针对加密货币和航空航天等敏感领域。值得注意的是，Lazarus 最初使用了“自带易受攻击的驱动程序”技术，但后来利用了 appid.sys 中的一个错误。尽管袭击十分严重，但有关袭击的关键细节仍未披露。]]></description>
-      <guid>https://t.me/hn_summary/104880</guid>
-      <pubDate>Tue, 20 Aug 2024 20:29:13 GMT</pubDate>
+      <title>介绍 Feedbomb，一款专为网络设计的简单但功能强大的 RSS 阅读器。</title>
+      <link>https://t.me/hn_summary/104897</link>
+      <description><![CDATA[Show HN：一款简单而强大的网络 RSS 阅读器
+介绍 Feedbomb，一款专为网络设计的简单而强大的 RSS 阅读器。添加提要就像输入提要的 URL 一样简单。对于 subreddit 爱好者，您可以使用以下格式轻松添加您喜欢的 subreddit：/r/subreddit。这种用户友好的方法让您轻松了解您喜欢的内容。这里没有争议，只是一个聪明而高效的工具，可以简化您的信息消费。]]></description>
+      <guid>https://t.me/hn_summary/104897</guid>
+      <pubDate>Wed, 21 Aug 2024 01:20:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 科罗拉多大学博尔德分校的两位学者发现了重要的碎片 [...]</title>
-      <link>https://t.me/hn_summary/104879</link>
-      <description><![CDATA[在埃及纸莎草中发现欧里庇得斯两部失传悲剧的残片
-科罗拉多大学博尔德分校的两位学者发现了欧里庇得斯两部失传悲剧的重要残片，这是 50 多年来最重大的发现之一。这次旅程始于埃及考古学家 Basem Gehad 将一份纸莎草纸寄给 Yvona Trnka-Amrhein，后者使用高分辨率照片对其进行了分析。这份在埃及费城发现的纸莎草纸包含欧里庇得斯作品《波吕伊多斯》和《伊诺》的残片。值得注意的是，80% 的材料都是全新的。 波吕伊多斯重述了一个克里特神话，结局相对圆满，而伊诺则揭示了一个情节转折，伊诺是受害者，而不是反派。尽管预料到会受到其他专家的审查，但学者们还是自信地展示了他们的发现。]]></description>
-      <guid>https://t.me/hn_summary/104879</guid>
-      <pubDate>Tue, 20 Aug 2024 20:28:09 GMT</pubDate>
+      <title>[媒体] 谷歌和微软已经证实，伊朗黑客，特别是 APT42 组织 [...]</title>
+      <link>https://t.me/hn_summary/104896</link>
+      <description><![CDATA[谷歌、微软证实伊朗黑客入侵特朗普、拜登-哈里斯竞选团队
+谷歌和微软已证实，伊朗黑客，特别是 APT42 组织，一直在使用鱼叉式网络钓鱼攻击特朗普和拜登-哈里斯竞选团队。这些攻击可以追溯到 2020 年选举周期，涉及使用聊天平台和虚拟会议链接传递恶意负载等复杂方法。APT42 被认为与伊斯兰革命卫队有联系，还因使用 ChatGPT 制造旨在影响美国选举的虚假信息而被 OpenAI 禁止。尽管有这些发现，但伊朗否认有任何参与。自 6 月以来，FBI 一直在调查这些网络攻击。
+
+争议：尽管有来自多个来源的大量证据，伊朗仍否认参与其中。
+
+独特/巧妙：APT42 使用 ChatGPT 生成分裂内容，这在社交媒体上基本上无效。]]></description>
+      <guid>https://t.me/hn_summary/104896</guid>
+      <pubDate>Wed, 21 Aug 2024 01:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：YC 创始人平均会打电话联系/与多少用户交谈？</title>
-      <link>https://t.me/hn_summary/104878</link>
-      <description><![CDATA[问 HN：YC 创始人平均会主动联系/与多少用户交谈？
-标题：问 HN：YC 创始人平均会主动联系/与多少用户交谈？
-网站：news.ycombinator.com
-
-我正在实施“与用户交谈，编写代码”的方法。我正在与尽可能多的用户互动，确保互动质量保持较高水平，同时每天编写代码并改进产品。我很好奇 YC 创始人在这方面表现最好的统计数据，希望改进我自己的方法。提前感谢，Santy。
-
-争议：无突出之处。
-
-独特/巧妙：在持续改进产品的同时保持高质量用户互动的平衡方法是一种值得注意的策略。]]></description>
-      <guid>https://t.me/hn_summary/104878</guid>
-      <pubDate>Tue, 20 Aug 2024 20:27:05 GMT</pubDate>
+      <title>一名美国法官驳回了联邦贸易委员会 (FTC) 提出的禁止竞业禁止协议的提议 [...]</title>
+      <link>https://t.me/hn_summary/104895</link>
+      <description><![CDATA[美国法官驳回联邦贸易委员会 (FTC) 禁止竞业禁止协议的提议
+一名美国法官驳回了联邦贸易委员会 (FTC) 提出的禁止竞业禁止协议的提议，这一决定对全国的就业合同具有重大影响。FTC 曾辩称竞业禁止条款会扼杀竞争并限制工人的流动性，但法官裁定该机构超越了其权限。这项裁决引起了争议，因为它将企业的利益与员工的利益对立起来，企业认为竞业禁止协议保护商业机密和投资，而员工则声称这些条款不公平地限制了他们的职业机会。这一决定对 FTC 增加劳动力市场竞争的更广泛议程造成了挫折。]]></description>
+      <guid>https://t.me/hn_summary/104895</guid>
+      <pubDate>Wed, 21 Aug 2024 01:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：麻省理工学院取消 Elsevier 期刊全额合同后的经历</title>
-      <link>https://t.me/hn_summary/104877</link>
-      <description><![CDATA[取消 Elsevier 期刊全额合同后，MIT 的经历
-标题：取消 Elsevier 期刊全额合同后，MIT 的经历
-
-网站：sparcopen.org
-
-MIT 领导层将取消与 Elsevier 的最大期刊合同的经历描述为极其积极的体验。2020 年，MIT 取消了大约 675 种 Elsevier 期刊的订阅，每年节省约 200 万美元。尽管最初存在担忧，但过渡过程非常顺利，研究人员的反对很少。图书馆提供了替代访问方法，在几分钟内满足了大多数文章请求。此举凸显了 Elsevier 订阅的高成本与提供访问的实际成本之间的差异。麻省理工学院的原则性框架强调开放获取和公平，指导了这一决定。虽然一些生命科学教师面临挑战，但总体支持仍然强劲。麻省理工学院继续探索合作，将节省的资金重新投资于开放出版计划。
-
-争议：取消 Elsevier 合同的决定，特别是其对生命科学教师的影响，是一个争论点。
-
-独特/聪明：麻省理工学院能够通过替代访问方法在一分钟内提供 92% 的文章请求，效率显著。]]></description>
-      <guid>https://t.me/hn_summary/104877</guid>
-      <pubDate>Tue, 20 Aug 2024 20:17:58 GMT</pubDate>
+      <title>[媒体] Plasmo 是一个旨在简化现代 Chrome 扩展程序开发的框架。</title>
+      <link>https://t.me/hn_summary/104894</link>
+      <description><![CDATA[Plasmo – 用于构建现代 Chrome 扩展程序的框架
+Plasmo 是一个旨在简化现代 Chrome 扩展程序开发的框架。它旨在通过提供一套强大的工具和功能来解决开发人员面临的常见挑战，从而简化流程。Plasmo 与其他框架的不同之处在于，它提供了更直观、更方便开发人员使用的体验，并内置了对现代 Web 技术和最佳实践的支持。这使得创建高质量、高性能的扩展程序变得更容易，而且工作量更少。该项目对于希望高效构建复杂 Chrome 扩展程序、利用 Web 开发最新进展的开发人员特别有用。]]></description>
+      <guid>https://t.me/hn_summary/104894</guid>
+      <pubDate>Wed, 21 Aug 2024 01:03:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 亚利桑那州立大学写作项目主任凯尔·詹森 (Kyle Jensen) 正在努力解决 [...]</title>
-      <link>https://t.me/hn_summary/104876</link>
-      <description><![CDATA[AI 作弊现象愈演愈烈
-亚利桑那州立大学写作项目主任 Kyle Jensen 正在努力应对 ChatGPT 等 AI 工具的兴起，这些工具可以在几秒钟内生成大学水平的论文。这让他监督下的 150 名教师的工作变得更加复杂，他们已经背负着繁重的课程负担。尽管采取了各种措施来遏制 AI 作弊行为，例如制定荣誉准则和检测工具，但问题仍然存在。Jensen 和一些同事正在探索将 AI 融入教育的方法，以增强学习，而不仅仅是打击作弊。然而，AI 在学生作业和教师评分中的广泛使用引发了人们对教育诚信的担忧。这种情况导致了 AI 生成内容和检测方法之间令人沮丧的军备竞赛，而且看不到明确的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/104876</guid>
-      <pubDate>Tue, 20 Aug 2024 20:15:53 GMT</pubDate>
+      <title>[媒体] 未经审查的人工智能：Llama 405B 的微调 – 不再有 PC 废话</title>
+      <link>https://t.me/hn_summary/104893</link>
+      <description><![CDATA[未经审查的人工智能：Llama 405B 的微调——不再是 PC 胡言乱语
+未经审查的人工智能：Llama 405B 的微调——不再是 PC 胡言乱语
+
+在 AI Uncensored，我们自豪地推出了 Llama 405B，这是一种经过微调的人工智能模型，可以摆脱政治正确的限制。无论您是在寻找故事、笑话还是细致入微的对话，该模型旨在提供更真实、未经过滤的互动。我们相信不受限制的对话的力量和多元化观点的重要性。虽然有些人可能会觉得我们的方法有争议，但我们坚持提供自由的人工智能体验的承诺。加入我们 www.aiuncensored.info，体验真正的、未经审查的 AI 互动。]]></description>
+      <guid>https://t.me/hn_summary/104893</guid>
+      <pubDate>Wed, 21 Aug 2024 00:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Markdown 的简单性和灵活性使它成为我写作中不可或缺的一部分，体现 [...]</title>
-      <link>https://t.me/hn_summary/104875</link>
-      <description><![CDATA[Markdown 的永恒真理
-Markdown 的简单性和灵活性使它成为我写作中不可或缺的一部分，体现了“一次编写，随处运行”的理想。然而，它固有的歧义，例如斜体和粗体星号的处理，可能会令人沮丧，尤其是对于追求精确度的程序员来说。John Gruber 的原始 Markdown 脚本自 2004 年以来一直没有更新，它有意避免严格的 HTML 控制，偏向作家而不是程序员。这导致了 CommonMark 的诞生，这是一个更严格、更适合程序员的版本。尽管 CommonMark 在 GitHub 和 Reddit 等平台上取得了成功，但它缺乏 Markdown 的精神。正如 Dave Winer 恰如其分地指出的那样，Markdown 属于每一个使用它的人，拥抱它混乱的人性。]]></description>
-      <guid>https://t.me/hn_summary/104875</guid>
-      <pubDate>Tue, 20 Aug 2024 19:53:42 GMT</pubDate>
+      <title>[媒体] AstroForge 是一家由 Jose Acain 和 Matt Gialich 共同创立的小行星采矿初创公司，[...]</title>
+      <link>https://t.me/hn_summary/104892</link>
+      <description><![CDATA[一家小行星采矿公司似乎在克服一切困难后取得了进展
+AstroForge 是一家由 Jose Acain 和 Matt Gialich 共同创立的小行星采矿初创公司，尽管他们的项目风险很高，但取得了令人惊讶的进展。该公司最初遭到质疑，最近获得了 4000 万美元的 A 轮融资，总融资额达到 5500 万美元。他们的第一次任务 Brokkr-1 遭遇挫折，但也吸取了宝贵的教训。AstroForge 目前正在准备他们的第二次任务 Odin，该任务旨在飞越富含金属的小行星并收集数据——这是私人月球以外任务的第一次。该公司还宣布了第三次任务 Vestri，定于 2025 年进行，计划使用磁铁与小行星对接。这项雄心勃勃的事业彰显了 AstroForge 在充满挑战的领域中的创新方法和韧性。]]></description>
+      <guid>https://t.me/hn_summary/104892</guid>
+      <pubDate>Wed, 21 Aug 2024 00:22:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
