@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 06:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 09:23:12 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 和 Copilot 等人工智能工具将如何影响软件开发的未来？</title>
+      <link>https://www.reddit.com/r/software/comments/1exiwgp/how_will_ai_tools_like_chatgpt_and_copilot_impact/</link>
+      <description><![CDATA[这个话题非常流行，引发了关于人工智能在编码、自动化和未来开发人员就业市场中的作用的讨论。许多人都在讨论这些工具将如何增强或潜在地取代部分编码过程，这吸引了经验丰富的开发人员和新手开发人员的不同观点。    提交人    /u/Aditya_Santhanam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1exiwgp/how_will_ai_tools_like_chatgpt_and_copilot_impact/</guid>
+      <pubDate>Wed, 21 Aug 2024 06:51:37 GMT</pubDate>
+    </item>
     <item>
       <title>API 开发在现代软件工程中的重要性</title>
       <link>https://www.reddit.com/r/software/comments/1exht4w/the_importance_of_api_development_in_modern/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[如标题所述，我正在寻找一款适用于 Mac 的合法、安全的 PDF 编辑器。我想先声明一下，我不想购买订阅。只需要一款免费的编辑器，或者一次性购买费用，并拥有终身许可和更新的编辑器，就像以前的软件一样。我也不认为我需要深度 PDF 编辑器中提供的所有已知功能，只需要能够在需要时轻松更新/编辑我的简历和文档。 在自己搜索之后，我最初对使用 SimplePDF 感兴趣，因为它似乎具有我需要的功能。但它似乎只是在线的。如果可能的话，我宁愿获得一个独立的应用程序。我还想知道是否有人有使用 SimplePDF 编辑器的经验，以及您是否遇到过我需要注意的任何问题或“危险信号”。提前感谢 Reddit 社区，我感谢你们！    提交人    /u/teedub34   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1excx7u/looking_for_a_legitimatesafe_pdf_editor_for_mac/</guid>
       <pubDate>Wed, 21 Aug 2024 01:24:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个在线工具可以帮助我轻松地为配置器创建 1200 个（网格）图像？</title>
-      <link>https://www.reddit.com/r/software/comments/1exctah/is_there_an_online_tool_with_which_i_can_create/</link>
-      <description><![CDATA[唯一能做到这一点的方法就是通过编程。我已经放弃编码了。我正在使用 Shopify 的自定义产品构建器。 这是允许用户通过配置器创建全新设计的解决方案。 让我解释一下：如果我有一个 60 英寸 x 24 英寸的矩形框作为模板，则每个图像都必须是该形状，并且其未写入的网格将有 160 (3x3) 个单元格（我暂时选择了 3x3，以后它们可能是 1x1）。因此，产品的每个组件都有 160 张图片。 有 8 个产品组件。我没有时间创建 1200 个。有没有在线工具可以为我创建这些图像？    提交人    /u/Top-Calligrapher6875   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1exctah/is_there_an_online_tool_with_which_i_can_create/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:19:09 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一款免费应用（无广告），可以使用摄像头自动计算你的次数</title>
