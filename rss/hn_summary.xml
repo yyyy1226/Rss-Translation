@@ -4,7 +4,76 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 01:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 02:40:59 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] Taichi Lang 是一种开源、命令式、并行编程语言，专为 [...]</title>
+      <link>https://t.me/hn_summary/104908</link>
+      <description><![CDATA[Taichi：使用 Python 进行高效、可移植且性能卓越的 GPU 编程
+Taichi Lang 是一种开源、命令式、并行编程语言，专为高性能数值计算而设计，嵌入 Python。它利用即时 (JIT) 编译将计算密集型任务卸载到 GPU 或 CPU，使其适用于实时物理模拟、AI、视觉效果等应用程序。主要功能包括类似 Python 的语法、与 Python 库（例如 NumPy、PyTorch）的集成以及跨各种 GPU API（CUDA、Vulkan）的可移植性。Taichi Lang 以其灵活的数据容器（SNodes）和高效的并行执行而脱颖而出。通过 pip 可以轻松安装，该项目鼓励社区在 Apache 许可证 2.0 下做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/104908</guid>
+      <pubDate>Wed, 21 Aug 2024 02:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：news.ycombinator.com</title>
+      <link>https://t.me/hn_summary/104907</link>
+      <description><![CDATA[为基于有限状态机的 LLM 代理创建此库
+标题：为基于有限状态机的 LLM 代理创建此库
+网站：news.ycombinator.com
+
+我开发了一个库，它使用有限状态机方法创建 LLM 代理，而不是传统的单一提示和基于函数的方法。此方法涉及定义一组状态和每个状态的单独提示。主要动机是解决我其他项目中的幻觉和错误函数调用等问题。我鼓励所有 LLM 爱好者查看并提供反馈。您可以在此处找到该库：https://github.com/searchX/moorellm。GitHubGitHub - searchX/moorellm：基于有限状态机的方法来创建 Agentic LLM 应用程序！基于有限状态机的方法来创建 Agentic LLM 应用程序！ - searchX/moorellm]]></description>
+      <guid>https://t.me/hn_summary/104907</guid>
+      <pubDate>Wed, 21 Aug 2024 02:35:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 据报道，令人吃惊的是，《星球大战：追随者》已被取消[...]</title>
+      <link>https://t.me/hn_summary/104906</link>
+      <description><![CDATA[《星球大战：侍从》已被取消
+据 The Verge 的 Charles Pulliam-Moore 报道，出乎意料的是，《星球大战：侍从》已被取消。这部剧集因其对星球大战宇宙的独特诠释而受到粉丝们的高度期待，但它将不再继续播出。Pulliam-Moore 是一位经验丰富的记者，曾报道过电影、电视和流行文化，他指出，这一决定让许多粉丝和业内人士感到困惑。鉴于该剧有可能探索《星球大战》系列中的新故事，这一取消尤其具有争议，许多人认为此举将重振该系列。]]></description>
+      <guid>https://t.me/hn_summary/104906</guid>
+      <pubDate>Wed, 21 Aug 2024 02:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我们是 Ares Industries 的创始人 Alex 和 Devan，我们正在开发低成本邮轮 [...]</title>
+      <link>https://t.me/hn_summary/104905</link>
+      <description><![CDATA[启动 YC：Ares Industries – 制造低成本巡航导弹
+大家好，我们是 Ares Industries 的创始人 Alex 和 Devan，我们正在开发美国急需的低成本巡航导弹。我们创新的反舰巡航导弹设计尺寸缩小 10 倍，价格便宜 10 倍，与现有发射平台兼容，能够从数百英里外击落舰船。我们专注于地面和舰载版本，旨在扩展到空射版本和具有更大射程的版本。
+
+紧迫性源于与中国在台湾海峡的潜在冲突，而目前美国的库存和工业能力不足。最近的冲突表明，我们的大型、昂贵的导弹不适合现代战争。我们的小型、经济高效的导弹弥补了这一差距，尤其是面对中国卓越的造船能力时。
+
+我们两人都拥有国防和军火初创企业的丰富经验。我们在短短 11 周内就从公司成立迅速发展到飞行测试原型，并计划在 2025 年中期交付工作系统。我们的目标是加强美国国防工业基础，以防止冲突并拯救生命。
+
+我们正在寻找有才华的航空航天工程师加入我们的使命。如果您认识任何精通空气动力学、推进或 GNC 工程的人，请将他们介绍给我们。]]></description>
+      <guid>https://t.me/hn_summary/104905</guid>
+      <pubDate>Wed, 21 Aug 2024 02:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 美国笔会的报告《好莱坞制造，北京审查》强调了 [...]</title>
+      <link>https://t.me/hn_summary/104904</link>
+      <description><![CDATA[好莱坞制造，北京审查
+美国笔会的报告《好莱坞制造，北京审查》强调了中国审查制度对好莱坞的重大影响。该报告强调了北京如何利用其市场力量来实施审查制度，迫使电影公司遵守其获得丰厚票房回报的要求。美国笔会敦促好莱坞采取原则性策略来保护艺术自由，包括审查请求的透明度，并确保电影的审查版本不会成为全球默认版本。该报告还建议全行业承诺公开披露和教育工作，以抵制自我审查。有争议的是，它批评了参议员特德·克鲁兹的《剧本法案》等立法提案，称其可能侵犯创作自由。报告呼吁好莱坞采取统一行动，抵制北京的审查制度，维护该行业的道德地位和信誉。（根据 96% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/104904</guid>
+      <pubDate>Wed, 21 Aug 2024 02:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Nvidia 悄然推出了升级版 RTX 4070，配备 GDDR6 显存，旨在提升 [...]</title>
+      <link>https://t.me/hn_summary/104903</link>
+      <description><![CDATA[Nvidia 推出全新 RTX 4070
+Nvidia 悄然推出了升级版 RTX 4070，采用 GDDR6 内存，旨在改善供应并满足强劲需求。据 Nvidia 称，尽管从 GDDR6X 切换到 GDDR6，但配备更快 GDDR6 内存的新款 GeForce RTX 4070 在游戏和应用程序中仍保持类似的性能。GPU 的所有其他规格保持不变。此更新版本将于 9 月开始在全球上市。从 GDDR6X 到 GDDR6 的微妙转变可能会引起一些人的关注，因为它表明可能会牺牲带宽来获得更好的可用性。]]></description>
+      <guid>https://t.me/hn_summary/104903</guid>
+      <pubDate>Wed, 21 Aug 2024 02:06:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.lgbtqnation.com</title>
+      <link>https://t.me/hn_summary/104902</link>
+      <description><![CDATA[因州禁书法，高中关闭图书馆
+标题：因州禁书法，高中关闭图书馆
+网站：www.lgbtqnation.com
+
+
+一所高中关闭了图书馆，以回应一项新的州法律，该法律要求删除某些被认为不适当的书籍，这一举动令人惊讶且引起争议。这一激烈的行动凸显了教育自由与立法控制之间日益加剧的紧张关系。与此同时，直言不讳的 LGBTQ+ 倡导者 Analise Ortiz 在 29 岁时从新闻工作者转型成为州议员，成为新闻头条人物。她的迅速崛起和为边缘化社区而战的承诺凸显了当今政治格局中正在发生的动态变化。]]></description>
+      <guid>https://t.me/hn_summary/104902</guid>
+      <pubDate>Wed, 21 Aug 2024 01:57:23 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] “oh-my-posh” GitHub 项目是一个高度可定制且低延迟的跨平台 [...]</title>
       <link>https://t.me/hn_summary/104901</link>
@@ -28,68 +97,6 @@
 Amazon S3 现在支持条件写入，允许用户在创建对象之前检查对象是否存在。此功能有助于防止应用程序在数据上传期间覆盖现有对象。可以使用通用存储桶和目录存储桶中的 PutObject 或 CompleteMultipartUpload API 请求执行条件写入。这简化了分布式应用程序的流程，多个客户端同时更新数据，无需客户端共识机制或额外的 API 请求。通过添加 HTTP if-none-match 条件标头，用户可以将验证卸载到 S3，从而提高大规模分析和分布式机器学习的性能和效率。此功能在所有 AWS 区域（包括 AWS GovCloud（美国）和 AWS 中国区域）均可免费使用。更多详细信息，请参阅 S3 用户指南。]]></description>
       <guid>https://t.me/hn_summary/104899</guid>
       <pubDate>Wed, 21 Aug 2024 01:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Zen Browser 是一款基于 Firefox 引擎构建的开源浏览器，其设计速度极快，[...]</title>
-      <link>https://t.me/hn_summary/104898</link>
-      <description><![CDATA[Zen，一款基于 Firefox 引擎的 Arc 类开源浏览器
-Zen Browser 是一款基于 Firefox 引擎的开源浏览器，其设计以速度为核心重点。Zen 始终领先于竞争对手，承诺每次发布新版本都会带来更快的浏览体验。对于那些寻求快速高效的网页导航工具的人来说，Zen Browser 可在 www.zen-browser.app 下载。]]></description>
-      <guid>https://t.me/hn_summary/104898</guid>
-      <pubDate>Wed, 21 Aug 2024 01:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Feedbomb，一款专为网络设计的简单但功能强大的 RSS 阅读器。</title>
-      <link>https://t.me/hn_summary/104897</link>
-      <description><![CDATA[Show HN：一款简单而强大的网络 RSS 阅读器
-介绍 Feedbomb，一款专为网络设计的简单而强大的 RSS 阅读器。添加提要就像输入提要的 URL 一样简单。对于 subreddit 爱好者，您可以使用以下格式轻松添加您喜欢的 subreddit：/r/subreddit。这种用户友好的方法让您轻松了解您喜欢的内容。这里没有争议，只是一个聪明而高效的工具，可以简化您的信息消费。]]></description>
-      <guid>https://t.me/hn_summary/104897</guid>
-      <pubDate>Wed, 21 Aug 2024 01:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 谷歌和微软已经证实，伊朗黑客，特别是 APT42 组织 [...]</title>
-      <link>https://t.me/hn_summary/104896</link>
-      <description><![CDATA[谷歌、微软证实伊朗黑客入侵特朗普、拜登-哈里斯竞选团队
-谷歌和微软已证实，伊朗黑客，特别是 APT42 组织，一直在使用鱼叉式网络钓鱼攻击特朗普和拜登-哈里斯竞选团队。这些攻击可以追溯到 2020 年选举周期，涉及使用聊天平台和虚拟会议链接传递恶意负载等复杂方法。APT42 被认为与伊斯兰革命卫队有联系，还因使用 ChatGPT 制造旨在影响美国选举的虚假信息而被 OpenAI 禁止。尽管有这些发现，但伊朗否认有任何参与。自 6 月以来，FBI 一直在调查这些网络攻击。
-
-争议：尽管有来自多个来源的大量证据，伊朗仍否认参与其中。
-
-独特/巧妙：APT42 使用 ChatGPT 生成分裂内容，这在社交媒体上基本上无效。]]></description>
-      <guid>https://t.me/hn_summary/104896</guid>
-      <pubDate>Wed, 21 Aug 2024 01:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>一名美国法官驳回了联邦贸易委员会 (FTC) 提出的禁止竞业禁止协议的提议 [...]</title>
-      <link>https://t.me/hn_summary/104895</link>
-      <description><![CDATA[美国法官驳回联邦贸易委员会 (FTC) 禁止竞业禁止协议的提议
-一名美国法官驳回了联邦贸易委员会 (FTC) 提出的禁止竞业禁止协议的提议，这一决定对全国的就业合同具有重大影响。FTC 曾辩称竞业禁止条款会扼杀竞争并限制工人的流动性，但法官裁定该机构超越了其权限。这项裁决引起了争议，因为它将企业的利益与员工的利益对立起来，企业认为竞业禁止协议保护商业机密和投资，而员工则声称这些条款不公平地限制了他们的职业机会。这一决定对 FTC 增加劳动力市场竞争的更广泛议程造成了挫折。]]></description>
-      <guid>https://t.me/hn_summary/104895</guid>
-      <pubDate>Wed, 21 Aug 2024 01:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Plasmo 是一个旨在简化现代 Chrome 扩展程序开发的框架。</title>
-      <link>https://t.me/hn_summary/104894</link>
-      <description><![CDATA[Plasmo – 用于构建现代 Chrome 扩展程序的框架
-Plasmo 是一个旨在简化现代 Chrome 扩展程序开发的框架。它旨在通过提供一套强大的工具和功能来解决开发人员面临的常见挑战，从而简化流程。Plasmo 与其他框架的不同之处在于，它提供了更直观、更方便开发人员使用的体验，并内置了对现代 Web 技术和最佳实践的支持。这使得创建高质量、高性能的扩展程序变得更容易，而且工作量更少。该项目对于希望高效构建复杂 Chrome 扩展程序、利用 Web 开发最新进展的开发人员特别有用。]]></description>
-      <guid>https://t.me/hn_summary/104894</guid>
-      <pubDate>Wed, 21 Aug 2024 01:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 未经审查的人工智能：Llama 405B 的微调 – 不再有 PC 废话</title>
-      <link>https://t.me/hn_summary/104893</link>
-      <description><![CDATA[未经审查的人工智能：Llama 405B 的微调——不再是 PC 胡言乱语
-未经审查的人工智能：Llama 405B 的微调——不再是 PC 胡言乱语
-
-在 AI Uncensored，我们自豪地推出了 Llama 405B，这是一种经过微调的人工智能模型，可以摆脱政治正确的限制。无论您是在寻找故事、笑话还是细致入微的对话，该模型旨在提供更真实、未经过滤的互动。我们相信不受限制的对话的力量和多元化观点的重要性。虽然有些人可能会觉得我们的方法有争议，但我们坚持提供自由的人工智能体验的承诺。加入我们 www.aiuncensored.info，体验真正的、未经审查的 AI 互动。]]></description>
-      <guid>https://t.me/hn_summary/104893</guid>
-      <pubDate>Wed, 21 Aug 2024 00:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] AstroForge 是一家由 Jose Acain 和 Matt Gialich 共同创立的小行星采矿初创公司，[...]</title>
-      <link>https://t.me/hn_summary/104892</link>
-      <description><![CDATA[一家小行星采矿公司似乎在克服一切困难后取得了进展
-AstroForge 是一家由 Jose Acain 和 Matt Gialich 共同创立的小行星采矿初创公司，尽管他们的项目风险很高，但取得了令人惊讶的进展。该公司最初遭到质疑，最近获得了 4000 万美元的 A 轮融资，总融资额达到 5500 万美元。他们的第一次任务 Brokkr-1 遭遇挫折，但也吸取了宝贵的教训。AstroForge 目前正在准备他们的第二次任务 Odin，该任务旨在飞越富含金属的小行星并收集数据——这是私人月球以外任务的第一次。该公司还宣布了第三次任务 Vestri，定于 2025 年进行，计划使用磁铁与小行星对接。这项雄心勃勃的事业彰显了 AstroForge 在充满挑战的领域中的创新方法和韧性。]]></description>
-      <guid>https://t.me/hn_summary/104892</guid>
-      <pubDate>Wed, 21 Aug 2024 00:22:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
