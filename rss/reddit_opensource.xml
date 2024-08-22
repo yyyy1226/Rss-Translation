@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 22 Aug 2024 06:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 09:22:34 GMT</lastBuildDate>
+    <item>
+      <title>SurfSense——永远不会忘记您在互联网上看到的任何东西。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1eydrzl/surfsense_never_forget_anything_you_see_on/</link>
+      <description><![CDATA[        提交人    /u/Uiqueblhats   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1eydrzl/surfsense_never_forget_anything_you_see_on/</guid>
+      <pubDate>Thu, 22 Aug 2024 08:03:57 GMT</pubDate>
+    </item>
     <item>
       <title>深度学习论坛</title>
       <link>https://www.reddit.com/r/opensource/comments/1eyaehp/deep_learning_indaba/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我有个问题，如果我 fork 了其他存储库，我是否可以将 mit 许可证文件移动到存储库中的其他目录，实际上我想在另一个许可证下发布我的项目     提交人    /u/Ok_Consideration4475   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1exfk8t/about_forking_repositiory/</guid>
       <pubDate>Wed, 21 Aug 2024 03:32:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>保险行业已经准备好采用开源 AMS 解决方案......</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ex76ga/the_insurance_industry_is_ripe_for_a_open_source/</link>
-      <description><![CDATA[我家的商业保险经纪公司一直在考虑改用不同的代理管理系统，但我发现这些选择实在是太糟糕了。所有系统要么超级过时，要么昂贵且臃肿，要么专为专门的小众市场打造。 如果有人感兴趣的话，我在 Blazor 上有一个非常酷的项目。    提交人    /u/malachi347   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ex76ga/the_insurance_industry_is_ripe_for_a_open_source/</guid>
-      <pubDate>Tue, 20 Aug 2024 21:11:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
