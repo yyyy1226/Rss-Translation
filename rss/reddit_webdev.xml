@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 23 Aug 2024 01:36:13 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 23 Aug 2024 03:23:43 GMT</lastBuildDate>
+    <item>
+      <title>我想创建一个 wiki（自己运行 mediawiki 以用于学习目的）。我应该使用什么托管服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ez2l0j/i_want_to_start_a_wiki_running_mediawiki_myself/</link>
+      <description><![CDATA[我是 Web 开发新手，所以我不知道哪种托管服务好。 另外，如果这会对某些托管服务造成阻碍，我打算将 wiki 放在子域中。即 wiki.domain.com -&gt; wiki (www.)domain.com -&gt; 其他页面 编辑：修复格式    提交人    /u/uytdsheffhgewf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ez2l0j/i_want_to_start_a_wiki_running_mediawiki_myself/</guid>
+      <pubDate>Fri, 23 Aug 2024 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Backmesh-无需后端即可在应用中使用和跟踪 Gen AI 的使用情况</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ez1gu7/backmesh_use_and_track_gen_ai_usage_in_your_app/</link>
+      <description><![CDATA[我厌倦了必须启动后端来使用 OpenAI 并找出每个使用 GenAI 相关内容的应用程序中每个用户的使用情况和错误分析，因此我创建了 Backmesh，它可以让您  通过让您使用身份验证提供商的 JWT 设置每个用户的速率限制，可以安全地从任何 Web 或移动应用程序调用任何 Gen AI API，例如，任何用户每分钟调用 OpenAI API 的次数都不应超过 5 次。 自动检测所有 Gen AI API 调用，以了解它如何影响每个用户，例如错误率、跨模型的响应时间等  它目前处于早期访问阶段，但我很乐意加入任何可能对它有帮助的人 https://backmesh.com/    提交人    /u/g0_g6t_1t   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ez1gu7/backmesh_use_and_track_gen_ai_usage_in_your_app/</guid>
+      <pubDate>Fri, 23 Aug 2024 02:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于以特定格式获取信用报告信息的 API？JSON、XML 等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ez0zzf/api_for_getting_credit_report_information_in_a/</link>
+      <description><![CDATA[我想创办一家非盈利服务机构，帮助信用不佳的人们。我不想尝试依赖他们上传 html 文件或图片进行解析或任何类似的繁琐操作。 我查看了官方信用局，但不清楚这个功能在哪里。我也查看了 Plaid，但我不知道它是否检索了必要的信息。 我只需要一份所有债权人、余额、冲销、收款等的清单，不需要太高级的东西。 您会使用什么服务和 API？    提交人    /u/HsvDE86   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ez0zzf/api_for_getting_credit_report_information_in_a/</guid>
+      <pubDate>Fri, 23 Aug 2024 01:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>wcurl 在这里</title>
       <link>https://www.reddit.com/r/webdev/comments/1ez0gor/wcurl_is_here/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>WooCommerce 作为无头 CMS - 通过插件付款</title>
       <link>https://www.reddit.com/r/webdev/comments/1eyx9i6/woocommerce_as_headless_cms_payments_via_plugin/</link>
-      <description><![CDATA[大家好， 我不确定这个市场有多大，但是有人有使用 WooCommerce 作为无头后端的经验，特别是用于支付/订单吗？ 我正在为客户创建自定义前端，并使用他们的 WooCommerce/WP 作为无头后端/CMS，到目前为止，我在大多数事情上都取得了巨大的成功（产品、渲染文章等）。  现在我需要开始关注支付了，但对于下一步我有点迷茫了。  我想我的问题是：是否可以通过 WC 或 WP api 将实际的 WooCommerce 支付网关插件（Clover 和 Paypal）集成到我的自定义前端？还是我必须在我的代码中自定义实现支付网关，然后将它们配置为在付款后与 WC 进行通信以进行订购？我希望选项 A 是可行的，并且害怕选项 B D： 我找到了用于检索/更新支付网关的 WP/WC api 端点（并且似乎只是返回有关它们的信息），但我没有找到任何与实际付款相关的文档。 感谢您的时间！    提交人    /u/gnassar   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我不确定这个市场有多大，但是有人有使用 WooCommerce 作为无头后端的经验，特别是用于支付/订单吗？ 我正在为客户创建自定义前端，并使用他们的 WooCommerce/WP 作为无头后端/CMS，到目前为止，我在大多数事情上都取得了巨大的成功（产品、渲染文章等）。  现在我需要开始关注支付了，但对于下一步我有点迷茫了。  我想我的问题是：是否可以使用 WC 或 WP api 将实际的 WooCommerce 支付网关插件（Clover 和 Paypal）集成到我的自定义前端？还是我必须在我的代码中自定义实现支付网关，然后将它们配置为在付款后与 WC 进行通信以进行订购？我希望选项 A 是可行的，并且害怕选项 B D： 我找到了用于检索/更新支付网关的 WP/WC api 端点（并且似乎只是返回有关它们的信息），但我没有找到任何与实际付款相关的文档。 感谢您的时间！    提交人    /u/gnassar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eyx9i6/woocommerce_as_headless_cms_payments_via_plugin/</guid>
       <pubDate>Thu, 22 Aug 2024 23:01:50 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[这个问题可能真的很蠢。几年前，我购买了几个与我妻子和孩子的名字相关的域名。我的名字很普通，所以几年前一个政治极端分子为他的博客购买了我的名字，我不想让我的妻子或孩子经历这种事情，无法在网上拥有自己的名字。但是……我的妻子明确地告诉我，她永远不想要一个以她的名字命名的网站，她很生气我每年都要花钱续费以防万一。我的孩子还很小，他们的名字很不常见，将来不太可能被买走。然而，我担心我把自己困住了，如果我停止支付域名费用，一些抢注者会立即抢占它们，迫使我的孩子支付数百或数千美元，如果他们想要自己的域名的话。我真的必须永远付钱，以防他们有一天想要它吗？我的印象是，任何过期的域名都会被抢注者买下。这是真的吗，还是我只是偏执？有没有非常便宜的选择？除了我用于电子邮件的一个域名之外，我不需要任何其他虚拟主机，我只需要保留这些域名的所有权，或者至少防止它们落入抢注者的手中。    提交人    /u/Shepherd-Boy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eywtqb/way_to_let_domain_name_expire_without_squatters/</guid>
       <pubDate>Thu, 22 Aug 2024 22:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我们的在线商店迁移到新系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eyuv15/migrating_to_a_new_system_for_our_online_store/</link>
-      <description><![CDATA[我们将把我们的在线商店迁移到新系统，它将停机约一周。我们的主网站和商店是两个不同的系统。哪个选项最好？   删除 A 记录并创建从 store.domain.com 到 domain.com 上的临时页面的 302 重定向，其中将显示有关停机时间的消息，然后删除 302 并在 store.domain.com 准备上线时创建新的 A 记录。 调整 A 记录以指向临时主机，其中将显示有关停机时间的消息，然后在 store.domain.com 准备上线时再次更新 A 记录。  我很好奇在 SEO 方面两者之间是否孰优孰劣。    提交人    /u/_theGuyOverThere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eyuv15/migrating_to_a_new_system_for_our_online_store/</guid>
-      <pubDate>Thu, 22 Aug 2024 21:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想给年轻时的自己一些编程建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eyugt1/programming_advice_id_give_to_my_younger_self/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eyugt1/programming_advice_id_give_to_my_younger_self/</guid>
-      <pubDate>Thu, 22 Aug 2024 21:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么服务来获取状态页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eyudsy/what_service_are_you_using_for_status_pages/</link>
-      <description><![CDATA[我有几个业余项目想为其制作状态页面，我看过一些状态页面项目，但没有一个真正吸引我的眼球。 如有任何建议我将不胜感激 :)    提交人    /u/TertiaryOrbit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eyudsy/what_service_are_you_using_for_status_pages/</guid>
-      <pubDate>Thu, 22 Aug 2024 20:57:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
