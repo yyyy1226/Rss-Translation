@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 24 Aug 2024 12:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 15:21:33 GMT</lastBuildDate>
+    <item>
+      <title>暂停 1.0</title>
+      <link>https://www.producthunt.com/posts/pause-1-0</link>
+      <description><![CDATA[
+心理健康习惯
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pause-1-0</guid>
+      <pubDate>Sat, 24 Aug 2024 06:07:48 GMT</pubDate>
+    </item>
     <item>
       <title>我的旅程</title>
       <link>https://www.producthunt.com/posts/my-journey</link>
@@ -23,7 +37,7 @@
       <title>嘿！</title>
       <link>https://www.producthunt.com/posts/hey-7fed5187-9b92-4ee8-9ce5-e08d5bc63d15</link>
       <description><![CDATA[
-AI 驱动的结对编程朋友！✨
+人工智能驱动的结对编程朋友
 
 
 讨论
@@ -37,7 +51,7 @@ AI 驱动的结对编程朋友！✨
       <title>Git 开始</title>
       <link>https://www.producthunt.com/posts/git-begin</link>
       <description><![CDATA[
-轻松开始为开源项目做出贡献
+轻松开始为开源项目做贡献
 
 
 讨论
@@ -60,20 +74,6 @@ YouTube 词云生成器
 ]]></description>
       <guid>https://www.producthunt.com/posts/cloudnein-cloud</guid>
       <pubDate>Fri, 23 Aug 2024 15:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢呼 (YC S24)</title>
-      <link>https://www.producthunt.com/posts/cheers-yc-s24</link>
-      <description><![CDATA[
-面向现场员工的超级应用
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cheers-yc-s24</guid>
-      <pubDate>Thu, 22 Aug 2024 21:52:08 GMT</pubDate>
     </item>
     <item>
       <title>螺栓</title>
@@ -174,22 +174,22 @@ YouTube 词云生成器
       <pubDate>Tue, 20 Aug 2024 15:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>论文指南</title>
-      <link>https://www.producthunt.com/posts/paperguide</link>
+      <title>反空间</title>
+      <link>https://www.producthunt.com/posts/antispace-2</link>
       <description><![CDATA[
-使用 AI 轻松发现、阅读、撰写和管理研究
+人工智能操作系统，让工作游戏化
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/paperguide</guid>
-      <pubDate>Mon, 19 Aug 2024 07:35:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/antispace-2</guid>
+      <pubDate>Tue, 20 Aug 2024 14:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>Griddr. - 网格相机应用</title>
-      <link>https://www.producthunt.com/posts/griddr-a-grid-camera-app</link>
+      <title>网格博士。</title>
+      <link>https://www.producthunt.com/posts/griddr-2</link>
       <description><![CDATA[
 使用各种网格捕捉完美构图
 
@@ -198,7 +198,7 @@ YouTube 词云生成器
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/griddr-a-grid-camera-app</guid>
+      <guid>https://www.producthunt.com/posts/griddr-2</guid>
       <pubDate>Fri, 26 Jul 2024 04:05:53 GMT</pubDate>
     </item>
     <item>
