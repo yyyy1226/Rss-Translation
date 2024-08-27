@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 18:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 21:20:36 GMT</lastBuildDate>
     <item>
       <title>Keychron K2 HE</title>
       <link>https://www.producthunt.com/posts/keychron-k2-he</link>
@@ -34,18 +34,32 @@
       <pubDate>Tue, 27 Aug 2024 03:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>照片Zap</title>
-      <link>https://www.producthunt.com/posts/photozap</link>
+      <title>猎杀</title>
+      <link>https://www.producthunt.com/posts/oghunt</link>
       <description><![CDATA[
-轻松批量选择和删除 Google 相册
+使用 ZERO AI Slop™ 进行 Product Hunt
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/photozap</guid>
-      <pubDate>Mon, 26 Aug 2024 22:49:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/oghunt</guid>
+      <pubDate>Tue, 27 Aug 2024 02:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>核灾难地图</title>
+      <link>https://www.producthunt.com/posts/nuclear-disaster-map</link>
+      <description><![CDATA[
+您的家是否位于核风险区？
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/nuclear-disaster-map</guid>
+      <pubDate>Mon, 26 Aug 2024 17:10:02 GMT</pubDate>
     </item>
     <item>
       <title>玩建</title>
@@ -76,46 +90,32 @@
       <pubDate>Sun, 25 Aug 2024 22:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>Notion 电子邮件撰写器</title>
-      <link>https://www.producthunt.com/posts/notion-email-composer</link>
+      <title>TCG 中心</title>
+      <link>https://www.producthunt.com/posts/tcg-central</link>
       <description><![CDATA[
-只需单击一下即可从 Notion 发送电子邮件
+TCG 卡收集管理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/notion-email-composer</guid>
-      <pubDate>Sun, 25 Aug 2024 11:07:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tcg-central</guid>
+      <pubDate>Fri, 23 Aug 2024 14:05:37 GMT</pubDate>
     </item>
     <item>
-      <title>表格蜂</title>
-      <link>https://www.producthunt.com/posts/formbee</link>
+      <title>粉丝杂志</title>
+      <link>https://www.producthunt.com/posts/fanzine</link>
       <description><![CDATA[
-将反馈转化为行动
+发现各种创作者，与朋友分享
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/formbee</guid>
-      <pubDate>Fri, 23 Aug 2024 22:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>压模</title>
-      <link>https://www.producthunt.com/posts/stamper-3</link>
-      <description><![CDATA[
-通过阅读和书写字母学习语言
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/stamper-3</guid>
-      <pubDate>Fri, 23 Aug 2024 20:03:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/fanzine</guid>
+      <pubDate>Fri, 23 Aug 2024 01:31:36 GMT</pubDate>
     </item>
     <item>
       <title>追溯连续性</title>
@@ -146,6 +146,20 @@
       <pubDate>Thu, 22 Aug 2024 07:53:59 GMT</pubDate>
     </item>
     <item>
+      <title>顺时针棱镜</title>
+      <link>https://www.producthunt.com/posts/clockwise-prism</link>
+      <description><![CDATA[
+首创的智能日历
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/clockwise-prism</guid>
+      <pubDate>Thu, 22 Aug 2024 03:16:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ADA 人力资源助理</title>
       <link>https://www.producthunt.com/posts/ada-hr-assistant</link>
       <description><![CDATA[
@@ -160,46 +174,32 @@ Slack 上的 AI 驱动内部支持
       <pubDate>Wed, 21 Aug 2024 12:38:41 GMT</pubDate>
     </item>
     <item>
-      <title>大资本</title>
-      <link>https://www.producthunt.com/posts/bigcapital</link>
+      <title>金融代理</title>
+      <link>https://www.producthunt.com/posts/fing-agent</link>
       <description><![CDATA[
-现代开源核心会计软件 
+适用于 Raspberry Pi 的 24/7 网络监控单元
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/bigcapital</guid>
-      <pubDate>Mon, 19 Aug 2024 14:13:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/fing-agent</guid>
+      <pubDate>Wed, 21 Aug 2024 09:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 版 new.space</title>
-      <link>https://www.producthunt.com/posts/new-space-for-ios</link>
+      <title>看板任务</title>
+      <link>https://www.producthunt.com/posts/kanban-tasks</link>
       <description><![CDATA[
-轻松分享、反馈和规划
+Google Workspace 中团队共享的看板
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/new-space-for-ios</guid>
-      <pubDate>Mon, 12 Aug 2024 15:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>外足动物</title>
-      <link>https://www.producthunt.com/posts/exopods</link>
-      <description><![CDATA[
-带上您的 Docker 镜像或 GitHub 存储库，几秒钟内即可上线。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/exopods</guid>
-      <pubDate>Thu, 08 Aug 2024 06:07:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kanban-tasks</guid>
+      <pubDate>Tue, 20 Aug 2024 12:17:40 GMT</pubDate>
     </item>
     <item>
       <title>斯瓦特尔</title>
