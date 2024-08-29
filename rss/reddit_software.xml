@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 01:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 03:24:06 GMT</lastBuildDate>
+    <item>
+      <title>4DDIG 视频增强器是骗局吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1f3qxns/4ddig_video_enhancer_a_scam/</link>
+      <description><![CDATA[https://preview.redd.it/96jpa06leild1.jpg?width=1434&amp;format=pjpg&amp;auto=webp&amp;s=e1317cc93b58bebf755a4fe699223d8f25794b6e 我最近尝试下载一个名为“4DDiG AI Video Enhancer”的视频软件工具，但我的防病毒软件 (Avast) 将下载的文件 (4ddig-file-repair_11724891199791422603.exe) 标记为感染了“FileRepPup [PUP]”。 我以为我得到的是一个视频增强工具，但它似乎可能是其他东西，如文件修复工具或类似的东西，而且也可能有害。有没有人遇到过这种情况？这家软件公司是合法的还是骗局？任何建议都将不胜感激！    提交人    /u/Fyrsten666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3qxns/4ddig_video_enhancer_a_scam/</guid>
+      <pubDate>Thu, 29 Aug 2024 01:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>有什么方法可以获取 YouTube 视频的音频链接？</title>
       <link>https://www.reddit.com/r/software/comments/1f3qkc4/any_way_to_get_the_audio_link_of_youtube_video/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>案例管理/利用率审查案例记录软件解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1f3izmc/case_managementutilization_review_case_notes/</link>
-      <description><![CDATA[背景 我在一家小型行为健康（住院药物和酒精治疗）机构从事利用率管理工作 我所寻找内容的摘要  我正在寻找一种具有预制模板或允许我创建模板的软件，该模板将为每个评论生成某些字段 我认为解释我的工作会更容易，以便了解我想要的潜在软件解决方案做什么 问题定义 我基本上每 7、10、14 或 21 天按照脚本进行一次，我向保险公司提交客户的案例，以授权额外的治疗天数，基本上是提交案例记录来证明他们仍在接受治疗的原因。我们的图表软件负责处理授权日期和日历方面，但不负责案例记录部分。  这是我在评论中被问到的问题：  客户的触发因素、动机、支持是什么，他们如何参加小组活动，有任何行为问题，他们为谁签署了释放令，他们的药物是否有变化，等等。这些字段几乎从不改变，我设想实现这一点的最佳方法是只让行或列与空文本框相关，我可以在其中写入更新。   关于理想流程的想法  因此，我将在一张表格或一个窗口等中填写这些字段的答案 然后，下次他们接受审查时，我希望相同的字段能够填充上面的标题，以及旧数据（他们上次审查的触发因素、动机等），但要清楚地标出旧数据字段，以表明它来自上次审查，现在在与上述字段相同的字段下有额外的数据输入字段，以添加自上次审查以来发生的变化（输入触发因素的更新、动机的更新等） 这就像一个活文件，直到他们基本上解散为止，每次我生成新的表格或表单时，它都会填充以前审查中的旧内容，并允许我在旧内容之上/之后输入新的更新信息  在结束 我希望我解释清楚了。我现在所做的只是为每个客户保存一个庞大而笨重的 word 文档，然后自由地输入信息，没有结构，重复性很强。 我每天最多要审阅 12 位客户，每次审阅 45 分钟，来来回回问了很多问题，也回答了很多问题。我真的需要一个解决方案，我在想一个不太理想（但稍微好一点的解决方案）可能是在 excel 中实现这个，但这有点超出了我的范围。我很讨厌 excel，而且我不完全确定我上面寻找的功能是否能够实现。 接受任何关于解决方案的建议，比如自制、免费和开源、私人和付费/订阅等，任何可能有用的想法。    提交人    /u/ryancnap   [链接] [评论]]]></description>
+      <description><![CDATA[背景 我在一家小型行为健康（住院药物和酒精治疗）机构从事利用率管理工作 我所寻找内容的摘要  我正在寻找一种具有预制模板或允许我创建模板的软件，该模板将为每个评论生成某些字段 我认为解释我的工作会更容易，以便了解我想要的潜在软件解决方案做什么 问题定义 我基本上每 7、10、14 或 21 天按照脚本进行一次，我向保险公司提交客户的案例，以授权额外的治疗天数，基本上是提交案例记录来证明他们仍在接受治疗的原因。我们的图表软件负责处理授权日期和日历方面，但不负责案例记录部分。  这是我在评论中被问到的问题：  客户的触发因素、动机、支持是什么，他们如何参加小组活动，有任何行为问题，他们为谁签署了释放令，他们的药物是否有变化，等等。这些字段几乎从不改变，我设想实现这一点的最佳方法是只让行或列与空文本框相关，我可以在其中写入更新。   关于理想流程的想法  因此，我将在一张表格或一个窗口等中填写这些字段的答案 然后，下次他们接受审查时，我希望相同的字段能够填充上面的标题，以及旧数据（他们上次审查的触发因素、动机等），但要清楚地标出旧数据字段，以表明它来自上次审查，现在在与上述字段相同的字段下有额外的数据输入字段，以添加自上次审查以来发生的变化（输入触发因素的更新、动机的更新等） 这就像一个活文件，直到他们基本上解散为止，每次我生成新的表格或表单时，它都会填充以前审查中的旧内容，并允许我在旧内容之上/之后输入新的更新信息  在结束 我希望我解释清楚了。我现在所做的只是为每个客户保存一个庞大而笨重的 word 文档，然后自由地输入信息，没有结构，重复性很强。 我每天要审阅多达 12 个客户，每次审阅 45 分钟，来来回回问了很多问题，也回答了很多问题。我真的需要一个解决方案，我在想一个不太理想（但稍微好一点的解决方案）可能是在 excel 中实现这个，但这有点超出了我的范围。我很讨厌 excel，而且我不完全确定我上面寻找的功能是否能够实现。 接受任何关于解决方案的建议，比如自制、免费和开源、私人和付费/订阅等，任何可能有用的想法。    提交人    /u/ryancnap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f3izmc/case_managementutilization_review_case_notes/</guid>
       <pubDate>Wed, 28 Aug 2024 19:27:37 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>在 Windows 10 上模仿 Apple OS 音量控制的软件</title>
       <link>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</link>
-      <description><![CDATA[您好， 我以前在电脑上安装过一款软件，按 f6 可以调高 Windows 音量，然后会弹出类似 mac OS 音量图标的图标，按 f5 可以调低音量。我不记得这款软件的名字了，大概是 3CRX。    提交人    /u/arapoibus   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我以前在电脑上安装过一款软件，按 f6 可以调高 Windows 音量，然后会像 mac OS 音量图标一样弹出，按 f5 可以调低。我不记得软件的名字了。类似于 3CRX。    提交人    /u/arapoibus   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</guid>
       <pubDate>Wed, 28 Aug 2024 16:26:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我在 Google 上搜索，但大多数都不可靠，而且我读到大多数都不安全    提交人    /u/Signal_Security_7894   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f38fs0/can_anyone_recommend_a_safe_youtube_downloader/</guid>
       <pubDate>Wed, 28 Aug 2024 12:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>以太网不工作</title>
-      <link>https://www.reddit.com/r/software/comments/1f36vg4/ethernet_not_working/</link>
-      <description><![CDATA[几个小时前，我的 wifi 无法在 PC 上使用，当我对其进行故障排除时，它说 DNS 服务器没有响应，但是当我再次对其进行故障排除时，有时它会说它完全正常，但仍然无法工作，有时它在任务栏上显示 wifi 已打开并正在工作，有时它显示没有网络连接 尝试重新启动 PC、路由器，尝试了其他 DNS，刷新了 DNS 缓存，但什么都没用，有人知道如何修复它吗？    提交人    /u/Jetmir-JeetFlyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f36vg4/ethernet_not_working/</guid>
-      <pubDate>Wed, 28 Aug 2024 10:36:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
