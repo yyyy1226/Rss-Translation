@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 29 Aug 2024 12:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 15:24:51 GMT</lastBuildDate>
+    <item>
+      <title>VSDebugPro - 开源 VS 调试扩展（json 序列化、内存转储等）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f42hml/vsdebugpro_open_source_vs_debugging_extension/</link>
+      <description><![CDATA[        由    /u/ovidiuvio  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f42hml/vsdebugpro_open_source_vs_debugging_extension/</guid>
+      <pubDate>Thu, 29 Aug 2024 13:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>nxs-备份 v3.11.0</title>
       <link>https://www.reddit.com/r/opensource/comments/1f3ykom/nxsbackup_v3110/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由    /u/Tylernator  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2v41d/every_open_source_tool_from_the_august_whats_hn/</guid>
       <pubDate>Tue, 27 Aug 2024 23:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>repo2vec：一个可以与网络上任何代码库进行聊天的开源库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2u3i0/repo2vec_an_opensource_library_to_chat_with_any/</link>
-      <description><![CDATA[        由    /u/MusingEtMachina 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2u3i0/repo2vec_an_opensource_library_to_chat_with_any/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:24:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
