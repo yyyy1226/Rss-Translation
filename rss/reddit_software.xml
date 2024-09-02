@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 09:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 12:42:30 GMT</lastBuildDate>
+    <item>
+      <title>遗留问题现代化，共创美好世界</title>
+      <link>https://www.reddit.com/r/software/comments/1f75q2a/legacy_modernization_for_a_better_world/</link>
+      <description><![CDATA[  由    /u/DelphiParser  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f75q2a/legacy_modernization_for_a_better_world/</guid>
+      <pubDate>Mon, 02 Sep 2024 12:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>比流畅启动器更好吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1f74uv4/better_than_fluent_launcher/</link>
+      <description><![CDATA[有没有比 Fluent Launcher 更好的东西，我遇到了一些问题，例如动画滞后等，我也想尝试更多的替代方案    提交人    /u/Raivolz   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f74uv4/better_than_fluent_launcher/</guid>
+      <pubDate>Mon, 02 Sep 2024 11:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有比 Design 或 Affero 或 SyBase 或 Server 更严格的许可证？</title>
+      <link>https://www.reddit.com/r/software/comments/1f73qwd/is_there_a_more_restrictive_license_than_design/</link>
+      <description><![CDATA[我的意思不是专有许可证。但是，是否有禁止商业使用并要求共享任何与代码接触的代码？ 但除此之外，共享或编辑等都没有问题 它并不完整，但我能想到的只是：  我可以在未经任何人许可的情况下更改许可证（所有贡献者...） 您应共享（不能修改并保持私密） 您可以修改（并应记录更改） 对任何人都不承担任何责任，保证... 您可以分发 您不能更改许可证（病毒式） 在其上或围绕它（从很远或很近）进行的工作需要相同的许可证（插件，网络使用...）（非常病毒式） 您不能商业化（出借，出售...） 任何贡献者都需要被引用     由    /u/6-1j 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f73qwd/is_there_a_more_restrictive_license_than_design/</guid>
+      <pubDate>Mon, 02 Sep 2024 10:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>我们是一支AI创业团队，经过两个月的深度开发，我们打造了一款针对个人用户隐私数据的AI搜索产品，诚邀您参与我们的内测。</title>
       <link>https://www.reddit.com/r/software/comments/1f726zl/were_an_ai_startup_team_after_two_months_of/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[如果这不是合适的子版块，请提前致歉。 tl;dr：基本上，我正在寻找可以在 Windows 和/或 Android 上运行的东西，它允许我创建特定主题中对我而言重要的某些信息参数，并根据这些参数按字母顺序对它们进行排序，以便于导航，并且 UI 中每个新条目都有一张图片。 工作原理示例： 我真的很喜欢图片，并且能够在整齐的网格中查看我的收藏。例如，我为这个特定的图书馆/书籍文件夹启动了一个新模板。对于这个模板，我可以创建类别，例如作者、标题、出版商、发布日期、概要、购买日期、我的特定副本的费用、个人评论，当然还有我可以上传以查看该特定书籍的图片。如果我愿意，我应该能够添加一个新类别并按字母顺序排列这些类别。 如果我愿意，我可以创建一个新的库/文件夹来存放我购买的蓝光，并创建诸如流派、长度、演员、导演、发布日期、概要、支付金额等类别，并按字母顺序排列这些类别（如果我愿意）。 最后一个例子：创建一个新的库/文件夹，在其中我可以看到我购买的所有黑胶唱片/ CD 的整齐网格，创建艺术家、专辑名称、发布日期、长度、流派等类别，然后使用这些参数按我喜欢的方式对它们进行排序。 结论： 我知道很多这听起来像我可以在 Excel/Google 表格上做的事情，我也尝试过，但我非常希望演示采用网格的形式，这样我就可以轻松看到所有内容。我希望能够点击图片并查看所有对我重要的信息。据我所知，Sheets 无法做到这一点，因此我必须滚动很多次才能看到我的东西。我也尝试过各种书架式的应用程序，但每个应用程序都错过了我正在寻找的几个要点。最好是不需要为各种网站创建帐户的应用程序。我知道我听起来很挑剔，但任何建议都会非常感谢。    提交人    /u/ChickenSalad96   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f6fakw/looking_for_a_particular_program_that_lets_me/</guid>
       <pubDate>Sun, 01 Sep 2024 14:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机被窃听/间谍软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1f6csoy/celular_grampeado_spyware/</link>
-      <description><![CDATA[显然，我的手机被窃听和/或安装了一些间谍软件（有人监听电话通话、查看和收听 WhatsApp 上的消息等）。有什么方法可以确定或发现“水龙头”吗？或间谍软件？如何在不丢失手机资料的情况下删除它？    由   提交 /u/Bilabalib   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f6csoy/celular_grampeado_spyware/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClipGrab 为何如此糟糕</title>
-      <link>https://www.reddit.com/r/software/comments/1f6b331/why_does_clipgrab_suck/</link>
-      <description><![CDATA[https://preview.redd.it/mcssjz65a6md1.png?width=355&amp;format=png&amp;auto=webp&amp;s=5428eb7b8b6be613c1390b4d2097c2113256fc76 当拒绝第三方软件优惠时，Clipgrab 喜欢将随机软件安装到您的计算机上。垃圾软件。 Clipgrab 的网站由不懂英语的人运营，他们无法正确拼写“隐私”一词（见图片）。 Clipgrab 几乎从不工作，只是 yt-dl / yt-dlg 的翻版    提交人    /u/urlixir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f6b331/why_does_clipgrab_suck/</guid>
-      <pubDate>Sun, 01 Sep 2024 10:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有日历视图的日记/记录应用程序，可在发生某些事情时记录笔记。</title>
-      <link>https://www.reddit.com/r/software/comments/1f68zms/a_journal_logging_app_with_calendar_view_to_write/</link>
-      <description><![CDATA[例如，我想记录时间、日期，并在我家的狗呕吐时做笔记。   我需要一个笔记应用，但重点是日历。或者一个日历应用，其中的条目不用作约会类型的事件。  我尝试在 Notion、coda 和 Clickup 中创建一个空间，但它太笨重了。  Google 和 iOS 日历：尝试通过创建不同的日历来分组事件，但将条目写入特定日历太困难了      提交人    /u/Verolee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f68zms/a_journal_logging_app_with_calendar_view_to_write/</guid>
-      <pubDate>Sun, 01 Sep 2024 07:39:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

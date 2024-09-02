@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Sep 2024 09:25:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 12:43:04 GMT</lastBuildDate>
     <item>
       <title>韦维尔</title>
       <link>https://www.producthunt.com/posts/weavel</link>
@@ -20,32 +20,32 @@
       <pubDate>Mon, 02 Sep 2024 02:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>Earth.fm 应用程序</title>
-      <link>https://www.producthunt.com/posts/earth-fm-app</link>
+      <title>拉丁学校</title>
+      <link>https://www.producthunt.com/posts/scholalatinae</link>
       <description><![CDATA[
-900 多种自然音景直接在您的手机上播放
+学习拉丁语和希腊语的有趣方式
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/earth-fm-app</guid>
-      <pubDate>Sun, 01 Sep 2024 22:14:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/scholalatinae</guid>
+      <pubDate>Mon, 02 Sep 2024 00:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>象形图生成器</title>
-      <link>https://www.producthunt.com/posts/pictogram-generator</link>
+      <title>压缩图像</title>
+      <link>https://www.producthunt.com/posts/compress-image</link>
       <description><![CDATA[
-轻松创建标志性象形图
+只需单击两次，即可在 MacOS 上压缩任何图像，直接在 Finder 中执行
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pictogram-generator</guid>
-      <pubDate>Sun, 01 Sep 2024 18:46:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/compress-image</guid>
+      <pubDate>Sun, 01 Sep 2024 10:08:14 GMT</pubDate>
     </item>
     <item>
       <title>时间标签</title>
@@ -188,20 +188,6 @@
       <pubDate>Wed, 14 Aug 2024 12:53:07 GMT</pubDate>
     </item>
     <item>
-      <title>時間大师</title>
-      <link>https://www.producthunt.com/posts/timemaster</link>
-      <description><![CDATA[
-通过自动时间跟踪提高专注度和工作效率
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/timemaster</guid>
-      <pubDate>Mon, 12 Aug 2024 07:14:44 GMT</pubDate>
-    </item>
-    <item>
       <title>Wisp 内容管理系统</title>
       <link>https://www.producthunt.com/posts/wisp-cms</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/wisp-cms</guid>
       <pubDate>Mon, 05 Aug 2024 14:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>安普洛</title>
+      <link>https://www.producthunt.com/posts/amploo</link>
+      <description><![CDATA[
+中小企业优化流程和连接团队的单一工具
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/amploo</guid>
+      <pubDate>Thu, 01 Aug 2024 14:17:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
