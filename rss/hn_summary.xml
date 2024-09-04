@@ -4,96 +4,108 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 12:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 18:27:13 GMT</lastBuildDate>
     <item>
-      <title>[媒体] ReMarkable 推出了 Paper Pro，这是一款尖端彩色电子墨水平板电脑，旨在 [...]</title>
-      <link>https://t.me/hn_summary/106906</link>
-      <description><![CDATA[ReMarkable 推出彩色电子墨水平板电脑 Paper Pro
-ReMarkable 推出了 Paper Pro，这是一款尖端彩色电子墨水平板电脑，旨在彻底改变您的阅读和笔记体验。这款创新设备配有可调节的阅读灯，可发出柔和的光芒，确保您即使在光线不足的情况下也能专注于书页。Paper Pro 旨在将纸张的触感与数字技术的多功能性融为一体，为狂热读者和专业人士提供独特的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/106906</guid>
-      <pubDate>Wed, 04 Sep 2024 12:32:44 GMT</pubDate>
+      <title>[媒体] 8月28日，我们对Meta平台上链接到Telegram的广告进行了调查，发现[...]</title>
+      <link>https://t.me/hn_summary/106960</link>
+      <description><![CDATA[Meta 应用上链接到 Telegram 的广告存在非法活动
+8 月 28 日，我们调查了 Meta 平台上链接到 Telegram 的广告，发现其中 64% 的广告违反了 Meta 的政策，通常宣传毒品销售和金融诈骗等非法活动。Telegram 的内容审核不力加剧了这一问题，其首席执行官 Pavel Durov 最近在法国被起诉，这一事件凸显了这一点。我们的调查结果表明，Meta 没有充分审查带有 Telegram 链接的广告，为有害内容留下了一个重要的载体。我们建议 Meta 标记 Telegram 链接广告，以进行更严格的审查，以缓解这一问题。虽然 Meta 的广告透明度值得称赞，但它需要更积极主动地执行。]]></description>
+      <guid>https://t.me/hn_summary/106960</guid>
+      <pubDate>Wed, 04 Sep 2024 18:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Plang 中，你可以将事件绑定到目标（功能）和步骤（代码行），从而 [...]</title>
-      <link>https://t.me/hn_summary/106905</link>
-      <description><![CDATA[理论：自我修正软件
-在 Plang 中，您可以将事件绑定到目标（函数）和步骤（代码行），使其成为创建自我修正软件的强大工具。例如，只需四行代码即可确保在访问 /admin 路由之前进行用户身份验证。当服务发生变化并需要新数据时，Plang 可以通过绑定事件来处理错误，从而自动更正代码。使用语言模型 (LLM)，Plang 会更新代码、保存代码、重建并重试该步骤。这种自我修正机制非常高效，凸显了 Plang 的潜力。但是，某些问题（例如缺少字段）可能需要进一步调整调用堆栈。Plang 的功能令人印象深刻，值得进一步探索。]]></description>
-      <guid>https://t.me/hn_summary/106905</guid>
-      <pubDate>Wed, 04 Sep 2024 12:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 物理学家 MV Ramana 在他的新书中指出，核能不是清洁能源 [...]</title>
-      <link>https://t.me/hn_summary/106904</link>
-      <description><![CDATA[物理学家 MV Ramana 解释核能为何不是清洁能源的万能药
-物理学家 MV Ramana 在他的新书中指出，核能并非许多人认为的清洁能源解决方案。尽管人们普遍认为核能对于摆脱化石燃料至关重要，但 Ramana 认为核能成本高昂、危险，而且规模扩大速度太慢。他强调了核技术固有的不稳定性与风险，而气候变化和企业削减成本加剧了这种不稳定性与风险。Ramana 还指出，核能创造的就业机会少于可再生能源，而且严重依赖政府补贴。他认为，快速增长的可再生能源是一种更可行、更安全的替代方案。]]></description>
-      <guid>https://t.me/hn_summary/106904</guid>
-      <pubDate>Wed, 04 Sep 2024 12:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 Poul-Henning Kamp 的留言中，他强调 FreeBSD 的起源是对 [...] 的反应</title>
-      <link>https://t.me/hn_summary/106903</link>
-      <description><![CDATA[这不是 Rust，而是 FreeBSD（和 LLVM）
-在 Poul-Henning Kamp 的留言中，他强调 FreeBSD 的起源是对 20 世纪 90 年代支离破碎的 UNIX 行业（尤其是 C 编译器的拆分）的一种反应。FreeBSD 旨在提供具有完整源代码的完整 UNIX 系统。随着时间的推移，该项目不断发展，但提供与内核一致的用户空间的核心理念始终保持不变。Kamp 认为，当前将 LLVM 包含在源代码树中的做法已经过时，并提出了一种转变，即 FreeBSD 由其端口定义，LLVM 和其他工具链作为单独的包进行管理。这一变化将使 FreeBSD 的分发格式现代化，使其更高效并与当代实践保持一致。 Kamp 还承认了 pkgbase 团队的贡献，并表示他们的努力值得认可。
+      <title>[媒体] CSS @property 和新样式</title>
+      <link>https://t.me/hn_summary/106959</link>
+      <description><![CDATA[CSS @property 和新样式
+CSS @property 和新样式
 
-争议：Kamp 提出的从源代码树中删除 LLVM 的提议可能会在重视“FreeBSD 是 src”理念的传统主义者中引起争议。
+发布于 2024 年 9 月 2 日
 
-独特/聪明：通过其端口定义 FreeBSD 的想法，包括将内核和用户空间作为软件包，是一种新颖的方法，可以简化系统并使其更具适应性。]]></description>
-      <guid>https://t.me/hn_summary/106903</guid>
-      <pubDate>Wed, 04 Sep 2024 11:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 埃隆·马斯克的卫星互联网服务 Starlink 宣布将屏蔽社交媒体 [...]</title>
-      <link>https://t.me/hn_summary/106902</link>
-      <description><![CDATA[埃隆·马斯克的 Starlink 表示将在巴西屏蔽 X
-埃隆·马斯克的卫星互联网服务 Starlink 宣布将在巴西屏蔽社交网络 X，以维持其运营许可。此前，巴西最高法院在 X 违抗法院命令并未能支付未暂停涉嫌损害民主制度的账户的罚款后，封锁了 X。法院冻结了 Starlink 的金融资产，以确保 X 遵守规定。马斯克的公司被视为合作者，其中一项删除请求涉及参议员马科斯·杜瓦尔，他因涉嫌政变阴谋而受到调查。批评人士认为，法官亚历山大·德莫赖斯在控制网络言论方面做得过分。马斯克公开批评德莫赖斯和现任巴西政府，威胁称如果不归还资产，将采取对等行动。这场争议凸显了马斯克的企业与巴西政府之间的紧张关系，马斯克对前总统雅伊尔·博索纳罗的支持加剧了这种摩擦。]]></description>
-      <guid>https://t.me/hn_summary/106902</guid>
-      <pubDate>Wed, 04 Sep 2024 11:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] NaNoWriMo 最近接受人工智能生成的内容，引发了强烈的反对[...]</title>
-      <link>https://t.me/hn_summary/106901</link>
-      <description><![CDATA[NanoWrimo 接受使用人工智能的人——作者团体反对
-NaNoWriMo 最近接受人工智能生成的内容，引发了社区的强烈反对。长期会员莫里斯与该组织断绝了关系，批评人工智能不道德，阻碍了作家的成长。C. L. Polk 谴责 NaNo 的立场是对残疾作家的蔑视，称其为“糟糕的小说”。Jenai May 和 Rebecca Thorne 等长期参与者表达了背叛的感觉，强调 NaNo 的立场破坏了人类创造力和社区的本质。 Thorne 在 TikTok 上疯传的视频批评 NaNo 使用政治正确的语言来掩盖其有争议的立场，强调艺术本质上是人类的，不应该依赖人工智能。]]></description>
-      <guid>https://t.me/hn_summary/106901</guid>
-      <pubDate>Wed, 04 Sep 2024 11:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Gray Stream 来自一个在路易斯安那州石油工业中根深蒂固的家庭，非常 [...]</title>
-      <link>https://t.me/hn_summary/106900</link>
-      <description><![CDATA[美国的新气候妄想
-Gray Stream 来自一个在路易斯安那州石油行业根深蒂固的家庭，他正在进军碳捕获和封存 (CCS) 领域，将碳排放封存在地下。他的公司 Gulf Coast Sequestration 旨在利用拜登政府的《通胀削减法案》，该法案鼓励 CCS 项目。路易斯安那州的地质条件非常适合此类项目，该州拥有美国提议的很大一部分 CCS 项目。然而，CCS 是有争议的；它可能会延续石油和天然气行业的运营，而不是抑制排放。批评人士认为，CCS 是一种昂贵的、未经证实的解决方案，可能会成为继续依赖化石燃料的漏洞。 （基于 99% 的故事文本摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106900</guid>
-      <pubDate>Wed, 04 Sep 2024 11:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 标题：软件依赖性的基本规律</title>
-      <link>https://t.me/hn_summary/106899</link>
-      <description><![CDATA[软件依赖关系的基本法则
-标题：软件依赖关系的基本法则
+@property at-rule 现在已得到所有现代浏览器的支持，它允许开发人员定义 CSS 自定义属性的语法、初始值和继承。此功能是 CSS Houdini 计划的一部分，为 CSS 开辟了新的可能性。本文通过演示探索了这些功能，重点介绍如何创建时尚、动画的号召性用语按钮。通过定义 --gradient-angle 等自定义属性，开发人员可以实现流畅的过渡和复杂的动画。这篇文章重点介绍了使用线性和圆锥渐变、悬停过渡和径向渐变背景等技术来创建视觉上吸引人的效果。作者强调了 @property 在大型应用程序和设计系统中的潜力，并引用了 Stephanie Eckles 和 Adam Argyle 的作品。
 
-网站：matklad.github.io
+令人惊讶/巧妙的元素：
+通过两次声明相同的动画（一次反转和暂停）来减慢悬停时的旋转速度的技术特别巧妙。这允许动画顺利恢复，而无需快速返回到起始位置。
 
-摘要：
-
-软件依赖关系的基本法则认为，规范源代码应包含其所有依赖项的校验和。该原则可确保软件开发的完整性和可重复性。例如，软件应使用 Git 等内容寻址版本控制系统，并包含第三方库及其依赖项的带有校验和的锁定文件。令人惊讶的是，作者认为，为了增强安全性和信任度，甚至应该包括编译器的哈希值，而不仅仅是其版本。这种方法需要了解依赖项、自动下载依赖项、确保可重现构建以及隔离每个项目的依赖项。这些步骤共同简化了软件开发。]]></description>
-      <guid>https://t.me/hn_summary/106899</guid>
-      <pubDate>Wed, 04 Sep 2024 11:15:00 GMT</pubDate>
+独特元素：
+使用圆锥渐变蒙版在旋转时显示点图案的部分，为按钮的设计增添了独特的触感，增强了其视觉吸引力。]]></description>
+      <guid>https://t.me/hn_summary/106959</guid>
+      <pubDate>Wed, 04 Sep 2024 18:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 当 Civil Eats 于 2009 年推出时，没有一家主流媒体关注 [...]</title>
-      <link>https://t.me/hn_summary/106898</link>
-      <description><![CDATA[Civil Eats：我们的报道现在对所有人免费
-Civil Eats 于 2009 年推出时，没有一家主要媒体关注食品与社会和政治问题的交集。在过去 15 年里，我们率先探讨食品和农业，让主流观众能够看到复杂、报道不足的故事。我们富有影响力的报道获得了广泛认可，包括 2013 年的 10 万美元 Kickstarter 活动、2014 年詹姆斯·比尔德基金会的年度出版物奖，以及我们的调查系列和新闻通讯获得的多个奖项。2015 年，我们引入了付费墙来维持我们的非营利新闻编辑室，但我们始终致力于让我们的新闻免费。现在，感谢 11th Hour Project 和 GRACE Communications Foundation 的慷慨资助，我们很高兴地宣布我们的报道将免费向所有人开放一年。为了保持这种可访问性，我们正在发起会员活动。您的支持对于让我们的重要故事保持活力至关重要。立即成为会员，确保我们的工作继续进行。]]></description>
-      <guid>https://t.me/hn_summary/106898</guid>
-      <pubDate>Wed, 04 Sep 2024 10:54:49 GMT</pubDate>
+      <title>网站：ratfactor.com</title>
+      <link>https://t.me/hn_summary/106958</link>
+      <description><![CDATA[MNT Pocket Reform – 开箱和第一印象
+标题：MNT Pocket Reform – 开箱和第一印象
+网站：ratfactor.com
+
+在这篇开箱和第一印象评论中，作者将 MNT Pocket Reform 与另外两款小型笔记本电脑进行了比较，突出了其独特的功能。Pocket Reform 采用 Arm Cortex 处理器，与典型的 x86 架构相比，带来了令人耳目一新的变化。作者批评大多数笔记本电脑不适合放在膝盖上使用，因为它们的“搁板空间”很大，边缘锋利，可能会让人不舒服。相比之下，Pocket Reform 的紧凑尺寸和出色的键盘布局使其成为各种非常规位置的理想选择。背光键尤其受到称赞，可增强夜间编程。鉴于 Pocket Reform 的良好功能，作者对它有可能成为他们购买的最后一台小型计算机持乐观态度。]]></description>
+      <guid>https://t.me/hn_summary/106958</guid>
+      <pubDate>Wed, 04 Sep 2024 18:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>“SRE”（站点可靠性工程师）一词已经失去了其原有的含义和价值。</title>
-      <link>https://t.me/hn_summary/106897</link>
-      <description><![CDATA[“SRE”似乎不再有任何用处
-“SRE”（站点可靠性工程师）一词已经失去了其原有的含义和价值。最初，SRE 被视为系统管理员和程序员的混合体，既能维护系统，又能开发新的解决方案。然而，该角色已沦为单纯的“devops”或“ops monkeys”，降级为支持“真正的”程序员，而没有认可他们更广泛的技能。这种转变在招聘实践中很明显，SRE 的职位发布吸引了只专注于运营的候选人。作者分享了自己被解雇的个人经历，因为他们被贴上了 SRE 的标签，尽管他们拥有丰富的编程和系统管理技能。这种误解令人沮丧，凸显了一个更广泛的行业问题。作者还展示了他们自己的先进工作，例如开发并行化的 C++ 构建工具，以强调 SRE 不仅仅是支持人员。]]></description>
-      <guid>https://t.me/hn_summary/106897</guid>
-      <pubDate>Wed, 04 Sep 2024 10:44:41 GMT</pubDate>
+      <title>[媒体] 网站：tailscale.com</title>
+      <link>https://t.me/hn_summary/106957</link>
+      <description><![CDATA[使用自托管 VSCode、Caddy 和代码服务器在 iPad 上编码
+标题：使用自托管 VSCode、Caddy 和代码服务器在 iPad 上编码
+网站：tailscale.com
+
+Visual Studio Code (VSCode) 因其跨平台兼容性、速度和广泛的扩展而成为流行的文本编辑器。 Coder.com 的代码服务器允许您在服务器上运行 VSCode 并从任何设备（包括 iPad）访问它。Tailscale 通过提供安全的私人连接来增强此设置，而无需像 nginx 这样的面向公众的代理。本指南将引导您在 Ubuntu 服务器上设置代码服务器，将其配置为与 Tailscale 配合使用，并从 iPad 访问它。值得注意的是，Tailscale 的集成简化了安全性，通过利用现有的 SSO 身份提供者消除了基于密码的身份验证的需要。为了获得完整功能，建议使用 Tailscale Let&#39;s Encrypt 证书和 Caddy 等 Web 代理设置 HTTPS。本指南的灵感来自 Tailscale 用户 Sam Linville。 
+
+争议：该指南建议绕过基于密码的身份验证，这可能会引起一些用户的安全担忧。
+
+独特/巧妙：使用 Tailscale 消除对传统面向公众的代理的需求并简化安全访问是一种巧妙的方法。]]></description>
+      <guid>https://t.me/hn_summary/106957</guid>
+      <pubDate>Wed, 04 Sep 2024 18:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 物理学家长期以来一直依赖于基本常数，例如光速和引力[...]</title>
+      <link>https://t.me/hn_summary/106956</link>
+      <description><![CDATA[第一台核钟将测试基本常数是否发生变化
+物理学家长期以来一直依赖基本常数（如光速和引力常数）来描述束缚宇宙的力。然而，弦理论和某些暗物质模型等理论表明，这些常数可能根本不是恒定的。为了验证这一点，科学家们一直在竞相建造第一台核钟，它可以通过观察钍-229 跃迁来检测这些常数的微小变化。最近的突破，包括欧洲核子研究中心一个团队的精确测量，大大缩小了寻找正确激光波长的范围。这导致了一系列发现，多个团队报告了成功的测量。钍核状态对基本常数的变化高度敏感，使其成为未来研究的一个有前途的工具。然而，要达到检测这些变化所需的精度仍然是一个挑战。正如哈德森恰如其分地说的那样，“我们称它们为常数，但为什么呢？当你放大并观察它时，一切都没有那么简单。”]]></description>
+      <guid>https://t.me/hn_summary/106956</guid>
+      <pubDate>Wed, 04 Sep 2024 18:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Ligo 的 AlphaFold3 开源实现旨在推进生物分子结构 [...]</title>
+      <link>https://t.me/hn_summary/106955</link>
+      <description><![CDATA[显示 HN：AlphaFold3 的开源实现
+Ligo 的 AlphaFold3 开源实现旨在通过开源方法推进生物分子结构预测。该项目提供完整的 AlphaFold3 模型和训练代码，最初支持单链蛋白质预测，计划包括配体、多聚体和核酸预测。它以 Google DeepMind 的 AlphaFold3 的基础工作为基础，并集成了 OpenFold 和 ProteinFlow 项目的组件。关键区别包括对速度和内存效率的优化，以及对 AlphaFold3 伪代码中发现的差异的更正。该项目尚处于早期阶段，正在寻求 beta 测试人员和社区贡献来完善和扩展其功能。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/106955</guid>
+      <pubDate>Wed, 04 Sep 2024 17:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《好奇的乔治与无意识文化的案例》中，作者讲述了一个人 [...]</title>
+      <link>https://t.me/hn_summary/106954</link>
+      <description><![CDATA[好奇的乔治和无意识文化案例
+在《好奇的乔治和无意识文化案例》中，作者讲述了儿子三岁生日派对上一次幽默而又令人不安的经历，派对主题是好奇的乔治。在准备派对礼物时，他们发现从亚马逊订购的好奇的乔治贴纸上印有不恰当且奇怪的图像，例如“双性恋好奇的乔治”和“突击步枪乔治”。这一事件成为更广泛评论现代文化中日益增加的“高度陌生化”的跳板，其中产品和服务往往似乎缺乏人类的监督和意识。作者认为，这种现象是向自动化和算法过程转变的征兆，导致世界感觉越来越陌生，与人类的情感脱节。该作品巧妙地将“好奇乔治”的纯真好奇心与无意识自动化系统驱动的文化所带来的令人不安的后果进行了对比。]]></description>
+      <guid>https://t.me/hn_summary/106954</guid>
+      <pubDate>Wed, 04 Sep 2024 17:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Michael Smolyansky 的论文“一个时代的终结：即将到来的企业长期放缓[...]</title>
+      <link>https://t.me/hn_summary/106953</link>
+      <description><![CDATA[企业利润增长和股票回报即将出现长期放缓 [pdf](https://news.ycombinator.com/item?id=41448139)
+Michael Smolyansky 的论文《一个时代的终结：企业利润增长和股票回报即将出现长期放缓》认为，1989 年至 2019 年股市的出色表现主要是由利率和企业税率下降推动的。这些因素占了企业利润实际增长的 40% 以上，以及这一时期市盈率 (P/E) 倍数的整个扩张。然而，Smolyansky 认为这种趋势是不可持续的，因为利率和税率不太可能进一步下降。因此，未来企业利润增长和股票回报率预计将大幅放缓，与 GDP 增长更加接近，预计每年增长 2% 左右。这一结论虽然引人注目，但基于最低限度的假设，对投资者和整体经济具有重大影响。（摘要基于 16% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/106953</guid>
+      <pubDate>Wed, 04 Sep 2024 17:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 路由哥特式字体</title>
+      <link>https://t.me/hn_summary/106952</link>
+      <description><![CDATA[Routed Gothic 字体
+Routed Gothic 字体
+
+Routed Gothic 是一款精心制作的字体，其灵感来自 20 世纪中期技术图纸、办公室标志、键盘、漫画书和航空电子设备中常见的字体样式。尽管它看起来丑陋，但这正是它的魅力所在。该字体是使用 Leroy Lettering 套件、用于描摹的 Inkscape 和 FontForge Python 脚本创建的。独特的功能包括倾斜 22.5° 的斜体字体和倾斜 11.25° 的半斜体字体，模仿复古的绘图技术。该字体涵盖 ASCII、ISO Latin 1 和 Unicode 的大部分通用标点符号块。 Routed Gothic 是根据 SIL Open Font License 1.1 发布的。其他实现和类似字体包括 National Park、Planscribe NF、Sublime、Gorton 和 Gorton Digital。此外，作者还提供 DSE Typewriter 和 DSE Typewriter Bitmap 字体，展现了对复古风格的热爱。]]></description>
+      <guid>https://t.me/hn_summary/106952</guid>
+      <pubDate>Wed, 04 Sep 2024 17:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是布雷特，欢迎来到 Dynamicland 网站。</title>
+      <link>https://t.me/hn_summary/106951</link>
+      <description><![CDATA[Dynamicland 2024
+我是 Bret，欢迎来到 Dynamicland 网站。Dynamicland 是一个非营利性研究实验室，致力于创建一种人性化的动态媒介，让人们能够使用集成到现实世界中的计算来共同探索想法。与传统计算不同，我们强调与材料的物理交互，利用空间和公共活动。我们的公共计算系统 Realtalk 完全由真实材料构建，可供所有人查看和修改。Dynamicland 培育了一个社区，来自不同领域的人们可以在这里协作，将计算整合到物理​​实验中。我们的目标是使计算民主化，使其成为一种在社区内学习和教授的实践，这对于 21 世纪的读写能力和民主至关重要。]]></description>
+      <guid>https://t.me/hn_summary/106951</guid>
+      <pubDate>Wed, 04 Sep 2024 17:21:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
