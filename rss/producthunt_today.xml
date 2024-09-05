@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 03:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 06:31:23 GMT</lastBuildDate>
     <item>
       <title>便笺簿</title>
       <link>https://www.producthunt.com/posts/scratchpad-3</link>
@@ -118,18 +118,18 @@ AI-First 客户体验平台
       <pubDate>Tue, 03 Sep 2024 09:02:42 GMT</pubDate>
     </item>
     <item>
-      <title>无预算公司</title>
-      <link>https://www.producthunt.com/posts/no-budget-co</link>
+      <title>AI 图像到图像生成器</title>
+      <link>https://www.producthunt.com/posts/ai-image-to-image-generator</link>
       <description><![CDATA[
-将初创公司和大公司联系起来开展试点项目
+一键将您的图像转换为 AI 艺术
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/no-budget-co</guid>
-      <pubDate>Tue, 03 Sep 2024 08:01:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ai-image-to-image-generator</guid>
+      <pubDate>Tue, 03 Sep 2024 04:11:11 GMT</pubDate>
     </item>
     <item>
       <title>由 CodiumAI 提供的 PR-Agent</title>
@@ -144,20 +144,6 @@ AI-First 客户体验平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/pr-agent-by-codiumai-2</guid>
       <pubDate>Sun, 01 Sep 2024 07:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>黏！</title>
-      <link>https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59</link>
-      <description><![CDATA[
-浏览器中的笔记
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59</guid>
-      <pubDate>Sat, 31 Aug 2024 07:09:56 GMT</pubDate>
     </item>
     <item>
       <title>普罗米</title>
@@ -214,6 +200,20 @@ AI-First 客户体验平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/videco</guid>
       <pubDate>Wed, 07 Aug 2024 07:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heron 数据：AutoSpread</title>
+      <link>https://www.producthunt.com/posts/heron-data-autospread</link>
+      <description><![CDATA[
+几分钟内即可标准化任何科目表
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/heron-data-autospread</guid>
+      <pubDate>Thu, 11 Jul 2024 22:13:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
