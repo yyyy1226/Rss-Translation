@@ -4,7 +4,7 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 01:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:25:14 GMT</lastBuildDate>
     <item>
       <title>[ 罕见 ] [ pog ] [ 这个子版块氛围不好 ] Rusty (PC98) - 我要摧毁你的思想！Boss BGM 1 由 Masahiro Kajihara、Kenichi Arakawa 和 Ryu Takami 创作 C-Lab NEC PC-9801 1993</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f9quue/rare_pog_this_sub_has_bad_vibes_rusty_pc98_ill/</link>
@@ -41,6 +41,13 @@
       <pubDate>Thu, 05 Sep 2024 00:43:00 GMT</pubDate>
     </item>
     <item>
+      <title>想知道是否有人尝试过将 Fpgbc 与 Arduinoboy 一起使用</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f97lya/wondering_if_anyone_tried_to_use_a_fpgbc_with_a/</link>
+      <description><![CDATA[      得到了一个Fpgbc 稍早前出现过 mGB 问题，连接到 arduinoboy 时似乎已连接，但按下 midi 键盘上的按键不会发出声音，或者按下相同的键时会发出随机声音 Midi 键盘是 Arturia Keystep Arduinoboy 来自 etsy 的 Hobbyshop 而 Fpgbc 的固件是 v1.08    提交人    /u/Yesbutwhyyy   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f97lya/wondering_if_anyone_tried_to_use_a_fpgbc_with_a/</guid>
+      <pubDate>Wed, 04 Sep 2024 23:14:33 GMT</pubDate>
+    </item>
+    <item>
       <title>洛克人 3 - 火花人封面 NES 2A03</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f8y7i7/mega_man_3_spark_man_cover_nes_2a03/</link>
       <description><![CDATA[        由    /u/Bahamut1988  提交  [链接] [评论] ]]></description>
@@ -60,6 +67,13 @@
       <description><![CDATA[        提交人    /u/taraexample   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f8pw2i/golden_horizon_c_8bit_music/</guid>
       <pubDate>Wed, 04 Sep 2024 10:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一首芯片音乐！Wildwood Flower</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f8pdvw/my_first_chiptune_wildwood_flower/</link>
+      <description><![CDATA[        提交人    /u/Used_Vermicelli_7022   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f8pdvw/my_first_chiptune_wildwood_flower/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:59:31 GMT</pubDate>
     </item>
     <item>
       <title>新单曲“CPU”现已推出 // “HARDWAREZ”将于 10 月 11 日发布</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[        由    /u/inkitz  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f7jym3/i_made_a_chiptune_version_of_the_clarence_intro/</guid>
       <pubDate>Mon, 02 Sep 2024 22:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fasttracker II 声音超级滞后且断断续续</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</link>
-      <description><![CDATA[      我在 Windows 98 中以 DOS 模式运行 FT2。它听起来像这样而且这么慢，这是为什么呢？我是否在配置中遗漏了什么？    提交人    /u/Sensitive_Pear_6432   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 SM64 Dire Dire Docks 歌曲与 Glitch Hop 和 Chiptunes 相结合。这是结果</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f7f1mi/combined_sm64_dire_dire_docks_song_with_glitch/</link>
-      <description><![CDATA[    /u/iamlufus 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f7f1mi/combined_sm64_dire_dire_docks_song_with_glitch/</guid>
-      <pubDate>Mon, 02 Sep 2024 19:07:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
