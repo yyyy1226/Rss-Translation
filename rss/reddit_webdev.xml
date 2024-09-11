@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 01:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 03:24:38 GMT</lastBuildDate>
+    <item>
+      <title>从前端开发人员转变为后端开发人员。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe00v7/transition_from_frontend_to_backend_developer/</link>
+      <description><![CDATA[你好！ 我想知道是否有人在职业生涯的后期经历了这样的转变。你曾经是一名资深前端，薪水丰厚，拥有多年的经验，然后决定从后端开始，可能会在一段时间内降低薪水…… 我知道有转变为全栈角色的情况，也许在你现在的公司内部……但我对完全转型很好奇，“好吧，就这样了，我不想再处理所有这些前端事情了，再见”哈哈。 值得吗？你的故事是什么？    提交人    /u/cauequeiroz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe00v7/transition_from_frontend_to_backend_developer/</guid>
+      <pubDate>Wed, 11 Sep 2024 02:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 firebase 和外部数据库进行身份验证来管理用户权限？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fdzzjm/how_manage_user_permission_using_firebase_for/</link>
+      <description><![CDATA[我正在使用 React、.NET、MySQL 和 firebase 创建一个博客应用程序，仅用于身份验证。我在前端创建帖子并将它们存储在我的数据库中。这工作正常。我正在研究编辑和删除功能，想知道如何继续。目前，当用户到达主页时，他们将看到所有帖子。如果用户有该权限（这是他们自己的帖子），我想在每个帖子卡片中显示删除/编辑按钮，但不确定如何。另一个选项是使帖子仅在主页上处于阅读模式，并在用户个人资料上显示用户特定的帖子（中等就是这样做的），他们可以在那里编辑或删除。//这是服务器在获取所有帖子时发送的内容。/p&gt; [{&quot;id&quot;: 1,//这是 SQL 表中的帖子 ID&quot;title&quot;:&quot;我的标题&quot;,&quot;description&quot;:&quot;说明&quot;,&quot;userId&quot;:&quot;aaa&quot;//我将删除它因为我不想暴露 UID},    提交人    /u/After-Perception-250   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fdzzjm/how_manage_user_permission_using_firebase_for/</guid>
+      <pubDate>Wed, 11 Sep 2024 02:49:49 GMT</pubDate>
+    </item>
     <item>
       <title>如果我的 API 所做的唯一一件事是调用一个 Lambda 函数（并且该 API 有严格的速率限制），那么在前端硬编码 API 密钥有什么缺点吗？我还能怎样执行 Lambda 函数？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fdyidp/if_the_only_thing_my_api_does_is_call_one_single/</link>
@@ -88,20 +102,6 @@
       <description><![CDATA[这是我们需要进行的关于近期的推测性讨论： 展望近期，密切关注人工智能编码助手和代码构建器（如 Replit 和 Cursor）及其发展轨迹。  从今天起 6 个月、一年和五年后，人类 Web 开发人员将从事什么工作？他们今天需要掌握哪些技能才能为下一步做好准备？    提交人    /u/mor10web   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdvew8/what_does_webdev_look_like_tomorrow_next_year_and/</guid>
       <pubDate>Tue, 10 Sep 2024 22:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池使用情况：DOM、Canvas 和 WebGL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</link>
-      <description><![CDATA[所以我有一个移动混音器应用程序，看起来像这样。不是很复杂，但有很多渐变。这是一个完全使用 SkiaSharp 呈现的原生 Android/iOS 应用程序。 我正在使用 Web 堆栈进行重建。我使用 HTML 和 CSS 制作了一个外观相同的版本的原型。然后我在分屏中运行了这两个版本（原生版本与在 Android 上的 Chrome 中运行的 HTML）一段时间，并比较了电池使用情况。 HTML 版本可能消耗三倍的电量。 因此，我的问题是针对任何有尝试最大限度降低电池性能经验的人：如果我使用 (1) 画布上的绘制操作或 (2) WebGL 重写这个精确的 UI，我可以改善电池使用情况吗？ 显然，真正的答案是“运行实验”，但使用不同的技术再构建两次 UI 将非常耗时，因此我希望有此类比较经验的人可以让我知道运行实验是否值得我花时间。    提交人    /u/SupportQuery   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>LGS 网站示例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdua20/lgs_website_examples/</link>
-      <description><![CDATA[您好，我想请大家帮忙整理一份小型独立游戏商店的网站列表。我正在帮助我当地的游戏商店 (LGS) 重新设计他们的网站，但我想对其他 LGS 进行一些尽职调查。 我很难找到这些，因为经常出现的是网上零售商、eBay 卖家等等。我要找的不是这些。如果您能提供您 LGS 的链接，我将不胜感激！    提交人    /u/Fushimino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdua20/lgs_website_examples/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:04:53 GMT</pubDate>
     </item>
     <item>
       <title>HTML <textarea>“pattern”属性的替代方案是什么</title>
