@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Sep 2024 12:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:24:57 GMT</lastBuildDate>
     <item>
       <title>复制代理</title>
       <link>https://www.producthunt.com/posts/replit-agent</link>
@@ -146,6 +146,20 @@ X 的收件箱和 CRM
       <pubDate>Sun, 08 Sep 2024 11:27:20 GMT</pubDate>
     </item>
     <item>
+      <title>CodeViz (YC S24)</title>
+      <link>https://www.producthunt.com/posts/codeviz-yc-s24</link>
+      <description><![CDATA[
+代码库的可视化地图和 GPS
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/codeviz-yc-s24</guid>
+      <pubDate>Sun, 08 Sep 2024 05:31:55 GMT</pubDate>
+    </item>
+    <item>
       <title>元金</title>
       <link>https://www.producthunt.com/posts/genkin</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@ X 的收件箱和 CRM
 ]]></description>
       <guid>https://www.producthunt.com/posts/command-ai</guid>
       <pubDate>Thu, 05 Sep 2024 18:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>精细的 AI 编码工作流程</title>
-      <link>https://www.producthunt.com/posts/fine-ai-coding-workflows</link>
-      <description><![CDATA[
-用于简化软件开发生命周期的 AI 工作流程
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fine-ai-coding-workflows</guid>
-      <pubDate>Sun, 01 Sep 2024 07:24:58 GMT</pubDate>
     </item>
     <item>
       <title>票据</title>
