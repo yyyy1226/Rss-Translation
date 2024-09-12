@@ -4,102 +4,116 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 09:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:11:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：www.thoughtworks.com</title>
-      <link>https://t.me/hn_summary/108069</link>
-      <description><![CDATA[如何驯服邪恶依赖关系
-标题：如何驯服邪恶依赖关系
-网站：www.thoughtworks.com
+      <title>[媒体] Guile 3.10 现在包含对 Wisp 的官方支持，Wisp 是一种括号可选语法，旨在 [...]</title>
+      <link>https://t.me/hn_summary/108081</link>
+      <description><![CDATA[Guile 3.10 现在附带对括号可选语法 (wisp) 的支持
+Guile 3.10 现在包括对 Wisp 的官方支持，这是一种括号可选语法，旨在使 Lisp 更易于理解，尤其是对于熟悉 Python 的人而言。Wisp 的可读性和简单性旨在弥合 Python 语法和 Lisp 功能之间的差距，使其成为一种出色的教学工具。用户发现它对于实际应用来说非常实用，而不仅仅是一种新奇事物。此次更新标志着将 Wisp 集成到 Guile 的十年努力的顶峰，尽管仍存在一些小的清理工作。要试用 Wisp，请安装 Guile 3.0.10 或更高版本并运行 guile --language=wisp -c &quot;display : : λ ♡ &#39;♡&quot;。如果它打印出一颗心，Wisp 就可以运行了。有关更多详细信息，请参阅常见问题解答并加入 libera.chat 上的 #guile 聊天。（基于 29% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/108081</guid>
+      <pubDate>Thu, 12 Sep 2024 12:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 纽约市警察 Mathew Bianchi 已从 [...] 处获得 175,000 美元的和解金。</title>
+      <link>https://t.me/hn_summary/108080</link>
+      <description><![CDATA[无视纽约警察局“礼遇卡”的警官获得 17.5 万美元和解
+纽约市警官 Mathew Bianchi 声称自己因不遵守纽约警察局的非官方“礼遇卡”而受到惩罚，他已从纽约市获得 17.5 万美元的和解金。这些卡片由警察工会分发给亲朋好友，用于避免交通罚单等轻微违规行为。Bianchi 的诉讼强调了这些卡片的滥用，他将其描述为一种腐败形式。尽管达成和解，但卡片系统并未做出任何改变。Bianchi 希望他的行为能激励其他警官成为举报人。警察局和工会因这些卡片而受到严格审查，这些卡片甚至出现在 eBay 上出售。]]></description>
+      <guid>https://t.me/hn_summary/108080</guid>
+      <pubDate>Thu, 12 Sep 2024 12:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 数学毁灭武器</title>
+      <link>https://t.me/hn_summary/108079</link>
+      <description><![CDATA[数学毁灭性武器
+《数学毁灭性武器》是 Cathy O&#39;Neil 于 2016 年出版的一本非虚构类书籍，深入探讨了算法和大数据对社会的影响。数学家 O&#39;Neil 认为，这些算法往往会加剧现有的不平等现象，尤其会伤害贫困和边缘化社区。她强调，这些数学工具不透明、不受监管且难以反驳，因此它们很危险，因为它们会扩大和放大偏见。这本书入围了 2016 年美国国家图书奖非虚构类图书奖，并获得了欧拉图书奖。评论家称赞其在解释复杂问题方面的清晰度，但一些人指出，与问题说明相比，解决方案部分较弱。书中关于算法可以延续种族主义和不平等的断言尤其引起争议。]]></description>
+      <guid>https://t.me/hn_summary/108079</guid>
+      <pubDate>Thu, 12 Sep 2024 12:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《关键资源和前 14 KB》一书中，作者对常见的 Web 性能提出了挑战 [...]</title>
+      <link>https://t.me/hn_summary/108078</link>
+      <description><![CDATA[关键资源和前 14 KB (2022)
+在《关键资源和前 14 KB》中，作者挑战了将所有关键资源放在网页前 14 KB 内的常见 Web 性能建议。此建议源于 TCP 的初始拥塞窗口，该窗口允许在需要确认之前发送 10 个数据包（约 14 KB）。然而，作者认为，对于涉及 HTTPS、HTTP/2 和大标头等复杂性的现代 Web 环境而言，此建议已经过时且过于简单。作者强调，虽然 Web 性能至关重要，但严格关注 14 KB 限制既不切实际也不有益。相反，优化关键资源的初始数据块仍然很重要，但不要只关注 14 KB 这个数字。
 
-在这篇富有洞察力的文章中，我们深入探讨了管理软件开发中存在问题的依赖关系的策略。我们探索了识别和减轻可能阻碍项目进展的“邪恶”依赖关系相关风险的技术。关键方法包括定期审核、使用依赖关系管理工具以及培养持续集成和测试的文化。本文强调了采取主动措施以确保依赖关系不会成为瓶颈的重要性。讨论的一个独特方面是利用开源库和保持对代码库的控制之间的平衡。为了获得最佳阅读体验，请确保浏览器中启用了 JavaScript。需要帮助？点击此处。]]></description>
-      <guid>https://t.me/hn_summary/108069</guid>
-      <pubDate>Thu, 12 Sep 2024 09:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 为什么选择 Haskell？</title>
-      <link>https://t.me/hn_summary/108068</link>
-      <description><![CDATA[为什么选择 Haskell？
-在这篇文章中，作者热情地捍卫 Haskell 是他们最喜欢的编程语言，不仅出于学术目的，还出于构建 Web 服务器等实际应用。尽管人们普遍认为 Haskell“不切实际”或“小众”，但作者认为 Haskell 的功能（例如其强类型系统和纯函数式编程）使其非常高效且有趣。他们强调了许多现代编程语言都采用了受 Haskell 启发的功能。本文深入探讨了 Haskell 类型系统的好处，它减少了错误和大量测试用例的需求，并解释了 Haskell 如何比其他语言更稳健地处理可空类型和失败的计算。作者也承认 Haskell 的函数式范式导致学习难度高，但他坚持认为这种重新学习的过程可以让人成为更好的程序员。
+争议点：作者对 14 KB 限制的相关性提出质疑，这是网络性能专家广泛接受的指导方针。
 
-争议亮点：作者挑战“选择无聊技术”的理念，认为这是一种有缺陷的方法，它摒弃了 Haskell 等数学倾向的编程语言。
+独特见解：作者对 TCP、HTTPS 和 HTTP/2 交互进行了详细分析，表明在实际场景中通常会超过初始 14 KB 的限制。（基于 79% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/108078</guid>
+      <pubDate>Thu, 12 Sep 2024 12:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 大众汽车集团首席执行官奥利弗·布鲁姆强调，迫切需要解决“成本 [...]</title>
+      <link>https://t.me/hn_summary/108077</link>
+      <description><![CDATA[关闭工厂不足以拯救大众
+大众汽车 (VW) 首席执行官奥利弗·布鲁姆 (Oliver Blume) 强调，迫切需要解决“成本、成本、成本”问题，以解决这家汽车巨头的长期问题。9 月 3 日，布鲁姆宣布了一种新颖的方法：大众首次考虑关闭德国工厂，以应对欧洲汽车制造商面临的“严峻形势”。然而，即使实施这一严厉措施，也不足以扭转大众销量下滑的局面，也不足以与大量涌入的中国平价电动汽车 (EV) 竞争。争议在于可能关闭德国工厂，这对该公司来说是一个重大举措。]]></description>
+      <guid>https://t.me/hn_summary/108077</guid>
+      <pubDate>Thu, 12 Sep 2024 12:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 由包括大学在内的机构领导的国际研究团队 [...]</title>
+      <link>https://t.me/hn_summary/108076</link>
+      <description><![CDATA[富人的个人碳足迹被大大低估
+由剑桥大学等机构领导的国际研究小组对来自丹麦、印度、尼日利亚和美国的 4,000 名个人进行了调查，以探索对个人碳足迹不平等的看法。研究显示，大多数参与者高估了最贫穷的 50% 人的碳足迹，低估了最富有的 10% 和 1% 人的碳足迹。有趣的是，较富裕的参与者更支持气候政策，这可能是由于他们受教育程度较高和经济能力较强。该研究强调了人们对碳足迹差异的认识存在巨大差距，并表明更多的理解可以推动更公平的气候解决方案。该研究发表在自然气候变化上，由比尔和梅琳达盖茨基金会等多家基金会资助。 
 
-独特/巧妙亮点：本文巧妙地使用了现实世界的类比和例子，例如晚宴对话，来说明对 Haskell 的常见误解，并论证其在编程中的实用性和乐趣。（基于 28% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/108068</guid>
-      <pubDate>Thu, 12 Sep 2024 08:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：您见过的最昂贵的现成软件是什么？</title>
-      <link>https://t.me/hn_summary/108067</link>
-      <description><![CDATA[问 HN：您见过的最昂贵的现成软件是什么？
-标题：问 HN：您见过的最昂贵的现成软件是什么？
-网站：news.ycombinator.com
+有争议：该研究表明，一些团体，尤其是化石燃料公司，可能将减少碳排放的责任从企业转移到个人身上，这是有问题的。
 
-我很好奇您遇到过的最昂贵的现成软件是什么。我怀疑它可能是一个鲜为人知的 B2B CAD 程序或 RDMS。虽然我理解定价模式各不相同（无论是按座位付费、按月付费还是一次性付款），但我相信我们仍然可以就这个话题进行有趣的讨论。]]></description>
-      <guid>https://t.me/hn_summary/108067</guid>
-      <pubDate>Thu, 12 Sep 2024 08:50:45 GMT</pubDate>
+独特：该研究强调了国家内部和国家之间碳足迹的巨大不平等，以及这种意识如何影响气候政策支持。]]></description>
+      <guid>https://t.me/hn_summary/108076</guid>
+      <pubDate>Thu, 12 Sep 2024 12:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 三星将强制用户创建三星账户才能访问 Galaxy Store [...]</title>
-      <link>https://t.me/hn_summary/108066</link>
-      <description><![CDATA[三星将强制要求用户创建帐户才能在 Galaxy 手机上获取更新
-三星将强制要求用户创建三星帐户才能在其 Galaxy 设备上访问 Galaxy Store。虽然从技术上讲，三星帐户对于使用 Galaxy 设备并不是必需的，但最新的 Galaxy Store 更新 (v6.6.13.10) 表明用户需要登录才能下载、更新甚至打开商店。此更改自 9 月 25 日起生效，还将影响以前不需要帐户的自动应用更新。虽然大多数应用都可以在 Google Play Store 上找到，但许多三星应用都依赖 Galaxy Store 进行更新，因此三星帐户变得越来越重要。此举是三星不断努力推动用户创建帐户的一部分，该策略包括 One UI 界面中的持续提示。 
+      <title>[媒体] 网站：news.sky.com</title>
+      <link>https://t.me/hn_summary/108075</link>
+      <description><![CDATA[现场观看 SpaceX 机组人员进行首次商业太空行走
+标题：现场观看 SpaceX 机组人员进行首次商业太空行走
+网站：news.sky.com
 
-争议：要求创建三星账户才能进行更新可能被视为一种强迫举措，可能会让那些不愿意注册其他账户的用户感到沮丧。
+在历史性的时刻，SpaceX 宇航员进行了首次商业太空行走，进入广阔的黑色开放空间。宁静而又令人敬畏的景色让一位宇航员用“华丽”来形容它。他又补充了一句反思的话：“回到家后，我们还有很多工作要做，但从这里看，世界似乎很完美。”这句话让人想起了标志性的太空名言，语气令人钦佩。在任务期间，艾萨克曼先生与任务控制中心进行了沟通，指出他的宇航服免提演示与教练员的演示相当，特别是在脚部约束方面。]]></description>
+      <guid>https://t.me/hn_summary/108075</guid>
+      <pubDate>Thu, 12 Sep 2024 11:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：matthewrocklin.com</title>
+      <link>https://t.me/hn_summary/108074</link>
+      <description><![CDATA[GitHub 教会我微观管理
+标题：GitHub 教会我微观管理
+网站：matthewrocklin.com
 
-独特/聪明：三星将账户提示集成到 One UI 界面以鼓励注册的策略是一种值得注意的策略。]]></description>
-      <guid>https://t.me/hn_summary/108066</guid>
-      <pubDate>Thu, 12 Sep 2024 08:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 微软将于下个月举办一次闭门安全峰会，届时将讨论关键的端点安全问题 [...]</title>
-      <link>https://t.me/hn_summary/108065</link>
-      <description><![CDATA[微软举办安全峰会，但不允许媒体和公众参加
-微软将于下个月在其雷德蒙德总部与 CrowdStrike 等主要终端安全合作伙伴举办闭门安全峰会。此次峰会不会进行直播或向媒体开放，旨在讨论如何为联合客户提高安全性和弹性。此前，CrowdStrike 引发了数百万台 Windows 机器的宕机。尽管微软声称要提高透明度，但将媒体和公众排除在外引发了质疑。值得注意的是，美国参议员罗恩·怀登 (Ron Wyden) 是微软安全做法的直言不讳的批评者，他没有受到邀请。批评者认为，微软的做法缺乏真正的透明度和问责制，尤其是考虑到其安全漏洞的历史以及对政府技术供应商的独立审计和最低网络安全标准的抵制。]]></description>
-      <guid>https://t.me/hn_summary/108065</guid>
-      <pubDate>Thu, 12 Sep 2024 08:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 一家心理健康初创公司的前雇员声称，她仅仅因为“喜欢”而被解雇[...]</title>
-      <link>https://t.me/hn_summary/108064</link>
-      <description><![CDATA[初创公司员工声称她因“点赞”一篇关于有毒工作场所的帖子而被解雇
-一家心理健康初创公司的前员工声称她仅仅因为“点赞”了一篇关于有毒工作场所的 LinkedIn 帖子而被解雇，这在 Reddit 上引发了一场关于企业虚伪的激烈辩论。这位匿名前员工将她的工作环境描述为充满敌意的，她的经理让她的生活苦不堪言，而她的首席执行官被她称为“披着羊皮的狼”。据报道，有毒文化严重损害了她的心理健康，经常让她流泪。在点赞了一篇批评有毒工作场所的 LinkedIn 帖子后，她因涉嫌传播错误信息而被首席执行官突然解雇。 Reddit 社区反应强烈，凸显了心理健康初创公司培育有害工作环境的讽刺意味。]]></description>
-      <guid>https://t.me/hn_summary/108064</guid>
-      <pubDate>Thu, 12 Sep 2024 08:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 演示文稿“DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升”[...]</title>
-      <link>https://t.me/hn_summary/108063</link>
-      <description><![CDATA[DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升（未编辑）[pdf](https://news.ycombinator.com/item?id=41475975)
-Enrique Nissim 和 Krzysztof Okupski 的演讲“DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升”探讨了 AMD 系统中的一个重大安全漏洞。作者深入研究了系统管理模式 (SMM)，这是 x86 架构中一种强大的执行模式，对操作系统和虚拟机管理程序不可见，使其成为利用的主要目标。他们讨论了技术背景，包括权限级别和 SMM 安全性，并详细介绍了漏洞的开发和演示。演讲重点介绍了 AMD 和 Intel 系统之间的差异，尤其是 AMD 系统中从环 0 开始的模型特定寄存器 (MSR) 的可访问性，这是一个独特的方面。作者还将他们的发现与 Intel 系统上的“内存漏洞”攻击进行了比较，指出 AMD 漏洞会影响整个 TSEG 区域，使其可能更加危险。演讲最后集思广益，提出攻击想法并分析 SMM 入口点，强调此漏洞的关键性。（基于 43% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/108063</guid>
-      <pubDate>Thu, 12 Sep 2024 08:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 这是我在几个小时内完成的一个小项目：一个静态网页和 [...]</title>
-      <link>https://t.me/hn_summary/108062</link>
-      <description><![CDATA[零依赖
-这是我在几个小时内完成的一个小项目：一个静态网页和一个可爱的徽章，用于您的 GitHub 项目，展示在 0dependencies.dev。您可以在我的开源项目（如 Topfew）上看到它。这个想法源于最近极客对软件中过多依赖的焦虑，Mike Perham 的“消除您的依赖”强调了这一点。依赖是 CVE 和技术债务的温床，它们阻碍了可预测的性能。虽然依赖通常是必要的，但有时我们应该努力实现零依赖。对于性能和安全性至关重要的低级库代码，目标是零依赖并获得此徽章：⓿ 依赖！遵循语言的标准库，并积极减少依赖。例如，我为 Quamina 编写了自己的 JSON 解析器。如果您实现了零依赖，请自豪地展示徽章，或者至少仔细检查每个依赖项的值。我不是在发起一场运动，只是分享徽章和博客文章。如果著名项目获得了徽章，也许我会创建一个零依赖名人堂。]]></description>
-      <guid>https://t.me/hn_summary/108062</guid>
-      <pubDate>Thu, 12 Sep 2024 08:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hetzner 针对其共享 vCPU 服务器计划 (CX、CPX、CAX) 推出了一项新政策，其中 C [...]</title>
-      <link>https://t.me/hn_summary/108061</link>
-      <description><![CDATA[如果您使用率超过 20%，Hetzner 现在会限制共享 CPU
-Hetzner 为其共享 vCPU 服务器计划 (CX、CPX、CAX) 引入了一项新政策，其中 CPU 使用率超过 20% (Intel)、30% (ARM) 和 33% (AMD) 的计划现在将受到限制。这些计划提供基准 CPU 性能，并能够使用 24 小时 CPU 信用预算暂时突破此水平。如果预算耗尽，CPU 性能将恢复到基准水平。此更改旨在保持低成本，同时为具有低到中等 CPU 要求的应用程序提供灵活的使用方式。专用 vCPU 计划 (CCX) 不受影响，为密集型应用程序提供持续的高性能。 
+反馈对于高质量工作和专业成长至关重要，但如果处理不当，也会破坏人际关系。本文探讨了我在开源 (OSS) 代码审查中使用反馈的经历，以及这些经验在企业环境中经常失败的原因。
 
-争议：对于需要更持续的高 CPU 使用率的用户来说，限制策略可能被视为限制，这可能会导致那些之前依赖没有此类限制的突发功能的用户感到不满。（基于 58% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/108061</guid>
-      <pubDate>Thu, 12 Sep 2024 07:50:53 GMT</pubDate>
+在 OSS 中，反馈具有变革性，只关注工作，无需经理或会议。该过程包括讨论问题、编码解决方案和详细的代码审查。良好的反馈不仅可以改进代码，还可以教育作者，培养工匠精神、志愿服务和相互尊重的文化。
+
+然而，这种方法在企业环境中并不适用。例如，来自 CEO 的详细反馈可能会被视为微观管理和士气低落。OSS 中的隐含信息是支持性的，而在企业环境中，它可能会让人感觉受到惩罚。这凸显了反馈传递中背景的重要性。
+
+在企业环境中，人们通常优先考虑完成工作而不是磨练自己的技艺，而且尊重并不总是理所当然的。这种差异要求对反馈采取更细致的方法，专注于每次互动的一条反馈，并将其包装在积极的背景下。
+
+令人惊讶的见解：这篇文章幽默地指出，如果企业环境每个人都非常关心会议促进和幻灯片设计，那么这种环境可能很快就会倒闭，但这是一个有趣的想法。
+
+争议点：OSS 反馈的支持性质与企业环境中对详细反馈的负面看法形成鲜明对比，这引发了人们对传统企业反馈机制有效性的质疑。]]></description>
+      <guid>https://t.me/hn_summary/108074</guid>
+      <pubDate>Thu, 12 Sep 2024 11:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 自 2016 年以来，外国干涉美国大选一直是一个重大问题，[...]</title>
-      <link>https://t.me/hn_summary/108060</link>
-      <description><![CDATA[众议院通过 16 亿美元法案，用于在海外进行反华宣传
-自 2016 年以来，外国干涉美国大选一直是一个重大问题，美国政府对此类活动采取了强有力的行动。然而，华盛顿似乎对自己在海外的宣传工作持不同立场。周一，众议院以 351 票对 36 票的两党多数通过了 HR 1157 法案，即“反击中国恶意影响基金”。该法案向国务院和美国国际开发署拨款超过 16 亿美元，用于在全球对抗中国的影响。这笔资金数额巨大，几乎是 CNN 年度运营预算的两倍，代表着美国国际影响力行动的显著增加。该法案不要求美国对外国媒体的资助透明化，引发了人们对秘密反华信息的担忧。这可能会导致虚伪，并可能损害真正反对中国影响的草根性力量的信誉。历史上的例子，例如美国资助俄罗斯民间社会团体，表明这种努力可能会适得其反。此外，美国资助的外国媒体可能会在不披露资金来源的情况下影响美国观众，从而使国内有关中国的辩论复杂化。两党对 HR 1157 的压倒性支持反映了华盛顿的一种文化，即忽视从事它在其他国家所批评的同样秘密活动的风险。]]></description>
-      <guid>https://t.me/hn_summary/108060</guid>
-      <pubDate>Thu, 12 Sep 2024 07:12:35 GMT</pubDate>
+      <title>[媒体] 新颖的架构使神经网络更易于理解</title>
+      <link>https://t.me/hn_summary/108073</link>
+      <description><![CDATA[新颖的架构使神经网络更易于理解
+新颖的架构使神经网络更易于理解
+
+Max Tegmark 和 Liu 对 Kolmogorov-Arnold 网络 (KAN) 的探索最初似乎是一条死路，但自 Poggio 于 1989 年发表论文以来，软件和硬件的进步激励他们坚持下去。Liu 开发了两层 KAN 原型，但表现不佳。Tegmark 建议增加更多层，从而取得重大突破。与两层版本不同，他们的三层 KAN 可以精确表示函数。对多达六层的进一步实验显示出更复杂的输出。KAN 在结理论和 Anderson 定位方面表现出色，通过提供可解释的结果超越了传统的 MLP。这种可解释性可能会彻底改变科学理解，尽管 KAN 可能仅限于解决变量较少的问题。尽管在其他领域取得了好坏参半的结果，刘的团队仍然专注于让 KAN 变得实用并培养好奇心驱动的科学。
+
+争议：其他研究小组（尤其是新加坡国立大学）的成果好坏参半，突出表明 KAN 在可解释性方面优于 MLP，但在计算机视觉和音频处理等任务上却并非如此。
+
+独特/巧妙：KAN 能够提供可解释的结果，提供易于理解的公式，这是与传统神经网络相比的显著优势。]]></description>
+      <guid>https://t.me/hn_summary/108073</guid>
+      <pubDate>Thu, 12 Sep 2024 11:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《法学硕士的本质》一书中，作者探讨了大型局域网的更深层次功能 [...]</title>
+      <link>https://t.me/hn_summary/108072</link>
+      <description><![CDATA[LLM 的本质
+在《LLM 的本质》一文中，作者探讨了大型语言模型 (LLM) 除了在对话和生成文本应用中的常见用途之外的更深层次的功能。该文章认为，虽然许多人将 LLM 视为仅仅是“随机鹦鹉”，但它们真正的奇迹在于其推理能力。通过利用内部表示，LLM 可以模拟类似人类的推理和规划，正如 Sebastian Bubeck 的“AGI 的火花”论文等研究所证明的那样。作者建议在代理工作流中使用 LLM 作为“智能乐高积木”，强调推理而不是知识。他们认为，未来在于小型推理模型，这种模型专注于以最少的知识进行推理。值得注意的是，关于法学硕士 (LLM) 内部表征的性质以及它们是否形成一个连贯的整体存在争议。]]></description>
+      <guid>https://t.me/hn_summary/108072</guid>
+      <pubDate>Thu, 12 Sep 2024 11:26:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
