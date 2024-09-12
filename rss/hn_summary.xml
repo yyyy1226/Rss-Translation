@@ -4,98 +4,102 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 09:03:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 1995 年，一位年轻的德国经济学家理查德·沃纳 (Richard Werner) 为日本的“一带一路”建设提出了一个新颖的解决方案。[...]</title>
-      <link>https://t.me/hn_summary/108036</link>
-      <description><![CDATA[量化宽松理论
-1995 年，年轻的德国经济学家理查德·沃纳在《日本经济新闻》上提出了解决日本经济衰退的新方法：“量化宽松”（QE）。日本二战后经济的快速增长最终导致了巨大的资产泡沫，该泡沫在 20 世纪 80 年代破裂，导致长期经济衰退。沃纳的想法是让央行创造新的信贷，这一概念此后被全球采用，产生了超过 30 万亿美元的新货币。从社交媒体到英国脱欧，这种量化宽松对现代经济和文化现象产生了重大影响。沃纳的见解源自他对日本金融业的研究，揭示了日本央行隐秘的“窗口指导”政策，该政策最初推动了经济增长，但后来导致了不可持续的资产泡沫。尽管量化宽松政策的初衷是好的，但它导致了经济不平等和政治两极分化，引发了人们对其长期可行性的质疑。（基于 49% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/108036</guid>
-      <pubDate>Thu, 12 Sep 2024 03:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 2024 年 4 月，Jina.ai 推出了 Jina Reader，这是一种将任何 URL 转换为标记的 API [...]</title>
-      <link>https://t.me/hn_summary/108035</link>
-      <description><![CDATA[Reader-LM：用于清理和将 HTML 转换为 Markdown 的小型语言模型
-2024 年 4 月，Jina.ai 推出了 Jina Reader，这是一种将任何 URL 转换为适合语言模型的 Markdown 的 API。该过程涉及使用无头 Chrome 浏览器获取网页，使用 Mozilla 的 Readability 包提取主要内容，并使用 Turndown 库的正则表达式将 HTML 转换为 Markdown。最初的反馈强调了内容质量和不正确过滤的问题，这些问题已通过补丁得到解决。为了改进，Jina.ai 尝试使用小型语言模型 (SLM) 来完成这项任务，最终发布了 reader-lm-0.5b 和 reader-lm-1.5b。这些模型经过训练可处理多达 256K 个标记，在效率和准确性方面优于大型模型。尽管它们体积小巧，但它们在标题提取和 markdown 语法使用等任务中表现出色。这些模型可在 Google Colab、Azure 和 AWS 等平台上使用，性能指标显示与大型 LLM 相比，其效果更佳。
+      <title>[媒体] 网站：www.thoughtworks.com</title>
+      <link>https://t.me/hn_summary/108069</link>
+      <description><![CDATA[如何驯服邪恶依赖关系
+标题：如何驯服邪恶依赖关系
+网站：www.thoughtworks.com
 
-有争议：对 Jina Reader 性能的初步反馈以及使用 SLM 而不是大型 LLM 的决定可能会被视为有争议的，因为对模型效率和有效性存在不同意见。
+在这篇富有洞察力的文章中，我们深入探讨了管理软件开发中存在问题的依赖关系的策略。我们探索了识别和减轻可能阻碍项目进展的“邪恶”依赖关系相关风险的技术。关键方法包括定期审核、使用依赖关系管理工具以及培养持续集成和测试的文化。本文强调了采取主动措施以确保依赖关系不会成为瓶颈的重要性。讨论的一个独特方面是利用开源库和保持对代码库的控制之间的平衡。为了获得最佳阅读体验，请确保浏览器中启用了 JavaScript。需要帮助？点击此处。]]></description>
+      <guid>https://t.me/hn_summary/108069</guid>
+      <pubDate>Thu, 12 Sep 2024 09:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 为什么选择 Haskell？</title>
+      <link>https://t.me/hn_summary/108068</link>
+      <description><![CDATA[为什么选择 Haskell？
+在这篇文章中，作者热情地捍卫 Haskell 是他们最喜欢的编程语言，不仅出于学术目的，还出于构建 Web 服务器等实际应用。尽管人们普遍认为 Haskell“不切实际”或“小众”，但作者认为 Haskell 的功能（例如其强类型系统和纯函数式编程）使其非常高效且有趣。他们强调了许多现代编程语言都采用了受 Haskell 启发的功能。本文深入探讨了 Haskell 类型系统的好处，它减少了错误和大量测试用例的需求，并解释了 Haskell 如何比其他语言更稳健地处理可空类型和失败的计算。作者也承认 Haskell 的函数式范式导致学习难度高，但他坚持认为这种重新学习的过程可以让人成为更好的程序员。
 
-独特/巧妙：使用浅而宽的 SLM 方法来平衡上下文长度和推理能力是解决 HTML 到 markdown 转换挑战的巧妙解决方案。（基于 71% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/108035</guid>
-      <pubDate>Thu, 12 Sep 2024 03:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在本文中，我们探讨如何使用 Argo 协调数百万台 NMAP 扫描 [...]</title>
-      <link>https://t.me/hn_summary/108034</link>
-      <description><![CDATA[使用 NMAP 和 Argo 扫描互联网
-在本文中，我们将探讨如何使用 Argo 协调数百万个 AWS IP 地址的 NMAP 扫描，这项任务对于漏洞赏金计划特别有用。Argo 的模板和工作流功能使其成为此类可重复任务的理想选择。我们首先创建一个 Argo 工作流模板，设置共享存储的卷声明，并限制并行性以管理资源使用情况。然后，我们使用脚本获取 AWS IP 范围并对这些 IP 运行 NMAP 扫描。这些步骤合并为一个主入口步骤来管理工作流。最后，我们将工作流提交给 Argo 并检索扫描结果。这种方法利用 Argo 的自动化来有效地处理大规模网络扫描任务。 
+争议亮点：作者挑战“选择无聊技术”的理念，认为这是一种有缺陷的方法，它摒弃了 Haskell 等数学倾向的编程语言。
 
-争议：使用特权容器并允许在 NMAP 步骤中提升权限可能会引发安全问题。
+独特/巧妙亮点：本文巧妙地使用了现实世界的类比和例子，例如晚宴对话，来说明对 Haskell 的常见误解，并论证其在编程中的实用性和乐趣。（基于 28% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/108068</guid>
+      <pubDate>Thu, 12 Sep 2024 08:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：您见过的最昂贵的现成软件是什么？</title>
+      <link>https://t.me/hn_summary/108067</link>
+      <description><![CDATA[问 HN：您见过的最昂贵的现成软件是什么？
+标题：问 HN：您见过的最昂贵的现成软件是什么？
+网站：news.ycombinator.com
 
-独特/巧妙的方面：巧妙地使用 Argo 的模板和工作流编排来自动化和扩展 NMAP 扫描过程尤其值得注意。]]></description>
-      <guid>https://t.me/hn_summary/108034</guid>
-      <pubDate>Thu, 12 Sep 2024 03:17:35 GMT</pubDate>
+我很好奇您遇到过的最昂贵的现成软件是什么。我怀疑它可能是一个鲜为人知的 B2B CAD 程序或 RDMS。虽然我理解定价模式各不相同（无论是按座位付费、按月付费还是一次性付款），但我相信我们仍然可以就这个话题进行有趣的讨论。]]></description>
+      <guid>https://t.me/hn_summary/108067</guid>
+      <pubDate>Thu, 12 Sep 2024 08:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作者幽默地详细描述了他们建立自托管网站的历程[...]</title>
-      <link>https://t.me/hn_summary/108033</link>
-      <description><![CDATA[[部署基本 React 站点 pt 1 设置自托管 Kubernetes 集群](https://news.ycombinator.com/item?id=41483617)
+      <title>[媒体] 三星将强制用户创建三星账户才能访问 Galaxy Store [...]</title>
+      <link>https://t.me/hn_summary/108066</link>
+      <description><![CDATA[三星将强制要求用户创建帐户才能在 Galaxy 手机上获取更新
+三星将强制要求用户创建三星帐户才能在其 Galaxy 设备上访问 Galaxy Store。虽然从技术上讲，三星帐户对于使用 Galaxy 设备并不是必需的，但最新的 Galaxy Store 更新 (v6.6.13.10) 表明用户需要登录才能下载、更新甚至打开商店。此更改自 9 月 25 日起生效，还将影响以前不需要帐户的自动应用更新。虽然大多数应用都可以在 Google Play Store 上找到，但许多三星应用都依赖 Galaxy Store 进行更新，因此三星帐户变得越来越重要。此举是三星不断努力推动用户创建帐户的一部分，该策略包括 One UI 界面中的持续提示。 
 
-在本文中，作者幽默地详细介绍了他们在家庭服务器上设置自托管 Kubernetes 集群以部署基本 React 站点的历程。尽管作者承认一个简单的电子表格可以解决他们在朋友之间分割收据的问题，但在软件工程本能的驱使下，作者选择了一种过度设计的解决方案。他们购买了翻新的 HP Z2 Mini G3 工作站，设置了 Ubuntu Server，配置了端口转发，并使用 No-IP 建立了 DDNS。他们使用 Cloudflare 保护他们的设置，配置 HTTPS，并使用 UFW 设置防火墙。然后，作者安装了轻量级 Kubernetes 发行版 K3s，并使用 HashiCorp 的 http-echo 服务部署了一个示例“Hello, World!”应用程序。文章中充满了幽默和巧妙的评论，使技术内容引人入胜且易于理解。作者用复杂的设置解决简单问题的方法既令人惊讶又独特。]]></description>
-      <guid>https://t.me/hn_summary/108033</guid>
-      <pubDate>Thu, 12 Sep 2024 03:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 索尼正在投资数十亿美元打造原创内容，重点强调[...]</title>
-      <link>https://t.me/hn_summary/108032</link>
-      <description><![CDATA[索尼利用人工智能解决动画成本上升和动画师短缺问题
-索尼正投资数十亿美元创作原创内容，重点关注动画，尤其是动漫。这一战略转变被称为“创作转变”，旨在解决索尼缺乏早期知识产权 (IP) 开发的问题。尽管索尼起源于消费电子产品，但现在其 60% 的收入来自游戏、电影和音乐。通过 Crunchyroll，索尼每年发行约 200 部动漫作品，并计划进一步扩展。然而，制作成本上升和动画师短缺带来了挑战。为了解决这些问题，索尼正在探索联合制作、培训计划和利用人工智能技术。该公司正在开发 AnimeCanvas 软件以提高生产效率和质量。此外，索尼正在考虑成立一所学院，培养全球动漫创作者。尽管预算不断增加，但动漫行业仍面临动画师工作过度和薪酬过低的问题，这引起了争议。]]></description>
-      <guid>https://t.me/hn_summary/108032</guid>
-      <pubDate>Thu, 12 Sep 2024 02:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 现年 71 岁的亚历山大·玉清·马 (Alexander Yuk Ching Ma)，来自檀香山，曾任中央情报局 (CIA) 官员，已被判处 [...]</title>
-      <link>https://t.me/hn_summary/108031</link>
-      <description><![CDATA[前中情局官员因代表中国进行间谍活动被判处 10 年监禁
-来自檀香山的 71 岁前中情局官员亚历山大·玉清·马 (Alexander Yuk Ching Ma) 因密谋向中国提供国防信息而被判处 10 年监禁。马先生于 1982 年至 1989 年为中情局工作，他于 2020 年 8 月向一名卧底联邦调查局特工承认他曾与中国情报人员分享机密信息后被捕。间谍活动始于 2001 年，当时马先生和他已故的亲戚（也是前中情局官员）在香港会见了中国特工。马先生后来担任联邦调查局的合同语言学家，联邦调查局利用这一职位监视他的活动。此案凸显了对国家安全的严重侵犯，马云同意终身与美国当局合作。争议在于前情报人员严重背叛了信任和国家安全。]]></description>
-      <guid>https://t.me/hn_summary/108031</guid>
-      <pubDate>Thu, 12 Sep 2024 02:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 去年，当我从纽约州北部搬到明尼阿波利斯时，我对这座城市感到困惑[...]</title>
-      <link>https://t.me/hn_summary/108030</link>
-      <description><![CDATA[明尼阿波利斯街道网格：详解
-去年我从纽约州北部搬到明尼阿波利斯时，我对这座城市的街道和大道布局感到困惑。为什么我家附近的街道有东南（SE）后缀，但在苏厄德和惠蒂尔等地区却改为南（S）？经过一年的探索，我对这个复杂的网格有了一些了解。密西西比河将东（E）街道与非东街道分开，亨内平大道进一步将东北与东南、北与南分开。在 I-94 以西，分界线不太明显，涉及范怀特纪念大道和巴塞特溪。街道通常从密西西比河开始编号，不同街区的街道图案各有不同。大道通常从亨内平大道开始编号，其复杂性也类似。有些大道没有方向后缀，这增加了混乱。尽管我有发现，但问题仍然存在，例如为什么富兰克林大道在南明尼阿波利斯东西走向。如果您有见解，请联系我们！]]></description>
-      <guid>https://t.me/hn_summary/108030</guid>
-      <pubDate>Thu, 12 Sep 2024 02:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：flowingdata.com</title>
-      <link>https://t.me/hn_summary/108029</link>
-      <description><![CDATA[农作物生长的地方
-标题：农作物生长的地方
-网站：flowingdata.com
+争议：要求创建三星账户才能进行更新可能被视为一种强迫举措，可能会让那些不愿意注册其他账户的用户感到沮丧。
 
-由于天气和土地供应的差异，美国农田的地理分布差异很大。谷物，特别是玉米和小麦，在中西部占主导地位，玉米也蔓延到东部、西部和南部。苜蓿和其他干草相关植物遍布全国，而棉花和油菜等作物则更具区域特异性。水果、蔬菜、坚果和豆类表现出更大的区域特异性，主要受天气影响。值得注意的是，大豆种植面积广泛，这促使人们建议美国应该多吃豆腐。截至 2022 年，一些农田仍未使用。数据来自美国农业部并使用 R 进行分析，基于空间分辨率为 30 米的卫星图像。虽然并不完美，但它提供了广泛的概述，尽管地图中排除了低密度作物。]]></description>
-      <guid>https://t.me/hn_summary/108029</guid>
-      <pubDate>Thu, 12 Sep 2024 01:55:52 GMT</pubDate>
+独特/聪明：三星将账户提示集成到 One UI 界面以鼓励注册的策略是一种值得注意的策略。]]></description>
+      <guid>https://t.me/hn_summary/108066</guid>
+      <pubDate>Thu, 12 Sep 2024 08:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>我们很高兴推出 EnkiTask.com，一个简单且经济实惠的项目管理系统 [...]</title>
-      <link>https://t.me/hn_summary/108028</link>
-      <description><![CDATA[Show HN：自由职业者复杂项目管理的简单替代方案
-我们很高兴推出EnkiTask.com，这是一款简单且经济实惠的项目管理工具，旨在作为 Trello、Asana 和 Jira 等复杂平台的更简单替代方案。在发现现有工具功能过多或过于繁琐，并且由于经常性费用而价格昂贵之后，我们创建了 EnkiTask，它简洁、易于使用且定价灵活。用户可以根据需要购买任务包，而无需订阅，这使其成为动态团队的理想选择。最初是为我们自己使用而构建的，朋友和家人的积极反馈鼓励我们公开分享它。我们不断通过附加组件增强它，同时保持核心功能简单。请访问 EnkiTask.com 查看。]]></description>
-      <guid>https://t.me/hn_summary/108028</guid>
-      <pubDate>Thu, 12 Sep 2024 01:36:40 GMT</pubDate>
+      <title>[媒体] 微软将于下个月举办一次闭门安全峰会，届时将讨论关键的端点安全问题 [...]</title>
+      <link>https://t.me/hn_summary/108065</link>
+      <description><![CDATA[微软举办安全峰会，但不允许媒体和公众参加
+微软将于下个月在其雷德蒙德总部与 CrowdStrike 等主要终端安全合作伙伴举办闭门安全峰会。此次峰会不会进行直播或向媒体开放，旨在讨论如何为联合客户提高安全性和弹性。此前，CrowdStrike 引发了数百万台 Windows 机器的宕机。尽管微软声称要提高透明度，但将媒体和公众排除在外引发了质疑。值得注意的是，美国参议员罗恩·怀登 (Ron Wyden) 是微软安全做法的直言不讳的批评者，他没有受到邀请。批评者认为，微软的做法缺乏真正的透明度和问责制，尤其是考虑到其安全漏洞的历史以及对政府技术供应商的独立审计和最低网络安全标准的抵制。]]></description>
+      <guid>https://t.me/hn_summary/108065</guid>
+      <pubDate>Thu, 12 Sep 2024 08:23:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“做恒温器，而不是温度计”一文中，Lara Hogan 强调了管理的重要性 [...]</title>
-      <link>https://t.me/hn_summary/108027</link>
-      <description><![CDATA[做个恒温器，而不是温度计
-在《做个恒温器，而不是温度计》一书中，Lara Hogan 强调了管理工作场所情绪动态的重要性。她解释说，人类自然会模仿彼此的情绪和行为，通常是无意识的，这可能会导致误解和负面情绪的传播。Hogan 建议读者像恒温器一样，积极地营造积极的氛围，而不是像温度计一样被动地反映他人的情绪。她提供了一些实用技巧，包括识别行为变化、使用平静的肢体语言和语调以及在紧张时刻提供休息时间。这种积极主动的方法可以帮助创造一个更健康、更支持的工作环境。值得注意的是，霍根的建议以神经科学为基础，特别是“杏仁核劫持”的概念，这使得她的见解既实用又有科学依据。]]></description>
-      <guid>https://t.me/hn_summary/108027</guid>
-      <pubDate>Thu, 12 Sep 2024 01:35:36 GMT</pubDate>
+      <title>[媒体] 一家心理健康初创公司的前雇员声称，她仅仅因为“喜欢”而被解雇[...]</title>
+      <link>https://t.me/hn_summary/108064</link>
+      <description><![CDATA[初创公司员工声称她因“点赞”一篇关于有毒工作场所的帖子而被解雇
+一家心理健康初创公司的前员工声称她仅仅因为“点赞”了一篇关于有毒工作场所的 LinkedIn 帖子而被解雇，这在 Reddit 上引发了一场关于企业虚伪的激烈辩论。这位匿名前员工将她的工作环境描述为充满敌意的，她的经理让她的生活苦不堪言，而她的首席执行官被她称为“披着羊皮的狼”。据报道，有毒文化严重损害了她的心理健康，经常让她流泪。在点赞了一篇批评有毒工作场所的 LinkedIn 帖子后，她因涉嫌传播错误信息而被首席执行官突然解雇。 Reddit 社区反应强烈，凸显了心理健康初创公司培育有害工作环境的讽刺意味。]]></description>
+      <guid>https://t.me/hn_summary/108064</guid>
+      <pubDate>Thu, 12 Sep 2024 08:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 演示文稿“DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升”[...]</title>
+      <link>https://t.me/hn_summary/108063</link>
+      <description><![CDATA[DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升（未编辑）[pdf](https://news.ycombinator.com/item?id=41475975)
+Enrique Nissim 和 Krzysztof Okupski 的演讲“DEF Con 32 – AMD Sinkclose 通用 Ring-2 权限提升”探讨了 AMD 系统中的一个重大安全漏洞。作者深入研究了系统管理模式 (SMM)，这是 x86 架构中一种强大的执行模式，对操作系统和虚拟机管理程序不可见，使其成为利用的主要目标。他们讨论了技术背景，包括权限级别和 SMM 安全性，并详细介绍了漏洞的开发和演示。演讲重点介绍了 AMD 和 Intel 系统之间的差异，尤其是 AMD 系统中从环 0 开始的模型特定寄存器 (MSR) 的可访问性，这是一个独特的方面。作者还将他们的发现与 Intel 系统上的“内存漏洞”攻击进行了比较，指出 AMD 漏洞会影响整个 TSEG 区域，使其可能更加危险。演讲最后集思广益，提出攻击想法并分析 SMM 入口点，强调此漏洞的关键性。（基于 43% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/108063</guid>
+      <pubDate>Thu, 12 Sep 2024 08:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 这是我在几个小时内完成的一个小项目：一个静态网页和 [...]</title>
+      <link>https://t.me/hn_summary/108062</link>
+      <description><![CDATA[零依赖
+这是我在几个小时内完成的一个小项目：一个静态网页和一个可爱的徽章，用于您的 GitHub 项目，展示在 0dependencies.dev。您可以在我的开源项目（如 Topfew）上看到它。这个想法源于最近极客对软件中过多依赖的焦虑，Mike Perham 的“消除您的依赖”强调了这一点。依赖是 CVE 和技术债务的温床，它们阻碍了可预测的性能。虽然依赖通常是必要的，但有时我们应该努力实现零依赖。对于性能和安全性至关重要的低级库代码，目标是零依赖并获得此徽章：⓿ 依赖！遵循语言的标准库，并积极减少依赖。例如，我为 Quamina 编写了自己的 JSON 解析器。如果您实现了零依赖，请自豪地展示徽章，或者至少仔细检查每个依赖项的值。我不是在发起一场运动，只是分享徽章和博客文章。如果著名项目获得了徽章，也许我会创建一个零依赖名人堂。]]></description>
+      <guid>https://t.me/hn_summary/108062</guid>
+      <pubDate>Thu, 12 Sep 2024 08:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hetzner 针对其共享 vCPU 服务器计划 (CX、CPX、CAX) 推出了一项新政策，其中 C [...]</title>
+      <link>https://t.me/hn_summary/108061</link>
+      <description><![CDATA[如果您使用率超过 20%，Hetzner 现在会限制共享 CPU
+Hetzner 为其共享 vCPU 服务器计划 (CX、CPX、CAX) 引入了一项新政策，其中 CPU 使用率超过 20% (Intel)、30% (ARM) 和 33% (AMD) 的计划现在将受到限制。这些计划提供基准 CPU 性能，并能够使用 24 小时 CPU 信用预算暂时突破此水平。如果预算耗尽，CPU 性能将恢复到基准水平。此更改旨在保持低成本，同时为具有低到中等 CPU 要求的应用程序提供灵活的使用方式。专用 vCPU 计划 (CCX) 不受影响，为密集型应用程序提供持续的高性能。 
+
+争议：对于需要更持续的高 CPU 使用率的用户来说，限制策略可能被视为限制，这可能会导致那些之前依赖没有此类限制的突发功能的用户感到不满。（基于 58% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/108061</guid>
+      <pubDate>Thu, 12 Sep 2024 07:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 自 2016 年以来，外国干涉美国大选一直是一个重大问题，[...]</title>
+      <link>https://t.me/hn_summary/108060</link>
+      <description><![CDATA[众议院通过 16 亿美元法案，用于在海外进行反华宣传
+自 2016 年以来，外国干涉美国大选一直是一个重大问题，美国政府对此类活动采取了强有力的行动。然而，华盛顿似乎对自己在海外的宣传工作持不同立场。周一，众议院以 351 票对 36 票的两党多数通过了 HR 1157 法案，即“反击中国恶意影响基金”。该法案向国务院和美国国际开发署拨款超过 16 亿美元，用于在全球对抗中国的影响。这笔资金数额巨大，几乎是 CNN 年度运营预算的两倍，代表着美国国际影响力行动的显著增加。该法案不要求美国对外国媒体的资助透明化，引发了人们对秘密反华信息的担忧。这可能会导致虚伪，并可能损害真正反对中国影响的草根性力量的信誉。历史上的例子，例如美国资助俄罗斯民间社会团体，表明这种努力可能会适得其反。此外，美国资助的外国媒体可能会在不披露资金来源的情况下影响美国观众，从而使国内有关中国的辩论复杂化。两党对 HR 1157 的压倒性支持反映了华盛顿的一种文化，即忽视从事它在其他国家所批评的同样秘密活动的风险。]]></description>
+      <guid>https://t.me/hn_summary/108060</guid>
+      <pubDate>Thu, 12 Sep 2024 07:12:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
