@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 01:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 03:24:40 GMT</lastBuildDate>
+    <item>
+      <title>无头 Wordpress 有市场吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1feso3n/is_there_a_market_for_headless_wordpress/</link>
+      <description><![CDATA[我说的是完全 SEO 优化的 next.js 主题，它可以非常快速地将客户当前的 wordpress 内容拉入并在 SSG 中使用它。甚至可以允许 Woocommerce 集成和其他东西。 我知道这将是一项艰巨的工作。有市场吗？    提交人    /u/defuzeqt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1feso3n/is_there_a_market_for_headless_wordpress/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护虚拟机中的本地主机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ferwp5/securing_a_local_host_in_a_vm/</link>
+      <description><![CDATA[不确定这里是否是发布此内容的正确位置，但我有点绝望。我目前正在为一个需要我们使用 CentOS 的 Linux 课程做作业。作业要求我使用某些程序保护我们设置的网页，但是，在安装 fail2ban 时，我每次都收到相同的错误消息。  错误： 问题：已安装软件包 selinux-policy-targeted-3.14.3-80.el8_5.2.noarch 存在问题  软件包 fail2ban-server-1.0.2-3.el8.noarch 需要（如果 selinux-policy-targeted，则需要 fail2ban-selinux），但无法安装任何提供程序 软件包 fail2ban-1.0.2-3.el8.noarch 需要 fail2ban-server = 1.0.2-3.el8，但无法安装任何提供程序 请求冲突 没有提供 fail2ban-selinux-1.0.2-3.el8.noarch 所需的 selinux-policy &gt;= 3.14.3-108.el8_7.1 没有提供 fail2ban-selinux-1.0.2-3.el8.noarch 所需的 selinux-policy-base &gt;= 3.14.3-108.el8_7.1  （尝试添加“--skip-broken”以跳过可卸载的软件包或“--nobest”以不仅使用最佳候选软件包） 我尝试了提供的解决方案，但无济于事。以及清除缓存、检查存储库问题或 chat-GPT 能给我的任何其他解决方案。我遇到了一点障碍，我希望得到一些额外的帮助来解决这个问题，因为我正在等待教授的（可能的）回复。谢谢大家     提交人    /u/HispanicFrijoles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ferwp5/securing_a_local_host_in_a_vm/</guid>
+      <pubDate>Thu, 12 Sep 2024 02:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>关于旧网站设计的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1feqfrc/questions_about_old_website_design/</link>
-      <description><![CDATA[嗨——我知道这个问题听起来很无趣，但我对编码或网页设计不是很精通。 我浏览过 (https://www.wiby.me)，这是一个搜索引擎，可以显示“经典”网站（较旧的博客和档案等）。 其中很多网站仍在积极更新并用作博客。我想制作一些类似的东西，我想知道这些网站是如何制作的/它们托管在哪里？它们中的很多都没有主机名，只是简单的“blogname.net/com/org”。我知道它们不是 geocities 或 live journal，因为大多数博客都无法再访问，而这些博客功能齐全（尽管是基本的 HTML 设计 - 这很好）。 知道如何制作其中一个吗？    提交人    /u/sorrynotsorry11   [link] [comments]]]></description>
+      <description><![CDATA[嗨——我知道这个问题听起来很无趣，但我对编码或网页设计不是很精通。 我浏览过 (https://www.wiby.me)，这是一个显示“经典”网站（较旧的博客和档案等）的搜索引擎。 其中很多网站仍在积极更新并用作博客。我想制作一些类似的东西，我想知道这些网站是如何制作的/它们托管在哪里？它们中的很多都没有主机名，只是简单的“blogname.net/com/org”。我知道它们不是 geocities 或 live journal，因为大多数这些博客都无法再访问，而这些博客功能齐全（尽管是基本的 HTML 设计 - 这很好）。 知道如何制作其中一个吗？    提交人    /u/sorrynotsorry11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1feqfrc/questions_about_old_website_design/</guid>
       <pubDate>Thu, 12 Sep 2024 01:09:29 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>移动设备上的方形按钮缩放</title>
       <link>https://www.reddit.com/r/webdev/comments/1feocqv/square_buttons_scaling_on_mobile_device/</link>
-      <description><![CDATA[      我正在使用 HTML、CSS 和 JS 开发一个网站。一切都很顺利，直到我在移动设备上打开网站时，按钮似乎毫无理由地水平缩放。这些按钮设计为正方形，在 PC 上的浏览​​器中以及在 PC 上测试其他移动宽高比时，它们都显示为正方形。但是，当我在移动设备上打开它时，它们会拉伸。 我尝试过制作不带文本的框、带文本的框、div 内框、div 外框、单独制作框等，但它们在移动设备上始终水平缩放。 我在 Google 上搜索了这个问题，并多次询问 chatgpt，但无济于事。 这是我的基本设置： https://preview.redd.it/anpr780sk9od1.png?width=340&amp;format=png&amp;auto=webp&amp;s=aa30fe2ad9fef11006e6014d26721378717ef4ed https://preview.redd.it/gld1xzntk9od1.png?width=252&amp;format=png&amp;auto=webp&amp;s=61648e1a7efcfd863600cb75617975e57aef66fe https://preview.redd.it/mwk946qvk9od1.png?width=127&amp;format=png&amp;auto=webp&amp;s=2097f31723b0d63693e62fa8a8cb1524ce766150 https://preview.redd.it/5ycyu953l9od1.png?width=86&amp;format=png&amp;auto=webp&amp;s=cd1e2b171440ec24977979cffe24c7037209d033 如果需要更多信息，请告诉我，但这就是我所知道的全部内容。我一直在剥离越来越多的样式，并尽我所能隔离这个问题。这是为客户准备的，所以我可以分享的信息量有限。 编辑：以下是有关字体大小如何随屏幕尺寸缩放的更多背景信息： https://preview.redd.it/rhie2liem9od1.png?width=540&amp;format=png&amp;auto=webp&amp;s=86506d2eda601b98e5b511c4c7a14374ea576a96   由    /u/HireMeReddy  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      我正在使用 HTML、CSS 和 JS 开发一个网站。一切都很顺利，直到我在移动设备上打开网站，按钮似乎毫无理由地水平缩放。这些按钮设计为正方形，在 PC 上的浏览​​器中以及在 PC 上测试其他移动宽高比时，它们都显示为正方形。但是，当我在移动设备上打开它时，它们会拉伸。 我尝试过制作不带文本的框、带文本的框、div 内框、div 外框、单独制作框等，但它们在移动设备上始终水平缩放。 我在 Google 上搜索了这个问题，并多次询问 chatgpt，但无济于事。 这是我的基本设置： https://preview.redd.it/anpr780sk9od1.png?width=340&amp;format=png&amp;auto=webp&amp;s=aa30fe2ad9fef11006e6014d26721378717ef4ed https://preview.redd.it/gld1xzntk9od1.png?width=252&amp;format=png&amp;auto=webp&amp;s=61648e1a7efcfd863600cb75617975e57aef66fe https://preview.redd.it/mwk946qvk9od1.png?width=127&amp;format=png&amp;auto=webp&amp;s=2097f31723b0d63693e62fa8a8cb1524ce766150 https://preview.redd.it/5ycyu953l9od1.png?width=86&amp;format=png&amp;auto=webp&amp;s=cd1e2b171440ec24977979cffe24c7037209d033 如果需要更多信息，请告诉我，但这就是我所知道的全部内容。我一直在剥离越来越多的样式，并尽我所能隔离这个问题。这是为客户准备的，所以我可以分享的信息量有限。 编辑：以下是有关字体大小如何随屏幕尺寸缩放的更多背景信息： https://preview.redd.it/rhie2liem9od1.png?width=540&amp;format=png&amp;auto=webp&amp;s=86506d2eda601b98e5b511c4c7a14374ea576a96   由    /u/HireMeReddy  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1feocqv/square_buttons_scaling_on_mobile_device/</guid>
       <pubDate>Wed, 11 Sep 2024 23:27:58 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>攻读网络应用程序本地化博士学位时我应该了解哪些标准、工具和挑战？</title>
       <link>https://www.reddit.com/r/webdev/comments/1felvkc/doing_a_phd_on_web_app_localization_what/</link>
-      <description><![CDATA[大家好， 我目前正在攻读博士学位，研究方向是从软件工程的角度进行 Web 应用程序本地化。我渴望了解更多有关行业标准、主要应用程序使用的本地化策略以及该领域最常用的工具的信息。我也有兴趣了解本地化过程中面临的典型挑战。 如果您有本地化经验，我很乐意听听您对以下问题的见解： 哪些工具或平台最广泛用于 Web 应用程序本地化？该领域的最佳实践或行业标准是什么？开发人员和本地化团队通常面临哪些挑战？大型应用程序如何管理其本地化工作流程？ 任何指导或资源都将不胜感激！提前感谢您的帮助。    提交人    /u/elmoptimistic   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前正在攻读博士学位，研究方向是从软件工程的角度进行 Web 应用程序本地化。我渴望了解更多有关行业标准、主要应用程序使用的本地化策略以及该领域最常用的工具的信息。我还想了解本地化过程中面临的典型挑战。 如果您有本地化经验，我很乐意听听您对以下问题的见解： 哪些工具或平台最广泛用于 Web 应用程序本地化？该领域的最佳实践或行业标准是什么？开发人员和本地化团队通常面临哪些挑战？大型应用程序如何管理其本地化工作流程？ 任何指导或资源都将不胜感激！提前感谢您的帮助。    提交人    /u/elmoptimistic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1felvkc/doing_a_phd_on_web_app_localization_what/</guid>
       <pubDate>Wed, 11 Sep 2024 21:36:35 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我对 webdev 一无所知，但我认为这是最好的提问 subreddit 有一个浏览器游戏 https://openguessr.com/，我想检查其中的 fps，我尝试使用帧渲染统计选项，但它检查的是屏幕角落地图的 fps，而不是我想要的。有没有办法用这个工具检查页面另一部分的 fps？或者有其他工具可以实现这样的功能？    提交人    /u/Nickademas207   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fek8e4/how_to_check_fps_of_a_specific_part_of_a_website/</guid>
       <pubDate>Wed, 11 Sep 2024 20:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fejr2z/create_a_website/</link>
-      <description><![CDATA[我对 Python 相当了解，并且用 Python 创建了一个程序，该程序可以生成包含某些财务信息的图表。该程序从多个来源获取数据，我需要至少每 15 分钟运行一次，最好更频繁。 我如何以经济有效的方式托管该程序并将程序中的图表粘贴到 weebly 或任何其他类似拖放服务中内置的网站上？    提交人    /u/HuckleberryOk3057   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fejr2z/create_a_website/</guid>
-      <pubDate>Wed, 11 Sep 2024 20:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 ChatGPT、Claude、Cursor 和 Copilot 之外，您在日常 webdev 任务中还使用哪些 AI 工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fej71v/what_ai_tools_are_you_using_during_your_daily/</link>
-      <description><![CDATA[我觉得除了这些主流工具之外，一定还有一些隐藏的宝石。 您还在使用哪些其他工具，为什么？ 更新：哈哈，冷静下来，仇恨者    提交人    /u/AlvaroFranz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fej71v/what_ai_tools_are_you_using_during_your_daily/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:43:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
