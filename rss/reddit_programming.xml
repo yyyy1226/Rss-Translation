@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Sep 2024 21:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 01:39:54 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个 11,000 行部署的 Swift 项目，一个与 iOS 和谷歌日历竞争的日历</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgb5up/my_first_11000_line_deployed_swift_project_a/</link>
+      <description><![CDATA[  由    /u/Computer_2121  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgb5up/my_first_11000_line_deployed_swift_project_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 01:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python：有趣的机器学习足球相关项目 - 直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg877o/python_fun_machine_learning_soccerfootball/</link>
+      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg877o/python_fun_machine_learning_soccerfootball/</guid>
+      <pubDate>Fri, 13 Sep 2024 23:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typescript 的行为会让你感到畏缩</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg7ba5/this_typescript_behavior_will_make_you_cringe/</link>
+      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg7ba5/this_typescript_behavior_will_make_you_cringe/</guid>
+      <pubDate>Fri, 13 Sep 2024 22:25:55 GMT</pubDate>
+    </item>
     <item>
       <title>从头编写物理引擎</title>
       <link>https://www.reddit.com/r/programming/comments/1fg5twa/writing_a_physics_engine_from_scratch/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/steveklabnik1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ffzxuf/safe_c_partnership/</guid>
       <pubDate>Fri, 13 Sep 2024 17:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 Kotlin 的成功/纪录片</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffzoql/beyond_the_success_of_kotlin_the_documentary/</link>
-      <description><![CDATA[  由    /u/iamitbeard  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffzoql/beyond_the_success_of_kotlin_the_documentary/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>卷积 KAN - 发送到期刊之前的反馈 +700⭐</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffy72e/convolutional_kan_feedback_before_send_to_a/</link>
-      <description><![CDATA[  由    /u/anto-tep  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffy72e/convolutional_kan_feedback_before_send_to_a/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 和 Vectors 进行实验，用 AI 总结了我的整个代码库并为其构建了一个语义搜索引擎，而不是自己实际编写文档......（许多有趣的实验之一，而不是促销或任何类型的商业工具）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffxzsd/experiments_with_ai_and_vectors_summarized_my/</link>
-      <description><![CDATA[  由    /u/firebird8541154  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffxzsd/experiments_with_ai_and_vectors_summarized_my/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:46:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
