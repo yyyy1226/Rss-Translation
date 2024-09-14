@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Sep 2024 01:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:24:09 GMT</lastBuildDate>
     <item>
-      <title>我的第一个 11,000 行部署的 Swift 项目，一个与 iOS 和谷歌日历竞争的日历</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgb5up/my_first_11000_line_deployed_swift_project_a/</link>
-      <description><![CDATA[  由    /u/Computer_2121  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgb5up/my_first_11000_line_deployed_swift_project_a/</guid>
-      <pubDate>Sat, 14 Sep 2024 01:36:24 GMT</pubDate>
+      <title>多态性是否依赖于继承？ - 鲍勃大叔</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgd1yp/does_polymorphism_depend_on_inheritance_uncle_bob/</link>
+      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgd1yp/does_polymorphism_depend_on_inheritance_uncle_bob/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:22:51 GMT</pubDate>
     </item>
     <item>
-      <title>Python：有趣的机器学习足球相关项目 - 直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg877o/python_fun_machine_learning_soccerfootball/</link>
-      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg877o/python_fun_machine_learning_soccerfootball/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:07:48 GMT</pubDate>
+      <title>Web 框架理念 (Rust)</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgcwfx/web_framework_idea_rust/</link>
+      <description><![CDATA[  由    /u/nelrafa13  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgcwfx/web_framework_idea_rust/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node 22.5.0 中的 5 个为什么以及“退出处理程序从未调用”的修复</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgcs3z/5_whys_and_the_fix_for_exit_handler_never_called/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgcs3z/5_whys_and_the_fix_for_exit_handler_never_called/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:07:10 GMT</pubDate>
     </item>
     <item>
       <title>Typescript 的行为会让你感到畏缩</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/ryanlpeterman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fg02u1/unlearning_leetcode/</guid>
       <pubDate>Fri, 13 Sep 2024 17:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全 C++ 合作伙伴关系</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffzxuf/safe_c_partnership/</link>
-      <description><![CDATA[  由    /u/steveklabnik1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffzxuf/safe_c_partnership/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
