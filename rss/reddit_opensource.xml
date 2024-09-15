@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Sep 2024 15:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:29:24 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个开源匿名数字日记</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhjgaf/i_made_an_opensource_anonymous_digital_journal/</link>
+      <description><![CDATA[网站：https://innerpage.org  Github：https://github.com/innerpage  你好 Innerpage 是一个私密而安全的空间，可以倾诉敏感的想法和感受，而不必担心隐私。 Innerpage 不需要电子邮件或其他任何东西来创建帐户。没有跟踪。什么都没有。只需使用用户名和密码设置您的帐户，您就完成了！ 您可以自行托管或使用托管版本：https://innerpage.org 尝试一下，让我知道如何做得更好。我特别需要以下反馈：  您的第一印象是什么？ 我应该在 Innerpage 中包含哪些功能？ 改进 UI/UX 的建议？ 改进 repo 描述的建议？  感谢阅读    提交人    /u/tbhyn_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhjgaf/i_made_an_opensource_anonymous_digital_journal/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>Passknight：多保险库、自托管密码管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhergx/passknight_multivault_self_hosted_password_manager/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找能够更公平地利用人工智能或将人工智能应用于某些产生积极影响的问题的项目。目前，一想到人工智能我就感到很不舒服。我认为这与人工智能的应用有关，而不是技术本身。 我是一个经验丰富的后端人员。希望扩展我的知识并希望对人工智能有更好的感觉。我对任何旨在做一些好事的项目持开放态度！医学研究和减少电子垃圾就是一些例子，但我对更多项目持开放态度    提交人    /u/overloafunderloaf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fg4qe9/looking_for_positive_impact_ai_projects_to/</guid>
       <pubDate>Fri, 13 Sep 2024 20:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源音乐应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fg1cqn/open_source_music_apps/</link>
-      <description><![CDATA[Musescore 和 Audacity 确实不再是开源的。有没有真正的、无需付费或企业努力的音乐符号、混音等应用程序？    提交人    /u/shingi345   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fg1cqn/open_source_music_apps/</guid>
-      <pubDate>Fri, 13 Sep 2024 18:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
