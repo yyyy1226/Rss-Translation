@@ -4,20 +4,62 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 09:23:05 GMT</lastBuildDate>
     <item>
-      <title>反射</title>
-      <link>https://www.producthunt.com/posts/reflectio</link>
+      <title>Chrome 版 FusionCalc (备忘录计算器)</title>
+      <link>https://www.producthunt.com/posts/fusioncalc-memo-calculator-for-chrome</link>
       <description><![CDATA[
-简化反馈流程
+带备忘录功能的计算器扩展程序
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/reflectio</guid>
-      <pubDate>Sat, 14 Sep 2024 00:13:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/fusioncalc-memo-calculator-for-chrome</guid>
+      <pubDate>Sat, 14 Sep 2024 15:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>穆迪空间</title>
+      <link>https://www.producthunt.com/posts/mooody-space</link>
+      <description><![CDATA[
+追踪您的情绪，并通过 Mooody 找到平衡。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mooody-space</guid>
+      <pubDate>Sat, 14 Sep 2024 13:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>即时笔记</title>
+      <link>https://www.producthunt.com/posts/instanote-3</link>
+      <description><![CDATA[
+将您的想法转化为笔记
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/instanote-3</guid>
+      <pubDate>Sat, 14 Sep 2024 07:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>心灵伴侣</title>
+      <link>https://www.producthunt.com/posts/mindpal-4</link>
+      <description><![CDATA[
+使用 AI 多代理工作流推销您的领域专业知识
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mindpal-4</guid>
+      <pubDate>Fri, 13 Sep 2024 15:50:20 GMT</pubDate>
     </item>
     <item>
       <title>Github 个人资料生成器</title>
@@ -34,32 +76,18 @@
       <pubDate>Fri, 13 Sep 2024 15:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>RLT</title>
-      <link>https://www.producthunt.com/posts/rlt</link>
+      <title>特征流</title>
+      <link>https://www.producthunt.com/posts/featureflow-706fd824-0c88-4c80-be31-9e5138e9a569</link>
       <description><![CDATA[
-阅读追踪器和书架管理器
+构建用户（真正）想要的盈利功能
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/rlt</guid>
-      <pubDate>Fri, 13 Sep 2024 14:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动滚动和阅读</title>
-      <link>https://www.producthunt.com/posts/auto-scroll-and-read</link>
-      <description><![CDATA[
-轻松以您喜欢的速度自动滚动网站
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/auto-scroll-and-read</guid>
-      <pubDate>Fri, 13 Sep 2024 14:21:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/featureflow-706fd824-0c88-4c80-be31-9e5138e9a569</guid>
+      <pubDate>Fri, 13 Sep 2024 13:31:56 GMT</pubDate>
     </item>
     <item>
       <title>编号编号</title>
@@ -76,20 +104,6 @@
       <pubDate>Fri, 13 Sep 2024 11:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>MindBox(灵感盒子)</title>
-      <link>https://www.producthunt.com/posts/mindbox-2</link>
-      <description><![CDATA[
-支持 markdown 的写作助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mindbox-2</guid>
-      <pubDate>Fri, 13 Sep 2024 07:40:51 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌照明</title>
       <link>https://www.producthunt.com/posts/google-illuminate</link>
       <description><![CDATA[
@@ -104,102 +118,74 @@
       <pubDate>Thu, 12 Sep 2024 23:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>罗斯伯里</title>
-      <link>https://www.producthunt.com/posts/roasberry</link>
+      <title>解决方案</title>
+      <link>https://www.producthunt.com/posts/solvr</link>
       <description><![CDATA[
-终于有一款准确、直观且价格实惠的像素跟踪器了。
+免费通过捕获、右键单击或文本解决问题
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/roasberry</guid>
-      <pubDate>Thu, 12 Sep 2024 18:45:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/solvr</guid>
+      <pubDate>Thu, 12 Sep 2024 18:22:05 GMT</pubDate>
     </item>
     <item>
-      <title>翁西沃伊特</title>
-      <link>https://www.producthunt.com/posts/onsyvoit</link>
+      <title>Droplo</title>
+      <link>https://www.producthunt.com/posts/droplo</link>
       <description><![CDATA[
-一款简单、免费且优雅的活动策划工具
+B2B 和直销跨境市场
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/onsyvoit</guid>
-      <pubDate>Thu, 12 Sep 2024 14:47:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/droplo</guid>
+      <pubDate>Thu, 12 Sep 2024 13:57:02 GMT</pubDate>
     </item>
     <item>
-      <title>代码清单</title>
-      <link>https://www.producthunt.com/posts/codemeup</link>
+      <title>空气虫</title>
+      <link>https://www.producthunt.com/posts/airbug</link>
       <description><![CDATA[
-直接从 Github 嵌入代码片段
+实时聊天。随心所欲。随时。
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/codemeup</guid>
-      <pubDate>Thu, 12 Sep 2024 10:48:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/airbug</guid>
+      <pubDate>Thu, 12 Sep 2024 08:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>图片盟友</title>
-      <link>https://www.producthunt.com/posts/image-ally</link>
+      <title>日期准备</title>
+      <link>https://www.producthunt.com/posts/dateready</link>
       <description><![CDATA[
-设置它并忘记它 AI 图像 alt 标签和标题
+战胜拒绝！使用 AI 进行练习，在现实生活中取得成功。
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/image-ally</guid>
-      <pubDate>Thu, 12 Sep 2024 01:28:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/dateready</guid>
+      <pubDate>Wed, 11 Sep 2024 20:21:49 GMT</pubDate>
     </item>
     <item>
-      <title>皮肤</title>
-      <link>https://www.producthunt.com/posts/vels</link>
+      <title>明智购买</title>
+      <link>https://www.producthunt.com/posts/wise-buys</link>
       <description><![CDATA[
-用于学习和培训的语音学习模拟
+轻松管理您的交易卡收藏和预算。
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/vels</guid>
-      <pubDate>Thu, 12 Sep 2024 00:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>信息图 - V2</title>
-      <link>https://www.producthunt.com/posts/infography-v2</link>
-      <description><![CDATA[
-使用 AI 将您的博客变成令人惊叹的信息图表。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/infography-v2</guid>
-      <pubDate>Mon, 09 Sep 2024 05:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mindz - 思维导图</title>
-      <link>https://www.producthunt.com/posts/mindz-mind-mapping</link>
-      <description><![CDATA[
-将想法组织成列表，并将其可视化为思维导图。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mindz-mind-mapping</guid>
-      <pubDate>Fri, 06 Sep 2024 07:59:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/wise-buys</guid>
+      <pubDate>Sun, 08 Sep 2024 19:32:34 GMT</pubDate>
     </item>
     <item>
       <title>分钟</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/minute-3</guid>
       <pubDate>Sun, 01 Sep 2024 08:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>塔利鲁斯</title>
+      <link>https://www.producthunt.com/posts/tallyrus</link>
+      <description><![CDATA[
+每周节省 5-10 小时评分时间并获得个性化反馈
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tallyrus</guid>
+      <pubDate>Mon, 19 Aug 2024 01:14:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
