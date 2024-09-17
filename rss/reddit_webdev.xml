@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 21:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 01:19:58 GMT</lastBuildDate>
+    <item>
+      <title>Shadcn - 当项目结束时，如何禁用垂直轮播滚动？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fildg5/shadcn_how_to_disable_vertical_carousel_scroll/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fildg5/shadcn_how_to_disable_vertical_carousel_scroll/</guid>
+      <pubDate>Tue, 17 Sep 2024 00:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>链接出现奇怪的“首次点击被忽略”问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</link>
+      <description><![CDATA[我的一个项目是一个编写不佳的 Jquery/SB 应用程序，其中包含大量库。重写是不可能的。我认为 JQ 加载了 6 次，版本不同，等等。 一些下拉菜单有简单的 &lt;a&gt; 标签，带有图标和文本。我尝试了很多方法（包裹在 span、div 等中）。 问题是有时第一次点击会被忽略。然后你再次下拉菜单，它就可以正常工作了。有什么线索吗？这些不是点击事件（我没有看到任何绑定事件），但应该会导致从基本锚点链接重定向。    提交人    /u/InlineSkateAdventure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 地图浏览器 - Chrome 扩展程序，只需两次点击即可简化网页上的文本地图搜索</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</link>
+      <description><![CDATA[        由    /u/OceanCoder  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:06:55 GMT</pubDate>
+    </item>
     <item>
       <title>多么有趣的评论</title>
       <link>https://www.reddit.com/r/webdev/comments/1fig9i0/what_an_interesting_review/</link>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 16 Sep 2024 17:59:15 GMT</pubDate>
     </item>
     <item>
-      <title>大家好！很想听听美国开发者们的意见。进展如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fib533/hi_everyone_interested_to_hear_from_fellow/</link>
-      <description><![CDATA[我的意思是从工作、业务角度来看，过去一两年的情况。    提交人    /u/CuriousityRover_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fib533/hi_everyone_interested_to_hear_from_fellow/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的登陆页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fib4zw/roast_my_landing_page/</link>
-      <description><![CDATA[  由    /u/Important-Ostrich69  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fib4zw/roast_my_landing_page/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 SaaS 理念的反馈：用于前端和后端开发的 AI 代码生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiazg9/seeking_feedback_on_a_saas_idea_aipowered_code/</link>
-      <description><![CDATA[大家好，webdev 社区， 我很高兴向大家介绍我正在从事的一个新项目，非常感谢您的反馈！ 介绍 StackRender： StackRender  是一个 SaaS 工具，旨在通过根据用户指定的需求生成前端和后端代码来简化 Web 开发。它的独特之处在于：  AI 驱动的代码生成：用户指定他们的项目要求，我们的 AI 模型生成功能性的前端和后端代码。 可自定义的代码：开发人员可以进一步自定义生成的代码以满足他们的特定需求。 与第三方 API 集成：StackRender 支持与 Stripe 和 Google Cloud 等 API 集成。 开发堆栈的选择：用户可以从各种堆栈（例如 Express、Next、Angular、React）中进行选择，以确保生成的代码符合他们的偏好和需求。  我正在寻找什么：  概念验证：这个想法引起你的共鸣吗？这样的工具对开发者或初创公司有价值吗？ 功能建议：您希望在这样的工具中看到哪些功能或能力？ 潜在挑战：您预见到 StackRender 是否存在任何潜在挑战或担忧？  在开发这个想法的过程中，我很想听听您的想法和任何建议。提前感谢您的意见    提交人    /u/tamanikarim   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiazg9/seeking_feedback_on_a_saas_idea_aipowered_code/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个预先设计的 WordPress 模式库，可与任何 Gutenberg 主题配合使用（只需复制和粘贴）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fia7sc/i_built_a_library_of_predesigned_wordpress/</link>
-      <description><![CDATA[        提交人    /u/qarayahya   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fia7sc/i_built_a_library_of_predesigned_wordpress/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:14:26 GMT</pubDate>
+      <title>我的网站上的账户二维码，供用户存入加密货币</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</link>
+      <description><![CDATA[所以我有一个网站，允许用户以加密货币支付少量费用来发布分类广告。我们目前正在使用支付网关，但希望能够为用户帐户提供他们自己的二维码，以便轻松添加任何所需的资金，并反过来获得美元，然后他们可以发布广告。我的开发人员很有才华，但没有这方面的经验。有人可以解释一下如何集成这样的功能吗？欢迎随时发私信或在评论中回答，感谢您的任何支持，并期待反馈。    提交人    /u/wall_st_yoda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</guid>
+      <pubDate>Mon, 16 Sep 2024 09:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
