@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 17 Sep 2024 18:30:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 21:21:08 GMT</lastBuildDate>
+    <item>
+      <title>召集所有 PostgreSQL 用户！我们需要您的帮助来响应 2024 年 PostgreSQL 状态调查。请在调查结束的 9 月 30 日之前花点时间填写：收到的反馈越多，对社区的益处就越多！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fj9zvl/calling_all_postgresql_users_your_help_is_needed/</link>
+      <description><![CDATA[    /u/xenophenes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fj9zvl/calling_all_postgresql_users_your_help_is_needed/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice Draw 能显示 Adob​​e Acrobat 的变化吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fj91z4/can_libreoffice_draw_show_adobe_acrobat_changes/</link>
+      <description><![CDATA[请原谅我对这些程序的无知。我的学校说他们会突出显示我的 PDF 上的某些文本并将其发回给我，我需要 Adob​​e Acrobat 才能看到更改。我仍然可以在 LibreOffice Draw 中看到他们使用 Acrobat 所做的所有更改吗？    提交人    /u/MegaFocusDv   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fj91z4/can_libreoffice_draw_show_adobe_acrobat_changes/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>您花了多长时间才获得 100 颗星或 1000 颗星？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fj91gf/how_long_did_it_take_you_to_reach_100_stars_or_1k/</link>
+      <description><![CDATA[我最近开始了我的第一个开源项目，我想看看我是否正在构建一些有用的东西并且人们喜欢它。到目前为止，我已经获得了 43 颗星，并且我已经拥有这个仓库大约一个月了。我已将其发布在产品搜索和一些 subreddits 上，但我不确定与其他项目相比这是好是坏。我想继续，因为我喜欢这个项目，但我想看看其他人的体验如何    提交人    /u/_twelvechess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fj91gf/how_long_did_it_take_you_to_reach_100_stars_or_1k/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌人脸识别</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fj8tbm/google_face_recognise/</link>
+      <description><![CDATA[也许我找错地方了，但我正在寻找类似谷歌照片技术的东西，可以通过人脸识别过滤相册。     提交人    /u/Far_Star_6475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fj8tbm/google_face_recognise/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>power-options 1.1.0 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</link>
+      <description><![CDATA[power-options 是一个 Linux GUI 应用程序，用于有效、简单和高级电源管理。power-options 可以替代 TLP 和任何其他省电工具。新发布的 1.1.0 版本包括以下更改：  添加了睡眠设置 修复了 GTK 前端在 acpi-cpufreq 或其他通用 cpufreq 驱动程序上崩溃的问题。 修复了在具有 0 个 SATA 接口的系统上的恐慌问题 修复与图形失败相关的一些命令 在 webview 前端悬停时使用信息图标作为工具提示 通过弹出窗口通知用户何时会发生意外的系统设置更改。  发布链接：https://github.com/TheAlexDev23/power-options/releases/tag/v1.1.0    提交人    /u/TheAlexDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:46:19 GMT</pubDate>
+    </item>
     <item>
       <title>Wabe——版本 0.5.3</title>
       <link>https://www.reddit.com/r/opensource/comments/1fj69xo/wabe_release_053/</link>
@@ -69,46 +104,11 @@
       <pubDate>Tue, 17 Sep 2024 14:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>第一个 CalDAV Push 可供公开使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fiz9gf/first_caldav_push_usable_publically/</link>
-      <description><![CDATA[如果 WebDAV 中的服务器发生更改，则目前无法将数据推送到客户端。因此，在使用 WebDAV 或 CalDAV/CardDAV 时，客户端需要定期安排同步日历、联系人、任务、文件等的更改。  DAVx⁵（Android 同步应用程序）团队正在开发一个标准。 Github 上的项目：https://github.com/bitfireAT/webdav-push/  DAVx5 团队刚刚宣布，它已经在一定程度上实施到 u/Nextcloud 服务器（激活应用程序 dav_push）和 DAVx⁵（版本 &gt;4.4.2）中，并且它已经可以运行，并且可以在第一个 Alpha 版本中公开使用。您现在可以使用 u/UnifiedPush 在您的 Android 上几乎立即接收事件和任务，这非常酷。无需等待预定的同步。FCM 也将得到支持，并且将扩展到 CardDAV 地址簿和文件 (WebDAV) 本教程展示了您需要执行的几个步骤：https://www.youtube.com/watch?v=XQ2jhqbDL6M&amp;ab_channel=bitfirewebengineering 要实现这一点很困难，但团队正在不断取得进展。    提交人    /u/devvv4ever   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fiz9gf/first_caldav_push_usable_publically/</guid>
-      <pubDate>Tue, 17 Sep 2024 13:28:13 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找支持 CalDAV 的 Linux TODO/任务应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1fiye6p/looking_for_a_todotasks_application_for_linux/</link>
       <description><![CDATA[我正在寻找一个类似于 Android 上的 Tasks.org 的任务应用程序，但适用于 Linux。它应该能够使用 CalDAV 与我的 Nextcloud 同步。我尝试过 planify，但它有很多错误，而且我目前没有时间为所有这些事情创建问题。Thunderbird 不是我的正确选择，因为我想要干净、整洁、简单但结构清晰的东西。 一个加分项是可以对任务进行优先排序。 期待任何建议。非常感谢。    提交人    /u/qgj_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fiye6p/looking_for_a_todotasks_application_for_linux/</guid>
       <pubDate>Tue, 17 Sep 2024 12:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bond - 微型无头二维码生成器，提供免费托管服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fit6ev/bond_a_tiny_headless_qr_code_generator_with_a/</link>
-      <description><![CDATA[       由    /u/mosswill  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fit6ev/bond_a_tiny_headless_qr_code_generator_with_a/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的图形数据库选项？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fit37t/good_graph_database_options/</link>
-      <description><![CDATA[我正在尝试构建一个 graphRAG 并使用其图形数据库，到目前为止，所有内容都指向 neo4j。我们还有其他更好、更适合生产的选项吗？    提交人    /u/Aromatic_Ad9700   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fit37t/good_graph_database_options/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Python 程序，使本地运行的 LLM 能够在互联网上搜索通过 Llama.cpp 运行的 LLM！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1finit0/i_made_a_python_program_that_gives_llms_running/</link>
-      <description><![CDATA[        提交人    /u/CuriousAustralianBoy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1finit0/i_made_a_python_program_that_gives_llms_running/</guid>
-      <pubDate>Tue, 17 Sep 2024 02:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 AI 定义 – 9 月 16 日每周更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fijq2k/open_source_ai_definition_weekly_update_september/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fijq2k/open_source_ai_definition_weekly_update_september/</guid>
-      <pubDate>Mon, 16 Sep 2024 23:39:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
