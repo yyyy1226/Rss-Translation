@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 01:40:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:23:52 GMT</lastBuildDate>
+    <item>
+      <title>您需要了解的有关 Openai o1 的一切</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</link>
+      <description><![CDATA[OpenAI 推出了一种名为“o1”的新模型，它是计划中的一系列“推理”模型的一部分，旨在比人类更快地解决复杂问题。除了 o1，OpenAI 还发布了一个更小、更实惠的版本，名为“o1-mini”。这个模型被广泛传言为“草莓模型”，代表着 OpenAI 向类人 AI 目标迈出了重大一步。O1 擅长编码和解决多步骤问题，表现优于之前的模型，但它比 GPT-4o 更昂贵、更慢。它以“预览版”的形式提供对于某些 ChatGPT 用户，开发人员访问的价格高达每百万输入令牌 15 美元，每百万输出令牌 60 美元 - 远高于 GPT-4o。 https://www.lycee.ai/blog/openai-o1-model-summary    提交人    /u/franckeinstein24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的利用人工智能的区块链项目有哪些？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</link>
+      <description><![CDATA[我想找出你们最喜欢的 AI 代币。 我的是 Neurolana。它是一个由人工智能驱动的交易机器人，用于 Solana 区块链，使用 NLP 和统计模型，通过历史交易数据寻找交易机会，并通过解析白皮书和社交媒体帖子后创建信任分数来筛选优质项目。在我看来，他真是个天才。你的是什么？    提交人    /u/Easy_Dig_88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能视频创作者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjhoq4/ai_video_creator/</link>
+      <description><![CDATA[大家好， 我想知道是否有人有一个好的 AI 视频创建工具？例如，使用提示上传图像，然后该工具会根据图像渲染视频？存在类似或接近它的东西吗？    提交人    /u/Xeon888   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjhoq4/ai_video_creator/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>IT 领域的未来职业</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjejr3/future_careers_in_it/</link>
@@ -46,27 +67,6 @@
       <description><![CDATA[嗨，我最近在这里发布了我利用人工智能的最新项目。本质上，您可以上传任何类型的广告（展示、广告牌、移动广告牌、LED 等），您将在 3 个类别（回忆、对比和文案参与）中获得满分 100% 的分数。然后，它会根据当今的最佳营销实践为您提供有关如何改进广告以提高转化率的具体反馈和建议。 我们目前有一个试用版，将于 10 月 1 日结束，我希望尽可能多的人尝试并提供反馈。摆弄和上传您的广告甚至其他公司的广告以查看您的比较结果非常有趣。 期待听到您的想法，我会在评论中留下网址 :)    提交人    /u/germanshepherd77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj8eat/ai_for_marketing_agencies/</guid>
       <pubDate>Tue, 17 Sep 2024 19:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Jekyll Netlify 和 Ollama 设置个人洞察日志</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj7qi3/setting_up_a_personal_insight_journal_with_jekyll/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj7qi3/setting_up_a_personal_insight_journal_with_jekyll/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳 AI 徽标生成器：做出正确的决定！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj7ktx/best_ai_logo_generators_for_2024_take_the_right/</link>
-      <description><![CDATA[  由    /u/Lord--Shadow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj7ktx/best_ai_logo_generators_for_2024_take_the_right/</guid>
-      <pubDate>Tue, 17 Sep 2024 18:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的工作流程应该如何才能使用 Ultimate Vocal Remover 5 获得最佳效果？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</link>
-      <description><![CDATA[我只有几天摆弄软件的经验，而且我对自己所做的事情没有任何技术知识。我只是尝试不同的设置，并用耳朵判断哪种听起来最好。 目前，我只是在合奏模式下加载一首歌曲，选择所有内容，以了解每个模型对给定歌曲的作用。我经常在这个阶段忽略“最终”合奏输出，因为我不指望它是最好的，因为没有考虑模型的组合。然后我将重新运行合奏模式，但这次只运行我认为能产生良好结果的模型。我认为这样做有两个原因： (1) 适用于一首特定歌曲甚至特定流派的模型组合可能不适用于另一首歌曲。一会儿我用摇滚乐得到干净的结果，一会儿我用原声民谣得到垃圾。  (2) 我想获得两种不同风格的器乐曲目：一种是适合个人卡拉 OK 翻唱的伴唱，另一种是真正的器乐，最终输出中完全听不到人声。这两项工作所需的模型组不一样。我打算为我最喜欢的艺术家的完整唱片做这件事，其中包含数百个单独的曲目，因此我想要一种更有效的方法。  我能想到的唯一最大化利用时间的方法是在 Audacity 的一个实例中打开各个模型的输出，这样我就可以正确地进行比较和对比，而不必仅在音乐播放器应用中切换歌曲。    提交人    /u/ignoremesenpie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</guid>
-      <pubDate>Tue, 17 Sep 2024 18:05:13 GMT</pubDate>
     </item>
     <item>
       <title>您对哪些鲜为人知的人工智能应用最感兴趣？</title>
