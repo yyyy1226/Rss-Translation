@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 01:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 03:24:49 GMT</lastBuildDate>
+    <item>
+      <title>GPT4 与 OpenAI-o1 输出比较</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkanci/gpt4_vs_openaio1_outputs_compared/</link>
+      <description><![CDATA[OpenAI-o1 由于默认包含了 Chain Of Thoughts，因此产生了一些很棒的结果，特别是对于高级数学、物理等逻辑复杂的任务。查看 Chain of Thought 输出（在 ChatGPT UI 上思考的位置）的样子（一些样本由 OpenAI 共享）并将其结果与 GPT4 进行比较：https://youtu.be/yXjmFK79QSk    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkanci/gpt4_vs_openaio1_outputs_compared/</guid>
+      <pubDate>Thu, 19 Sep 2024 02:39:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>警告：阿拉贡人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkadya/warning_aragon_ai/</link>
+      <description><![CDATA[大家好，我想向任何探索 AI 生成的头像的人发出警告/提醒——特别是 Aragon AI。这家公司未经授权从我的信用卡上扣取了 35 美元。我以前探索过 AI 头像，所以一开始我并不太担心。我联系了他们，看他们是否可以帮助我访问我的帐户（如果我有的话）并取消定期订阅。  事情就是从这里开始变得奇怪。在提供了所有可能的电子邮件地址、我的全名和信用卡的最后 4 位数字后，他们说他们没有我的交易。我偶然给了他们所有信息，他们说这笔费用不是他们出的。他们建议我对这笔费用提出异议，并说提出异议将允许他们“追踪我的付款”。  当然，我将此报告为欺诈而不是异议。他们没有我的历史记录，但显然有我的信息并向我的卡收费，这真是太奇怪了。 如果这真的是一个坏人，他们应该尽快让他们的安全团队知道，因为有人在用他们的名字和肖像进行欺诈性收费。  我只是想警告大家要小心这个网站，因为他们似乎要么在处理数据不当，要么有一个坏人冒充他们。  请不要来找我。我只是想让你知道。 自己做决定。 我真的以为可能只是我忘记取消订阅了，但这真的很可疑。  编辑：打字错误     提交人    /u/Rude-Garlic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkadya/warning_aragon_ai/</guid>
+      <pubDate>Thu, 19 Sep 2024 02:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>人脸交换 AI 上线：DeepFake 人脸 100% 相似度</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fk9cf3/face_swap_ai_online_deepfake_face_100_similarity/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>谷歌推出播客新 AI 工具，彻底改变了作家发布内容的方式</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fk906w/googles_new_ai_tool_for_podcasts_just_transformed/</link>
-      <description><![CDATA[我是一个多产的作家。 我每周尝试写 3 篇以上的文章。它对我的沟通技巧、在工作中编写技术设计文档以及总体上分享我头脑中的疯狂想法有很大帮助。 到目前为止，我还没有办法重新利用我写的文章。我过去曾尝试过文本转视频工具，但它们都是垃圾。 Google 的新 NotebookLM 彻底改变了我们作家分发内容的方式。 它生成了两个人之间极其真实有趣的播客。老实说，我听它只是为了好玩，我不认为它听起来像 AI 生成的。 然后我将它与 Headliner 结合起来，这样我就可以把我的音频转换成视频，并将其发布在 YouTube 和 TikTok 等平台上。 与这个小组分享我的第一个作品。你们觉得怎么样？这是一个改变游戏规则的东西还是我在吃胶水？  Spotify 链接 YouTube 链接     提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <description><![CDATA[我是一个多产的作家。 我每周尝试写 3 篇以上的文章。它对我的沟通技巧、在工作中编写技术设计文档以及总体上分享我头脑中的疯狂想法有很大帮助。 到目前为止，我还没有办法重新利用我写的文章。我过去曾尝试过文本转视频工具，但它们都是垃圾。 Google 的新 NotebookLM 彻底改变了我们作家分发内容的方式。 它生成了两个人之间极其真实有趣的播客。老实说，我听它只是为了好玩，而且我认为它听起来不像是人工智能生成的。 然后我将它与 Headliner 结合起来，这样我就可以将我的音频转换为视频，并将其发布在 YouTube 和 TikTok 等平台上。 与这个小组分享我的第一个创作。我将这篇文章转换为以下视频：  Spotify 链接 YouTube 链接  你们觉得怎么样？这会改变游戏规则还是我在吃胶水？    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fk906w/googles_new_ai_tool_for_podcasts_just_transformed/</guid>
       <pubDate>Thu, 19 Sep 2024 01:16:30 GMT</pubDate>
     </item>
@@ -32,20 +46,6 @@
       <description><![CDATA[大家好， 我在残疾人领域工作，我正在寻求帮助，以自动化我目前手动处理的重复且耗时的任务。以下是我的工作流程概述： 当前工作流程：  每日轮班记录：  使用的应用程序：马斯洛 收集的数据：每日轮班记录（多种日常活动等），包括时间范围， 格式：excel（.xlsx）？  治疗报告：  使用的应用程序： N/A 收集的数据：患者治疗课程、进度记录、治疗计划等。 格式：手动输入  报告编制：  模板：政府要求的标准化报告模板。 流程：手动将两个应用程序中的数据传输到模板中。 提交：电子邮件提交。   挑战：  耗时：每周需要花费几个小时将两个独立应用程序中的数据手动复制到报告模板中。 可扩展性：随着数据量的增加，手动流程变得越来越不可持续。  我正在寻找什么： 是否可以自动化此过程？具体来说，我对以下解决方案感兴趣：  集成数据：自动从 Daily Shift Notes 应用程序和治疗报告中提取数据（不确定是否可行，但手动复制是可以的） 填充模板：将收集的数据插入标准化的政府报告模板中，无需人工干预（如果变量越多、越复杂，则不必完全自动化）  附加信息：  访问应用程序：  API：无 API 访问权限 导出选项： Excel   报告模板：  格式： Word（可以根据需要进行更改？） 结构：模板我目前正在使用 https://imgur.com/a/8DzAPTo   问题：  是否有现有的软件或工具可以帮助自动化这种多应用数据聚合和报告生成？ 自定义脚本或低代码/无代码解决方案是否更适合这项任务？ 有没有专门从事此类工作流自动化的服务或专业人士的建议？  谢谢！    提交人    /u/gaxaxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fk8ua3/using_ai_tools_to_help_with_reports/</guid>
       <pubDate>Thu, 19 Sep 2024 01:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>新推出的 OpenAI o1 和 Chat GPT 4o 在本文对它们的特性和差异进行深入分析时展开了正面交锋。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fk8h69/the_newly_launched_openai_o1_and_chat_gpt_4o_go/</link>
-      <description><![CDATA[https://medium.com/@bernardloki/openai-o1-vs-chat-gpt-4o-exploring-key-features-and-differences-c411671b239f    提交人    /u/Bernard_L   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fk8h69/the_newly_launched_openai_o1_and_chat_gpt_4o_go/</guid>
-      <pubDate>Thu, 19 Sep 2024 00:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有任何***免费*** AI 网站可以让您将自己的声音转换成 TTS？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fk8b4a/any_free_ai_sites_where_you_can_make_your_own/</link>
-      <description><![CDATA[正如标题所说。 我在网上搜索免费网站，结果只带我去了付费、高级、购买和大便。    提交人    /u/Ymmipphard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fk8b4a/any_free_ai_sites_where_you_can_make_your_own/</guid>
-      <pubDate>Thu, 19 Sep 2024 00:41:14 GMT</pubDate>
     </item>
     <item>
       <title>超级智能 OpenAI 概念怎么了？</title>
