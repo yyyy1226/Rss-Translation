@@ -4,107 +4,100 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 21:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 01:30:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 推出“HN 聊天模式”，这是一种旨在增强您的 Hacker News 体验的用户脚本 [...]</title>
-      <link>https://t.me/hn_summary/108958</link>
-      <description><![CDATA[显示 HN：Hacker News 聊天模式（实时评论更新程序）
-推出“HN 聊天模式”，这是一个用户脚本，旨在通过提供实时评论更新来增强您的 Hacker News 体验。此脚本由您编写，每 10 秒获取并更新 Hacker News 线程上的评论，确保您不会错过任何新评论。它通过将获取的评论与页面上已有的评论进行比较来识别新评论，并无缝插入新评论，甚至用玉米丝背景突出显示它们以便于识别。该脚本使用起来很简单，不需要特殊权限。这个聪明的工具为 Hacker News 带来了实时聊天般的体验，使讨论更加动态和引人入胜。]]></description>
-      <guid>https://t.me/hn_summary/108958</guid>
-      <pubDate>Wed, 18 Sep 2024 21:21:01 GMT</pubDate>
+      <title>[媒体] 据报道，为应对俄罗斯出生率下降的问题，总统弗拉基米尔·普京 [...]</title>
+      <link>https://t.me/hn_summary/108981</link>
+      <description><![CDATA[在生育率下降的情况下，普京希望俄罗斯人在“工作休息时间进行性行为”
+据报道，为了应对俄罗斯生育率下降的问题，总统弗拉基米尔·普京敦促俄罗斯人在工作休息时间进行性行为，以提高该国的生育率，目前该国的生育率为每名妇女 1.5 个孩子，远低于必要的 2.1 个。这项备受争议的“工作中性行为”倡议是在超过一百万俄罗斯年轻人因与乌克兰的持续战争而移民之际提出的。卫生部长叶夫根尼·谢斯托帕洛夫博士以繁忙的工作日程为借口，建议在休息时间生育。此外，俄罗斯鼓励女性接受免费生育检查，政界人士也提倡早育，有人建议从 18 岁开始生育。俄罗斯的出生率已降至 1999 年以来的最低水平，2024 年上半年仅有 599,600 名婴儿出生。]]></description>
+      <guid>https://t.me/hn_summary/108981</guid>
+      <pubDate>Thu, 19 Sep 2024 01:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在过去的一年里，我从头开始在 Zig 中开发了一个静态站点生成器，名为 Zin [...]</title>
-      <link>https://t.me/hn_summary/108957</link>
-      <description><![CDATA[Zine：用 Zig 编写的静态站点生成器
-在过去的一年里，我从头开始在 Zig 中开发了一个名为 Zine 的静态站点生成器，灵感来自“粉丝杂志”。这篇博文概述了我的动机和 Zine 的创新方面。如果您渴望尝试它，请访问官方网站 https://zine-ssg.io。我在静态网站（包括官方 Zig 网站）方面的丰富经验促使我创建了 Zine 来解决现有 SSG 中未满足的需求。Zine 引入了 SuperHTML 和 SuperMD 等独特文件格式，通过将 HTML 视为结构化数据并消除 Markdown 中的内联 HTML 来增强内容创作体验。值得注意的是，Zine 的资产系统与 Zig 构建系统集成，可自动安装资产。尽管仍处于 alpha 阶段，但 Zine 支持简单到中等复杂程度的网站，并提供卓越的创作体验。有关更多详细信息，请查看官方文档。]]></description>
-      <guid>https://t.me/hn_summary/108957</guid>
-      <pubDate>Wed, 18 Sep 2024 21:20:58 GMT</pubDate>
+      <title>[媒体] YouTube 已正式推出暂停广告，允许广告商在用户观看视频期间定位用户 [...]</title>
+      <link>https://t.me/hn_summary/108980</link>
+      <description><![CDATA[YouTube 确认暂停屏幕现在可投放广告
+YouTube 已正式推出暂停广告，允许广告商在用户暂停屏幕时间期间定位用户。此举是在 2023 年成功试行并得到广告商和观众的强烈反响之后做出的。YouTube 通讯经理 Oluwa Falodun 证实了这一广泛推出，并指出广告的受欢迎程度和盈利能力。虽然 YouTube 声称这些广告旨在提供“更少干扰”的体验，但它并没有表示会减少常规广告的频率。这一发展使 YouTube 与 Hulu、AT&amp;T 和 Sling TV 等其他平台保持一致，这些平台也实施了暂停广告。值得注意的是，Sling TV 最初允许用户通过设置禁用这些广告。]]></description>
+      <guid>https://t.me/hn_summary/108980</guid>
+      <pubDate>Thu, 19 Sep 2024 01:30:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最近，我们在 Hetzne 上托管的 CI 构建作业遇到了重大问题 [...]</title>
-      <link>https://t.me/hn_summary/108956</link>
-      <description><![CDATA[Cloudflare 错误地将 Hetzner IP 识别为位于伊朗
-最近，我们在 Hetzner VPS 上托管的 CI 构建作业遇到了重大问题，特别是在从 registry.gitlab.com 提取 Docker 映像时遇到高故障率。这个问题在过去 2-3 周内不断升级，频繁出现超时和错误，例如“等待标头时超出 Client.Timeout”。尽管尝试通过重新启动管道来缓解问题，但故障仍然存在，这表明问题更深层次。有趣的是，这个问题似乎只出现在 registry.gitlab.com 服务上，因为其他 GitLab 存储库操作均顺利进行。这表明 Cloudflare 可能错误识别了 Hetzner IP，可能将其标记为位于伊朗，这可能导致这些中断。]]></description>
-      <guid>https://t.me/hn_summary/108956</guid>
-      <pubDate>Wed, 18 Sep 2024 21:01:47 GMT</pubDate>
+      <title>[媒体] 早期的互联网提供了“技术自决”，允许用户控制[...]</title>
+      <link>https://t.me/hn_summary/108979</link>
+      <description><![CDATA[对抗 Enshittification
+早期的互联网提供了“技术自决”，允许用户控制自己的隐私和体验，但这需要技术技能。屡获殊荣的作家兼 EFF 特别顾问 Cory Doctorow 设想了一个所有人都能享受这些好处的未来。他创造了“enshittification”一词来描述将用户和企业视为商品的在线平台的衰落，该术语被美国方言协会评为 2023 年度词汇。Doctorow 讨论了知识产权法和技术行业整合如何削弱用户保护，但最近的反垄断行动和技术工人权利带来了改善的希望。他提倡互操作性，使用户能够在不损失价值的情况下切换服务，并强调对抗性互操作性对抵消企业控制的重要性。 （根据 31% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108979</guid>
+      <pubDate>Thu, 19 Sep 2024 01:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>网站： forums.developer.apple.com</title>
-      <link>https://t.me/hn_summary/108955</link>
-      <description><![CDATA[iOS 18 破坏 IMAPS 自签名证书
-标题：iOS 18 破坏 IMAPS 自签名证书
-网站：forums.developer.apple.com
-
-iOS 18.0 beta 6 (22A5338b) 中仍然有问题！自 WWDC 以来，我一直无法在 iPhone 上使用邮件 :(
-
-摘要：
-IMAPS 自签名证书的问题在 iOS 18.0 beta 6 (22A5338b) 中仍未解决。自 WWDC 宣布以来，用户一直无法在 iPhone 上访问他们的邮件。这个持续存在的问题造成了很大的不便，凸显了测试版中的一个关键缺陷。开发人员和用户的沮丧是显而易见的，因为他们急切地等待苹果的修复。]]></description>
-      <guid>https://t.me/hn_summary/108955</guid>
-      <pubDate>Wed, 18 Sep 2024 20:18:27 GMT</pubDate>
+      <title>[媒体] 任天堂公司</title>
+      <link>https://t.me/hn_summary/108978</link>
+      <description><![CDATA[任天堂起诉 Pocketpair, Inc 侵犯专利权
+任天堂有限公司与 Pokémon Company 一起在东京地方法院对 Pocketpair, Inc. 提起专利侵权诉讼。该诉讼于 2024 年 9 月 18 日发起，指控 Pocketpair 的游戏“Palworld”侵犯了任天堂持有的多项专利权。该法律诉讼寻求禁令以制止侵权行为并赔偿损失。任天堂强调其致力于保护多年来精心开发的知识产权。此案凸显了任天堂为保护其品牌和创新免受未经授权的使用而做出的持续努力。]]></description>
+      <guid>https://t.me/hn_summary/108978</guid>
+      <pubDate>Thu, 19 Sep 2024 00:59:21 GMT</pubDate>
     </item>
     <item>
-      <title>你好，Tor，</title>
-      <link>https://t.me/hn_summary/108954</link>
-      <description><![CDATA[关于 Tor/洋葱服务的德国广播新闻的最新消息
-嗨，Tor，
-
-我想向您介绍北德意志广播公司 (NDR) 即将发布的一则新闻，该新闻涉及洋葱服务可能遭受的去匿名化攻击。记者声称，德国执法部门已成功定位 Tor 入口节点并去匿名化用户，影响了 2019 年第三季度至 2021 年第二季度之间的 V2 和 V3 洋葱地址。他们据称使用了时间分析和对 Tor 节点的广泛监控。然而，由于无法访问支持文档，Tor 项目尚未证实这些说法。
-
-我们敦促任何有信息的人通过 security@torproject.org 与我们联系。尽管有这些说法，但 Tor 浏览器对用户来说仍然是安全的。我们会随时向您通报最新情况。
-
-谢谢！
-
-Isabela]]></description>
-      <guid>https://t.me/hn_summary/108954</guid>
-      <pubDate>Wed, 18 Sep 2024 20:09:20 GMT</pubDate>
+      <title>[媒体] 在《铁幕背后的调试》一书中，作者讲述了谢尔盖的经历，[...]</title>
+      <link>https://t.me/hn_summary/108977</link>
+      <description><![CDATA[铁幕后面的调试 (2010)
+在《铁幕后面的调试》一书中，作者讲述了苏联资深程序员谢尔盖的经历。20 世纪 80 年代，他在斯维尔德洛夫斯克附近的一个火车站使用 SM-1800 微型计算机时，遇到了一个令人困惑的漏洞。该系统设计用于规划火车车厢路线，但只在夜间崩溃，这促使谢尔盖展开调查。他发现，崩溃与切尔诺贝利核事故地区高放射性牲畜的运输同时发生，导致计算机内存错误。这一发现突显了苏联政府计划将受污染的肉类与未受污染的供应品混合在一起，促使谢尔盖移民。这个故事强调了动荡时期技术、政治和个人道德的交汇。]]></description>
+      <guid>https://t.me/hn_summary/108977</guid>
+      <pubDate>Thu, 19 Sep 2024 00:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 自 2018 年或 2019 年开始推出 5G 以来，该网络已在全球范围内扩展，覆盖 [...]</title>
-      <link>https://t.me/hn_summary/108953</link>
-      <description><![CDATA[玻璃天线将窗户变成 5G 基站
-自 2018 年或 2019 年开始推出 5G 以来，该网络已在全球范围内扩展，覆盖了数百万用户。然而，与 4G 相比，5G 的更高频谱需要更多基站，而覆盖范围更小。为了满足对更多基站的需求，同时又不扰乱城市景观，日本公司开发了透明玻璃天线，将窗户变成 5G 基站。总部位于东京的 JTower 与玻璃制造商 AGC 和移动运营商 NTT Docomo 合作，最近在东京新宿区部署了第一根此类天线。创新的 WAVEANTENNA 使用夹在玻璃板之间的透明导电材料，使其几乎不可见，同时提高了耐用性和信号质量。该技术与 5G Sub6 频段兼容，这对于穿透墙壁等障碍物至关重要。玻璃天线还应用于汽车以减少信号丢失，拉斯维加斯的 Halo.Car 等用户受益于远程车辆交付的高速网络。]]></description>
-      <guid>https://t.me/hn_summary/108953</guid>
-      <pubDate>Wed, 18 Sep 2024 20:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：507movements.com</title>
-      <link>https://t.me/hn_summary/108952</link>
-      <description><![CDATA[五百零七种机械运动
-标题：五百零七种机械运动
-网站：507movements.com
+      <title>[媒体] 在本研究中，我们探讨了 va 的抗菌活性和环境影响 [...]</title>
+      <link>https://t.me/hn_summary/108976</link>
+      <description><![CDATA[一种高效且可快速降解的消毒副产物消毒剂
 
-等一下……您说它们是动画！啊，是的……嗯，不幸的是，我们还没有让所有动画都运行起来，但我们确实有不少。查找彩色缩略图；它们标识已完成的动画。使用上一个和下一个链接（右上方）浏览缩略图页面。随着时间的推移，我们将添加更多，直到所有 507 个都完成。点击下面的 Facebook“订阅”或 Twitter“关注”按钮，即可收到我们进展的通知。同时，我们希望您喜欢我们完成的动画，以及 Henry T. Brown 在这本经典技术参考书中的原创插图。有关更多信息，请参阅“关于”页面。关闭]]></description>
-      <guid>https://t.me/hn_summary/108952</guid>
-      <pubDate>Wed, 18 Sep 2024 19:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] IBM 本周悄然裁减了大量员工，令人不悦的是 [...]</title>
-      <link>https://t.me/hn_summary/108951</link>
-      <description><![CDATA[消息人士称，IBM 正在悄悄裁员
-IBM 本周一直在悄悄裁掉大量员工，消息人士表示，IBM Cloud 部门受到的影响尤其严重。一位内部人士透露，这些裁员是秘密进行的，管理人员必须签署保密协议。裁员留言板上的帖子和确凿的消息来源表明，裁员规模很大。IBM 发言人提到了“劳动力再平衡”指控，但没有具体说明裁员人数。裁员主要针对高级员工，特别是那些任职时间较长的 50-55 岁员工，许多职位正在转移到印度。尽管年龄歧视诉讼不断，但 IBM 否认存在系统性的年龄偏见。]]></description>
-      <guid>https://t.me/hn_summary/108951</guid>
-      <pubDate>Wed, 18 Sep 2024 19:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] OpenTelemetry 的供应商中立性是一个显著的优势，特别是对于那些 [...]</title>
-      <link>https://t.me/hn_summary/108950</link>
-      <description><![CDATA[OpenTelemetry 和供应商中立性：如何构建可观察性策略
-OpenTelemetry 的供应商中立性是一个显著的优势，特别是对于那些经历过在商业供应商之间迁移挑战的人来说。在 Grafana Labs，这种中立性符合我们的大帐篷理念，尽管它有实际限制。OpenTelemetry 的愿景旨在通过将遥测收集与存储和分析分离来避免供应商锁定，促进开放标准和松散耦合。这种方法允许灵活地选择不同的组件和后端，尽管后端层的真正供应商中立性仍然具有挑战性。为了最大限度地利用选项，请从应用程序和跟踪的 OpenTelemetry 开始，分层采用并确保可重复使用的仪表。此策略有助于在保持灵活性的同时为您的架构提供面向未来的保障。]]></description>
-      <guid>https://t.me/hn_summary/108950</guid>
-      <pubDate>Wed, 18 Sep 2024 19:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] ASOMO 上的加速主义剧本探索了技术如何简化 [...]</title>
-      <link>https://t.me/hn_summary/108949</link>
-      <description><![CDATA[加速主义剧本
-ASOMO 上的加速主义剧本探讨了技术如何加速生活，而不是简化生活，而且通常以不可避免的进步为幌子。作者批评了主流叙事，即将技术进步描述为线性、高分竞赛，社会必须跟上，否则就会落后。这种意识形态就像电子游戏一样，假设利益不断积累，而不会归零，并提倡单一的进步道路。这篇文章强调了这种叙事如何边缘化那些抵制或对快速变化感到焦虑的人，经常将他们贴上保守或怀旧的标签。作者提出了一种范式转变，转向“平行轨道”视角，其中多样化、平衡的系统共存，挑战了“更新总是更好的”这一观念。这种方法重新定义了进步，强调韧性和自主性，而不是单纯的加速和扩张。
+在本研究中，我们探索了各种卤代酚消毒副产物 (DBP) 的抗菌活性和环境影响。我们发现 2,4-二卤代酚，尤其是 2,4-二碘代酚，对大肠杆菌、金黄色葡萄球菌、白色念珠菌和噬菌体 MS2 表现出优异的抗菌效果。这些 DBP 在太阳辐射下也表现出快速降解，使其成为有希望的消毒剂候选者。然而，尽管 2,5-二卤代氢醌具有很高的消毒效率，但由于其在水中极不稳定，因此被认为不合适。有趣的是，2,6-二氯苯醌 (2,6-DCQ) 是一种高效的消毒剂，其抗菌活性优于 PCMX，并且在海水中无论是在阳光下还是在黑暗中都表现出快速降解。这种快速降解将环境风险降至最低，使 2,6-DCQ 成为一种潜在的可持续消毒剂。该研究强调了在开发新消毒剂时功效与环境影响之间的平衡。
 
-争议：对主流技术叙事的批判是宣传，以及认为数字进步意识形态是一种经济保守主义，这些都可能被视为有争议的。
+争议：由于含氮 DBP 的毒性和稳定性较高而将其排除在外可能被视为一项有争议的决定，因为它限制了潜在消毒剂的范围。
 
-独特/巧妙：将现金比作“支付自行车”，将 ApplePay 比作“支付 Uber”，巧妙地说明了技术进步中平行轨道的概念。]]></description>
-      <guid>https://t.me/hn_summary/108949</guid>
-      <pubDate>Wed, 18 Sep 2024 19:24:28 GMT</pubDate>
+令人惊讶/聪明：发现 2,6-DCQ 在光照和黑暗条件下都会迅速降解，从而显着降低其对环境的影响，这是一个独特而聪明的发现。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108976</guid>
+      <pubDate>Thu, 19 Sep 2024 00:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] API-LLM-Hub 是一个轻量级的 JavaScript 库，旨在集成多种 AI 语言 [...]</title>
+      <link>https://t.me/hn_summary/108975</link>
+      <description><![CDATA[API-LLM-Hub：静态网站的浏览器内 LLM 集成
+API-LLM-Hub 是一个轻量级 JavaScript 库，旨在将多种 AI 语言模型直接集成到 Web 浏览器中，无需构建步骤或后端支持。用户可以通过导入库并使用他们的 API 密钥和模型规范对其进行初始化，轻松实现来自 OpenAI、Anthropic、TogetherAI 和 Gemini 等提供商的模型。该库支持各种配置，例如设置响应的最大令牌数和温度。此工具对于希望在静态网站上利用 AI 功能的开发人员特别有用。如需更多见解和高级 AI 主题，作者将读者引导至他们的个人博客和网站。 
+
+独特之处：该库能够完全在浏览器中运行，无需后端依赖，这是一个突出的功能。]]></description>
+      <guid>https://t.me/hn_summary/108975</guid>
+      <pubDate>Wed, 18 Sep 2024 23:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>【媒体】网站：qz.com</title>
+      <link>https://t.me/hn_summary/108974</link>
+      <description><![CDATA[iPhone 16 需求如此疲软，员工已经可以打折购买
+标题：iPhone 16 需求如此疲软，员工已经可以打折购买
+网站：qz.com
+
+尽管人们对苹果 (AAPL) 的人工智能推动寄予厚望，但 iPhone 16 的销售并未达到预期。 TF Securities 分析师郭明池指出，苹果员工已经可以以员工折扣购买 iPhone 16，这种优惠通常会在发布后数周才推出。 这种提前上市表明需求疲软。在首周末，苹果售出了约 3700 万台 iPhone 16，比 iPhone 15 首周末的销量下降了近 13%。郭将此归因于 Apple Intelligence 的分阶段发布，这是发布时没有提供的主要卖点。虽然美国的需求正在缓慢改善，但仍低于去年的水平。新的 AI 功能（包括对 Safari、Notes、计算器和 Siri 的增强）将于 10 月推出。分析师曾希望这些功能能够推动一个重要的升级周期，但只有 18% 的消费者会升级以获得新功能。大部分缺口是由于中国市场的激烈竞争，尤其是来自华为和其他本土品牌的竞争。]]></description>
+      <guid>https://t.me/hn_summary/108974</guid>
+      <pubDate>Wed, 18 Sep 2024 23:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] AI 代理入侵可观察性：蛇油还是 SRE 的未来？</title>
+      <link>https://t.me/hn_summary/108973</link>
+      <description><![CDATA[AI 代理入侵可观察性：蛇油还是 SRE 的未来？
+在本期《监控监控》中，我们深入探讨了代理 AI 在可观察性领域的变革潜力。传统上，可观察性初创公司专注于通过仪表板、警报和 API 集成将运营数据转化为可操作的见解。然而，能够采取现实世界行动的大型语言模型 (LLM) 的出现可能会彻底改变这一领域。Kura、OneGrep 和 Wildmoose 等公司正在开发旨在自动化 DevOps 和事件响应任务的 AI 代理，而 RunWhen 和 Acorn Labs 等其他公司则提供更广泛自动化的平台。尽管大肆宣传，但这些 AI 代理的有效性仍不确定，人们担心数据隐私、法规遵从性和高运营成本。 Parity 的 SREBench 基准测试提供了一种评估这些代理的新方法，但该行业仍处于起步阶段。正如 Marc Benioff 恰如其分地指出的那样，挑战在于解决创新者的困境。
+
+争议：AI 代理在复杂运营环境中的有效性和可靠性仍未得到证实，这引发了有关数据隐私和监管合规性的疑问。
+
+独特/巧妙：Parity 的 SREBench 基准测试灵感来自解决谋杀谜团，为评估可观察性领域的 AI 代理提供了一种新方法。]]></description>
+      <guid>https://t.me/hn_summary/108973</guid>
+      <pubDate>Wed, 18 Sep 2024 23:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] CalMatters 的文章讨论了加州立法机构的一项不成文的规定 [...]</title>
+      <link>https://t.me/hn_summary/108972</link>
+      <description><![CDATA[加州立法机构的不成文规定：秘密谈判，而不是公开谈判
+CalMatters 的文章讨论了加州立法机构的一项不成文规定，该规定不鼓励立法者在公共立法委员会中就法案修正案进行谈判。州参议员 Dave Min 和众议员 David Alvarez 之间的紧张交流凸显了这一做法，Min 坚持认为修正案应该私下讨论。批评者认为，这导致了幕后交易文化和缺乏透明度，因为决策通常是秘密做出的，然后在公开场合盖章。参议院领导人声称，这种方法可以避免混乱并确保修正案经过深思熟虑，但它引发了对问责制和潜在腐败的担忧。值得注意的是，一些新晋立法者和透明度倡导者对这一不透明的程序表示不满。（基于 94% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/108972</guid>
+      <pubDate>Wed, 18 Sep 2024 23:34:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
