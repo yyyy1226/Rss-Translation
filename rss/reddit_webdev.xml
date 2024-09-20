@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 01:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 03:32:03 GMT</lastBuildDate>
+    <item>
+      <title>需要练习方面的帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl172z/need_help_with_practice/</link>
+      <description><![CDATA[所以我正在尝试学习 Web 开发并学习书籍中的教程和材料，但我没有东西可以练习它们，例如练习题或问题来测试我的进度。 有没有什么地方可以让我完成简单的任务，随着我的进步，它会变得越来越难？ 我不想要填空类型的问题，而是需要完整网页或网站（后期）开发的问题。    提交人    /u/DEvilAnimeGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl172z/need_help_with_practice/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>对于印度网络开发者来说... 您是否需要为 gs 地址添加单独的字段，或者帐单地址是否足够</title>
       <link>https://www.reddit.com/r/webdev/comments/1fl0vix/for_the_indian_web_devs_do_you_need_to_add_a/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkro8x/fastify_v5_is_here/</guid>
       <pubDate>Thu, 19 Sep 2024 18:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前从事电子邮件开发的人？您使用什么工具来简化电子邮件开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</link>
-      <description><![CDATA[大家好，我想了解一下目前 HTML 电子邮件开发领域的情况。另外，有没有工具可以完全自动化开发？    提交人    /u/Silatus-sahil   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
