@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 21 Sep 2024 03:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 06:29:31 GMT</lastBuildDate>
+    <item>
+      <title>Doc Searls 重新思考数字关系</title>
+      <link>https://www.reddit.com/r/programming/comments/1flwoj7/doc_searls_on_rethinking_digital_relationships/</link>
+      <description><![CDATA[  由    /u/crispybison  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1flwoj7/doc_searls_on_rethinking_digital_relationships/</guid>
+      <pubDate>Sat, 21 Sep 2024 06:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 r8（Android 编译器）更喜欢宝马而不是奥迪？</title>
+      <link>https://www.reddit.com/r/programming/comments/1flundl/why_r8_android_compiler_preferred_bmw_over_audi/</link>
+      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1flundl/why_r8_android_compiler_preferred_bmw_over_audi/</guid>
+      <pubDate>Sat, 21 Sep 2024 04:07:15 GMT</pubDate>
+    </item>
     <item>
       <title>捍卫糟糕的遗留代码</title>
       <link>https://www.reddit.com/r/programming/comments/1flqr1k/in_defense_of_awful_legacy_code/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/Kofybrek  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fli9ia/i_added_3d_lighting_to_my_minecraft_clone_in_c/</guid>
       <pubDate>Fri, 20 Sep 2024 17:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NES 上的声音工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1flhwyx/how_sound_works_on_the_nes/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1flhwyx/how_sound_works_on_the_nes/</guid>
-      <pubDate>Fri, 20 Sep 2024 17:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年掌握现代编程的完整指南：顶级工具、框架和实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1flhwen/a_complete_guide_to_mastering_modern_programming/</link>
-      <description><![CDATA[  由    /u/Professional-Ad3040  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1flhwen/a_complete_guide_to_mastering_modern_programming/</guid>
-      <pubDate>Fri, 20 Sep 2024 17:42:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
