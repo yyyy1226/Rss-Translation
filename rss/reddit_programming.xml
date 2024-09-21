@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 21 Sep 2024 01:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 03:24:03 GMT</lastBuildDate>
     <item>
       <title>捍卫糟糕的遗留代码</title>
       <link>https://www.reddit.com/r/programming/comments/1flqr1k/in_defense_of_awful_legacy_code/</link>
@@ -20,13 +20,6 @@
       <pubDate>Fri, 20 Sep 2024 23:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>在 stable-diffusion-webui 中哪里可以找到 sgm？</title>
-      <link>https://www.reddit.com/r/programming/comments/1floety/where_to_find_sgm_in_stablediffusionwebui/</link>
-      <description><![CDATA[  由    /u/Nucleif  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1floety/where_to_find_sgm_in_stablediffusionwebui/</guid>
-      <pubDate>Fri, 20 Sep 2024 22:29:43 GMT</pubDate>
-    </item>
-    <item>
       <title>注意 Python 中这个（异步）生成器清理陷阱</title>
       <link>https://www.reddit.com/r/programming/comments/1flnvew/watch_out_for_this_async_generator_cleanup/</link>
       <description><![CDATA[  由    /u/mCodingLLC  提交  [链接] [评论]]]></description>
@@ -34,7 +27,7 @@
       <pubDate>Fri, 20 Sep 2024 22:04:19 GMT</pubDate>
     </item>
     <item>
-      <title>坏苹果！！现在使用世界上最差的显卡！使用世界上最差的声卡和 6502 面包板计算机，性能被推到极致！具有 30 FPS、Vsync、2 位灰度和“3 声音”。解码器的大部分内容加载到零页和堆栈底部以节省周期。</title>
+      <title>坏苹果！！现在使用世界上最差的显卡！使用世界上最差的声卡和 6502 面包板计算机，性能被推到最大！具有 30 FPS、Vsync、2 位灰度和“3 声音”。解码器的大部分内容加载到零页和堆栈底部以节省周期。</title>
       <link>https://www.reddit.com/r/programming/comments/1flng0s/bad_apple_now_on_the_worlds_worst_video_card_with/</link>
       <description><![CDATA[  由    /u/NormalLuser  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1flng0s/bad_apple_now_on_the_worlds_worst_video_card_with/</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1flhwyx/how_sound_works_on_the_nes/</guid>
       <pubDate>Fri, 20 Sep 2024 17:43:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年掌握现代编程的完整指南：顶级工具、框架和实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1flhwen/a_complete_guide_to_mastering_modern_programming/</link>
+      <description><![CDATA[  由    /u/Professional-Ad3040  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1flhwen/a_complete_guide_to_mastering_modern_programming/</guid>
+      <pubDate>Fri, 20 Sep 2024 17:42:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
