@@ -4,106 +4,98 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 15:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:19:43 GMT</lastBuildDate>
     <item>
-      <title>[媒体] ehandbook.com 上的文章“Agile 和 Jira 的缓慢而痛苦的死亡”认为 [...]</title>
-      <link>https://t.me/hn_summary/110004</link>
-      <description><![CDATA[Agile 和 Jira 缓慢而痛苦的消亡
-ehandbook.com 上的文章“Agile 和 Jira 缓慢而痛苦的消亡”认为，Agile 已经失去了其原有的灵活性和有效性，成为一种僵化的、组织范围内的强制要求，而不是特定软件项目的可选方法。作者强调，软件开发周期越来越长，团队规模不断扩大，需要更多工具来管理流程，但实际编码时间和进度却在减少。这篇文章挑衅性地将当前状态描述为“对 Jira 的崇拜”，质疑 Agile 和 Jira 为何如此根深蒂固，并建议需要摆脱这些限制。有争议的立场是对 Agile 和 Jira 的批评，认为它们适得其反，这种观点对其在科技行业的广泛采用提出了挑战。]]></description>
-      <guid>https://t.me/hn_summary/110004</guid>
-      <pubDate>Thu, 26 Sep 2024 15:09:25 GMT</pubDate>
+      <title>[媒体] 临界质量或引爆点是一个强大的思维模型，它解释了小到何种程度，[...]</title>
+      <link>https://t.me/hn_summary/110049</link>
+      <description><![CDATA[临界质量和引爆点
+临界质量或引爆点是一种强大的心理模型，它解释了微小、看似随机的变化如何导致社会、技术和行为的重大转变。这一概念由托马斯·谢林和马克·格兰诺维特于 1971 年提出，描述了一个想法、趋势或行为变得自我维持并呈指数级增长的点。它适用于从病毒式媒体和技术采用到社会学和商业等各个领域。了解临界质量有助于预测变化、推出成功的产品和进行明智的投资。这个想法还强调了小动作如何导致重大变化，通常遵循非线性路径。（基于 56% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/110049</guid>
+      <pubDate>Thu, 26 Sep 2024 21:19:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：arstechnica.com</title>
-      <link>https://t.me/hn_summary/110003</link>
-      <description><![CDATA[特斯拉全自动驾驶每行驶 13 英里需要人工干预
-标题：特斯拉全自动驾驶每行驶 13 英里需要人工干预
-网站：arstechnica.com
-
-独立汽车测试公司 AMCI Testing 评估了特斯拉备受争议的“全自动驾驶”(FSD) 系统，并发现了令人担忧的结果。尽管 FSD 具有先进的功能，例如复杂的驾驶操作和处理盲弯，但该系统在南加州 1,000 英里的行驶中需要人工干预超过 75 次——平均每 13 英里需要一次干预。 AMCI 对 FSD 的类似人类的反应表示赞赏，但警告称，其看似万无一失的驾驶方式可能会导致驾驶员产生危险的自满情绪。值得注意的是，FSD 表现出闯红灯和转向迎面而来的车辆等危险行为，这引发了人们对特斯拉对机器学习的依赖以及其编程的整体质量的质疑。]]></description>
-      <guid>https://t.me/hn_summary/110003</guid>
-      <pubDate>Thu, 26 Sep 2024 15:07:15 GMT</pubDate>
+      <title>[媒体] 我的车库里有大约 2000 盘 VHS 录像带，里面都是英国电视网的非广播录音 [...]</title>
+      <link>https://t.me/hn_summary/110048</link>
+      <description><![CDATA[我的车库里有 2000 盘旧 VHS 磁带，我不知道该怎么处理它们
+我的车库里有大约 2000 盘 VHS 磁带，里面都是 90 年代末和 21 世纪初英国电视的非广播录音。如果您与有兴趣保存这些内容的档案馆有联系，请联系我们！本周是英国图文电视服务（如 Ceefax）成立 50 周年，这些服务在互联网出现之前对新闻至关重要。尽管图文电视服务很重要，但从未保存过档案。然而，程序员 Alistair Buxton 发现了一种从旧 VHS 磁带中恢复图文电视数据的方法。受到启发，我开始存档我的磁带，但意识到我无法独自完成这项任务。如果您能帮助保护这一文化瑰宝，请联系我。]]></description>
+      <guid>https://t.me/hn_summary/110048</guid>
+      <pubDate>Thu, 26 Sep 2024 21:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Sensor Watch Pro 是经典卡西欧 F-91W 和 A158W 手表的现代升级版，[...]</title>
-      <link>https://t.me/hn_summary/110002</link>
-      <description><![CDATA[Sensorwatch pro – 可破解的 ARM Cortex M0 大脑升级版，适用于卡西欧标志性的 F-91W
-Sensor Watch Pro 是经典卡西欧 F-91W 和 A158W 手表的现代升级版，集成了强大的 ARM Cortex M0+ 微控制器。这块微型电路板取代了原来的石英机芯，提供 RGB LED、红外光传感器和带音量控制的更响的压电蜂鸣器等功能 - 所有这些都无需焊接。这款手表保持超低功耗，使用一节纽扣电池运行一年以上，并且仍然防水。独特的功能包括可定制的 LCD，具有更多段和图标，以及加速度计等模块化传感器附加组件。开源固件支持各种表盘和实用程序，使其具有高度可破解性和多功能性。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/110002</guid>
-      <pubDate>Thu, 26 Sep 2024 14:52:07 GMT</pubDate>
+      <title>[媒体] 在这篇来自 Curbed 的引人入胜的文章中，作者拜访了位于东汉普顿的罗伯特·卡罗 [...]</title>
+      <link>https://t.me/hn_summary/110047</link>
+      <description><![CDATA[与罗伯特·卡罗在小屋中
+在这篇来自 Curbed 的引人入胜的文章中，作者拜访了罗伯特·卡罗在东汉普顿的家，讨论他的巨作《权力经纪人》，这部作品今年出版 50 周年。卡罗以详尽的研究和一丝不苟的细节而闻名，他回顾了罗伯特·摩西对长岛景观的影响以及他的书的持续影响力。本文深入探讨了卡罗在他简陋的作家小屋中的写作过程，以及他致力于捕捉历史的每一个细微差别，即使这意味着重新审视旧章节。卡罗对准确性和深度的承诺显而易见，因为他分享了有关他的研究之旅的轶事以及将大量信息浓缩成他的传记的挑战。这篇文章突出了卡罗的独特方法以及他的工作在理解城市发展和政治权力方面的持久意义。（基于 48% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/110047</guid>
+      <pubDate>Thu, 26 Sep 2024 21:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>NKRYPT 雕塑位于澳大利亚堪培拉的 Questacon 科学探索中心外 [...]</title>
-      <link>https://t.me/hn_summary/110001</link>
-      <description><![CDATA[NKRYPT 雕塑
-NKRYPT 雕塑位于澳大利亚堪培拉的 Questacon 科学探索中心外，是一个由 Stuart Kohlhagen 设计的加密装置，于 2013 年 3 月堪培拉百年庆典期间安装。该装置有八根不锈钢柱子，每根柱子上都装饰着各种密码，包括环形密码、移位密码和二进制代码。柱子按特定的顺序和方向排列，每个密码都代表着一个独特的挑战。一个著名的密码是为了庆祝堪培拉百年庆典而设，并为解密者提供奖励。该装置鼓励公众参与解密密码，并在各种网站和社交媒体平台上记录了解密的进展。 NKRYPT 巧妙地融合了历史和现代密码技术，让游戏爱好者们对它产生了一种独特而又引人入胜的谜题兴趣。（根据 40% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/110001</guid>
-      <pubDate>Thu, 26 Sep 2024 14:36:59 GMT</pubDate>
+      <title>[媒体] 网站：www.kenklippenstein.com</title>
+      <link>https://t.me/hn_summary/110046</link>
+      <description><![CDATA[在我发布 JD Vance 档案后，Twitter 封禁了我
+标题：在我发布 JD Vance 档案后，Twitter 封禁了我
+网站：www.kenklippenstein.com
+
+在我发布特朗普竞选团队的 JD Vance 研究档案后，Elon Musk 的 X（Twitter）封禁了我，理由是违反了禁止发布私人信息的规定。但是，我只链接到了我网站上的一篇文章，其中包含一份有争议的文件。这份档案详细列出了有关 Vance 的公开可购买信息，引发了人们对“私人”信息构成问题的质疑。媒体经常购买此类数据进行报道，但又不愿披露。这项禁令凸显了言论自由的寒蝉效应以及媒体对透明度的态度转变。尽管失去了我的主要新闻传播渠道，我仍然致力于通过这份时事通讯挑战审查制度。如果您支持这一立场，请考虑订阅。]]></description>
+      <guid>https://t.me/hn_summary/110046</guid>
+      <pubDate>Thu, 26 Sep 2024 20:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：我应该使用什么工具来管理来自环境文件的秘密？</title>
-      <link>https://t.me/hn_summary/110000</link>
-      <description><![CDATA[询问 HN：我应该使用什么工具来管理来自 env 文件的机密？
-标题：询问 HN：我应该使用什么工具来管理来自 env 文件的机密？
-网站：news.ycombinator.com
-
-我的联合创始人不小心泄露了我们的一堆 API 密钥，我们只是在收到账单警报后才发现。我一直在考虑使用机密管理器，并向朋友寻求建议，但我想确保我没有忽略任何选项。]]></description>
-      <guid>https://t.me/hn_summary/110000</guid>
-      <pubDate>Thu, 26 Sep 2024 14:35:51 GMT</pubDate>
+      <title>[媒体] 为什么美国</title>
+      <link>https://t.me/hn_summary/110045</link>
+      <description><![CDATA[美国为何无法建造破冰船
+由于造船能力过时、保护主义法律以及缺乏专业知识，美国在建造破冰船方面举步维艰。尽管美国在北极和南极拥有重大利益，但目前只有两艘投入使用的破冰船，远低于海岸警卫队估计的 8-9 艘需求。旨在解决这一短缺问题的极地安全巡逻船计划面临多次延误和成本超支，第一艘船目前预计于 2029 年交付，每艘造价为 17-19 亿美元——比其他国家的造价高出四到五倍。美国造船业的低效率和避免使用外国专业知识的决定加剧了这些问题。 （基于 92% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/110045</guid>
+      <pubDate>Thu, 26 Sep 2024 20:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 飞行员因疲劳而死亡。</title>
-      <link>https://t.me/hn_summary/109999</link>
-      <description><![CDATA[飞行员正因疲劳而死亡。科技无法拯救他们
-2023 年 5 月，印度航空推出了安全管理软件 Coruson 和波音警觉模型 (BAM)，以减轻飞行员疲劳并提高安全性。Coruson 集中安全数据，而 BAM 预测和管理飞行员疲劳。此外，印度航空还推出了 Pilot Sector Report 应用程序和 DocuNet，以更好地管理数据。尽管采取了这些措施，该航空公司仍因违反疲劳管理规则而面临罚款，机舱工作人员也抗议管理不善。Vistara 飞行员还抗议减薪和增加工作时间。这两家航空公司均归塔塔集团所有，面临着系统性的倦怠和休息不足问题，而没有缓冲的排班表和紧张的日程安排加剧了这些问题。有争议的是，疲劳测量技术并未实现所承诺的效果，而且围绕这种技术的关注度也已逐渐减弱。]]></description>
-      <guid>https://t.me/hn_summary/109999</guid>
-      <pubDate>Thu, 26 Sep 2024 14:31:48 GMT</pubDate>
+      <title>[媒体] X（原 Twitter）正在屏蔽一份包含被黑文档的新闻稿的链接 [...]</title>
+      <link>https://t.me/hn_summary/110044</link>
+      <description><![CDATA[X（Twitter）屏蔽了被黑客入侵的 JD Vance 档案的链接
+X（前身为 Twitter）屏蔽了一份时事通讯的链接，其中包含一份被黑客入侵的文件，据称该文件是特朗普竞选团队对副总统候选人 JD Vance 的研究。撰写这份时事通讯的记者 Ken Klippenstein 已被停职。据报道，该文件来自伊朗黑客，其中包括 Vance 的个人信息。尽管其他新闻媒体也收到了被黑客入侵的数据，但他们选择不发布。X 的行动呼应了其在马斯克上台之前针对被黑客入侵材料的政策，该政策在 2020 年因亨特·拜登报道遭到强烈反对而发生了有争议的改变。The Verge 发布该链接的尝试也失败了，收到了有关可能有害内容的错误消息。]]></description>
+      <guid>https://t.me/hn_summary/110044</guid>
+      <pubDate>Thu, 26 Sep 2024 20:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国国家标准与技术研究院（NIST）提议取消一些[...]</title>
-      <link>https://t.me/hn_summary/109998</link>
-      <description><![CDATA[NIST 提议禁止一些最荒谬的密码规则
-美国国家标准与技术研究所 (NIST) 提议取消一些最令人沮丧和最适得其反的密码要求。这些要求包括强制密码重置、特定字符要求和使用安全问题。NIST 的最新 SP 800-63-4 草案（其数字身份指南）旨在引入更合理的做法。例如，除非有证据表明密码被破解，否则禁止定期更改密码，并拒绝在密码中使用特定字符类型。该指南还建议密码长度至少为 8 个字符，最好是 15 个字符，并支持使用 ASCII 和 Unicode 字符。批评者长期以来一直认为，许多强制执行的密码规则是有害的，而 NIST 的新指南可以帮助逐步淘汰这些过时的做法。欢迎公众发表评论，截止日期为 10 月 7 日。]]></description>
-      <guid>https://t.me/hn_summary/109998</guid>
-      <pubDate>Thu, 26 Sep 2024 14:28:43 GMT</pubDate>
+      <title>[媒体] 标题：Cupps 中发现 RCE 漏洞</title>
+      <link>https://t.me/hn_summary/110043</link>
+      <description><![CDATA[Cups 中发现 RCE 漏洞
+标题：Cups 中发现 RCE 漏洞
+
+CUPS 打印系统的多个组件中发现了一个严重的远程代码执行 (RCE) 漏洞，影响到 2.0.1 之前的所有版本。该漏洞由 Simone Margaritelli 发现，它允许远程攻击者利用 cups-browsed 中的打印机发现机制来安装恶意打印机或劫持现有打印机。这可能导致在发送打印作业时在目标主机上执行任意代码。该漏洞影响多个 GNU/Linux 发行版、Google ChromeOS 和大多数 BSD。该问题源于未清理的 IPP 属性和对发现机制的盲目信任。供应商已收到通知，并且 30 天的披露禁令将持续到 10 月 6 日。
+
+争议：该漏洞利用了 FoomaticRIPCommandLine 中一个 13 年前的漏洞，该漏洞被认为已得到修补，但并不在当前库中。
+
+令人惊讶/巧妙：该漏洞利用未清理的 IPP 属性和发现机制的盲目信任来实现远程代码执行。（基于 59% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/110043</guid>
+      <pubDate>Thu, 26 Sep 2024 20:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大家好，这周我发现了一个有趣的错误，想与大家分享。</title>
-      <link>https://t.me/hn_summary/109997</link>
-      <description><![CDATA[Guile 中的所需位优化
-大家好，我本周发现了一个有趣的错误，想与大家分享。Guile 的数字运算是在复数上定义的，这简化了算法编写，因为您无需担心数字表示。小的精确整数表示为 fixnum，而较大的整数表示为堆分配的大数。拆箱对于速度至关重要，它允许我们在满足某些条件时使用更高效的操作。例如，如果我们知道按位与运算的结果在特定范围内，我们就可以进行相应的优化。
-
-我探索了一种称为所需位分析的技术，以确定变量的哪些位对于计算是必要的。这种分析可以是局部的、全局的或过程间的，而 Guile 使用全局方法。该分析通过将结果截断到特定位范围来帮助优化操作，类似于 JavaScript |0 习语。
-
-我遇到的错误涉及定点流分析问题。我们需要计算每个变量定义所需的位，并进行迭代直到找到一个定点。问题是我们在工作列表中排队了错误的元素，这在某些情况下有效，但对于这个特定的分析无效。解决方案是重写定点以排队定义变量的标签，确保准确的分析。
-
-如果您做到了这一点，那就太好了！很快再来打字吧！]]></description>
-      <guid>https://t.me/hn_summary/109997</guid>
-      <pubDate>Thu, 26 Sep 2024 14:10:34 GMT</pubDate>
+      <title>大家好，这是针对 GNU/Linux 系统使用 R [...] 编写的一系列文章中的第一篇。</title>
+      <link>https://t.me/hn_summary/110042</link>
+      <description><![CDATA[通过 Cups 攻击 Unix 系统，第一部分
+大家好，这是针对通过 CUPS 进行 RCE 的 GNU/Linux 系统的系列文章中的第一篇。正如参与 CUPS 项目的人士所指出的那样，Linux 系统充斥着安全漏洞。这篇文章详细介绍了几个 CVE，包括 CVE-2024-47176、CVE-2024-47076、CVE-2024-47175 和 CVE-2024-47177，这些漏洞允许远程攻击者通过利用 CUPS 组件（如 cups-browsed 和 libcupsfilters）中的漏洞来执行任意命令。令人惊讶的是，默认配置允许来自任何来源的任何数据包，这使其成为一个重大的安全风险。如果不需要，我建议禁用并删除 cups-browsed 服务，并更新 CUPS 包。（基于 30% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/110042</guid>
+      <pubDate>Thu, 26 Sep 2024 20:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 英国汽车制造商 Supacat 推出了其最新创新产品 Supacat M [...]</title>
-      <link>https://t.me/hn_summary/109996</link>
-      <description><![CDATA[Supacat MUV：基于丰田 Hilux 皮卡的经济型军用车辆
-英国汽车制造商 Supacat 在澳大利亚陆军 2024 演习中推出了其最新创新产品 Supacat MUV。这款经济实惠的中型多用途车 (MUV) 基于丰田 Hilux 皮卡，拥有 3.5 吨的有效载荷能力，旨在弥补 Supacat 的 Jackal 3 和全地形移动平台 (ATMP) 之间的差距。这款 6×6 军用车辆为越野和沿海作战提供了卓越的机动性和灵活性，集成了商用现货组件以降低成本。MUV 有 6×6 和 4×4 两种型号，总重量为 6.5 吨。 Supacat 强调其面向未来的设计，允许使用新兴技术轻松升级。尽管最初针对亚太市场，但 MUV 也可能适用于欧洲应用。“MUV 延续了 Supacat 产品的传统，将高机动性和高有效载荷与解放模块化相结合，”公司官员 Matt Grech 表示。]]></description>
-      <guid>https://t.me/hn_summary/109996</guid>
-      <pubDate>Thu, 26 Sep 2024 13:55:18 GMT</pubDate>
+      <title>黑客越来越多地瞄准与互联网相连的运营技术 (OT) 和工业 [...]</title>
+      <link>https://t.me/hn_summary/110041</link>
+      <description><![CDATA[攻击者越来越多地使用暴力手段攻击工业系统
+美国网络安全和基础设施安全局 (CISA) 警告称，黑客越来越多地使用互联网连接的运营技术 (OT) 和工业控制系统 (ICS) 端点。该机构暗示，俄罗斯黑客可能是这些攻击的幕后黑手，这些攻击主要使用暴力手段和默认凭据来破坏设备。这些攻击对水和废水系统 (WWS) 部门影响显著，通过破坏水处理和分配带来现实风险。CISA 建议 OT 和 ICS 运营商遵循其建议和安全设计原则。 Fortinet 的 2024 年中期调查证实了这一趋势，显示 OT 攻击显著增加，今年受影响的企业比例为 73%，而 2023 年这一比例为 49%。攻击频率也激增，凸显了改进安全措施的必要性。]]></description>
+      <guid>https://t.me/hn_summary/110041</guid>
+      <pubDate>Thu, 26 Sep 2024 19:40:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AWS Nitro Enclaves：攻击面</title>
-      <link>https://t.me/hn_summary/109995</link>
-      <description><![CDATA[AWS Nitro Enclaves：攻击面
-AWS Nitro Enclaves：攻击面
+      <title>[媒体] 网站：www.telegraph.co.uk</title>
+      <link>https://t.me/hn_summary/110040</link>
+      <description><![CDATA[中国顶级经济学家批评习近平后消失
+标题：中国顶级经济学家批评习近平后消失
+网站：www.telegraph.co.uk
 
-AWS Nitro Enclaves 是隔离云环境中敏感工作负载的强大解决方案，但它们也带来了一系列安全挑战。在 Trail of Bits，我们分析了 Nitro Enclaves 的攻击面，并确定了开发人员需要解决的潜在漏洞。本指南提供了切实可行的建议，帮助您降低关键安全风险、实施随机性和侧信道保护的最佳实践，以及避免虚拟套接字处理和证明中的常见陷阱。
-
-争议：虚拟机管理程序始终受信任的假设可能会引起争议，因为这意味着对 AWS 安全措施的严重依赖。
-
-独特见解：建议使用 AWS 密钥管理服务来增加熵，这是增强安全区安全性的巧妙方法。
-
-令人惊讶的元素：尽管 AWS 保证，但 L3 缓存侧信道攻击的可能性凸显了一个正在进行的研究和争论领域。（基于 57% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/109995</guid>
-      <pubDate>Thu, 26 Sep 2024 13:55:15 GMT</pubDate>
+习近平最近为提振中国经济所做的努力暂时让投资者感到振奋，上证指数上涨 4.3%，创 2020 年 7 月以来的最大涨幅。然而，该指数自 8 月以来仅部分收复失地，凸显出市场持续的挣扎。花旗经济学家余向荣指出，刺激计划是不够的，因为核心问题是缺乏真正的信贷需求，而不是流动性。家庭和企业仍然保持谨慎，如果不增加政府支出，ING 的 Lynn Song 不会修改 GDP 增长预测。在疫情、政策和制裁冲击的推动下，信心疲软、活动放缓和资产价格下跌的负反馈循环加剧了经济下滑。Pantheon Macroeconomics 的 Duncan Wrigley 强调，高家庭储蓄率进一步抑制了消费者支出，使经济形势恶化。]]></description>
+      <guid>https://t.me/hn_summary/110040</guid>
+      <pubDate>Thu, 26 Sep 2024 19:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
