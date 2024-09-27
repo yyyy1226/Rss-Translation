@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 27 Sep 2024 12:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:23:16 GMT</lastBuildDate>
+    <item>
+      <title>47 分钟内完成 18 个月的 pgvector 学习</title>
+      <link>https://www.reddit.com/r/programming/comments/1fqq8w6/18_months_of_pgvector_learnings_in_47_minutes/</link>
+      <description><![CDATA[  由    /u/jamesgresql  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fqq8w6/18_months_of_pgvector_learnings_in_47_minutes/</guid>
+      <pubDate>Fri, 27 Sep 2024 15:20:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Android Studio 中使用 Kotlin 创建测验应用程序 |逐步解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1fqoanz/إنشاء_تطبيق_quiz_app_باستخدام_kotlin_في_android/</link>
+      <description><![CDATA[  由    /u/light_unknow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fqoanz/إنشاء_تطبيق_quiz_app_باستخدام_kotlin_في_android/</guid>
+      <pubDate>Fri, 27 Sep 2024 13:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 BigInt 格式化货币值</title>
+      <link>https://www.reddit.com/r/programming/comments/1fqn09r/formatting_currency_values_with_bigint/</link>
+      <description><![CDATA[  由    /u/NealLeonMoriarty  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fqn09r/formatting_currency_values_with_bigint/</guid>
+      <pubDate>Fri, 27 Sep 2024 12:53:24 GMT</pubDate>
+    </item>
     <item>
       <title>语言游戏 • Eli Holdness</title>
       <link>https://www.reddit.com/r/programming/comments/1fqmu0b/language_games_eli_holderness/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Informal-Coach-4298  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fqhkm8/i_created_a_linux_command_to_manage_the_search/</guid>
       <pubDate>Fri, 27 Sep 2024 06:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于在实际应用中应用的 JavaScript 数组方法的免费章节</title>
-      <link>https://www.reddit.com/r/programming/comments/1fqhgmi/free_chapter_on_javascript_array_methods_as/</link>
-      <description><![CDATA[  由    /u/EmphasisDowntown2947  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fqhgmi/free_chapter_on_javascript_array_methods_as/</guid>
-      <pubDate>Fri, 27 Sep 2024 06:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grace Hopper 于 1945 年发表的一篇文章，介绍了她在 Harvard Mark I 上运行的程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1fqeu1a/grace_hoppers_1945_article_about_her_program/</link>
-      <description><![CDATA[  由    /u/djnz-1999  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fqeu1a/grace_hoppers_1945_article_about_her_program/</guid>
-      <pubDate>Fri, 27 Sep 2024 03:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我弄乱了我的日历并写了一个脚本来修复它</title>
-      <link>https://www.reddit.com/r/programming/comments/1fq9vob/i_messed_up_my_calendar_and_wrote_a_script_to_fix/</link>
-      <description><![CDATA[  由    /u/ChiliPepperHott  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fq9vob/i_messed_up_my_calendar_and_wrote_a_script_to_fix/</guid>
-      <pubDate>Thu, 26 Sep 2024 23:17:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
