@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 18:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:21:30 GMT</lastBuildDate>
+    <item>
+      <title>数字专辑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fro1l4/digital_albums/</link>
+      <description><![CDATA[距离周日还有 5 分钟，所以我会简短地说：我试用了 elixir 和 phoenix，看看除了 react 和 typescript 之外还有什么。 今年我的家人失去了亲人，在翻阅相册时，我想创造一种类似的体验，但是是数字化的。 整个过程花了 2 个月的时间。欢迎探索并提供反馈。它可能仍然有很多错误，要真正享受它，需要一台平板电脑或笔记本电脑。 https://albums.digital    提交人    /u/mendrique2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fro1l4/digital_albums/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>第二个营销网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frnvr7/second_website_for_marketing/</link>
+      <description><![CDATA[我是律师。我在一家小公司工作，在律师事务所的网站上有一些文章和视频，但我想做第二个网站/视频博客，在那里我可以发布视频、文章等。销售渠道等等。  我将创建一个 YouTube 频道并在那里发布内容，然后将这些 YouTube 视频也放在我的网站上。功能有限。没有支付处理器，但最终希望自动发送一些电子邮件。没有计划，但如果我单独行动，我希望将其转换为具有支付处理和更多功能的律师事务所网站。  希望自己动手，摸索着，省钱。有没有推荐用于这些目的的平台？Wix？Wordpress？Mail chimp？  感谢任何见解。谢谢     提交人    /u/Constant-Opposite638   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frnvr7/second_website_for_marketing/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的网络编程指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frnhzb/free_mentorship_on_web_programming/</link>
+      <description><![CDATA[TL;DR：我提供免费的编程指导，这里是 discord：https://discord.gg/USnVBS4B 如果您想了解更多信息，请查看我的信息：OOP，中级编程，系统设计。 大约一年前，我开始指导那些正在学习编程和计算机科学的人。 我没有提供编程课程；我的目标是在您的学习道路上为您提供支持。 以下是开始这一切的帖子： 我是一家 IT 咨询公司的首席技术官，在该领域拥有 22 年的经验。 在与我身边独自学习编程的不同人交谈后，我意识到如果在学习过程中没有人支持您并为您提供正确的建议，那将是多么困难和令人迷茫。 出于这个原因，我决定尝试通过指导他们来帮助处于同样境地的其他人。 我可以提供编程方面的一般建议，但在更具体的领域我可以提供更多帮助：  Web 编程、Typescript、Javascript、Rust Web 框架 Python 和 OOP 编程（继承、多态性、OOP 设计等） 数据科学和统计编程（Julia、R 等） 函数式编程（Haskell 等） Rust 计算机科学（数据结构、算法等） 数据库 云计算 Docker/Kubernetes 其他（我知道但不感兴趣的东西）：Java、C#、等）     提交人    /u/stvaccount   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frnhzb/free_mentorship_on_web_programming/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:33:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个人工智能简历生成器，帮助我获得 FAANG+ 公司的面试机会</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frnffk/i_built_an_ai_powered_resume_builder_that_helped/</link>
+      <description><![CDATA[        提交人    /u/IReviewResumes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frnffk/i_built_an_ai_powered_resume_builder_that_helped/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合“涉猎”的堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frml6x/best_stack_to_dabble/</link>
+      <description><![CDATA[大家好，我一直想把玩一些基本概念作为一种爱好，并且想知道最好的“全能语言/堆栈”是什么？ 我并没有特定的领域，我希望能够玩一些 AI 包装器，但也许还有一些更传统的东西。 不太担心移动设备。 我在 python 和 JavaScript 方面经验差不多。 寻找本质上最简单的方法来陷入“一切”而不必打开潘多拉魔盒。 人们推荐 laravel 或 python 作为“交钥匙”选项，但我真的不知道！ 任何见解或需要考虑的事情都将非常有帮助。 谢谢！   由    /u/CallMeShiibbyy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frml6x/best_stack_to_dabble/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人网站帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frme6p/personal_website_help/</link>
+      <description><![CDATA[我是一名后端 .NET 开发人员，但我也了解一些 Angular（足以让我上手）。我想创建自己的网站，连接我的所有社交媒体和互联网活动，包括我的博客、LinkedIn、github、音乐页面等。我不太擅长 ui/ux 设计，正在寻找可以共享不同内容而不会使页面臃肿且看起来有趣的设计。我只需要一些指导和想法。如果您能向我展示连接多个社交媒体以提供优质服务且外观漂亮的网站，我将不胜感激。谢谢    提交人    /u/CreepyBuffalo3111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frme6p/personal_website_help/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个信息服务，这样我早上就不用再使用手机了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frmdya/i_built_a_messaging_service_to_stay_off_my_phone/</link>
+      <description><![CDATA[作为一名大学生，我大多数日子都要早起，但很长一段时间以来，我都无法在起床时不看手机。如果我不看手机，我就会觉得又睡着了，如果我看了手机，我就会分心。 所以我做了一个应用程序来帮助我，每天早上我都会收到一条短信，里面有一些提醒、天气信息、新闻文章链接、体育比分和其他一些内容。这样，我就不用打开一堆带有通知和广告的不同应用程序，而是只用文本形式获取一些信息，这样就不会那么让人分心了。 我还为那些喜欢电子邮件而不是短信的人添加了电子邮件递送功能。 （文本和电子邮件需要花钱来支付 API 使用费和递送费，但我还制作了一个免费的仪表板，您可以在网站上每天查看您的消息）https://www.goodmornin.app    提交人    /u/mst152   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frmdya/i_built_a_messaging_service_to_stay_off_my_phone/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在同一个应用程序中拥有 jwt 和会话。这合理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frm3fx/having_jwt_and_sessions_in_the_same_app_is_this/</link>
+      <description><![CDATA[我有一个 nest.js 应用程序，其中我使用第三方身份令牌（即 jwt ofc）进行身份验证。 现在我需要实现一个允许管理员模拟系统中其他用户的端点。我能想到的最佳方法是生成一个新的 jwt 令牌，其有效负载包括要模拟的用户的 id。问题是我找不到使用我想要的有效负载生成第三方 id 令牌的方法。 我能想到的唯一选择是创建一个会话。这是一个好的做法还是我可以做其他事情？    提交人    /u/I-hate-programming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frm3fx/having_jwt_and_sessions_in_the_same_app_is_this/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 React 制作了一个视频编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frlz5s/i_made_a_video_editor_using_react/</link>
+      <description><![CDATA[      https://preview.redd.it/hf04vsy0plrd1.png?width=1246&amp;format=png&amp;auto=webp&amp;s=63a6e2fbe01daa04713443feaede7a83c185ed5f 您可以在此处查看演示：https://captions-pearl.vercel.app/ 如有任何反馈，我们将不胜感激。    由    /u/snapmotion  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frlz5s/i_made_a_video_editor_using_react/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我最初为 csfloat/extension 制作的 GitHub Actions 发布工作流程，现在我将其用于我的所有项目！只需单击一个按钮，它就会自动创建版本更改提交、标记、构建、发布和更改日志！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frlf20/check_out_this_github_actions_release_workflow_i/</link>
+      <description><![CDATA[      示例：  csfloat/extension/upgrade.yml csfloat/extension/release.yml ayoung19/clipboard-history/upgrade.yml ayoung19/clipboard-history/release.yml  工作原理 您所要做的就是在“操作”选项卡下的此输入中输入版本号，然后单击“运行工作流”。然后，将执行 scripts/version-check.sh 以验证新版本，并将提交 + 标签推送到 master 以更改版本号。这将触发构建和发布工作流，该工作流还自动包含自上次标记版本以来所有提交的变更日志。 https://preview.redd.it/9u8yfj7ahlrd1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=54e92e658907e5f99e8b37abd3a4935f83b176c0 设置 您需要做的就是复制scripts/version-check.sh、.github/workflows/upgrade.yml 和 .github/workflows/release.yml 然后在名称 PERSONAL_ACCESS_TOKEN 下添加个人访问令牌 Action secret。这是必要的，因为&amp;“工作流程运行中的操作无法触发新的工作流程运行。” (来源) https://preview.redd.it/0nqvtwmdilrd1.png?width=2600&amp;format=png&amp;auto=webp&amp;s=dec9daf01a2dc97ab31053d5c0b0d78f8af0ad8b 让如果您对如何设置它有任何疑问，或者对如何改进此工作流程以使其不那么复杂有任何反馈，请告诉我。将它用于我自己的个人项目是一种乐趣，我希望你们都觉得它同样有用。此外，感谢 csfloat 伙计们向我提出这个问题并给我机会构建这个解决方案！    提交人    /u/LingLingAndy   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frlf20/check_out_this_github_actions_release_workflow_i/</guid>
+      <pubDate>Sat, 28 Sep 2024 18:58:01 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个记分应用程序！</title>
       <link>https://www.reddit.com/r/webdev/comments/1frkqo2/i_built_a_score_keeping_app/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[www.tubetrotter.live 我很高兴与大家分享我一直在进行的一个名为 TubeTrotter 的项目。这是一款 Web 应用程序，可在交互式世界地图上可视化 YouTube 旅行视频博客，提供一种探索旅行内容的新方式。 功能： 正如标题所示，TubeTrotter 可让您：  单击世界地图的任何部分 放大特定区域 从该确切位置观看旅行视频博客  以下是简要概述：  YouTube 上的旅行视频博客绘制在地图界面上 您可以探索不同的地区并查找带有地理标记的视频 在不同的旅行频道之间切换 当您在地图上移动时，视频列表会更新以显示当前视图中的内容  技术栈：  前端：Next.js 后端：Node.js使用 MongoDB API：Google Maps JavaScript API 和 YouTube 数据 API  有趣的部分： 构建这个是一次有趣的旅程。我发现自己正在探索从未听说过的地方，发现新的内容创作者，并对旅游视频在全球范围内的分发方式有了不同的认识。 我喜欢实现的一些功能：  人口密集地区的视频聚类 适用于桌面和移动设备的响应式设计 在平移和缩放时动态加载视频  挑战和学习：  使用多个 API 提高了我的数据管理技能 在 UX 设计之间创建流畅的交互是一项很好的练习 针对大量地图标记的性能优化促使我思考效率问题（仍未完全优化，正在考虑一些其他想法）  未来计划： 我正在考虑添加用户提交的视频位置和个性化频道选择。未来还有潜力扩展到其他视频平台。 您可以在 www.tubetrotter.live 上查看。我欢迎您提供反馈和新功能想法！ 有没有其他人建立过将地图与其他类型内容相结合的项目？或者您是否研究过可视化视频内容的创新方法？我很想听听您的经验。    提交人    /u/llkjm   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1frj0ol/showoff_saturday_click_zoom_watch_i_built_a/</guid>
       <pubDate>Sat, 28 Sep 2024 17:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么简单的库/框架可以帮助我创建这样的图表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frj0mj/what_is_a_simple_librayframework_which_can_help/</link>
-      <description><![CDATA[        提交人    /u/Actual-Wall3083   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frj0mj/what_is_a_simple_librayframework_which_can_help/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我们的专栏不够了”——最好的，最差的代码库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frixao/we_ran_out_of_columns_the_best_worst_codebase/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frixao/we_ran_out_of_columns_the_best_worst_codebase/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在慢慢地对我的网站实施各种性能优化，但就是无法获得正确的速度指数，该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frir8b/ive_been_slowly_implementing_every_kind_of/</link>
-      <description><![CDATA[        提交人    /u/leonida99pc   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frir8b/ive_been_slowly_implementing_every_kind_of/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 五年后，我终于决定重新设计我的网站并彻底改造我的品牌。和往常一样，它只是 html 和 css，带有一个静态网站生成器，页面速度得分为 100。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1friml6/showoff_saturday_after_5_years_i_finally_decided/</link>
-      <description><![CDATA[这是链接  https://oakharborwebdesigns.com 我很喜欢暗黑模式。如果你打开它并等待 8 秒，桌面上的英雄部分就会播放一个复活节彩蛋动画。  在桌面上使用暗黑模式时，如果你将鼠标悬停在服务卡上，图标框就会变成一轮发光的月亮，卡片背景就会变成带有流星的夜空。  在页面底部，我将 CTA 部分变成了一个发光的广告牌。打开和关闭暗黑模式将隐藏和显示从底部弹出的脚手架并具有闪烁的动画  我对内容的不同之处在于使用能够满足小型企业需求的标题。就像再也不用担心他们的网站，或者得到他们一直想要的网站一样。然后我使用内部页面对不同位置的不同服务进行排名。主页更像是一个转换工具，而内部页面用于排名。喜欢这个页面  https://oakharborwebdesigns.com/hammond/seo-services/ 我会让我的 SEO 人员为我的目标区域创建更多这样的页面。专业提示 - 嵌套的 URL 结构让谷歌很高兴。我的 SEO 人员发现 /location/service url 名称的排名比仅仅 /service url 名称更好。因此，使用特定位置的特定服务定位您的页面并让您的 URL 反映它效果要好得多。  我使用 11ty 静态站点生成器和 decap cms 作为博客，这样我就可以仪表板中对其进行编辑。主页上的博客集合会自动更新我最近发布的帖子，并删除旧帖子，因此主页上始终只有 3 篇。这一切都由 11ty 和 decap 处理。  我保持英雄部分相对不变，因为它是一种标志性风格和设计，对我的品牌来说是可识别的。我只更改了我使用的图像，并将背景设为平坦的深蓝色，这是新的品牌颜色，并取消了渐变。  然后我将字体更改为更大胆和更专业的字体。Roboto 和 poppins 是我的好朋友，但现在是时候继续前进并更新我的品牌和风格了。  我使用 plausible.io 进行分析，它真的很轻量。仍然获得 100 分的性能得分。当我使用谷歌分析时，它下降到 84。太蠢了。现在分析 4 发布了，我甚至找不到我想知道的关于我的访客的事情。所以我转向了 plausible。到目前为止，我非常喜欢它，它不会影响我的加载时间。  我真的很喜欢设计和构建它，只是想与社区分享我所做的事情以及我做出某些更改的原因。 希望能为其他人的自由职业网站提供良好的灵感，并仅使用一些 html 和 css 就可以实现什么！  让我知道你的想法！     提交人    /u/Citrous_Oyster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1friml6/showoff_saturday_after_5_years_i_finally_decided/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有办法解决这个问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frihak/is_there_a_workaround_for_this/</link>
-      <description><![CDATA[      source 我正在寻找一种最好是轻量级的解决方案。    提交人    /u/ThaisaGuilford   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frihak/is_there_a_workaround_for_this/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用链接在网页上生成图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frh8k2/how_do_i_make_with_a_link_generate_an_image_on_a/</link>
-      <description><![CDATA[        提交人    /u/Giggy36   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frh8k2/how_do_i_make_with_a_link_generate_an_image_on_a/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:48:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 ChatGPT 的帮助下花了几个小时制作了一个小调色板工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frgzww/a_little_color_palette_tool_i_made_in_a_couple_of/</link>
-      <description><![CDATA[        提交人    /u/DeliciousGorilla   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frgzww/a_little_color_palette_tool_i_made_in_a_couple_of/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个免费的语言学习网站，其中包含可定制的单词对匹配测验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frgy5e/built_a_free_language_learning_website_with/</link>
-      <description><![CDATA[实时版本：https://www.pairlearner.app/ 这是我公开分享的第一个项目，因此我很乐意收到任何人可能分享的反馈 :) 最初为自己创建了这个网站，因为我正在学习德语，并且意识到我在做这种配对匹配的事情时记忆单词最好，但是我尝试的任何地方要么不允许使用自定义单词，要么不能像这样并排两个列表工作。 最终我自己创建了它，并且我想我可以分享它以防有人也在寻找这种功能。    提交人    /u/BigDaddy0790   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frgy5e/built_a_free_language_learning_website_with/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:35:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frgtwj/help_building_website/</link>
-      <description><![CDATA[我是 Web 开发方面的新手，但我很想开始构建一个网站，但我需要一位导师/教练/未来的商业伙伴    由    /u/jeffrojason  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frgtwj/help_building_website/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站，第一个数到一百万的人将获胜。允许编写脚本。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frg8r2/i_built_a_website_that_will_be_won_by_the_first/</link>
-      <description><![CDATA[  由    /u/MobilePanda1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frg8r2/i_built_a_website_that_will_be_won_by_the_first/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
