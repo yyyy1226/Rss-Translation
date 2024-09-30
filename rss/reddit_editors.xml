@@ -4,13 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:31:07 GMT</lastBuildDate>
     <item>
-      <title>编辑真他妈的棒</title>
-      <link>https://www.reddit.com/r/editors/comments/1fsxgma/editing_is_fucking_awsome/</link>
-      <description><![CDATA[在这个 subreddit 上的很多帖子中，总有人说他们编辑只是为了钱。但也抱怨报酬低 虽然我明白，编辑很容易，任何人都可以成为编辑并开始赚钱，也许不是改变生活的钱，但它可以养家糊口，这就是为什么市场饱和的原因（谈论 YouTube） 我现在 20 岁，我在 13 岁时编辑了我的第一个视频。而且..它改变了我的生活。与那些只是为了钱而做这件事的人不同，我喜欢编辑。但只有当我为自己做的时候才会这么做。 我以前只做长篇内容，但现在因为我正在为视频编辑器构建应用程序，我进入了短篇内容领域并开始再次爱上它，我知道有些人讨厌它，这会对他们造成影响，特别是如果你与一个吝啬的客户合作，他不欣赏你的工作。 但在我看来，做一些你不喜欢的事情来养家糊口是一种悲惨的生活。所以试着为自己编辑，并尝试从中获得乐趣。你最终可能会爱上它。    提交人    /u/Longjumping_Side_375   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fsxgma/editing_is_fucking_awsome/</guid>
-      <pubDate>Mon, 30 Sep 2024 14:53:19 GMT</pubDate>
+      <title>远程工作室托管</title>
+      <link>https://www.reddit.com/r/editors/comments/1fsyv47/remote_studio_colocation/</link>
+      <description><![CDATA[正在考虑将我们的工作站和媒体服务器移至主机托管。我们目前通过 Parsec 在工作站上进行完全远程编辑。有没有人有类似的设置/经验？我主要担心的是主机托管的进出和速度。    提交人    /u/thegingerlord   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fsyv47/remote_studio_colocation/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:50:48 GMT</pubDate>
     </item>
     <item>
       <title>在相机中没有正确实现。我想创建一个微妙的“假景深”——类似于 iPhone 上的“电影模式”——可以吗？</title>
@@ -43,12 +43,12 @@
     <item>
       <title>Premiere Pro 25 全新色彩管理 - 色彩爆炸</title>
       <link>https://www.reddit.com/r/editors/comments/1fstbsu/premiere_pro_25_new_color_managements_colors/</link>
-      <description><![CDATA[嗨，我在新的 Premiere Pro 25 Beta 中使用佳能 R5 素材，将其设置为 Clog(1) 和 Cinema Gamut，并进行色彩管理。 通常我会手动对素材进行分级，或者使用佳能的 LUT“BT709_CanonLog-to-BT709_WideDR_65_FF_Ver.2.0”进行分级。我通常在最低的 Lumetri 调整层中使用 lut，过去效果还不错。颜色和对比度看起来与打开“查看辅助”的相机显示屏上相同。 现在我尝试在 Premiere Pro 2025 Beta 中使用新的色彩管理，这应该是破坏性较小、更好的方法。 我没有使用输入 lut，将媒体色彩空间设置为“Canon Log/Cinema Gamut”。  我将序列设置为“大色彩空间（色调映射）”。颜色完全爆发。对比度保持较低，但颜色过饱和。  不同设置的示例： https://imgur.com/a/OoYqxKM 我在这里做错了什么？     提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我在新的 Premiere Pro 25 Beta 中使用佳能 R5 素材，将其设置为 Clog(1) 和 Cinema Gamut，并进行色彩管理。 通常我会手动对素材进行分级，或者使用佳能的 LUT“BT709_CanonLog-to-BT709_WideDR_65_FF_Ver.2.0”进行分级。我通常在最低的 Lumetri 调整层中使用 lut，过去效果还不错。颜色和对比度看起来与打开 View Assist 的相机显示屏上相同。 现在我尝试在 Premiere Pro 2025 Beta 中使用新的色彩管理，这应该是破坏性较小、更好的方法。 我没有使用输入 lut，将媒体色彩空间设置为“Canon Log/Cinema Gamut”。  我将序列设置为“大色彩空间（色调映射）”。颜色完全爆发。对比度保持较低，但颜色过饱和。  不同设置的示例： https://imgur.com/a/OoYqxKM 我在这里做错了什么？     提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fstbsu/premiere_pro_25_new_color_managements_colors/</guid>
       <pubDate>Mon, 30 Sep 2024 11:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>询问专业人士 - 每周 - 星期一 2024 年 9 月 30 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
+      <title>询问专业人士 - 每周 - 周一至 2024 年 9 月 30 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</link>
       <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</guid>

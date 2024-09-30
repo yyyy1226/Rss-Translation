@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:30:26 GMT</lastBuildDate>
     <item>
-      <title>人工智能周报</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxo6w/ai_weekly_brief/</link>
-      <description><![CDATA[大家好， 我在这里制作了一个视频，讨论了过去一周人工智能领域发生的事情。 我希望这对你们中的一些人有用。非常欢迎反馈！:)    提交人    /u/Personal-Trainer-541   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxo6w/ai_weekly_brief/</guid>
-      <pubDate>Mon, 30 Sep 2024 15:02:07 GMT</pubDate>
+      <title>一个 token 方法——一种用于检测人工智能生成幻觉的方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0k8e/one_token_method_a_method_for_detecting/</link>
+      <description><![CDATA[我创建了一个简单的方法来了解模型对内容正确的置信度，从而可以检测 AI 生成内容中的幻觉。我还进行了一些测试来确认该方法是否有效。 方法说明：https://damc4.gitlab.io/hallucinations/ 包含实现的存储库：https://github.com/damc/detecting-hallucinations/    提交人    /u/damc4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0k8e/one_token_method_a_method_for_detecting/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 RAG 中的幻觉检测方法进行基准测试</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0110/benchmarking_hallucination_detection_methods_in/</link>
+      <description><![CDATA[我偶然发现了这篇对构建 RAG 系统并担心幻觉的人们很有帮助的 Towards Data Science 文章。 如果您像我一样，保持用户信任是首要任务，而不受控制的幻觉会破坏这一点。文章对 4 个 RAG 数据集 (RAGAS、G-eval、DeepEval、TLM 和 LLM 自我评估) 中的许多幻觉检测方法进行了基准测试。 如果您好奇这些工具在实践中自动捕获不正确的 RAG 响应的能力如何，请查看它。如果您尝试过其中任何一种方法，或者对有效的幻觉检测有其他建议，我们很乐意听到您的想法！   提交者    /u/cmauck10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0110/benchmarking_hallucination_detection_methods_in/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我筛选了数百条 Reddit 帖子，以确定人工智能领域最常见、讨论最广泛的技术主题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsyqft/i_screened_hundreds_of_reddit_posts_to_identify/</link>
+      <description><![CDATA[嗨，AI 爱好者和开发者们！我一直在开展一个项目，通过查看 Reddit 专用子版块上的帖子来分析和可视化 AI 开发中最常见的技术挑战。 项目目标 该项目的主要目标是识别和跟踪与 AI 开发相关的最普遍和最流行的技术挑战、实施问题和概念障碍。通过这样做，我们可以：  帮助开发人员专注于最相关的技能和知识领域 指导教育内容创建者解决最紧迫的问题 为研究人员提供有关需要更多关注或解决方案的领域的见解  工作原理  数据收集：我从以下每个与AI相关的子版块中获取了最热门的200个帖子：r/learnmachinelearning，r/ArtificialIntelligence，r/MachineLearning，。 筛选：使用LLM筛选帖子，以确保它们是关于特定的技术挑战，而不是一般的讨论或新闻。 总结和标记：每个相关帖子都经过总结并标记最多三个类别来自预定义的 50 个技术领域列表（例如，大型语言模型架构的 LLM-ARCH、计算机视觉对象检测的 CV-OBJ）。 分析：系统分析标签的频率，以及每个类别相关的赞成和评论。 可视化：结果通过各种图表和热图可视化，显示最常见的挑战及其在社区中的相对重要性。  结果（以下是图表）：  按综合得分（频率 + 赞成 + 评论）排名前 15 位的标签 标准化标签流行度热图 带有单独分数的标签分析表  反馈 我很想听听你对这个项目的看法以及如何让它对人工智能开发社区更有用。具体来说：  除了 Reddit 之外，我们还应该考虑其他数据源吗？ 您认为哪些其他指标或分析有价值？ 如何使结果对开发人员、教育工作者或研究人员更具可操作性？ 这种方法是否存在我们应该解决的潜在偏见或局限性？ 您是否对定期更新这些趋势的仪表板感兴趣？  非常感谢您的见解和建议！ TL;DR：AI 开发挑战分析器  该项目分析 Reddit 帖子以识别常见的 AI 开发挑战 使用 ML 筛选、总结和标记来自 AI 相关子版块的帖子 可视化结果以显示讨论最多和参与度最高的技术领域 在此处查看结果 寻求反馈以改进分析     由    /u/Fixmyn26issue 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsyqft/i_screened_hundreds_of_reddit_posts_to_identify/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:45:40 GMT</pubDate>
     </item>
     <item>
       <title>NotebookLM 也可以生成其他语言的播客</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[Google 表示其播客生成器仅支持英语，但实际上它可以用其他语言说话。 它的法语效果相当不错。我也用匈牙利语试过，效果稍差一些，说话带有口音，还有一些乱码部分。奇怪的是，似乎有 3-4 个不同的声音在说话，其中没有一个是原来的两个主持人。 我无法在此处发布媒体，因此您可以在我的其他帖子中找到示例： https://www.reddit.com/r/notebooklm/comments/1fsx8ot/i_got_notebooklm_to_generate_podcasts_in_other/    提交人    /u/balazsp1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxeut/notebooklm_can_generate_podcasts_in_other/</guid>
       <pubDate>Mon, 30 Sep 2024 14:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何根据现有照片制作新的AI照片？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsv327/how_to_make_new_ai_photo_based_on_existing_photo/</link>
-      <description><![CDATA[大家好，我想用人工智能制作一张照片，请告诉我可以使用哪种人工智能工具。我的想法是使用现成的 GTA 6 照片，照片上有一男一女，但将他们的脸和身体改为我和我的女朋友，并更改背景的某些部分，但要让它看起来像原始照片，而不是明显经过编辑（例如，在 Photoshop 中替换脸部，这样看起来不太好）。我尝试了不同的人工智能工具，但几乎所有工具都只是文本转图像，而在这里我需要文本和图像转图像之类的东西，你能推荐一些免费的人工智能吗？谢谢！    提交人    /u/Major-Artichoke9739   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsv327/how_to_make_new_ai_photo_based_on_existing_photo/</guid>
-      <pubDate>Mon, 30 Sep 2024 13:06:20 GMT</pubDate>
     </item>
     <item>
       <title>人工智能对人类知识的反叛——当算法超越直觉时</title>
@@ -69,13 +76,6 @@
       <pubDate>Mon, 30 Sep 2024 08:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>我有超过 1MM+ 个单词，我该如何利用它们生存下去？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsojt0/i_have_over_1mm_words_how_can_i_live_on_through/</link>
-      <description><![CDATA[我处于一个奇怪的位置，我想尝试创建一个我的人工智能版本，它不仅能像我的沟通风格一样交流，还能像我一样在交流中说些什么。 为了训练人工智能，我有大约一百万个自己的单词。它是第一人称叙述，就像一本小说，涵盖了我大部分的生活。然后是我过去二十年的所有短信、电子邮件和 Messenger 对话。还有我的 YouTube 观看记录和浏览器历史记录……这些应该涵盖了我拥有的大部分知识。 我认为使用盲测进行比较会是一个很好的目标。比如让一个真正的朋友给我和人工智能都发短信。如果人工智能在 90% 的时间里都能用我想说的内容做出回应，那就符合我的要求了。 我想这样做是因为我害怕我会失去理智。所以花时间尝试创造这个似乎是个好主意。因为如果它有效，我可以和人工智能交谈来判断我的思绪有多混乱。或者，如果它已经消失了，我的朋友将有办法与我的想法互动。 所以，我只是希望问一下，如果你处于我的位置，你会如何根据起始材料来创建人工智能。谢谢！    提交人    /u/SwimmingSympathy5815   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsojt0/i_have_over_1mm_words_how_can_i_live_on_through/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:47:19 GMT</pubDate>
-    </item>
-    <item>
       <title>萨姆·奥特曼、米拉·穆拉蒂等人是如何获得他们的地位的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsoakn/how_did_people_like_sam_altman_mira_murati_etc/</link>
       <description><![CDATA[我经常在新闻中看到这些人，他们经常被认为是 chatgpt/openAI 背后的天才和创造者。然而，我深入研究了他们的背景，发现他们都没有科学背景，也没有从事人工智能工作。我的意思是，他们没有相关的学术历史或人工智能发展，而这些东西实际上使他们有资格成为 chatgpt 的“创造者”。  我的问题是，他们究竟是如何在几乎没有相关经验的情况下担任如此重要的职位的。我一直都知道 Sam Altman 不从事技术方面的工作，但我很惊讶地看到 Mira Murati 也没有太多经验（据我所知）。我知道他们是高管，但我一直认为像 OpenAI 这样的公司会有技术人员担任高管职位（就像其他著名的科技初创公司和公司一样，至少在开始时是这样），看到风险投资高管因其他杰出科学家和工程师的工作而受到赞誉，我真的很困扰。     由    /u/LightRefrac 提交   [链接] [评论]]]></description>
@@ -83,11 +83,11 @@
       <pubDate>Mon, 30 Sep 2024 05:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 29 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnmdq/oneminute_daily_ai_news_9292024/</link>
-      <description><![CDATA[ 加州州长否决了一项重大的 AI 安全法案。[1] 加州大学伯克利分校的研究人员开发了 DocETL：一个用于 LLM 驱动的数据处理的开源低代码 AI 系统。[2] 英格兰的社会工作者开始使用 AI 系统来协助他们的工作。[3] “超级智能”AI 仅需几千天即可实现：OpenAI 首席执行官 Sam Altman。[4]  来源包括：https://bushaicave.com/2024/09/29/9-29-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnmdq/oneminute_daily_ai_news_9292024/</guid>
-      <pubDate>Mon, 30 Sep 2024 04:44:42 GMT</pubDate>
+      <title>值得了解的最佳小型法学硕士</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnkl8/best_small_llms_to_know/</link>
+      <description><![CDATA[由于硬件限制，您可能希望在本地系统中使用小型 LLM。本教程介绍了一些最好的小型 LLM，您可以在本地系统中免费使用，而无需高规格：https://youtu.be/obSiT-y-uKU?si=J0dKyiH9NgzG6248    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnkl8/best_small_llms_to_know/</guid>
+      <pubDate>Mon, 30 Sep 2024 04:41:29 GMT</pubDate>
     </item>
     <item>
       <title>分享我在播客中生成两个 AI 虚拟形象的工作流程</title>
