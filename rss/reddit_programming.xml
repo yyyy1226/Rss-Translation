@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 01 Oct 2024 01:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:34:29 GMT</lastBuildDate>
     <item>
-      <title>我需要帮助/建议，知道该怎么做。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ftcv5v/i_need_helpadvice_on_what_to_do/</link>
-      <description><![CDATA[正如标题所说，我正在寻求建议，最近我去了 Odin Project 办公时间。提供办公时间的人提到它是一款非常棒的工具，您最终应该能够构建项目。我目前正在 MOOC.fi 上工作，以全面了解 Java，如果我想继续并获得最佳结果，我希望可以将其大部分内容转化为其他语言。我应该更关注哪一个？    提交人    /u/Ok_Custard9362   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ftcv5v/i_need_helpadvice_on_what_to_do/</guid>
-      <pubDate>Tue, 01 Oct 2024 01:54:13 GMT</pubDate>
+      <title>为在线支付系统实现装饰器模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftdjot/implement_decorator_pattern_for_online_payment/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftdjot/implement_decorator_pattern_for_online_payment/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TCP 什么时候不需要三次握手？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftd2jb/when_is_there_no_need_3_handshakes_in_tcp/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftd2jb/when_is_there_no_need_3_handshakes_in_tcp/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:04:34 GMT</pubDate>
     </item>
     <item>
       <title>具有自动 kubectl 端口转发配置的本地 Kubernetes 集群</title>
@@ -18,13 +25,6 @@
       <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ftct2i/local_kubernetes_cluster_with_automatic_kubectl/</guid>
       <pubDate>Tue, 01 Oct 2024 01:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮忙！-使用 Python 和 BeautifulSoup 从 iCloud 电子邮件中提取 URL 时遇到问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1ftcsj5/please_help_trouble_extracting_urls_from_icloud/</link>
-      <description><![CDATA[  由    /u/Choice_Ad7815  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ftcsj5/please_help_trouble_extracting_urls_from_icloud/</guid>
-      <pubDate>Tue, 01 Oct 2024 01:50:26 GMT</pubDate>
     </item>
     <item>
       <title>使用 Java 时，更倾向于组合而不是继承？</title>
