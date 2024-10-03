@@ -3,8 +3,8 @@
   <channel>
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 09:24:35 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？欢迎使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。业余爱好？好玩吗？我们的姐妹版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Thu, 03 Oct 2024 12:44:16 GMT</lastBuildDate>
     <item>
       <title>在 Mac 上以 HFS+ 加密 RAID 驱动器的解决方法？</title>
       <link>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>Sandisk G-Drives 正在断开连接</title>
       <link>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</link>
-      <description><![CDATA[大家好，我有个问题。我是片场的数据管理员，现在遇到了一个奇怪的情况。当我将样片传输到磁盘（2 个 G-Drive、1 个 Samsung T9）时，G-Drive 总会在随机时刻断开连接。我更换了电缆和端口，但问题还是出现了。而且，问题不仅出现在传输过程中，还会在随机时刻出现。T9 没有问题，只有 G-Drive 有问题，所以我猜问题可能与驱动器本身有关。谁能给我一个答案？谢谢    提交人    /u/Sensitive_Cable7646   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我有个问题。我是片场的数据管理员，我正在处理一个奇怪的情况。当我将样片传输到磁盘（2 个 G-Drive、1 个 Samsung T9）时，G-drive 总是在随机时刻断开连接。我更换了电缆和端口，但问题仍然出现。它不仅在传输过程中出现，而且在随机时刻也出现。T9 没有问题，只有 G-drive 有问题，所以我猜这与驱动器本身有关。谁能给我一个答案？谢谢    提交人    /u/Sensitive_Cable7646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</guid>
       <pubDate>Wed, 02 Oct 2024 12:29:56 GMT</pubDate>
     </item>
