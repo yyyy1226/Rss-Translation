@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 18:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 21:25:00 GMT</lastBuildDate>
     <item>
-      <title>Bland.ai 帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fve0nl/blandai_help/</link>
-      <description><![CDATA[你好，我刚刚开始一个项目，正在使用 bland.ai，但我有点迷茫。  这里有人熟悉这个程序，愿意快速聊天，也许能帮我指导一下吗？     提交人    /u/puffwheat   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fve0nl/blandai_help/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:04:00 GMT</pubDate>
+      <title>有没有什么好的视频 AI 应用程序/网站推荐？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvhg3f/any_good_recommendations_for_video_ai_appswebsites/</link>
+      <description><![CDATA[我知道有很多，但是你们目前推荐使用什么应用程序或网站？我不找免费的，付费也可以。 主要是用我写的一些故事脚本制作短视频。    提交人    /u/AffectionateEye420   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvhg3f/any_good_recommendations_for_video_ai_appswebsites/</guid>
+      <pubDate>Thu, 03 Oct 2024 20:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>土包子与人工智能的首次较量</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvdyua/a_rubes_first_romp_with_ai/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvdyua/a_rubes_first_romp_with_ai/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:01:49 GMT</pubDate>
+      <title>在哪里可以找到对人工智能同样感兴趣的朋友</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgg03/where_would_i_find_friends_equally_interested_in/</link>
+      <description><![CDATA[所以我是一名在线计算机科学学生，我对人工智能非常感兴趣，不用说我缺少可以讨论的朋友。有什么建议可以找到他们吗？    提交人    /u/Inevitable_Rough_337   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgg03/where_would_i_find_friends_equally_interested_in/</guid>
+      <pubDate>Thu, 03 Oct 2024 19:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能电话呼叫平台</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgbeg/ai_phone_call_platform/</link>
+      <description><![CDATA[我正在寻找一个与 Open AI 集成的平台，这样我就可以加载我现有的任何助手。该平台将处理转录 + 语音 + 入站/出站呼叫。 你知道吗？我正在测试 VAPI.ai，但它的知识库功能并不好，所以我更喜欢我的助手中已经设置的文件搜索功能。 谢谢。    提交人    /u/NicaraguanPlayer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgbeg/ai_phone_call_platform/</guid>
+      <pubDate>Thu, 03 Oct 2024 19:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能根据文本生成短片？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvf9qp/ai_generate_short_movies_from_text/</link>
+      <description><![CDATA[请问您有人工智能的链接吗？它可以让我生成对话、视频并进行编辑，从而制作一部完整的短片？     提交人    /u/cubodisbruick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvf9qp/ai_generate_short_movies_from_text/</guid>
+      <pubDate>Thu, 03 Oct 2024 18:56:32 GMT</pubDate>
     </item>
     <item>
       <title>生活中的人工智能</title>
@@ -55,13 +69,6 @@
       <pubDate>Thu, 03 Oct 2024 16:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>仅使用 LLM 完成序列（消除对话式响应）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvavll/using_llms_for_sequence_completion_only_eliminate/</link>
-      <description><![CDATA[嗨， 我想将一些现有的 LLM 用于涉及序列完成的项目。我不想要对话式的输出，而是想通过 Python 程序中的 API 调用代理并获取响应。  从最基本的层面上讲，我想要的是，如果我用类似 21: 1,3,7,21 \n 16: 1,2,4,8,16 \n 55: 1,5,11,55 \n 42: 1,2 的内容提示 LLM，它应该输出 3,6,7,14,21 （而不是类似“看起来你列出了不同数字的因素。这是每组因素的更清晰的细分……”） 我想做一些类似于这篇论文的事情，但使用开源模型。我已经使用 OpenAI API（gpt-3.5-turbo-instruct）运行了他们提供的 colab 笔记本（cartpole 示例），并且它可以按预期工作。 我曾尝试在 Python 中使用 Ollama（带有 llama3 和 llama3:text）（ollama.generate(model=&#39;llama3&#39;, prompt=prompt)[&#39;response&#39;]），但它仍然不能消除对话式响应。 有人对我如何修复有什么建议吗？我愿意探索其他工具/模型。 提前谢谢！    提交人    /u/6obama_bin_laden9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvavll/using_llms_for_sequence_completion_only_eliminate/</guid>
-      <pubDate>Thu, 03 Oct 2024 15:45:35 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能概览研究：法律领域触发率为 78%，选举关键词触发率为 0%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv9875/ai_overviews_research_78_trigger_rate_in_legal/</link>
       <description><![CDATA[SE Ranking 团队研究了各个领域的 AI 概览，重点研究了需要高可靠性和准确性的 YMYL（您的金钱或您的生活）主题。由于 AIO 对用户在 Google 搜索中遇到的信息有重大影响，因此我们在四个关键领域分析了它们的表现：健康、政治、金融和法律。我们使用我们新推出的 AI 概览跟踪器找到了这些信息。以下是我们团队的发现：  法律领域触发 AIO 的比例最高（77.67%），其次是卫生部门（65.33%）、金融（41.67%）和政治（16.67%）。 在 YMYL 主题中，触发 AIO 的最常见关键字模式是如何（如何、多久、多长时间、多少、如何）、什么是、什么是、何时、你、我。  AIO 试图不造成伤害；这可能是对臭名昭著的“石头饮食”惨败的反应吗？  83% 触发 AIO 的健康相关关键字包含免责声明：“这仅供参考。如需医疗建议或诊断，请咨询专业人士。生成式人工智能尚处于实验阶段。” 触发 AIO 的 63.2% 的金融相关关键词包含免责声明：“生成式人工智能尚处于实验阶段。如需财务（法律）建议，请咨询专业人士。” 触发法律主题人工智能概述的 19.74% 关键词包含免责声明：“生成式人工智能尚处于实验阶段。如需法律建议，请咨询专业人士。” Google 对敏感话题格外小心，例如心理健康、饮食失调、药物滥用、特定药物、Covid-19 和堕胎，选择不为这些主题生成 AIO。 政治主题的 AIO 中链接最多的网站是 Wikipedia.org（36 个链接）、State.gov（15 个链接）和 DHS.gov（15 个链接）。 对于包含“选举”、“选举”、“总统”或“总统”等术语的关键字，没有触发 AI 概览，而 OpenAI 的搜索 GPT 没有这样的限制。  这仅涵盖了我们对这个广泛主题的一小部分见解。在我们最新的 AI 概览研究中找到更多信息：分析 Google 处理 YMYL 主题的方法。    提交人    /u/SE_Ranking   [链接] [评论]]]></description>
@@ -71,7 +78,7 @@
     <item>
       <title>我 15 岁，开发了这个新的人工智能工具来寻找消费者的痛点和产品创意</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv8koz/im_15_and_i_built_this_new_ai_tool_to_find/</link>
-      <description><![CDATA[嗨，Reddit！我是 Jason。我还在读高中/初中，但我喜欢科技/人工智能，喜欢构建有用的（好吧，正在尝试）项目。 我最近发布了 PainPoint.Pro，这是一种寻找消费者痛点和产品创意的新方法 - 我得到了相当不错的反响，我的网站访问量约为 1.6K，但我并没有就此止步，我不断迭代并添加新功能，这些功能是这里的一些很棒的人向我提供的反馈。以下是它的功能以及我构建它的原因： 所以，我注意到所有这些独立黑客都在 Reddit 和 X 上寻找产品创意。但我想，为什么不去别的地方看看呢？有大量意见和抱怨的地方... YouTube 评论。 人们总是在评论中抱怨或发表他们的意见，想想 MKBHD 的视频，人们总是指出他所评论的技术的缺点。 这就是我创建 PainPoint.Pro 的原因。它的作用如下：  您给它一个 YouTube 视频 URL（如果您懒得打开 youtube，我们有搜索功能） 它会扫描所有评论。 您会得到一份简洁的报告，其中包含： 常见投诉分组在一起 解决这些问题的产品想法 突出显示人们说“我希望有一个”或“我愿意付费”的评论等等 大多数负面评论 所有评论的搜索功能   我们提供 1 个免费积分，尝试一下并留下您的想法！:) 但是，如果一个 Youtube 视频不够用：  输入一个 Youtube 利基，例如科技或体育 它会扫描（最多）该利基中的 10 个视频，为您提供更好的报告（这将很快增加，只是目前正在扩展我的基础设施） 您将获得如上所述的完整报告  我从中学到的是速度的重要性，以及使用最好的工具来加速您的发展。使用现在的工具，你可以将速度提高 10 倍，从而每 1-3 周将所有想法以高质量标准交付，这在以前是不可能的，而且我还在兼顾中学/高中。 但我还没有完成，也永远不会完成，我正在开发更多的平台，很快就会出现。我明白速度的重要性，所以我正在迅速努力把它搞定。 社会证明也非常需要，所以任何建设性的反馈都是 如果你想看到我打造令人惊叹的（至少是尝试）产品的完整历程，我在 X 上非常活跃 - https://x.com/ardeved - 如果您有任何疑问，请在此处给我留言！ 我的记事本里有 53 个想法（其中 12 个很愚蠢），我会尽快着手解决，但我很想听听你对我最新项目的想法 - https://painpoint.pro！    提交人    /u/ArFiction   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，Reddit！我是 Jason。我还在读高中/初中，但我喜欢科技/人工智能，喜欢构建有用的（好吧，正在尝试）项目。 我最近发布了 PainPoint.Pro，这是一种寻找消费者痛点和产品创意的新方法 - 我得到了相当不错的反响，我的网站访问量约为 1.6K，但我并没有就此止步，我不断迭代并添加新功能，这些功能是这里的一些很棒的人向我提供的反馈。以下是它的功能以及我构建它的原因： 所以，我注意到所有这些独立黑客都在 Reddit 和 X 上寻找产品创意。但我想，为什么不去别的地方看看呢？有大量意见和抱怨的地方... YouTube 评论。 人们总是在评论中抱怨或发表他们的意见，想想 MKBHD 的视频，人们总是指出他所评论的技术的缺点。 这就是我创建 PainPoint.Pro 的原因。它的作用如下：  您给它一个 YouTube 视频 URL（如果您懒得打开 youtube，我们有搜索功能） 它会扫描所有评论。 您会得到一份简洁的报告，其中包含： 常见投诉分组在一起 解决这些问题的产品想法 突出显示人们说“我希望有一个”或“我愿意付费”的评论等等 大多数负面评论 所有评论的搜索功能   我们提供 1 个免费积分，尝试一下并留下您的想法！:) 但是，如果一个 Youtube 视频不够用：  输入一个 Youtube 利基，例如科技或体育 它会扫描（最多）该利基中的 10 个视频，为您提供更好的报告（这将很快增加，只是目前正在扩展我的基础设施） 您将获得如上所述的完整报告  我从中学到的是速度的重要性，以及使用最好的工具来加速您的发展。使用现在的工具，你可以将速度提高 10 倍，从而每 1-3 周将所有想法以高质量标准交付，这在以前是不可能的，而且我还在兼顾中学/高中。 但我还没有完成，也永远不会完成，我正在开发更多的平台，很快就会出现。我明白速度的重要性，所以我正在迅速努力把它搞定。 社会证明也非常需要，所以任何建设性的反馈都是 如果你想看到我打造令人惊叹的（至少是尝试）产品的完整历程，我在 X 上非常活跃 - https://x.com/ardeved - 如果您有任何疑问，请在此处给我留言！ 我的记事本里有 53 个想法（其中 12 个是愚蠢的），我会尽快着手解决，但我很想听听你对我最新项目的想法 - https://painpoint.pro！    提交人    /u/ArFiction   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv8koz/im_15_and_i_built_this_new_ai_tool_to_find/</guid>
       <pubDate>Thu, 03 Oct 2024 14:06:13 GMT</pubDate>
     </item>
@@ -85,16 +92,9 @@
     <item>
       <title>OpenAI 的里程碑式融资：66 亿美元的游戏规则改变者</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</link>
-      <description><![CDATA[  由    /u/moonbunR  提交  [链接] [评论]]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</guid>
       <pubDate>Thu, 03 Oct 2024 10:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日总结 AI 研究论文 #36</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv3qg8/summarising_ai_research_papers_everyday_36/</link>
-      <description><![CDATA[标题：每天总结 AI 研究论文 #36 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必仔细阅读所有论文。今天的论文题为“使用 LLM 的情感丰富嵌入生成情感感知响应”，作者是 Abdur Ra​​sool、Muhammad Irfan Shahzad、Hafsa Aslam 和 Vincent Chan。 本文解决了增强心理治疗应用中使用的大型语言模型 (LLM) 的同理心和语境理解能力的挑战。作者介绍了一种新颖的框架，将最先进的 LLM 与多个情感词典相结合，以在自动聊天机器人辅助治疗期间生成富有同理心和连贯的反应。以下是论文的要点：  情感词典的整合：该框架将 NRC 情感词典、VADER、WordNet 和 SentiWordNet 等情感词典与 LLAMA 2、Flan-T5、ChatGPT 3.0 和 ChatGPT 4.0 等 LLM 结合在一起。这种丰富的方法增强了模型对情感和语义细微差别的理解。 增强的反应生成：通过分割治疗记录和计算情感丰富的嵌入，该框架显着改善了富有同情心和情境适当反应的生成，如实验评估所示。 改进的性能指标：结合情感词典导致 LLM 生成的响应的同理心、连贯性、信息性和流畅性得分显着提高，突出了情感嵌入在增强心理治疗支持方面的关键作用。 权衡和挑战：尽管取得了这些进步，但模型经常面临同理心和连贯性之间的权衡。虽然整合情感词汇可以提高同理心，但连贯性有时会减弱，这表明需要在不同的指标之间进行平衡的改进。 未来方向：该研究表明需要专门针对精神病应用进行模型微调，并鼓励开发更复杂的评估指标，以更好地捕捉情商 AI 系统的细微表现。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文   由    /u/steves1189  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv3qg8/summarising_ai_research_papers_everyday_36/</guid>
-      <pubDate>Thu, 03 Oct 2024 09:29:15 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 获 66 亿美元融资，由微软和 Nvidia 投资者支持</title>
