@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 03 Oct 2024 21:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:46:17 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了寻找代码片段：制作一个可以容忍拼写错误的本地文件引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</link>
+      <description><![CDATA[      时不时地，我想重用很久以前写的一些代码。现在我只需搜索就可以了！  使用 Svelte 和 Typesense 构建作为全文搜索引擎。     提交人    /u/mugendee   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</guid>
+      <pubDate>Fri, 04 Oct 2024 01:11:33 GMT</pubDate>
+    </item>
     <item>
       <title>Raku 知识库 v1.0（艺术 2.0 许可证）</title>
       <link>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！👋 我很高兴介绍我们的开源、低代码聊天机器人构建器 Hexabot！Hexabot 允许您通过直观的拖放界面创建自定义对话式 AI 流程，旨在使聊天机器人构建变得简单而强大。 我们的使命是发展我们的项目，并希望得到您的支持！⭐ 在 GitHub 上为我们加星标：https://github.com/hexastack/hexabot 期待收到您的反馈！🌱💻    提交人    /u/flesmih   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fuj214/hexabot_opensource_visual_chatbot_builder_with/</guid>
       <pubDate>Wed, 02 Oct 2024 15:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>MathMod-12.0</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fugqlu/mathmod120/</link>
-      <description><![CDATA[MathMod-12.0 支持 Android 和 IOS 平台（MathMod 在 Google PlayStore 和 Apple AppStore），现可从 SourceForge 和 GitHub 下载。 MathMod-12.0 的变更日志： 1) 改进 GUI 以支持小屏幕格式： 2) 支持 Mandelbrot 和 Julia 分形函数 3) 新脚本：“Noids”、“k_Noids”、“Riemann_Minimal_Surface”、“MandelBulb”， &quot;MandelTemple&quot;、&quot;JuliaFractal&quot;、&quot;MandelbrotTorus&quot;、&quot;MandelbrotIsoSpheres&quot;、&quot;MandelbrotSphere&quot;、&quot;Mandelbrot&quot;、&quot;Spherical_Harmonics&quot;  玩得开心！    提交人    /u/parisolab   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fugqlu/mathmod120/</guid>
-      <pubDate>Wed, 02 Oct 2024 13:54:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
