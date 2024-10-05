@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 05 Oct 2024 09:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 12:40:43 GMT</lastBuildDate>
+    <item>
+      <title>救命！- 保存我的视频！</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwlpt1/help_save_my_video/</link>
+      <description><![CDATA[大家好， 昨天，我为客户拍摄了一段视频采访，但不幸的是，我的设置似乎出了问题。我使用 SLOG3 拍摄，但似乎拍得太暗了。现在，在调色过程中，我注意到镜头中有很多噪点。 我设法使用 NEAT 插件降低了噪点，但现在拍摄对象的脸部看起来有点模糊。我尝试使用 Premiere Pro 的“锐化”和“USM 锐化”工具，但我无法获得足够清晰的结果来发送给我的客户。 我正在考虑购买 Topaz AI 5，但我不确定它是否值得。有没有更好或更实惠的东西（也许是 Premiere Pro PlugIn）？ 任何建议都将不胜感激，这样我就可以让我的客户满意！    提交人    /u/lex3010   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwlpt1/help_save_my_video/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 滞后</title>
       <link>https://www.reddit.com/r/editors/comments/1fwjm6f/premiere_pro_lagging/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>救命！Premiere 将所有多机位音频剪辑平铺到通道 1</title>
       <link>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</link>
-      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，只要我压平音频，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
+      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，一旦我将音频压平，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</guid>
       <pubDate>Fri, 04 Oct 2024 21:39:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我目前正在使用 2015 年末的 iMac，它运行 Davinci、Photoshop 等程序时表现不错。它不是最好的，但我通常能完成工作。我在工作时买了这台 iMac，现在有时周末我会把它拖回家处理个人项目。 所以一开始我想买一台 Macbook Pro，它显然更容易携带，但我喜欢用 iMac 工作。所以另一个选择是买一台 iMac 放在家里。所以我的问题是基于经验哪个更好： 14”MacbookPro (M1) 64GB/2TB 或 iMac M3 16GB/1TB 看起来 iMac M3 最多只能提供 24GB RAM，但 16GB 的库存更多。M3 能弥补 RAM 的不足吗？所以我主要使用 Davinci 和 Photoshop/Lightroom    提交人    /u/Sifuplait   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fvqsew/macbookpro_or_imac/</guid>
       <pubDate>Fri, 04 Oct 2024 04:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>当客户不喜欢音乐时……</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvp4n1/when_the_client_doesnt_like_the_music/</link>
-      <description><![CDATA[我经营一家小型视频制作公司，我们制作了许多企业视频（其中 80% 的音乐来自 Epidemic Sound/Artlist/Music Bed 等音乐库）。有时，我们在音乐选择上恰到好处，每个人都很满意，有时，我们打交道的通讯/营销人员喜欢音乐，但他们的老板/其他团队成员却不喜欢。在我们花费大量时间寻找我们认为具有出色提示、节奏、结构和主题等的完美曲目后，这可能会令人沮丧。当客户不喜欢音乐时，你们如何处理这种情况？您是否会给他们一份备选曲目的链接列表，让他们选择一些他们喜欢的曲目，以便您了解他们的偏好？让我感到不爽的是，有时厨房里厨师太多，或者做决定的人是没有创意的老板——他只是建议一些点击式的企业音频丛林风格的曲目，这会降低你编辑的整体感觉。     提交人    /u/awa950   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvp4n1/when_the_client_doesnt_like_the_music/</guid>
-      <pubDate>Fri, 04 Oct 2024 02:40:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
