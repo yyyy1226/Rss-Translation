@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Oct 2024 15:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 18:29:59 GMT</lastBuildDate>
     <item>
       <title>拉博纳隧道</title>
       <link>https://www.producthunt.com/posts/rabona-tunnel</link>
@@ -76,24 +76,10 @@ AI 驱动的 API 文档
       <pubDate>Sat, 05 Oct 2024 12:31:16 GMT</pubDate>
     </item>
     <item>
-      <title>图片后面有文字</title>
-      <link>https://www.producthunt.com/posts/text-behind-image</link>
-      <description><![CDATA[
-轻松创建令人惊叹的文本隐藏图像设计
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/text-behind-image</guid>
-      <pubDate>Sat, 05 Oct 2024 07:55:51 GMT</pubDate>
-    </item>
-    <item>
       <title>胰岛</title>
       <link>https://www.producthunt.com/posts/islet</link>
       <description><![CDATA[
-追踪。控制。繁荣。
+个性化健康日志应用
 
 
 讨论
@@ -146,6 +132,20 @@ Android Studio 最强大的 AI 助手
       <pubDate>Mon, 30 Sep 2024 00:37:22 GMT</pubDate>
     </item>
     <item>
+      <title>开放代理云</title>
+      <link>https://www.producthunt.com/posts/open-agent-cloud</link>
+      <description><![CDATA[
+从屏幕录制生成无代码自动化代理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/open-agent-cloud</guid>
+      <pubDate>Sun, 29 Sep 2024 12:08:33 GMT</pubDate>
+    </item>
+    <item>
       <title>RepoCloud.io</title>
       <link>https://www.producthunt.com/posts/repocloud-io-1</link>
       <description><![CDATA[
@@ -177,7 +177,7 @@ Android Studio 最强大的 AI 助手
       <title>OpenBB 终端</title>
       <link>https://www.producthunt.com/posts/openbb-terminal</link>
       <description><![CDATA[
-利用人工智能驱动的研究做出更明智的投资决策。
+利用人工智能驱动的研究做出更明智的投资决策
 
 
 讨论
