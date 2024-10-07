@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Oct 2024 09:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 12:47:11 GMT</lastBuildDate>
     <item>
       <title>拉博纳隧道</title>
       <link>https://www.producthunt.com/posts/rabona-tunnel</link>
@@ -90,20 +90,6 @@ Android Studio 最强大的 AI 助手
       <pubDate>Wed, 02 Oct 2024 16:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能支付</title>
-      <link>https://www.producthunt.com/posts/platea-ai</link>
-      <description><![CDATA[
-用于并行测试以获得高质量提示的工具
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/platea-ai</guid>
-      <pubDate>Wed, 02 Oct 2024 07:25:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Dashworks 机器人</title>
       <link>https://www.producthunt.com/posts/dashworks-bots</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@ Android Studio 最强大的 AI 助手
 ]]></description>
       <guid>https://www.producthunt.com/posts/flash-27521f0d-1aca-464c-b09b-ee8c8d744d47</guid>
       <pubDate>Thu, 26 Sep 2024 19:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>KindlePPT</title>
+      <link>https://www.producthunt.com/posts/kindleppt</link>
+      <description><![CDATA[
+快速生成演示文稿、YouTube 脚本和测验
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kindleppt</guid>
+      <pubDate>Tue, 24 Sep 2024 09:01:51 GMT</pubDate>
     </item>
     <item>
       <title>OpenBB 终端</title>
