@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 10 Oct 2024 06:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:24:55 GMT</lastBuildDate>
+    <item>
+      <title>使用 rjq 进行快速 JSON 过滤！</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</link>
+      <description><![CDATA[介绍 rjq - 一个用 Rust 编写的超快 JSON 过滤 CLI 工具。 我很高兴地宣布发布 rjq，这是一个基于 Rust 的 CLI 工具，可轻松过滤 JSON 数据。 主要特点：  简单的查询语法，轻松过滤 超快的性能 支持流式 JSON 数据  使用 rjq，您可以：  从大型 JSON 数据集中快速提取特定数据 轻松过滤和转换数据 自动执行 JSON 数据处理任务  适用于：  使用 JSON 数据的开发人员 寻求高效数据提取的数据分析师 自动化数据处理的 DevOps 团队任务  在 GitHub 上探索 rjq：github.com/mainak55512/rjq 立即开始使用 rjq 并加速您的 JSON 数据处理！ rjq #JSONFiltering #CLI #Rust #DeveloperTools #Productivity    提交人    /u/Mainak1224x   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>创意编程框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0eskm/creative_programming_framework/</link>
+      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0eskm/creative_programming_framework/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>粮农组织与特立尼达和多巴哥通过2023-2026年新《国别规划框架》加强合作关系</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0esbz/fao_and_trinidad_and_tobago_strengthen/</link>
+      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0esbz/fao_and_trinidad_and_tobago_strengthen/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>百万美元并不酷，你知道什么才酷吗？百万行</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0ero0/million_dollars_is_not_cool_you_know_what_is_cool/</link>
+      <description><![CDATA[  由    /u/pdycnbl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0ero0/million_dollars_is_not_cool_you_know_what_is_cool/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:21:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你的框架并不重要（新闻）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0ermr/why_your_framework_doesnt_matter_news/</link>
+      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0ermr/why_your_framework_doesnt_matter_news/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:21:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>邀请开发人员参加 hyperswitch 的付费黑客马拉松</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0el7n/inviting_developers_to_take_part_in_a_paid/</link>
+      <description><![CDATA[  由    /u/c10n3x_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0el7n/inviting_developers_to_take_part_in_a_paid/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何激怒开源社区（人工智能初创企业闹剧损害了 Y Combinator 的声誉）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0dzij/how_to_piss_off_the_opensource_community_the_ai/</link>
+      <description><![CDATA[  由    /u/LisaDziuba  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0dzij/how_to_piss_off_the_opensource_community_the_ai/</guid>
+      <pubDate>Thu, 10 Oct 2024 08:18:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>n 个球之间的一个 n 个球</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0cr3f/an_nball_between_nballs/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0cr3f/an_nball_between_nballs/</guid>
+      <pubDate>Thu, 10 Oct 2024 06:41:39 GMT</pubDate>
+    </item>
     <item>
       <title>安全和授权在领域驱动设计中的作用</title>
       <link>https://www.reddit.com/r/programming/comments/1g0bpd3/the_role_of_security_and_authorization_in_domain/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/andyg_blog  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g07egx/how_to_make_product_give_a_shit_about_your/</guid>
       <pubDate>Thu, 10 Oct 2024 01:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>征文：EvoMUSART 2025 – 在意大利的里雅斯特展示您的 AI 创意研究。🗓️ 论文提交截止日期：2024 年 11 月 1 日</title>
-      <link>https://www.reddit.com/r/programming/comments/1g05bvs/call_for_papers_evomusart_2025_showcase_your/</link>
-      <description><![CDATA[  由    /u/evomusart_conference  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g05bvs/call_for_papers_evomusart_2025_showcase_your/</guid>
-      <pubDate>Wed, 09 Oct 2024 23:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从零到大师：7天掌握Python</title>
-      <link>https://www.reddit.com/r/programming/comments/1g02lg4/from_zero_to_hero_mastering_python_in_7_days/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g02lg4/from_zero_to_hero_mastering_python_in_7_days/</guid>
-      <pubDate>Wed, 09 Oct 2024 21:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布发布 TypeScript 5.7 Beta 版</title>
-      <link>https://www.reddit.com/r/programming/comments/1g02e8f/announcing_typescript_57_beta/</link>
-      <description><![CDATA[  由    /u/DanielRosenwasser  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g02e8f/announcing_typescript_57_beta/</guid>
-      <pubDate>Wed, 09 Oct 2024 21:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HyperScale SELECT：如何调整 Amazon Athena 查询以提高性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1g01mfj/hyperscale_select_how_to_tune_amazon_athena/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g01mfj/hyperscale_select_how_to_tune_amazon_athena/</guid>
-      <pubDate>Wed, 09 Oct 2024 20:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.13 提升了性能和开发人员体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzzwjv/python_313_boosts_performance_and_developer/</link>
-      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzzwjv/python_313_boosts_performance_and_developer/</guid>
-      <pubDate>Wed, 09 Oct 2024 19:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 数据库匿名化工具发布。Greenmask v0.2.0</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzym99/postgresql_database_anonymization_tool_release/</link>
-      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzym99/postgresql_database_anonymization_tool_release/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:35:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crystal 1.14.0 发布！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzy5tt/crystal_1140_is_released/</link>
-      <description><![CDATA[  由    /u/sdogruyol  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzy5tt/crystal_1140_is_released/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 Htmx 的温和批评</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzwrwm/a_modest_critique_of_htmx/</link>
-      <description><![CDATA[  由    /u/vicanurim  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzwrwm/a_modest_critique_of_htmx/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:18:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
