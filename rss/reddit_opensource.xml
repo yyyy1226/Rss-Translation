@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 10 Oct 2024 03:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 06:33:24 GMT</lastBuildDate>
     <item>
       <title>在 VLC Android 上投射时是否常见延迟？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g0985l/is_a_delay_common_during_casting_on_vlc_android/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>开源 Lovense 性爱机器代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</link>
-      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但没有任何效果，我被卡住了。有人能指出我在哪里吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但都不起作用，我被卡住了。有人能指点我吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</guid>
       <pubDate>Thu, 10 Oct 2024 02:10:30 GMT</pubDate>
     </item>
