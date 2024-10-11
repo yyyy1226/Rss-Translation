@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 01:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 03:32:04 GMT</lastBuildDate>
+    <item>
+      <title>持续革新：AWS 块存储简史</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g10e3n/continuous_reinvention_a_brief_history_of_block/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g10e3n/continuous_reinvention_a_brief_history_of_block/</guid>
+      <pubDate>Fri, 11 Oct 2024 03:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>新主题，是谁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g103w1/new_theme_who_dis/</link>
+      <description><![CDATA[我刚刚像往常一样深入研究了 webdev 文档网站，并注意到一个奇怪的模式。有人能告诉我这个着陆页/文档的主题/时代来自哪里吗？ 参考 - https://unocss.dev/、https://vitepress.dev/、https://vuepress.vuejs.org/ 等，我最近几天注意到了这一点    提交人    /u/Aksh247   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g103w1/new_theme_who_dis/</guid>
+      <pubDate>Fri, 11 Oct 2024 02:53:01 GMT</pubDate>
+    </item>
     <item>
       <title>实现一个像 Kahoot 一样具有唯一 PIN 生成的会话管理系统有多难？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0ybxm/how_difficult_is_it_to_implement_a_session/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[重要图片展示我的观点：https://imgur.com/a/Cp4lMfM 大家好！我已经到达 TOP 的“着陆页”部分，同时也在研究/制作我自己的网站（小型作品集起始页），老实说，从头开始工作很有趣，但是我真的需要（人类的）意见，关于如何将我脑海中的线框图转化为代码。  请看，左侧附件是 TOP 的示例，而文字是我绘制线框图时看到的内容。线框图很有帮助，但我之前尝试过编码，但一切都无法奏效。有时 flex 可以将 div 并排放置，但大小不正确（我想我还不太了解/理解 px 这个值）或者我会尝试将 div 堆叠在一起以获得 TOP 示例中的堆叠外观但它的宽度不够，等等。或者在引用部分的 div 下方有一个 h2/h3，但我不明白如何通过代码定位。尽管我制作了一个看起来不错的作品集作为开始，但似乎有很多小事情我都无法拼凑在一起。  关键是我已经设计好了线框（或者我是这么认为的，请纠正我的想法，因为我喜欢这样做并且渴望学习和进步）但相比之下文字代码看起来很丑陋。唯一看起来还不错的东西就是导航栏，我为此给自己点赞。 有人能花几秒钟分析一下我的想法、例子，以及你认为我可以做些什么来提高我将自己的想法转化为代码的能力吗？ 提前谢谢大家，期待帮助。    提交人    /u/g4vnn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0s0un/how_can_i_better_understand_layout_design_put/</guid>
       <pubDate>Thu, 10 Oct 2024 20:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些“组合” SVG 是如何创建的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0rxhi/how_are_this_combined_svgs_created/</link>
-      <description><![CDATA[嗨， 我想为一个教育应用程序构建一个这样的肌肉选择器，并在研究时发现了这个。 https://codepen.io/baublet/pen/PzjmpL 在我看来，这是一个 SVG，里面有更多 svg，每个 svg 都有一个 id，然后可以通过 JS/CSS 引用。 这里可能会使用什么样的工具来创建它？    提交人    /u/Representative-Dog-5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0rxhi/how_are_this_combined_svgs_created/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个网络应用程序现已上线！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0r8ga/my_first_ever_web_app_is_now_live/</link>
-      <description><![CDATA[嗨，webdevs， 在开展一个项目时，我一直在 GPT-4 等 AI 模型和 Claude Sonnet 3.5 等较新的模型之间切换，总是在想，“也许另一个模型有更好的答案。” 我想要一种无需来回比较即可比较响应的方法。 因此，我创建了 ChatOne，这样我就可以同时从多个模型中获得答案，并并排查看每个模型提供的内容。然后，我决定向公众推出它。 由于这是我的第一个 Web 应用，因此非常感谢您的反馈。我提供 5 个免费积分（无需信用卡）和 1 个月 35% 的折扣或使用代码 TESTER 的积分包。 谢谢！   由    /u/BForceGo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0r8ga/my_first_ever_web_app_is_now_live/</guid>
-      <pubDate>Thu, 10 Oct 2024 19:39:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
