@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 10 Oct 2024 21:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 01:44:32 GMT</lastBuildDate>
+    <item>
+      <title>交叉引用多个 LLM 以获得可靠结果的重要性</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1g0vo89/the_importance_of_crossreferencing_multiple_llms/</link>
+      <description><![CDATA[       由    /u/punkpeye  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1g0vo89/the_importance_of_crossreferencing_multiple_llms/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:59:36 GMT</pubDate>
+    </item>
     <item>
       <title>新的开源文本视频模型，视频长度可达 10 秒：pyramidal-flow-sd3</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g0fsri/new_opensourced_textvideo_model_with_upto_10/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      哇，我知道 AI 检测不准确，但没想到这么不准确。说真的，大学为什么要用这些东西？第一张图片是 GPT-Zero，第二张图片是 ZeroGPT。我向两家公司提交了完全相同的文章，但在写作时使用了 0 AI。我不明白。确实需要改进，因为许多人因为这样的事情被错误地指控抄袭。    提交人    /u/VuxVunzo34   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fr3q4q/same_essay_2_different_results_neither_are_correct/</guid>
       <pubDate>Sat, 28 Sep 2024 01:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 迎来重大升级，新增语音功能</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fp0wh0/chatgpt_gets_a_major_upgrade_with_new_voice/</link>
-      <description><![CDATA[        提交人    /u/webbs3   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fp0wh0/chatgpt_gets_a_major_upgrade_with_new_voice/</guid>
-      <pubDate>Wed, 25 Sep 2024 10:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
