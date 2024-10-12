@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 01:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 03:26:28 GMT</lastBuildDate>
     <item>
       <title>填写 2.0</title>
       <link>https://www.producthunt.com/posts/fillout-2-0</link>
@@ -79,7 +79,7 @@ React 组件，用于以可视化方式创建 UI
       <title>锁桥</title>
       <link>https://www.producthunt.com/posts/lockbridge</link>
       <description><![CDATA[
-通过零信任加密实现安全、无缝的文件传输
+使用零信任加密实现安全、无缝的文件传输
 
 
 讨论
