@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 12:40:27 GMT</lastBuildDate>
+    <item>
+      <title>用于构建事物的拖放软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1g1z89x/drag_and_drop_software_for_building_things/</link>
+      <description><![CDATA[Construct 3 是拖放式游戏引擎。Canva 是拖放式图形设计工具。 应用程序开发怎么样？Saas？视频编辑？照片编辑？网站构建器？2D 或 3D 建模？ 动画？音频编辑？社交媒体内容创建？Seo？写书？通讯？课程创建？ 有哪些相对简单的工具可以做这些事情，相当于 Canva 或 Construct 3？ 我猜 Capcut 或 Clipchamp 适合视频编辑，但其他呢？ 它可以付费、订阅等。也不一定必须简单，只是比其他选择更容易使用（unity Vs construct 3 等）。低代码、无代码或可视化脚本是可取的。   由    /u/MiniPCBigHeart  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g1z89x/drag_and_drop_software_for_building_things/</guid>
+      <pubDate>Sat, 12 Oct 2024 12:39:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 上最好的离线中文 OCR 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1g1wgr1/best_ocr_softwares_offline_on_windows_for_chinese/</link>
+      <description><![CDATA[windows 上最好的中文离线 OCR 软件    提交者    /u/Historical-Speech876   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g1wgr1/best_ocr_softwares_offline_on_windows_for_chinese/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>优化合约创建</title>
       <link>https://www.reddit.com/r/software/comments/1g1vjn9/optimizing_contract_creation/</link>
@@ -13,7 +27,7 @@
       <pubDate>Sat, 12 Oct 2024 08:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Windows 10 的最佳免费防火墙，且干扰性不强？</title>
+      <title>适用于 Windows 10 的最佳免费防火墙，且干扰性不大？</title>
       <link>https://www.reddit.com/r/software/comments/1g1v1ac/best_free_firewall_for_windows_10_thats_not_too/</link>
       <description><![CDATA[大家好， 我非常喜欢 TinyWall，但它几乎屏蔽了所有内容，所以我必须经常手动解除对 Discord 更新的屏蔽。你每次都必须这样做。除此之外，它很棒！我正在寻找类似但侵入性较小的东西（只阻止可疑活动的东西）。你们用什么防火墙？    提交人    /u/ibiliss   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g1v1ac/best_free_firewall_for_windows_10_thats_not_too/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>小型企业人力资源平台/软件</title>
       <link>https://www.reddit.com/r/software/comments/1g1m49s/hr_platform_software_for_small_business/</link>
-      <description><![CDATA[仍在决定为最多 5 名员工使用哪种人力资源平台/软件，寻找一种既经济实惠又用户友好的产品。有什么建议吗？优点和缺点？    提交人    /u/MarshiMars   [link] [评论]]]></description>
+      <description><![CDATA[仍在决定为最多 5 名员工使用哪种人力资源平台/软件，寻找一种既经济实惠又用户友好的一体化产品。有什么建议吗？优点和缺点？    提交人    /u/MarshiMars   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g1m49s/hr_platform_software_for_small_business/</guid>
       <pubDate>Fri, 11 Oct 2024 22:39:34 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我想为各种工作现场租赁一定数量的物品和资产，并每月为其开具发票，并管理库存数量、转移和退货等... 我正在使用 Hilti On Track，但没有开具发票的选项    提交人    /u/Silver_Drummer6919   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g1ds08/looking_for_a_program_to_track_construction_items/</guid>
       <pubDate>Fri, 11 Oct 2024 16:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像文件重命名和排序软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1g1cvlw/image_file_renaming_sorting_software/</link>
-      <description><![CDATA[嗨！我正在寻找一种软件，可以帮助我一次性对许多图像文件进行排序、排列和重命名。例如，如果您有一个文件夹，里面有一大堆朋友的照片，并且您想重命名每个文件的名称，并按照您想要的顺序排列它们。因此，文件将从默认的照片日期/时间格式变为“Bob-1、Bob-2、Bob-3、...、Joe-1、Joe-2、Joe-3、...”等格式。 这个过程是，打开软件，用它打开所有 Bob 照片，按照您想要的顺序排列它们，然后告诉它将它们全部重命名为“Bob-#”或其他名称，它会自动按照该顺序将这些文件重命名为该格式。  有这样的东西吗？    提交人    /u/Ultimation12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g1cvlw/image_file_renaming_sorting_software/</guid>
-      <pubDate>Fri, 11 Oct 2024 15:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个程序来合并我的所有 mhtml</title>
-      <link>https://www.reddit.com/r/software/comments/1g1bwr1/i_need_a_programm_to_merge_all_my_mhtml_together/</link>
-      <description><![CDATA[我有许多以 mhtml 格式保存的网页，迫切需要将它们合并在一起。我的意思是将 20-30 个 MHTML 合并在一起。有些网站可以做到这一点，但它们限制了页面数量。所以我需要一些独立的东西    提交人    /u/United-Goose1636   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g1bwr1/i_need_a_programm_to_merge_all_my_mhtml_together/</guid>
-      <pubDate>Fri, 11 Oct 2024 15:04:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
