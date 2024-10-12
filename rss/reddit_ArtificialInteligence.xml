@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 18:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 21:22:02 GMT</lastBuildDate>
+    <item>
+      <title>探索人工智能中的因果关系：引入语言模型框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g27t8u/exploring_causality_in_ai_introducing_a_framework/</link>
+      <description><![CDATA[我想探索 AI 语言模型中的因果关系。当前的模型主要关注相关性，但通过整合因果推理，我们可以增强 AI 的可解释性和稳健性。该框架可以带来更好的决策系统，特别是在医学和自主系统等高风险领域。 我很乐意听取研究人员和开发人员的反馈。您认为因果关系可以重新定义 AI 透明度吗？ https://github.com/stevius10/Causality-Theory-in-Language-Models AI 驱动的通用证明，封装上下文场景：https://youtu.be/7nKVCsC6CO4?si=3AMW5l1e4eya5H7Q    提交人    /u/stevius10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g27t8u/exploring_causality_in_ai_introducing_a_framework/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不久的将来，当人工智能和量子计算协同工作时，人们在家里使用人工智能将会做哪些最糟糕、最成问题的事情？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</link>
+      <description><![CDATA[学校作业 - 嗯，我们已经到了这一步。我知道有些孩子已经有人替他们写论文和其他作业了。我不知道他们怎么从来没有被抓到过。 还有色情。我们认为我们现在有问题了。人们将能够拍摄任何图像或真实的人，并将那个人放入色情场景中。几乎可以肯定的是，在未来十年内，人们将能够在家中做到这一点。执法部门和政府应该现在就想办法解决这个问题。 为了政治目的制造虚假信息 - 再次，我们认为我们现在有问题了。等等。 尽管有些应用显然很有用，但人工智能实际上可能会让我们的生活变得更糟。    提交人    /u/georgewalterackerman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:27:35 GMT</pubDate>
+    </item>
     <item>
       <title>理论情景</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g23xb8/theoretical_scenario/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[大家好！今天的快速 AI 更新： OpenAI 的 Swarm：OpenAI 刚刚推出了 Swarm，这是一个协调多个 AI 代理的框架。可以将其想象成组织一个 AI 团队共同完成任务。在他们的 GitHub 上查看！ SuperNova-Medius（14B 参数）：Arcee.ai 的最新模型将 Qwen2.5-72B 和 Llama-3.1-405B 混合在一起，实现一流的推理和效率。非常适合处理详细任务！ LLAMA-3_8B_Unaligned_BETA：来自 Arcee.ai 的另一个很酷的模型，具有 14B 参数，设计类似于 SuperNova-Medius。在 Hugging Face 上查看吧！ Dream Machine API v1.1.0：新功能包括实时视频监控和更轻松的信用余额检查。非常适合流畅的视频生成！ Dreamina AI V2.0：重大升级！现在可以处理文本到图像、视频和音乐创作 - 还有故事板！一体化创意工具。 更多 来源：https://comfyuiblog.com/ai-news-swarm-arcee-supernova-medius-llama-3_8b_unaligned_beta-and-more/    提交人    /u/hackerzcity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g22ttd/ai_news_new_update_models_swarm_llama3_8b/</guid>
       <pubDate>Sat, 12 Oct 2024 15:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持乱伦的新西兰心理健康聊天机器人的麻烦输出</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g21bmo/the_troublesome_output_of_the_nz_mental_health/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g21bmo/the_troublesome_output_of_the_nz_mental_health/</guid>
-      <pubDate>Sat, 12 Oct 2024 14:28:42 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是一种非常擅长猜测的计算机。</title>
@@ -43,7 +50,7 @@
     <item>
       <title>在我见过的所有用例中，对于外行人来说，仍然没有任何东西可以与我的电子邮件进行交互。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xvjc/of_all_the_use_cases_i_see_still_there_is_nothing/</link>
-      <description><![CDATA[我前妻虐待了我好几年，离婚后又虐待了我好几年。我对这些虐待不感兴趣，我真的需要一个人工智能来私下里根据具体问题浏览我的电子邮件。     提交人    /u/mknight1701   [link] [评论]]]></description>
+      <description><![CDATA[多年来，我一直饱受前妻的虐待，离婚后，我又饱受虐待。我对这些虐待毫无兴趣，我真的需要一个人工智能来私下里根据具体问题浏览我的电子邮件。    提交人    /u/mknight1701   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xvjc/of_all_the_use_cases_i_see_still_there_is_nothing/</guid>
       <pubDate>Sat, 12 Oct 2024 11:15:32 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[OpenAI 发布了 Swarm，这是一个与 CrewAI 和 AutoGen 非常相似的多代理编排框架。乍一看很不错，有很多选项（目前仅支持 OpenAI API）https://youtu.be/ELB48Zp9s3M    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xp9n/openai_swarm_for_multiagent_orchestration/</guid>
       <pubDate>Sat, 12 Oct 2024 11:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解和实施 NLP 中的后期分块 - 增强检索</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1vgdb/understanding_and_implementing_late_chunking_in/</link>
-      <description><![CDATA[  由    /u/Motor-Draft8124  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1vgdb/understanding_and_implementing_late_chunking_in/</guid>
-      <pubDate>Sat, 12 Oct 2024 08:11:31 GMT</pubDate>
     </item>
     <item>
       <title>人工智能评估框架</title>
