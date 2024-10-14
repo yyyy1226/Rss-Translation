@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 14 Oct 2024 09:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 12:46:19 GMT</lastBuildDate>
+    <item>
+      <title>直播访谈电视节目</title>
+      <link>https://www.reddit.com/r/editors/comments/1g3epuw/liveswitched_interview_tv_show/</link>
+      <description><![CDATA[我是一名新手编辑和制作人，想寻求一些建议。我最近被一家刚刚起步的电视台聘为制作人和编辑。我接受了其中一档节目的制作人和编辑，这档节目基本上是一档访谈类电视节目，我们会邀请嘉宾并询问他们在（空白）方面的经历。 这是一档主题性节目，嘉宾们都围绕一种工作类型分享经历，但他们来自四面八方，有着不同的故事。由于预算有限，有些嘉宾无法乘飞机前来，所以我一直在一个在线录音平台上进行采访，该平台会将每个人的 RAW 音频和视频的本地和云副本保存在一起。所以这是面对面和远程采访的混合。 我选择的编辑工具是 Final Cut，因为我厌倦了 Adob​​e 臃肿且不可靠的 Premiere Pro 混乱。  对于即将深入研究一天内拍摄 6 集不同剧集的现场切换镜头的新手编辑，有什么建议吗？（现场采访和预先录制的虚拟采访相结合，主持人对着镜头提问）    提交人    /u/Ill_Coach7296   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g3epuw/liveswitched_interview_tv_show/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>询问专业人士 - 每周 - 2024 年 10 月 14 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1g3bgcb/ask_a_pro_weekly_monday_mon_oct_14_2024_no_stupid/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>将 XML 从 Premiere 导出到 Davinci 进行调色是一场噩梦</title>
       <link>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</link>
-      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但它似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</guid>
       <pubDate>Sun, 13 Oct 2024 14:01:18 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 这里有人对温哥华的工作有什么见解吗？就业市场怎么样？欢迎听取所有行业的意见，无论是电影、视频/商业制作还是社交媒体和 YouTube。谢谢！     由    /u/Toxrelym  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g2izl8/vancouver_canada/</guid>
       <pubDate>Sun, 13 Oct 2024 05:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>渲染和替换错误 (Premiere Pro)</title>
-      <link>https://www.reddit.com/r/editors/comments/1g2ef1z/render_and_replace_error_premiere_pro/</link>
-      <description><![CDATA[“由于某些错误，操作无法完成。请参阅事件面板了解详情。” 我用 After Effects 合成替换了我的剪辑，并在 AE 中应用了我需要执行的跟踪，以使工作流程更加轻松，但是当我在 Premiere Pro 中单击“渲染和替换”时，我收到了该错误消息。我的事件面板是空的，AE 仍然打开，我尝试将 AE 中的剪辑转换为 procomp，并且我尝试了几个 R&amp;R 选项，但无济于事。 有没有其他人遇到过这个问题并可能找到了解决方案？    提交人    /u/TungstenTeddy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g2ef1z/render_and_replace_error_premiere_pro/</guid>
-      <pubDate>Sun, 13 Oct 2024 01:05:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
