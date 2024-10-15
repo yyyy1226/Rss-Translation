@@ -4,14 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 15 Oct 2024 01:46:26 GMT</lastBuildDate>
-    <item>
-      <title>ChatGPT 使用聊天记录识别正确的性格特征</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1g3dd1w/chatgpt_identifies_correct_personality_traits/</link>
-      <description><![CDATA[一项社会实验正在流行，人们要求 ChatGPT 根据他们曾经进行过的所有讨论来判断他们的性格。它能够找出正确的性格特征！！我自己尝试了这个测试，可以在这里查看：https://youtu.be/_8lV_Rtx2V8?si=RQn3MTl0eJyBPyNu    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1g3dd1w/chatgpt_identifies_correct_personality_traits/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:20:10 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Oct 2024 03:28:56 GMT</lastBuildDate>
     <item>
       <title>使用生成式 AI 生成代码的 8 个最佳实践</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g3b4k3/8_best_practices_to_generate_code_with_generative/</link>
@@ -92,7 +85,7 @@
     <item>
       <title>摘要：九月大事记</title>
       <link>https://www.reddit.com/r/GPT3/comments/1ft7xe9/summary_the_big_events_of_september/</link>
-      <description><![CDATA[ 法国人工智能公司 Mistral 推出了其首款能够同时处理图像和文本的多模态模型 Pixtral 12B。 OpenAI 向其订阅用户发布了两个下一代人工智能模型：o1 preview 和 o1 mini。这些模型在性能方面表现出显著的提升，特别是在需要推理的任务中，包括编码、数学、GPQA 等。 中国公司阿里巴巴发布了各种大小的 Qwen 2.5 模型，范围从 0.5B 到 72B。这些模型展示了与更大模型相当的能力。 视频生成模型 KLING 1.5 已经发布。 OpenAI 向所有订阅者推出了 GPT4o 的 高级语音模式。 Meta 发布 Llama 3.2，尺寸为 1B、3B、11B 和 90B，首次具备图像识别功能。 Google 推出了可供部署的新模型更新 Gemini Pro 1.5 002 和 Gemini Flash 1.5 002，展示了显着改进的长上下文处理。 Kyutai 发布了其语音到语音模型 Moshi 的两个开源版本。     由    /u/nh_local 提交   [链接] [评论]]]></description>
+      <description><![CDATA[ 法国人工智能公司 Mistral 推出了其首款能够同时处理图像和文本的多模态模型 Pixtral 12B。 OpenAI 向其订阅用户发布了两个下一代人工智能模型：o1 preview 和 o1 mini。这些模型在性能方面表现出显著的提升，特别是在需要推理的任务中，包括编码、数学、GPQA 等。 中国公司阿里巴巴发布了各种大小的 Qwen 2.5 模型，范围从 0.5B 到 72B。这些模型展示了与更大模型相当的能力。 视频生成模型 KLING 1.5 已经发布。 OpenAI 向所有订阅者推出了 GPT4o 的 高级语音模式。 Meta 发布 Llama 3.2，尺寸为 1B、3B、11B 和 90B，首次具备图像识别功能。 Google 推出了可供部署的新模型更新 Gemini Pro 1.5 002 和 Gemini Flash 1.5 002，展示了显着改进的长上下文处理。 Kyutai 发布了其语音到语音模型 Moshi 的两个开源版本。     由    /u/nh_local  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ft7xe9/summary_the_big_events_of_september/</guid>
       <pubDate>Mon, 30 Sep 2024 22:00:41 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[      哇，我知道 AI 检测不准确，但没想到这么不准确。说真的，大学为什么要用这些东西？第一张图片是 GPT-Zero，第二张图片是 ZeroGPT。我向两家公司提交了完全相同的文章，但在写作时使用了 0 AI。我不明白。确实需要改进，因为许多人因为这样的事情被错误地指控抄袭。    提交人    /u/VuxVunzo34   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fr3q4q/same_essay_2_different_results_neither_are_correct/</guid>
       <pubDate>Sat, 28 Sep 2024 01:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 迎来重大升级，新增语音功能</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fp0wh0/chatgpt_gets_a_major_upgrade_with_new_voice/</link>
+      <description><![CDATA[        提交人    /u/webbs3   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fp0wh0/chatgpt_gets_a_major_upgrade_with_new_voice/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
