@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:25:31 GMT</lastBuildDate>
+    <item>
+      <title>银行支票生成器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g50i7e/bank_check_generator/</link>
+      <description><![CDATA[嗨，我想知道是否有开源软件可以生成自定义的美国银行支票？由于现在银行不需要在支票上使用特殊墨水来使它们可机读，这可能是不再依赖付费支票簿的好方法。    提交人    /u/EuronextEmperor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g50i7e/bank_check_generator/</guid>
+      <pubDate>Wed, 16 Oct 2024 14:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 在 Hacktoberfest 期间为最快的 AI 网关 Portkey AI 做出贡献！赢取 AirPods Pro 并帮助塑造 AI 基础设施的未来！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4ysle/contribute_to_portkey_ai_the_fastest_ai_gateway/</link>
+      <description><![CDATA[大家好！ 👋 Portkey AI 很高兴加入 Hacktoberfest 2024，我们邀请您为市场上增长最快的开源 AI 网关之一做出贡献！ 🌟 为什么选择 Portkey AI？  适用于生成式 AI 应用的生产就绪平台 使用统一 API 管理 250 多个 AI 模型 令人难以置信的性能：2 个 vCPU 上 90k rpm，0.8ms 延迟 6,000+ GitHub 星星和 10k 强大的社区 迄今为止服务了 5400 多亿个代币  🛠️ 您可以从事什么工作？  新的护栏和插件 LLM 提供商集成 文档改进 核心功能增强  🏆 超棒奖品：  顶级贡献者可获得 AirPods Pro（第二代） 2 个以上被接受的 PR 可获得 Portkey AI Swag Box  🔗 贡献位置：  Portkey 网关：https://github.com/Portkey-AI/gateway Portkey 文档：https://github.com/Portkey-AI/docs-core  📚 需要更多信息吗？查看我们的 Hacktoberfest 博客：https://portkey.ai/blog/p/e86fdfef-bac3-42e3-97a7-d1e2e476de92/ 加入我们，共同塑造 AI 基础设施的未来！无论您是经验丰富的开发人员还是刚刚起步，我们的社区都有适合您的空间。让我们一起创造一些令人惊叹的东西！🚀🧠    提交人    /u/KedarJadhavFan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4ysle/contribute_to_portkey_ai_the_fastest_ai_gateway/</guid>
+      <pubDate>Wed, 16 Oct 2024 13:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[寻找] 用于为我的论文创建美观的表格和图表的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4yqh3/looking_for_tool_for_creating_aesthetically/</link>
+      <description><![CDATA[对于我的论文，我做了一个定量调查，并希望以比我从 SPSS 获得的输出更美观的方式报告结果 是否有一个工具可以产生与 flourish.com 类似的结果？ 由于非常奇怪的格式限制，免费套餐不足以创建我想要的图表类型。 我也尝试了 Tableau 和 Jamovi，但它们的工具似乎不适用于已经完成的分析数据，我真的不想在另一个软件中重新创建我在 SPSS 中所做的工作。 似乎有很多工具可以创建流程图..但用于饼图、条形图、突发图等和简单表格的工具似乎比较少见。    提交人    /u/NakedxCrusader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4yqh3/looking_for_tool_for_creating_aesthetically/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ClearlyDefined 的指导和外联委员会定义</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4x3n2/clearlydefineds_steering_and_outreach_committees/</link>
+      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4x3n2/clearlydefineds_steering_and_outreach_committees/</guid>
+      <pubDate>Wed, 16 Oct 2024 11:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为社区创建一个开源 AI 期刊。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4wtca/creating_an_open_source_ai_journal_for_the/</link>
+      <description><![CDATA[大家好， 过去几个月我过得很艰难，失业了，感觉有点失落。昨天，我决定写一篇日记来理清思绪，大约 15 分钟后，我想到把它放进人工智能工具中，以获得不同的视角。令人惊讶的是，它给了我一些很好的见解。我知道心理健康，尤其是男性的心理健康，在我们国家经常被忽视。我们只是对朋友说一切都好，即使事实并非如此。通常没有人可以分享我们的挣扎，而且治疗费用昂贵。 所以，我决定创建一个开源的、基于人工智能的日记，你可以在其中写下你的想法，人工智能会为你分析它们。它完全由社区驱动，没有商业方面。到目前为止，我已经建立了一个基本的存储库并启动了一个登陆页面。我希望你能以任何可能的方式支持我！您可以提出问题、请求功能，甚至自愿帮助编码。即使是评论或点赞也会意义重大。 感谢您的阅读，祝您度过美好的一天！ 以下是链接：  GitHub 登陆页面     提交人    /u/Silatus-sahil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4wtca/creating_an_open_source_ai_journal_for_the/</guid>
+      <pubDate>Wed, 16 Oct 2024 11:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - singulatron/superplatform：内部部署 AI 平台和微服务生态系统。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4w9pd/github_singulatronsuperplatform_onpremise_ai/</link>
+      <description><![CDATA[        由    /u/crufter  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4w9pd/github_singulatronsuperplatform_onpremise_ai/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:36:25 GMT</pubDate>
+    </item>
     <item>
       <title>简单的自主托管云解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4sqep/simple_slefhosted_cloud_solution/</link>
@@ -34,7 +76,7 @@
       <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
+      <title>有没有带有浮动或固定的收藏应用菜单的 Android 启动器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
@@ -62,53 +104,11 @@
       <pubDate>Tue, 15 Oct 2024 22:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的用户，但具有类型保证和自动完成功能。里面有 Zod。</title>
+      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的人，但具有类型保证和自动完成功能。里面有 Zod。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</link>
       <description><![CDATA[        提交人    /u/webda2l   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</guid>
       <pubDate>Tue, 15 Oct 2024 21:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么SaaS尽管开源却如此有价值？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</link>
-      <description><![CDATA[嗨， 为什么我们仍然看到 SaaS 公司估值很高，我想为他们销售的软件产品提出开源替代方案并不是特别困难？ 我说的不是 LLM，那是相当复杂的技术。例如，我可以理解为什么像 the-company-headed-by-Sam-Altman（不能直接提及名称，因为它会引起 AutoModerator 机器人的注意）这样的公司如此有价值，因为开源工作需要时间才能达到与他们的专有 LLM 相同的标准。 但我说的是 Postman 这样的公司。我知道他们确实开源了他们的一些软件，但我相信主要客户是专有的。这家初创公司的估值曾达到 56 亿美元（最近他们经历了缩水）。 我猜想构建 Postman 之类的开源替代方案并不难（而且肯定已经有可用的开源替代方案）。那么为什么这些 SaaS 公司估值如此之高？是：  商业支持， 还是他们已经成为市场领导者并且没有人认为有任何理由使用其他产品， 还是开源工作很难复制他们迄今为止在其产品中构建的所有功能（开源工作总是落后一些功能）， 还是人们愿意为云托管等功能付费？  Slack 和 Zulip 也是如此。我认为 Zulip 的母公司（Kandra Labs）不是很有价值，但 Slack 的母公司（早期的 Slack Technologies，现在的 Salesforce）肯定很有价值（当然，Salesforce 除了 Slack 之外还有很多产品，但你明白我的意思）。 谢谢！    提交人    /u/codeandfire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSI 缺乏定义开源人工智能的能力</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g49dio/the_osi_lacks_competence_to_define_open_source_ai/</link>
-      <description><![CDATA[        提交人    /u/GiacomoTesio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g49dio/the_osi_lacks_competence_to_define_open_source_ai/</guid>
-      <pubDate>Tue, 15 Oct 2024 14:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SBC 的 YouTube 客户端？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g45v4f/youtube_client_for_sbcs/</link>
-      <description><![CDATA[这个问题可能在这里被问过很多次，但是除了 Linux 之外，什么是一个尽可能接近 SmartTube (Next) 的优秀 FOSS YouTube 客户端（例如 Plasma BigScreen）？最好还能让它从我的帐户中获取推荐并在那里保存历史记录，就像 stube 一样。谢谢。    提交人    /u/NeatYogurt9973   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g45v4f/youtube_client_for_sbcs/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么维护人员不自己做第一行更改？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3zyqp/why_dont_maintainers_make_the_1_line_change/</link>
-      <description><![CDATA[从我的贡献中，我注意到维护者通常永远不会直接编辑你的 PR，而是要求你更改它。 这也适用于极其琐碎和 1 行更改。很长一段时间以来，我一直想知道为什么会这样。 他们通常需要更多时间来要求我做这件事，而不是他们自己做。真的很好奇为什么。    提交人    /u/nikitarevenco   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3zyqp/why_dont_maintainers_make_the_1_line_change/</guid>
-      <pubDate>Tue, 15 Oct 2024 04:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何跨平台的开源图像编辑器，并且简单易用？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</link>
-      <description><![CDATA[GIMP 甚至比全尺寸图像编辑器标准还要复杂（Photoshop 竞争对手），我只需要进行基本的剪切、融合、叠加和添加不同字体和颜色的文本，以及偶尔进行基本的颜色校正。主要是清理/裁剪照片和制作表情包。 基本上是 Paint 3D 的替代品。你可以在半夜喝醉时几乎不需要学习曲线就可以使用它。Idc 只具有完整工具的 10% 的功能。唯一值得一提的是，我还没有暗示的是调整大小工具（像素/百分比）、填充和颜色拾取工具。    提交人    /u/Alias_X_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</guid>
-      <pubDate>Tue, 15 Oct 2024 03:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.13 发布，主要特性概述</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</link>
-      <description><![CDATA[       由    /u/janodusho  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
