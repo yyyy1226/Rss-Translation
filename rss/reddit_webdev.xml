@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:30:44 GMT</lastBuildDate>
+    <item>
+      <title>动态错误处理和 AI 辅助查询调整以弥补 API 限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g67o3d/dynamic_error_handling_and_aiassisted_query/</link>
+      <description><![CDATA[      嗨，开发人员， 我正在集成第三方 API，以允许用户通过选择 UI 中的各种选项来生成图像。但是，API 对查询参数有限制，当用户尝试不受支持的组合时，可能会导致错误。最初，我考虑将用户选择限制为仅有效组合，但由于有多个选项，这种方法并不实用。 相反，我正在考虑一个更灵活的解决方案： 当由于无效组合而发生 API 错误时，我可以捕获错误消息，并将其与请求正文一起传递给 LLM（语言模型 API）。LLM 将分析错误并相应地更新请求正文，建议支持的组合。然后，我将使用更新后的请求再次调用第三方 API，检索结果，并向用户显示结果以及一条消息，说明不支持他们选择的组合，但这里有另一种选择。 https://preview.redd.it/c1zd1zfacfvd1.png?width=1169&amp;format=png&amp;auto=webp&amp;s=4b6cf4e4aa5b527347f242a3702bc3df1b51eecf 您认为这是个好主意吗，或者我把事情复杂化？    提交人    /u/Few-Huckleberry9656   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g67o3d/dynamic_error_handling_and_aiassisted_query/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:15:53 GMT</pubDate>
+    </item>
     <item>
       <title>作为自由职业者寻找客户的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g6746s/whats_the_best_way_to_find_clients_as_a_freelancer/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[您好，我建立了一个 AI，它完全模仿 SEO 代理机构会做的事情。我的愿景是匹配高端 SEO 代理机构的表现，但价格便宜 50 到 100 倍。 TLDR：（1）它最多可抓取您网站的 100 个页面，（2）根据谷歌的 SEO 入门指南自动将代码更改应用于您的网站，（3）根据 10 亿个谷歌 SERP 研究相关关键字以定位，（4）自动推送内容到您的网站以增加这些关键词的流量。 请在此处查看：joinrankai.com 欢迎您 100% 诚实的反馈 - 请不要犹豫。谢谢。    提交人    /u/happy_influx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g62n8f/please_rate_i_built_an_1click_solution_to_put_seo/</guid>
       <pubDate>Thu, 17 Oct 2024 22:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>获得 100% SEO 分数不是开玩笑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</link>
-      <description><![CDATA[      过去 3 个小时里，我一直在 pagespeed Insights 上尝试优化我的产品着陆页，我以为获得 100% 的分数很容易，但事实并非如此。  有人破解了吗？    由    /u/originalfaskforce 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</guid>
-      <pubDate>Thu, 17 Oct 2024 21:21:17 GMT</pubDate>
     </item>
     <item>
       <title>DNS 查找需要 11 秒，为什么？</title>
