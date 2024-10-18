@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 01:46:31 GMT</lastBuildDate>
     <item>
-      <title>破解 GitLab 求职申请：提高成功率的内部秘诀</title>
-      <link>https://www.reddit.com/r/programming/comments/1g61uql/cracking_the_gitlab_job_application_insider_tips/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g61uql/cracking_the_gitlab_job_application_insider_tips/</guid>
-      <pubDate>Thu, 17 Oct 2024 21:24:15 GMT</pubDate>
+      <title>使用 Node.js 复制 OpenAI 的助手工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1g640y5/replicating_openais_assistant_tools_using_nodejs/</link>
+      <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g640y5/replicating_openais_assistant_tools_using_nodejs/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:06:20 GMT</pubDate>
     </item>
     <item>
       <title>Python 的链式堆栈跟踪：一个无意的谜题（但你能解决它吗？）</title>
@@ -18,13 +18,6 @@
       <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g61fcz/pythons_chained_stacktraces_an_unintentional/</guid>
       <pubDate>Thu, 17 Oct 2024 21:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员可能需要间隔年——发表反思</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6136y/programmers_may_need_a_gapyear_post_reflections/</link>
-      <description><![CDATA[  由    /u/perspectiveship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6136y/programmers_may_need_a_gapyear_post_reflections/</guid>
-      <pubDate>Thu, 17 Oct 2024 20:51:01 GMT</pubDate>
     </item>
     <item>
       <title>使用 Kafka、WebAssembly 和 XTP 进行可插入式流处理</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/gojko  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5qlbv/aa_testing/</guid>
       <pubDate>Thu, 17 Oct 2024 13:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collecto - 开源、自托管、轻量级的电子邮件收集服务。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5q2ne/collecto_opensource_selfhosted_lightweight_email/</link>
+      <description><![CDATA[  由    /u/Missics  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5q2ne/collecto_opensource_selfhosted_lightweight_email/</guid>
+      <pubDate>Thu, 17 Oct 2024 12:48:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
