@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 20 Oct 2024 18:29:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 21:21:11 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - 从 ASCII 字符生成动画伪随机故障 SVG</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</link>
+      <description><![CDATA[       由    /u/Last_Establishment_1  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</guid>
+      <pubDate>Sun, 20 Oct 2024 19:12:29 GMT</pubDate>
+    </item>
     <item>
       <title>面向开发人员的聊天机器人 UI 模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7ywge/chatbot_ui_template_for_developers/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Doener23  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g6tzfu/the_office_and_collaboration_suite_for_the_public/</guid>
       <pubDate>Fri, 18 Oct 2024 22:05:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 FAST 入门套件：适用于 SoloPreneurs 的 Next.js 样板，带有 Stripe、Google Auth、Postgres...🌟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6pmxx/fast_starter_kit_nextjs_boilerplate_for/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享我一直在做的一个项目，我希望这个项目能够为希望快速高效地推出下一个伟大创意的个人创始人和开发者带来改变。介绍Next.js 入门套件（适用于 SoloPreneurs） 与其他入门套件的区别： 免费。如果您了解所有这些项目，例如ShipFa.st或其他有影响力的套件，您就会知道它们都在试图向您推销一些东西。这个项目是开源的，因此我们可以迭代和共享我们的代码来构建通用核心。需要帮助来改进！ 为什么要使用入门套件？ 作为一名个人创始人，我知道在努力实现愿景的同时处理多项任务是多么令人难以承受。此入门套件旨在通过提供所有必要的集成和功能来节省您的时间和精力，让您可以快速启动和运行您的产品。此入门套件专为希望专注于构建产品而不是处理繁琐集成的个人创始人量身定制。使用此套件，您可以节省天的设置任务时间，例如电子邮件、登录页面设计、Stripe webhook 和 SEO 标签。 它也是开源的，社区会喜欢您做出的所有贡献！ 主要特点  免费和开源：没有隐藏费用，只有纯粹的功能。 漂亮的登录页面：可自定义的登录页面，展示您的产品。 Google SSO：使用 NextAuth 与 Google 无缝身份验证。 Stripe 集成：使用 Stripe 轻松处理付款。 带有 Prisma 的 Postgres：强大的数据库管理。 Google Analytics：跟踪用户互动并获得见解。 Mailgun 集成：设置电子邮件通知毫不费力。 SEO优化：基本的SEO设置可提高您的搜索引擎可见性。 响应式设计：适合移动设备，可确保在所有设备上获得出色的用户体验。 未来功能：博客、文档、客户支持和推荐计划（即将推出）。  查看它 👉 适用于SoloPreneurs 的 Next.js 入门套件 我希望您和我一样觉得这个入门套件有用。编码愉快！🚀 NextJS #SoloPreneurs #WebDevelopment #OpenSource #JavaScript #React #Startup #DeveloperTools #next.js #next    提交人    /u/guillim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6pmxx/fast_starter_kit_nextjs_boilerplate_for/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:50:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
