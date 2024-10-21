@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 21 Oct 2024 09:26:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:46:05 GMT</lastBuildDate>
+    <item>
+      <title>补丁提示</title>
+      <link>https://www.producthunt.com/posts/patchcue</link>
+      <description><![CDATA[
+为您的客户量身定制的轻松发布说明
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/patchcue</guid>
+      <pubDate>Mon, 21 Oct 2024 02:49:20 GMT</pubDate>
+    </item>
     <item>
       <title>痕迹</title>
       <link>https://www.producthunt.com/posts/trag</link>
@@ -18,20 +32,6 @@ AI 代码审查伴侣
 ]]></description>
       <guid>https://www.producthunt.com/posts/trag</guid>
       <pubDate>Sun, 20 Oct 2024 23:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>意外发现</title>
-      <link>https://www.producthunt.com/posts/serendipity-6</link>
-      <description><![CDATA[
-在与 AI 共享之前捕获并删除敏感数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/serendipity-6</guid>
-      <pubDate>Sun, 20 Oct 2024 16:56:13 GMT</pubDate>
     </item>
     <item>
       <title>通知</title>
@@ -62,6 +62,20 @@ AI 代码审查伴侣
       <pubDate>Sun, 20 Oct 2024 10:09:38 GMT</pubDate>
     </item>
     <item>
+      <title>明智选择</title>
+      <link>https://www.producthunt.com/posts/wiseoptin</link>
+      <description><![CDATA[
+在点击“我同意”之前，请了解您接受的内容
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/wiseoptin</guid>
+      <pubDate>Sun, 20 Oct 2024 09:51:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Webifier.io</title>
       <link>https://www.producthunt.com/posts/webifier-io</link>
       <description><![CDATA[
@@ -76,21 +90,7 @@ AI 代码审查伴侣
       <pubDate>Sun, 20 Oct 2024 09:36:08 GMT</pubDate>
     </item>
     <item>
-      <title>Metaview 的 hiring.studio</title>
-      <link>https://www.producthunt.com/posts/hiring-studio-by-metaview</link>
-      <description><![CDATA[
-用于生成面试问题的 AI 副驾驶。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/hiring-studio-by-metaview</guid>
-      <pubDate>Fri, 18 Oct 2024 10:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>标签定时器</title>
+      <title>标签计时器</title>
       <link>https://www.producthunt.com/posts/tabtimer-2</link>
       <description><![CDATA[
 世界上最小的计时器。专为您的浏览器打造。
@@ -188,7 +188,7 @@ AI 代码审查伴侣
       <pubDate>Sat, 28 Sep 2024 19:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>甜甜圈</title>
+      <title>杜甜圈</title>
       <link>https://www.producthunt.com/posts/duonut-3</link>
       <description><![CDATA[
 具有实时跟进功能的 AI 对话式调查
