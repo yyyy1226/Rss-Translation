@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 03:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 06:32:26 GMT</lastBuildDate>
     <item>
       <title>痕迹</title>
       <link>https://www.producthunt.com/posts/trag</link>
@@ -18,6 +18,20 @@ AI 代码审查伴侣
 ]]></description>
       <guid>https://www.producthunt.com/posts/trag</guid>
       <pubDate>Sun, 20 Oct 2024 23:14:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>意外发现</title>
+      <link>https://www.producthunt.com/posts/serendipity-6</link>
+      <description><![CDATA[
+在与 AI 共享之前捕获并删除敏感数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/serendipity-6</guid>
+      <pubDate>Sun, 20 Oct 2024 16:56:13 GMT</pubDate>
     </item>
     <item>
       <title>通知</title>
@@ -62,20 +76,6 @@ AI 代码审查伴侣
       <pubDate>Sun, 20 Oct 2024 09:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>Webifier.io</title>
-      <link>https://www.producthunt.com/posts/webifier-io</link>
-      <description><![CDATA[
-使用 AI 生成 React 登陆页面
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/webifier-io</guid>
-      <pubDate>Sun, 20 Oct 2024 09:36:08 GMT</pubDate>
-    </item>
-    <item>
       <title>Metaview 的 hiring.studio</title>
       <link>https://www.producthunt.com/posts/hiring-studio-by-metaview</link>
       <description><![CDATA[
@@ -102,20 +102,6 @@ AI 代码审查伴侣
 ]]></description>
       <guid>https://www.producthunt.com/posts/tabtimer-2</guid>
       <pubDate>Thu, 17 Oct 2024 16:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>火焰生命</title>
-      <link>https://www.producthunt.com/posts/llama-life-2</link>
-      <description><![CDATA[
-一款帮助注意力缺陷多动障碍患者完成任务和日常活动的应用程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/llama-life-2</guid>
-      <pubDate>Thu, 17 Oct 2024 05:47:44 GMT</pubDate>
     </item>
     <item>
       <title>冲刺到购物车</title>
@@ -174,6 +160,34 @@ AI 代码审查伴侣
       <pubDate>Thu, 10 Oct 2024 11:15:39 GMT</pubDate>
     </item>
     <item>
+      <title>省略号新闻</title>
+      <link>https://www.producthunt.com/posts/ellipsis-news</link>
+      <description><![CDATA[
+针对您能想到的任何主题定制每日新闻播客。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ellipsis-news</guid>
+      <pubDate>Sun, 06 Oct 2024 08:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CloudSoul DevOps 代理</title>
+      <link>https://www.producthunt.com/posts/cloudsoul-devops-agent</link>
+      <description><![CDATA[
+以前所未有的速度部署到 AWS
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/cloudsoul-devops-agent</guid>
+      <pubDate>Wed, 02 Oct 2024 18:26:49 GMT</pubDate>
+    </item>
+    <item>
       <title>斯威戈</title>
       <link>https://www.producthunt.com/posts/sweego-3</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@ AI 代码审查伴侣
 ]]></description>
       <guid>https://www.producthunt.com/posts/sweego-3</guid>
       <pubDate>Tue, 01 Oct 2024 15:42:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mailbird 对于 Mac</title>
-      <link>https://www.producthunt.com/posts/mailbird-for-mac</link>
-      <description><![CDATA[
-现在在 Mac 上以您喜欢的方式发送电子邮件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mailbird-for-mac</guid>
-      <pubDate>Sat, 28 Sep 2024 19:34:06 GMT</pubDate>
     </item>
     <item>
       <title>瓦拉凡</title>
