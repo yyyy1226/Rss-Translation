@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 24 Oct 2024 18:31:50 GMT</lastBuildDate>
-    <item>
-      <title>贝塞尔可视化工具</title>
-      <link>https://www.producthunt.com/posts/bezier-visualizer</link>
-      <description><![CDATA[
-一款可视化贝塞尔控制点的小众产品 
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bezier-visualizer</guid>
-      <pubDate>Thu, 24 Oct 2024 01:26:42 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Oct 2024 21:22:36 GMT</lastBuildDate>
     <item>
       <title>乌宁</title>
       <link>https://www.producthunt.com/posts/unin</link>
@@ -37,7 +23,7 @@
       <title>今天启动</title>
       <link>https://www.producthunt.com/posts/launching-today</link>
       <description><![CDATA[
-一个启动和分享您项目的地方
+启动和分享项目的地方
 
 
 讨论
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/launching-today</guid>
       <pubDate>Wed, 23 Oct 2024 17:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷维姆</title>
+      <link>https://www.producthunt.com/posts/revyme</link>
+      <description><![CDATA[
+使用库存动画页面构建令人惊叹的动画网站
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/revyme</guid>
+      <pubDate>Wed, 23 Oct 2024 17:32:46 GMT</pubDate>
     </item>
     <item>
       <title>中型应用程序</title>
@@ -90,6 +90,20 @@
       <pubDate>Wed, 23 Oct 2024 07:39:50 GMT</pubDate>
     </item>
     <item>
+      <title>对任何事物进行分类</title>
+      <link>https://www.producthunt.com/posts/classify-anything</link>
+      <description><![CDATA[
+根据您的指示对任何内容进行分类
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/classify-anything</guid>
+      <pubDate>Tue, 22 Oct 2024 10:31:41 GMT</pubDate>
+    </item>
+    <item>
       <title>杰米</title>
       <link>https://www.producthunt.com/posts/jammy-c02bec36-8d3a-4e47-9a92-0e830caa4d64</link>
       <description><![CDATA[
@@ -130,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/my-good-week</guid>
       <pubDate>Mon, 21 Oct 2024 12:11:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>头晕头晕</title>
-      <link>https://www.producthunt.com/posts/giddygiddy</link>
-      <description><![CDATA[
-与以人为本的人工智能建立关系
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/giddygiddy</guid>
-      <pubDate>Mon, 21 Oct 2024 10:58:57 GMT</pubDate>
     </item>
     <item>
       <title>重叠工作室</title>
