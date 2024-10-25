@@ -4,9 +4,9 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 09:31:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:44:48 GMT</lastBuildDate>
     <item>
-      <title>熔岩灯即服务</title>
+      <title>熔岩灯服务</title>
       <link>https://www.producthunt.com/posts/lava-lamps-as-a-service</link>
       <description><![CDATA[
 由熔岩灯驱动的 RNG
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/clevrr-computer</guid>
       <pubDate>Thu, 24 Oct 2024 23:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>findmusic.ai</title>
-      <link>https://www.producthunt.com/posts/findmusic-ai</link>
-      <description><![CDATA[
-预测播放列表，为您量身定制
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/findmusic-ai</guid>
-      <pubDate>Thu, 24 Oct 2024 20:06:08 GMT</pubDate>
     </item>
     <item>
       <title>粉碎</title>
@@ -146,6 +132,20 @@
       <pubDate>Thu, 24 Oct 2024 07:52:25 GMT</pubDate>
     </item>
     <item>
+      <title>议程英雄魔法 2.0</title>
+      <link>https://www.producthunt.com/posts/agenda-hero-magic-2-0</link>
+      <description><![CDATA[
+将文本、图片和 PDF 转换为日历事件。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/agenda-hero-magic-2-0</guid>
+      <pubDate>Thu, 24 Oct 2024 07:13:27 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳德 电脑使用</title>
       <link>https://www.producthunt.com/posts/claude-computer-use</link>
       <description><![CDATA[
@@ -188,20 +188,6 @@
       <pubDate>Wed, 23 Oct 2024 16:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>立即审计</title>
-      <link>https://www.producthunt.com/posts/auditnow</link>
-      <description><![CDATA[
-使用品牌监控软件通过 AI 审核您的车队
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/auditnow</guid>
-      <pubDate>Tue, 22 Oct 2024 20:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>桌面冲刺</title>
       <link>https://www.producthunt.com/posts/tablesprint</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@ AI 平台构建面向未来的应用
 ]]></description>
       <guid>https://www.producthunt.com/posts/tablesprint</guid>
       <pubDate>Sun, 20 Oct 2024 17:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>福马多克斯</title>
+      <link>https://www.producthunt.com/posts/fumadocs</link>
+      <description><![CDATA[
+使用 Next.js 构建您的文档
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fumadocs</guid>
+      <pubDate>Fri, 27 Sep 2024 07:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
