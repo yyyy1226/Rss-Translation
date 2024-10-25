@@ -4,9 +4,9 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 15:25:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 18:31:18 GMT</lastBuildDate>
     <item>
-      <title>熔岩灯即服务</title>
+      <title>熔岩灯服务</title>
       <link>https://www.producthunt.com/posts/lava-lamps-as-a-service</link>
       <description><![CDATA[
 由熔岩灯驱动的 RNG
@@ -20,24 +20,10 @@
       <pubDate>Thu, 24 Oct 2024 23:49:53 GMT</pubDate>
     </item>
     <item>
-      <title>艾莉森</title>
-      <link>https://www.producthunt.com/posts/allyson</link>
-      <description><![CDATA[
-您的 AI 执行助理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/allyson</guid>
-      <pubDate>Thu, 24 Oct 2024 23:46:41 GMT</pubDate>
-    </item>
-    <item>
       <title>粉碎</title>
       <link>https://www.producthunt.com/posts/smashing</link>
       <description><![CDATA[
-关注您感兴趣的文章
+更聪明地阅读：随时关注您感兴趣的文章
 
 
 讨论
@@ -74,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/keyboard-shortcut-image-creator</guid>
       <pubDate>Thu, 24 Oct 2024 14:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>DoodleLingo</title>
+      <link>https://www.producthunt.com/posts/doodlelingo</link>
+      <description><![CDATA[
+通过绘画学习语言的有趣方式
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/doodlelingo</guid>
+      <pubDate>Thu, 24 Oct 2024 14:15:41 GMT</pubDate>
     </item>
     <item>
       <title>快速预览</title>
@@ -174,18 +174,18 @@
       <pubDate>Tue, 22 Oct 2024 20:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>寻找人工智能</title>
-      <link>https://www.producthunt.com/posts/truva-ai</link>
+      <title>AUDIOMATIC.IO</title>
+      <link>https://www.producthunt.com/posts/audiomatic-io</link>
       <description><![CDATA[
-销售更多。使用 AI 代理减少工作量。
+自动查找 + 生成视频的音乐和音效
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/truva-ai</guid>
-      <pubDate>Mon, 21 Oct 2024 11:59:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/audiomatic-io</guid>
+      <pubDate>Tue, 22 Oct 2024 14:03:56 GMT</pubDate>
     </item>
     <item>
       <title>桌面冲刺</title>
