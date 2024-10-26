@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 26 Oct 2024 15:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 18:29:02 GMT</lastBuildDate>
     <item>
       <title>矿山天气</title>
       <link>https://www.producthunt.com/posts/mineweather</link>
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/smashing</guid>
       <pubDate>Thu, 24 Oct 2024 17:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>键盘快捷键图像创建器</title>
-      <link>https://www.producthunt.com/posts/keyboard-shortcut-image-creator</link>
-      <description><![CDATA[
-为任何键盘快捷键组合快速创建图像
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/keyboard-shortcut-image-creator</guid>
-      <pubDate>Thu, 24 Oct 2024 14:50:04 GMT</pubDate>
     </item>
     <item>
       <title>DoodleLingo</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/oat-x-tastytrade</guid>
       <pubDate>Fri, 18 Oct 2024 20:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>福马多克斯</title>
+      <link>https://www.producthunt.com/posts/fumadocs</link>
+      <description><![CDATA[
+使用 Next.js 构建您的文档
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fumadocs</guid>
+      <pubDate>Fri, 27 Sep 2024 07:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
