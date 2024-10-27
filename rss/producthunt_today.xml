@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 27 Oct 2024 01:52:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 03:31:37 GMT</lastBuildDate>
     <item>
       <title>矿山天气</title>
       <link>https://www.producthunt.com/posts/mineweather</link>
@@ -132,20 +132,6 @@
       <pubDate>Thu, 24 Oct 2024 09:56:33 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Mac 的 Dockside 应用程序</title>
-      <link>https://www.producthunt.com/posts/dockside-app-for-mac</link>
-      <description><![CDATA[
-位于 macOS Dock 旁边的友好文件架
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dockside-app-for-mac</guid>
-      <pubDate>Wed, 23 Oct 2024 18:20:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Insta360 Ace Pro 2</title>
       <link>https://www.producthunt.com/posts/insta360-ace-pro-2</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/oat-x-tastytrade</guid>
       <pubDate>Fri, 18 Oct 2024 20:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>福马多克斯</title>
+      <link>https://www.producthunt.com/posts/fumadocs</link>
+      <description><![CDATA[
+使用 Next.js 构建您的文档
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fumadocs</guid>
+      <pubDate>Fri, 27 Sep 2024 07:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
