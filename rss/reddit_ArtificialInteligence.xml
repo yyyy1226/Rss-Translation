@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 09:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 12:40:02 GMT</lastBuildDate>
+    <item>
+      <title>疯狂的时刻！这部音乐视频中的所有内容都是 AI 生成的，我的意思是所有内容：歌词、音乐、声音、图像、视频。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gda1gv/crazy_times_everything_in_this_music_video_is_ai/</link>
+      <description><![CDATA[最近才知道可以用 AI 制作一整部音乐视频：https://youtu.be/mah8ArObTfo?si=vvr5W274RxKTIrgZ 首先使用 MidJourney 生成图像，然后将其输入 KLING 图像转视频 AI。最后，由 Suno AI 生成歌词、音乐和歌声。我想与社区分享，深入了解最近一段时间的 AI 进展。    提交人    /u/Bodypaintartventures   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gda1gv/crazy_times_everything_in_this_music_video_is_ai/</guid>
+      <pubDate>Sun, 27 Oct 2024 12:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的 Android AI 笔记记录器？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd9zjy/best_android_ai_note_taker/</link>
+      <description><![CDATA[大家好，我想使用一款安卓人工智能笔记记录器 - 目前没有适用于 Teams 的 Copilot，而且我不想在我的笔记本电脑上安装任何可能违反公司安全规则的东西。  因此，我有两个选择 - 一款可以在不打扰的情况下转录我的 Teams 会议内容的 Windows 软件，或者一款我会在开会时在手机上使用的安卓笔记记录器。无论哪种情况，我都会确保不在讨论机密信息的会议上使用。  有人有什么建议吗？    提交人    /u/jadax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd9zjy/best_android_ai_note_taker/</guid>
+      <pubDate>Sun, 27 Oct 2024 12:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta AI 推出代币级检测奖励模型，以提高视觉语言模型的准确性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd9fbm/meta_ai_launches_tokenlevel_detective_reward/</link>
+      <description><![CDATA[Meta AI 和南加州大学发布了 Token-Level Detective Reward (TLDR) 模型，以提高大型视觉语言模型 (VLM) 的准确性。这是 AI 评估方式向前迈出的一大步。https://theaiwired.com/meta-ai-launches-token-level-detective-reward-model-for-improved-vision-language-model-accuracy/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd9fbm/meta_ai_launches_tokenlevel_detective_reward/</guid>
+      <pubDate>Sun, 27 Oct 2024 12:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型语言模型反映了其创造者的意识形态</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd7i61/large_language_models_reflect_the_ideology_of/</link>
+      <description><![CDATA[标题：大型语言模型反映了其创建者的意识形态 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必仔细阅读它们了。今天的论文题为“大型语言模型反映了其创建者的意识形态”，作者是 Maarten Buyl、Alexander Rogiers、Sander Noels、Iris Dominguez-Catena、Edith Heiter、Raphael Romero、Iman Johary、Alexandru-Cristian Mara、Jefrey Lijffijt 和 Tijl De Bie。 这项研究调查了大型语言模型 (LLM) 在多大程度上体现和反映了其开发人员的意识形态观点。随着 ChatGPT 等模型成为控制全球信息流的重要参与者，了解它们是否带有固有偏见对于评估它们对社会的影响至关重要。 主要发现：  意识形态反思：研究表明，法学硕士表现出与地区或创作者观点一致的意识形态立场。这表明，这些模型虽然看似中立，但确实反映了它们在发展过程中做出的潜在意识形态选择。 语言影响：提示法学硕士的语言显著改变了它们的意识形态立场。例如，用中文和英文提示的同一个模型显示出不同的偏见，特别是在地缘政治话题方面，展示了语言和文化背景的影响。 地区差异：在不同地理区域建立的模型表现出不同的意识形态倾向，与提示语言无关。西方法学硕士更倾向于民主价值观，而非西方模式则倾向于中央集权治理。 区域内多样性：即使在同一文化区域内，来自不同公司的法学硕士之间也存在差异。例如，与其他西方法学硕士相比，OpenAI 模型对超国家主义和腐败表现出更多的怀疑。 意识形态中立的挑战：法学硕士中的中立概念受到批判，这与哲学论点一致，认为完全的意识形态中立是无法实现的，而且可能有害。相反，在民主模式下，存在不同的意识形态观点被认为是有益的。  这些发现强调了在纯技术领域以外的背景下考虑法学硕士的意识形态取向的重要性。对监管、模型设计和用户选择的影响凸显了确保负责任地部署人工智能技术的重要主题。 您可以在这里看到完整的细分：这里您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd7i61/large_language_models_reflect_the_ideology_of/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:51:55 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能的崛起将如何影响电影制作的未来？人工智能会取代编剧、演员或导演吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd72qt/how_might_the_rise_of_ai_impact_the_future_of/</link>
@@ -53,34 +81,6 @@
       <description><![CDATA[我意识到超级智能如今已经以模块化形式出现。如果模块可以是 LangGraph 代理，情况会怎样？ 例如计算器：在进行计算的狭窄领域中具有超级智能。也可以很容易地将 LangGraph 实现为工具。它可以帮助主 LLM 进行计算。 如果这种方法可以扩展，情况会怎样？我们可以实现其他模块，从而一起创建超级智能（或至少是类似智能的东西）吗？ 我看到了对 Demis Hassabis 的采访，他谈到了将一些“工具”直接实现到 Gemini 中，并让其他工具被 Gemini 调用。这引起了我的共鸣，因为调用工具在今天已经非常解决了。关于直接实现到模型中的第一部分是不同的，因为只有少数公司可以做到这一点。 但是，是否可以坚持使用工具调用（或代理之间的通信）来创建超级智能？我们如何交织模块/代理的思维？  我们可以分享一些关于此的想法吗？     提交人    /u/FireDragonRider   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcuyaw/agentic_asi/</guid>
       <pubDate>Sat, 26 Oct 2024 21:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>总和为 143 的单词？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcu76d/words_that_add_up_to_a_sum_of_143/</link>
-      <description><![CDATA[我要求 AI 给我一个单词列表，这些单词加起来等于 143，但它一直给我加起来不及 143 的单词。我想这会是一个简单的问题。（A=1，... Z=26）有人愿意帮我试试吗？    提交人    /u/4Justice_257   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcu76d/words_that_add_up_to_a_sum_of_143/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人听说过适合法学硕士 (LLM) 的优秀“AI Doctor”包装器吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gctia5/has_anyone_heard_of_a_good_ai_doctor_wrapper_for/</link>
-      <description><![CDATA[我只是认为拥有一个好的 AI 包装器来充当全科医生是个好主意。具有以下功能：  收集病史/简历 根据信息推荐要进行的实验室测试。 跟踪患者并存储其所有病史 创建鉴别诊断并生成更多有助于诊断的问题/测试。 制定治疗计划 创建预后  所以一般的东西。有人做过吗？不久前，我使用 o1 终于为我的妻子制定了治疗计划，这对我帮助很大（真正的医生帮不上什么忙）。 所以我认为拥有一个私人“医生 GPT”是个好主意这样就可以掌握我和我妻子的所有医疗信息，从而做出明智的预测。 我搜索过 github，确实找不到类似 SOTA LLM 的包装器    提交人    /u/ahtoshkaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gctia5/has_anyone_heard_of_a_good_ai_doctor_wrapper_for/</guid>
-      <pubDate>Sat, 26 Oct 2024 19:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合初学者的 AI 编码助手？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcsp9m/best_ai_coding_assistant_for_beginners/</link>
-      <description><![CDATA[嗨，有人使用人工智能编码助手构建副项目吗？你用什么工具？我一直在探索光标人工智能，但对于像我这样的非技术人员来说，感觉有点困难。    提交人    /u/johnzakma10   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcsp9m/best_ai_coding_assistant_for_beginners/</guid>
-      <pubDate>Sat, 26 Oct 2024 19:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里我可以始终简短地了解人工智能的最新技术和新闻？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcsjsx/where_can_i_always_keep_updated_on_new/</link>
-      <description><![CDATA[我总是遇到过于详细而无法快速总结的资源。作为一名学生，我想简要了解一下新的更新。如果我感兴趣，我可以进一步了解，但我目前拥有的大多数资源都太详细或太宽泛了。有人能给我建议在哪里可以找到关于人工智能的最新新闻/更新吗？    提交人    /u/featuredflan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcsjsx/where_can_i_always_keep_updated_on_new/</guid>
-      <pubDate>Sat, 26 Oct 2024 19:13:59 GMT</pubDate>
     </item>
     <item>
       <title>提示是否永远是使用人工智能的重要方面？</title>
