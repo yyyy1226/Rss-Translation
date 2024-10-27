@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 27 Oct 2024 03:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 06:30:47 GMT</lastBuildDate>
     <item>
       <title>我听说这篇文章中有一些不准确的信息，我希望得到一些民事批评，以便我可以纠正它</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>在商业项目中使用 Apache 2.0 代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcrirn/using_apache_20_code_in_commercial_project/</link>
-      <description><![CDATA[React Aria 提供了一个“入门套件”，其中包含 40 多个带有代码的文件，他们说我可以获取这些文件并将其添加到我的项目中以在其基础上进行构建。它不是一个库，而是一个复制粘贴解决方案 我的问题是，当我获取他们的代码并对其进行修改时，如何才能不违反 Apache 2.0 许可的条款？例如，我更改了所有 40 个文件的格式，还更改了一些模式    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
+      <description><![CDATA[React Aria 提供了一个“入门套件”，其中包含 40 多个带有代码的文件，他们说我可以获取这些文件并将其添加到我的项目中以在其基础上进行构建。这不是一个库，而是一个复制粘贴解决方案 我的问题是，当我获取他们的代码并对其进行修改时，如何才能不违反 Apache 2.0 许可的条款？例如，我更改了所有 40 个文件的格式，还更改了一些模式    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcrirn/using_apache_20_code_in_commercial_project/</guid>
       <pubDate>Sat, 26 Oct 2024 18:26:58 GMT</pubDate>
     </item>
