@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 01:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:31:13 GMT</lastBuildDate>
+    <item>
+      <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
+      <description><![CDATA[在 Azure 静态 Web 应用上运行 Angular 站点。托管 Angular 站点效果很好，但我遇到了 CSP 实施问题。渗透测试结果并不令人满意，因为我们的静态 Web 应用 staticwebapp.json 中删除了全局标头。我们在将 CSP 策略添加到 index.html 和 angular 根元素时删除了它，这样我们就可以支持脚本和样式上的 nonce 策略以及支持子文件完整性。 我认为让应用程序在索引中运行 CSP 策略以及 nonce 策略就足以为站点提供服务，而不是使用似乎没有任何方法让我支持 nonce 策略的静态 Web 应用配置，我错了吗？  是否有可能/有必要在索引和角度根级别运行带有 nonces 的 CSP 策略，同时在 staticwebapp 全局标头级别运行不带有 nonces 的 CSP 策略？ 除非来自我们的安全 API 和后端，否则我们的网站不会提供任何其他服务，因此我很难理解为什么会因为“不够”而将其推回。    提交人    /u/BurningLoinsGundam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</guid>
+      <pubDate>Tue, 29 Oct 2024 02:31:38 GMT</pubDate>
+    </item>
     <item>
       <title>拥有 3 年以上经验的 React 开发人员 – 需要向产品型公司转型的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>如何识别特定 Web 开发机构的其他客户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gecedv/how_can_i_identify_other_clients_of_a_specific/</link>
-      <description><![CDATA[大家好， 我最近为一位客户完成了一个网站项目，他对项目结果非常满意。他们提到，之所以选择我，是因为他们之前的网页开发机构的体验令人沮丧。出于好奇，我查看了该机构的评论，果然，他们收到了大量不满意客户的 1 星评价。 我想联系该机构的其他客户，为他们提供更好的服务体验。有人能给我一些建议吗？我该如何识别这家特定机构的网站或客户？任何能够收集可能愿意更换的潜在客户名单的方法都将非常有帮助。    提交人    /u/troywebber   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我最近为一位客户完成了一个网站项目，他对结果非常满意。他们提到，之所以选择我，是因为他们之前的网页开发机构的体验令人沮丧。出于好奇，我查看了该机构的评论，果然，他们收到了很多不满意客户的 1 星评论。 我想联系该机构的其他客户，为他们提供更好的服务体验。有人能给我一些建议吗？我该如何识别这家特定机构的网站或客户？任何能够收集可能愿意更换的潜在客户名单的方法都将非常有帮助。    提交人    /u/troywebber   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gecedv/how_can_i_identify_other_clients_of_a_specific/</guid>
       <pubDate>Mon, 28 Oct 2024 20:32:58 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的项目要求之一是实现对购买产品库存数量变化的实时更新（例如，如果产品数量为 5，一次购买将其减少到 3，我希望将这一情况反映给当前可能查看该产品的每个用户）。我的问题是，哪种技术最适合用于此类功能？Websockets 还是只是短轮询？提前致谢。    提交人    /u/SituacijaJeSledeca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gec5ch/question_regarding_realtime_feature_implementation/</guid>
       <pubDate>Mon, 28 Oct 2024 20:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是“重复兄弟” （在页眉/主/页脚元素的上下文中）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge9n2m/what_are_repeated_siblings_in_the_context_of/</link>
-      <description><![CDATA[大家好，又是我 仍在学习；之前我在谷歌上搜索过“html 文档中是否可以有多个页眉”，最上面的搜索结果是“页眉、主元素或页脚元素的数量没有限制，除了它们不能是重复的兄弟元素。” “重复的兄弟元素”是什么意思？ 此外，在 html 上下文中，“子元素”、“子代”这些术语是什么意思？我一直看到这些家族术语被随意使用，我有点迷茫了，哈哈。    提交人    /u/beepyfrogger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge9n2m/what_are_repeated_siblings_in_the_context_of/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

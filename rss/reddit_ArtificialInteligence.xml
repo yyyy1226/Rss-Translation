@@ -4,27 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 01:47:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:30:00 GMT</lastBuildDate>
+    <item>
+      <title>对于人工智能而言，哪个新闻来源最不夸张、最不炒作呢？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geldkv/what_is_going_to_be_the_least_bombastic_and_hyped/</link>
+      <description><![CDATA[我之所以问这个问题，是因为我刚刚在 Tech Crunch 上看到一篇文章，谈论这种据说非常出色的新型图像生成 AI。&quot;一种神秘的新型图像生成模型在众包人工智能分析基准测试中击败了 Midjourney、Black Forest Labs 和 OpenAI 的模型。&lt;-- 摘自这篇文章。不确定这里的链接协议是什么，所以我尽量不让这篇文章成为文章的链接。    提交人    /u/RADICCHI0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geldkv/what_is_going_to_be_the_least_bombastic_and_hyped/</guid>
+      <pubDate>Tue, 29 Oct 2024 03:27:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>你最喜欢的免费 AI 视频换脸应用是哪一个？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gekkyz/whats_your_best_free_ai_video_face_swap/</link>
+      <description><![CDATA[谁不喜欢免费的工具呢？不幸的是，除了照片换脸功能可能完全免费外，市场上几乎所有的视频换脸选项都需要付费或升级为 VIP 才能使用。因此，我测试了一些，并找到了五种提供免费视频换脸的工具。如果有人有更好的建议，请随时分享。 1.Vidwud 三次免费视频换脸 无需登录 无水印 2.AIFaceswap 两次免费视频换脸 需要登录 无水印 3.MagicHour 400帧免费视频换脸 登录后即可下载 视频有水印。 4.Vidqu AI 三次免费视频换脸 无需登录 无水印 5.ismartta 两次免费视频换脸交换 无需登录 无水印    提交人    /u/AdVisible3897   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gekkyz/whats_your_best_free_ai_video_face_swap/</guid>
+      <pubDate>Tue, 29 Oct 2024 02:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个原生 iOS 客户端，将您最喜欢的所有 LLM（OpenAI、Claude、OpenRouter）API 连接到一个地方！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gejp5o/i_built_a_native_ios_client_that_connects_all/</link>
+      <description><![CDATA[我构建了一个本机 iOS 客户端，可以在一个地方连接到所有您喜欢的 LLM API（OpenAI、Claude、OpenRouter） 大家好！👋 我想分享一个我刚刚启动的项目，它可能对使用多个 AI 模型/API 的人们有用。 作为经常使用不同 LLM 的人，我对在多个应用程序和浏览器选项卡之间切换、处理不同的订阅以及跨平台丢失对话感到沮丧。因此，我构建了 LLMConnect，这是一个原生 iOS 客户端，可让你使用自己的 API 密钥与多个 AI 模型聊天。 主要功能：  连接到 OpenAI、Anthropic 和 OpenRouter API 使用个性化系统提示创建自定义助手 存档和固定重要对话 为你的机器人自定义知识库 角色扮演机器人创建 无需订阅 - 只需一次性购买 不收集数据 - 你的 API 密钥和对话保留在你的设备上 为性能而构建的原生 iOS 应用  我构建它的原因：我厌倦了：  在我已经拥有 API 访问权限的情况下支付多个订阅费用 丢失不同平台之间的对话 感觉缓慢或笨重的 必须在不同的界面之间切换上下文  该应用设计为快速、响应迅速且感觉原生于 iOS。没有网页视图，没有笨重的界面，只有流畅的原生性能。 一些很酷的功能：  创建具有详细角色的角色扮演机器人 构建具有自定义知识库的助手 存档重要对话以供日后参考 固定最喜欢的聊天 为每个机器人自定义系统提示  该应用可在 App Store 上一次性购买（无需订阅！）。您只需要您的 API 密钥。 很乐意回答有关特性或功能的任何问题！我正在积极进行更新，并希望了解还有哪些功能对高级用户有用。    提交人    /u/SEDIDEL   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gejp5o/i_built_a_native_ios_client_that_connects_all/</guid>
+      <pubDate>Tue, 29 Oct 2024 01:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>付费无限视频 AI 生成器？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geje82/paid_unlimited_video_ai_generator/</link>
       <description><![CDATA[我一直在寻找真正无限制的付费服务。所有 AI 工具都有某种限制。即使每月 100 美元仍然有限制。     提交人    /u/hikitakumori   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geje82/paid_unlimited_video_ai_generator/</guid>
       <pubDate>Tue, 29 Oct 2024 01:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个原生 iOS 客户端，可以在一个地方连接到所有你最喜欢的 LLM API（OpenAI、Claude、OpenRouter）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gejb5g/i_built_a_native_ios_client_that_connects_to_all/</link>
-      <description><![CDATA[  由    /u/SEDIDEL  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gejb5g/i_built_a_native_ios_client_that_connects_to_all/</guid>
-      <pubDate>Tue, 29 Oct 2024 01:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你仍在使用 ChatGPT，那么这就是一个新手常犯的错误</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geivah/rookie_mistake_if_youre_just_still_using_chatgpt/</link>
-      <description><![CDATA[我和其他人一样喜欢 chatgpt，但让我们面对现实吧——它只是一个回答问题或角色扮演的工具。 但如果还有更多呢？ 想象一下，如果您拥有 chatgpt 和所有现有的聊天模型，您可以随意使用。 这就是我构建 Admix 的原因。它集成了所有聊天模型，但并不止于此，因为您可以同时聊天和比较您选择的 6 个聊天机器人，这样您每次都可以得到最好的答案。并且有 AI 侧面板，因此您可以随时随地访问任何 ai 模型。 此外，所有这些只需 13 美元/月，比 gpt 4 还便宜，我们还有 7 天的免费试用期，所以如果您不喜欢，可以取消。    提交人    /u/Aggravating-Spirit16   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geivah/rookie_mistake_if_youre_just_still_using_chatgpt/</guid>
-      <pubDate>Tue, 29 Oct 2024 01:18:49 GMT</pubDate>
     </item>
     <item>
       <title>人工智能语音克隆程序？</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[基本上就是标题。 我需要一款软件来制作逼真的人类说话视频。为了获得更多背景信息，我需要一款可以创建场景的软件，其中有人在说我给应用程序的脚本，并且看起来非常真实。 根据一些谷歌搜索，我发现有很多网站可以做到这一点，但我无法真正测试它们，因为它们需要付费。我会为最好的支付必要的费用，但不愿意花一些钱来测试所有这些。所以这是我的帖子，请您给我一些我可以使用什么软件的建议。    提交人    /u/DapphidxL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge9ho8/what_ai_software_can_i_use_to_create_realistic/</guid>
       <pubDate>Mon, 28 Oct 2024 18:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>WUI.ai 真的能帮助将长视频制作成病毒式传播的短片吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge957q/can_wuiai_really_help_create_viral_clips_from/</link>
-      <description><![CDATA[WUI.ai 听起来像是制作病毒式视频的梦想，但它真的有效吗？想知道是否有人使用此工具制作的视频成功传播。告诉我你的经验！    提交人    /u/asus-24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge957q/can_wuiai_really_help_create_viral_clips_from/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:19:53 GMT</pubDate>
     </item>
     <item>
       <title>目前最强大但最新的AI模型是什么？</title>
