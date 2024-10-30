@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:31:34 GMT</lastBuildDate>
+    <item>
+      <title>需要一个可以比较图片的软件来查看哪些是相同的</title>
+      <link>https://www.reddit.com/r/software/comments/1gfsvjk/need_a_software_that_compares_images_to_see_which/</link>
+      <description><![CDATA[我最近恢复了一堆装满家庭照片的 CD 和 DVD。但很多 CD 上的照片都与其他 CD 上的照片相同。因此，如果有人能向我推荐一个可以比较多张照片的程序，我将不胜感激     提交人    /u/Superichiruki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gfsvjk/need_a_software_that_compares_images_to_see_which/</guid>
+      <pubDate>Wed, 30 Oct 2024 17:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个小老鼠图标是什么 Windows 11 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1gfphcx/what_windows_11_software_is_this_little_mouse_icon/</link>
+      <description><![CDATA[https://preview.redd.it/wdrosca0ywxd1.png?width=44&amp;format=png&amp;auto=webp&amp;s=88728e4d8b0c6df09ebf4144410f52cb6c692db7 https://preview.redd.it/7hzg7xz0ywxd1.png?width=409&amp;format=png&amp;auto=webp&amp;s=49cdca10060e9687f5cb954068a0cf62067f5a77 应用程序下方的灰色条似乎每秒像计时器一样倒计时一次，一旦耗尽就会再次变成满条，所以我在想某种计时器应用程序？   由    /u/sterofuse  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gfphcx/what_windows_11_software_is_this_little_mouse_icon/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:37:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora KDE 41 中的新功能</title>
+      <link>https://www.reddit.com/r/software/comments/1gfpemx/whats_new_in_fedora_kde_41/</link>
+      <description><![CDATA[  由    /u/JRepin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gfpemx/whats_new_in_fedora_kde_41/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:34:33 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法让第二个键盘独立于主键盘？</title>
       <link>https://www.reddit.com/r/software/comments/1gfoghf/is_there_a_way_to_make_a_second_keyboard/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[因此，我获得了免费试用，现在当我尝试管理订阅以停止自动续订时，它需要一些他们从未给过的 cleverbridge 号码。我联系了支持人员，他们告诉我他们不再提供这些号码了。我多次给他们发电子邮件询问如何停止我的订阅，但他们忽略了。我该怎么办？    提交人    /u/ItsJustSour   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gf2nhy/i_think_im_being_scammed_by_ccleaner/</guid>
       <pubDate>Tue, 29 Oct 2024 19:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从大量标准任务中选择任务或要求</title>
-      <link>https://www.reddit.com/r/software/comments/1geyezc/selectable_tasks_or_requirements_from_large_group/</link>
-      <description><![CDATA[如果我错了，请见谅。我正在寻找有关现有工具的任何见解，该工具将允许我从标准的总任务“池”中创建完整的任务和子任务列表。示例：我管理项目，它们都略有不同。因此，如果我想为特定项目创建大纲或“清单”，我可以转到大型任务池并选择它们并将它们添加到大纲文档中。     提交人    /u/pack2k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1geyezc/selectable_tasks_or_requirements_from_large_group/</guid>
-      <pubDate>Tue, 29 Oct 2024 16:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>将音频（仅）从一台 PC 传输到另一台 PC</title>
-      <link>https://www.reddit.com/r/software/comments/1gevh01/stream_only_audio_from_one_pc_to_another/</link>
-      <description><![CDATA[tl;dr：我想要像 Any/RustDesk 这样的东西，但只用于音频。 已经尝试了 VoiceMeeter 和 swyh-rs&quot;，但由于某些原因，它不能正常工作。 我的桌子上有一台笔记本和一台电脑。我用电脑工作，用笔记本流式传输一些东西来观看/收听。 但是笔记本的扬声器不好，所以我插上一个不再工作的旧耳机，然后打开 Rustdesk 将音频从笔记本流式传输到电脑。 但是 Rustdesk 虽然运行良好，但也会流式传输视频（对我来说没有必要），并且随着时间的推移会造成一定的延迟。 我想知道是否有任何软件基本上可以做同样的事情，但只流式传输音频。   由    /u/AMR42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gevh01/stream_only_audio_from_one_pc_to_another/</guid>
-      <pubDate>Tue, 29 Oct 2024 14:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动暂停音频的软件或代码</title>
-      <link>https://www.reddit.com/r/software/comments/1gesila/software_or_code_to_auto_pause_audio/</link>
-      <description><![CDATA[寻找一个可以在我播放另一个音频或视频时暂停任何音频或视频的软件。例如，我经常在使用 After Effects 和其他软件时在 YouTube 或其他网站上收听一些视频或音频。因此，当我在 After Effects 上播放视频时，我想暂停 YouTube 上的视频/音频，并且当我在 After Effects 上暂停视频时也播放它。如果有任何软件可以做到这一点，请告诉我    提交人    /u/DarkDare_Devil   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gesila/software_or_code_to_auto_pause_audio/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:40:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:32:02 GMT</lastBuildDate>
     <item>
-      <title>Supershy：DIY SSH 隧道代理，带有旋转出口节点，是 TOR 匿名性和 VPN 速度的混合体 [OC]</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfo70h/supershy_diy_ssh_tunnel_proxy_with_a_rotating/</link>
-      <description><![CDATA[        提交人    /u/VomisaCaasi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfo70h/supershy_diy_ssh_tunnel_proxy_with_a_rotating/</guid>
-      <pubDate>Wed, 30 Oct 2024 14:43:22 GMT</pubDate>
+      <title>寻找与野生动物相关的 OSS 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gfsynx/looking_for_wildliferelated_oss_projects/</link>
+      <description><![CDATA[您好，我正在寻找与野生动物（或更普遍的物种）保护/调解相关的活跃开源项目。或者任何可以帮助类似事业的东西。 如果您知道可以匹配的项目名称，请随时分享，提前致谢！:)    提交人    /u/KyN76   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gfsynx/looking_for_wildliferelated_oss_projects/</guid>
+      <pubDate>Wed, 30 Oct 2024 18:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有软件可以将给定文件夹内的所有文件的名称记录到文本文件中？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</link>
+      <description><![CDATA[我不确定在哪里问这个问题，我甚至怀疑它是否存在，但如果存在的话，那将是一个巨大的解脱。基本上，我需要记录我拥有的所有文件（数量以千计），如果我可以使用现有软件自动执行此操作，那就太棒了。自己编写代码可能并不难（？），但我已经多年没有练习过 C/C++ 了 :/    提交人    /u/beclomethasonedppnt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</guid>
+      <pubDate>Wed, 30 Oct 2024 16:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命，名为 Doro A.B 的公司应该给我设备来源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</link>
+      <description><![CDATA[您好，我给一家名为 Doro A.B 的电话公司发了电子邮件，该公司专注于为老奶奶提供技术，但他们说他们什么都不知道，也不会做任何事情。在回复中解释了 GPl-2 和更多内容后，他们根本没有回复，然后从另一个帐户发送了一封电子邮件（解释了所有 GPL-2 和更多内容），但他们忽略了我，他们说他们会在两天内回复，帮帮我！！    提交人    /u/Intelligent_Alarm178   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:35:59 GMT</pubDate>
     </item>
     <item>
       <title>社区对开源定义的承诺</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/xenophenes   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gf3tgx/pgai_vectorizer_launched_today_available_on/</guid>
       <pubDate>Tue, 29 Oct 2024 19:55:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源表格和预订功能相结合</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gf2q0q/open_source_forms_and_bookings_combined/</link>
-      <description><![CDATA[我正在寻找的是表单和预订相结合的东西。这是针对学校环境的，因此学生可以选择第一学期的课程，然后选择第二学期的课程，但不能与第一学期相同。最好我们想找到一些开源的东西。有人有想法吗？    提交人    /u/IanBauters   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gf2q0q/open_source_forms_and_bookings_combined/</guid>
-      <pubDate>Tue, 29 Oct 2024 19:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开洗涤的秘密</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gf2n6o/the_open_secret_of_open_washing/</link>
-      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gf2n6o/the_open_secret_of_open_washing/</guid>
-      <pubDate>Tue, 29 Oct 2024 19:06:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
