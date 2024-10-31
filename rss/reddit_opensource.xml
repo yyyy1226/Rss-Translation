@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 30 Oct 2024 21:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:48:45 GMT</lastBuildDate>
+    <item>
+      <title>开放数据作为数字公共产品在人工智能系统中的作用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gg2wrs/the_role_of_open_data_in_ai_systems_as_digital/</link>
+      <description><![CDATA[  由    /u/jlpcsl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gg2wrs/the_role_of_open_data_in_ai_systems_as_digital/</guid>
+      <pubDate>Thu, 31 Oct 2024 01:19:04 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助：识别这些照片背后的开源 ERP/CRM</title>
       <link>https://www.reddit.com/r/opensource/comments/1gfwq19/help_needed_identify_the_open_source_erpcrm/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[GitHub 链接：https://github.com/wraient/flick    由   提交  /u/WraientDaemon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfvkm4/flick_watch_tv_shows_movies_with_cli_or_rofi/</guid>
       <pubDate>Wed, 30 Oct 2024 19:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，通过让你快速浏览按功能和概念排列的整个代码库，帮助你快速了解开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfuupr/i_made_a_tool_to_help_you_understand_open_source/</link>
-      <description><![CDATA[是否曾经想为开源项目做贡献，但不确定如何做？或者只是好奇代码库中发生了什么？ 我制作了这个工具来通读整个代码库并主动显示其中的重要部分：https://braucode.com 这是一种立即了解新存储库中发生的事情并深入了解重要入口点的好方法。 它目前仅支持 typescript 项目，但可以添加对更多语言的支持！    提交人    /u/yyjhao   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfuupr/i_made_a_tool_to_help_you_understand_open_source/</guid>
-      <pubDate>Wed, 30 Oct 2024 19:21:16 GMT</pubDate>
     </item>
     <item>
       <title>WordPress 的开源商业模式遭遇困境</title>
