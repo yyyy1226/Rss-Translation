@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Nov 2024 12:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 15:25:38 GMT</lastBuildDate>
     <item>
       <title>独立发布</title>
       <link>https://www.producthunt.com/posts/indielaunch-3</link>
@@ -90,6 +90,20 @@
       <pubDate>Thu, 31 Oct 2024 17:47:36 GMT</pubDate>
     </item>
     <item>
+      <title>ChatGPT 搜索</title>
+      <link>https://www.producthunt.com/posts/chatgpt-search</link>
+      <description><![CDATA[
+通过相关网络资源链接获取快速、及时的答案
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chatgpt-search</guid>
+      <pubDate>Thu, 31 Oct 2024 17:23:11 GMT</pubDate>
+    </item>
+    <item>
       <title>天气屏幕</title>
       <link>https://www.producthunt.com/posts/weather-screen</link>
       <description><![CDATA[
@@ -118,18 +132,18 @@
       <pubDate>Thu, 31 Oct 2024 15:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>立方体</title>
-      <link>https://www.producthunt.com/posts/tesseract-2</link>
+      <title>关键词魔法</title>
+      <link>https://www.producthunt.com/posts/keywordmagic</link>
       <description><![CDATA[
-受电影《星际穿越》启发的日记应用
+智能关键字工具
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tesseract-2</guid>
-      <pubDate>Thu, 31 Oct 2024 13:39:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/keywordmagic</guid>
+      <pubDate>Thu, 31 Oct 2024 10:25:28 GMT</pubDate>
     </item>
     <item>
       <title>克利普实验室</title>
@@ -200,20 +214,6 @@ AI 名人语音生成器和口型同步工具
 ]]></description>
       <guid>https://www.producthunt.com/posts/truva-ai</guid>
       <pubDate>Mon, 21 Oct 2024 11:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅行</title>
-      <link>https://www.producthunt.com/posts/journey-2b472eca-3148-4e6d-8021-d892c9d6d6b9</link>
-      <description><![CDATA[
-支持 CarPlay、兼容 OBD 的公路旅行追踪器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/journey-2b472eca-3148-4e6d-8021-d892c9d6d6b9</guid>
-      <pubDate>Tue, 08 Oct 2024 20:46:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
