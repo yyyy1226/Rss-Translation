@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 03 Nov 2024 06:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 09:23:47 GMT</lastBuildDate>
+    <item>
+      <title>有什么方法可以改变 pdf 文本颜色和背景颜色（不改变图像颜色）？</title>
+      <link>https://www.reddit.com/r/software/comments/1giilyr/is_there_any_way_to_change_pdf_text_colour_and/</link>
+      <description><![CDATA[颜色更改应针对 pdf 文件本身，而不仅限于特定应用程序    提交人    /u/ATS_4pc   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1giilyr/is_there_any_way_to_change_pdf_text_colour_and/</guid>
+      <pubDate>Sun, 03 Nov 2024 08:48:28 GMT</pubDate>
+    </item>
     <item>
       <title>彻底清理卸载程序？</title>
       <link>https://www.reddit.com/r/software/comments/1gigukt/thorough_cleaning_uninstaller/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[基本上，我有几个形状需要适合特定尺寸的区域以进​​行激光切割，我目前正在 Auto CAD 中手动进行此操作，我觉得应该有一些软件可以自动完成此操作，基本上它与 3D 切片软件中的功能相同，可以排列要打印的几块 我需要将这些 2D 形状排列到具有一定公差的区域中，如果有任何基于矢量的软件可以做到这一点，那就太好了    提交人    /u/That_one_sander   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ghq5tv/any_free_software_to_arrange_shapes_for/</guid>
       <pubDate>Sat, 02 Nov 2024 06:08:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么免费又好用的加密软件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ghnury/any_free_and_easytouse_encryption_software/</link>
-      <description><![CDATA[我想加密个人敏感文件，然后将它们作为备份放在 Google Drive 上，我确实更喜欢在云端保留一份副本。 几年前，我研究过 VeraCrypt，但它使用起来很复杂。    提交人    /u/VAer1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ghnury/any_free_and_easytouse_encryption_software/</guid>
-      <pubDate>Sat, 02 Nov 2024 03:39:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
