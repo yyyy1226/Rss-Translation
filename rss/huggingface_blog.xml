@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 29 Oct 2024 12:44:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:25:42 GMT</lastBuildDate>
+    <item>
+      <title>Argilla 2.4：轻松在 Hub 上构建微调和评估数据集 — 无需代码</title>
+      <link>https://huggingface.co/blog/argilla-ui-hub</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/argilla-ui-hub</guid>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通用辅助生成：使用任何辅助模型实现更快解码</title>
       <link>https://huggingface.co/blog/universal_assisted_generation</link>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/huggingface-amd-turin</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/huggingface-amd-turin</guid>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gradio 5 的安全审查</title>
-      <link>https://huggingface.co/blog/gradio-5-security</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gradio-5-security</guid>
       <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
