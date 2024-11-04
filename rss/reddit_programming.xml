@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 04 Nov 2024 18:30:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 21:21:23 GMT</lastBuildDate>
+    <item>
+      <title>Hetzner 服务器比较：哪款服务器最具价值？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjnth4/hetzner_server_comparison_which_server_delivers/</link>
+      <description><![CDATA[  由    /u/Longjumping-Till-520  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjnth4/hetzner_server_comparison_which_server_delivers/</guid>
+      <pubDate>Mon, 04 Nov 2024 20:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>周五下午直播编码视频；zrok 办公时间</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjnqmc/live_friday_afternoon_coding_video_zrok_office/</link>
+      <description><![CDATA[  由    /u/michael_quigley  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjnqmc/live_friday_afternoon_coding_video_zrok_office/</guid>
+      <pubDate>Mon, 04 Nov 2024 20:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库匿名化工具发布。Greenmask v0.2.1</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjlsqr/database_anonymization_tool_release_greenmask_v021/</link>
+      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjlsqr/database_anonymization_tool_release_greenmask_v021/</guid>
+      <pubDate>Mon, 04 Nov 2024 18:44:37 GMT</pubDate>
+    </item>
     <item>
       <title>确定服务边界并分解整体式架构</title>
       <link>https://www.reddit.com/r/programming/comments/1gjl5ss/determining_service_boundaries_and_decomposing/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[从现在起 10 天后，在我们与 LangChain 联合举办的在线 AgentCraft 黑客马拉松启动之后，我们将为我们的观众提供额外的价值，包括来自顶级行业专家的 5 场关于代理的免费简短讲座系列。 在附加链接中查找确切的议程和链接。享受☺️    提交人    /u/Diamant-AI   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gjgcio/a_series_of_consecutive_webinars_on_ai_agents_by/</guid>
       <pubDate>Mon, 04 Nov 2024 15:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>全面的 Go Web 框架比较：Gin、Echo 和 BeeGo - Vitali Honchar</title>
-      <link>https://www.reddit.com/r/programming/comments/1gje119/comprehensive_go_web_frameworks_comparison_gin/</link>
-      <description><![CDATA[  由    /u/Historical_Wing_9573  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gje119/comprehensive_go_web_frameworks_comparison_gin/</guid>
-      <pubDate>Mon, 04 Nov 2024 13:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>tinylangs：50 行代码中的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1gjdf7y/tinylangs_programming_languages_in_50_lines_of/</link>
-      <description><![CDATA[  由    /u/zserge  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gjdf7y/tinylangs_programming_languages_in_50_lines_of/</guid>
-      <pubDate>Mon, 04 Nov 2024 12:48:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新最快素数筛选法 - 多尺度筛选法</title>
-      <link>https://www.reddit.com/r/programming/comments/1gjc8g0/new_fastest_prime_number_sieve_multiscale_sieve/</link>
-      <description><![CDATA[  由    /u/carmineinfo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gjc8g0/new_fastest_prime_number_sieve_multiscale_sieve/</guid>
-      <pubDate>Mon, 04 Nov 2024 11:41:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
