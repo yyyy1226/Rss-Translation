@@ -4,20 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 01:44:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 03:27:12 GMT</lastBuildDate>
+    <item>
+      <title>SQL 与 NOSQL（MySQL 与 MongoDB）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjvzh6/sql_vs_nosql_mysql_vs_mongodb/</link>
+      <description><![CDATA[这是一篇发泄文章。请随意忽略。 我和一个朋友正在为一家小公司构建一个工作调度 Web 应用程序。他应该在前端部分工作，我在后端部分工作。但是，我们在争论使用哪个数据库。 在应用程序的早期阶段，模型之间没有太多关系。基本思想是员工上下班打卡，管理员将看到员工工作时间的总体结果。 我的朋友认为 SQL 更适合用于基于关系的设计，这是可以理解的，但我们可以使用 Typegoose 或 Primsa for MongoDB 实现相同的效果。我在这里问的或只是想在这里得到一些见解，MongoDB 真的存在性能问题吗？另外，另一个问题是，如果 MongoDB 在关系繁重的系统中确实存在性能问题，那么它到底有什么用呢？世界上不可能有太多行业级的无关系系统。     提交者    /u/Mr-Robot-2022   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjvzh6/sql_vs_nosql_mysql_vs_mongodb/</guid>
+      <pubDate>Tue, 05 Nov 2024 02:08:21 GMT</pubDate>
+    </item>
     <item>
       <title>维基百科有多少个 html 页面.....</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjv1zq/how_many_html_pages_does_wikipedia_have/</link>
       <description><![CDATA[基本上是标题... 就像每个主题都有一个单独的 html 页面显示在网络上一样，或者他们是否有一个数据服务器将其转换为 html 页面并发送....    提交人    /u/iamawizaard   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjv1zq/how_many_html_pages_does_wikipedia_have/</guid>
       <pubDate>Tue, 05 Nov 2024 01:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助减少我的总阻塞时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjuiub/help_reducing_my_total_blocking_time/</link>
-      <description><![CDATA[        提交人    /u/jennyxmas   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjuiub/help_reducing_my_total_blocking_time/</guid>
-      <pubDate>Tue, 05 Nov 2024 00:57:02 GMT</pubDate>
     </item>
     <item>
       <title>爱好网站 - 帮助通过服务器访问 API 并更新 html</title>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 04 Nov 2024 19:52:18 GMT</pubDate>
     </item>
     <item>
-      <title>请帮我建议一下，建立一个包含大部分静态文本内容的 4-5 页简单网站需要花多少钱（提供示例链接）</title>
+      <title>请帮我建议一下，建立一个包含大部分静态文本内容的 4-5 页简单网站需要多少钱（提供示例链接）</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjn8qz/please_help_with_advice_as_to_how_much_i_could/</link>
       <description><![CDATA[类似于这个。  所有数据都将静态可用（比方说，在应用程序本身内存储为 json），而且实际上大部分都是文本。设计与我在此处展示的网站没有太大区别。不需要 SEO 优化、可访问性等。不过，我会确保网站的响应性。 也可能有点过头了，但我将使用 React 来构建它（不要评判，我只是对框架非常熟悉，因此我可以更快地制作出页面）。  公平的估计是多少？我的工资大约为 23 美元/小时（我应该补充一下，这是为与我一起进行研究工作的教授支付的）。    提交人    /u/SecretAgentAuntTim   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjn8qz/please_help_with_advice_as_to_how_much_i_could/</guid>
