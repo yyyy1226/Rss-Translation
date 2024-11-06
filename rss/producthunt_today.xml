@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 18:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 21:23:24 GMT</lastBuildDate>
     <item>
       <title>认知</title>
       <link>https://www.producthunt.com/posts/the-cognity</link>
@@ -146,18 +146,18 @@ Figma 原型分析
       <pubDate>Wed, 30 Oct 2024 05:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>间谍摄像机</title>
-      <link>https://www.producthunt.com/posts/spycam</link>
+      <title>视频海洋</title>
+      <link>https://www.producthunt.com/posts/video-ocean-1</link>
       <description><![CDATA[
-Mac 菜单栏相机应用程序，可检测运动 + 录制视频
+几分钟内即可从文本和图像创建精彩视频
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/spycam</guid>
-      <pubDate>Tue, 22 Oct 2024 20:27:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/video-ocean-1</guid>
+      <pubDate>Wed, 23 Oct 2024 11:50:07 GMT</pubDate>
     </item>
     <item>
       <title>PopPop AI 人声消除器</title>
@@ -188,20 +188,6 @@ Mac 菜单栏相机应用程序，可检测运动 + 录制视频
       <pubDate>Mon, 21 Oct 2024 16:47:19 GMT</pubDate>
     </item>
     <item>
-      <title>Zoho Cliq 6.0</title>
-      <link>https://www.producthunt.com/posts/zoho-cliq-6-0</link>
-      <description><![CDATA[
-简化工作，提高生产力
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/zoho-cliq-6-0</guid>
-      <pubDate>Fri, 18 Oct 2024 13:35:30 GMT</pubDate>
-    </item>
-    <item>
       <title>索娜</title>
       <link>https://www.producthunt.com/posts/sona-7</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@ AI 转录笔记
 ]]></description>
       <guid>https://www.producthunt.com/posts/sona-7</guid>
       <pubDate>Thu, 17 Oct 2024 19:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWE套件</title>
+      <link>https://www.producthunt.com/posts/swe-kit-2</link>
+      <description><![CDATA[
+构建您自己的 Devin 类软件工程代理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/swe-kit-2</guid>
+      <pubDate>Wed, 25 Sep 2024 11:44:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
