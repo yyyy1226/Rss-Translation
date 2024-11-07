@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 03:29:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 06:31:27 GMT</lastBuildDate>
     <item>
       <title>声音侦察员</title>
       <link>https://www.producthunt.com/posts/sound-scout</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/sound-scout</guid>
       <pubDate>Tue, 05 Nov 2024 22:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>认知</title>
-      <link>https://www.producthunt.com/posts/the-cognity</link>
-      <description><![CDATA[
-为自闭症患者提供社交技能培训
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/the-cognity</guid>
-      <pubDate>Tue, 05 Nov 2024 20:00:50 GMT</pubDate>
     </item>
     <item>
       <title>竞争意识</title>
@@ -88,6 +74,20 @@ Figma 原型分析
 ]]></description>
       <guid>https://www.producthunt.com/posts/notclass</guid>
       <pubDate>Mon, 04 Nov 2024 08:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>结痂的</title>
+      <link>https://www.producthunt.com/posts/crustdata-2</link>
+      <description><![CDATA[
+通过 API 和 webhook 获取实时人员和公司数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/crustdata-2</guid>
+      <pubDate>Fri, 01 Nov 2024 19:33:00 GMT</pubDate>
     </item>
     <item>
       <title>洛玛之家</title>
