@@ -4,34 +4,48 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 01:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 03:27:08 GMT</lastBuildDate>
     <item>
-      <title>代码组</title>
-      <link>https://www.producthunt.com/posts/codegroupie</link>
+      <title>候补名单向导</title>
+      <link>https://www.producthunt.com/posts/waitlistwizard</link>
       <description><![CDATA[
-寻找您的下一个编码项目
+餐厅已售罄提醒
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/codegroupie</guid>
-      <pubDate>Wed, 06 Nov 2024 23:59:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/waitlistwizard</guid>
+      <pubDate>Thu, 07 Nov 2024 00:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>苏特尔</title>
-      <link>https://www.producthunt.com/posts/podzter</link>
+      <title>音乐片段</title>
+      <link>https://www.producthunt.com/posts/slice-of-music</link>
       <description><![CDATA[
-立即与完美的播客嘉宾和主持人联系
+适用于 Apple Vision Pro 的开源节拍剑类游戏
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/podzter</guid>
-      <pubDate>Wed, 06 Nov 2024 20:53:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/slice-of-music</guid>
+      <pubDate>Wed, 06 Nov 2024 18:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>平衡矿工</title>
+      <link>https://www.producthunt.com/posts/balance-miner</link>
+      <description><![CDATA[
+将日语财务报表翻译成英文
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/balance-miner</guid>
+      <pubDate>Wed, 06 Nov 2024 16:50:31 GMT</pubDate>
     </item>
     <item>
       <title>读给我听</title>
@@ -48,32 +62,32 @@
       <pubDate>Wed, 06 Nov 2024 13:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>数据GIF</title>
-      <link>https://www.producthunt.com/posts/datagif-io</link>
+      <title>排名卷轴</title>
+      <link>https://www.producthunt.com/posts/rankreel</link>
       <description><![CDATA[
-将数据转换为动画 GIF 和视频图表
+立即根据您的数据创建动画排名图表
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/datagif-io</guid>
-      <pubDate>Wed, 06 Nov 2024 12:07:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/rankreel</guid>
+      <pubDate>Wed, 06 Nov 2024 06:32:03 GMT</pubDate>
     </item>
     <item>
-      <title>我的CRM备份</title>
-      <link>https://www.producthunt.com/posts/mycrmbackup</link>
+      <title>Voxa.pro</title>
+      <link>https://www.producthunt.com/posts/voxa-pro</link>
       <description><![CDATA[
-一键式 CRM 备份
+您的智能语音助手
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/mycrmbackup</guid>
-      <pubDate>Tue, 05 Nov 2024 11:40:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/voxa-pro</guid>
+      <pubDate>Mon, 04 Nov 2024 01:14:47 GMT</pubDate>
     </item>
     <item>
       <title>科里尼</title>
@@ -160,20 +174,6 @@
       <pubDate>Tue, 22 Oct 2024 22:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>黄油场景</title>
-      <link>https://www.producthunt.com/posts/butter-scenes</link>
-      <description><![CDATA[
-如果 Miro、Mentimeter 和 Pitch 生了个孩子🔥
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/butter-scenes</guid>
-      <pubDate>Tue, 22 Oct 2024 02:40:14 GMT</pubDate>
-    </item>
-    <item>
       <title>沃伊斯托里</title>
       <link>https://www.producthunt.com/posts/voistory</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Mon, 21 Oct 2024 10:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>CopilotKit（与 CoAgents 合作）</title>
-      <link>https://www.producthunt.com/posts/copilotkit-feat-coagents</link>
+      <title>富有洞察力</title>
+      <link>https://www.producthunt.com/posts/insightfull</link>
       <description><![CDATA[
-将 AI Copilots 和 AI Agents 构建到任何 React 应用中 | 12k 颗星
+AI 驱动的健康洞察
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/copilotkit-feat-coagents</guid>
-      <pubDate>Fri, 18 Oct 2024 08:29:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/insightfull</guid>
+      <pubDate>Sat, 19 Oct 2024 00:15:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
