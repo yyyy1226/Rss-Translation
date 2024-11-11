@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 18:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 21:20:06 GMT</lastBuildDate>
+    <item>
+      <title>您如何看待谷歌的“AI概览”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3iif/how_do_you_feel_about_googles_ai_overview/</link>
+      <description><![CDATA[几天来，我一直试图关闭 AI 概览，因为它让我的搜索很烦。我也很难理解这怎么能被称为 AI，因为谷歌正在做它多年来一直对媒体制作人做的事情，并且因此受到批评——从网站上抓取一些文本并将其作为搜索结果呈现给你，而不是强迫你点击出版商的网站。我在试用期间收到的所有 AI 概览响应都只是从网站上直接提取文本。有没有其他人遇到过这种试用问题并从技术角度研究过它？我最终尝试将其关闭，但当我无法关闭时，我决定更换搜索提供商。是的，我在这件事上是独立的，没有冲突。我只是一个用户。     提交人    /u/PostDisillusion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3iif/how_do_you_feel_about_googles_ai_overview/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于殖民火星......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3fx6/regarding_colonizing_mars/</link>
+      <description><![CDATA[你是否认为埃隆可能想要殖民火星是为了拯救人类免遭毁灭，例如被一个接管火星的人工智能所毁灭，它还没有达到对火星的最终破坏力，但已经摧毁了地球？ 当然只是假设，但量子物理学不就是这样做的吗？考虑到所有的可能性？    提交人    /u/Stoned_Ape85   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3fx6/regarding_colonizing_mars/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关构建一个简单的平台以在 AI 的帮助下存储和访问 EPUB 和 PDF 文件的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp32h7/looking_for_advice_on_building_a_simple_platform/</link>
+      <description><![CDATA[大家好！ 我有兴趣创建一个简单的平台，让我可以上传和存储 EPUB 和 PDF 格式的文件。我设想它是一种不需要高级技术技能即可使用的工具，让广大受众都可以使用它。 我想集成的关键功能是基于 AI 的功能，可以帮助用户访问和与这些书籍的内容互动。这可能意味着在文本中搜索、总结章节或回答有关内容的问题。理想情况下，它应该是直观且响应迅速的，因为我的目标是让这些书籍中的信息易于访问，而无需复杂的交互。 我愿意接受有关入门工具、框架或平台的建议。如果有现有的解决方案可以为此目的进行定制，那也会很有帮助。如能就如何最好地完成这个项目提出任何建议，我们将不胜感激！ 感谢您提供的任何指导！    提交人    /u/Ottins82   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp32h7/looking_for_advice_on_building_a_simple_platform/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建无代码内容研究和规划 AI 代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp2tga/how_to_build_a_content_research_planning_ai_agent/</link>
+      <description><![CDATA[刚刚发布了一个关于如何构建 AI 代理的新教程，它可以为您研究并提出内容创意。 最棒的是，我们无需使用任何代码即可构建它！ https://youtu.be/ybi7zSif5EI 比平时结构稍微松散一些，请告诉我您的想法！    提交人    /u/y10p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp2tga/how_to_build_a_content_research_planning_ai_agent/</guid>
+      <pubDate>Mon, 11 Nov 2024 20:50:51 GMT</pubDate>
+    </item>
     <item>
       <title>为我推荐项目主题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1goyypc/suggest_me_topics_for_a_project/</link>
@@ -55,25 +83,11 @@
       <pubDate>Mon, 11 Nov 2024 15:56:24 GMT</pubDate>
     </item>
     <item>
-      <title>今天的 AI/ML：🐕‍🦺麻省理工学院的人工智能在虚拟世界中训练机器狗🤖中国开发出首个人工智能机器人救生员，用于 24 小时河流监控🩺人工智能在乳房 X 光检查结果正常后检测出早期乳腺癌🐐科学家测试人工智能通过面部表情检测山羊的疼痛🤖 Altman 预测 2025 年将出现通用人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gousri/today_in_aiml_mits_ai_trains_robot_dogs_in/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gousri/today_in_aiml_mits_ai_trains_robot_dogs_in/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:28:11 GMT</pubDate>
-    </item>
-    <item>
       <title>关于发帖规则的变更</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gouoxg/changes_regarding_posting_rules/</link>
       <description><![CDATA[嗨， 几周前，在抱怨了一大堆关于机器人垃圾邮件之后，我开始在这里担任版主。从那时起，我可能封禁了近百名用户，他们使用这个子版块进行自我推广，却没有以用户身份参与。我将大量域名列入黑名单，删除了几乎所有看起来像广告的内容。 为了进一步解决这个问题，我安排了两个帖子，一个在星期二，用户可以请求 AI 工具帮助他们解决遇到的任何问题，另一个在星期四，用户可以推广他们的产品。 我将在未来几周内引入自动化功能，删除所有应该在这些帖子中发布的内容，我希望这将慢慢提高这个子版块的质量，并阻止那些无法在 12 秒内谷歌搜索的用户在这里发布问题。 像往常一样，如果您发现任何令人讨厌的事情，请报告，以便我更快地发现它，非常感谢您的帮助。     由    /u/ILikeBubblyWater 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gouoxg/changes_regarding_posting_rules/</guid>
       <pubDate>Mon, 11 Nov 2024 15:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本转视频用法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gotjz7/texttovideo_usage/</link>
-      <description><![CDATA[这可能不是合适的地方，如果是这种情况，请删除。我正在寻找一个 subreddit 或任何建议，我可以在其中与其他创作者讨论如何使用文本到视频生成 AI。 开始制作关于令人毛骨悚然的事情的 YouTube 视频，致力于开发更好的工作流程    提交人    /u/I_Mean_Not_Really   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gotjz7/texttovideo_usage/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:34:10 GMT</pubDate>
     </item>
     <item>
       <title>我们用几个 AI 工具和我们自己的引擎制作了一款游戏</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[我已经使用 ChatGPT Plus 一段时间了，真的很喜欢它的记忆功能。  我有 Gemini Advanced，经过多次反复，它终于“承认”它没有记忆功能，这令人失望，尤其是考虑到它可能是目前主要模型中最不智能的，更不用说疯狂的审查制度了。 同样，Claude Pro 似乎也缺乏任何记忆功能。Claude 在智能方面可与 ChatGPT Plus 相媲美或超过它，但没有长期记忆的使用限制让我重新考虑我的订阅。 所以，我想知道——还有其他免费或基于订阅的 AI 模型提供长期记忆吗？  如果有人找到了好的替代方案，或者 ChatGPT Plus 仍然是此功能的唯一选择，我很想知道。    提交人    /u/TheLawIsSacred   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gor155/are_there_any_other_ai_models_besides_chatgpt/</guid>
       <pubDate>Mon, 11 Nov 2024 12:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>频繁使用人工智能抄袭检测工具可能会无意中提高你的抄袭分数</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</link>
-      <description><![CDATA[如果您是学生甚至是老师，您应该知道继续检查人工智能抄袭实际上会提高抄袭分数。我们在这里通过一些例子深入探讨这个问题，以确保您不会受到指责。 https://medium.com/p/d44225d18bde    提交人    /u/airsoftshowoffs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</guid>
-      <pubDate>Mon, 11 Nov 2024 10:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能面试问题：RAG 框架</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gojuaz/generative_ai_interview_questions_rag_framework/</link>
-      <description><![CDATA[在第 4 部分中，我介绍了与 RAG 框架相关的 GenAI 面试问题，例如 RAG 的不同组件？VectorDB 如何在 RAG 中使用？一些实际用例等。帖子：https://youtu.be/HHZ7kjvyRHg?si=GEHKCM4lgwsAym-A    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gojuaz/generative_ai_interview_questions_rag_framework/</guid>
-      <pubDate>Mon, 11 Nov 2024 04:24:13 GMT</pubDate>
     </item>
     <item>
       <title>作为一个完全的初学者，如何深入学习人工智能？</title>
