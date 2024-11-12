@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Nov 2024 01:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 03:25:49 GMT</lastBuildDate>
     <item>
       <title>集成 Dropbox</title>
       <link>https://www.producthunt.com/posts/integrate-dropbox</link>
@@ -163,7 +163,7 @@ Markdown 简历生成器
       <title>Lamatic.ai</title>
       <link>https://www.producthunt.com/posts/lamatic-ai</link>
       <description><![CDATA[
-使用低代码构建 AI 代理并部署在边缘
+使用低代码构建 AI 代理并在边缘部署
 
 
 讨论
