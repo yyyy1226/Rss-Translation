@@ -4,20 +4,83 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 13 Nov 2024 06:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:43:51 GMT</lastBuildDate>
     <item>
-      <title>获得 Reddit“分享传奇”成就的超级简单快捷的方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1gq6hjc/super_easy_and_quick_way_to_earn_your_reddit/</link>
-      <description><![CDATA[目前仅适用于 Windows PC 欢迎提供反馈 我使用 Playwright + JavaScript 制作了它，并使用 npm pkg 打包成可执行文件    提交人    /u/BreadBakerMoneyMaker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gq6hjc/super_easy_and_quick_way_to_earn_your_reddit/</guid>
-      <pubDate>Wed, 13 Nov 2024 06:12:44 GMT</pubDate>
+      <title>Async Await 是编程中最糟糕的事情</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqbq9g/async_await_is_the_worst_thing_to_happen_to/</link>
+      <description><![CDATA[  由    /u/pinkpen44a  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqbq9g/async_await_is_the_worst_thing_to_happen_to/</guid>
+      <pubDate>Wed, 13 Nov 2024 12:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>使用 RAG 和 FGA 在 AI 应用程序中实现安全性</title>
-      <link>https://www.reddit.com/r/programming/comments/1gq63dt/implementing_security_in_ai_applications_using/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gq63dt/implementing_security_in_ai_applications_using/</guid>
-      <pubDate>Wed, 13 Nov 2024 05:47:08 GMT</pubDate>
+      <title>WebVM 2.0：通过 WebAssembly 在浏览器中实现完整的 Linux 桌面环境</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqazit/webvm_20_a_complete_linux_desktop_environment_in/</link>
+      <description><![CDATA[  由    /u/alexp_lt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqazit/webvm_20_a_complete_linux_desktop_environment_in/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>分布式系统如何使用悲观锁定避免竞争条件？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqaujf/how_distributed_systems_avoid_race_conditions/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqaujf/how_distributed_systems_avoid_race_conditions/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 VSCode 主题社区创建、共享和发现新的 VSCode 主题</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqajhb/create_share_and_discover_new_vscode_themes_at/</link>
+      <description><![CDATA[  由    /u/Ill-Ebb351  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqajhb/create_share_and_discover_new_vscode_themes_at/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>近期现代安全漏洞的注意事项</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq9lmp/donts_from_recent_breaches_in_modern_security/</link>
+      <description><![CDATA[  由    /u/soap94  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq9lmp/donts_from_recent_breaches_in_modern_security/</guid>
+      <pubDate>Wed, 13 Nov 2024 10:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>古老而宝贵：模块化整体结构 • Simon Brown</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq9k9x/old_but_gold_modular_monoliths_simon_brown/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq9k9x/old_but_gold_modular_monoliths_simon_brown/</guid>
+      <pubDate>Wed, 13 Nov 2024 10:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>值得关注的非法学硕士软件趋势</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8fyd/nonllm_software_trends_to_be_excited_about/</link>
+      <description><![CDATA[  由    /u/Rtzon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8fyd/nonllm_software_trends_to_be_excited_about/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何优化 CSS 速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8b5k/how_to_optimize_css_for_speed/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8b5k/how_to_optimize_css_for_speed/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Entity Framework Core 中臭名昭著的 N+1 查询问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</link>
+      <description><![CDATA[  由    /u/kbegiedza  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Excel、Python、运输大亨进行数据科学</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</link>
+      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</guid>
+      <pubDate>Wed, 13 Nov 2024 07:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能在现实生活中制作大白 (Baymax) 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq7rww/can_you_make_baymax_in_irl/</link>
+      <description><![CDATA[当我问这个问题时，我并不是在谈论大白的充气身体。我发现有一个研究充气机器人的小组。 我很好奇的是让程序运行大白有多可行？就像他背后的技术人员扫描你以获取各种细节（你的荷尔蒙水平？）。或者他学习新事物的方式（比如拳头碰拳👊🏻）？ 可以编码/编程吗？    提交人    /u/No_Trouble_2770   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq7rww/can_you_make_baymax_in_irl/</guid>
+      <pubDate>Wed, 13 Nov 2024 07:44:12 GMT</pubDate>
     </item>
     <item>
       <title>寻求有关启动开源物联网自动化项目的反馈</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/vcgirl30  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gq0d1n/7_things_i_dislike_about_being_a_software_engineer/</guid>
       <pubDate>Wed, 13 Nov 2024 00:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 gRPC 在 Go 中从头开始在区块链环境中实现 Merkle 证明</title>
-      <link>https://www.reddit.com/r/programming/comments/1gptssr/merkle_proof_in_the_context_of_a_blockchain_from/</link>
-      <description><![CDATA[  由    /u/volodymyrprokopyuk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gptssr/merkle_proof_in_the_context_of_a_blockchain_from/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:56:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Twitter 机器人，它允许你每 10 分钟发送一次提交/最后一次提交的推文。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gprhmr/i_made_a_twitter_bot_which_allows_you_to_tweet/</link>
-      <description><![CDATA[  由    /u/Trex1332  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gprhmr/i_made_a_twitter_bot_which_allows_you_to_tweet/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个开源的跨浏览器扩展模板:)</title>
-      <link>https://www.reddit.com/r/programming/comments/1gprdzt/i_built_an_opensource_crossbrowser_extension/</link>
-      <description><![CDATA[  由    /u/zagrodzki  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gprdzt/i_built_an_opensource_crossbrowser_extension/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Copilot Edits</title>
-      <link>https://www.reddit.com/r/programming/comments/1gprbx3/introducing_copilot_edits/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gprbx3/introducing_copilot_edits/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 .NET 9</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</link>
-      <description><![CDATA[  由    /u/Atulin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要对 Postgres 这样做</title>
-      <link>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试不可测试的内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</link>
-      <description><![CDATA[  由    /u/jerodsanto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎩 介绍 SITS - Snake In The Shell 🐍：您的一站式 Python 管理套件！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</link>
-      <description><![CDATA[  由    /u/Emergency-Ad666  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码是资产还是负债？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:57:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
