@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 12:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 15:24:42 GMT</lastBuildDate>
+    <item>
+      <title>本周人工智能——简要介绍所有主要人工智能发展</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grykgg/this_week_in_ai_all_the_major_ai_developments_in/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grykgg/this_week_in_ai_all_the_major_ai_developments_in/</guid>
+      <pubDate>Fri, 15 Nov 2024 15:15:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建自己的 AI 工具有多难？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grwm0g/how_hard_it_is_to_create_my_own_ai_tools/</link>
+      <description><![CDATA[请注意，除了一些图像创建工具外，我对 AI 概念的理解比我对 AI 的经验更多。 作为一名平面艺术家和设计师，我的工作意味着我必须处理大量不断增长的图像集。尽管我试图以整洁的方式组织我的图像库，但我可能会忘记我拥有什么、它在哪里以及如何命名该图像。此外，我经常需要拍摄快速放入演示文稿中的低分辨率图像，然后用质量更好的类似图像替换它们。 创建一个可以在我的驱动器上的图像中进行搜索的工具有多可行，例如“从某个角度看到的正在建造的长建筑物”，或者提供图像并让工具查找具有类似内容的图像？    提交人    /u/visualthings   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grwm0g/how_hard_it_is_to_create_my_own_ai_tools/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPTree：通过 LLM 集成和专家反馈增强决策树的可解释性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grw6ln/gptree_enhancing_decision_tree_explainability/</link>
+      <description><![CDATA[我一直在阅读 GPTree 论文，该论文提议将决策树与 LLM 相结合，为决策过程生成自然语言解释。核心思想是使用 LLM 以人类可理解的术语解释树上每个节点的决策路径和逻辑。 关键技术方面： - 使用在表格数据上训练的基本决策树模型 - 利用 LLM 为决策节点和路径生成解释 - 实现提示工程以帮助 LLM 理解树结构 - 在创始人成功预测数据集上进行评估 报告的主要结果： - 生成的解释符合决策树逻辑，同时易于人类阅读 - 保持决策树的可解释性优势，同时增加自然语言理解 - 与标准决策树相比，显示出合理的计算开销 这里的含义非常实际 - 这提供了一种方法，使决策树模型更容易被非技术利益相关者访问，同时保留其固有的可解释性。该方法在需要透明的自动决策的领域（如金融或医疗保健）特别有用。 我发现一些值得注意的限制： - 质量在很大程度上取决于 LLM 功能和快速工程 - 与标准树相比，需要额外的计算要求 - 可能无法很好地扩展到非常深的树 - 到目前为止仅在一个域上进行有限的评估 TLDR：GPTree 将决策树与 LLM 相结合，为决策生成自然语言解释，并根据创始人成功预测进行评估。显示出使基于树的模型更具可解释性的希望，同时保持其核心优势。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grw6ln/gptree_enhancing_decision_tree_explainability/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:20:21 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iPhone 的 Google Gemini 应用程序？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gruin9/google_gemini_app_for_iphone/</link>
@@ -20,25 +41,11 @@
       <pubDate>Fri, 15 Nov 2024 09:42:41 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能进行编程，为程序员评估 ChatGPT、Gemini、AlphaCode 和 GitHub Copilot</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grssgm/programming_with_ai_evaluating_chatgpt_gemini/</link>
-      <description><![CDATA[标题：使用人工智能编程：为程序员评估 ChatGPT、Gemini、AlphaCode 和 GitHub Copilot 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必费力地浏览它们了。今天的论文题为“使用人工智能编程：为程序员评估 ChatGPT、Gemini、AlphaCode 和 GitHub Copilot”，作者是 Md Kamrul Siam、Huanying Gu 和 Jerry Q. Cheng。 本文深入探讨了对 ChatGPT、Gemini（以前的 Bard AI）、AlphaCode 和 GitHub Copilot 等著名编程人工智能助手的评估，重点关注它们在 Java、Python 和 C++ 等语言中的自然语言处理和代码生成能力。该研究强调了语言理解和代码生成方面取得的重大进展，以及挑战和潜在的改进途径。以下是一些主要发现：  代码生成的准确性：本文评估了哪个 AI 助手提供了最准确的编程解决方案，并根据特定指标和基准揭示了复杂的比较。 评估指标和基准：它讨论了通常用于评估 AI 生成代码性能的指标和基准，并深入了解了它们的有效性和局限性。 Transformer 架构：该研究强调了 Transformer 架构的重要性——所有考虑的模型都采用了该架构——突出了其在有效处理输入数据和生成相关的类人语言模式方面的作用。 道德考虑：本文提出了有关部署这些 AI 工具的道德影响的重要讨论，强调了负责任的开发实践的必要性，以确保模型的可靠性和可信度。 未来前景：考虑到快速的进步，该研究承认需要不断创新和改进人工智能技术，以满足软件开发日益增长的需求。  您可以在这里看到完整的细分：这里 您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grssgm/programming_with_ai_evaluating_chatgpt_gemini/</guid>
-      <pubDate>Fri, 15 Nov 2024 09:39:46 GMT</pubDate>
-    </item>
-    <item>
       <title>Google 的 geminj-exp-1114 在 LMArena 上排名第一</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grrsat/googles_geminjexp1114_ranks_1_on_lmarena/</link>
       <description><![CDATA[Google 的实验模型 Gemini-exp-1114 现位列 LMArena 排行榜第一名。查看它超越 GPT-4o 的不同指标以及如何通过 Google Studio 免费使用它：https://youtu.be/50K63t_AXps?si=EVao6OKW65-zNZ8Q    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grrsat/googles_geminjexp1114_ranks_1_on_lmarena/</guid>
       <pubDate>Fri, 15 Nov 2024 08:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试 Microsoft Copilot、Google Gemini 和 OpenAI ChatGPT（由于 Apple Intelligence 的功能目前主要基于 ChatGPT，因此完整版尚未推出，而且我的 iPhone 也不是兼​​容 Apple Intelligence 的设备）+ 来自口齿不清用户的 AI 语音测试</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grptqo/testing_microsoft_copilot_vs_google_gemini_vs/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grptqo/testing_microsoft_copilot_vs_google_gemini_vs/</guid>
-      <pubDate>Fri, 15 Nov 2024 06:02:42 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 14 日</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gri7lp/its_hard_as_fuck_to_use_llms_for_financial/</guid>
       <pubDate>Thu, 14 Nov 2024 23:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 发布了一款 API，让 Claude 可以控制你的电脑屏幕，我认为这将会改变游戏规则。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grck6h/anthropic_has_released_an_api_that_lets_claude/</link>
-      <description><![CDATA[我知道现在还为时过早，但计算机使用 API（或类似的 API）可能在未来几年真正改变现状。 技术支持和数据注释等工作最终可能会成为过去，或者至少与现在大不相同。这些 API 越便宜，公司就越有可能选择它们，而不是每年雇用和培训新的支持人员。 未来看起来非常令人兴奋（和可怕）。 我写了一篇短文来更好地解释我的想法：这个行业可能会永远发生革命    提交人    /u/AdityaSaroj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grck6h/anthropic_has_released_an_api_that_lets_claude/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:09:58 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
