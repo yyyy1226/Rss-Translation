@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 17 Nov 2024 15:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 18:29:35 GMT</lastBuildDate>
     <item>
       <title>周日卷轴评论</title>
       <link>https://www.reddit.com/r/editors/comments/1gtd1q8/sunday_reel_review/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>经销商想要 Audio Stems b4 pic lock 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gtb0s0/distributor_wanting_audio_stems_b4_pic_lock/</link>
-      <description><![CDATA[有人知道为什么发行商在观看粗剪后会要求提供音频词干吗？我觉得很奇怪，我从未听说过。谢谢    提交人    /u/Mrlatoure   [link] [comments]]]></description>
+      <description><![CDATA[有人知道为什么发行商会在观看粗剪后要求提供音频词干吗？我觉得这很奇怪，我从未听说过。谢谢    由   提交  /u/Mrlatoure   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gtb0s0/distributor_wanting_audio_stems_b4_pic_lock/</guid>
       <pubDate>Sun, 17 Nov 2024 10:46:41 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Premiere Pro 中用于多平台交付的 Gamma 设置</title>
       <link>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</link>
-      <description><![CDATA[TL;DR：在 Premiere Pro 中为针对广播、网络和 QuickTime 的项目苦苦挣扎伽玛设置。我正在以 Rec. 709 导出，但在应用伽玛补偿 LUT 时面临色彩压缩问题，在 QuickTime 与 VLC 中尤其明显。无法按序列调整伽玛，只能在项目级别调整。您如何在 Premiere 中管理这些差异，特别是对于不同类型的可交付成果？  ---- 大家好， 我目前正在 Premiere Pro 中改进我的工作流程，以针对电影和各种社交媒体平台的项目。平衡伽玛设置以在不同环境中获得最佳观看效果被证明是棘手的，尤其是考虑到设备类型的变化（例如 Mac 的伽玛与标准网络伽玛 2.2）。 在我的工作流程中，Premiere 主要采用 Rec. 709 适用于高清内容，虽然通常很有效，但由于伽马差异，在非标准设备上并不总是表现良好。我尝试使用 LUT 进行伽马补偿并调整导出设置，以便更好地跨平台对齐视觉效果。但是，我遇到了应用伽马补偿 LUT 往往会破坏我的颜色的问题，这并不理想。有趣的是，当我在 VLC 中播放相同的文件时，颜色显示恰到好处，这表明它可能主要是 Mac“问题”（QuickTime）。 此外，我认为我们无法在 Premiere 中的序列级别调整伽马设置（只能在项目级别）。我很好奇你们中是否有人在 Premiere 中找到了管理这些设置的有效方法。 此外，对于超出简单网络的交付物，您是否在 Premiere 中调整颜色并为每种类型的交付物创建特定的伽马补偿 LUT？如果是这样，您如何处理？ 谢谢您的帮助！    提交人    /u/Available-Witness329   [link] [comments]]]></description>
+      <description><![CDATA[TL;DR：在 Premiere Pro 中为针对广播、网络和 QuickTime 的项目苦苦挣扎伽玛设置。我正在以 Rec. 709 导出，但在应用伽玛补偿 LUT 时面临色彩压缩问题，在 QuickTime 与 VLC 中尤其明显。无法按序列调整伽玛，只能在项目级别调整。您如何在 Premiere 中管理这些差异，特别是对于不同类型的可交付成果？  ---- 大家好， 我目前正在 Premiere Pro 中改进我的工作流程，以针对电影和各种社交媒体平台的项目。平衡伽玛设置以在不同环境中获得最佳观看效果被证明是棘手的，尤其是考虑到设备类型的变化（例如 Mac 的伽玛与标准网络伽玛 2.2）。 在我的工作流程中，Premiere 主要采用 Rec. 709 适用于高清内容，虽然通常很有效，但由于伽玛差异，在非标准设备上并不总是表现良好。我尝试使用 LUT 进行伽玛补偿并调整导出设置，以便更好地跨平台对齐视觉效果。但是，我遇到了应用伽玛补偿 LUT 往往会破坏我的颜色的问题，这并不理想。有趣的是，当我在 VLC 中播放相同的文件时，颜色显示恰到好处，这表明它可能主要是 Mac“问题”（QuickTime）。 此外，我认为我们无法在 Premiere 中的序列级别调整伽玛设置（只能在项目级别调整）。我很好奇你们中是否有人在 Premiere 中找到了管理这些设置的有效方法。 此外，对于超出简单网络的交付物，您是否在 Premiere 中调整颜色并为每种类型的交付物创建特定的伽玛补偿 LUT？如果是这样，您如何处理？ 谢谢您的帮助！    提交人    /u/Available-Witness329   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</guid>
       <pubDate>Sat, 16 Nov 2024 19:40:20 GMT</pubDate>
     </item>
