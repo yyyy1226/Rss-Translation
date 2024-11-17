@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 15:23:13 GMT</lastBuildDate>
     <item>
       <title>胜 2.5</title>
       <link>https://www.producthunt.com/posts/wins-2-5</link>
@@ -34,34 +34,6 @@
       <pubDate>Sat, 16 Nov 2024 11:36:27 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 的 Protego</title>
-      <link>https://www.producthunt.com/posts/protego-for-reddit</link>
-      <description><![CDATA[
-用于在 Mac 上过滤 Reddit 帖子的 Safari 扩展程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/protego-for-reddit</guid>
-      <pubDate>Fri, 15 Nov 2024 23:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>片段X</title>
-      <link>https://www.producthunt.com/posts/snippetx</link>
-      <description><![CDATA[
-精美的截图，直接在浏览器中轻松制作
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/snippetx</guid>
-      <pubDate>Fri, 15 Nov 2024 12:35:30 GMT</pubDate>
-    </item>
-    <item>
       <title>MarqueeKit</title>
       <link>https://www.producthunt.com/posts/marqueekit</link>
       <description><![CDATA[
@@ -76,6 +48,20 @@
       <pubDate>Fri, 15 Nov 2024 02:41:20 GMT</pubDate>
     </item>
     <item>
+      <title>壁龛</title>
+      <link>https://www.producthunt.com/posts/alcove-2</link>
+      <description><![CDATA[
+Dynamic Island 现在可供您使用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/alcove-2</guid>
+      <pubDate>Tue, 12 Nov 2024 10:16:59 GMT</pubDate>
+    </item>
+    <item>
       <title>PitchQuick.co</title>
       <link>https://www.producthunt.com/posts/pitchquick-co</link>
       <description><![CDATA[
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pitchquick-co</guid>
       <pubDate>Tue, 12 Nov 2024 05:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>沙宝</title>
+      <link>https://www.producthunt.com/posts/sharbo</link>
+      <description><![CDATA[
+轻松了解竞争对手的产品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sharbo</guid>
+      <pubDate>Mon, 11 Nov 2024 20:17:49 GMT</pubDate>
     </item>
     <item>
       <title>NFRT</title>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 08 Nov 2024 15:35:47 GMT</pubDate>
     </item>
     <item>
-      <title>侧面空间</title>
+      <title>侧边空间</title>
       <link>https://www.producthunt.com/posts/side-space</link>
       <description><![CDATA[
 用于浏览的 AI 驱动垂直标签管理器
@@ -177,7 +177,7 @@
       <title>微接触</title>
       <link>https://www.producthunt.com/posts/mikrotakt</link>
       <description><![CDATA[
-使用高级 AI 从歌曲中分离人声和乐器
+AI 人声消除器和乐器隔离
 
 
 讨论
