@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 12:50:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 15:27:10 GMT</lastBuildDate>
     <item>
       <title>梦盘</title>
       <link>https://www.producthunt.com/posts/dreamdisk</link>
@@ -160,20 +160,6 @@
       <pubDate>Fri, 08 Nov 2024 10:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>跟随</title>
-      <link>https://www.producthunt.com/posts/follow-5</link>
-      <description><![CDATA[
-在一个收件箱中关注您最喜欢的内容
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/follow-5</guid>
-      <pubDate>Fri, 08 Nov 2024 01:08:07 GMT</pubDate>
-    </item>
-    <item>
       <title>壁虎安全</title>
       <link>https://www.producthunt.com/posts/gecko-security</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pulsetic-1</guid>
       <pubDate>Wed, 25 Sep 2024 15:52:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷霆计算</title>
+      <link>https://www.producthunt.com/posts/thunder-compute</link>
+      <description><![CDATA[
+面向 AI/ML 开发人员的 GPU 云平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/thunder-compute</guid>
+      <pubDate>Mon, 16 Sep 2024 05:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
