@@ -4,20 +4,20 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:50:34 GMT</lastBuildDate>
     <item>
-      <title>OfferButton.com</title>
-      <link>https://www.producthunt.com/posts/offerbutton-com</link>
+      <title>Chatgpt 对话管理器</title>
+      <link>https://www.producthunt.com/posts/chatgpt-conversation-manager</link>
       <description><![CDATA[
-用 1 行代码出售您的初创公司 
+管理和组织您的 ChatGPT 对话
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/offerbutton-com</guid>
-      <pubDate>Tue, 19 Nov 2024 00:52:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/chatgpt-conversation-manager</guid>
+      <pubDate>Tue, 19 Nov 2024 04:13:06 GMT</pubDate>
     </item>
     <item>
       <title>SO 统计数据</title>
@@ -62,20 +62,6 @@
       <pubDate>Sun, 17 Nov 2024 19:27:54 GMT</pubDate>
     </item>
     <item>
-      <title>强大的防火墙</title>
-      <link>https://www.producthunt.com/posts/forta-firewall</link>
-      <description><![CDATA[
-链上防火墙可实时阻止 99% 的黑客攻击
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/forta-firewall</guid>
-      <pubDate>Sat, 16 Nov 2024 18:41:20 GMT</pubDate>
-    </item>
-    <item>
       <title>鲸鱼同步 1.0</title>
       <link>https://www.producthunt.com/posts/whalesync-1-0</link>
       <description><![CDATA[
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/blitzit-2</guid>
       <pubDate>Sat, 16 Nov 2024 01:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>发送表</title>
+      <link>https://www.producthunt.com/posts/sendsheets</link>
+      <description><![CDATA[
+ 使用 Google 表格发送个性化电子邮件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sendsheets</guid>
+      <pubDate>Fri, 15 Nov 2024 04:04:23 GMT</pubDate>
     </item>
     <item>
       <title>HeyGen-iOS 移动应用程序</title>
@@ -163,7 +163,7 @@
       <title>Vozo 视频翻译</title>
       <link>https://www.producthunt.com/posts/vozo-video-translator</link>
       <description><![CDATA[
-精准视频翻译，AI Pilot 助您完美呈现
+精准的视频翻译，AI 领航
 
 
 讨论
