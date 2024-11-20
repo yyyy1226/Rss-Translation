@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:47:32 GMT</lastBuildDate>
     <item>
-      <title>在 Talking Postgres 播客第 21 集与《High Performance PostgreSQL for Rails》一书的作者进行对话</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvdq2s/conversation_with_author_of_book_high_performance/</link>
-      <description><![CDATA[  由    /u/clairegiordano  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvdq2s/conversation_with_author_of_book_high_performance/</guid>
-      <pubDate>Wed, 20 Nov 2024 01:21:28 GMT</pubDate>
+      <title>Fargate 与 EC2 - 何时选择 Fargate？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvont5/fargate_vs_ec2_when_to_choose_fargate/</link>
+      <description><![CDATA[  由    /u/agbell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvont5/fargate_vs_ec2_when_to_choose_fargate/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>12 分钟内了解 12 个日志记录最佳实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvc551/12_logging_best_practices_in_12_minutes/</link>
-      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvc551/12_logging_best_practices_in_12_minutes/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:07:03 GMT</pubDate>
+      <title>无法注册pypi账号</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvoiq6/cannot_register_account_pypi/</link>
+      <description><![CDATA[  由    /u/BK_Anonymous  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvoiq6/cannot_register_account_pypi/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>Flutter MediaQuery 详解：DevicePixelRatio 变得简单 | amplifyabhi</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvc0pr/flutter_mediaquery_explained_devicepixelratio/</link>
-      <description><![CDATA[  由    /u/amplifyabhi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvc0pr/flutter_mediaquery_explained_devicepixelratio/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:01:23 GMT</pubDate>
+      <title>代码异味 280 - 意大利面条代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvoi27/code_smell_280_spaghetti_code/</link>
+      <description><![CDATA[  由    /u/mcsee1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvoi27/code_smell_280_spaghetti_code/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:36:24 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Facebook 的 shermes 将 JavaScript 编译为 Assembly、AST、C 和可执行文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvba7b/compile_javascript_to_a_assembly_ast_c_and/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvba7b/compile_javascript_to_a_assembly_ast_c_and/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:28:36 GMT</pubDate>
+      <title>无需 Cruise Control 即可在 Kafka 中实现自动分区重新分配</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvoebg/achieving_auto_partition_reassignment_in_kafka/</link>
+      <description><![CDATA[  由    /u/wanshao  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvoebg/achieving_auto_partition_reassignment_in_kafka/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:30:38 GMT</pubDate>
     </item>
     <item>
-      <title>论安全Cxx</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv92kl/on_safe_cxx/</link>
-      <description><![CDATA[  由   提交  /u/MaleficentFig7578   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv92kl/on_safe_cxx/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:52:47 GMT</pubDate>
+      <title>GitHub - tududi: 极简主义、开源任务和项目管理工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvnuby/github_tududi_a_minimalist_opensource_task_and/</link>
+      <description><![CDATA[  由    /u/cvicpp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvnuby/github_tududi_a_minimalist_opensource_task_and/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:59:26 GMT</pubDate>
     </item>
     <item>
-      <title>未来的模拟计算</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv8w7w/analog_computing_for_the_future/</link>
-      <description><![CDATA[  由    /u/Fancy-Ad-6078  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv8w7w/analog_computing_for_the_future/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:45:17 GMT</pubDate>
+      <title>CuPyNumeric 是 Python GPU 扩展的未来吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvnklm/is_cupynumeric_the_future_of_python_gpu_scaling/</link>
+      <description><![CDATA[我偶然发现了 NVIDIA 的 CuPyNumeric，这是一个承诺在不更改代码的情况下为 Python 实现无缝 GPU 扩展的库。 除了关注这个库的具体细节之外，我很好奇：您认为这样的工具将如何影响更广泛的 Python 高性能计算生态系统？我们是否需要更多这样的库来使 GPU 扩展变得可行，还是现有的解决方案就足够了？ 很想听听社区如何看待这个领域的创新需求。    提交人    /u/SilkyJohnson2019   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvnklm/is_cupynumeric_the_future_of_python_gpu_scaling/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>鼠标输入的手势追踪</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv8q0u/hand_tracking_for_mouse_input/</link>
-      <description><![CDATA[  由   提交  /u/Fancy-Ad-6078   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv8q0u/hand_tracking_for_mouse_input/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:38:00 GMT</pubDate>
+      <title>🧩 x 主题 | starship | ohmyposh - 预览并应用您最喜欢的终端提示主题</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvn2ou/x_theme_starship_ohmyposh_preview_and_apply_your/</link>
+      <description><![CDATA[  由    /u/No_Spinach_9833  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvn2ou/x_theme_starship_ohmyposh_preview_and_apply_your/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>从头开始掌握 Helm：第 5 部分 - 构建你的第一个自定义 Helm Chart</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv8gls/mastering_helm_from_scratch_part_5_building_your/</link>
-      <description><![CDATA[  由    /u/kirshiyin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv8gls/mastering_helm_from_scratch_part_5_building_your/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:26:53 GMT</pubDate>
+      <title>使用 1999 年出版的 C++ 书籍是否可行？语法和一般使用规则是否发生了太大变化？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvn07d/is_using_a_c_book_from_1999_viable_or_have_syntax/</link>
+      <description><![CDATA[此链接是我多年来拥有的书的副本，目前正在清理我的图书馆。 这有用吗？或者是一个遗物镇纸。    由   提交  /u/Rhoxd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvn07d/is_using_a_c_book_from_1999_viable_or_have_syntax/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 1Password 管理多个 GitHub 帐户（包括 WSL）的 SSH 密钥</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv5vce/how_i_use_1password_to_manage_ssh_keys_for/</link>
-      <description><![CDATA[  由    /u/ejmck55  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv5vce/how_i_use_1password_to_manage_ssh_keys_for/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:38:22 GMT</pubDate>
+      <title>掌握抽象工厂模式：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvmivn/mastering_the_abstract_factory_pattern_a/</link>
+      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvmivn/mastering_the_abstract_factory_pattern_a/</guid>
+      <pubDate>Wed, 20 Nov 2024 10:31:05 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 GCP 上设计 URL 缩短系统我刚刚发表了一篇文章，对新成绩很有用</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv5j9v/how_to_design_a_url_shortener_system_on_gcp_i/</link>
-      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv5j9v/how_to_design_a_url_shortener_system_on_gcp_i/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:24:37 GMT</pubDate>
+      <title>如果您知道好的（或糟糕的） js 笑话，请公开您的笑话。我会将其发布在编码谷的 insta 页面上。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvmazu/pr_your_joke_if_you_know_good_or_horrible_js_joke/</link>
+      <description><![CDATA[  由    /u/mohitrakhade20  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvmazu/pr_your_joke_if_you_know_good_or_horrible_js_joke/</guid>
+      <pubDate>Wed, 20 Nov 2024 10:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>逆向工程 iOS 18 不活动重启 - “iOS 18 引入了一项新的不活动重启安全功能。它可以保护什么？它是如何工作的？这篇博文涵盖了内核扩展和安全区域处理器的所有细节。”</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv50e9/reverse_engineering_ios_18_inactivity_reboot_ios/</link>
-      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv50e9/reverse_engineering_ios_18_inactivity_reboot_ios/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:02:22 GMT</pubDate>
+      <title>我为浏览器扩展构建了开源样板</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvlp4h/i_built_opensource_boilerplate_for_browser/</link>
+      <description><![CDATA[  由    /u/zagrodzki  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvlp4h/i_built_opensource_boilerplate_for_browser/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:26:54 GMT</pubDate>
     </item>
     <item>
-      <title>yaht——又一个超参数调节器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv49ge/yaht_yet_another_hyperparameter_tuner/</link>
-      <description><![CDATA[  由    /u/Moist_Soup_231  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv49ge/yaht_yet_another_hyperparameter_tuner/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:32:12 GMT</pubDate>
+      <title>如何处理软件复杂性 • Gail Murphy 和 Charles Humble</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvle93/how_to_deal_with_software_complexity_gail_murphy/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvle93/how_to_deal_with_software_complexity_gail_murphy/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:02:33 GMT</pubDate>
     </item>
     <item>
-      <title>创建自己的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv2n9p/creating_your_own_programing_language/</link>
-      <description><![CDATA[  由    /u/omko  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv2n9p/creating_your_own_programing_language/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:26:53 GMT</pubDate>
+      <title>AAA - 分析抗锯齿</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvknt5/aaa_analytical_antialiasing/</link>
+      <description><![CDATA[  由    /u/Frost-Kiwi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvknt5/aaa_analytical_antialiasing/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>页面已出第 5 期</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv2hck/paged_out_issue_5/</link>
-      <description><![CDATA[  由    /u/Rufus_T_Stone  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv2hck/paged_out_issue_5/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:20:20 GMT</pubDate>
+      <title>我开发的应用程序用于跟踪你死前必读的书籍清单</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvjw17/the_application_i_developed_to_follow_the_list_of/</link>
+      <description><![CDATA[  由    /u/sav_say  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvjw17/the_application_i_developed_to_follow_the_list_of/</guid>
+      <pubDate>Wed, 20 Nov 2024 07:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>了解 BM25 全文搜索算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv1vlg/understanding_the_bm25_full_text_search_algorithm/</link>
-      <description><![CDATA[  由    /u/emschwartz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv1vlg/understanding_the_bm25_full_text_search_algorithm/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:56:06 GMT</pubDate>
+      <title>Elixir 插头简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvgxpu/introducción_a_plug_de_elixir/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvgxpu/introducción_a_plug_de_elixir/</guid>
+      <pubDate>Wed, 20 Nov 2024 04:05:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

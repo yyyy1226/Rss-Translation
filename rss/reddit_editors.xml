@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:47:22 GMT</lastBuildDate>
+    <item>
+      <title>硬件方面：Macbook Pro M4 和 Mac Mini M4 之间犹豫不决</title>
+      <link>https://www.reddit.com/r/editors/comments/1gvlsar/hardware_stuff_torn_between_macbook_pro_m4_and/</link>
+      <description><![CDATA[我的 2019 款英特尔 MacBook Pro 已经很旧了，我正在寻找即将更新的产品，我发现自己很纠结。 我通常在工作室工作，但最近我有时也在路上工作，把我的 Van 变成了一个移动套件，我希望将来能扩展这种模式，因为它非常不错。 我的工作流程是围绕使用笔记本电脑构建的，我习惯使用内置屏幕进行媒体管理，使用 4k 外置屏幕进行编辑。所以自然而然地，MBP M4 是我的首选，但它们的价格非常昂贵，高达 3,800 欧元（M4 Pro、48GB RAM、1TBHD）。 所以现在我重新考虑了 mini，它的规格大致相同，价格约为 2,600 欧元。这个想法是使用 16 英寸 Huion kamvas（300,-）之类的东西来弥补屏幕和键盘的不足，并节省大约 1,000 欧元。 没有内置电池并不是很好，但也不是那么大的问题，因为即使在移动时，我也可以使用我的货车的电源。将所有东西放在一个快速整洁的笔记本电脑包中会更省事，显然，我只是不确定这是否值得花费 1K。 有什么想法吗？这有用吗？这有意义吗？我忽略了什么吗？    提交人    /u/RobotLaserNinjaShark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gvlsar/hardware_stuff_torn_between_macbook_pro_m4_and/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该给我的编辑团队买什么笔记本电脑？（以系统管理员身份提问）</title>
+      <link>https://www.reddit.com/r/editors/comments/1gvfb8c/what_laptop_do_i_buy_my_edit_team_asking_as_a/</link>
+      <description><![CDATA[您好！我是系统管理员 - 我想向社区询问一下，看看你们日常使用中哪些笔记本电脑效果好。我在一家电视网络公司工作，很快就会更新笔记本电脑。公司 90% 的员工将获得标准笔记本电脑，但其他 10% 的员工（视频编辑、图形编辑等）将获得更强大的编辑笔记本电脑。所有编辑都在工作中使用台式机，但偶尔也会在家编辑等。 目前我们有戴尔 Precision 5550 笔记本电脑。一般来说，编辑们对这些型号很满意。我最近几周向他们询问过，他们对目前的设备没有任何担忧，也没有对未来的设备提出要求。也许这意味着我们找到了合适的设备？但也许还有更好的。无论如何，如果不向社区咨询并按照您的建议购买 1 个测试单元，那我就是失职了。 一些注意事项： - 专用 GPU - 薄（不是游戏笔记本电脑） - 高 RAM 任何想法都将不胜感激！谢谢！    提交人    /u/StudioLoftMedia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gvfb8c/what_laptop_do_i_buy_my_edit_team_asking_as_a/</guid>
+      <pubDate>Wed, 20 Nov 2024 02:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>下载的剪辑存在问题</title>
       <link>https://www.reddit.com/r/editors/comments/1gvcg3p/issue_with_downloaded_clips/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有一位 DP 找我，他似乎觉得我更适合使用某种 Panasonic 编解码器来接收素材。 他提到的编解码器是：420 LongGOP 100M。 我之前从未听说过该编解码器，但我觉得我应该能够像处理任何 ProRes 或 BRAW 素材一样使用它。使用该编解码器的素材是否可能出现问题？    提交人    /u/Solution_42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gupohl/question_about_panasonic_codec/</guid>
       <pubDate>Tue, 19 Nov 2024 05:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法在 FCP 中导出 H264 480 隔行扫描，只能导出逐行扫描？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gun4dy/i_cannot_export_h264_480_interlaced_just/</link>
-      <description><![CDATA[我无法在 FCP 中导出 H264 480 隔行扫描，只能导出逐行扫描。这真是令人沮丧，本来希望离开 Adob​​e，但我想现在还不行。    由   提交  /u/waloshin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gun4dy/i_cannot_export_h264_480_interlaced_just/</guid>
-      <pubDate>Tue, 19 Nov 2024 02:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vent：我想放弃。</title>
-      <link>https://www.reddit.com/r/editors/comments/1gulvge/vent_i_feel_like_giving_up/</link>
-      <description><![CDATA[小时候曾经为了好玩而剪辑过。其实并不是那么好，只是会一些软件。最后去了电影学校，找到了一份剪辑工作。这份工作是在内容农场，没有太多的发挥创造力的空间，但你知道吗？这份工作很适合我。不知何故。我没有创造力，我对特效、过渡、动态图形、3D、声音、编解码器等都不够熟练。我觉得我所能做的就是修剪、剪切和拖放。从技术上讲，这是我过去四年在国外生活的工作。我不知道未来该做什么，我不知道是应该追求完全不同的东西，还是加倍努力，尝试艺术和创造力。回到学校，学习课程，观看教程。但事实是：我没有创造力。我很难在生活中做出决定，而这份工作需要很多这样的决定。也许我只是在强迫自己做某事。我社交能力不够强，无法建立人际网络，也不够外向，无法结识新的艺术家和可能在智力上傲慢的人。我的技能也不足以进入很酷的制作公司。我只是在发泄，也许有人能理解或有新的看法。但我觉得我真的不适合当一辈子的编辑……我不知道    提交人    /u/BestRenGnar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gulvge/vent_i_feel_like_giving_up/</guid>
-      <pubDate>Tue, 19 Nov 2024 01:46:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

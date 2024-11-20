@@ -4,27 +4,83 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:46:48 GMT</lastBuildDate>
     <item>
-      <title>从哪里开始了解人工智能及其未来？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvd2ef/where_to_start_learning_about_ai_and_its_future/</link>
-      <description><![CDATA[学习人工智能的一个好起点是什么？在未来 5 年、10 年、20 年里，人工智能可能带来什么？ 我希望避免多年后回首往事，后悔自己没有早点学到更多东西 - 但知道从哪里开始有点让人不知所措，尤其是对于非计算机科学专业的人来说。 谢谢！    提交人    /u/Richie3000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvd2ef/where_to_start_learning_about_ai_and_its_future/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:50:10 GMT</pubDate>
+      <title>什么是 Azure AI 内容理解？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvo3cc/what_is_azure_ai_content_understanding/</link>
+      <description><![CDATA[在生成式 AI 时代，内容理解是一项新的 Azure AI 服务，可帮助企业加快多模式 AI 应用的开发。内容理解使用各种输入数据格式，包括文本、音频、照片、文档和视频，帮助企业使用市场上最新的模型轻松创建生成式 AI 解决方案。AI 已经可以识别人脸、构建机器人和分析文档。内容理解无需像快速工程这样的专业生成式 AI 技能，它为企业提供了一种新的方式来创建应用程序，这些应用程序可以使用预先构建的模板来处理最常见的用例，或者通过创建自定义模型来处理特定于特定领域或企业的用例，从而将所有这些集成在一起。借助该服务，企业可以贡献他们的领域知识并创建自动化流程，以持续提高产出，同时保证强大的准确性。利用 Azure 业界领先的企业安全性、数据隐私和道德 AI 规则，开发了这项新的 AI 服务。有关更多详细信息，请访问 Govindhtech    提交人    /u/ThotaNithya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvo3cc/what_is_azure_ai_content_understanding/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>我有一份远程工作，实际上是两份，有没有免费的人工智能可以在我休假时假装我同时从事两份工作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvcmya/i_have_a_remote_job_actually_two_is_there_a_free/</link>
-      <description><![CDATA[只是开玩笑。最近有人进入这个子版块询问：  免费，他们不想花费约 20.00 美元 单一的提示，他们不想被后续提示所困扰 希望 AI 完成整个应用程序、整个 MMORPG 游戏、编写整本书或类似宏伟的事情。 在他们希望 AI 代表他们解决的学科领域没有任何领域专业知识（从未编写过代码，除了“LOL”之外从未编写过任何其他代码）。  甚至不值得评论。    提交人    /u/G4M35   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvcmya/i_have_a_remote_job_actually_two_is_there_a_free/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:30:06 GMT</pubDate>
+      <title>Meta 使用有缺陷的人工智能来标记违反社区标准的行为</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</link>
+      <description><![CDATA[我想这个 Reddit 小组会对某些公司所谓的“人工智能”开怀大笑。 背景： 在过去的几年里，我一直在 Meta 上通过广告推广我的音乐（Facebook 和 IG），并且在为我的音乐寻找受众（Spotify、Apple、YouTube 等）方面取得了一定的成功。 在 Meta 上投放广告时，一些广告的听众/观众通常会发表评论或提出问题，我会尽力回复。 问题： 11 月 1 日，我回复了一位听众关于歌曲超链接的问题。  以下是我对这个人的回复（我从西班牙语翻译而来），该回复被 META 的人工智能标记了。 &quot;这是一些流媒体网站的链接。Apple Music 和 YouTube Music 似乎有延迟，但我会更新信息。&quot; 在该消息的末尾，我还附上了该歌曲登陆页面的链接，其中列出了可访问该歌曲的各种流媒体网站。我使用的登陆页面提供商被 Meta 平台上数百（或数千？）其他音乐家积极使用，因此该 URL 不太可能出现问题。 无论如何，这就是事情变得奇怪的地方。我对这个问题的回答被 META 的人工智能标记了。违反社区标准，他们的算法认为响应涉及“成人性诱惑”。我不骗你。 在什么情况下我的评论会被解释为涉及“成人性诱惑”的消息？答案是根本不存在，否则相信是完全荒谬的。 解决方案？ 在正常情况下，直接向公司指出这个问题会很快得到解决。人们会认为这会让技术人员和管理层感到尴尬。然而，截至撰写本文时，我的帐户已被禁止发布所有广告已有 20 天了。我发给各个元部门的所有电子邮件以及我的技术支持单都没有得到答复。富有同情心的 Meta 支持人员会承认他们没有任何权力来解决这个问题，因为这总是涉及到其他部门。 也许这个 Reddit 小组的读者可以分享一些关于 Meta 过度依赖有缺陷的人工智能的见解。最后，我相信在公司实施有缺陷/未经测试的算法的问题上获得更多的宣传是一件好事。就像呼叫中心内最早实施的 IVR 系统一样，Meta 使用人工智能还远未达到黄金时段。也许他们不再想要广告收入？谁知道呢？    提交人    /u/loublackmusic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>帮助寻找适合教育工作者的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvcmn0/help_finding_ai_for_educator/</link>
-      <description><![CDATA[我正在寻找一种 AI 工具（可能是几种工具的组合），它可以为某些历史事件创建音频。 我在学区工作，想为学生创建可以收听的内容。 示例 -  签署《独立宣言》期间的对话。 莱特兄弟讨论他们的第一架动力飞机。 曼哈顿计划会议 MLK Jr. 讨论民权战略和哲学。 关于如何为学生提供这种音频体验，您有什么想法吗？理想情况下，声音会通过音效和背景噪音包围听众。我知道我可以使用笔记本电影进行我上传的源的双人讨论。寻找更多可听的体验。   有类似的东西存在吗？    提交人    /u/Repulsive_Pudding_18   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvcmn0/help_finding_ai_for_educator/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:29:43 GMT</pubDate>
+      <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</link>
+      <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM4DS 评估用于数据科学代码生成的大型语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm0xg/llm4ds_evaluating_large_language_models_for_data/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“LLM4DS：评估用于数据科学代码生成的大型语言模型”，作者是 Nathalia Nascimento、Everton Guimaraes、Sai Sanjna Chintakunta 和 Santhosh Anitha Boominathan。 这项研究调查了各种大型语言模型 (LLM) 在自动执行数据科学代码生成任务方面的能力。该研究通过一系列涉及数据科学特定编码挑战的受控实验评估了四个著名的 AI 助手 - Microsoft Copilot（GPT-4 Turbo）、ChatGPT（o1-preview）、Claude（3.5 Sonnet）和 Perplexity Labs（Llama-3.1-70b-instruct）。 本研究的要点包括：  性能评估：本文采用目标-问题-指标方法来评估跨多个任务（分析、算法、可视化）和难度级别的有效性。所有模型的成功率都超过了 50%，但只有 ChatGPT 和 Claude 超过了 60% 的阈值，这表明在达到更严格的 70% 大关方面存在限制。 跨挑战的一致性：ChatGPT 在各种难度级别上都表现出稳定的表现，而 Claude 的效率则因任务复杂性而异。这表明，对于需要一致输出质量的复杂数据科学问题，ChatGPT 可能更可靠。 任务类型影响：分析表明，任务类型不会显著影响模型的成功率，表明在不同类型的数据科学任务中性能稳定。 效率指标：对于可视化任务，ChatGPT 产生了最准确的输出，而 Claude 在执行分析问题的代码方面速度更快。但是，不同模型的执行时间并未显示出显著的统计差异。 未来评估框架：除了评估当前的 LLM 能力之外，该研究还为数据科学任务建立了一个全面的评估框架，这对于未来的发展和模型改进至关重要。  这些发现为 LLM 在数据科学中的实用性提供了结构化的洞察，强调了除了基本准确性之外严格基准的重要性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm0xg/llm4ds_evaluating_large_language_models_for_data/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能能否从不同的图像集合中找到特定人物的图像和视频？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvlatw/can_ai_help_find_images_and_video_with_a_specific/</link>
+      <description><![CDATA[我的配偶在去年新年前夜失去了母亲，我想知道是否有办法使用人工智能在大量图片和视频中搜索她的照片，因为我没有那么多时间。  我打算使用这些图片/视频为她制作拼贴画或视频，这样她就可以在数字世界中反思大量的东西。 这可能吗？如果可以，怎么做？我希望有人能回答这个问题。另外，我希望这篇文章不会被删除，因为我比提问截止日期晚了几个小时！    提交人    /u/M4J0R_FR33Z3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvlatw/can_ai_help_find_images_and_video_with_a_specific/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能如何提高 PPT 翻译质量</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkuwb/how_ai_enhances_ppt_translation_quality/</link>
+      <description><![CDATA[AI在翻译中的作用 AI的应用不仅大幅提升了翻译速度，还提升了翻译的准确性和上下文理解能力。过去翻译一张PPT需要手动复制粘贴每张幻灯片的文字，耗时费力且容易打乱版面布局。而现在，AI技术的发展让翻译PPT这项繁琐的工作变得轻松高效。 提升翻译质量的关键AI技术 AI技术的核心之一是神经机器翻译（NMT），它通过能够更好地理解上下文的深度学习算法，提供更准确的翻译结果。相比于传统的基于单词或短语的翻译技术，NMT在处理长句和复杂语法方面更胜一筹。通过上下文分析，AI可以更好地理解整体含义，避免单句翻译中常见的错误，使翻译更加流畅自然。  提升翻译质量的另一项关键技术是多元素处理能力。对于 PowerPoint（PPT）等文档，AI 不仅翻译文本，还处理图像、图表、SmartArt 等多种元素。AI 工具识别这些元素并确保它们的翻译和布局准确保留在翻译的文档中，从而节省用户重新格式化的时间。    submitted by    /u/Far-Pollution568   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkuwb/how_ai_enhances_ppt_translation_quality/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:20:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能能够通过照片扫描测验并解答</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkne4/ai_able_to_scan_quiz_by_photo_and_solve_it/</link>
+      <description><![CDATA[大家好，提前感谢大家。我正在寻找一款能够从图片中读取问题并解答的应用程序。我尝试使用 Quizard 应用程序但失败了，只有 30% 的答案是正确的，也许存在一款应用程序，我可以上传我的 600 页书，它会根据它给我答复？问题与财务合规性有关，网络上也提供了所有信息，我不明白为什么 Quizard 这么糟糕，它还解释了错误答案，我将不胜感激任何建议。祝大家有美好的一天     提交人    /u/simut93   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkne4/ai_able_to_scan_quiz_by_photo_and_solve_it/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求对 BrightLoud 的反馈 – 一流的原型 AI 社交媒体平台</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkd1s/feedback_wanted_for_brightloud_class_prototype_ai/</link>
+      <description><![CDATA[大家好， 为了完成一个班级项目，我和我的团队开发了一个名为 BrightLoud 的原型，这是一个下一代社交媒体平台。这是一个由人工智能驱动的平台，用户可以上传任何类型的内容 - 图像、视频、音频或文本 - 然后人工智能会将其生成性地与您的网络共享。 我们的时间很紧，希望您能快速提出想法！以下是一个简短的视频演示：https://youtu.be/d5e1XPnajEQ 我们很乐意听到您的反馈意见：  这个概念对您来说有趣或有用吗？ 您希望在这样的平台中看到哪些功能？ 您认为它的工作方式或外观上有什么可以改进的吗？  这只是一堂课，所以没有压力——任何快速反馈都非常感谢！ 非常感谢！    提交人    /u/FCHarshB   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvkd1s/feedback_wanted_for_brightloud_class_prototype_ai/</guid>
+      <pubDate>Wed, 20 Nov 2024 07:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较不同的多 AI 代理框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvgfgu/comparing_different_multiai_agent_frameworks/</link>
+      <description><![CDATA[最近，焦点已从改进 LLM 转向 AI 代理系统。此外，还转向多 AI 代理系统，从而导致大量多代理编排框架，如 AutoGen、LangGraph、Microsoft 的 Magentic-One 和 TinyTroupe 以及 OpenAI 的 Swarm。查看有关这些框架的优缺点以及您应该根据您的用例使用哪个框架的详细帖子：https://youtu.be/B-IojBoSQ4c?si=rc5QzwG5sJ4NBsyX    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvgfgu/comparing_different_multiai_agent_frameworks/</guid>
+      <pubDate>Wed, 20 Nov 2024 03:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放权重（本地） LLM 终于赶上了封闭式 SOTA 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvft58/open_weight_local_llms_finally_caught_up_to/</link>
+      <description><![CDATA[昨天，Pixtral large 发布了这里。 这是一个 124B 的多模态视觉模型。这个非常小的模型在各种精心挑选的基准上击败了 1+ 万亿参数的 GPT 4o。别介意 Gemini-1.5 Pro。 据我所知，没有语音或视频。但真的，这重要吗？对我来说，这似乎是开创性的。它也可以免费使用。然而，我几乎没有在太多地方看到提到这一点。我遗漏了什么吗？ 顺便说一句，自 ChatGPT 于 2022 年 11 月 30 日公开发布以来，还不到两年。在短短两年的时间里，人工智能已经变得有些面目全非。疯狂的进步。    提交人    /u/AIAddict1935   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvft58/open_weight_local_llms_finally_caught_up_to/</guid>
+      <pubDate>Wed, 20 Nov 2024 03:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 或 ChatGPT</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvfkfq/claude_or_chatgpt/</link>
+      <description><![CDATA[我不确定这是否是正确的 subreddit，所以如果应该将其发布到其他地方，请告诉我。我想了解不同的语言模型。Claude 和 ChatGPT 之间的主要区别是什么？什么时候会使用一种模型而不是另一种模型？    提交人    /u/NeumaticEarth   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvfkfq/claude_or_chatgpt/</guid>
+      <pubDate>Wed, 20 Nov 2024 02:53:18 GMT</pubDate>
     </item>
     <item>
       <title>人工智能政策 - 下一步</title>
@@ -34,34 +90,6 @@
       <pubDate>Tue, 19 Nov 2024 23:50:49 GMT</pubDate>
     </item>
     <item>
-      <title>免费的人工智能聊天机器人可以根据单个提示写出整本书吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvbp43/free_ai_chat_bot_that_would_be_able_to_write/</link>
-      <description><![CDATA[嗨，我正在寻找一个具有足够长上下文容量的机器人，它能够通过单个输入提示编写一整本（技术文献）书籍，至少约 30 页。我见过可以理解长文本的人工智能，如 https://labs.perplexity.ai/，但我还没有见过能够生成超过一页文本的人工智能。    提交人    /u/Subject-Marsupial-79   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvbp43/free_ai_chat_bot_that_would_be_able_to_write/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能医疗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvac95/ai_healthcare/</link>
-      <description><![CDATA[大家好， 今天骑车回家时，我有一些关于人工智能的疯狂想法，但我在这里写下这些想法是因为我认为这永远不会发生。人工智能可以拯救无数生命。这只是我脑海中的虚构数据（没有经过任何检查，只是我脑海中的疯狂数字）。全世界每天大概有 50,000 份健康记录被关闭。如果这是可能的（可能不是因为 GDPR、HIPAA 等），不同的组织可以将所有这些案例 + 旧案例（可能超过 10 亿）输入人工智能模型，并且有足够的数据在几秒钟内识别问题/疾病。有足够的数据在几秒钟内治愈其中的大部分（找出哪种方法最有效，而不是实际过程）。这确实可以拯救无数生命，但由于所有法规等原因，欧盟可能永远不会深入研究这个问题，我认为我们不会看到这种情况。  那太疯狂了。他们实际上可以通过这种方式治愈癌症，使用的方法与过去成功化疗的健康记录以及所使用的化疗类型一致。这可以在几秒钟内诊断出来，心脏病也是如此。我看到它发生的唯一方式是一些黑客组织入侵不同的医疗机构，收集数据并将其提供给某些模型（这当然是非法的，但至少会有一些作用）。 感谢您阅读我的疯狂想法    提交人    /u/matoxd99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvac95/ai_healthcare/</guid>
-      <pubDate>Tue, 19 Nov 2024 22:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Video-to-Video AI 不受版权保护吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv9vjc/is_videotovideo_ai_free_of_copyright/</link>
-      <description><![CDATA[假设我们拍摄了一段某人做简单下蹲的视频，然后通过视频到视频 AI 运行该视频。 最终结果基本上是相同的动作和相同的时间，但人物发生了变化，环境也发生了变化。 这是否受版权保护？    提交人    /u/chrisBhappy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv9vjc/is_videotovideo_ai_free_of_copyright/</guid>
-      <pubDate>Tue, 19 Nov 2024 22:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>森林科学相关的人工智能资源</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv9qzm/forest_science_related_ai_resources/</link>
-      <description><![CDATA[我是一名研究生，也是一名有抱负的记者，致力于撰写和发布一篇有关人工智能在森林科学中的应用的故事。我已经采访了几位科学家，特别是来自普渡大学的科学家，但我正在寻找更多消息来源和线索，以确定下一步该联系谁进行采访。有人知道有哪些实验室在这个领域做了有趣的工作，但还没有得到媒体报道吗？这里有没有人从事地理空间人工智能研究，即使不是以森林为重点，也想聊聊？ 我已经做了一些背景研究，所以我确实知道一些备受关注的项目，比如 Meta 的 1m 分辨率森林地图。我求助于 reddit 主要是为了帮助了解那些不在媒体聚光灯下的项目或科学家。如果有人有任何线索或个人专业知识，我很乐意听到并了解更多信息。谢谢！    提交人    /u/Alyssmiss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv9qzm/forest_science_related_ai_resources/</guid>
-      <pubDate>Tue, 19 Nov 2024 22:21:19 GMT</pubDate>
-    </item>
-    <item>
       <title>您对 Notebook LM 有何看法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv3l5z/what_are_your_thoughts_on_notebook_lm/</link>
       <description><![CDATA[我还没有彻底用过它，但听说过很多东西。我也想知道它与 chatGPT 中的类似功能相比如何。  让我知道。     提交人    /u/Level-Requirement648   [link] [评论]]]></description>
@@ -69,39 +97,11 @@
       <pubDate>Tue, 19 Nov 2024 18:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>以下是当今人工智能领域的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv1xgu/heres_what_is_making_news_in_ai_today/</link>
-      <description><![CDATA[焦点： HarperCollins 要求作者授权他们的书籍用于 AI 训练（来源：The Verge）  OpenAI 投资者 Josh Kushner 称赞马斯克，尽管马斯克对 OpenAI 提起诉讼（来源：TechCrunch） 本·阿弗莱克告诉演员和作家不要担心 AI（来源：TechCrunch） Sagence 正在制造模拟芯片来运行 AI（来源：TechCrunch） 印度新闻社起诉 OpenAI 指控其侵犯版权（来源：TechCrunch） 想写一本书吗？ AI 出版商 Spines 希望达成交易（来源：TechCrunch） 微软在 Azure AI Foundry 中整合其企业 AI 产品（来源：TechCrunch） 数据库初创公司 Neo4j 利用 AI 来加速增长（来源：TechCrunch） 物理 AI 初创公司 BrightAI 的收入达到 8000 万美元（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv1xgu/heres_what_is_making_news_in_ai_today/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我错了吗？微软 Ignite 主题演讲乐观</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv0hl7/am_i_wrong_microsoft_ignite_keynote_optimism/</link>
-      <description><![CDATA[有没有人刚刚看了 Microsoft Ignite 主题演讲，注意到没有提到人们失业/被 AI/LLM 解决方案取代？演讲中全是微软的 AI 产品如何帮助人们取得更多成就。没有提到公司如何通过大幅减少劳动力来提高效率。显然，我知道这都是关于微软 Copilot 和其他 AI 项目以及 AI 的积极一面。但我担心这么多工作已经被 AI/LLM/Agents 取代，还会有更多的工作岗位流失，我错了吗？而那些因 AI“效率”而失业的人能找到的工作很少？我认为我们正在经历社会的重大变革，而不仅仅是计算，我错了吗？    提交人    /u/CieloCorazon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv0hl7/am_i_wrong_microsoft_ignite_keynote_optimism/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据科学领域的创业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guzkg2/entrepreneurship_in_data_science/</link>
-      <description><![CDATA[您认为数据科学家是获得专业知识和创建 AI 初创企业的好职业吗？ 我想知道数据科学家是否足够优秀，或者我是否应该以此为目标成为一名软件工程师。 大多数人说 DS 大多只适合咨询，你怎么看？    提交人    /u/Filippo295   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guzkg2/entrepreneurship_in_data_science/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:20:21 GMT</pubDate>
-    </item>
-    <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guzb12/weekly_is_there_a_tool_for_post/</link>
       <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我推销，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guzb12/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 19 Nov 2024 15:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国专利商标局禁止员工使用生成式人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guuyzd/the_us_patent_and_trademark_office_banned_staff/</link>
-      <description><![CDATA[SCOOP：致力于保护新创新的机构禁止几乎所有内部​​使用 GenAI 工具，但员工仍可以参与受控实验。    提交人    /u/wiredmagazine   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guuyzd/the_us_patent_and_trademark_office_banned_staff/</guid>
-      <pubDate>Tue, 19 Nov 2024 11:25:52 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>

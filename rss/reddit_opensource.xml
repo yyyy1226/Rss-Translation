@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:47:53 GMT</lastBuildDate>
+    <item>
+      <title>FreeCAD 1.0 版发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvo2vr/freecad_version_10_released/</link>
+      <description><![CDATA[        提交人    /u/buovjaga   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvo2vr/freecad_version_10_released/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是与 AI 团队合作的数据科学家吗？其中的数据处理和训练都是在笔记本中完成的，从而减慢了实验速度？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvmr3n/are_you_a_data_scientist_working_with_an_ai_team/</link>
+      <description><![CDATA[如果您正在寻找一些工具或方法来自动化流程并加快团队的工作流程，请看一下这个： 我最近参与了一个新的开源工具（KitOps），它使用开放标准（如OCI 工件）来打包模型，确保跨环境的兼容性。 它还可以让您：  轻松跨团队协作 仅使用简单命令提取您需要的内容或整个包 标准化AI / ML模型的打包，复制，部署和跟踪，以便它可以在任何地方运行，就像应用程序代码一样  你在寻找这样的东西吗？如果是，您可以在此处了解更多信息    提交人    /u/codes_astro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvmr3n/are_you_a_data_scientist_working_with_an_ai_team/</guid>
+      <pubDate>Wed, 20 Nov 2024 10:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvm15g/i_created_an_ai_research_assistant_that_actually/</link>
+      <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvm15g/i_created_an_ai_research_assistant_that_actually/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:54:24 GMT</pubDate>
+    </item>
     <item>
       <title>Gophers：Go 的通用集合工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1gvb8dc/gophers_generic_collection_utils_for_go/</link>
@@ -76,13 +97,6 @@
       <pubDate>Tue, 19 Nov 2024 18:44:54 GMT</pubDate>
     </item>
     <item>
-      <title>救命！--转录软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv2ddc/helptranscription_software/</link>
-      <description><![CDATA[Express Scribe 是我工作中必须使用的工具。我拒绝为一个故障百出的程序付费。有人知道使用系统热键的免费转录软件吗？我没有使用脚踏板。任何帮助都将不胜感激。  签名、破产和沮丧    由   提交  /u/Different-Goal295   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv2ddc/helptranscription_software/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:15:51 GMT</pubDate>
-    </item>
-    <item>
       <title>Vratix CLI：简化后端 API 开发的开源工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1gv1f9g/vratix_cli_opensource_tool_to_simplify_backend/</link>
       <description><![CDATA[大家好 r/opensource！我一直在研究 Vratix CLI，这是一个开源工具，可帮助开发人员在几分钟内设置 Node.js API。它附带用户身份验证、Stripe 订阅、交易电子邮件和 S3 文件上传模块。 注意：这是一个早期版本，因此如果您有机会试用它，我很乐意听取您的反馈，了解您认为应该改进的地方或您认为有用的其他功能。输入越多越好！ 您可以根据需要贡献和扩展它，所有这些都可以在 GitHub 上找到。如果您正在寻找新的后端服务的起点，而又不想重新发明轮子，请查看它。  以下是文档和最新的更新日志：vratix.com 很想看看其他人如何贡献或使用它！    提交人    /u/CommissionExact1566   [link] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/代码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</guid>
       <pubDate>Tue, 19 Nov 2024 14:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>2 个月内用户数超过 4000 名，项目现已开源，需要帮助；）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gutx79/4000_users_in_2_months_project_now_open_sourced/</link>
-      <description><![CDATA[你好，开源社区。  所以我创建了一个名为 https://www.mldl.study/ 的网站，基本上是一个为任何想进入 AIML 领域并正在寻找学习机器学习和深度学习路线图的人提供的网站。我 2 个月前推出了它，到现在已有 4000 多名用户。 我昨天将它开源，因为整个社区可以帮助它进一步发展壮大。我也在 reddit 上推出了它，并获得了很好的反响。  目前，路线图主要集中在印度观众身上，但我未来的计划是为英语观众制作专门的路线图，以瞄准更广泛的受众。我还想在这里添加其他领域，如 genai、强化学习等。 我希望得到您的帮助，让它变得更大，以便整个社区都能受益。  网站上没有广告，我也没有从中赚钱，如果你们能为网站做出任何贡献，无论是资源还是新功能，或者只是提出问题，我都会非常高兴。 这是 GitHub repo 的链接 = https://github.com/anshaneja5/mldl.study 非常感谢您阅读这篇文章！让我们让某人轻松进入这个领域 ;)    提交人    /u/Grouchy-Breakfast-20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gutx79/4000_users_in_2_months_project_now_open_sourced/</guid>
-      <pubDate>Tue, 19 Nov 2024 10:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有已删除的 zimatise 存储库的分支吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gubbwz/does_anybody_have_a_fork_of_the_deleted/</link>
-      <description><![CDATA[  由    /u/Consistent-Emu-3442  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gubbwz/does_anybody_have_a_fork_of_the_deleted/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
