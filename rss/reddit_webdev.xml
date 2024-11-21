@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 12:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:50:34 GMT</lastBuildDate>
     <item>
-      <title>无聊吗？就做了这个。终极拖延游戏！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvoezr/bored_just_made_this_the_ultimate_procrastination/</link>
-      <description><![CDATA[  由    /u/Turbulent_Goat1988  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvoezr/bored_just_made_this_the_ultimate_procrastination/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:31:38 GMT</pubDate>
+      <title>友情链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw4fv8/links_cms/</link>
+      <description><![CDATA[您好！我稍微搜索了一下，但不知道该去哪里找（或者用什么搜索词）——有人能推荐一个专门用于组织/显示链接的开源内容管理系统吗？谢谢！    提交人    /u/shellendorf   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw4fv8/links_cms/</guid>
+      <pubDate>Thu, 21 Nov 2024 01:33:57 GMT</pubDate>
     </item>
     <item>
-      <title>有什么方法可以让网站完全透明吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvo5nz/is_there_anyway_to_make_a_website_fully/</link>
-      <description><![CDATA[      目前背景颜色设置为黑色。透明度是通过 Mac 上的 yabai 窗口管理器实现的。让它完全透明看起来会很酷 https://preview.redd.it/080​​er21lt12e1.png?width=4220&amp;format=png&amp;auto=webp&amp;s=2be50994f54db0f4ac3c66829613eb8fe02a1305    提交人    /u/Arkastorss   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvo5nz/is_there_anyway_to_make_a_website_fully/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:17:57 GMT</pubDate>
+      <title>公司管理员从网站上删除了特定按钮，但链接仍然有效，我没有特定的 URL，有什么办法可以找到它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</link>
+      <description><![CDATA[该网站是我们公司的调度网站，您可以使用个人登录详细信息登录，我们的管理员通常会删除有用的功能，但仍保持网址有效，我猜是出于调试原因，有没有办法找出我们网站所有可能的网址并使用它直到找到合适的网址？    提交人    /u/yazzzzzzzu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw2jd9/company_admin_removed_specific_button_from_site/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:06:33 GMT</pubDate>
     </item>
     <item>
-      <title>初创公司希望我从 MERN 堆栈切换到 PhP 和其他语言</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvn4sf/startup_wants_me_to_switch_from_mern_stack_to_php/</link>
-      <description><![CDATA[嗨，我是一名刚入行的 MERN 堆栈开发人员，我在一家小型初创公司面试，他们希望我首先学习 PhP、MySQL、AJAX、JS、jquery、curl 的基础知识。我对 JavaScript 和 MySql 非常熟悉，仅此而已。我需要一些建议，这些技术是否仍然有需求，或者如果我离开初创公司，我是否会根据这些技术堆栈找到工作。  TLDR：对于一名 mern 开发人员来说，花时间学习 php、mysql、ajax、jquery、curl 是否值得。     提交人    /u/whyadiwhy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvn4sf/startup_wants_me_to_switch_from_mern_stack_to_php/</guid>
-      <pubDate>Wed, 20 Nov 2024 11:14:00 GMT</pubDate>
+      <title>业余程序员在这里：我刚刚制作了 TimeAtlas.Live，为一切事物制作了一个众包仪表板！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</link>
+      <description><![CDATA[  由    /u/Stryker336  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw24x8/amateur_coder_here_i_just_made_timeatlaslive_to/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>有新的显示器推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvmrl2/new_monitor_recommendations/</link>
-      <description><![CDATA[我是一名 WFH 全栈 Web 开发人员，我想升级我那台可笑的第二台显示器：19 英寸和 900p 分辨率。我的主要显示器是 MSI：24、1080p 和 144Hz，它将成为我的第二台显示器。 您会推荐哪台显示器作为我的主显示器？为了提供更多背景信息：我的桌面不是特别大，我还计划在我的计算机上玩一些游戏（与 FPS 或 4K 游戏无关，我的 PC 处于中低端），我最有可能将我的第二台显示器垂直放置。 如果显示器物有所值，预算并不是真正的问题，我可以考虑购买两台显示器并将它们一个放在另一个上面。    提交人    /u/ChrisDorne   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvmrl2/new_monitor_recommendations/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:49:14 GMT</pubDate>
+      <title>如何构建股票通知系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</link>
+      <description><![CDATA[您将如何设计股票通知服务？我正在做一个业余项目，当用户正在跟踪的股票行情发生特定事件时，我想提醒用户。 示例：用户想知道股票“AAPL”在 1 天内何时变化 5%。 一般详情：  我正在使用来自 API 的实时股票数据 每个用户都会跟踪多只股票，每只股票都设置了许多警报条件。 用户需要在触发警报条件后 10 秒内收到警报通知  我正在努力设计一个可以使用大量数据的系统，并将其与所有平台用户警报进行交叉引用，以便发出通知。理想的解决方案需要随着系统的用户数量而扩展。  我认为发布/订阅架构可能有意义，其中用户的股票警报作为订阅渠道创建，因此如果两个用户有相同的警报，则不会重复。 需要帮助充实它......    提交人    /u/nameichoose   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0y30/how_to_architect_a_stock_notification_system/</guid>
+      <pubDate>Wed, 20 Nov 2024 22:35:27 GMT</pubDate>
     </item>
     <item>
-      <title>使用第三方服务时如何管理客户账单？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvmgik/how_to_manage_billing_for_client_when_using_3rd/</link>
-      <description><![CDATA[大家好，各位开发人员！ 我一直在为客户开发一个全栈项目，并且我正在 render 上托管它（目前）。它使用 twilio 进行短信验证。 问题 - 我如何管理客户的所有账单，截至目前，我在 render 和 twilio 上使用自己的帐户，但是假设使用量增加并且有一些额外费用，该怎么办？ 我能想到的可能解决方案：1）让我的客户在 render 和 twilio 上注册一个帐户并授予我访问权限，以便我可以设置它并让他们管理所有付款，而我只需管理其他东西。 2）我手动跟踪所有费用（使用我的帐户），并完全相信我的客户不会逃跑。 3）希望 render 和 twilio 以及其他服务之间有某种团队协作协议功能，可以将账单交给我的客户。 我相信我们这里的一些开发人员已经在专业行业工作过了，可以在这里帮助我。  感谢您的时间！    由    /u/angry_ducky1 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvmgik/how_to_manage_billing_for_client_when_using_3rd/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:26:09 GMT</pubDate>
+      <title>您希望将开发人员工具的 Dock Side 位置设在哪儿？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</link>
+      <description><![CDATA[使用开发者工具时，您希望将开发者工具面板停靠在哪里：底部、左侧、右侧还是单独的窗口？    提交人    /u/bgux   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0it5/what_is_your_dock_side_location_preference_for/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>在面试过程中，我被要求接受测谎仪测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvkt0g/asked_to_do_a_polygraph_as_a_part_of_my_interview/</link>
-      <description><![CDATA[正如标题所说，最近有一位招聘人员联系了我，告诉我一家服装公司需要一名 Web 开发人员加入他们的团队。他们还告诉我，面试中需要进行测谎测试。  这太疯狂了，对吧？     提交人    /u/OblivionEcstacy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvkt0g/asked_to_do_a_polygraph_as_a_part_of_my_interview/</guid>
-      <pubDate>Wed, 20 Nov 2024 08:16:02 GMT</pubDate>
+      <title>使用 background-clip border-area 制作创意边框</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gw0c97/make_creative_borders_with_backgroundclip/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>AAA - 分析抗锯齿</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvkqod/aaa_analytical_antialiasing/</link>
-      <description><![CDATA[        提交人    /u/Frost-Kiwi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvkqod/aaa_analytical_antialiasing/</guid>
-      <pubDate>Wed, 20 Nov 2024 08:11:13 GMT</pubDate>
+      <title>黑暗模式还有其他方面吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvz8hr/is_there_another_facet_to_dark_patterns/</link>
+      <description><![CDATA[这个问题让我陷入思考，因为我必须在不久的将来研究一些切线。 这篇文章的目的不仅仅是引发对这个问题的讨论，也是让我收集一些可能支持或反驳基本假设的例子。我想了解其他/您的产品如何处理类似的情况，以及他们的方法可能取得多大程度的成功。 对于那些可能不熟悉该术语的人来说，简而言之，黑暗模式就是直接（不）引导用户执行他们不打算执行的操作。（来源：https://www.deceptive.design/） 但我发现这个描述在上下文方面确实有限制性，我可以看到其中一些在正确的上下文中应用时实际上是有益的。 如果它们被用来阻止用户对他人执行潜在的有害操作会怎样？ （当然，这是夸张的表述，但它可以表达观点）  举一个可能的例子 - 我知道我在批评来源做同样的事情后提出了一个受限制的上下文： 功能 XYZ 允许组管理员以某种方式配置他们的用户组，从而限制最终用户可以访问的功能范围，具体取决于他们如何操作。  我基于以下假设： :: 对于最终用户来说，最终用户可以使用更广泛的功能是理想的； :: 对于产品所有者来说，最终用户可以使用更广泛的功能也是理想的； :: 管理员希望对各自的组有更多的控制权。  暗黑模式是否可以阻止管理员过度使用此类功能？ 你对此有何看法？ 您是否研究过/知道此类示例？    提交人    /u/MixedToast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvz8hr/is_there_another_facet_to_dark_patterns/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>良好的敏捷性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvjfwx/good_agile/</link>
-      <description><![CDATA[我已经看到很多帖子和评论，说如今有这么多流程和项目只是所谓的敏捷瀑布式。您有哪些项目、流程或团队真正实现了敏捷并取得成功的良好示例？    提交人    /u/kinggoosey   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvjfwx/good_agile/</guid>
-      <pubDate>Wed, 20 Nov 2024 06:36:11 GMT</pubDate>
+      <title>构建最佳登陆页面。需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvz888/building_the_best_landing_page_advice_needed/</link>
+      <description><![CDATA[我公司的销售额一直在下降，我需要至少让事情恢复到以前的状态。我正在考虑为谷歌广告创建一个新的登陆页面，但正确的格式应该是什么，或者我应该记住什么？作为参考，我有远程员工，但我需要下达好的命令才能得到我想要的。我们目前使用的工具如下：对于网页设计，我们使用 Elementor 网络托管来自 Tomorrow UI 图片来自 shutter stock 我们销售篮球装备 非常感谢任何建议     提交人    /u/TelevisionQuiet6348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvz888/building_the_best_landing_page_advice_needed/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:26:18 GMT</pubDate>
     </item>
     <item>
-      <title>我应该如何在 laravel 中构建它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvh3d6/how_should_i_structure_this_in_laravel/</link>
-      <description><![CDATA[我正在建立一个网站，扬声器设计师可以在此上传和分享他们的设计，重点是技术数据管理。寻找有关如何在 Laravel 中构建此设计的建议，特别是设计和组件之间的关系以及有关文件管理和版本控制系统的建议。 扬声器设计 用户将能够创建设计并将驱动程序附加到它们。每个设计都需要存储： - 基本信息（标题、说明、规格） - 技术数组（规格、物料清单） - 多种文件类型（文档、测量值、图纸） - 带有嵌入图像的图像和富文本内容 驱动器（扬声器组件） 将会有一个包含工厂信息的驱动器数据库，用户可以浏览该数据库，该数据库还将汇总驱动器用于哪些设计。 每个驱动器存储： - 基本规格（品牌、型号、类型、直径） - 技术规格数组 - 文档和数据表 - 图像和富文本内容 设计-驱动器关系 当在设计中使用驱动器时，我需要存储： - 实施数据（数量、频率范围） - 特定于此用途的技术规格 - 多个测量文件（频率响应、阻抗） - 特定于设计的文档 当前方法和进展：我已经开始使用最近在 breeze 上构建后推出的 DevDojo Wave starter，用于所有身份验证和未来支付功能。  我已经为设计和驱动程序创建了模型，并在两者之间创建了一个数据透视表，该数据透视表还存储了一系列规格和其他一些数据，如描述、频率响应。我已经创建了灯丝表格，它们都正确提交到了我使用中继器作为数据透视表的 sqllite 数据库中。我很快就要开始浏览页面了，但希望这个系统能提前完成。 我已经创建了一个基本的文件管理系统，可以自动组织设计中的所有文档，但它充满了问题。我想添加在每个设计的基本版本控制系统中存储快照的功能。 如果有任何不同，您将如何构建它？我不确定从哪里开始使用文件管理系统或版本控制。如果这看起来像是一个非常开放的问题，请原谅。    提交人    /u/Gorchportley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvh3d6/how_should_i_structure_this_in_laravel/</guid>
-      <pubDate>Wed, 20 Nov 2024 04:13:57 GMT</pubDate>
+      <title>我需要在后端提供服务，但不知道从哪里开始。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvyq17/i_need_to_serve_things_on_a_backend_not_sure/</link>
+      <description><![CDATA[你好！ 我有一个很棒的项目，它是一个用 vanilla js 构建的假交互式终端。我现在想将此应用程序发布到我的小社区供大家玩玩，但代码中有一些秘密，我不希望用户发现。 我目前使用 godaddy 共享主机托管常规网站，但据我所知，没有优雅的解决方案让 .js 文件位于后端，因此客户端无法消化它们。我正在寻找一种付费或免费的方式来构造文件，以便只有我想要的静态内容（html、css 等）提供给客户端，而索引仅从后端加载 .js 文件。有什么关于如何做到这一点的提示吗？我太专注于构建应用程序和调试，这有点疏忽。谢谢！ :)    由    /u/exogreek 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvyq17/i_need_to_serve_things_on_a_backend_not_sure/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何像这样将优惠券代码添加到 Chrome 地址栏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvg8ep/how_do_you_add_a_coupon_code_to_the_chrome/</link>
-      <description><![CDATA[        提交人    /u/quisido   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvg8ep/how_do_you_add_a_coupon_code_to_the_chrome/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:27:36 GMT</pubDate>
+      <title>使多个网站看起来像是在同一个域名下运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvyar2/making_multiple_websites_look_like_theyre/</link>
+      <description><![CDATA[你好！ 如果我听起来像个傻瓜，请先道歉，我只是一个平面设计师/零售人员，对 Shopify 有很深的了解，但在 Web 开发方面绝对一无所知......所以问题是： - 我一直在一个域名下为我们业务的 12 个地点建立一个 Shopify 商店 - 每个地点都是一个独立的 LLC，有独立的投资者（这部分非常重要） - 将所有资金都放在一个 Shopify 银行账户下，然后分散到每个地点的银行账户中，这对我们的会计团队来说是一场噩梦 - 一种解决方案是将每个地点分离到自己的 Shopify 帐户中，并使用“自己的”网站，这将减轻大部分会计问题，使事情更加精简 - Web 开发问题：我可以将 12 个网站屏蔽/重定向到一个域下，并使其看起来好像都在一个主域下运行吗？它需要看起来像一个商店，每个“系列”实际上都链接到不同的网站，尽管 URL 中仍然显示我们的父/总品牌网站。虽然每个位置都是一个独立的实体，但我们试图将它们全部打造成一个品牌，并且每个位置都必须可导航，并且看起来像是在一个主品牌名称的域下运行。 我希望这有意义。任何见解都非常感谢！    提交人    /u/Dense-Imagination970   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvyar2/making_multiple_websites_look_like_theyre/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>创建 recaptcha 的最简单方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvfr80/easiest_way_to_create_a_recaptcha/</link>
-      <description><![CDATA[愚蠢的问题，但我是一名艺术家，我的知识仅限于非常非常基本的 html 东西。 基本上，我想制作一些&gt;看起来&lt;像你通常的图像验证码的东西，除了它不可能解决 - 每个动作都应该给你一个&amp;“再试一次”或&amp;“你确定吗？”或类似的。它必须具有功能性，因为你可以点击所有内容，然后事情就会发生。 我可以在 figma 上快速完成它，但我想在网上的某个地方托管它一段时间，我该怎么做？    提交人    /u/Fake_Ad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvfr80/easiest_way_to_create_a_recaptcha/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:02:51 GMT</pubDate>
+      <title>您如何看待这种渐进式加载在星露谷音乐会网站上的工作原理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvxo92/how_do_you_say_this_progressive_loading_works_in/</link>
+      <description><![CDATA[https://www.stardewvalleyconcert.com/    由    /u/pikoro09 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvxo92/how_do_you_say_this_progressive_loading_works_in/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 网站开发成本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvfqbr/wordpress_website_developing_cost/</link>
-      <description><![CDATA[各位开发者大家好！ 我是一名刚开始从事自由职业的全栈软件开发人员，最近有一位客户联系我，他需要一个基于 WordPress 的电子商务网站来开展印刷业务。该网站允许客户订购纸张、横幅、传单和类似物品的定制印刷品。作为一名具有 Web 开发经验但刚接触 WordPress 和自由职业的人，我正在寻求以下方面的建议：  这种项目的合理价格范围是多少？ 我应该如何构建我的定价（基于项目）？ 向客户推销时应该考虑哪些关键因素？  任何参与过类似项目的人的见解都将不胜感激。提前感谢你的帮助！    提交人    /u/yesiamdank   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvfqbr/wordpress_website_developing_cost/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:01:38 GMT</pubDate>
+      <title>在会话期间存储用户的个人资料信息-最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</link>
+      <description><![CDATA[大家好， 我很感激一些意见。我正在使用 next.js 15 并完成了我的身份验证流程，将 jwt 存储在 httpOnly、严格、安全的 cookie 中。 但是，我想知道存储/缓存用户首选名称、其个人资料图片链接（预签名 url）等内容的最佳做法是什么。它需要快速访问但仍然是安全的。我正在考虑如何跨组件动态呈现他们的姓名和图像而不发送垃圾邮件数据库请求。这是我以前没有考虑过的事情。 现在我已将其设置为使用标头，由我的 middleware.js 设置，在组件中使用示例： import HeaderComponent from &#39;@/ui/HeaderComponent&#39;; import { getHeaders } from &#39;@/utils/get-metadata&#39;;导出默认异步函数 Header() { const headerData = await getHeaders(); 返回（&lt;&gt; &lt;HeaderComponent headerData={headerData}/&gt; &lt;/&gt; ); } 从&#39;next/headers&#39;导入{headers}；导出异步函数 getHeaders() { const headersList = await headers(); const preferredName = headersList.get(&#39;x-preferred-name&#39;) || &#39;用户&#39;; const profilePictureUrl = headersList.get(&#39;x-profile-picture-url&#39;) || &#39;/public/static/placeholder-profile-pic.png&#39;; const userId = headersList.get(&#39;x-user-id&#39;) || &#39;用户&#39;; 返回 { preferredName, profilePictureUrl, userId, }; }  但我遇到了一些随机问题，有时 userId 不在标头中，尽管中间件总是将其设置得很好。这似乎真的很挑剔和不稳定。所以我相信有更好的方法。谢谢你的帮助！    提交人    /u/mobot-mobot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>无需信用卡信息的美式足球游戏免费 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvdiku/american_football_games_free_api_that_doesnt/</link>
-      <description><![CDATA[你好！ 是否有人知道任何包含有关美式足球比赛（NFL、NCAAF）信息的免费 API，并且在获取 API 密钥之前不需要输入信用卡详细信息？谢谢！    提交人    /u/Possible-Use-5224   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvdiku/american_football_games_free_api_that_doesnt/</guid>
-      <pubDate>Wed, 20 Nov 2024 01:11:37 GMT</pubDate>
+      <title>动画 - 努力过渡溢出</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvw52l/animation_struggling_to_transition_the_overflow/</link>
+      <description><![CDATA[（从 r/css 转发） 大家好， 我目前正在尝试为以下收据打印过渡制作动画： 第一个实例 最后一个实例 我有一个代码笔，基本布局已准备就绪，但现在我正式陷入困境，试图弄清楚如何使收据溢出可见，并且在正确的时刻...我怀疑我正在尝试做的可能不是正确的路径。 我也在努力弄清楚如何根据要求应用正确的 box-shadow。 仅供参考，我现在使用 div 来表示收据，但稍后将将其更改为图像元素（svg）以获取整个收据。 非常感谢您对此的任何指导或建议！    提交人    /u/-Neurotica-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvw52l/animation_struggling_to_transition_the_overflow/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:17:23 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Bluesky 的愚蠢问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvd1cj/dumb_question_rebluesky/</link>
-      <description><![CDATA[好的，我熟悉 Bluesky 的基本知识，并且我有兴趣创建一个新域作为我的用户名凭据。该域仅用于此目的，尽管如果需要，我可以创建一个登录/主页。  您会推荐一个非常便宜的域名托管服务商，可以满足我的所有需求：访问 DNS 以创建 2 个子域。不会有​​任何网络流量，我也不卖任何东西或托管博客；我只想为我的社交帐户创建一个自定义域。  Nearly Free Speech 似乎是一个不错的选择——这里有任何 NFS 用户可以提供建议吗？我知道常见的嫌疑人让事情变得简单，但我不想支付 15 美元/月的托管费用只是为了获得一个愚蠢的用户名/句柄。     提交人    /u/OrneryBlueberry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvd1cj/dumb_question_rebluesky/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:48:46 GMT</pubDate>
+      <title>Web Dev Portfolio - 它需要使用 HTML 和 CSS 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvvc45/web_dev_portfolio_does_it_need_to_be_in_html_css/</link>
+      <description><![CDATA[正如标题所述：您的作品集是否必须完全使用 HTML 和 CSS 制作？ 我于 4 月或 6 月从训练营毕业，作为最终项目，我们必须从第一章开始重新创建我们的作品集网站。我在网上找到了一个很棒的调色板，对每个页面的外观有一个基本的想法，然后就开始了。话虽如此，我对它很满意，但我毕业不到 5 个月，意识到市场仍然竞争激烈，也许我应该重新设计它的外观。 我之所以问这个问题，是因为 HTML 和 CSS 是相当重要的技能（至少在我看来，主要是从材料中自学的）。我想我可能很快就能用 React 和 MatUI 重新制作我的整个作品集，问 GPT 是否需要任何帮助。但我突然想到未来的雇主/客户会看到这个网站。他们会从各个方面对其进行评判（至少我作为一名有抱负的初级开发人员是这么担心的）。话虽如此……你们对此有什么看法？ 提前感谢大家的时间、建议和评论。我仍在努力学习 Reddit 并正确使用它，因此如果我犯了错误，请冷静地纠正我。    提交人    /u/Cameron8325   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvvc45/web_dev_portfolio_does_it_need_to_be_in_html_css/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:44:43 GMT</pubDate>
     </item>
     <item>
-      <title>关于安全使用 API 密钥的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvbf41/question_about_safetly_utlizing_api_key/</link>
-      <description><![CDATA[您好，我是 Web 开发新手。我目前正在使用共享主机开展一个项目，该项目仅使用 NASA Open API 来实现“每日天文图片”。存储此 API 密钥的最佳方式是什么，以便它隐藏但可供客户端访问？它目前被硬编码到 JavaScript 文件中，我认为这不是好的做法。    提交人    /u/zPyrite   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvbf41/question_about_safetly_utlizing_api_key/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:34:24 GMT</pubDate>
+      <title>雇用某人是否值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvuf3t/is_it_worth_it_to_just_hire_someone/</link>
+      <description><![CDATA[我敢肯定这个问题每天都会被问上百次，但我却不知所措。我有一家小公司，需要为其建立一个网站。我对这些都不是很熟悉，所以我不确定我是否能处理好 Wix、Squarespace、Wordpress 等。是否值得直接雇人，还是说一个真正的傻瓜可以自己解决这个问题？如果我要雇人，我应该考虑什么样的预算？ 就背景而言，我的网站需要一些东西。一个商店（因此是人们可以购买服务的界面）、一个日历（以便人们可以安排上述服务）、一个博客部分，可能还有一个关于我的页面。我也教课，需要想办法让我的网站上有这些课程（预先录制的视频或实际的 1：1 在线） 提前感谢任何提示或建议🥺    提交人    /u/kalyahh   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvuf3t/is_it_worth_it_to_just_hire_someone/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:08:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

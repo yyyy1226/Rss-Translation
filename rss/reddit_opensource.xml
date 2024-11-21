@@ -4,20 +4,41 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 20 Nov 2024 12:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:50:40 GMT</lastBuildDate>
+    <item>
+      <title>就开源现状调查发表您的意见</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endurain - 一款开源健身追踪器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</link>
+      <description><![CDATA[大家好， 根据 Strava 最近的 API 新闻，我想在这里分享我的项目“Endurain”：https://github.com/joaovitoriasilva/endurain Endurain 是一种自托管健身追踪服务，旨在让用户完全控制他们的数据和托管环境。构建于： - 前端：Vue.js 和 Bootstrap CSS - 后端：Python FastAPI、Alembic、SQLAlchemy、stravalib 和 python-garminconnect 分别用于 Strava 和 Garmin Connect 集成，gpxpy 和 fitdecode 分别用于 .gpx 和 .fit 文件导入 - 数据库：MariaDB 用于高效的用户数据管理 - 可观察性：Jaeger 用于基本的跟踪和监控 由于 Strava 的变化，我将不得不改变一些东西，但我真的很想听听你对此的意见，也许你对此有所贡献。  谢谢。     提交人    /u/joaovsilva   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 软件安装程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvs2df/windows_software_installer/</link>
+      <description><![CDATA[我决定尝试建立一个网站，该网站可生成一个脚本，您可以运行该脚本在 Windows 上安装软件。目前，它支持 60 多个应用程序，包括浏览器、游戏启动器、通信服务和软件开发工具。 此工具的目标是使计算机的初始设置过程更加简单和流畅，而不是手动导航到每个站点下载这些程序的安装程序。 您可以在 https://easyinstall.zachbaker.dev 找到它。 我想获得一些反馈：  它是否按您认为的方式工作？ 用户界面是否有意义，还是应该将其分解为不同的页面或多个页面？  是否有任何您希望看到但未包含的应用程序？ 还有其他一般反馈吗？  您还可以在 GitHub 上查看源代码。    提交人    /u/ZachT112   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvs2df/windows_software_installer/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我们的开源位置跟踪应用程序构建 E2EE——寻求建议！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvpmcq/building_e2ee_for_our_opensource_location/</link>
+      <description><![CDATA[大家好！👋 不久前，我分享了有关 GroupTrack 的更新，这是我们的开源应用，可帮助群组实时共享其位置。这个社区的反响令人难以置信 - 感谢大家的所有反馈和支持！ 我们现在开始开发一项重要功能：用于位置共享的端到端加密 (E2EE)。我们的目标是确保位置数据的私密性和安全性，同时确保应用保持简单和用户友好。 由于这是一个棘手的领域，我们很乐意听听您的想法！您是否研究过 E2EE 或类似的隐私优先功能？任何建议或资源都将不胜感激。 该项目是开源的，因此如果您好奇或想要做出贡献，这里是 repo：https://github.com/canopas/group-track-android 再次感谢您迄今为止的所有鼓励 - 期待听到您的想法！    提交人    /u/jimmy0251   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvpmcq/building_e2ee_for_our_opensource_location/</guid>
+      <pubDate>Wed, 20 Nov 2024 13:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>FreeCAD 1.0 版发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1gvo2vr/freecad_version_10_released/</link>
       <description><![CDATA[        提交人    /u/buovjaga   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gvo2vr/freecad_version_10_released/</guid>
       <pubDate>Wed, 20 Nov 2024 12:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是与 AI 团队合作的数据科学家吗？其中的数据处理和训练都是在笔记本中完成的，从而减慢了实验速度？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gvmr3n/are_you_a_data_scientist_working_with_an_ai_team/</link>
-      <description><![CDATA[如果您正在寻找一些工具或方法来自动化流程并加快团队的工作流程，请看一下这个： 我最近参与了一个新的开源工具（KitOps），它使用开放标准（如OCI 工件）来打包模型，确保跨环境的兼容性。 它还可以让您：  轻松跨团队协作 仅使用简单命令提取您需要的内容或整个包 标准化AI / ML模型的打包，复制，部署和跟踪，以便它可以在任何地方运行，就像应用程序代码一样  你在寻找这样的东西吗？如果是，您可以在此处了解更多信息    提交人    /u/codes_astro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gvmr3n/are_you_a_data_scientist_working_with_an_ai_team/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:48:18 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好。我正在尝试重新设计我的整个数字环境。我有个缺点，就是太过极端。我做事不能半途而废，所以我想彻底从我的生活中移除 GAFAM。这很难。我一直在想这件事，甚至想着它就是我所做的一切。 我一开始只是使用 Linux（我喜欢），然后我对开源（我喜欢）产生了兴趣，然后我对互联网上的免费软件理念产生了兴趣，现在我想废除所有的 GAFAM。 我一生都在使用 GAFAM，尤其是 Google。我有自己的习惯，并且正在努力寻找 Gmail、Google 日历、Google Drive 等的替代品。我尝试过 Mailo 和 Pro。我尝试过 Mailo 和 Proton，但我真的不满意：Mailo 的基础设施太小而且不可靠，Proton 的 Bridge 有点奇怪（我知道你可以付费）。此外，在这两种情况下，你发送的邮件都有可能被归为垃圾邮件。  还有 Nextcloud，看起来还不错，但对于新手来说需要时间。我不一定拥有这些东西（尽管我已经花了很多时间考虑可以使用的替代方案）。  更重要的是，我是一名学生，没有收入来源。要在网上订购或购买东西，我必须直接问我父亲，这真的很痛苦，因为他不理解。 你觉得我的想法太极端了吗？我有一种印象，对开源和免费软件感兴趣和拥有 Google 帐户是不相容的？当我每天仍在使用 GAFAM 时，当我与某人谈论这些话题时，我会觉得自己像个冒名顶替者吗？我不是说偶尔，而是一直这样：我的邮箱是 Gmail，我的通讯应用程序是 Messenger，等等……  你们当中，是否有人完全支持 Open，但仍在使用微软、谷歌等服务？这不兼容吗？ 感谢您的关注    提交人    /u/ParkingAssociation20   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gv5l6j/is_it_possible_to_reconcile_open_source_and_gafam/</guid>
       <pubDate>Tue, 19 Nov 2024 19:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于观看葡萄牙语动画的 CLI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv4kxa/cli_tool_for_watching_anime_with_portuguese_sub/</link>
-      <description><![CDATA[这是为社区的巴西人和葡萄牙人准备的。试试看！  https://github.com/eduardonery1/ani-tupi    提交人    /u/Enough_Ad_8041   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv4kxa/cli_tool_for_watching_anime_with_portuguese_sub/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vratix CLI：简化后端 API 开发的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv1f9g/vratix_cli_opensource_tool_to_simplify_backend/</link>
-      <description><![CDATA[大家好 r/opensource！我一直在研究 Vratix CLI，这是一个开源工具，可帮助开发人员在几分钟内设置 Node.js API。它附带用户身份验证、Stripe 订阅、交易电子邮件和 S3 文件上传模块。 注意：这是一个早期版本，因此如果您有机会试用它，我很乐意听取您的反馈，了解您认为应该改进的地方或您认为有用的其他功能。输入越多越好！ 您可以根据需要贡献和扩展它，所有这些都可以在 GitHub 上找到。如果您正在寻找新的后端服务的起点，而又不想重新发明轮子，请查看它。  以下是文档和最新的更新日志：vratix.com 很想看看其他人如何贡献或使用它！    提交人    /u/CommissionExact1566   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv1f9g/vratix_cli_opensource_tool_to_simplify_backend/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>想找个地方学习！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</link>
-      <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/代码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

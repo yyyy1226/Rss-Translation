@@ -4,7 +4,56 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 12:47:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:50:00 GMT</lastBuildDate>
+    <item>
+      <title>帮我记住一个视频转换器程序/应用程序的名称</title>
+      <link>https://www.reddit.com/r/software/comments/1gw3pkh/help_me_remember_the_name_of_a_video_converter/</link>
+      <description><![CDATA[（重要：主要用于 YouTube 链接）。所以我正在设置我的新电脑，我喜欢编辑视频。我以前有这个程序，它在这方面做得很好，但我找不到它，如果我没记错的话，我最初是在 reddit 上找到的。它被称为 Scratchy，或者可能是 Glitchy（不是实际的名字，只是想让我挠头）。有点奇怪。应用程序图标有一个奇怪的小红脸，背景是黑色。它可以将任何视频转换为基本上任何格式，并为您将它们全部排序。我知道有很多其他方法可以做到这一点，但这个方法真的很有效。任何帮助都非常感谢。它的名称中可能也有 .io。    提交人    /u/abundleofboomers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw3pkh/help_me_remember_the_name_of_a_video_converter/</guid>
+      <pubDate>Thu, 21 Nov 2024 01:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barcodesoft Awesome QR 将您的链接变成艺术品 – 时尚扫描！</title>
+      <link>https://www.reddit.com/r/software/comments/1gw321o/barcodesoft_awesome_qr_turns_your_links_into_art/</link>
+      <description><![CDATA[Awesome QR 将您的链接或数据转换为令人惊叹的艺术二维码。告别传统的黑白方块 - 我们的设计融入了饼干、披萨和汉堡等创意元素，让您的二维码既实用又美观。    提交人    /u/y0reciv   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw321o/barcodesoft_awesome_qr_turns_your_links_into_art/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>流程图优化</title>
+      <link>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</link>
+      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可以输出 midi 信号到 midi 控制器的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</link>
+      <description><![CDATA[我有一个 MIDI 控制器，它通过 USB 向我的笔记本电脑输出信号。它还可以接收 MIDI 信号来控制控制器内置的 LED。现在，正如标题所示，我正在寻找一个可以通过 USB 向控制器输出 MIDI 信号的简单程序。 Ps. 我需要在 Windows 上运行它    提交人    /u/kikstraa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>paintribbon 静默安装</title>
+      <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
+      <description><![CDATA[有一款名为 paintribbon 的应用，它看起来像 Windows 7 的画图程序，但可以在 Windows 7 之前的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给出了这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该程序安装成功，只是给出了那个错误 是不是因为我使用的是 Windows 11？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>意外删除了系统程序 – 恢复出厂设置后浏览器和媒体无法使用，如何恢复系统文件？</title>
+      <link>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</link>
+      <description><![CDATA[您好， 删除程序时，我意外删除了一个系统程序。我尝试运行浏览器程序，但没有成功。我对设备进行了出厂重置，删除了所有文件，但仍然没有任何变化。Microsoft Edge 和媒体功能都不起作用。我尝试从 Microsoft Store 下载它，但它告诉我它已经安装。 有没有解决方案可以恢复所有系统文件并使浏览器和媒体播放器再次工作？    提交人    /u/M_MRT0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</guid>
+      <pubDate>Wed, 20 Nov 2024 14:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生产系统（ERP）</title>
+      <link>https://www.reddit.com/r/software/comments/1gvpayq/sistema_de_produção_erp/</link>
+      <description><![CDATA[伙计们，我正在努力为我工作的公司寻找软件...  我需要一个程序对某些产品的管理，指出生产成本以及生产过程中可能的损失、库存管理和投入。财务... 我用谷歌搜索了一下，我也在国外寻找一个程序，但我只找到了一个糟糕的程序，即使它是付费的...如果有人知道并可以推荐它，甚至包含这些资源的自动电子表格。我真的很感激...   由   提交/u/Witty_Macaron_2869   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvpayq/sistema_de_produção_erp/</guid>
+      <pubDate>Wed, 20 Nov 2024 13:19:19 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 上音频混合的推荐</title>
       <link>https://www.reddit.com/r/software/comments/1gvoky1/recommendation_for_audio_mixing_on_windows/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[一个，可以工作，不需要下载其他软件即可运行。 可以以最高质量下载。谢谢。    提交人    /u/WrestlingGuru2021   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvfrby/best_tool_online_to_download_your_own_created/</guid>
       <pubDate>Wed, 20 Nov 2024 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于批量检查提示文件是否损坏的程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvdp71/program_to_masscheck_if_cue_files_are_not_broken/</link>
-      <description><![CDATA[有没有什么软件可以让我将其指向一个文件夹，然后它会搜索该文件夹和任何子文件夹中的提示文件，然后验证这些提示文件中的条目是否正确指向实际文件？我一直在做一些维护和重命名，我想确保我没有犯任何拼写错误并破坏其中一些文件。    提交人    /u/Cyber​​_Akuma   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvdp71/program_to_masscheck_if_cue_files_are_not_broken/</guid>
-      <pubDate>Wed, 20 Nov 2024 01:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些可以追踪工作室会员剩余时间的应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvd84s/recommendation_for_app_that_tracks_studio/</link>
-      <description><![CDATA[嗨，有人可以推荐一个调度软件/应用程序，让我们可以为会员分配工作室小时数，并为他们跟踪他们的会员计划中还剩下多少小时以及到期日期？谢谢。    提交人    /u/gentlehours   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvd84s/recommendation_for_app_that_tracks_studio/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助制定软件策略</title>
-      <link>https://www.reddit.com/r/software/comments/1gvcfwb/need_help_creating_software_strategy/</link>
-      <description><![CDATA[我应该为我的公司制定一个软件战略，就像创建一个路线图，说明如何处理我们拥有的 400 多个应用程序（合并、淘汰等）。但我没有软件背景，我的背景是程序管理。任何关于战略方法的建议都将不胜感激！！我是否能快速了解所有工具，以便能够明智地谈论它们？谢谢！！    提交人    /u/Hello_its_me5973   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvcfwb/need_help_creating_software_strategy/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动将下载的视频分类到文件夹中</title>
-      <link>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</link>
-      <description><![CDATA[我下载了很多每周发布的 100% 完全合法的视频，正在寻找一种比手动将它们拖到文件夹中更好的排序方法。我听说过一些关于 jellyfin 的事情，但据我所知，它会将文件的快捷方式放在我想要的文件夹中，同时将实际文件保存在单独的文件夹中。我正在寻找可以像“showS2E04.mp4 移动到 showfolder&gt;season2”这样的方法。有什么想法吗？    提交人    /u/Nobumon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</guid>
-      <pubDate>Tue, 19 Nov 2024 22:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么应用程序我的朋友不会告诉我</title>
-      <link>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</link>
-      <description><![CDATA[https://preview.redd.it/ftkgdfo7hx1e1.png?width=26&amp;format=png&amp;auto=webp&amp;s=35d8b787e90e526de663825f7b93642a5b47790f 我不知道它是什么    提交人    /u/Prior_Ad156   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>列出或汇编黑色星期五特卖的网站？</title>
-      <link>https://www.reddit.com/r/software/comments/1gv8gdn/list_or_site_compiling_black_friday_deals/</link>
-      <description><![CDATA[是否有人知道某个网站/时事通讯/帖子列出了已知的黑色星期五工具或订阅销售信息？    提交人    /u/DarceysEyeOnThePrize   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv8gdn/list_or_site_compiling_black_friday_deals/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>像 Gyazo 一样工作的翻译软件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1gv7xqq/translator_software_that_works_like_gyazo/</link>
-      <description><![CDATA[我正在寻找一种软件，我可以通过拖动来选择一段文本（显然可能是 PDF 格式，我不想复制粘贴到谷歌翻译中）或一张无法复制粘贴的图片，这样我就可以立即进行翻译。基本上就是 gyazo 翻译器，不是为了截图。     提交人    /u/ayanakamuraa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv7xqq/translator_software_that_works_like_gyazo/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:05:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
