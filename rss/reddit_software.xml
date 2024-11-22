@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 15:25:21 GMT</lastBuildDate>
+    <item>
+      <title>什么软件可以制作这样的动画/视频？</title>
+      <link>https://www.reddit.com/r/software/comments/1gx87c2/what_software_does_animationsvideos_like_this/</link>
+      <description><![CDATA[  由    /u/ZUPiTOX  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gx87c2/what_software_does_animationsvideos_like_this/</guid>
+      <pubDate>Fri, 22 Nov 2024 13:46:22 GMT</pubDate>
+    </item>
     <item>
       <title>标记视频</title>
       <link>https://www.reddit.com/r/software/comments/1gx6ydl/tagging_videos/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好， 我想重新绘制我的老式汽车的电气图，我需要某种 CAD 软件来完成此操作（使用图层、不同颜色等）。另外，如果它易于使用，那就更好了。 您能推荐一些软件给我吗？我希望它是免费的（或者更好的是 OSS），并且与 Windows 10 兼容。 谢谢！:)    提交人    /u/menguanito   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gwib4r/cad_software_for_designing_vintage_car_electrical/</guid>
       <pubDate>Thu, 21 Nov 2024 15:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以安全地将启动从其他操作系统更改为 Windows UEFI 吗？（Windows 11）</title>
-      <link>https://www.reddit.com/r/software/comments/1gwh4o7/can_i_safely_change_boot_from_other_os_to_windows/</link>
-      <description><![CDATA[嘿，基本上我对电脑一无所知。我已经安装了几个月的 Windows 11。我可以安全地将启动切换到 Windows UEFI 吗？我读过一些关于 PC 无法启动的恐怖故事。 是的，我的磁盘已设置为 Gpt（据我所知，我在命令提示符中输入了“diskpart”和“disk list”，这就是显示的内容） https://preview.redd.it/1ra42azfj92e1.png?width=457&amp;format=png&amp;auto=webp&amp;s=f4f7f2995e587d23203d5d6fd7e27f914de887e8 编辑：我需要更改它才能玩 Valorant。显然，这是尝试玩此游戏的 Windows 11 用户中常见的问题。我读到您应该将启动更改为 Windows UEFI 并启用安全启动。     由    /u/dinoserpent 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gwh4o7/can_i_safely_change_boot_from_other_os_to_windows/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:09:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
