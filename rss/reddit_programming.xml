@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 24 Nov 2024 01:58:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:36:57 GMT</lastBuildDate>
+    <item>
+      <title>影响科学应用中浮点计算的硬件趋势</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyhte0/hardware_trends_impacting_floatingpoint/</link>
+      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyhte0/hardware_trends_impacting_floatingpoint/</guid>
+      <pubDate>Sun, 24 Nov 2024 03:36:16 GMT</pubDate>
+    </item>
     <item>
       <title>开源冬季代码节！🎉 旨在成为尝试新编程语言的一种有趣方式。如果您感觉很冷淡并想做出贡献，还有几个问题要问。</title>
       <link>https://www.reddit.com/r/programming/comments/1gy9zqu/open_source_winter_code_fest_meant_to_be_a_fun/</link>
@@ -76,7 +83,7 @@
       <pubDate>Sat, 23 Nov 2024 12:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>用 Rust 构建的高性能物联网开发平台，专为多协议支持和实时数据处理而设计。该平台支持 MQTT、WebSockets (WS)、TCP 和 CoAP 协议，可高度灵活地适应各种物联网应用。</title>
+      <title>用 Rust 构建的高性能 IoT 开发平台，专为多协议支持和实时数据处理而设计。该平台支持 MQTT、WebSockets (WS)、TCP 和 CoAP 协议，可高度灵活地适用于各种 IoT 应用。</title>
       <link>https://www.reddit.com/r/programming/comments/1gxy34o/a_highperformance_iot_development_platform_built/</link>
       <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gxy34o/a_highperformance_iot_development_platform_built/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[设计模式是编写可扩展、可维护和可重用代码的秘诀。无论您是在准备面试还是提升技能，理解这些模式都是不可或缺的。🛠️ 查看我关于创建型设计模式的最新文章 - 软件设计中对象创建的基石，其中包含 Java 中的真实示例。深入研究并掌握设计清洁、高效系统的艺术！ 阅读更多🔗：https://medium.com/bitbee/mastering-creational-design-patterns-low-level-design-lld-series-a166a9c60ecc SoftwareEngineering #DesignPatterns #Java #LowLevelDesign #CodingInterviews #SoftwareDevelopmentff    提交人    /u/bitbee01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gxw2rs/creational_deaign_patterns/</guid>
       <pubDate>Sat, 23 Nov 2024 09:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>TYNET 2.0：国际女性黑客马拉松</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxw1l3/tynet_20_international_women_hackathon/</link>
-      <description><![CDATA[TYNET 2.0：由 RAIT ACM W 学生分会主办的国际女子黑客马拉松   资格：仅限女性 第 1 轮：在线，免费注册（2024 年 11 月 21 日开始） 第 2 轮：前 15 支队伍，地点：Nerul 的 Ramrao Adik 理工学院 奖品：₹30,000 或 $355.30 现金、奖池、赠品（待揭晓） 福利：所有参与者均可获得证书  - 详细信息：[rait-w.acm.org/tynet] 如需进一步查询，请发送电子邮件至 tynet.raitacmw@gmail.come     由   提交  /u/Icy_Ad3876   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxw1l3/tynet_20_international_women_hackathon/</guid>
-      <pubDate>Sat, 23 Nov 2024 09:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

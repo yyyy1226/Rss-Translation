@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 24 Nov 2024 01:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:37:28 GMT</lastBuildDate>
     <item>
       <title>幻影</title>
       <link>https://www.producthunt.com/posts/phantomy</link>
@@ -60,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/sentence-studio</guid>
       <pubDate>Thu, 21 Nov 2024 19:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾冰镇酒</title>
-      <link>https://www.producthunt.com/posts/julep-ai</link>
-      <description><![CDATA[
-使用 AI 工作流自动执行浏览器任务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/julep-ai</guid>
-      <pubDate>Thu, 21 Nov 2024 07:26:29 GMT</pubDate>
     </item>
     <item>
       <title>津吉</title>
@@ -146,20 +132,6 @@
       <pubDate>Mon, 18 Nov 2024 05:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>Gan.AI人工智能视频个性化</title>
-      <link>https://www.producthunt.com/posts/gan-ai-ai-video-personalization</link>
-      <description><![CDATA[
-录制一次视频并立即为每个观看者进行个性化设置
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gan-ai-ai-video-personalization</guid>
-      <pubDate>Sun, 17 Nov 2024 15:48:46 GMT</pubDate>
-    </item>
-    <item>
       <title>超级火花 1.0</title>
       <link>https://www.producthunt.com/posts/supersparks-1-0</link>
       <description><![CDATA[
@@ -174,18 +146,46 @@
       <pubDate>Sat, 16 Nov 2024 23:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>数据标注平台</title>
-      <link>https://www.producthunt.com/posts/data-labeling-platform</link>
+      <title>苏禄</title>
+      <link>https://www.producthunt.com/posts/sulu</link>
       <description><![CDATA[
-管理您的计算机视觉数据标签
+几分钟内将您的 API 货币化
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/data-labeling-platform</guid>
-      <pubDate>Tue, 12 Nov 2024 08:40:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/sulu</guid>
+      <pubDate>Sat, 16 Nov 2024 04:46:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Langfuse 提示实验</title>
+      <link>https://www.producthunt.com/posts/langfuse-prompt-experiments</link>
+      <description><![CDATA[
+开源 LLM 工程平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/langfuse-prompt-experiments</guid>
+      <pubDate>Wed, 13 Nov 2024 18:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯普菲特2.0</title>
+      <link>https://www.producthunt.com/posts/spurfit-2-0</link>
+      <description><![CDATA[
+健身行业的 AI 操作系统
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/spurfit-2-0</guid>
+      <pubDate>Sat, 09 Nov 2024 08:53:54 GMT</pubDate>
     </item>
     <item>
       <title>FormStory io</title>
@@ -205,7 +205,7 @@
       <title>网络Tal</title>
       <link>https://www.producthunt.com/posts/networktal</link>
       <description><![CDATA[
-1:1 职业与激情专家辅导
+1:1 专家职业与兴趣指导
 
 
 讨论
