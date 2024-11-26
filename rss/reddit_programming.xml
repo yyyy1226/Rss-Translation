@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 12:48:58 GMT</lastBuildDate>
+    <item>
+      <title>ZooKeeper入门：环境设置和源代码编译</title>
+      <link>https://www.reddit.com/r/programming/comments/1h09xzj/getting_started_with_zookeeper_environment_setup/</link>
+      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h09xzj/getting_started_with_zookeeper_environment_setup/</guid>
+      <pubDate>Tue, 26 Nov 2024 11:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在微服务架构中设计服务发现和负载平衡</title>
+      <link>https://www.reddit.com/r/programming/comments/1h08z3n/designing_service_discovery_and_load_balancing_in/</link>
+      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h08z3n/designing_service_discovery_and_load_balancing_in/</guid>
+      <pubDate>Tue, 26 Nov 2024 10:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费添加日历链接生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h08v0i/free_addtocalendar_link_generator/</link>
+      <description><![CDATA[  由    /u/AnotherWallace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h08v0i/free_addtocalendar_link_generator/</guid>
+      <pubDate>Tue, 26 Nov 2024 10:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>乳房</title>
+      <link>https://www.reddit.com/r/programming/comments/1h08ag9/boobies/</link>
+      <description><![CDATA[  由    /u/MulberryFinal3205  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h08ag9/boobies/</guid>
+      <pubDate>Tue, 26 Nov 2024 09:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>您应该了解的 17 个 Microsoft Azure 工作流自动化</title>
+      <link>https://www.reddit.com/r/programming/comments/1h07y30/17_microsoft_azure_workflow_automations_you/</link>
+      <description><![CDATA[  由    /u/fatillaid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h07y30/17_microsoft_azure_workflow_automations_you/</guid>
+      <pubDate>Tue, 26 Nov 2024 09:26:43 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Windows 95 安装使用三个操作系统？</title>
       <link>https://www.reddit.com/r/programming/comments/1h07ldp/why_did_windows_95_setup_use_three_operating/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gzylbn/getting_a_pointer_to_a_constant_in_go/</guid>
       <pubDate>Tue, 26 Nov 2024 00:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>事务对象存储？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzyk07/transactional_object_storage/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzyk07/transactional_object_storage/</guid>
-      <pubDate>Tue, 26 Nov 2024 00:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>随时间计算：微架构奇异机器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzyjo9/computing_with_time_microarchitectural_weird/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzyjo9/computing_with_time_microarchitectural_weird/</guid>
-      <pubDate>Tue, 26 Nov 2024 00:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 封装解决布尔可满足性和整数规划问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzyj4c/solving_boolean_satisfiability_and_integer/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzyj4c/solving_boolean_satisfiability_and_integer/</guid>
-      <pubDate>Tue, 26 Nov 2024 00:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 的模型上下文协议 (MCP)</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzwnxr/anthropics_model_context_protocol_mcp/</link>
-      <description><![CDATA[  由    /u/Weary-Database-8713  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzwnxr/anthropics_model_context_protocol_mcp/</guid>
-      <pubDate>Mon, 25 Nov 2024 22:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样才是好的变更日志？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzwbza/what_makes_a_good_changelog/</link>
-      <description><![CDATA[  由    /u/Smooth-Loquat-4954  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzwbza/what_makes_a_good_changelog/</guid>
-      <pubDate>Mon, 25 Nov 2024 22:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

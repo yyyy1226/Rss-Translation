@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 12:48:04 GMT</lastBuildDate>
+    <item>
+      <title>💻 提供 Web 自动化和数据抓取服务！让您的想法变成现实 ✨</title>
+      <link>https://www.reddit.com/r/automation/comments/1h09g56/offering_web_automation_data_scraping_services/</link>
+      <description><![CDATA[嘿！如果你们心中有一些项目想法，比如网络自动化和数据抓取，我会帮助你把想法变成现实，另外不用担心，我不会收太多钱✨，如果你有兴趣，请直接告诉我你的预算和项目想法，谢谢😊    提交人    /u/RogeXOP   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1h09g56/offering_web_automation_data_scraping_services/</guid>
+      <pubDate>Tue, 26 Nov 2024 11:13:07 GMT</pubDate>
+    </item>
     <item>
       <title>感谢 AI 和 NAS 为我女儿的相册照片排序节省了数小时的时间</title>
       <link>https://www.reddit.com/r/automation/comments/1h06855/shoutout_to_ai_nas_for_saving_me_hours_sorting/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>聊天机器人</title>
       <link>https://www.reddit.com/r/automation/comments/1gzutkv/chatbots/</link>
-      <description><![CDATA[对于那些已经制作了人工智能聊天机器人的人来说，这种聊天机器人可以回答问题并提供建议，而不仅仅是发送电子邮件，你们能够帮助哪些类型的企业？     提交人    /u/saneversion   [link] [comments]]]></description>
+      <description><![CDATA[对于那些已经制作了人工智能聊天机器人的人来说，这种聊天机器人不仅可以发送电子邮件，还可以回答问题并提供建议，你们能够帮助哪些类型的企业？    提交人    /u/saneversion   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gzutkv/chatbots/</guid>
       <pubDate>Mon, 25 Nov 2024 21:42:50 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[我很高兴介绍Need For Apps——我的全新 YouTube 频道！🎉 在这个频道上，我将探讨无代码开发、MVP 构建、AI 驱动的应用程序等主题。无论您是开发人员、企业家还是对创建创新解决方案感兴趣的人，这个频道都能满足您的需求！💡 👉 在此处查看第一个视频： https://youtu.be/2lnnrjlsfu0 不要忘记订阅并分享您的想法。我们可以共同让应用程序开发变得更智能、更快速、更具可扩展性！ #NoCode #AIApps #MVP #Automation #Startup #Innovation    提交人    /u/Sadeed_Ameen   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gxnyrp/exciting_news/</guid>
       <pubDate>Sat, 23 Nov 2024 01:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 是否是在其他系统上实现自动化、不需要解释器的最佳方式？</title>
-      <link>https://www.reddit.com/r/automation/comments/1gxlzs1/is_rust_the_best_way_to_automate_on_other_systems/</link>
-      <description><![CDATA[我目前自动化了包含超过 30 万条记录的电子表格，并将它们与其他电子表格进行交叉引用。但是，该过程需要编译二进制文件并将其传递给需要运行它的系统。由于数据会根据人力资源提供的内容而变化，我经常发现自己重新创建可重复使用的函数来将 CSV 转换为 JSON，然后重复该过程。 使用 c# cli 感觉像是一件苦差事，因为它需要为我需要自动化的每个任务重新创建一个解决方案。不幸的是，python 不是一个选项，因为它需要在多达 17k 个系统上安装解释器，安全已将其标记为一个问题。另一方面，我已获得 Visual Studio 许可证来为我们部门自动化任务，该部门仍然严重依赖手动流程。由于 Rust 不需要解释器，我将其视为自动执行这些任务的潜在解决方案。    提交人    /u/fetid-fingerblast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gxlzs1/is_rust_the_best_way_to_automate_on_other_systems/</guid>
-      <pubDate>Fri, 22 Nov 2024 23:48:46 GMT</pubDate>
     </item>
     <item>
       <title>如何自动向不同的客户发送 200 份 PDF 发票？</title>
