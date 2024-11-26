@@ -4,20 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 12:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 15:26:50 GMT</lastBuildDate>
+    <item>
+      <title>Python 中的隐写术工具 + 算法</title>
+      <link>https://www.reddit.com/r/software/comments/1h0c5gq/steganography_tool_algo_in_python/</link>
+      <description><![CDATA[  由    /u/MrCactochan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0c5gq/steganography_tool_algo_in_python/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的小米耳机的麦克风降噪效果很差（实际上它们似乎会放大噪音）。有没有一款应用可以改善 Android 系统范围内的麦克风降噪效果，以便所有应用（包括视频/音频通话）都能更好地抑制噪音？</title>
+      <link>https://www.reddit.com/r/software/comments/1h0bu3v/my_xiaomi_earbuds_have_terrible_microphone_noise/</link>
+      <description><![CDATA[  由    /u/allexj  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0bu3v/my_xiaomi_earbuds_have_terrible_microphone_noise/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于缺少文件，无法安装 Sandboxie Plus</title>
+      <link>https://www.reddit.com/r/software/comments/1h0b5cl/cant_install_sandboxie_plus_due_to_missing_file/</link>
+      <description><![CDATA[我已经安装并重新安装了 Sandboxie Plus，并收到以下消息： https://preview.redd.it/mzytkgous83e1.png?width=404&amp;format=png&amp;auto=webp&amp;s=199891882d5cd6f0c68850cba3ee4862171e3693 https://preview.redd.it/3frjqquct83e1.png?width=411&amp;format=png&amp;auto=webp&amp;s=2b53e38e92a19e6413b8d9a4e9bfdb570bb54f09 我已从 https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.15.2/Sandboxie-Plus-x64-v1.15.2.exe 我试过 &#39;x86&#39; 版本，但由于不兼容，无法安装。有什么解决办法吗？不确定从某个随机网站下载 &#39;.dll&#39; 文件是否可行，如果这是解决办法，那么应该把它放在哪里？    提交人    /u/Samta752   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0b5cl/cant_install_sandboxie_plus_due_to_missing_file/</guid>
+      <pubDate>Tue, 26 Nov 2024 12:53:03 GMT</pubDate>
+    </item>
     <item>
       <title>当我将第三方游戏手柄控制器连接到蓝牙时，出现了问题……</title>
       <link>https://www.reddit.com/r/software/comments/1h0alo0/im_having_an_issue_with_a_third_party_gamepad/</link>
       <description><![CDATA[显然，以下用户也遇到过我的问题，但他没有找到解决方案 假 ps3 控制器无法通过蓝牙连接，提示驱动程序错误 - Microsoft 社区 有线连接时，我的控制器注册为 xbox 360，可以即插即用。但通过蓝牙连接时，却不行... 有趣的是，它可以完美地与我的手机配合使用。是桌面导致了这个问题\ 所以基本上是找到一个安装后不会出现此错误的软件驱动程序。 摘要：在设备中管理器，蓝牙 HID 设备出现代码 10 错误消息.. 控制器连接到计算机并突然关闭，之前的“已连接”文本现在变成驱动程序错误.. Win 10 和 11 有同样的问题    提交人    /u/aliathar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h0alo0/im_having_an_issue_with_a_third_party_gamepad/</guid>
       <pubDate>Tue, 26 Nov 2024 12:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个大项目急需一名技术合作伙伴！</title>
-      <link>https://www.reddit.com/r/software/comments/1h0ad6m/need_a_tech_partner_asap_for_a_big_project/</link>
-      <description><![CDATA[嗨！ 我正在开发一个平台，解决数十万人面临的实际日常问题。这项服务的市场巨大，需求不容置疑——我已经做了研究来证明这一点。该平台的核心围绕数据：访问数​​据、管理数据并将其转化为对用户真正有价值的东西。虽然技术挑战很大，但这正是这个项目令人兴奋的原因。 这是我所寻找的：  强大的后端和前端开发技能。 具有 API、集成和数据密集型系统方面的经验。 渴望构建有影响力的东西的合作伙伴。  关于我：我建立了一个拥有 600 多个客户的电子商务商店，开发了一种智能停车收费表产品以减少罚款，并致力于心理健康平台的开发。我已经处理了这个项目的法律和市场研究——现在我正在寻找合适的合作伙伴和我一起解决技术方面的问题。 如果您对创建一个可以帮助数十万人的平台的想法感到兴奋，如果这听起来像您的项目，请随时给我留言！    提交人    /u/Feeling_Phase8463   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h0ad6m/need_a_tech_partner_asap_for_a_big_project/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:09:13 GMT</pubDate>
     </item>
     <item>
       <title>将 WhatsApp 转换为带有语音消息参考的 pdf 的软件。</title>
@@ -29,7 +43,7 @@
     <item>
       <title>AtlasInstall 包管理器</title>
       <link>https://www.reddit.com/r/software/comments/1h08yc2/atlasinstall_package_manager/</link>
-      <description><![CDATA[这是我的最新项目 AIPM（AtlassInstall Pkg Manager）AtlasInstall GH repo 要求： Windows 24H2 或更高版本，用于 sudo 命令 您可以以管理员身份使用旧版本的 powershell 支持 Potato PC 目前缺少 UploadPkgApp    提交人    /u/Orbi_Adam   [link] [评论]]]></description>
+      <description><![CDATA[这是我的最新项目 AIPM (AtlassInstall Pkg Manager) AtlasInstall GH repo 要求： Windows 24H2 或更高版本，用于 sudo 命令 您可以在旧版本中以管理员身份使用 powershell 支持 Potato PC 目前缺少 UploadPkgApp    提交人    /u/Orbi_Adam   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h08yc2/atlasinstall_package_manager/</guid>
       <pubDate>Tue, 26 Nov 2024 10:40:07 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>寻找垃圾箱路线软件</title>
       <link>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</link>
-      <description><![CDATA[我正在尝试寻找一种软件，通过识别哪些任务最接近以最大限度地减少旅行时间，帮助优化我的垃圾箱公司的路线。但是，当某些任务（例如卸货、取货或交换）由于紧急或特定截止日期而必须优先处理时，我还需要灵活性来手动覆盖路线。这是我可以借助 AI 或已经创建的软件来完成的事情吗？ 关键细节：  任务类型： 投放：将空垃圾箱运送到客户现场。 取货：收集满的垃圾箱并将其运送到六个当地垃圾填埋场之一。 交换：在客户所在地将满的垃圾箱换成空的垃圾箱。  垃圾箱尺寸：我们管理 15、20 和 30 码的垃圾箱。如果某项任务需要卡车目前没有的特定尺寸，则必须先在我们的院子里将其换出。 垃圾填埋场注意事项：必须根据距离和运营效率将装满的垃圾箱运送到附近的六个垃圾填埋场之一。 车队详情： 我们运营两辆卡车，因此必须以最有效的方式在它们之间分配任务。  灵活性和覆盖：软件应根据距离和工作量自动创建优化路线，但允许我调整时间表以在必要时优先处理某些任务。     提交人    /u/ArabBak   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试寻找一种软件，通过识别哪些任务最接近以最大限度地减少旅行时间，来帮助优化我的垃圾箱公司的路线。但是，当某些任务（例如卸货、取货或交换）由于紧急或特定截止日期而必须优先处理时，我还需要灵活性来手动覆盖路线。这是我可以借助 AI 或已经创建的软件来完成的事情吗？ 关键细节：  任务类型： 投放：将空垃圾箱运送到客户现场。 取货：收集满的垃圾箱并将其运送到六个当地垃圾填埋场之一。 交换：在客户所在地将满的垃圾箱换成空的垃圾箱。  垃圾箱尺寸：我们管理 15、20 和 30 码的垃圾箱。如果某项任务需要卡车目前没有的特定尺寸，则必须先在我们的院子里将其换出。 垃圾填埋场注意事项：必须根据距离和运营效率将装满的垃圾箱运送到附近的六个垃圾填埋场之一。 车队详情： 我们运营两辆卡车，因此必须以最有效的方式在它们之间分配任务。  灵活性和覆盖：软件应根据距离和工作量自动创建优化路线，但允许我调整时间表以在必要时优先处理某些任务。     提交人    /u/ArabBak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</guid>
       <pubDate>Tue, 26 Nov 2024 01:14:35 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我已经使用 Drevo Owl 无线鼠标大约 3-4 年了，并且已经使用两个快捷键映射了侧面按钮：ALT+TAB 和 CTRL+Z。 问题是现在我想重新映射这些按钮，但我不再拥有原始软件，因为它在我的旧笔记本电脑上。不幸的是，Drevo 的官方网站上没有任何可用内容。 我也尝试使用 X-Mouse Button Control，但它无法检测到侧面按钮。 有人知道我如何重新映射按钮或找到原始软件吗？任何帮助都将不胜感激！    提交人    /u/Habeeb_2005   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gzsill/how_to_remap_drevo_owl_wireless_mouse_side_buttons/</guid>
       <pubDate>Mon, 25 Nov 2024 20:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个志愿者组织的考勤系统</title>
-      <link>https://www.reddit.com/r/software/comments/1gzrpe6/need_a_system_for_attendance_for_a_volunteer_org/</link>
-      <description><![CDATA[志愿者组织每周举办培训和其他“研讨会”类型的会议。 寻找可以邀请选定用户注册并在他们计划参加由管理员加载的各种培训晚会和其他额外研讨会时进行标记的东西。 然后需要能够查看计划参加每个活动的人员列表并为每个人存储某种出勤统计信息。 需要适合移动设备，并且最好不要太忙/复杂/充满我们不需要的功能。 有人知道类似的东西吗？当前使用 ClickUp 的日历功能，但它没有我们需要的任何其他功能。  所需功能： 每个活动的类别（例如培训、研讨会、评论） 用户在查看/参加之前注册 用户出席情况统计 适合移动设备 为每个活动制作一个参加者的注册表     提交人    /u/OkCommunication2407   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzrpe6/need_a_system_for_attendance_for_a_volunteer_org/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD 创作软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gzr22g/dvd_authoring_software/</link>
-      <description><![CDATA[大家好，多年来我一直在寻找兼容 Mac 的 DVD 制作软件，以便制作嵌套菜单。我正在尝试制作一个非常基本的交互式 DVD“点击”游戏/项目，但似乎我晚了 15 年。我尝试过的所有东西都被削弱到完全无法使用的地步。Wondershare....Burn....DvdCreatorPro....CisdemVideoBurner...... 都是垃圾。 曾经有一款 100% 完美的 Adob​​e 应用程序，但现在实际上不可能获得它。我花了无数的时间在论坛、客户服务热线...等等上搜索。 想知道是否有人有线索，因为我已经有几年没有认真寻找了。 谢谢！    提交人    /u/BeerDrinker9000   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzr22g/dvd_authoring_software/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:12:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

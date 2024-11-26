@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 12:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 15:27:17 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我是一家位于黎巴嫩贝鲁特的非营利组织，我想找一名开发设计师来创建一个与 pairagraph.com 非常相似并附加一些功能的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0e2a1/hi_guys_i_am_a_nonprofit_org_based_in_beirut/</link>
+      <description><![CDATA[有人可以帮我们做吗？做这个要花多少钱？谢谢。    提交人    /u/Hayasdan2020   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0e2a1/hi_guys_i_am_a_nonprofit_org_based_in_beirut/</guid>
+      <pubDate>Tue, 26 Nov 2024 15:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gamespot API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0e0fg/gamespot_api/</link>
+      <description><![CDATA[      有人用过 Gamespot 游戏 API 吗？我正在尝试，但似乎太复杂了。有许多端点，每个端点都有特定的字段。我需要来自评论端点的评论分数，该端点在结果中还有一个游戏对象，其 id 和名称以及一个发布对象，其中包含每个游戏的多个版本数组（按地区或版本）。然后是游戏和发布端点。游戏包含诸如名称、发布日期、描述、卡牌、封面图像对象等字段、流派数组等。发布端点似乎是唯一具有平台、年龄分级、出版商和开发者字段的端点。每个评论和发布都有自己的 id。评论中的游戏对象中似乎有一个游戏 id，然后我可以在游戏端点中访问同一个游戏，但该 id 不会在发布端点中返回同一个游戏。我只是发现让所有这些分布在众多端点上的字段对齐同一个游戏非常具有挑战性。一定有更简单的方法。    由    /u/mattsteen14  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0e0fg/gamespot_api/</guid>
+      <pubDate>Tue, 26 Nov 2024 15:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>就这样吧？我们完蛋了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0cy1o/so_that_was_it_right_we_are_fd/</link>
+      <description><![CDATA[我是高级软件开发人员，全栈。14 年经验。我曾在多家公司工作过，也签过几份合同。我现在在一家公司工作，我相当满意 - 我想他们对我也满意 - 我真的很喜欢我的工作，但几周前我开始检查市场状况，结果发现情况很糟糕。申请了 6 或 7 份工作只是为了评估情况，收到了 2 封拒绝邮件，剩下的只是沉默。我们基本上完蛋了，不是吗？这么多年的努力和学习，最终和其他人一样，为一些平均薪资的工作而激烈竞争。我是不是夸大其词了？ 顺便说一句，提前道歉。英语不是我的母语，这只是一篇吐槽，所以我猜有很多错误   由    /u/Comfortable_Kiwi_937  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0cy1o/so_that_was_it_right_we_are_fd/</guid>
+      <pubDate>Tue, 26 Nov 2024 14:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐一下礼品卡解决方案吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0cuav/recommend_a_gift_card_solution/</link>
+      <description><![CDATA[我需要添加一个第三方系统的链接，允许用户为我表弟的驾校购买礼品卡。卡将亲自兑换，余额将由驾驶员手动更新。礼品卡只有 5 个值可用。 理想情况下，创建卡时会有要通过电子邮件发送或打印的内容。 有人使用过任何不错的解决方案吗？    提交人    /u/albert_pacino   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0cuav/recommend_a_gift_card_solution/</guid>
+      <pubDate>Tue, 26 Nov 2024 14:14:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频系列，讲述某人从头开始构建全栈 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0cnrt/video_series_where_someone_builds_a_fullstack_web/</link>
+      <description><![CDATA[大家好，我正在寻找一个视频或视频系列，其中有人从头开始构建一个全栈 Web 应用程序 - 最好是无脚本或直播的。我想看到从开发到生产的整个过程，包括测试、最佳实践等。 如果项目使用 PERN 堆栈，我会很高兴，但我对整体方法和解决问题更感兴趣，所以任何堆栈都可以。我发现的大多数视频都是精美的教程，主要针对初学者，其中所有内容都经过完美剪切和编辑。我在寻找更原始和更现实的东西。 有什么建议吗？    提交人    /u/Lostpollen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0cnrt/video_series_where_someone_builds_a_fullstack_web/</guid>
+      <pubDate>Tue, 26 Nov 2024 14:06:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何从 OpenAI 语音模式复制这个“云雾状” gif？有什么工具吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0cerf/how_can_i_replicate_this_cloudy_floud_like_gif/</link>
+      <description><![CDATA[        提交人    /u/Joao_Jacques   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0cerf/how_can_i_replicate_this_cloudy_floud_like_gif/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入 TYNET 2.0：通过 24 小时国际黑客马拉松增强女性科技力量！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0c8d4/join_tynet_20_empowering_women_in_tech_through_a/</link>
+      <description><![CDATA[RAIT ACM W 学生分会呈现…… ⚜️ TYNET 2.0：国际女性黑客马拉松⚜️ “代码是未来的语言；您写的每一行都会构建未来的世界。” 🔸 资格标准：仅限女性 🔰 第 1 轮 方式：在线 注册开始日期：2024 年 11 月 21 日 免费 第 1 轮截止日期：2024 年 12 月 10 日 15 支队伍晋级第 2 轮🎉 📍 第 2 轮地点：Ramrao Adik 理工学院，Nerul 🌐 TYNET 官方网站：rait-w.acm.org/tynet 💸 现金奖励 30,000 印度卢比 🎁 奖池和好东西即将揭晓！🌟 ✅ 所有参与者的证书 🚀 立即在 Unstop 上注册 https://unstop.com/o/NyFcYPl?lb=9JFiN2QW&amp;utm_medium=Share&amp;utm_source=shortUrl 📄 查看手册： https://drive.google.com/file/d/1pYgRS38yGjJSgHN6C8dj2DJuxO1qU8-l/view?usp=sharing 如有任何疑问，请联系： 📧 [tynet.raitacmw@gmail.com](mailto:tynet.raitacmw@gmail.com) 📧 [reachraitacmw@gmail.com](mailto:reachraitacmw@gmail.com) TYNET 2.0 见！🚀    提交人    /u/Suitable-Alps-6451   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0c8d4/join_tynet_20_empowering_women_in_tech_through_a/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法使用 GoDaddy DNS 在 Netlify 上运行 HTTPS – 卡住了，需要帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0c5c6/cant_get_https_working_on_netlify_with_godaddy/</link>
+      <description><![CDATA[大家好， 当我的域名在 GoDaddy 上注册时，我很难为托管在 Netlify 上的网站设置 HTTPS。我一直在来回切换名称服务器、调整 DNS 设置并重试验证，但就是无法让 Netlify 为 HTTPS 配置 SSL/TLS 证书。 情况如下： 域：已在 GoDaddy 注册。 托管：Netlify（从 GitHub 中提取）。 名称服务器：当前使用 GoDaddy 的默认服务器（ns55.domaincontrol.com 和 ns56.domaincontrol.com），因为它们在 DNS 区域中似乎不可删除或更改。 GoDaddy 中的 DNS 记录： A 记录：指向 Netlify 的 IP（75.2.60.5 和 99.83.229.76）。 www 的 CNAME：指向 sitename.netlify.app。 Netlify 设置： 添加了自定义域（sitename.com 作为主要域，www.sitename.com 重定向到该域）。 问题是，当我尝试启用 HTTPS 时，Netlify 一直给我“DNS 验证失败”错误。我试过：  切换到 Netlify 的名称服务器（但 GoDaddy 不允许我删除 DNS 区域内的 NS 记录）。 坚持使用 GoDaddy 的默认名称服务器，并确保按照 Netlify 的建议配置 A 和 CNAME 记录。 等待传播（24 小时以上）后重试 DNS 验证。  无论我尝试什么，我都停留在同一个位置。这很令人沮丧，因为我似乎也无法删除或覆盖 GoDaddy 中的那些默认 NS 记录。  有人之前处理过这个问题吗？或者有关于如何修复它的建议吗？我应该完全切换到 Netlify 的 DNS 并在那里管理所有内容，还是有解决 GoDaddy 中 NS 记录的变通方法？任何帮助都将不胜感激！谢谢！    提交人    /u/ElVerdaderoGatoFiero   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0c5c6/cant_get_https_working_on_netlify_with_godaddy/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:42:23 GMT</pubDate>
+    </item>
     <item>
       <title>用户界面和旅程测试</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0b0ir/user_interface_journey_testing/</link>
@@ -15,7 +71,7 @@
     <item>
       <title>这有什么问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0am0x/whats_the_problem_with_this/</link>
-      <description><![CDATA[      在任何浏览器中，我使用来查看嵌入 YouTube 视频的网页，都无法播放，因为 YouTube 阻止了访问。我该如何解决这个问题？我已使用该 src 代码来嵌入 YouTube 视频。请帮助解决这个问题。 Edge 上出现错误 Opera 上出现错误 Google Chrome 上出现错误    提交人    /u/Ha_1133   [link] [评论] ]]></description>
+      <description><![CDATA[      在我用来查看嵌入 YouTube 视频的网页的任何浏览器中，我都无法播放它，因为 YouTube 阻止了访问。我该如何解决这个问题？我已使用该 src 代码来嵌入 YouTube 视频。请帮助解决这个问题。 Edge 上出现错误 Opera 上出现错误 Google Chrome 上出现错误    提交人    /u/Ha_1133   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0am0x/whats_the_problem_with_this/</guid>
       <pubDate>Tue, 26 Nov 2024 12:23:14 GMT</pubDate>
     </item>
@@ -29,7 +85,7 @@
     <item>
       <title>如何在现有项目上使用 React</title>
       <link>https://www.reddit.com/r/webdev/comments/1h09b41/how_do_i_use_react_on_an_already_existing_project/</link>
-      <description><![CDATA[我和另外 2 个朋友正在为大学做这个项目，我们的项目中有很多文件和文件夹，但后来我了解了 react.js，我做了一个很酷的注册页面，适合我们的项目，但我不知道如何安装和实施 react.js 到我的项目中。（如果我的措辞令人困惑，请原谅，我会尽力回答任何问题以进一步解释或回答 dms）    提交人    /u/Effective_Pain_7233   [链接] [评论]]]></description>
+      <description><![CDATA[我和另外 2 个朋友正在为大学做这个项目，我们的项目中有很多文件和文件夹，我们已经取得了很大进展，但后来我了解了 react.js，我制作了一个很酷的注册页面，适合我们的项目，但我不知道如何安装和实施 react.js 到我的项目中。（如果我的措辞令人困惑，请原谅，我会尽力回答任何问题以进一步解释或回答 dms）    提交人    /u/Effective_Pain_7233   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h09b41/how_do_i_use_react_on_an_already_existing_project/</guid>
       <pubDate>Tue, 26 Nov 2024 11:03:52 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h08g1h/the_most_annoying_cookie_banners_ever/</guid>
       <pubDate>Tue, 26 Nov 2024 10:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>相对数据库的 pad 不起作用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h088hb/relative_pad_to_database_not_working/</link>
-      <description><![CDATA[有人可以帮我解决这个问题吗？我有一个（python）脚本用于将 JSON 密钥插入数据库（database.db）（参见下面的代码）： import json import sqlite3 class QuestionDatabase: def __init__(self, json_file, db_file): self.json_file = json_file self.db_file = db_file self.conn = None self.cursor = None def connect(self): &quot;&quot;&quot;与 SQLite 数据库建立连接。&quot;&quot;&quot; self.conn = sqlite3.connect(self.db_file) self.cursor = self.conn.cursor() def load_data(self): &quot;&quot;&quot;解析 JSON/加载 JSON 包。&quot;&quot;&quot;使用 open(self.json_file, &#39;r&#39;) 作为文件： data = json.load(file) 返回数据 def insert_questions(self, data): &quot;&quot;&quot;SQL 查询&quot;&quot;&quot; for item in data: question = item.get(&#39;question&#39;) question_id = item.get(&#39;question_id&#39;) self.cursor.execute(&#39;&#39;&#39; INSERT INTO questions (questions_id, question) VALUES (?, ?)&#39;&#39;&#39;, (question_id, question)) def commit_and_close(self): &quot;&quot;&quot;关闭数据库后进行随机提交和绑定。&quot;&quot;&quot; self.conn.commit() self.conn.close() def run(self): &quot;&quot;&quot;主运行功能&quot;&quot;&quot; self.connect() data = self.load_data() print(json.dumps(data, indent=7)) # 打印数据用于调试 self.insert_questions(data) self.commit_and_close() print(&#39;Data succesvol ingevoegd&#39;) # 用法 if __name__ == &quot;__main__&quot;: db = QuestionDatabase(&#39;../questions_extract.json&#39;, &#39;../databases/database.db&#39;) db.run()  此 .py 文件位于我的模型目录中。在代码底部，我使用相对键盘将计算机定向到数据库并运行（插入密钥没有问题）。但是，当我使用相同的相对键盘连接我的 app.py 中的数据库时，我收到 SQLite 无法连接到数据库的错误。我必须像这样编写代码才能使其工作： from flask import Flask, render_template import sqlite3 app = Flask(__name__) def get_questions(): &quot;&quot;&quot; 转到数据库&quot;&quot;&quot; conn = sqlite3.connect(&#39;/Users/raissalimon/PycharmProjects/wp2-2024-mvc-1a4-codegirls-1/databases/database.db&#39;) cursor = conn.cursor() cursor.execute(&#39;&#39;&#39;SELECT questions_id, question FROM questions&#39;&#39;&#39;) questions = cursor.fetchall() print(questions) conn.close() return questions  但是，这个项目是学校的一个小组项目，我的其他队友也必须使用这个代码。我现在使用绝对 pad 的问题在于 - 我认为 - 它指的是我的本地地图，这对它们来说是不同的。我怀疑会因为这个绝对 pad 而收到错误消息。我该如何更改代码以便使用我在 QuestionDatabase 文件中使用的相同路径？    提交人    /u/Available_Giraffe_36   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h088hb/relative_pad_to_database_not_working/</guid>
-      <pubDate>Tue, 26 Nov 2024 09:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 页面中正确渲染 Markdown？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h07yhm/proper_markdown_render_in_a_react_page/</link>
-      <description><![CDATA[      嗨， 有没有正确的方式来“渲染”？ markdown 输入/文本到具有正确格式的反应页面？ 我已经使用了语法，但它仍然给我一个简单的格式（即没有枚举，间距，缩进） &lt;ReactMarkdown&gt;{summary}&lt;/ReactMarkdown&gt;  我已经尝试使用 ChatGPT 进行操作，但无济于事，只是来回折腾，没有找到明确的解决方案。 我该如何处理？ https://preview.redd.it/0wn8bv2qs73e1.png?width=2140&amp;format=png&amp;auto=webp&amp;s=1e33a609cf5708f242173ca037c81598c270a8bc    由   提交  /u/bentraje   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h07yhm/proper_markdown_render_in_a_react_page/</guid>
-      <pubDate>Tue, 26 Nov 2024 09:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管无后端 Astro 网站的最便宜方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h07u91/cheapest_way_to_host_a_backendless_astro_website/</link>
-      <description><![CDATA[目前它基本上有 2 个页面，没有后端，显示的所有数据都是与构建文件夹一起提供的 markdown。我预计会有很多流量。 愿意自己在 AWS 上托管它，但不太确定最佳设置是什么。也愿意接受服务。 谢谢！    提交人    /u/Practical_Race_3282   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h07u91/cheapest_way_to_host_a_backendless_astro_website/</guid>
-      <pubDate>Tue, 26 Nov 2024 09:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何吓跑你的投稿者：资深人士对平台动荡的看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h07ku0/how_to_scare_your_contributors_away_a_veterans/</link>
-      <description><![CDATA[    /u/blakewarburtonc   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h07ku0/how_to_scare_your_contributors_away_a_veterans/</guid>
-      <pubDate>Tue, 26 Nov 2024 08:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>这怎么可能呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h06h2y/how_is_this_possible/</link>
-      <description><![CDATA[我的一个客户要求我创建类似于这个turninghearts.com的东西。他们有一个网络应用程序（app.turninghearts.com），人们可以在其中上传和保存（无限的）照片。我不明白的是，从成本角度来看，这种业务如何运作？他们为个人资料收取一次性费用，但AWS S3 账单每个月都在增长。AWS 账单最终会不会变得太大，以至于他们无法支付？任何有关此事的解释或经验都将不胜感激    提交人    /u/Dvorator1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h06h2y/how_is_this_possible/</guid>
-      <pubDate>Tue, 26 Nov 2024 07:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试创建一个网页，其中有四个连续的视频框，可在悬停时播放。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h060z0/i_am_trying_to_create_a_webpage_with_four_video/</link>
-      <description><![CDATA[伙计们，我有这个视频库的 HTML、CSS 和 JS，并使用 Codepen 对其进行了测试。它工作正常。现在我想了解如何使用 Block 编辑器将其包含在 wordpress 中。我不是技术人员    提交人    /u/Few-Comfort6272   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h060z0/i_am_trying_to_create_a_webpage_with_four_video/</guid>
-      <pubDate>Tue, 26 Nov 2024 07:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您觉得我关于验证码的想法怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h04vvb/what_do_you_think_of_my_idea_for_captchas/</link>
-      <description><![CDATA[我在思考 CAPTCHA 如何让机器人更轻松地解决，这让我有了一个新的想法。如果 CAPTCHA 可以专注于人类独有的东西，比如情绪，会怎么样？ 这是我的概念：想象一个 CAPTCHA，您阅读一段短文，然后选择两件事：  文章的主要思想。 作者试图传达的情绪。  两者都是多项选择题。 这个想法是，人类很容易识别情绪或中心主题，但机器人很难解读人类表达的微妙之处。 您觉得如何？您认为这可能是对抗机器人的有效方法吗，或者我没有考虑到这种方法中的潜在缺陷？    提交人    /u/brainy7890   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h04vvb/what_do_you_think_of_my_idea_for_captchas/</guid>
-      <pubDate>Tue, 26 Nov 2024 05:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚开源了一个优化图像的 GitHub 动作。支持 PNG、JPG/JPEG、WEBP、AVIF 和 SVG。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h03s9s/just_opensourced_a_github_action_that_optimizes/</link>
-      <description><![CDATA[      大家好， 如果您有一个将图像存储在存储库中的工作流程。请尝试我的新工具，它将自动为您优化/压缩图像，为您提供最小的图像尺寸。它还可以将 PNG、JPG/JPEG 导出为 WEBP 和 AVIF。它基本上是 Imgbot 的免费开源替代品。 如果您尝试一下。很乐意听到反馈。 图像优化器操作 · 操作 · GitHub Marketplace https://preview.redd.it/kxlumx4fe63e1.png?width=920&amp;format=png&amp;auto=webp&amp;s=309c33f2474eb247beea70cf5215349a716b8081   由    /u/onecrazypanda  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h03s9s/just_opensourced_a_github_action_that_optimizes/</guid>
-      <pubDate>Tue, 26 Nov 2024 04:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
