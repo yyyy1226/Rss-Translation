@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 06:34:56 GMT</lastBuildDate>
+    <item>
+      <title>这其中有什么陷阱吗？Hosting*r 提供如此多的优惠，为什么还要选择 DigitalOcean？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0x816/is_there_a_catch_here_why_choose_digitalocean/</link>
+      <description><![CDATA[我一直在比较社交网络项目早期阶段的托管选项。我遇到了两个选项，它们提供的资源似乎截然不同：   规格 DigitalOcean Basic（2 个 vCPU，2GB） Hosting*r KVM8（8 个 vCPU，32GB）    vCPU 2 8   RAM 2 GB 32 GB   磁盘空间 60 GB SSD 400 GB NVMe SSD   带宽 3 TB/月 32 TB/月   费用 18 美元/月 20 美元/月   Hosting&amp;r 提供的资源价格高得离谱，似乎好得令人难以置信。我知道质量可能存在差异。例如，即使 Hosting&amp;r 的 32GB RAM 没有达到其最大容量，在实际情况下的性能更接近 10GB，但它仍然是 DigitalOcean 提供的 RAM 的 5 倍。带宽差异也非常大 - 32TB 对 3TB。 鉴于我正在建立一个初期的社交网络，最初大约有 100 个用户，坚持使用 DigitalOcean 有什么主要原因吗？Hosting&amp;r 的产品中是否存在我可能忽略的隐藏权衡？或者资源的绝对数量是否弥补了任何质量差异？ 考虑到可扩展性，您会推荐哪一款用于低流量启动？很想听听您的想法！    提交人    /u/rdalves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0x816/is_there_a_catch_here_why_choose_digitalocean/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于画布、引导程序和调整大小的一个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0wevc/a_question_on_canvas_bootstrap_and_resizing/</link>
+      <description><![CDATA[大家好，我正在尝试制作一个页面，将图像加载到画布中，然后允许在图像上绘图。图像本身很大，所以我想通过改变窗口大小来调整其大小。 目前，图像已加载到 &lt;img src&gt; 中，并具有 Bootstrap 的 img-fluid 类，可以很好地管理缩放。但是，我想在图像上添加一个画布以在其上绘图。如果我将 &lt;img src&gt; 更改为 &lt;canvas&gt; 并将背景指定为图像，我会遇到各种各样的问题。图像要么很小，要么很大，这取决于我如何设置背景（使用 style 标签，图像很小，使用 javascript 执行 drawImage 则很大），并且在这两种情况下它都不会随页面缩放。 我对 Bootstrap 很着迷，但如果有不同或更好的方法可以做到这一点，我就不会特别着迷于 canvas。如果有人有任何建议，请告诉我。考虑到谷歌搜索的结果很少，我想我一定是做了一些从未打算做的事情（？）    提交人    /u/Monster-Zero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0wevc/a_question_on_canvas_bootstrap_and_resizing/</guid>
+      <pubDate>Wed, 27 Nov 2024 04:49:41 GMT</pubDate>
+    </item>
     <item>
       <title>我在 YT 上学习了 JavaScript Mastery 的这个教程。我可以把它放在我的 Portfolio 或 GitHub 上吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0ug4m/i_followed_this_tutorial_on_yt_by_javascript/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>请求进行 webdev 角色健全性检查</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0s00m/asking_for_a_webdev_role_sanity_check/</link>
-      <description><![CDATA[我希望能够就我目前的职位和角色获得一些想法和观察。我觉得我的公司以这种方式运营没有意义，但我还是来了。 我们是一家电子商务公司（拥有几个实体零售店），通过我们的 Shopify 网站每年赚取约 1500 万美元。我们通过亚马逊也赚了差不多这么多。我们可能有 110 名员工，其中大多数从事产品开发和履行工作。 我是公司的唯一开发人员。我们有 1 名 IT 人员，他帮助运行 Netsuite 以及所有 IT 功能。我们有一位刚刚入职的技术经理，这是我们一年内聘请的第三位技术经理，他将主要负责 Netsuite。我很少与这些人交谈，因为我们的角色不重叠。 我负责与网站相关的一切工作。我是一名受过培训的前端开发人员，拥有 18 年的经验（在代理机构和电子商务方面都有）。因此，显然我负责管理我们网站的功能和外观/感觉。我还在 Shopify 中构建和发布我们所有的产品（800 多个 SKU），并维护它们的所有信息/图像。我构建了所有主题以用于不同的网站更改、促销或产品发布。我构建了所有的折扣、促销和追加销售。我拥有我们在商店中安装的大约 25 个第三方应用程序以添加功能，这意味着如果它们中有任何问题，我就是联系人。搜索、购物车、捆绑包、评论、订阅、Klaviyo 等。 我们的 Shopify 商店是 2 年前由一家代理机构建立的，但不知何故我并没有参与该过程。我的任务是维持我们之前的商店的正常运营。该机构定制了大量代码，因为我们的相关人员必须拥有这样或那样的功能（其中大多数已经离开了公司）。没有代码注释或文档记录他们做了什么或改变了什么。这是我第一次使用 Shopify，我正在尝试边学边学 Liquid。 说到定制解决方案……我们还在同一个平台上运行 B2B 和 D2C 解决方案，而这个平台并不是为实现这一目标而设计的。我们运行自定义脚本来计算价格和运输规则，这些脚本与我们尝试完成的其他事情不兼容。 我也是我们所有员工通过 Slack 联系 Shopify 时遇到的任何问题。对于我们的 CS 团队无法解决的商店问题，我是第二层支持人员。 我向营销经理汇报。她不太懂技术。我的工资刚刚超过 9 万。我在家远程工作。幸运的是，我没有接触任何与订单相关的东西，也没有接触亚马逊或 Netsuite。 我不得不问......这不正常，对吧？ 我几乎无法维持生计。我没有任何实际的 QA。我没有任何技术支持（除了 Shopify 支持）。我没有任何备份。我在一个非技术营销团队工作。我们正处于假期的深处，你可以想象，这简直太疯狂了。 其他年收入 3000 万美元的公司也是这样运作的吗？ 我们的营销副总裁经常会向我提出一些 GAP 或丝芙兰在其网站上做的事情。当然，这是一个很酷的功能。我认为那些地方没有一个开发人员会花半天时间进行上下文切换。 我在这里已经 6 年了。当我刚开始的时候，我们有 3 个后端开发人员和我自己。慢慢地，他们离开了，而且再也没有人来接替他们。这就是我们去 Shopify 的原因。我想这是一个“慢慢煮青蛙”的情况。  我知道我应该找另一份工作，但我住的地方没有很多工作，我看到的每个远程工作列表在我读完之前都有 100 多个申请人。我筋疲力尽，想找一个理智的检查。  提前谢谢。     提交人    /u/HippoLaxitive   [链接] [评论]]]></description>
+      <description><![CDATA[我希望能够就我目前的职位和角色获得一些想法和观察。我觉得我的公司以这种方式运营没有意义，但我还是来了。 我们是一家电子商务公司（拥有几个实体零售店），通过我们的 Shopify 网站每年赚取约 1500 万美元。我们通过亚马逊也赚了差不多这么多。我们可能有 110 名员工，其中大多数从事产品开发和履行工作。 我是公司的唯一开发人员。我们有 1 名 IT 人员，他帮助运行 Netsuite 以及所有 IT 功能。我们有一位刚刚入职的技术经理，这是我们一年内聘请的第三位，他将主要负责 Netsuite。我很少与这些人交谈，因为我们的角色不重叠。 我负责与网站相关的一切工作。我是一名受过培训的前端开发人员，拥有 18 年的经验（在代理机构和电子商务方面都有）。因此，显然我负责管理我们网站的功能和外观/感觉。我还在 Shopify 中构建和发布我们所有的产品（800 多个 SKU），并维护它们的所有信息/图像。我构建了所有主题以用于不同的网站更改、促销或产品发布。我构建了所有的折扣、促销和追加销售。我拥有我们在商店中安装的大约 25 个第三方应用程序以添加功能，这意味着如果它们中有任何问题，我就是联系人。搜索、购物车、捆绑包、评论、订阅、Klaviyo 等。 我们的 Shopify 商店是 2 年前由一家代理机构建立的，但不知何故我并没有参与该过程。我的任务是维持我们之前的商店的正常运营。该机构定制了大量代码，因为我们涉及的人员必须拥有这个或那个功能（其中大多数已经不再在公司了）。没有代码注释或文档记录他们做了什么或改变了什么。这是我第一次使用 Shopify，我正在尝试边学边学 Liquid。 说到定制解决方案……我们还在同一个平台上运行 B2B 和 D2C 解决方案，而这个平台并不是为实现这一点而设计的。我们运行自定义脚本来计算价格和运输规则，这些脚本与我们尝试完成的其他事情不兼容。 我也是我们所有员工通过 Slack 联系 Shopify 时遇到的任何问题。对于我们的 CS 团队无法解决的商店问题，我是第二层支持人员。 我向营销经理汇报。她不太懂技术。我的工资刚刚超过 9 万。我在家远程工作。幸运的是，我没有接触任何与订单相关的东西，也没有接触亚马逊或 Netsuite。 我不得不问......这不正常，对吧？ 我几乎无法维持生计。我没有任何实际的 QA。我没有任何技术支持（除了 Shopify 支持）。我没有任何备份。我在一个非技术营销团队工作。我们正处于假期的深处，你可以想象，这简直太疯狂了。 其他年收入 3000 万美元的公司也是这样运作的吗？ 我们的营销副总裁经常会向我提出一些 GAP 或丝芙兰在其网站上做的事情。当然，这是一个很酷的功能。我认为那些地方没有一个开发人员会花半天时间进行上下文切换。 我在这里已经 6 年了。当我刚开始的时候，我们有 3 个后端开发人员和我自己。慢慢地，他们离开了，而且再也没有人来接替他们。这就是我们去 Shopify 的原因。我想这是一个“慢慢煮青蛙”的情况。  我知道我应该找另一份工作，但我住的地方没有很多工作，我看到的每个远程工作列表在我读完之前都有 100 多个申请人。我筋疲力尽，想找一个理智的检查。  提前谢谢。     提交人    /u/HippoLaxitive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0s00m/asking_for_a_webdev_role_sanity_check/</guid>
       <pubDate>Wed, 27 Nov 2024 00:58:10 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Tue, 26 Nov 2024 21:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>有关 margin/padding/flexbox/所有相关的免费资源</title>
+      <title>有关 margin/padding/flexbox/一切的免费资源</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0nimp/free_resources_for_marginpaddingflexbox/</link>
       <description><![CDATA[我对边距、填充以及与元素定位相关的所有内容都感到困惑。之前的一切对我来说都很容易，但现在我很困惑，我觉得我放弃了，因为我已经失去了希望。有没有可以依赖的免费资源和详细的解释？你是我最后的希望。    提交人    /u/Glum-Way1093   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0nimp/free_resources_for_marginpaddingflexbox/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我创建了一个由两个微服务组成的应用程序：一个 react 前端和一个 node+express+mongoDB 后端。现在我在本地分别使用端口 3000 和 3001 运行前端和后端，在前端我配置了 axios 并将连接到后端的默认 URL 设置为 localhost:3001，配置了我的 express 应用以允许 CORS，将 URL 存储在相应的 .env 文件中，此设置运行良好。但是，如果我想在 vercel 中部署这两个微服务，如何正确配置 URL 以便前端可以使用后端 API？    提交人    /u/scmakra99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0mzto/how_do_i_configure_my_mern_app_for_vercel/</guid>
       <pubDate>Tue, 26 Nov 2024 21:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创意挣扎：需要帮助设计我的初创公司电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</link>
-      <description><![CDATA[我正在创业，可以处理后端，用 React 构建前端，并完美对齐屏幕上的所有 div。但说到创意，我很挣扎。如果我自己选择颜色组合或图像，很可能是一场灾难。 我需要有关如何处理这个问题的建议。我需要建立一个电子商务网站和应用程序，但在这个早期阶段，我无法负担 1,000 美元以上的专业设计费用。我的预算大约是 300 美元，但这可能只能让我获得基本质量的工作。 我有什么选择？我怎样才能在不花光积蓄的情况下创建一个不错的设计？    提交人    /u/HurryFormal7067   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</guid>
-      <pubDate>Tue, 26 Nov 2024 20:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们用什么来做这个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</link>
-      <description><![CDATA[      SkinSort 有此功能，您可以查看销售该产品的所有地点和价格。他们用什么在他们的网站/应用上获取这些信息？     由    /u/chocolateisglorious 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:47:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
