@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Nov 2024 21:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 01:54:00 GMT</lastBuildDate>
     <item>
       <title>NordProtect</title>
       <link>https://www.producthunt.com/posts/nordprotect</link>
@@ -79,7 +79,7 @@
       <title>代理地点</title>
       <link>https://www.producthunt.com/posts/agentplace</link>
       <description><![CDATA[
-用于创建交互式 AI 网站和应用程序的平台
+创建交互式 AI 网站和应用的平台
 
 
 讨论
@@ -116,6 +116,20 @@ Google Sheets 中的 AI 编写 API 测试
 ]]></description>
       <guid>https://www.producthunt.com/posts/spiral-9</guid>
       <pubDate>Sun, 24 Nov 2024 21:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stratus®</title>
+      <link>https://www.producthunt.com/posts/stratus-2</link>
+      <description><![CDATA[
+适合初学者的紧凑型一体式效果踏板
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/stratus-2</guid>
+      <pubDate>Sun, 24 Nov 2024 20:05:58 GMT</pubDate>
     </item>
     <item>
       <title>廉价反馈</title>
@@ -200,20 +214,6 @@ YC 面试准备 - 推销、反思和改进
 ]]></description>
       <guid>https://www.producthunt.com/posts/oneshot-2</guid>
       <pubDate>Wed, 30 Oct 2024 00:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>抓住</title>
-      <link>https://www.producthunt.com/posts/faang</link>
-      <description><![CDATA[
-构建您的自定义 AI 面试官“Buddy”
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/faang</guid>
-      <pubDate>Thu, 26 Sep 2024 09:21:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
