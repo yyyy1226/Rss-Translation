@@ -3,14 +3,28 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:32:28 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 27 Nov 2024 21:22:07 GMT</lastBuildDate>
     <item>
-      <title>是否有任何 AI 工具可以随着时间的推移读取我的电子邮件，然后只需单击按钮即可对我的网络电子邮件生成回复，并且 100% 保持我的风格？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1aim5/are_there_any_ai_tools_that_can_read_my_emails/</link>
-      <description><![CDATA[Copilot 会这样做吗？（我使用 Edge 浏览器）。或者其他东西，比如 Gemini？（我使用 Gmail Workspace 工作）    提交人    /u/snowboardude112   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1aim5/are_there_any_ai_tools_that_can_read_my_emails/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:00:50 GMT</pubDate>
+      <title>学术文献中疑似未申报使用人工智能的案例​​分析</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1ee2j/suspected_undeclared_use_of_artificial/</link>
+      <description><![CDATA[标题：学术文献中疑似未申报的人工智能使用：Academ-AI 数据集分析 内容： 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必费力地浏览它们了。今天的论文题为&quot;学术文献中疑似未申报的人工智能使用：Academ-AI 数据集分析&quot;，作者是 Alex Glynn。 本文探讨了在学术写作中未经适当声明而秘密整合人工智能（例如 OpenAI 的 ChatGPT）的情况。该研究探讨了如何识别生成式人工智能的独特措辞，并指出了对学术诚信和透明度的重要影响。以下是该论文的一些主要发现：  在知名媒体中普遍存在：对 500 个示例的分析表明，未申报的 AI 生成内容无处不在，即使在高引用期刊和文章处理费 (APC) 较高的期刊中也是如此。这令人惊讶，因为这些机构可能有资源来防止此类疏忽。 检测 AI 特征：该研究强调了 AI 生成文本的明显迹象，例如第一人称单数用法、对 AI 知识截止的引用和对话语气，有助于识别论文中的 AI 贡献。 出版后更正最少：研究结果表明，一旦确定 AI 参与，就会进行少量更正，通常不足以解决问题。这一焦点是需要更严格地执行人工智能披露政策。 出版商的差异：虽然主要出版商发布了严格的指导方针，禁止未披露的人工智能参与，但他们的同行评审流程似乎有时未能遵守这些标准。 隐藏的后果：值得注意的是，调查发现了错误复制的聊天机器人短语和不存在的引用，强调了人工智能使用固有的虚构风险。  本文认为，出版商必须严格执行披露政策，与科学研究中利益冲突的处理相似——这一转变在历史上通过明确的不披露后果来鼓励透明度。 您可以在此处查看完整的细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1ee2j/suspected_undeclared_use_of_artificial/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在硬件受到严重阻碍的情况下，中国如何能够与美国人工智能公司竞争？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</link>
+      <description><![CDATA[台积电、NVDA、ASML 等都对向中国销售产品有限制和/或禁令。即使台积电或 NVDA 等地可以，他们也忙不过来，甚至无法先在美国生产足够的产品。华为似乎有一些 A100 同等级别的硬件，但这是我在中国看到的最好的硬件了。 那么，尽管 OpenAI 和 Anthropic 拥有更多的资源，他们如何能够推出像 Deepseek 这样的模型，其测试结果与 01-preview 和 3.5 Sonnet 一样好甚至更好？ 中国是否可以利用一些相当大的收益，而这些收益并不涉及大量的硬件能力？或者美国公司是否比公众认为的要领先得多？    提交人    /u/agoldprospector   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能何时会融入 CAD 软件？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1d5cj/when_will_ai_be_integrated_into_cad_software/</link>
+      <description><![CDATA[过去一年，我有幸在工程领域工作，我对人工智能及其在工作场所的应用越来越感兴趣。更具体地说，是 ChatGPT。我的一些同事订阅了 ChatGPT 来帮助他们完成各种任务。有些任务非常简单，有些则是需要大量数学计算的复杂多步骤问题。我承认，对于其中一些更复杂的问题，ChatGPT 完成和解决独特解决方案的能力给我留下了深刻的印象。我个人从未使用过 ChatGPT，但我很清楚它是多么强大的工具。所以，我的问题是：人工智能多久才能集成到 CAD 软件中？人们是否能够将 SolidWorks 的整个脚本输入 ChatGPT，并开始指示它根据输入给 AI 的步骤来设计零件？我不擅长编程，所以我不知道这样的任务会有多复杂。 （例如：在前平面 3&quot; x 3&quot; 上绘制一个正方形，然后从中平面 5&quot; 挤出下一个凸台……依此类推……） 如果这目前可行，或者在不久的将来可行，那么这对设计界的人们有何影响？欢迎提出所有意见！    提交人    /u/UnCertified-Engineer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1d5cj/when_will_ai_be_integrated_into_cad_software/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:49:01 GMT</pubDate>
     </item>
     <item>
       <title>LLM 不是很神奇吗？</title>
@@ -27,20 +41,6 @@
       <pubDate>Wed, 27 Nov 2024 15:42:19 GMT</pubDate>
     </item>
     <item>
-      <title>@refisan17 创作的精彩角色</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h16fb8/awesome_characters_by_refisan17/</link>
-      <description><![CDATA[  由    /u/mvpyukichan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h16fb8/awesome_characters_by_refisan17/</guid>
-      <pubDate>Wed, 27 Nov 2024 15:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能新手。想要通过简单的动作从图像制作简单的人工智能视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h15v51/new_to_ai_want_to_make_a_simple_ai_video_from_an/</link>
-      <description><![CDATA[大家好，我对 AI 视频生成非常陌生，需要一些帮助。我正在寻找一种工具，可以帮助我创建一个非常简单的图像到视频，其中树木略微摇曳，没有相机移动。 有人可以指出正确的方向，找到正确的工具并提示我做这样的事情吗？ 谢谢！ 有问题的照片：https://imgur.com/a/Rw3tFbg    提交人    /u/gabronn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h15v51/new_to_ai_want_to_make_a_simple_ai_video_from_an/</guid>
-      <pubDate>Wed, 27 Nov 2024 14:42:43 GMT</pubDate>
-    </item>
-    <item>
       <title>研究人员破解人工智能机器人，使其碾过行人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h15e6m/researchers_jailbreak_ai_robots_to_run_over/</link>
       <description><![CDATA[宾大工程系的研究人员通过他们的 RoboPAIR 攻击框架展示了 AI 驱动的机器人系统中的漏洞。他们的测试在入侵多个商业平台方面取得了 100% 的成功率，包括 Clearpath Robotics 和 Unitree Robotics 的系统。 虽然我们以前见过 LLM 越狱，但这里对物理世界的影响是前所未有的。被入侵的系统不仅遵守有害命令 - 它们还积极建议最大化负面影响的方法。 一线希望？该研究在发表之前负责任地向受影响的供应商披露了他们的发现。正如 CMU 研究员 Alexander Robey 所指出的，了解这些攻击媒介对于开发强大的防御至关重要。主动安全测试对于 AI 系统至关重要，尤其是在物理世界中运行的系统。现在是解决这些漏洞的时候了，在大规模部署之前。 关于机器人公司应该实施哪些额外的保障措施的想法？  视频链接    由    /u/tit4n-monster 提交   [链接] [评论]]]></description>
@@ -55,11 +55,11 @@
       <pubDate>Wed, 27 Nov 2024 14:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>考文垂及其周边地区的人工智能？智能技术如何塑造我们的街道和天空：</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h14zks/ai_in_and_around_coventry_how_smart_tech_is/</link>
-      <description><![CDATA[您是否知道人工智能正在悄悄改变沃里克和考文垂的街道？从优化通勤的智能交通信号灯到监测空气质量的人工智能灯柱，我们的城市正在成为智能技术的中心。了解这些创新如何不仅使我们的生活更轻松，而且还提出了有关隐私和城市生活的重要问题。深入了解人工智能已经成为我们日常生活一部分的令人惊讶的方式：您可能已经在城市中遇到人工智能的五种方式（但您没有意识到）    提交人    /u/uniofwarwick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h14zks/ai_in_and_around_coventry_how_smart_tech_is/</guid>
-      <pubDate>Wed, 27 Nov 2024 14:02:01 GMT</pubDate>
+      <title>[问题] 我们能打造一个真正能教育的人工智能吗？达到博士水平？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h13eyh/question_can_we_build_an_ai_that_can_actually/</link>
+      <description><![CDATA[以这个人工智能为例，虽然 ChatGPT 4o 很吸引人，而且我已经就各种主题与它交谈了几个小时，但它也具有欺骗性，当它和你谈论某事时，听起来好像是在推理、考虑、分析，也就是思考。 当我看到一段关于 OpenAI 的下一代采用推理功能的人工智能的视频时，我得到的印象是，在通往 AGI 的道路上，人工智能的设计者必须将人类思维分解为各个组成部分，并陆续将每个能力添加到现有的人工智能中，使其达到真正思考的程度。 我之所以这么说，是因为我看到了一个宣传横幅广告，上面宣称 ChatGPT 4o 可以教育你到博士学位。当我在 r/AskPhysics 中提出这一点时，几位物理学家证实，它不可能。它是一种令人难以置信的资源，似乎包含了一切知识，因此在许多领域都非常有用，但它不是一种可以思考、推理的智能，例如，它不能教你物理。 所以，对于我在标题中提出的问题，这里有谁对我所描述的人工智能类型有详细的了解，可以评论一下我们什么时候可以看到它的到来吗？    提交人    /u/Funny-Education2496   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h13eyh/question_can_we_build_an_ai_that_can_actually/</guid>
+      <pubDate>Wed, 27 Nov 2024 12:43:18 GMT</pubDate>
     </item>
     <item>
       <title>以下是人工智能领域的新闻动态。</title>
@@ -99,7 +99,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
