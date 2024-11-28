@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 15:25:27 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Thu, 28 Nov 2024 18:31:42 GMT</lastBuildDate>
+    <item>
+      <title>你们相信 LLM -> 文本到图表 -> 图表到动作 -> AGI 可以实现逻辑上的飞跃吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h20ia5/do_you_guys_believe_there_could_be_a_logical_jump/</link>
+      <description><![CDATA[最近我对 LLM 印象深刻，但如果他们可以通过制作 2D 图表（无论是类还是序列图表）来改进“抽象”部分和描述具体现象的能力，我们可能会创建接近 AGI 的东西（一般意义上，每种知识都会以图表抽象的形式抽象出来）。或者也许我会因为阅读这些东西而发疯哈哈    提交人    /u/Jonbarvas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h20ia5/do_you_guys_believe_there_could_be_a_logical_jump/</guid>
+      <pubDate>Thu, 28 Nov 2024 17:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1zgg2/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[聚焦：埃隆·马斯克的 AI 公司可能会发布一款消费者应用程序（来源：TechCrunch）  Google Gemini 的 Imagen 3 让玩家可以设计自己的棋子（来源：TechCrunch） 阿里巴巴向 OpenAI 的 o1 推理模型发布“公开”挑战者（来源：TechCrunch） OpenAI 准备为其“推理”模型注册商标（来源：TechCrunch） 前 Android 领导人正在构建“AI 代理操作系统”（来源：The Verge） ElevenLabs 的新功能是 NotebookLM 的竞争对手，用于创建 GenAI 播客（来源：TechCrunch）     由    /u/codeharman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1zgg2/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:17:25 GMT</pubDate>
+    </item>
     <item>
       <title>MaTCH 是一款人工智能应用程序，可帮助研究人员汇总和分析不同研究中的微塑料数据。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1y8ia/match_is_an_aipowered_application_that_enables/</link>
@@ -34,25 +48,11 @@
       <pubDate>Thu, 28 Nov 2024 14:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>$ILLR @ Triller，我们为创作者提供独家货币化、一对一支持和交流机会。借助人工智能视频编辑和一线活动访问权限，Justin Bieber、The Weeknd 和 Charli D’Amelio 等创作者都信任 Triller 来扩大他们的品牌影响力。准备好升级了吗？加入这场运动吧</title>
+      <title>$ILLR @ Triller，我们为创作者提供独家货币化、一对一支持和交流机会。借助人工智能视频编辑和一线活动访问权限，Justin Bieber、The Weeknd 和 Charli D’Amelio 等创作者都信任 Triller 来扩大他们的品牌影响力。准备好升级了吗？加入运动吧</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1x7dm/illr_triller_we_empower_creators_with_exclusive/</link>
       <description><![CDATA[  由    /u/Choice_Client_5400  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1x7dm/illr_triller_we_empower_creators_with_exclusive/</guid>
       <pubDate>Thu, 28 Nov 2024 14:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助撰写研究论文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1wou9/help_with_a_research_paper/</link>
-      <description><![CDATA[我们是两名来自瑞典的高中生，正在撰写一篇关于 MNIST 数据集及其在 Python 中的应用的研究论文。我们正在寻求人工智能社区的意见来支持我们的项目。参与是匿名的，不会收集任何个人信息。填写表格只需几分钟。 调查    由   提交  /u/Alvxn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1wou9/help_with_a_research_paper/</guid>
-      <pubDate>Thu, 28 Nov 2024 14:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道一个好的唱歌文本生成器吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1v38u/does_anyone_know_a_good_text_to_sing_generator/</link>
-      <description><![CDATA[我想要一个通过人工智能文本转语音生成乐器和人声的。有人知道一个好的吗？    提交人    /u/Downtown_Mix_4311   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1v38u/does_anyone_know_a_good_text_to_sing_generator/</guid>
-      <pubDate>Thu, 28 Nov 2024 12:40:32 GMT</pubDate>
     </item>
     <item>
       <title>我应该训练/微调自定义模型还是使用提示工程将 PDF 中的文本拆分成不同的段落？</title>
@@ -99,7 +99,7 @@
     <item>
       <title>在硬件受到严重阻碍的情况下，中国如何能够与美国人工智能公司竞争？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</link>
-      <description><![CDATA[台积电、NVDA、ASML 等都对向中国销售产品有限制和/或禁令。即使台积电或 NVDA 等地可以，他们也忙不过来，甚至无法先在美国生产足够的产品。华为似乎有一些 A100 同等级别的硬件，但这是我在中国看到的最好的硬件了。 那么，尽管 OpenAI 和 Anthropic 拥有更多的资源，他们如何能够推出像 Deepseek 这样的模型，其测试结果与 01-preview 和 3.5 Sonnet 一样好甚至更好？ 中国是否可以利用一些相当大的收益，而这些收益并不涉及大量的硬件能力？或者美国公司是否比公众认为的要领先得多？ *许多回复者对这种情况的理解明显弱于只进行快速 Google 搜索的普通人。人们更关心的是认为我低估了中国，而不是用证据证实这一说法，而中国人自己也说过，即使是他们获得的最强大的法学硕士学位，他们在每种情况下都受到硬件限制。这很不幸，因为我们知道美国公司现在正在使用 Reddit 以及其他东西来训练人工智能，比如（FFS）Facebook 和 X。发现问题了吗？数据质量差。仔细想想，也许这实际上也是我问题的一点答案。我很好奇 Deepseek 是否被特别禁止使用某些数据进行训练，或者它训练的数据的质量是否是硬件资源较少的情况下取得成功的部分原因。    提交人    /u/agoldprospector   [链接] [评论]]]></description>
+      <description><![CDATA[台积电、NVDA、ASML 等都对向中国销售产品有限制和/或禁令。即使台积电或 NVDA 等地可以，他们也忙不过来，甚至无法先在美国生产足够的产品。华为似乎有一些 A100 同等级别的硬件，但这是我在中国看到的最好的硬件了。 那么，尽管 OpenAI 和 Anthropic 拥有更多的资源，他们如何能够推出像 Deepseek 这样的模型，其测试结果与 01-preview 和 3.5 Sonnet 一样好甚至更好？ 中国是否可以利用一些相当大的收益，而这些收益并不涉及大量的硬件能力？或者美国公司是否比公众认为的要领先得多？ *许多回复者对这种情况的理解明显弱于只进行快速 Google 搜索的普通人。人们更关心的是认为我低估了中国，而不是用证据证实这一说法，而中国人自己也说过，即使是他们获得的最强大的法学硕士学位，他们在每种情况下都受到硬件限制。这很不幸，因为我们知道美国公司现在正在使用 Reddit 等平台训练人工智能，比如（FFS）Facebook 和 X。发现问题了吗？数据质量差。仔细想想，也许这实际上也是我问题的一点答案。我很好奇 Deepseek 是否被特别禁止使用某些数据进行训练，或者它训练的数据的质量是否是硬件资源较少的情况下取得成功的部分原因。    提交人    /u/agoldprospector   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</guid>
       <pubDate>Wed, 27 Nov 2024 20:01:07 GMT</pubDate>
     </item>
