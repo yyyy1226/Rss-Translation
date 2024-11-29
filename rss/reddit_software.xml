@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 03:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 06:33:49 GMT</lastBuildDate>
     <item>
       <title>尝试从 SSD 复制窗口</title>
       <link>https://www.reddit.com/r/software/comments/1h2c7sn/trying_to_duplicate_windows_from_ssd/</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 29 Nov 2024 01:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>可以制作教程用的 gif 动图的截图软件</title>
+      <title>可以制作用于教程的 gif 的截图软件</title>
       <link>https://www.reddit.com/r/software/comments/1h26z2e/screenshot_software_that_can_make_gifs_for/</link>
       <description><![CDATA[嗨 r/software，这是我在这个子版块的第一篇帖子。 正如标题所暗示的，我正在寻找类似于 lightshot、greenshot、snagit 等的软件。它可以让我创建屏幕的 gif，就像它们是屏幕截图一样，我的意思是我可以选择它开始的时间、结束的时间以及我想要捕获的特定区域。我的想法是用它来制作小型教程 gif，就像我下面放的 gif 一样，它用于我正在处理的页面。 https://i.redd.it/mmj53pafsp3e1.gif 如果加分： -让我以不同的大小和质量保存 gif -让我切换鼠标箭头是否在 gif 中可见 谢谢。    提交人    /u/SandwichDeBronca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h26z2e/screenshot_software_that_can_make_gifs_for/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>在不强制使用 Google Lens 的情况下，是否仍然可以使用 Google 反向图像搜索？</title>
       <link>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</link>
-      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经没有了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
+      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经消失了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</guid>
       <pubDate>Thu, 28 Nov 2024 07:40:47 GMT</pubDate>
     </item>
