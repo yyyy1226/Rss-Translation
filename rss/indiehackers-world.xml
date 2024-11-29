@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 29 Nov 2024 09:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:48:43 GMT</lastBuildDate>
     <item>
       <title>首次发布后 3 周内赚了 2000 美元</title>
       <link>https://feed.indiehackers.world/post/24182521f3</link>
@@ -15,6 +15,14 @@
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/24182521f3</guid>
       <pubDate>Thu, 28 Nov 2024 11:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在如何构建您的 SaaS MVP？</title>
+      <link>https://feed.indiehackers.world/post/1c83a8357a</link>
+      <description><![CDATA[AI 让创建和部署应用程序变得更快、更简单。那么这是否意味着其他工具不再重要？
+Discord Indiehackers Chat广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/1c83a8357a</guid>
+      <pubDate>Thu, 28 Nov 2024 08:45:22 GMT</pubDate>
     </item>
     <item>
       <title>最新消息：近 50% 的独立黑客都饱受孤独之苦</title>
@@ -178,15 +186,6 @@ https://www.buildthekeyword.com
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c94a94b76f</guid>
       <pubDate>Thu, 21 Nov 2024 18:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新消息：OpenAI 的 o1 现已向所有付费 API 用户开放</title>
-      <link>https://feed.indiehackers.world/post/5c4e0e5488</link>
-      <description><![CDATA[此外，您可以提交一个部分，以便我们将其纳入未来的新闻通讯中。
-特别感谢 Jay Avery 编辑本期内容、Gabriella Federico 提供插图以及 Katie Hignett、Michal Kankowski 和 James Fleischmann 贡献帖子。—_Channing_
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/5c4e0e5488</guid>
-      <pubDate>Thu, 21 Nov 2024 14:04:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
