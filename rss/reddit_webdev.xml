@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 30 Nov 2024 21:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 02:09:24 GMT</lastBuildDate>
+    <item>
+      <title>我制作了这个滚动/拖延游戏，现在它有一个全球排行榜......你可能不会在周日长时间保持第一！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3s8y3/i_made_this_scrolling_procrastination_game_and/</link>
+      <description><![CDATA[  由    /u/Turbulent_Goat1988  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3s8y3/i_made_this_scrolling_procrastination_game_and/</guid>
+      <pubDate>Sun, 01 Dec 2024 01:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用新的 CSS Popover 和 Anchor Positioning 功能以及主题和过渡制作了一个自定义的 popover 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</link>
+      <description><![CDATA[      欢迎给我建设性的批评。我一直在自学 JS，这是我一直在慢慢努力的一件有趣的事情！    提交人    /u/thingmabobby   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发布了我的第一个 NextJS NPM 包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</link>
+      <description><![CDATA[对某些人来说，这可能不是什么大事，但我感觉很有成就感。我刚刚发布了我的第一个 NPM 包，它适用于 Next JS，允许您从命令行生成页面或 API 路由。它目前支持 TailwindCSS、Typescript 和 Javascript。  欢迎随时查看并尝试：https://www.npmjs.com/package/next-genkit/v/1.1.9 谢谢     提交人    /u/serial9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</guid>
+      <pubDate>Sat, 30 Nov 2024 23:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在文档中做了哪些工作来改善用户体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/</link>
+      <description><![CDATA[C    由   提交  /u/SpOOkWins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/</guid>
+      <pubDate>Sat, 30 Nov 2024 23:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bonsai-CLI 演示 + 组件开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/</link>
+      <description><![CDATA[      https://preview.redd.it/rl2rruk3944e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c5a0c4102c4120ad0175716bdfbb40dd395bcbc8 Bonsai-CLI 将简化机构或个人开发者的 Web 开发。我认为它确实能将我的网站或网络应用程序的开发速度提高 10-100 倍。 演示 + 直播：https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab_channel=JackalopeLabs Bonsai-CLI 允许您使用预先构建和设计的 Tailwind/Alpine 组件在几秒钟内生成一个漂亮的网络应用程序。所有副本、图像、布局、组件、模板、样式都可以由 AI 在几秒钟内配置。 它目前专为 Roots WP 堆栈构建，将来可以支持更多堆栈。 一旦您拥有一个 Roots.io 网站，您就可以运行两个命令来创建一个新的登录页面 -  wp acorn bonsai:init wp acorn bonsai:generate bonsai 目前，登录页面相当基础。我将向其中添加所有自定义组件。一旦 Bonsai-CLI 完成，它将能够在几秒钟内构建完整的 Web 应用程序。这就是目标。 Bonsai-CLI：https://github.com/jackalopelabs/bonsai-cli    由    /u/eyeiskind 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/</guid>
+      <pubDate>Sat, 30 Nov 2024 22:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要网站主机/域名专业知识的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/</link>
+      <description><![CDATA[您好，我有一个潜在客户，他需要一个网站，但他们不想在网站托管和域名上花费太多。他们从事景观设计业务，所以我知道这不仅仅是主页。 我希望这里有人知道一个好的主机/域名组合，用于一个简单的网站。他们不卖任何东西，只是告诉他们做什么并联系他们。谢谢    提交人    /u/Itachi03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>廉价的网络空间（数据存储）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/</link>
@@ -62,53 +104,11 @@
       <pubDate>Sat, 30 Nov 2024 20:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>有人主动替代 reddit 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/</link>
-      <description><![CDATA[尽管该平台拥有庞大的用户群，但我并不十分信任它。有很多开发者社区，但在哪里可以看到最新、最棒的用户评论，而不会受到广告的攻击？    提交人    /u/salvadorabledali   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来创建源代码差异的 GIF，以便在社交媒体上分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</link>
-      <description><![CDATA[        提交人    /u/cmgriffing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>ID解析：这是方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</link>
-      <description><![CDATA[大家好， 我正在构建一个专业的应用程序来解析 ID，由于我是独自一人，我决定选择一个简单的堆栈：带有 tRPC API 的 Next.js。对于 OCR，OCR Google Cloud Vision 到目前为止为我提供了很好的结果。 现在我被困在（大部分时间都在拖延）UI 上，无法引导用户使用智能手机相机捕获 ID。 我的想法是在桌面版本上生成一个二维码，将用户重定向到 React PWA。PWA 提供了一个覆盖层来为 ID 构建可读的体面分辨率，然后再将其发送到 Google Cloud Vision 并得到误报。 这似乎是一个常见的用例 - 是否有库或工具来处理这种引导式捕获？任何建议或指示都将不胜感激！ 谢谢！   由    /u/Lsd_is_OverRated  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在人们用什么来制作简单的单页网站呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</link>
-      <description><![CDATA[我已经离开前端很多年了，现在需要做一个简单的网站（没有后端），我只想用一些模板或者最简单的东西来做一个好看的网站。模板还能用吗？你推荐哪些网站的模板？我以前用过 Bulma 或 Bootstrap。    提交人    /u/RikiMaro18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模重构 TypeScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</link>
-      <description><![CDATA[  由    /u/haasilein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个技术比较工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</link>
-      <description><![CDATA[        提交人    /u/rahim-mando   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需提示，即可随时安排任何事！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:33:39 GMT</pubDate>
+      <title>单击此处取消</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</guid>
+      <pubDate>Sat, 30 Nov 2024 19:50:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
