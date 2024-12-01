@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:44:24 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 用户评选的最佳 VPN 服务？</title>
+      <link>https://www.reddit.com/r/software/comments/1h42dfq/best_vpn_service_according_to_reddit_users/</link>
+      <description><![CDATA[  由    /u/Small-Ship7883  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h42dfq/best_vpn_service_according_to_reddit_users/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能帮我找到适合我的 Xstrike me 鼠标的软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1h42apy/can_anyone_help_me_find_the_software_for_my/</link>
+      <description><![CDATA[这是 Xtrike Me GM-415    由   提交  /u/XoXoxFarhan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h42apy/can_anyone_help_me_find_the_software_for_my/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>完整的 Condusiv Technologies 软件</title>
       <link>https://www.reddit.com/r/software/comments/1h3yxvp/entire_condusiv_technologies_software/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我创建了一个加密日志命令行应用程序，灵感来自 https://jrnl.sh。它只是应用程序的一个 bash 脚本，以及另一个用于设置的脚本。我想要一个非常简单的东西，并且没有太多依赖的东西。 我们的想法是使用现有工具开始编写，并将记录自动排列在指定的文件夹中。 请在此处查看项目：https://github.com/nilz-bilz/cli-jrnl，如果您希望看到任何更改或改进，请告诉我。我还没有在 mac 和其他 Unix 系统上测试过它，因此在这些平台上获得一些反馈也很好。谢谢    由   提交  /u/nilz_bilz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h3bght/very_simple_command_line_journal/</guid>
       <pubDate>Sat, 30 Nov 2024 12:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日活动追踪</title>
-      <link>https://www.reddit.com/r/software/comments/1h39oc7/daily_tracking_of_activity/</link>
-      <description><![CDATA[这篇文章是对上一篇修改历史和保存相关文件：r/software的补充，但我更喜欢单独处理这些主题：是否有类似浏览器的“历史记录”功能，但适用于整个操作系统？更清楚地说，有没有办法自动跟踪在 PC 上执行的每个操作，从而包括对每个文件和每个使用的软件执行的每个操作？基本上，在每天结束时，我都希望有活动的记录。我问这个问题是因为昨天我意识到一些文件和文件夹已经消失了，尽管我有一个通用备份。首先，我想了解发生了什么，因为我无法向自己解释，然后我想确保将来不会再发生这种情况，以避免像现在这样重新做大量工作。谢谢    提交人    /u/Faoineag   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h39oc7/daily_tracking_of_activity/</guid>
-      <pubDate>Sat, 30 Nov 2024 10:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>修改历史及相关文件的保存</title>
-      <link>https://www.reddit.com/r/software/comments/1h38ryh/modification_history_and_saving_of_related_files/</link>
-      <description><![CDATA[大家好，我正在寻找一款可以自动保存文件更改的软件，FileHamster 似乎很有用，但是当我下载试用版的 exe 文件时，我收到一条消息，告诉我下载已停止，请在打开前检查可靠性。我可以信任它并强制下载吗？或者您能推荐一些其他具有文件历史记录功能的应用程序吗？如果需要，您可以让我回溯到其中一个文件？谢谢    提交人    /u/Faoineag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h38ryh/modification_history_and_saving_of_related_files/</guid>
-      <pubDate>Sat, 30 Nov 2024 09:08:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

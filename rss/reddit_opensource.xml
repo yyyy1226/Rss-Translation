@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:44:57 GMT</lastBuildDate>
+    <item>
+      <title>html2llm - 检测 LLM 的网页元素，我将 OmniParser 的一部分迁移到 WebAssembly，该项目允许在浏览器中解析网站上的可见内容</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h42fv3/html2llm_detect_elements_on_webpage_for_llms_i/</link>
+      <description><![CDATA[        提交人    /u/b4rtaz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h42fv3/html2llm_detect_elements_on_webpage_for_llms_i/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:41:08 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 密码容器与 Keepass</title>
       <link>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</link>
       <description><![CDATA[有了好的主密钥并通过帐户同步，Firefox 密码是否像任何 Keepass 解决方案一样安全？您登录的所有操作中有 90% 实际上都是通过浏览器完成的……    提交人    /u/NewspaperEcstatic884   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</guid>
       <pubDate>Sun, 01 Dec 2024 07:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源：Zenshin - 拥有 8000 多个动漫系列的动漫流媒体应用程序。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3wxq0/open_source_zenshin_anime_streaming_app_with_8000/</link>
-      <description><![CDATA[        由    /u/hitarth_gg 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3wxq0/open_source_zenshin_anime_streaming_app_with_8000/</guid>
-      <pubDate>Sun, 01 Dec 2024 06:14:42 GMT</pubDate>
     </item>
     <item>
       <title>TidesDB - 高性能、事务性、持久性、嵌入式键值存储引擎</title>
@@ -97,18 +97,18 @@
       <pubDate>Sat, 30 Nov 2024 06:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>TextCraft 1.0.6 更新：在 Word 评论中直接与你的 AI 对话</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h33a5h/textcraft_106_update_talk_to_your_ai_directly_in/</link>
-      <description><![CDATA[        由    /u/SuccessIsHardWork  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h33a5h/textcraft_106_update_talk_to_your_ai_directly_in/</guid>
-      <pubDate>Sat, 30 Nov 2024 03:16:42 GMT</pubDate>
-    </item>
-    <item>
       <title>键盘声音 — 为您的打字体验添加声音效果</title>
       <link>https://www.reddit.com/r/opensource/comments/1h32a3i/keyboard_sounds_add_sound_effects_to_your_typing/</link>
       <description><![CDATA[  由    /u/MediocreAnywhere1221  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h32a3i/keyboard_sounds_add_sound_effects_to_your_typing/</guid>
       <pubDate>Sat, 30 Nov 2024 02:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Squid 的 HMAC 签名进行基本身份验证</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</link>
+      <description><![CDATA[       由    /u/yarmak  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:45:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
