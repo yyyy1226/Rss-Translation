@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 01 Dec 2024 06:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 09:23:14 GMT</lastBuildDate>
+    <item>
+      <title>TidesDB - 开源高性能、耐用、事务性嵌入式键值存储引擎（BETA 版本）</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3yih8/tidesdb_opensource_highperformance_durable/</link>
+      <description><![CDATA[  由    /u/diagraphic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3yih8/tidesdb_opensource_highperformance_durable/</guid>
+      <pubDate>Sun, 01 Dec 2024 08:03:30 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 Strava API 和装满 M&M 的物联网狗食碗训练自己跑得更远</title>
       <link>https://www.reddit.com/r/programming/comments/1h3w9w7/i_trained_myself_to_run_farther_using_the_strava/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/skub0007  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h3fs28/neit_a_simpler_than_python_programming_language/</guid>
       <pubDate>Sat, 30 Nov 2024 16:08:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>破解 4Chan 验证码</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3efuk/breaking_the_4chan_captcha/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3efuk/breaking_the_4chan_captcha/</guid>
-      <pubDate>Sat, 30 Nov 2024 15:04:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
