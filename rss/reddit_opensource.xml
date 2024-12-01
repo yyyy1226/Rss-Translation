@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Dec 2024 12:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 15:24:08 GMT</lastBuildDate>
     <item>
       <title>html2llm - 检测 LLM 的网页元素，我将 OmniParser 的一部分迁移到 WebAssembly，该项目允许在浏览器中解析网站上的可见内容</title>
       <link>https://www.reddit.com/r/opensource/comments/1h42fv3/html2llm_detect_elements_on_webpage_for_llms_i/</link>
