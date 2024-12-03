@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Dec 2024 18:32:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 21:23:34 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以替代 autocad 软件的软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5wx7a/any_alternative_to_autocad_software/</link>
+      <description><![CDATA[我需要的只是 2D 图纸。没有什么太复杂的，虽然它也有快照功能来帮助我处理工作内容，但它会非常有用    提交人    /u/Rukasu17   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5wx7a/any_alternative_to_autocad_software/</guid>
+      <pubDate>Tue, 03 Dec 2024 20:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>推动开源向前发展：在 2025 年发挥影响力</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5uuwq/driving_open_source_forward_make_your_impact_in/</link>
+      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5uuwq/driving_open_source_forward_make_your_impact_in/</guid>
+      <pubDate>Tue, 03 Dec 2024 18:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>打开产品-想法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h5o49j/open_product_thoughts/</link>
@@ -64,16 +78,9 @@
     <item>
       <title>Duolicious 是最常用的 FOSS 约会应用程序吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h4zz51/is_duolicious_the_mostused_foss_dating_app/</link>
-      <description><![CDATA[令人震惊的是，4chan 约会应用 Duolicious 是我在互联网上能找到的最受欢迎的 FOSS 约会应用。虽然可能是我的 Google 能力让我失望了。有人知道更受欢迎的 FOSS 约会应用吗？我所知道的唯一免费开源竞争对手是 Alovoa。Alovoa 在 GitHub 上的星星数量是 Duolicious 的 10 倍多。虽然在用户数量方面，它远远落后于 Duolicious。 还有 pH7Builder，这是一个用于构建约会应用的 CMS，而不是约会应用本身。它比 Alovoa 的星星还多，有 972 个。 我还知道一些大型约会应用使用的软件是开源的。例如，Bumble 开源了其 NSFW 图像检测模型。Tinder 也开源了部分代码；其 bazel-diff 代码库曾被 Canva 使用。虽然这些显然与开源应用程序本身不同。   名称 GitHub 上的星星 注册用户 Google Play 下载量 每月活跃用户 资金 许可证    Alovoa 490 47,863 5K+ 未知 捐赠 AGPLv3   Duolicious 34 (前端)、44 (后端） 116,006 50K+ 21,058 捐赠 AGPLv3      由   提交  /u/duolicious-app   [链接] [评论]]]></description>
+      <description><![CDATA[令人震惊的是，4chan 约会应用 Duolicious 是我在互联网上能找到的最受欢迎的 FOSS 约会应用。虽然可能是我的 Google 能力让我失望了。有人知道更受欢迎的 FOSS 约会应用吗？我所知道的唯一免费开源竞争对手是 Alovoa。Alovoa 在 GitHub 上的星星数量是 Duolicious 的 10 倍多。虽然在用户数量方面，它远远落后于 Duolicious。 还有 pH7Builder，这是一个用于构建约会应用的 CMS，而不是约会应用本身。它比 Alovoa 的星星还多，有 972 个。 我还知道一些大型约会应用使用的软件是开源的。例如，Bumble 开源了其 NSFW 图像检测模型。Tinder 也开源了部分代码；其 bazel-diff 代码库曾被 Canva 使用。虽然这些显然与开源应用程序本身不同。   名称 GitHub 上的星星 注册用户 Google Play 下载量 月活跃用户 资金 许可证    Alovoa 490 47,863 5K+ 未知 捐赠 AGPLv3   Duolicious 34 (前端)、44 (后端） 116,006 50K+ 21,058 捐赠 AGPLv3      由   提交  /u/duolicious-app   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h4zz51/is_duolicious_the_mostused_foss_dating_app/</guid>
       <pubDate>Mon, 02 Dec 2024 17:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站/应用程序/软件拦截器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4xrpk/siteappsoftware_blockers/</link>
-      <description><![CDATA[我正在寻找开源工具或应用来帮助屏蔽分散注意力的软件和网站。我一直在与社交媒体成瘾作斗争，想限制对计算机上特定应用、网站甚至某些软件的访问。 我已经使用扩展程序屏蔽了 Chrome 上的网站，效果很好。但是，我的上瘾如此严重，以至于我通过切换到 Microsoft Edge 来绕过限制。我现在正在寻找可以完全阻止我打开 Edge 的软件拦截器。 作为一名计算机科学专业的学生，​​我无法完全停止使用电脑。我基本上也破产了。 我想屏蔽 YouTube Shorts 等干扰。由于无法卸载 YouTube，因此我正在寻找“YouTube 推荐拦截器”来限制算法的影响。 感谢您的建议！    提交人    /u/Better-Risk3691   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4xrpk/siteappsoftware_blockers/</guid>
-      <pubDate>Mon, 02 Dec 2024 15:39:30 GMT</pubDate>
     </item>
     <item>
       <title>TreeSpider：用于显示组织结构/树的开源库，它以面向对象的 TypeScript 和 d3js 编写</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[      您是否发现自己被多个项目中无数打开的标签淹没了？ AI Tab Organiser 可以节省您的时间并为您提供有组织的工作区，只需单击一下即可，免去了手动组织选项卡的麻烦。 主要特点 工作区创建：由相似性预测机器学习模型提供支持，自动将您的选项卡分组到有意义的工作区中。 轻松搜索：只需单击即可快速查找和切换工作区。标签保存：确保您的标签集合安全且井然有序。 它是如何工作的？ 分析标签 当您单击“分析标签”时按钮，扩展： •查看您当前打开的选项卡 •根据我们的机器学习算法预测的相似性对选项卡进行分组 •创建适合您的浏览习惯的工作区 工作区管理 •重命名工作区：单击工作区名称并键入新名称 •打开工作区：一键切换到特定的选项卡集 •删除工作区：删除不再需要的工作区    提交人    /u/MasterK0925   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h4mt7r/automating_tab_management/</guid>
       <pubDate>Mon, 02 Dec 2024 04:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 应用程序可以接收 webhook 通知吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4ltqc/android_app_to_receive_webhook_notifications/</link>
-      <description><![CDATA[嗨， 有人知道可以接收从我的 WordPress SMTP 插件发送的 webhook 通知的 Android 应用程序吗？ 我正在尝试接收任何可能发送失败的电子邮件的警报。    提交人    /u/SudoMason   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4ltqc/android_app_to_receive_webhook_notifications/</guid>
-      <pubDate>Mon, 02 Dec 2024 03:37:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 03 Dec 2024 18:32:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 21:23:51 GMT</lastBuildDate>
+    <item>
+      <title>你不需要联合创始人</title>
+      <link>https://feed.indiehackers.world/post/b6cf3d35ca</link>
+      <description><![CDATA[以下是我在创业过程中总结的一些见解，希望对您有所帮助：
+1. 利用技术：刚开始创业时，我严重依赖生产力工具来保持井然有序。使用项目管理软件、通信工具和自动化来简化您的任务。这些工具可以节省您的时间，让您专注于真正重要的事情——发展您的业务。我在这里深入讨论了这一点。
+2. 保持好奇心并不断学习：如果您不培养成长心态并成为一块海绵，您将无法成功。要学习的东西永远不会结束。阅读书籍、收听播客、利用 YouTube 大学或参加行业会议。尽一切努力保持您的技能敏锐并保持领先地位。 
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b6cf3d35ca</guid>
+      <pubDate>Tue, 03 Dec 2024 16:49:33 GMT</pubDate>
+    </item>
     <item>
       <title>100+ 精选 BFCM SaaS 优惠</title>
       <link>https://feed.indiehackers.world/post/1d8619b265</link>
@@ -235,14 +245,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/cb265b35d1</guid>
       <pubDate>Mon, 09 Sep 2024 07:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我完全使用 Claude 开发了一款生产力应用程序，目前在 ProductHunt 上排名第四</title>
-      <link>https://feed.indiehackers.world/post/648dc83cf4</link>
-      <description><![CDATA[我一直在尝试使用 Claude 构建一些简单的应用程序，这个应用程序正在获得一些动力！问我有关使用 AI 进行开发/设计过程的任何问题（并使用该应用程序；它是免费的！）
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/648dc83cf4</guid>
-      <pubDate>Sat, 03 Aug 2024 16:55:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
