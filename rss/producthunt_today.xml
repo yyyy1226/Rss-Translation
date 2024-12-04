@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Dec 2024 09:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:50:29 GMT</lastBuildDate>
     <item>
       <title>阴谋</title>
       <link>https://www.producthunt.com/posts/plot-c18cd190-9919-4ac7-9b09-57a9723e4ffa</link>
@@ -34,6 +34,20 @@
       <pubDate>Tue, 03 Dec 2024 19:53:48 GMT</pubDate>
     </item>
     <item>
+      <title>打开Int [LW24]</title>
+      <link>https://www.producthunt.com/posts/openint-lw24</link>
+      <description><![CDATA[
+开源嵌入式产品集成
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/openint-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 14:32:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Adobe 的 Project Neo（测试版）</title>
       <link>https://www.producthunt.com/posts/project-neo-beta-by-adobe</link>
       <description><![CDATA[
@@ -48,18 +62,32 @@
       <pubDate>Tue, 03 Dec 2024 08:49:39 GMT</pubDate>
     </item>
     <item>
-      <title>青蛙博士</title>
-      <link>https://www.producthunt.com/posts/frogdr</link>
+      <title>层流流动 [LW24]</title>
+      <link>https://www.producthunt.com/posts/flow-by-laminar-lw24</link>
       <description><![CDATA[
-监控您的域名评级
+用于构建 AI 代理的开源动态任务引擎
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/frogdr</guid>
-      <pubDate>Tue, 03 Dec 2024 02:41:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/flow-by-laminar-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 06:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级列表</title>
+      <link>https://www.producthunt.com/posts/hypelist-4</link>
+      <description><![CDATA[
+发现您喜欢的一切的个性化推荐
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hypelist-4</guid>
+      <pubDate>Tue, 03 Dec 2024 02:09:06 GMT</pubDate>
     </item>
     <item>
       <title>名册</title>
@@ -76,6 +104,20 @@
       <pubDate>Mon, 02 Dec 2024 15:37:16 GMT</pubDate>
     </item>
     <item>
+      <title>vscode-pokemon</title>
+      <link>https://www.producthunt.com/posts/vscode-pokemon</link>
+      <description><![CDATA[
+将 Pokémon 怀旧情怀带入您的代码编辑器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/vscode-pokemon</guid>
+      <pubDate>Mon, 02 Dec 2024 15:24:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Pollo.ai</title>
       <link>https://www.producthunt.com/posts/pollo-ai</link>
       <description><![CDATA[
@@ -88,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pollo-ai</guid>
       <pubDate>Mon, 02 Dec 2024 13:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase 人工智能助手 [LW24]</title>
-      <link>https://www.producthunt.com/posts/supabase-ai-assistant-lw24</link>
-      <description><![CDATA[
-Postgres 数据库的想法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/supabase-ai-assistant-lw24</guid>
-      <pubDate>Sat, 30 Nov 2024 07:16:13 GMT</pubDate>
     </item>
     <item>
       <title>Trigger.dev 实时人工智能 [LW24]</title>
@@ -132,8 +160,8 @@ Postgres 数据库的想法
       <pubDate>Thu, 28 Nov 2024 04:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>科瓦尔</title>
-      <link>https://www.producthunt.com/posts/coval</link>
+      <title>科瓦尔 (YC S24)</title>
+      <link>https://www.producthunt.com/posts/coval-yc-s24</link>
       <description><![CDATA[
 模拟和评估以交付令人愉悦的语音和聊天 AI 代理
 
@@ -142,7 +170,7 @@ Postgres 数据库的想法
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/coval</guid>
+      <guid>https://www.producthunt.com/posts/coval-yc-s24</guid>
       <pubDate>Wed, 27 Nov 2024 21:53:41 GMT</pubDate>
     </item>
     <item>
@@ -158,34 +186,6 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/oopsie</guid>
       <pubDate>Mon, 25 Nov 2024 06:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tactiq AI 工作流程</title>
-      <link>https://www.producthunt.com/posts/tactiq-ai-workflows</link>
-      <description><![CDATA[
-自动提取和分享会议见解
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tactiq-ai-workflows</guid>
-      <pubDate>Mon, 25 Nov 2024 06:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>氡IDE</title>
-      <link>https://www.producthunt.com/posts/radon-ide</link>
-      <description><![CDATA[
-适用于 React Native 的 IDE
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/radon-ide</guid>
-      <pubDate>Fri, 15 Nov 2024 11:24:39 GMT</pubDate>
     </item>
     <item>
       <title>火</title>
