@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 04 Dec 2024 06:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 09:27:01 GMT</lastBuildDate>
     <item>
-      <title>你真的需要一个 JS 框架吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h69tfb/genuinely_do_you_need_a_js_framework/</link>
-      <description><![CDATA[我刚刚和一些同事聊天，其中一人提到，他们认为使用 JS 框架的钟形曲线模因是低智商 - 使用框架，中等智商 - 只需使用基本 HTML CSS JS，高智商 - 您必须使用 JS 框架。 我个人认为 JS 框架有其用武之地，但对于绝大多数网站来说，除了模板语言和原始 JS、CSS 和 HTML 之外，您不需要任何其他东西。 我确实编写过需要使用 JS 框架的 Web 应用程序，但我很难称这些网站为更复杂的 Web 应用程序，如果没有使用框架根本无法制作。 但那是例外，互联网上 99% 的网站只需要 HTML + 模板语言（用于格式化）、CSS（用于布局和美观）和 JavaScript（用于交互性）即可（坦率地说HTML 和 CSS 为您提供 90% 的交互性）、服务器请求和内容反应性。80% 的互联网都是 PHP，HTMX 等库和 Astro 等框架之所以如此受欢迎，是有原因的 - 因为它们不会妨碍您。 我回答说，对于工作和个人项目，我主要使用非框架构建网站，我问他为什么认为这是钟形曲线的形状。但他似乎不愿意就此展开对话，只是带着得意洋洋的笑容一直回答“这就是事实”。我不想再继续推进/可能与同事发生冲突，所以我放弃了。 我只是觉得框架给开发增加了太多的复杂性和开销（除非您的应用确实绝对需要它），它真的没有必要，而且与不使用框架相比会产生如此多的工作，最终您的用户不会注意到差异。  运行时、CSS 模块、挑选/学习包、特定于包的 JS、npm 包、typescript、webpack、docker、构建工具、托管……伙计，这是一个静态页面，可在加载时获取内容并向服务器发送基本的 CRUD 请求，我可以在您设置环境和启动项目之前完成并托管它。我的将在禁用 JS 和使用 3G 连接的用户的情况下正常运行。 但我真的很好奇，使用框架（JS 或其他）真的是大脑的举动吗？每个网站无论如何都应该使用一个。Reddit 编程社区的普遍共识是什么？    提交人    /u/NotJayuu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h69tfb/genuinely_do_you_need_a_js_framework/</guid>
-      <pubDate>Wed, 04 Dec 2024 06:32:49 GMT</pubDate>
+      <title>Chunky 和 ​​Chatty 数据加载，根据场景您更喜欢哪一种？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6c1k5/chunky_vs_chatty_data_load_given_the_scenario/</link>
+      <description><![CDATA[  由    /u/cyberkrul  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6c1k5/chunky_vs_chatty_data_load_given_the_scenario/</guid>
+      <pubDate>Wed, 04 Dec 2024 09:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球调查（2024/2025）：程序员对人工智能工具使用的看法和现状</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6bmgj/global_survey_20242025_the_sentiment_and_state_of/</link>
+      <description><![CDATA[  由    /u/rgs2007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6bmgj/global_survey_20242025_the_sentiment_and_state_of/</guid>
+      <pubDate>Wed, 04 Dec 2024 08:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>在您的网站上嵌入倒计时小部件</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6bitj/embed_countdown_widgets_on_your_website/</link>
+      <description><![CDATA[  由    /u/Andrea_Giodice  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6bitj/embed_countdown_widgets_on_your_website/</guid>
+      <pubDate>Wed, 04 Dec 2024 08:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个 Google Sheets 扩展程序，可免费为您提供 REST API 的功能测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6b070/built_a_google_sheets_extension_that_gives_you/</link>
+      <description><![CDATA[  由    /u/soap94  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6b070/built_a_google_sheets_extension_that_gives_you/</guid>
+      <pubDate>Wed, 04 Dec 2024 07:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解 Node.js 中的事件循环和异步编程 - Makemychance</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6arz5/understanding_the_event_loop_and_async/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6arz5/understanding_the_event_loop_and_async/</guid>
+      <pubDate>Wed, 04 Dec 2024 07:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Nextra v2 升级到 Nextra v3：“快速”指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1h6a1o2/upgrading_from_nextra_v2_to_nextra_v3_a_quick/</link>
+      <description><![CDATA[  由    /u/Unable_Win_2426  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h6a1o2/upgrading_from_nextra_v2_to_nextra_v3_a_quick/</guid>
+      <pubDate>Wed, 04 Dec 2024 06:48:20 GMT</pubDate>
     </item>
     <item>
       <title>Mantine UI 库扩展中心</title>
@@ -18,20 +53,6 @@
       <description><![CDATA[  由    /u/Unable_Win_2426  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h69p3w/mantine_ui_library_extensions_hub/</guid>
       <pubDate>Wed, 04 Dec 2024 06:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Mantine UI 的视差组件创造沉浸式体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1h69ojt/creating_immersive_experiences_with_the_parallax/</link>
-      <description><![CDATA[  由    /u/Unable_Win_2426  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h69ojt/creating_immersive_experiences_with_the_parallax/</guid>
-      <pubDate>Wed, 04 Dec 2024 06:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Mantine UI 的视差组件创造沉浸式体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1h69of1/creating_immersive_experiences_with_the_parallax/</link>
-      <description><![CDATA[  由    /u/Unable_Win_2426  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h69of1/creating_immersive_experiences_with_the_parallax/</guid>
-      <pubDate>Wed, 04 Dec 2024 06:23:47 GMT</pubDate>
     </item>
     <item>
       <title>React 真的像听起来那么难/复杂吗？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[本文认为，软件并不等同于物理磁盘、字节、文本或软件执行，而是独立于这些物理表现而存在的抽象产物。    提交人    /u/NXGZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h60lag/what_is_software_anyways_where_does_it_exist/</guid>
       <pubDate>Tue, 03 Dec 2024 22:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 刚刚宣布了一个新的数据库！</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5zzsc/aws_just_announced_a_new_database/</link>
-      <description><![CDATA[  由    /u/planch0n  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5zzsc/aws_just_announced_a_new_database/</guid>
-      <pubDate>Tue, 03 Dec 2024 22:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 进行内存处理可以跳过 CPU，从而实现更快、更高效的计算</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5zelh/inmemory_processing_using_python_promises_faster/</link>
-      <description><![CDATA[  由    /u/gurugabrielpradipaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5zelh/inmemory_processing_using_python_promises_faster/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webhook 比看起来更难</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5z5l6/webhooks_are_harder_than_they_seem/</link>
-      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5z5l6/webhooks_are_harder_than_they_seem/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:46:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
