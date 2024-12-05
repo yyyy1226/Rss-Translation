@@ -4,16 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 05 Dec 2024 18:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 21:23:33 GMT</lastBuildDate>
+    <item>
+      <title>开源视频下载器，mac</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h7j6gv/open_source_video_downloader_mac/</link>
+      <description><![CDATA[有人知道适用于 Mac 的开源安全 YouTube 视频下载器吗？    提交人    /u/Affectionate_Tip8245   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h7j6gv/open_source_video_downloader_mac/</guid>
+      <pubDate>Thu, 05 Dec 2024 20:38:33 GMT</pubDate>
+    </item>
     <item>
       <title>寻求开源工作流工具的推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</link>
-      <description><![CDATA[大家好，r/opensource 社区， 我正在寻找开源 SaaS 产品或工作流工具的建议，它们可以帮助我创建结构化、基于步骤的工作流流程。基本思路如下： 我想设计一个工具，其中流程的每个步骤都有特定的政策和指导方针，在继续下一步之前需要先满足这些政策和指导方针。例如：  了解您的客户/寻求专业建议 探索适合您情况的替代方案 申请 [填空] [填空] 过程中的义务 退出 [填空] 过程 [填空] 过程后  每个步骤都有与之相关的任务、规则和文档要求，确保流程顺利进行并且不会遗漏任何内容。 是否有人知道可以帮助创建这种结构化工作流的开源工具？如果该工具包含以下功能，那就太好了：• 可自定义的工作流和步骤 • 每个步骤的策略执行 • 用户友好界面 非常感谢您分享的任何建议或经验。提前感谢您的帮助！    由   提交  /u/FrankCastle2020   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，r/opensource 社区， 我正在寻找开源 SaaS 产品或工作流工具的建议，它们可以帮助我创建结构化、基于步骤的工作流流程。基本思路如下： 我想设计一个工具，其中流程的每个步骤都有特定的政策和指导方针，在继续下一步之前需要先满足这些政策和指导方针。例如：  了解您的客户/寻求专业建议 探索适合您情况的替代方案 申请 [填空] [填空] 过程中的义务 退出 [填空] 过程 [填空] 过程后  每个步骤都有与之相关的任务、规则和文档要求，确保流程顺利进行并且不会遗漏任何内容。 是否有人知道可以帮助创建这种结构化工作流程的开源工具？如果该工具包含以下功能，那就太好了：• 可自定义的工作流程和步骤 • 每个步骤的策略执行 • 用户友好的界面 非常感谢您分享的任何建议或经验。提前感谢您的帮助！    由   提交  /u/FrankCastle2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</guid>
       <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>HandiRokuRemote - 使用手势控制你的 Roku</title>
+      <title>HandiRokuRemote - 通过手势控制你的 Roku</title>
       <link>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</link>
       <description><![CDATA[这是一个 Python 应用程序，让您只用手势即可控制您的 Roku 设备！使用 Mediapipe 的手部标志检测器，它可以跟踪您的手、识别手势并通过其外部控制协议向您的 Roku 发送命令。 查看 演示 gif 功能： *实时手部跟踪：“竖起大拇指”等手势可控制音量或导航。 *跨设备支持：可与同一网络上的任何 Roku 设备配合使用。 *设置简单：插入摄像头，即可开始使用。 目前仅限于 PC。  在 Github 上查看代码 或者下载 .exe 并试用！ 下载 让我知道你的想法！    提交人    /u/BB_dev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 04 Dec 2024 21:58:59 GMT</pubDate>
     </item>
     <item>
-      <title>Allgood - 为您的 TS/JS 应用提供即时健康检查（支持 Express、Hono 和 Fastify）</title>
+      <title>Allgood - 即时检查您的 TS/JS 应用的健康情况（支持 Express、Hono 和 Fastify）</title>
       <link>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</link>
       <description><![CDATA[嘿 r/opensource，我最终设置的样板文件的一部分是健康检查系统。受到 Ruby Gem（同名）的启发，我决定创建一个健康检查页面，您可以将其附加到 javascript 或 typescript 项目的路由（通常是 /healthcheck）。 这是一个有趣的学习项目，开源无疑让我更加注意我的代码质量。 我还添加了一些测试（我真的应该进行 TDD，但没关系），这样我就可以轻松接受贡献和修复。 希望你喜欢！    提交人    /u/joshghent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h6l50t/eu_open_source_policy_summit/</guid>
       <pubDate>Wed, 04 Dec 2024 17:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux基金会会员峰会</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6kyee/the_linux_foundation_member_summit/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6kyee/the_linux_foundation_member_summit/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:58:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
