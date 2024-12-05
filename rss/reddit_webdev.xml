@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:27:25 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 05 Dec 2024 12:49:55 GMT</lastBuildDate>
+    <item>
+      <title>新手：VanillaJS 样板还是框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h77wzm/newbies_vanillajs_boilerplates_or_framework/</link>
+      <description><![CDATA[如果您要在项目中使用样板。您更喜欢使用纯 Javascript、HTML 和 CSS 还是使用 React 或 Vue 等 Web 框架构建？    提交人    /u/genkaobi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h77wzm/newbies_vanillajs_boilerplates_or_framework/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的网站监控级别是多少？您有监控吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/</link>
+      <description><![CDATA[就背景而言，我曾在一家网站监控公司工作了 4 年多 - 我们为从中小企业到企业客户等各行各业的公司建立、全面管理和协助其进行监控。我们的 USP 是监控从主页到结帐的用户旅程，检测问题和 Magecart/数据泄露。 我对目前对网站监控的总体看法、您使用的工具以及您从中获得的价值很感兴趣！    提交人    /u/sharkbot4000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发（前端）与编程（软件）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h76zwh/web_dev_front_end_vs_programming_software/</link>
+      <description><![CDATA[你好！ 所以我正在考虑换个职业，从心理学转到其他领域，而且正在研究 IT（说来话长）。无论如何，我现在只是处于最基本的头脑风暴阶段……但有一件事我很好奇，那就是 Web 开发（特别是前端）和软件编程。具体来说，人们会说目前哪个入门级的工作前景最好？我正在寻找一些有保障的工作，只是我可以进入某个地方，埋头苦干，做我的工作。但我厌倦了再次攻读学位，只是为了到最后发现工作很难找。为了获得更多关于就业市场的信息——我住在澳大利亚。我还应该说，我还在考虑很多其他方面，比如我更喜欢哪种工作满意度等等……但我只是在这里专门考虑前景。 干杯 :)    提交人    /u/debaser00   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h76zwh/web_dev_front_end_vs_programming_software/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有好的 3D 滚动动画登陆页面模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h76i1y/are_there_any_good_3d_scroll_animation_landing/</link>
+      <description><![CDATA[所以我是一名自由职业者。我的客户想要一个登录页面，该页面是通往 lumalabs 梦想机器网站的 40-50％ 路径 https://lumalabs.ai/dream-machine 我们希望能够更快地完成一些事情，并且比我必须重新发明轮子更便宜。 如果我们能找到一些模板或开源示例，可以到达该网站的 50％，他会很灵活。 我尝试过非常彻底地在线搜索，但我找到的只是一些乏善可陈的 github repos 和不稳定的动画 我只是想知道你们中是否有人知道任何开源甚至付费模板或示例，例如任何语言（可以是 react、vue 甚至是纯 js），我可以将其用作客户需要的开端。    提交人    /u/Known_Contact8939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h76i1y/are_there_any_good_3d_scroll_animation_landing/</guid>
+      <pubDate>Thu, 05 Dec 2024 10:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>政治谎言网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h76d1m/political_lies_website/</link>
+      <description><![CDATA[我正在考虑创建一个揭露政府谎言的网站，我希望它最好建立在 wordpress 上，因为我可以使用 Ai 工具自动发布内容并允许它在最少交互的情况下增长。 我不想将它托管在我使用的常规 Web 服务器上，我希望有某种方式可以实现匿名性和不可追溯性等。  我之前没有考虑过这个问题，你会怎么做？我应该在与我国没有互惠安排的国家/地区托管吗？ 我欢迎任何建议。    提交人    /u/NoBig2197   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h76d1m/political_lies_website/</guid>
+      <pubDate>Thu, 05 Dec 2024 10:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learndash 和 FluentCRM API 相关问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/</link>
+      <description><![CDATA[大家好， 我正在运行一个托管在 Rapyd Cloud 上的 WordPress 网站，该网站使用 LearnDash 作为 LMS，使用 FluentCRM 管理电子邮件参与度，使用 WP Fusion 进行高级同步。我还使用 Uncanny Automator 和 LearnDash Notifications 来实现附加功能。 以下是我想要实现的目标： 当学生完成 LearnDash 中的某个主题时，我想在 FluentCRM 中的自定义字段中记录该学生的完成日期。 7 天或 14 天后，我想检查学生是否已开始学习课程的下一个主题。 如果在这两周内没有检测到任何进展，FluentCRM 应该触发一封自动电子邮件，鼓励他们继续学习。 我已经使用 LearnDash 的钩子和 FluentCRM 的 API 编写了一个 PHP 函数来更新自定义字段，但是它不起作用。 FluentCRM 中未存储完成日期，我不确定问题出在钩子、API 调用还是其他方面。 我还联系了 Rapyd Cloud 的支持人员，以检查这是否可能是与服务器相关的问题，但他们确认这更多的是应用程序级别的问题，并建议我使用 LearnDash 或 FluentCRM 进行检查。 我有一些问题： learndash_topic_completed 是否是此问题的正确钩子，或者是否有更好的钩子可用？ 是否有更可靠的方法以编程方式更新 FluentCRM 自定义字段？ 对于后续问题，我是否应该考虑使用 WP Fusion 的标记功能或 cron 作业来提高可靠性？ 以下是我一直在查看的相关文档链接： LearnDash 开发人员文档 FluentCRM API 文档 WP Fusion 文档 如果有人设置了类似的东西或者可以指出我可能出错的地方，我将非常感谢您的帮助！ 如果您需要更多详细信息，请告诉我。 https://developers.fluentcrm.com/global-functions/ https://developers.learndash.com/    提交人    /u/OpheliaOoze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/</guid>
+      <pubDate>Thu, 05 Dec 2024 09:39:05 GMT</pubDate>
+    </item>
     <item>
       <title>您使用什么来启动您的网站？Vercel？Cloudflare？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>如何获取 Wix 代码并独立托管。</title>
       <link>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</link>
-      <description><![CDATA[我有一个通过 Wix 设计的网站。域名是通过 Hostinger 注册的，Wix 为我连接。Wix 每年向我收取约 150 欧元的费用。我已经这样做了好几年了。 有人可以给我一个教程，教我如何获取网站代码并自己动手吗？我想这不会太难。我想这需要获取页面的源代码、收集图像资源并更改它们在代码中的位置。也许我错了，还有很多事情需要处理。我本身不是程序员，但我确实对事物有基础知识。 如果有人能给我指明正确的方向，我将不胜感激！    提交人    /u/teddade   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个通过 Wix 设计的网站。域名是通过 Hostinger 注册的，Wix 为我连接了它。Wix 每年向我收取约 150 欧元的费用。我已经这样做了好几年了。 有人能给我一个教程，教我如何获取网站代码并自己动手吗？我想这不会太难。我想这需要获取页面的源代码、收集图像资源并更改它们在代码中的位置。也许我错了，还有很多事情需要处理。我本身不是程序员，但我确实有基础知识。 如果有人能给我指明正确的方向，我将不胜感激！ 编辑：感谢您的反馈。这对我来说是不可行的，而且总的来说，这是一个坏主意。    提交人    /u/teddade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</guid>
       <pubDate>Thu, 05 Dec 2024 08:40:27 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>您拥有哪个随机网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</link>
-      <description><![CDATA[无论它们有多么奇怪或愚蠢，请告诉我    由    /u/Permatheus 提交   [链接] [评论]]]></description>
+      <description><![CDATA[无论它们有多么奇怪或愚蠢，请告诉我    提交人    /u/Permatheus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</guid>
       <pubDate>Thu, 05 Dec 2024 03:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>半成功网站（和开发者）的下一步</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6z7l4/next_steps_for_semisuccessful_websites_and_devs/</link>
-      <description><![CDATA[这些年来，我创建了几个网站，但在过去 12 个月左右的时间里，通过大学学习，我的技能得到了大幅提升。 我目前有一个简单的游戏网站，平均每天有 400 名用户，每周有 10,000 次浏览。这是一个每 24 小时重置一次的小型益智游戏。 经过几个月的极少互动，它已经完全自然地在几个月内发展到了这个地步，但增长正在放缓。 那么现在该怎么做？尝试为网站做广告？在网站上投放谷歌广告，希望每周能赚到 20-30 美元，希望不要疏远用户？ 我目前的全职工作是音频制作和新闻，所以我习惯于用技术创造创意。我想我可以制作更多吸引用户的网站，但谁知道呢？靠这个挣钱维持生计似乎不太可能。  我做过但还没有放到互联网上的最复杂的网站是一个用 Flask 做的电子商务网站 - 除此之外大多是小游戏。我认为自己更像是一个创意者而不是一个严格的开发者 - 我可以用很少的东西做很多事情。话虽如此，我正在攻读计算机科学研究生。 抱歉，我说得有点多 - 只是寻求帮助或指导。也许有一个答案摆在我面前，或者有一个我不知道的工作？ 非常感谢（如果这个用户或观点的水平不值得讨论，我深表歉意）：）。    提交人    /u/CallMeMaybeReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6z7l4/next_steps_for_semisuccessful_websites_and_devs/</guid>
-      <pubDate>Thu, 05 Dec 2024 03:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在德国，初级网络开发人员和核工程师谁找工作更难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/</link>
-      <description><![CDATA[好奇    由   提交  /u/Financial_Extent888   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/</guid>
-      <pubDate>Thu, 05 Dec 2024 02:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>API：联系我们了解定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/</link>
-      <description><![CDATA[真的不明白这种商业模式。通常是否要真诚地与每个客户制定量身定制的定价协议？当你有竞争对手时，为什么你要故意制造这么多摩擦。让我试试你的 API。给我看看他妈的价格。我不会填写网络表格并等待 6 天才能与销售人员交谈。    提交人    /u/cryptoglyphics   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/</guid>
-      <pubDate>Thu, 05 Dec 2024 02:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不同时间加载网站的部分内容？（例如 Reddit）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6wk20/how_to_load_parts_of_a_website_at_a_different/</link>
-      <description><![CDATA[使用 reddit，当页面加载时（在帖子上）  左侧加载（菜单项） 然后会显示通知（红色通知） 然后是评论  全部在不同时间。 这是使用 await/asyncs 完成的吗？ 那么每个部分在有数据时都会加载吗？ 快速片段看起来会是什么样子？ 谢谢    提交人    /u/TheJesterOfHyrule   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6wk20/how_to_load_parts_of_a_website_at_a_different/</guid>
-      <pubDate>Thu, 05 Dec 2024 00:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>会议期间如何更好地沟通？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6vzet/how_to_communicate_better_during_meetings/</link>
-      <description><![CDATA[我是一名新开发人员，我面临的一个问题是，在团队会议期间，能否清楚地传达任务的挑战。有时，客户会要求添加新内容或修改一些预构建的内容，这在理论上听起来很容易，但在技术上却带来了巨大的挑战。这可能是完全不可能做到的事情，也可能超出了我的技能范围。我发现，当我试图传达困难时，我被视为“没有能做的态度”或“不想做艰苦的工作”。老板会打断我，告诉我我必须想办法。  我觉得，作为一名开发人员，我的工作是清楚地传达客户要求的可能性和/或提供可能的解决方案。但我的老板只是想让我对任何事情都说“是”，我认为这是因为我花在项目上的时间越多，他就能向客户收取更多的费用。这可能意味着放弃一项任务，然后什么都不做，说我已经尝试了 xyz 但没有成功，而这整个废话本来可以避免的。我得到了报酬，所以并不是抱怨，但这感觉像是剥削。  而其他开发人员虽然了解任务的范围，但他们只是同意老板和客户保持良好的一面，因为无论如何都会是我而不是他们做这项工作。此外，在通话期间，他们会简要查看我的代码并与客户确认我所说的内容，我认为这是不尊重的，因为我是编写代码的人，但客户更信任甚至不是项目一部分的人。他们也很快提出建议，即使他们对代码库一无所知，这很烦人。  我可以做些什么？     提交人    /u/processing102   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6vzet/how_to_communicate_better_during_meetings/</guid>
-      <pubDate>Thu, 05 Dec 2024 00:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个内容痛苦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6vo58/first_contentful_paint/</link>
-      <description><![CDATA[      大家好， 这是我的第一个网站，完全从头开始编写，并从一开始就进行优化。我有两个问题：  我不太明白首次内容绘制 (FCP) 是什么意思，也不知道如何改进它，因为该网站纯粹是用 HTML 和 CSS 构建的，没有花哨的功能或大图像。 根据您的经验，这些指标是否真的会影响网站的抓取、索引或排名？  提前谢谢您！ https://preview.redd.it/xg4cybfu9x4e1.png?width=618&amp;format=png&amp;auto=webp&amp;s=645fbd0c061406268f550073573f9bf278071e10    提交人    /u/pltcmod   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6vo58/first_contentful_paint/</guid>
-      <pubDate>Thu, 05 Dec 2024 00:16:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
