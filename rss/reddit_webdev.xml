@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 05 Dec 2024 12:49:55 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 05 Dec 2024 18:32:30 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以帮助解决朋友的独特请求的网站或应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7furi/looking_for_a_web_or_app_that_can_help_solve/</link>
+      <description><![CDATA[他希望在自己的网站上预加载数百个鼓励性音频片段，然后让用户选择他们需要鼓励的内容，然后系统会将自定义的音频片段与他上传的相应音频合并发送给他们。 有没有什么可以做到这一点的？    提交人    /u/borbafett1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7furi/looking_for_a_web_or_app_that_can_help_solve/</guid>
+      <pubDate>Thu, 05 Dec 2024 18:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next Js React 网站现在无法正常工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7eocq/next_js_react_website_not_working_now/</link>
+      <description><![CDATA[嗨，我正在构建这个作品集网站，并一直在尝试部署它。Git hub pages 无法工作（我不知道为什么），所以我尝试了 Vercel，但它也没有用，然后在我使用 gh 命令之后突然开始工作（我试图让它部署在 git hub pages 上） 本地主机 3000 现在显示“404 not found” 这是 vercel 链接，如您所见，我不知道为什么它看起来不像预期的那样，似乎没有 CSS（我正在使用 Tailwind CSS） https://portfolio-website-f8xios470-sarthak-jhas-projects-25666387.vercel.app/?vercelToolbarCode=UOlpi2CPDxmkiyb 这是我的 git hub repo 链接：https://github.com/sgsjha/Portfolio-Website 请帮忙    提交人    /u/SaxyBoiiiii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7eocq/next_js_react_website_not_working_now/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用浏览器后退按钮 React 时强制重新加载页面。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7e8h7/force_page_reload_when_using_browser_back_button/</link>
+      <description><![CDATA[      大家好， 不确定标题是否正确符合问题但是…… 我目前正在使用 React 和 TMDB api 创建 Netflix 克隆。您可以在此处查看。 https://filmflix.strong-concepts.com 我在查看电视节目或电影的页面时遇到了这个问题。 如果我转到“您可能喜欢的部分”并单击指向另一个节目页面的链接，则一切正常。 当我单击浏览器后退导航按钮时，问题就出现了，图像、视频和文本文件不会更新。  所以，我在发件人描述页面上，然后导航到茶杯页面并按后退按钮。 链接会显示您在发件人页面上，但它仍会显示茶杯页面信息。 有人知道我该如何解决这个问题吗？    提交人    /u/TheSensibleProdigal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7e8h7/force_page_reload_when_using_browser_back_button/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我开始成为一名开发人员时，我认为我必须擅长一切</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7dwbn/when_i_started_as_a_developer_i_thought_i_had_to/</link>
+      <description><![CDATA[刚开始的时候，我感到压力很大，必须擅长所有事情：编码、设计、选择字体、颜色、布局。这种压力很快就让我应接不暇。 我以为成为一名“开发人员”不仅意味着掌握代码，还要掌握设计、用户体验，有时甚至还要掌握营销。但随着时间的推移，我意识到，不必擅长所有事情，无论是马上还是永远。 刚开始的时候你也有这种感觉吗？你能戴多少顶帽子？    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7dwbn/when_i_started_as_a_developer_i_thought_i_had_to/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7dq53/animation_questions/</link>
+      <description><![CDATA[大家好，我很好奇人们如何在滚动时动态地完成这些线条动画？我说的是那个旋转的小白球： https://jasminadenner.com/ 谢谢你！！:)    提交人    /u/kssuo_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7dq53/animation_questions/</guid>
+      <pubDate>Thu, 05 Dec 2024 16:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>SurrealDB Cloud 测试版现已推出。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7d1pc/surrealdb_cloud_beta_now_available/</link>
+      <description><![CDATA[  由    /u/Valinaut  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7d1pc/surrealdb_cloud_beta_now_available/</guid>
+      <pubDate>Thu, 05 Dec 2024 16:25:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SSG 的 LMS 解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7cnrm/lms_solutions_that_use_a_ssg/</link>
+      <description><![CDATA[一段时间以来，我一直在使用 Hugo 来运营博客，并使用 MKDocs 来编写文档（将我的博客从 Wordpress 移到 Hugo 真的很麻烦）。 我曾考虑创建一个会员网站来举办课程（使用 Vimeo 播放视频）。 以前我使用过 Wordpress 和 LearnDash 等插件，但自从摆脱了 Wordpress 后，我就不想再用了，我想知道是否有可以使用的 SSG 解决方案。我发现 SSG 的工作流程非常好。 有人用过 SSG 来举办课程吗？ 会员资格可以通过 .htpasswd 来控制，我想我最多只有几百名会员。    提交人    /u/Sam-Russell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7cnrm/lms_solutions_that_use_a_ssg/</guid>
+      <pubDate>Thu, 05 Dec 2024 16:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>AgentWeb 的崛起</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/</link>
+      <description><![CDATA[这是我最近一直在思考的问题。基本上就是未来网络将如何随着人工智能而发展的想法。你可以在我的帖子中阅读整个内容，但这里只标记一些内容： “网络正在分裂成两个截然不同的未来：一个由无情的人工智能代理驱动，另一个由人类之手塑造。这让我既兴奋又悲伤——对人工智能驱动的效率的可能性感到兴奋，但又怀念人类触摸的工艺。让我们深入探讨这对网络开发和所有权的未来意味着什么。 AgentWeb 的崛起 AgentWeb 代表了网络开发的工业化，其中人工智能代理可以大规模自主构建、维护和优化网站。这些数字资产将诞生于庞大的 WebFarms（还记得比特币农场吗？），其中 AI 系统处理从设计决策到内容优化和用户体验改进的所有事务。 对于网站所有者来说，这意味着通过 AI 处理实现无须干预的管理：  完整的品牌标识创建和发展 内容创建和 SEO 优化 自动维护和安全更新 实时性能监控和优化 通过持续测试改进用户体验 集成社交媒体存在和内容分发  ArtisanWeb 的未来复兴 另一方面，我们可能正在见证手工制作网站的复兴。就像精酿啤酒与批量生产的啤酒一样，ArtisanWeb 代表了网页开发的精品方法。我可以想象网络上的内容被标记为“由人类手工制作”或“未使用人工智能创建此内容”。 有趣的是，虽然手工制作的网站会自豪地展示这些标签，但网络农场不会做相反的事情：人工智能生成的内容。他们可能会试图伪造它们真的是手工制作的内容。就像浏览器曾经伪造身份以获得兼容性一样，人工智能生成的网站可能会努力模仿人类的工艺来获得信任——这是人工智能驱动的数字时代一场新的真实性之战。&quot; 我很好奇大家是怎么想的。 完整帖子的链接： https://www.mantcz.com/blog/the-coming-bifurcation-of-the-web-agentweb-vs-artisanweb    提交人    /u/mantcz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/</guid>
+      <pubDate>Thu, 05 Dec 2024 15:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Homebrew 上使用 Apache 等待 5 秒</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/</link>
+      <description><![CDATA[我正在一台新的 Macbook Air 上通过 homebrew 本地处理 apache/php/mariadb/一些其他东西；大多数时候（但不是每次）请求大约在五秒钟内返回（当然至少是五秒钟） 也就是说，浏览器（或任何发出请求的东西，cURL、Postman 等）会挂起一段时间，然后请求返回，没有明显的问题。请求持续时间总是五点几秒。 我以前在另一台 Mac 上有同样的堆栈，同样的问题。环顾四周，但没有发现任何结论，这很烦人。其他服务器（例如，在节点中工作）不会导致同样的问题。有人遇到过类似的事情吗？    提交人    /u/_qqg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/</guid>
+      <pubDate>Thu, 05 Dec 2024 14:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 UX 设计师来合作开发学校时间表应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/</link>
+      <description><![CDATA[大家好，我是 Luca，一名 17 岁的计算机科学专业学生，对 Web 开发 (HTML/CSS/JavaScript) 充满热情。我正在重建一个我创建的应用程序，该应用程序用于轻松管理学校科目和课程安排，并希望让它对每个人都更易于使用、更直观、更人性化。 我正在寻找了解以下内容的队友：  UX 设计原则 应用程序可访问性 人机交互心理学 良好的 UI 设计实践（Figma 经验是加分项！）  这是一个非货币化的开源项目，因此没有人获得报酬，但您的贡献将完全记入应用程序中，这对我们双方来说都是一个强大的投资组合。 如果您有兴趣，请在下方发表评论，我们将联系您进一步讨论该项目。交流将以英语进行。 让我们一起创造伟大的东西吧！    提交人    /u/Flying_Pizzaaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/</guid>
+      <pubDate>Thu, 05 Dec 2024 13:14:20 GMT</pubDate>
+    </item>
     <item>
       <title>新手：VanillaJS 样板还是框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h77wzm/newbies_vanillajs_boilerplates_or_framework/</link>
@@ -18,13 +88,6 @@
       <description><![CDATA[就背景而言，我曾在一家网站监控公司工作了 4 年多 - 我们为从中小企业到企业客户等各行各业的公司建立、全面管理和协助其进行监控。我们的 USP 是监控从主页到结帐的用户旅程，检测问题和 Magecart/数据泄露。 我对目前对网站监控的总体看法、您使用的工具以及您从中获得的价值很感兴趣！    提交人    /u/sharkbot4000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/</guid>
       <pubDate>Thu, 05 Dec 2024 11:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发（前端）与编程（软件）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h76zwh/web_dev_front_end_vs_programming_software/</link>
-      <description><![CDATA[你好！ 所以我正在考虑换个职业，从心理学转到其他领域，而且正在研究 IT（说来话长）。无论如何，我现在只是处于最基本的头脑风暴阶段……但有一件事我很好奇，那就是 Web 开发（特别是前端）和软件编程。具体来说，人们会说目前哪个入门级的工作前景最好？我正在寻找一些有保障的工作，只是我可以进入某个地方，埋头苦干，做我的工作。但我厌倦了再次攻读学位，只是为了到最后发现工作很难找。为了获得更多关于就业市场的信息——我住在澳大利亚。我还应该说，我还在考虑很多其他方面，比如我更喜欢哪种工作满意度等等……但我只是在这里专门考虑前景。 干杯 :)    提交人    /u/debaser00   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h76zwh/web_dev_front_end_vs_programming_software/</guid>
-      <pubDate>Thu, 05 Dec 2024 11:24:14 GMT</pubDate>
     </item>
     <item>
       <title>有没有好的 3D 滚动动画登陆页面模板</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[大家好， 我正在运行一个托管在 Rapyd Cloud 上的 WordPress 网站，该网站使用 LearnDash 作为 LMS，使用 FluentCRM 管理电子邮件参与度，使用 WP Fusion 进行高级同步。我还使用 Uncanny Automator 和 LearnDash Notifications 来实现附加功能。 以下是我想要实现的目标： 当学生完成 LearnDash 中的某个主题时，我想在 FluentCRM 中的自定义字段中记录该学生的完成日期。 7 天或 14 天后，我想检查学生是否已开始学习课程的下一个主题。 如果在这两周内没有检测到任何进展，FluentCRM 应该触发一封自动电子邮件，鼓励他们继续学习。 我已经使用 LearnDash 的钩子和 FluentCRM 的 API 编写了一个 PHP 函数来更新自定义字段，但是它不起作用。 FluentCRM 中未存储完成日期，我不确定问题出在钩子、API 调用还是其他方面。 我还联系了 Rapyd Cloud 的支持人员，以检查这是否可能是与服务器相关的问题，但他们确认这更多的是应用程序级别的问题，并建议我使用 LearnDash 或 FluentCRM 进行检查。 我有一些问题： learndash_topic_completed 是否是此问题的正确钩子，或者是否有更好的钩子可用？ 是否有更可靠的方法以编程方式更新 FluentCRM 自定义字段？ 对于后续问题，我是否应该考虑使用 WP Fusion 的标记功能或 cron 作业来提高可靠性？ 以下是我一直在查看的相关文档链接： LearnDash 开发人员文档 FluentCRM API 文档 WP Fusion 文档 如果有人设置了类似的东西或者可以指出我可能出错的地方，我将非常感谢您的帮助！ 如果您需要更多详细信息，请告诉我。 https://developers.fluentcrm.com/global-functions/ https://developers.learndash.com/    提交人    /u/OpheliaOoze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/</guid>
       <pubDate>Thu, 05 Dec 2024 09:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么来启动您的网站？Vercel？Cloudflare？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/</link>
-      <description><![CDATA[嘿， 我只是想问一下您使用什么平台来启动您的网站？因为我最近一直在使用 Vercel 和 Cloudflare Pages，我认为 Vercel 提供了更多便利，而 Cloudflare 为免费套餐提供了更好的功能。    提交人    /u/Status_Condition1363   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/</guid>
-      <pubDate>Thu, 05 Dec 2024 09:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获取 Wix 代码并独立托管。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</link>
-      <description><![CDATA[我有一个通过 Wix 设计的网站。域名是通过 Hostinger 注册的，Wix 为我连接了它。Wix 每年向我收取约 150 欧元的费用。我已经这样做了好几年了。 有人能给我一个教程，教我如何获取网站代码并自己动手吗？我想这不会太难。我想这需要获取页面的源代码、收集图像资源并更改它们在代码中的位置。也许我错了，还有很多事情需要处理。我本身不是程序员，但我确实有基础知识。 如果有人能给我指明正确的方向，我将不胜感激！ 编辑：感谢您的反馈。这对我来说是不可行的，而且总的来说，这是一个坏主意。    提交人    /u/teddade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</guid>
-      <pubDate>Thu, 05 Dec 2024 08:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否会考虑使用 API 进行图像优化？寻求反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/</link>
-      <description><![CDATA[我们的在线图像升级器取得了良好的效果，因此我们决定推出一个 API 版本 (https://ai.nero.com/ai-api)，该版本具有升级、去噪和压缩等功能。但到目前为止，我们并没有引起太大的兴趣。 如果您是开发人员或从事图像工作，您会考虑使用这样的 API 吗？如果没有，您认为这个 API 的合适受众在哪里？ 任何反馈或想法都将不胜感激！    提交人    /u/Safe_Mousse_5660   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/</guid>
-      <pubDate>Thu, 05 Dec 2024 06:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建网站帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h734us/create_website_help/</link>
-      <description><![CDATA[您好，我是一名年轻的企业家，正在创办一家总承包公司，我想要一个看起来像这样的网站  https://www.wgyates.com 如果您能帮助我，请告诉我，我愿意付钱     提交人    /u/Pako_El_Loko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h734us/create_website_help/</guid>
-      <pubDate>Thu, 05 Dec 2024 06:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个全栈开发人员课程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/</link>
-      <description><![CDATA[我至少需要一个基本的课程才能从零开始成为一名全栈开发人员。 （实际上，我之前有一些前端和后端经验，但大约 1-2 年我没有做过与它们相关的任何事情。 正如你们大多数人所知，Github 上有一个名为 100 days of frontend 的存储库（https://github.com/nas5w/100-days-of-code-frontend），但我认为它不再是最新的了，而且这个资源只关注前端。你觉得这个存储库怎么样，它是最新的吗？我应该从这个开始吗？还是你对我有不同的建议？    提交人    /u/Ced3j   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/</guid>
-      <pubDate>Thu, 05 Dec 2024 06:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何消除这些 three.js 渲染瑕疵？仅在移动设备上显示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h71kdk/how_do_i_get_rid_of_these_threejs_rendering/</link>
-      <description><![CDATA[        提交人    /u/scottshambaugh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h71kdk/how_do_i_get_rid_of_these_threejs_rendering/</guid>
-      <pubDate>Thu, 05 Dec 2024 05:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>这位雇主想要什么？SSR？或者我可以打他们“无法获取/”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h71d4m/what_is_this_employer_asking_for_ssr_or_can_i_hit/</link>
-      <description><![CDATA[       由    /u/SkierBeard  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h71d4m/what_is_this_employer_asking_for_ssr_or_can_i_hit/</guid>
-      <pubDate>Thu, 05 Dec 2024 04:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为健身教练建立网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h70brh/how_to_build_a_website_for_a_fitness_coach/</link>
-      <description><![CDATA[我想做一个有趣的网站，一个健身教练网站，有一个付费墙来观看视频和餐食准备。我使用 html、css、JavaScript、barba.J、jQuery 等制作了很多静态网站。但还没有弄乱任何后端或任何东西。构建这样的网站的最佳方法是什么？    提交人    /u/josephadam1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h70brh/how_to_build_a_website_for_a_fitness_coach/</guid>
-      <pubDate>Thu, 05 Dec 2024 04:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您拥有哪个随机网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</link>
-      <description><![CDATA[无论它们有多么奇怪或愚蠢，请告诉我    提交人    /u/Permatheus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</guid>
-      <pubDate>Thu, 05 Dec 2024 03:12:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
