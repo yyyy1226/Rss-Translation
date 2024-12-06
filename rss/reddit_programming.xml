@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Dec 2024 03:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 06:35:04 GMT</lastBuildDate>
+    <item>
+      <title>Qodo Cover - 完全自主的代理解决了回归测试的复杂性</title>
+      <link>https://www.reddit.com/r/programming/comments/1h7v8si/qodo_cover_fully_autonomous_agent_tackles_the/</link>
+      <description><![CDATA[  由    /u/thumbsdrivesmecrazy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h7v8si/qodo_cover_fully_autonomous_agent_tackles_the/</guid>
+      <pubDate>Fri, 06 Dec 2024 06:34:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 LLM，即使你不擅长编码，也必须精通编码才能完成工作。我使用 chatGPT 设置使用 python 和 C++ 的自动化测试，我几乎不懂如何编码，但至少了解电子和 I/O 扩展的基础知识。</title>
+      <link>https://www.reddit.com/r/programming/comments/1h7uury/using_llms_is_it_necessary_to_be_proficient_at/</link>
+      <description><![CDATA[  由    /u/sirlarpsalone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h7uury/using_llms_is_it_necessary_to_be_proficient_at/</guid>
+      <pubDate>Fri, 06 Dec 2024 06:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国软件工程薪酬地图</title>
+      <link>https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>React v19 – React</title>
+      <link>https://www.reddit.com/r/programming/comments/1h7tgk0/react_v19_react/</link>
+      <description><![CDATA[  由    /u/Abhi_mech007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h7tgk0/react_v19_react/</guid>
+      <pubDate>Fri, 06 Dec 2024 04:46:54 GMT</pubDate>
+    </item>
     <item>
       <title>使用排序集成学习的机器学习交易机器人</title>
       <link>https://www.reddit.com/r/programming/comments/1h7s4gp/ml_trading_bot_that_uses_ranked_ensemble_learning/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h7i8eu/snake_game_for_macintosh_classic_programming/</guid>
       <pubDate>Thu, 05 Dec 2024 19:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用您自己的参考资料库中的引文进行 AI 图表绘制</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7hlho/ai_diagramming_with_citations_from_your_own/</link>
-      <description><![CDATA[  由    /u/ShinKim11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7hlho/ai_diagramming_with_citations_from_your_own/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Wardley Mapping 和 DDD 优化组织流程 • Susanne Kaiser 和 James Lewis [播客]</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7hg9q/optimizing_organizational_flow_with_wardley/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7hg9q/optimizing_organizational_flow_with_wardley/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>React v19 – React</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7hex8/react_v19_react/</link>
-      <description><![CDATA[  由    /u/neiesc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7hex8/react_v19_react/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>聚合开发工具网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7h7js/aggregated_dev_tools_website/</link>
-      <description><![CDATA[  由    /u/beeTickit  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7h7js/aggregated_dev_tools_website/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:16:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
