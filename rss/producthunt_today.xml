@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Dec 2024 15:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 18:33:59 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 专业版</title>
       <link>https://www.producthunt.com/posts/chatgpt-pro-1</link>
@@ -104,20 +104,6 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Thu, 05 Dec 2024 09:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>雅典</title>
-      <link>https://www.producthunt.com/posts/athina</link>
-      <description><![CDATA[
-构建、测试和监控 AI 应用和代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/athina</guid>
-      <pubDate>Thu, 05 Dec 2024 04:44:41 GMT</pubDate>
-    </item>
-    <item>
       <title>电子邮件捕捉器</title>
       <link>https://www.producthunt.com/posts/emailcatcher</link>
       <description><![CDATA[
@@ -132,18 +118,32 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Thu, 05 Dec 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>旅行包装</title>
-      <link>https://www.producthunt.com/posts/travel-wrapped</link>
+      <title>简单的AI电话助手</title>
+      <link>https://www.producthunt.com/posts/simple-ai-phone-assistant</link>
       <description><![CDATA[
-将您一年的旅行变成可分享的信息图
+Simple AI 可以拨打电话，这样您就不必自己拨打电话了
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/travel-wrapped</guid>
-      <pubDate>Wed, 04 Dec 2024 19:06:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/simple-ai-phone-assistant</guid>
+      <pubDate>Wed, 04 Dec 2024 05:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 的花粉</title>
+      <link>https://www.producthunt.com/posts/pollen-for-linkedin</link>
+      <description><![CDATA[
+标记、整理并向 LinkedIn 个人资料添加注释
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pollen-for-linkedin</guid>
+      <pubDate>Mon, 02 Dec 2024 06:35:07 GMT</pubDate>
     </item>
     <item>
       <title>Playmaker 出品的桌子</title>
@@ -174,20 +174,6 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Mon, 25 Nov 2024 14:50:48 GMT</pubDate>
     </item>
     <item>
-      <title>超频</title>
-      <link>https://www.producthunt.com/posts/sdrx</link>
-      <description><![CDATA[
-AI SDR 让您的出站自动运行
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sdrx</guid>
-      <pubDate>Mon, 25 Nov 2024 11:51:45 GMT</pubDate>
-    </item>
-    <item>
       <title>ZenAdmin</title>
       <link>https://www.producthunt.com/posts/zenadmin</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@ AI SDR 让您的出站自动运行
 ]]></description>
       <guid>https://www.producthunt.com/posts/zenadmin</guid>
       <pubDate>Fri, 22 Nov 2024 09:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>反射云</title>
+      <link>https://www.producthunt.com/posts/reflex-cloud</link>
+      <description><![CDATA[
+使用纯 Python 构建 Web 应用 + 使用单个命令进行部署
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/reflex-cloud</guid>
+      <pubDate>Thu, 14 Nov 2024 21:47:25 GMT</pubDate>
     </item>
     <item>
       <title>指针</title>
