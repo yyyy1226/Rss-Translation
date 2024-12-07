@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 07 Dec 2024 01:54:10 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 07 Dec 2024 03:36:47 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday] 这是一个有趣的挑战。仅使用 html、css 和 javascript。（瑞典语文本）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8ji1q/showoff_saturday_this_was_a_fun_challenge_only/</link>
+      <description><![CDATA[  由    /u/wilwester  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8ji1q/showoff_saturday_this_was_a_fun_challenge_only/</guid>
+      <pubDate>Sat, 07 Dec 2024 03:26:36 GMT</pubDate>
+    </item>
     <item>
       <title>[Showoff Saturday] 一个让你无缘无故付钱的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1h8hdwl/showoff_saturday_a_site_that_lets_you_pay_money/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 06 Dec 2024 22:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>您能对我的登陆页面提供反馈吗？</title>
+      <title>您能针对我的登陆页面给我一些反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/</link>
       <description><![CDATA[好奇有关我的新入职页面的任何评论。 我怎样才能使它变得更好或者你喜欢它什么？ 查看它 - 在几秒钟内看到你想象的任何东西 简短说明；这是一个只是为了好玩的 AI 艺术社区平台，它重视共同构建图像并且速度非常快 - 它几乎就像你在玩视频游戏一样，它不是基于订阅的，也不计划成为其他 gens 那样的工具。    提交人    /u/GenTube0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>使用用户位置</title>
       <link>https://www.reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/</link>
-      <description><![CDATA[tldr：我有一个应用程序，它要求用户输入位置并将其存储在本地存储中，但它给我带来了问题。我正在寻找一篇文章或一些关于如何在 react/next 应用程序中处理用户位置的提示。 完整故事- 我计划在整个应用程序中使用位置，因此我计划使用上下文。一个问题是我是否应该在加载时询问位置，这意味着任何加载的页面都会询问用户位置，即使在不需要的页面上也是如此。为此，我可以在我的上下文中添加第二个函数，如 fetchLocation，并且在页面上需要位置，如果 !location fetchLocation。所以现在我需要检查每个页面位置是否需要？ 此外，有些人不喜欢分享位置。在某种程度上，我不想打扰他们，但我应该尝试处理这个问题，至少要优雅地处理它，而不是出现页面错误。我正在考虑使用 API 调用来尝试从 IP 地址获取某个位置，或者只是让人们选择他们想要使用的城市 此主页是一个使用位置的事件页面，也可以移动地图并获取纬度/经度，因此有一些逻辑可以更改事件位置。在那里的某个地方，我把事情搞混了，在初始加载时，地图试图加载而没有任何一个并且出现错误。如果前两个问题解决了，也许我就不会陷入这种情况。但我显然做了一些不合时宜的事情。例如，在隐身模式下测试时，页面失败，因为使用位置的请求仍然在屏幕上。     提交人    /u/mrdanmarks   [链接] [评论]]]></description>
+      <description><![CDATA[tldr：我有一个应用程序，它要求用户输入位置并将其存储在本地存储中，但它给我带来了问题。我正在寻找一篇文章或一些关于如何在 react/next 应用程序中处理用户位置的提示。 完整故事- 我计划在整个应用程序中使用位置，因此我计划使用上下文。一个问题是我是否应该在加载时询问位置，这意味着任何加载的页面都会询问用户位置，即使在不需要的页面上也是如此。为此，我可以在我的上下文中添加第二个函数，如 fetchLocation，并且在页面上需要位置，如果 !location fetchLocation。所以现在我需要检查每个页面位置是否都需要？ 此外，有些人不喜欢分享位置。在某种程度上，我不想打扰他们，但我应该尝试处理这个问题，至少要优雅地处理它，而不是出现页面错误。我正在考虑使用 API 调用来尝试从 IP 地址获取某个位置，或者只是让人们选择他们想要使用的城市 此主页是一个使用位置的事件页面，也可以移动地图并获取纬度/经度，因此有一些逻辑可以更改事件位置。在那里的某个地方，我把事情搞混了，在初始加载时，地图试图加载而没有任何一个并且出现错误。如果前两个问题解决了，也许我就不会陷入这种情况。但我显然做了一些不合时宜的事情。例如，在隐身模式下测试时，页面失败，因为使用位置的请求仍然在屏幕上。     提交人    /u/mrdanmarks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/</guid>
       <pubDate>Fri, 06 Dec 2024 17:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿伙计们，我很乐意得到一些帮助，你们知道如何在屏幕角落重现这种弯曲效果吗？还有元素失真。任何提示都值得赞赏<3<3<3<3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h86eei/hey_guys_i_would_love_to_have_some_help_on_this/</link>
-      <description><![CDATA[        提交人    /u/Sweet-Hurry-5782   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h86eei/hey_guys_i_would_love_to_have_some_help_on_this/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:16:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
