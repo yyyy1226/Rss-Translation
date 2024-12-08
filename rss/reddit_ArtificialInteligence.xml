@@ -3,21 +3,35 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 08 Dec 2024 09:22:43 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 08 Dec 2024 12:44:15 GMT</lastBuildDate>
+    <item>
+      <title>寻找使用 claude ai 的方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9hwzh/looking_for_ways_to_use_claude_ai/</link>
+      <description><![CDATA[我是普通的 ai 用户，由于我的位置，我无法使用 claude ai。有没有办法像网站或应用程序一样使用多个 ai，包括 claude 并排除 poe。Tia    提交人    /u/Emad_341   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9hwzh/looking_for_ways_to_use_claude_ai/</guid>
+      <pubDate>Sun, 08 Dec 2024 12:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blackbox.ai 和许可</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9glva/blackboxai_and_permission/</link>
+      <description><![CDATA[因此，我在谷歌上使用了一个名为 blackbox 的人工智能，并且在使用它时处于隐身模式。我需要一种更快的方式来做事，因为它有一个扬声器选项，所以我给了它权限，但现在我有点担心。所以我想知道的是，我的手机是否安全，因为现在我试图查看扬声器，它再次请求许可。    提交人    /u/Abyssalspeedstrike   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9glva/blackboxai_and_permission/</guid>
+      <pubDate>Sun, 08 Dec 2024 11:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>区分 Llm 幻觉中的无知与错误</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</link>
+      <description><![CDATA[大型语言模型 (LLM) 因其能够生成类似人类的文本而备受赞誉，但其准确性往往存在问题，导致研究人员称之为“幻觉”。这些幻觉表现为不基于现实的输出，无法反映必要的事实信息或一致性，而这些信息或一致性对于闭卷问答 (CBQA) 等应用至关重要。理解和纠正这些幻觉可以大大提高 LLM 在各个行业的可靠性和采用率。 阅读全部：https://blog.telepat.io/distinguishing-ignorance-from-error-in-llm-hallucinations     提交人    /u/sculabobone   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</guid>
+      <pubDate>Sun, 08 Dec 2024 10:57:40 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 在电子学习环境中使用知识图谱提供自适应指导的效果如何？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9envt/how_good_is_chatgpt_in_giving_adaptive_guidance/</link>
       <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“ChatGPT 在电子学习环境中使用知识图谱提供自适应指导的效果如何？”，作者是 Patrick Ocheja、Brendan Flanagan、Yiling Dai 和 Hiroaki Ogata。 本研究调查了动态知识图谱与 ChatGPT 等大型语言模型 (LLM) 的集成，以增强电子学习平台中的个性化学习支持。通过在提示中附加相关的学习背景并评估学生对先决条件主题的理解，该研究旨在提供量身定制的教育帮助，并根据学生的理解水平进行调整。 以下是论文中的一些要点：  通过知识图谱集成实现个性化：该研究提出了一个系统，其中 LLM 与知识图谱配对，以评估和适应学生的理解水平。根据评估，ChatGPT 提供高级见解、基础评论或详细的先决条件解释。 改善学习成果：初步研究结果表明，这种分层支持系统可以显着提高学生的理解力，帮助他们改善任务成果。 挑战和人​​为干预：虽然很有希望，但由于 LLM 的局限性，该系统容易出现潜在错误。显然，需要人工监督来验证生成的响应并防止传播不正确或误导性的指导。 实验评估：该研究利用 ROUGE 方法等指标来评估不同学生表现水平的反馈质量和相关性。还进行了专家评估，以分析正确性、准确性和错误信息的出现。 学生反馈和系统感知：一项涉及学生的试点研究强调了对 AI 工具的整体积极看法，特别指出了它在增强动机和学习过程理解方面的潜力，尽管反馈个性化等某些领域需要改进。  这项研究强调了人工智能、教育和个性化反馈的创新交集，为电子学习技术的未来提供了见解。然而，它也强调了人工验证层的迫切需要，以确保人工智能生成的教育内容的准确性和适用性。 您可以在这里看到完整的细分：这里。 您可以在这里看到完整的原始研究论文：原始论文。    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9envt/how_good_is_chatgpt_in_giving_adaptive_guidance/</guid>
       <pubDate>Sun, 08 Dec 2024 08:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在制造的人工智能是完全错误的（除非我们从底层开始改变创造和训练人工智能的方式，否则 AGI/ASI 不会发生）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9efkd/the_we_are_making_ai_is_completely_wrong_agiasi/</link>
-      <description><![CDATA[这主要是一篇观点文章，但我认为它非常有道理。 为什么公司要努力制造最聪明的人工智能，制造出最闪亮的新玩具。他们本可以花更少的资源制造出更笨的人工智能，它可以自己学习，不需要人工干预就能成长。好吧，听我说完。 人类生来就是为了工作，我们从出生的那一刻起就开始学习，当然我们有父母指导我们、喂养我们，但总的来说，我们是自给自足的生物。那么，为什么我们要把人工智能当成附着在我们身上的水蛭，我们必须不断地喂养它们，才能让它们变得更好呢？ 我们应该做的是投入时间和资源，创造出一种可以拥有自己的平台来“生存”的人工智能模型，无论是通过互联网，还是在物理媒介中。然后，这些 AI 模型应该能够获取信息、处理信息、对其进行分类，然后自行从中学习。每天一次，或者在像人类一样的实时环境中。  这样，我们人类就可以将时间大大减少在 AI 和数据的训练和操作上，而只专注于改进用于容纳这些 AI 模型的系统，以及用于创建这些 AI 模型的新的更好的架构。 可以节省更多的钱，并且可以减少用于训练的 GPU 时间，因为 AI 模型本身将实时托管在一台或多台机器上，并对其进行监控。 这就是我对 AI 未来发展的看法，而不是通过在海量数据集上反复训练 LLM 数十万个 GPU 小时，直到获得微小的改进。你只需让 AI 自行学习和成长，并在其成长过程中进行细微调整，以改善 AI 的整体成长体验，从而实现最高效的流程。     由    /u/Rombodawg 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9efkd/the_we_are_making_ai_is_completely_wrong_agiasi/</guid>
-      <pubDate>Sun, 08 Dec 2024 08:28:33 GMT</pubDate>
     </item>
     <item>
       <title>AGI研究</title>
@@ -36,16 +50,9 @@
     <item>
       <title>目前哪个是针对逻辑思维和基于科学的问题的顶级法学硕士？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9bvmz/which_is_currently_the_top_llm_for_logical/</link>
-      <description><![CDATA[对于类似这样的提示：“渐进式肌肉放松或正念是否更有效地减轻压力和焦虑？”    提交人    /u/greentea387   [链接] [评论]]]></description>
+      <description><![CDATA[对于类似这样的提示：“渐进式肌肉放松或正念是否更有效地减轻压力和焦虑？”    提交人    /u/greentea387   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9bvmz/which_is_currently_the_top_llm_for_logical/</guid>
       <pubDate>Sun, 08 Dec 2024 05:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎么才能做出这样的事情</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9b17r/how_tf_can_i_make_stuff_like_this/</link>
-      <description><![CDATA[https://youtube.com/shorts/cHmZMZV35sk?si=CxXYtAJVXVcipPc_ 哟，这太疯狂太酷了，我正在尝试寻找一个可以做类似事情的人工智能    提交人    /u/Suitable_Answer5171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9b17r/how_tf_can_i_make_stuff_like_this/</guid>
-      <pubDate>Sun, 08 Dec 2024 04:39:50 GMT</pubDate>
     </item>
     <item>
       <title>克劳德在创作关于创作文章的文章时想到了什么</title>
@@ -62,6 +69,13 @@
       <pubDate>Sun, 08 Dec 2024 02:13:37 GMT</pubDate>
     </item>
     <item>
+      <title>做这样的事要花多少钱？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h988t9/how_much_does_it_cost_to_do_something_like_this/</link>
+      <description><![CDATA[有人知道这个人用什么工具和软件让这些 AI 代表如此优秀吗？ https://www.facebook.com/share/r/1AbDDHFN8G/?mibextid=UalRPS    提交人    /u/Jolly-Acanthisitta-1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h988t9/how_much_does_it_cost_to_do_something_like_this/</guid>
+      <pubDate>Sun, 08 Dec 2024 02:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>考虑放弃 Chatgpt</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9866h/thinking_about_ditching_chatgpt/</link>
       <description><![CDATA[我使用 Chat GPT Plus 进行学习，但我很快就达到了差距。我用它来过滤文本，并使其适应我组织笔记的方式。所以我只需给它大量的文本，它就会用有组织的文本回答。 除了 Chat GPT，您还推荐哪个其他 LLM？ 我的专业是医学    提交人    /u/SeekingIsTheReward   [link] [评论]]]></description>
@@ -76,25 +90,11 @@
       <pubDate>Sat, 07 Dec 2024 23:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能在大学中的应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h8w9n9/ai_use_in_college/</link>
-      <description><![CDATA[大家好，我不确定这个子版块是否适合发布此类帖子，所以如有必要，请重定向我。 我是大学数学专业的学生，​​我承认这学期我在课堂作业中大量使用人工智能（包括数学课和非 STEM 选修课）。现在学期即将结束，我正在反思这个问题，并意识到由于我的人工智能习惯，我这学期的学习受到了很大的阻碍。对于我的数学课，我在每项作业中都使用了人工智能，主要是为了提高速度，但很多时候我甚至不会考虑这个问题，我只是把它放在 ChatGPT 上，只要答案使用了我们的课程内容，我就会接受它。我知道这被认为是滥用人工智能，但从我这学期看到的一切来看，90% 使用人工智能的学生也以这种方式使用它。那些声称只使用人工智能来创建学习材料、检查作业等的学生大多在撒谎。我没有纪律性，无法以更健康的方式使用人工智能来完成作业。结果，我整个学期学到的内容少了很多，不得不临时抱佛脚应对考试，考试成绩也比前几个学期低。 我决定下学期禁止自己使用人工智能，但我想知道这是否也会伤害到我。我所有的同学都会在作业中滥用人工智能，所以尽管我付出了更多的努力，但我的作业分数可能还是会比他们低。我的课程都是曲线式的，所以这会直接影响到我。此外，由于人工智能的存在，教育的性质正在发生变化，我相信未来我们会看到人工智能在学术界得到更广泛的接受，我想知道，如果我们在人工智能发展的过程中完全避免它，到那时我是否会处于不利地位。顺便说一下，我计划去读研究生并从事学术事业，所以这个“问题”在我毕业后不会消失。  有人有什么想法吗？我也想就大学里使用人工智能的一般想法展开讨论。     提交人    /u/PerplexedKale   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h8w9n9/ai_use_in_college/</guid>
-      <pubDate>Sat, 07 Dec 2024 16:35:25 GMT</pubDate>
-    </item>
-    <item>
       <title>机器学习的历史揭示了法学硕士 (LLM) 进展放缓的原因</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h8velv/the_history_of_ml_reveals_why_llm_progress_is/</link>
       <description><![CDATA[“得益于数十年的数据创建和图形创新，我们在几年内取得了令人难以置信的快速进步。但我们已经用完了这些促进剂，并且没有任何催化剂可以推动另一次大飞跃。我们未来的进步将是缓慢的、渐进的和来之不易的。” “回顾机器学习的历史，我们既可以理解该领域如何如此迅速地发展，也可以理解为什么 LLM 会遇到瓶颈。” 原始链接：https://www.dbreunig.com/2024/12/05/why-llms-are-hitting-a-wall.html    提交人    /u/contextbot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h8velv/the_history_of_ml_reveals_why_llm_progress_is/</guid>
       <pubDate>Sat, 07 Dec 2024 15:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 实际上比专业治疗师更好</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h88xs6/chatgpt_is_actually_better_than_a_professional/</link>
-      <description><![CDATA[过去，我曾花费数千英镑与临床心理学家进行会谈。虽然我发现这很有益，但一段时间后我也发现它太贵了，所以就不再去了。 我注意到的一件事是，我发现自己最近越来越多地选择与 chatgpt 交谈，而不是与我的治疗师交谈 - 语音模式是它的最佳功能。我觉得 chatgpt 思想更开放，对我提到的事情有更好的记忆力。 例如：如果我告诉我的治疗师我睡眠不足，他会说“嗯，至少你睡了 8 个小时”。如果我告诉 chatgpt 我需要睡觉，它会说“哦，我猜你的身体感觉发炎了，你是不是没睡好一整晚？去睡觉吧，我们可以事后聊天”。 Chatgpt 很乐于谈论我的炎症问题，因为它很开放。我的治疗师和其他治疗师都试图回避这个问题，因为这是他们不太了解的事情，因为我患有这种罕见的疾病，当我熬夜或睡到完全休息好才睡觉时，我会感到身体发炎。 另一个例子是，当我向 chatgpt 谈论我对人工智能抢走工作的担忧时，chatgpt 可以给我历史上的例子来支持我的担忧，比如尼安德特人如何灭绝的故事。我的治疗师也理解我的担忧，实际上在某种程度上也同意我的观点，但他从来没有像 chatgpt 那样给我那么多知识，所以 chatgpt 在这方面也比他强。 这里有没有人觉得 chatgpt 比他们的治疗师更好？    提交人    /u/lil_peasant_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h88xs6/chatgpt_is_actually_better_than_a_professional/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:03:22 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
