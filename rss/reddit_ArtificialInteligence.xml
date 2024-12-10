@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 10 Dec 2024 06:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:49:47 GMT</lastBuildDate>
+    <item>
+      <title>寻求推荐：AI 团队肖像的最佳网站或工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hb09et/looking_for_recommendations_best_websites_or/</link>
+      <description><![CDATA[我正在寻找平台或服务来帮助为我的整个团队创建 AI 生成的肖像。我希望肖像采用现代休闲风格，而不是正式西装。可以考虑商务休闲装、连帽衫或轻松、专业的造型，以反映友好和平易近人的氛围。此外，每幅肖像的背景应该相似。 期待一些建议！    提交人    /u/-Zuerich-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hb09et/looking_for_recommendations_best_websites_or/</guid>
+      <pubDate>Tue, 10 Dec 2024 12:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA HDR AI 转换器（带源代码）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hazu1o/nvidia_hdr_ai_converter_with_source_code/</link>
+      <description><![CDATA[https://github.com/5ymph0en1x/NVIDIA-HDR-Converter-GUI 我开发了一个免费但功能强大的 GUI 应用程序，用于将 NVIDIA JXR (HDR) 屏幕截图（批量）转换为具有 AI 色彩增强功能的高质量 JPEG 图像。 功能 核心功能  将 NVIDIA JXR (HDR) 屏幕截图转换为 JPEG 格式 具有多种算法的高级 HDR 色调映射 使用深度学习模型的 AI 色彩增强 批处理支持 实时预览功能  AI 色彩增强  使用预训练模型的基于神经网络的色彩校正 边缘保存和增强 智能对比度调整 增强自然外观的活力 自动模型下载和缓存  支持的色调映射算法  Hable（默认） Reinhard Filmic ACES 神秘海域 2     提交人    /u/5ymph0en1x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hazu1o/nvidia_hdr_ai_converter_with_source_code/</guid>
+      <pubDate>Tue, 10 Dec 2024 11:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devin 主要和微软合作还是和 openai 合作？他们什么时候才能打破沉默</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hayzs5/is_devin_working_with_microsoft_primarily_or_with/</link>
+      <description><![CDATA[我差点忘了 devin，记得 openai 宣布了 12 天 shipmas，我想知道他们是否也很快会做些什么    提交人    /u/TheLogiqueViper   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hayzs5/is_devin_working_with_microsoft_primarily_or_with/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有我需要的工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hayxw0/is_there_a_tool_for_what_i_need/</link>
+      <description><![CDATA[您好， 我正在创建自己的品牌，目前正在进行网站品牌设计和设计。尽管这不是我工作必须做的，但我只是好奇，你们中是否有人知道是否有一种人工智能工具可以让你上传你的品牌设计，并且该工具会创建一个带有该品牌名称/图标的服装的逼真图像。我目前还没有打印任何衣服 - 正如我所说，这绝对不是必须的 - 但我只是好奇，是否有任何工具可以帮助我做到这一点。 提前谢谢，我希望我说清楚了。    提交人    /u/Kackboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hayxw0/is_there_a_tool_for_what_i_need/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人正在研究 LLM 聊天和系统文件之间的接口吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hayfl6/anyone_working_on_an_interface_between_llm_chat/</link>
+      <description><![CDATA[我认为如果能够非常轻松地查询本地文件就太好了，如果能有一个这两者之间的接口就太好了。     提交人    /u/hamishlewis   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hayfl6/anyone_working_on_an_interface_between_llm_chat/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:59:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Willow：毫无疑问是年度最佳技术发布</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1haw050/google_willow_tech_release_of_the_year_for_sure/</link>
+      <description><![CDATA[谷歌刚刚推出了 Willow，这是一款量子计算芯片，其速度比最快的超级计算机 Frontier 快 1030 倍，被认为是今年最大的技术发布。更多详情请见此处：https://youtu.be/3msqpkfF0XY    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1haw050/google_willow_tech_release_of_the_year_for_sure/</guid>
+      <pubDate>Tue, 10 Dec 2024 06:54:45 GMT</pubDate>
+    </item>
     <item>
       <title>有音频记录建议吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hav8ke/audio_transcript_suggestions/</link>
       <description><![CDATA[我定期发送或录制 WhatsApp 语音笔记或要点音频录音，用于教学和解释目的。 我正在寻找免费和/或解决方案将这些文件转换为文本记录，以便可以记录下来。    提交人    /u/Far-Philosopher-9984   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hav8ke/audio_transcript_suggestions/</guid>
       <pubDate>Tue, 10 Dec 2024 06:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 12 月 9 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hatbci/oneminute_daily_ai_news_1292024/</link>
-      <description><![CDATA[ Sora 在这里。 OpenAI 发布了其热门的 AI 视频生成工具 Sora。[1] 亚马逊 成立了一个以 AI 代理为中心的新实验室，由 Adept 联合创始人领导。[2] Meta AI 推出 SPDL（可扩展和高性能数据加载）：基于线程的数据加载在 AI 模型训练中向前迈出了一步。[3] 日本公司打造人工智能“人体洗衣机”。[4]  来源包括：https://bushaicave.com/2024/12/09/12-9-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hatbci/oneminute_daily_ai_news_1292024/</guid>
-      <pubDate>Tue, 10 Dec 2024 04:11:42 GMT</pubDate>
     </item>
     <item>
       <title>[招聘] 目前致力于 RAG + 大数据平台/市场并寻找开发人员</title>
@@ -27,13 +62,6 @@
       <pubDate>Tue, 10 Dec 2024 04:06:42 GMT</pubDate>
     </item>
     <item>
-      <title>可以在本地机器上运行的AI应用程序。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hat4pf/ai_applications_that_can_run_on_a_local_machine/</link>
-      <description><![CDATA[我买了一台 24 核的 threadripper 电脑，配备 4090 gpu 和 192g RAM (2×96GIG)，可扩展至 384gig。明年我会给它加一个 5090 我想运行稳定扩散、稳定视频扩散、开放 sora 等软件……我还在 Blender 中做了很多 3D 建模……我还想找一个人工智能（最好是开源的）来为我制作的视频生成音乐、画外音和音效。你推荐什么声音/音乐/语音 LLM，我的电脑可以处理吗？ 此外，是否有任何人工智能应用程序可以简化数据分析？例如，我可以给它一个大的 csv 文件，并用简单的英语要求它对其进行操作。或者生成执行这些操作的 Excel 表....？    提交人    /u/ArrellBytes   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hat4pf/ai_applications_that_can_run_on_a_local_machine/</guid>
-      <pubDate>Tue, 10 Dec 2024 04:01:23 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 订阅地狱：什么时候停止？（我需要一个 AI 来管理我的 AI 订阅）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hapz8p/ai_subscription_hell_when_does_it_stop_i_need_an/</link>
       <description><![CDATA[所以我现在的情况是这样的：  Gemini Advanced：20 美元/月（家庭促销活动持续到明年夏天）。感谢 Google 为我的 AI 成瘾提供补贴 — 这很有用，因为我是 Pixel 用户，并且被他们的生态系统束缚着，但让我们面对现实吧：与竞争对手相比，Gemini “Advanced” 令人大失所望。这就像买一辆最高时速 35 英里的法拉利。 ChatGPT Plus：20 美元/月，物有所值。我的首选工具，可以清除 Gemini 的幻觉，同时又准确、可靠，是我最喜欢的工具。 Claude Pro：每年支付，有折扣，而且……很复杂。想象一下，一个研究助理很聪明，但对所有事情都想得太多，在长时间的任务中精疲力竭，当被要求澄清时开始惊慌失措。但不知何故，我还是保留了它，因为那些罕见的灵光一现是无与伦比的——通常在使用 ChatGPT Plus（结合 Gemini “高级”有限建议）后，最后使用它来完成工作产品。 Perplexity Pro：由 LinkedIn Premium 提供的免费试用版。假设它不是免费的，我会想知道为什么我要花钱让人工智能比我更好地在 Google 上搜索东西。我需要学习更多，它确实看起来很有用。  现在 xAI 即将面世，它像人工智能的最终 Boss 一样戏弄我们。你已经知道，它一出现我就屈服了。 这一切何时结束？我是否必须开始在房租和杂货之外预算“AI 订阅”？ 无论如何，在 xAI 候补名单上见。    提交人    /u/TheLawIsSacred   [link] [评论]]]></description>
@@ -41,32 +69,11 @@
       <pubDate>Tue, 10 Dec 2024 01:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是否能够识别其训练数据的来源？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1haos0t/is_it_possible_for_a_ai_to_identify_the_origin_of/</link>
-      <description><![CDATA[我看到这个并认为它回答了我的问题： https://www.reddit.com/r/artificial/comments/r3l5xj/apple_researchers_propose_a_method_for/ 但它可能比这更微妙，基本上我想知道，在不完全重建原始训练数据的情况下，AI 是否有可能找到其训练数据的来源，我想用 Tensorflow 进行实验，看看我是否可以给它提供训练数据和文本，它可以告诉我它从哪个文本或来源获得答案，更重要的是，给定的训练数据对最终结果的贡献有多大。这些数据是否无法恢复，或者您如何恢复？    提交人    /u/SpiderUnderUrBed   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1haos0t/is_it_possible_for_a_ai_to_identify_the_origin_of/</guid>
-      <pubDate>Tue, 10 Dec 2024 00:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整 o1 - LiveBench 编码排名第三</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hamvig/full_o1_3rd_in_coding_on_livebench/</link>
-      <description><![CDATA[由于 o1 没有可用的 API，因此我们手动评估结果。  https://livebench.ai/ Claude Sonnet 3.6 - 67.13 Gemini-exp-12.06 - 63.41 完整 o1 - 61.62    提交人    /u/LegitimateLength1916   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hamvig/full_o1_3rd_in_coding_on_livebench/</guid>
-      <pubDate>Mon, 09 Dec 2024 22:51:36 GMT</pubDate>
-    </item>
-    <item>
       <title>2025 年，律师们可能会以象征性的成本，独自创建功能强大到足以推翻当今美国最大律师事务所的代理人工智能法律服务 (LLMS)。谢谢你，山姆！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hamn8s/2025_may_be_the_year_lawyers_on_their_own_and_at/</link>
       <description><![CDATA[我要求 gpt-4o 列出美国十大律师事务所，估算每家律师事务所的员工人数，以及每家律师事务所每年的收入。然后，我要求它列出每家律师事务所内部的一些工作，这些工作可能更适合由非常聪明、训练有素的人工智能代理来完成。 2025 年可能是聪明的律师开始成立法学硕士 (LLM) 的一年，该学位由数百或数千名员工组成，他们愿意全天候工作，没有报酬或福利。由于管理费用非常低，此类公司可能很容易削减目前由人类员工组成的律师事务所收取的费用。 sam altman 曾表示，agentic ais 将很快让法律服务对消费者几乎免费。 2025 年也许会是我们发现他在这件事上有多正确的一年。 gpt-4o: 以下是美国十大律师事务所，重点介绍了它们报告的律师数量和年收入： Kirkland &amp; Ellis：拥有约 3,025 名律师，年收入为 60.42 亿美元。 Latham &amp; Watkins：拥有约 3,078 名律师，年收入为 54.89 亿美元。 DLA Piper：拥有约 4,561 名律师，年收入为 38.3 亿美元。 Baker McKenzie：拥有约 4,795 名律师，年收入 31.27 亿美元。  Skadden, Arps, Slate, Meagher &amp; Flom：拥有约 1,644 名律师，年收入为 30.22 亿美元。  Sidley Austin：拥有约 1,893 名律师，年收入为 27.95 亿美元。  White &amp; Case：拥有约 2,464 名律师，年收入为 28.7 亿美元。  Morgan, Lewis &amp; Bockius：拥有约 1,992 名律师，年收入为 25.78 亿美元。  Jones Day：拥有约 2,406 名律师，年收入为 24.46 亿美元。  Hogan Lovells：拥有约 2,532 名律师，年收入为 26.06 亿美元。  这些数字反映了截至 2022 年各公司报告的统计数据。 gpt-4o 介绍了各公司内的部分工作： 法律研究 文件审查 合同分析 诉讼支持（电子取证） 起草常规法律文件（例如 NDA、租约） 合规监测和报告 尽职调查分析 计费和计时管理 案件结果预测模型 法律分析和趋势报告 专利分析和现有技术搜索 商标监测和管理 法律校对和编辑 客户接收和初步案件评估 监管备案准备 取证请求和响应起草 判例法摘要 法律项目管理 税法合规计算 知识产权组合管理 诉讼风险评估 合同生命周期管理 法院案卷跟踪和安排 政策和法规跟踪 自动取证摘要 合规培训内容创建 数据隐私审计和报告 劳动法合规性审查 法律聊天机器人支持客户查询 国际案件的文件翻译和本地化 调解和仲裁简报准备 自动法庭表格填写 FOIA（信息自由法）请求处理公司治理文件更新 房地产产权搜索 并购交易分析 金融监管合规审查 网络安全政策评估 保险索赔处理和政策审查 反洗钱 (AML) 调查支持 反垄断案件数据分析 环境法合规监控 政府合同提案起草 举报人报告分析 供应链法律风险分析 人工智能辅助陪审团选择策略支持 和解协议起草 争议解决案例策略建模 法律营销和提案起草 实习和培训计划协调    提交人    /u/Georgeo57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hamn8s/2025_may_be_the_year_lawyers_on_their_own_and_at/</guid>
       <pubDate>Mon, 09 Dec 2024 22:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们使用什么程序来生成逼真的 AI 视频？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hak4ra/what_program_are_people_using_to_generate/</link>
-      <description><![CDATA[我在 Instagram 和 TikTok 上滚动浏览卷轴和视频，上面有非常逼真的 AI 视频，无论是政治人物，还是直立行走的猫，还是奇怪的怪物等。你们看过这些逼真的 AI 视频吗？这些人使用什么程序来生成这些逼真的 AI 视频？谢谢。    提交人    /u/THE_BIG_BONGO   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hak4ra/what_program_are_people_using_to_generate/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:55:11 GMT</pubDate>
     </item>
     <item>
       <title>我希望 Gemini Advanced 至少能和 ChatGPT 4o 一样好。</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1haea67/agi_is_far_away/</guid>
       <pubDate>Mon, 09 Dec 2024 16:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>神经网络和神经发散：自闭症和人工智能的交汇点</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hadh04/neural_networks_and_neurodivergence_the/</link>
-      <description><![CDATA[讨论神经多样性、精神健康障碍和道德人工智能设计交集的播客：https://open.spotify.com/episode/7vI6SXpOz9NZhRHYDadl9R?si=YXmWIL9RRZmJ0CQwO0tMpg    提交人    /u/thiseggowafflesalot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hadh04/neural_networks_and_neurodivergence_the/</guid>
-      <pubDate>Mon, 09 Dec 2024 16:21:41 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
