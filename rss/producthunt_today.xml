@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Dec 2024 15:27:20 GMT</lastBuildDate>
-    <item>
-      <title>Claude 文件夹上传</title>
-      <link>https://www.producthunt.com/posts/claude-folder-upload</link>
-      <description><![CDATA[
-轻松将整个代码库上传至 Claude Projects
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/claude-folder-upload</guid>
-      <pubDate>Wed, 11 Dec 2024 02:41:17 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 18:34:57 GMT</lastBuildDate>
     <item>
       <title>多重登录</title>
       <link>https://www.producthunt.com/posts/multilogin-4</link>
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/defang</guid>
       <pubDate>Mon, 09 Dec 2024 18:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>嚎叫表</title>
+      <link>https://www.producthunt.com/posts/hylark</link>
+      <description><![CDATA[
+您的 AI 定制平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hylark</guid>
+      <pubDate>Mon, 09 Dec 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
       <title>Suno Android & V4 GA</title>
@@ -188,7 +188,7 @@ V4 现已向所有人开放 + Android 应用发布
       <pubDate>Thu, 28 Nov 2024 19:05:13 GMT</pubDate>
     </item>
     <item>
-      <title>RODcast</title>
+      <title>RODCast</title>
       <link>https://www.producthunt.com/posts/rodcast</link>
       <description><![CDATA[
 您最喜欢的 Reddit 主题作为播客
