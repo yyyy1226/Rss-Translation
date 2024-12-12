@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Dec 2024 21:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:56:07 GMT</lastBuildDate>
     <item>
       <title>Claude 文件夹上传</title>
       <link>https://www.producthunt.com/posts/claude-folder-upload</link>
@@ -23,7 +23,7 @@
       <title>多重登录</title>
       <link>https://www.producthunt.com/posts/multilogin-4</link>
       <description><![CDATA[
-绕过网站限制并避免被封禁
+绕过网站限制并避免被禁止
 
 
 讨论
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/stable-2</guid>
       <pubDate>Tue, 10 Dec 2024 23:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>明亮数据</title>
-      <link>https://www.producthunt.com/posts/bright-data</link>
-      <description><![CDATA[
-世界如何收集公共网络数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bright-data</guid>
-      <pubDate>Tue, 10 Dec 2024 15:02:56 GMT</pubDate>
     </item>
     <item>
       <title>杀手研究</title>
@@ -93,7 +79,7 @@
       <title>人工智能智能立方体</title>
       <link>https://www.producthunt.com/posts/aismartcube-2</link>
       <description><![CDATA[
-像玩乐高一样构建 AI 工具
+像玩乐高积木一样构建 AI 工具
 
 
 讨论
@@ -107,7 +93,7 @@
       <title>Defang</title>
       <link>https://www.producthunt.com/posts/defang</link>
       <description><![CDATA[
-几分钟内即可从创意转变为您最喜欢的云
+几分钟内从创意到您最喜欢的云
 
 
 讨论
@@ -118,10 +104,24 @@
       <pubDate>Mon, 09 Dec 2024 18:31:48 GMT</pubDate>
     </item>
     <item>
+      <title>嚎叫表</title>
+      <link>https://www.producthunt.com/posts/hylark</link>
+      <description><![CDATA[
+创建、监控和跟踪项目的中心 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hylark</guid>
+      <pubDate>Mon, 09 Dec 2024 15:07:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Suno Android & V4 GA</title>
       <link>https://www.producthunt.com/posts/suno-android-v4-ga</link>
       <description><![CDATA[
-V4 现已向所有人开放 + Android 应用发布
+使用我们最新的 Android 型号立即创作音乐
 
 
 讨论
@@ -132,18 +132,18 @@ V4 现已向所有人开放 + Android 应用发布
       <pubDate>Sat, 07 Dec 2024 15:28:29 GMT</pubDate>
     </item>
     <item>
-      <title>列表</title>
-      <link>https://www.producthunt.com/posts/listadum</link>
+      <title>砖块</title>
+      <link>https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592</link>
       <description><![CDATA[
-利用数据和 AI 提高您在 Etsy 上的销量
+我们一直在等待的 AI 电子表格
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/listadum</guid>
-      <pubDate>Fri, 06 Dec 2024 04:34:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592</guid>
+      <pubDate>Sat, 07 Dec 2024 06:06:25 GMT</pubDate>
     </item>
     <item>
       <title>优赛</title>
@@ -205,7 +205,7 @@ V4 现已向所有人开放 + Android 应用发布
       <title>提及</title>
       <link>https://www.producthunt.com/posts/remention</link>
       <description><![CDATA[
-利用人工智能将您的产品置于数十亿次在线讨论中
+利用人工智能将您的产品置于数十亿个在线讨论中
 
 
 讨论
