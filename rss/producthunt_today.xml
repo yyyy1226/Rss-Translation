@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 15:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:33:54 GMT</lastBuildDate>
     <item>
       <title>最好打电话给圣诞老人</title>
       <link>https://www.producthunt.com/posts/better-call-santa</link>
@@ -76,34 +76,6 @@
       <pubDate>Wed, 11 Dec 2024 12:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>Claude 文件夹上传</title>
-      <link>https://www.producthunt.com/posts/claude-folder-upload</link>
-      <description><![CDATA[
-轻松将整个代码库上传至 Claude Projects
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/claude-folder-upload</guid>
-      <pubDate>Wed, 11 Dec 2024 02:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>多重登录</title>
-      <link>https://www.producthunt.com/posts/multilogin-4</link>
-      <description><![CDATA[
-绕过网站限制并避免被封禁
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/multilogin-4</guid>
-      <pubDate>Wed, 11 Dec 2024 02:35:13 GMT</pubDate>
-    </item>
-    <item>
       <title>Tavus 的 AI 圣诞老人</title>
       <link>https://www.producthunt.com/posts/ai-santa-by-tavus</link>
       <description><![CDATA[
@@ -146,20 +118,6 @@
       <pubDate>Tue, 10 Dec 2024 15:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>光明数据</title>
-      <link>https://www.producthunt.com/posts/bright-data</link>
-      <description><![CDATA[
-世界如何收集公共网络数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bright-data</guid>
-      <pubDate>Tue, 10 Dec 2024 15:02:56 GMT</pubDate>
-    </item>
-    <item>
       <title>杀手研究</title>
       <link>https://www.producthunt.com/posts/killerstudy</link>
       <description><![CDATA[
@@ -172,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/killerstudy</guid>
       <pubDate>Tue, 10 Dec 2024 14:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能智能立方体</title>
+      <link>https://www.producthunt.com/posts/aismartcube-2</link>
+      <description><![CDATA[
+像玩乐高积木一样构建 AI 工具
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aismartcube-2</guid>
+      <pubDate>Mon, 09 Dec 2024 19:33:11 GMT</pubDate>
     </item>
     <item>
       <title>時間圖</title>
@@ -188,18 +160,46 @@
       <pubDate>Mon, 09 Dec 2024 14:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>列表</title>
-      <link>https://www.producthunt.com/posts/listadum</link>
+      <title>模板化</title>
+      <link>https://www.producthunt.com/posts/templated-3</link>
       <description><![CDATA[
-利用数据和 AI 提高您在 Etsy 上的销量
+将类似 Canva 的编辑器嵌入到您的应用中
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/listadum</guid>
-      <pubDate>Fri, 06 Dec 2024 04:34:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/templated-3</guid>
+      <pubDate>Thu, 28 Nov 2024 19:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>RODCast</title>
+      <link>https://www.producthunt.com/posts/rodcast</link>
+      <description><![CDATA[
+您最喜欢的 Reddit 主题作为播客
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rodcast</guid>
+      <pubDate>Thu, 21 Nov 2024 10:17:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提及</title>
+      <link>https://www.producthunt.com/posts/remention</link>
+      <description><![CDATA[
+利用人工智能将您的产品置于数十亿次在线讨论中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/remention</guid>
+      <pubDate>Fri, 15 Nov 2024 07:55:46 GMT</pubDate>
     </item>
     <item>
       <title>成长吧</title>
