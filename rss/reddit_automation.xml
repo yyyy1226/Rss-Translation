@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 13 Dec 2024 09:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:48:03 GMT</lastBuildDate>
+    <item>
+      <title>对于新手来说这有多可行？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hdbcmj/how_feasible_is_this_for_a_newbie/</link>
+      <description><![CDATA[我希望创建一个自动化工具/工作流程，从一系列 subreddits 中抓取本周的热门帖子，然后将其发布到 X、IG、FB 等，并附上简单的标题和原始海报的致谢。我只抓取图像和视频。 有什么想法可以做到这一点？我只需要 Make 或 Zapier 就可以完成这样的事情吗？我不是程序员，但愿意尝试在 AI 的帮助下构建它。如果这样的工具已经存在，那就更好了！TIA！    提交人    /u/evil_penguin_ouch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hdbcmj/how_feasible_is_this_for_a_newbie/</guid>
+      <pubDate>Fri, 13 Dec 2024 12:41:34 GMT</pubDate>
+    </item>
     <item>
       <title>Whatsapp 自动化工具建议</title>
       <link>https://www.reddit.com/r/automation/comments/1hcys1n/whatsapp_automation_tool_suggestions/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Gullible_Juice_8866  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hber3a/looking_for_prebuilt_academic_workflows_on_dify/</guid>
       <pubDate>Tue, 10 Dec 2024 22:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面应用程序自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1hb9fh5/automation_for_desktop_applications/</link>
-      <description><![CDATA[当纯粹谈论桌面自动化时，您希望自动化哪些具体类型的任务？工作事务、个人事务——都不重要。如果人工智能可以为您处理它，您希望它首先做什么？    提交人    /u/Frosty_Programmer672   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hb9fh5/automation_for_desktop_applications/</guid>
-      <pubDate>Tue, 10 Dec 2024 19:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
