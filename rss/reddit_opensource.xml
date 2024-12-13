@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Dec 2024 01:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:39:14 GMT</lastBuildDate>
+    <item>
+      <title>Recuva 回收率</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hd1rga/recuva_recovery_rate/</link>
+      <description><![CDATA[您是否曾使用 Recuva 从您的 PC 中恢复过永久删除的文件？我扫描了 4 次，但结果都没有显示我已删除的图片。    提交人    /u/Brianvv   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hd1rga/recuva_recovery_rate/</guid>
+      <pubDate>Fri, 13 Dec 2024 02:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>矩阵和元素 x</title>
       <link>https://www.reddit.com/r/opensource/comments/1hcs8wi/matrix_and_element_x/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想更好地解释一下最近几天有机地图发生的事情，有机地图不是完全开源的吗？它会变成闭源的吗？    提交人    /u/SogianX   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hbw483/organic_maps_recent_issues/</guid>
       <pubDate>Wed, 11 Dec 2024 15:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClearlyDefined：2024 年回顾——里程碑、增长和社区影响</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hbtenl/clearlydefined_2024_in_review_milestones_growth/</link>
-      <description><![CDATA[        由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hbtenl/clearlydefined_2024_in_review_milestones_growth/</guid>
-      <pubDate>Wed, 11 Dec 2024 13:26:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
