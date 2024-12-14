@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Dec 2024 03:34:16 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 14 Dec 2024 09:24:15 GMT</lastBuildDate>
+    <item>
+      <title>从前端开始职业发展。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdyl6q/career_progresstion_from_frontend/</link>
+      <description><![CDATA[我从事前端工作，使用 React/NextJs 和 typescript。已经 3 年了。我喜欢这份工作，非常酷。人工智能无法取代我，但我觉得它让我做的很多事情变得无聊。我该何去何从，我要做后端吗？我不太喜欢它。UXUI 似乎与经济学密切相关，目前我所在的公司没有招聘 UX UI。 我的兴趣是前端开发，因为我可以尽快看到我的工作。我喜欢使用 linux 和服务器工作和思考。    提交人    /u/stfuandkissmyturtle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdyl6q/career_progresstion_from_frontend/</guid>
+      <pubDate>Sat, 14 Dec 2024 08:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 使用 .NET Blazor WASM 构建的开源密码和别名管理器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdy8ro/showoff_saturday_opensource_password_alias/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdy8ro/showoff_saturday_opensource_password_alias/</guid>
+      <pubDate>Sat, 14 Dec 2024 08:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了我的第一个网站，在那里我可以尝试各种东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/</link>
+      <description><![CDATA[Title，所以我创建了我的第一个网站，在那里我尝试使用 html、css 和 javascript。如果您有任何建议或一些可以帮助我学习的东西，请转到主页底部给我留言！ https://goatzy-codes.xyz    提交人    /u/RealGoatzy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/</guid>
+      <pubDate>Sat, 14 Dec 2024 07:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>功能访问控制 NodeJS 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdxq55/feature_access_control_nodejs_library/</link>
+      <description><![CDATA[寻找一个简单的功能访问控制库的建议。我得到的建议和搜索结果主要针对 A/B 测试、功能发布、用户行为测试等。 我们应用程序的需求现在非常小。我们只有少数几个计划，只是想控制谁可以做什么。 举个（假的）例子，免费计划只能发送 5 封电子邮件，基本计划用户可以发送 50 封电子邮件，专业计划可以发送 300 封电子邮件。所以在发送电子邮件之前，我想检查过去 X 天内的所有计数，并获取 canProceed 作为布尔值。 我不是在寻找像 docker 容器这样的解决方案。希望集成一个库。我们可以向数据库添加一些表。    提交人    /u/nrealybgniod   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdxq55/feature_access_control_nodejs_library/</guid>
+      <pubDate>Sat, 14 Dec 2024 07:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要为等级列表创建一个网站，但我不知道该怎么做</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdwo19/i_need_to_make_a_website_for_a_tierlist_and_i/</link>
+      <description><![CDATA[您听说过一个名为“Tier List Maker”的网站吗？ （这个）https://tiermaker.com/ 如果是这样，我需要制作一些类似的东西，但这允许我组合超过 2000 个元素（这是我用作参考的页面的限制）。有谁知道用于创建网站的任何常规工具（Wix、Wordpress 等）是否允许创建类似的东西？或者是否需要 HTML 中更高级的东西？我对创建网站知之甚少（几乎一无所知），我想知道这是我是否可以在短期内自学的东西，还是我需要聘请专家。    提交人    /u/Brasas_de_Kentaro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdwo19/i_need_to_make_a_website_for_a_tierlist_and_i/</guid>
+      <pubDate>Sat, 14 Dec 2024 06:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>云点观测 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdwj9h/cloudspotting_web_app/</link>
+      <description><![CDATA[我为观云爱好者创建了这款网络应用。 请告诉我您的想法 https://cloudspotting.online/    由    /u/napraviculom 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdwj9h/cloudspotting_web_app/</guid>
+      <pubDate>Sat, 14 Dec 2024 06:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享你的作品集⬇️（或上传）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/</link>
+      <description><![CDATA[我在这里为您提供关于您的作品集的反馈。在审查了数百个作品集后，我清楚地了解了哪些有效，哪些脱颖而出。 我自己的作品集遇到了很多麻烦，我认为没有人应该像我一样担心他们的作品集。 有它们很好，但不会影响您找到工作的机会（除非您的作品集对您的技能有负面影响） 让我来帮助您⬇️    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/</guid>
+      <pubDate>Sat, 14 Dec 2024 05:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>论优秀的软件工程师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdvlic/on_good_software_engineers/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdvlic/on_good_software_engineers/</guid>
+      <pubDate>Sat, 14 Dec 2024 05:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我分析了 r/Entrepreneur 上的 2000 多篇帖子，并对 Spotify Wrapped 做了年度回顾</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdv70u/showoff_saturday_i_analyzed_2000_posts_on/</link>
+      <description><![CDATA[大家好， 过去一年来，我一直在跟踪和分析 r/Entrepreneur 的数据，以了解哪些主题出现最多、谁最常访问该子版块、业务的哪个阶段讨论最多等等！ 在此处查看 Spotify Wrapped Style 细分，并让我知道您的想法！ https://rewind.hivesight.so/entrepreneur    提交人    /u/JTyler3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdv70u/showoff_saturday_i_analyzed_2000_posts_on/</guid>
+      <pubDate>Sat, 14 Dec 2024 04:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Astro 主题转换为 Twig 的服务或 AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hduhm2/service_or_ai_to_convert_an_astro_theme_to_twig/</link>
+      <description><![CDATA[我有一个用 Astro 编写的网站主题，我想将其用于网站。我的问题是 CMS 本身使用 Twig 模板。虽然我有一天会将它用作带有 Astro 模板的无头 CMS，但这必须等待未来的迭代。 有谁知道任何在线服务或足够可靠的 AI 可以为我转换整个主题，至少 75% 的转换？    提交人    /u/Procrastineddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hduhm2/service_or_ai_to_convert_an_astro_theme_to_twig/</guid>
+      <pubDate>Sat, 14 Dec 2024 03:59:37 GMT</pubDate>
+    </item>
     <item>
       <title>使用 SWR 和 React 进行条件获取</title>
       <link>https://www.reddit.com/r/webdev/comments/1hdu1bc/conditional_fetching_with_swr_and_react/</link>
@@ -20,7 +90,7 @@
       <pubDate>Sat, 14 Dec 2024 03:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>检查您的姓名廉价自动续订</title>
+      <title>检查你的名字廉价自动续订</title>
       <link>https://www.reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/</link>
       <description><![CDATA[      我购买了 namecheap 域名以及 3 个月的电子邮件服务免费试用，但我不知道这意味着我还要为他们的相关社交专业服务付费。  电子邮件服务过期后，3-4 个月后我意识到我仍在为一项我未使用的服务付费。在网站上查找收费情况后，由于我最初不确定我的帐户是否被黑客入侵，我最终发现我被收取了相关社交专业服务的费用。 我尝试联系 namecheap 并提交了有关情况的工单，看看我是否可以获得未使用服务的退款，但没有回复。因此我决定通过我的信用卡公司退款，认为这样应该没问题，但是最近我收到了 namecheap 的这个邮件。 TLDR：我需要偿还退款，否则他们会将我的退款提高 2 倍 我是不是应该忍受并支付这笔钱，即使我没有使用该服务并且不知道自动续订已经开启？ 一直是 namecheap 的粉丝，但我不喜欢他们处理这个问题的方式，因为没有得到支持的回应 &amp;直接告诉我要还钱。 这是我第一次开始试用时的收据，应该更加勤奋，但我不知道 Relate Social Pro 是什么意思，也不知道它会自动续订。 https://preview.redd.it/nhvpeb9m5q6e1.png?width=1944&amp;format=png&amp;auto=webp&amp;s=47ebba6c3fe0f0985ef8db2ccb5f92885ff25220    由   提交  /u/Brilliant-Active-737   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/</guid>
@@ -29,7 +99,7 @@
     <item>
       <title>制作了一个扩展程序，可以帮助我跟踪我的健康习惯</title>
       <link>https://www.reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/</link>
-      <description><![CDATA[      大家好，各位开发者！我今年刚开始学习编码，想成为一名开发人员，并使用 React + TailwindCSS 制作了一个扩展。 它被称为 Reboost，它有 2 个功能，用户可以跟踪和记录他们的饮水量或设置自定义提醒。 想着其他人也可能会觉得它有用！它是完全免费的，不需要注册或账户。🤗 扩展的快速预览    提交人    /u/HikkiSummers   [链接] [评论] ]]></description>
+      <description><![CDATA[      大家好，各位开发者！我今年刚开始学习编码以成为一名开发人员，并使用 React + TailwindCSS 制作了一个扩展。 它被称为 Reboost，它有 2 个功能，用户可以跟踪和记录他们的饮水量或设置自定义提醒。 认为其他人也可能会觉得它有用！它是完全免费的，无需注册或帐户。🤗 扩展的快速预览    提交人    /u/HikkiSummers   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/</guid>
       <pubDate>Sat, 14 Dec 2024 01:53:15 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[我有一个使用 Eleventy 构建的个人小型静态网站。我在自己的计算机上构建它，手动创建 Markdown 文件并将输出传输到我的托管服务提供商。我并不介意手动管理我的内容，但我正在寻找方法使其更容易，因为文件正在堆积如山。 是否有类似 GUI 前端的东西可以以传统 CMS 方式管理我的源内容，而无需连接到任何在线服务，全部在本地？我不打算使用 GitHub/GitLab 或 Netlify 或任何东西。我希望我的计算机管理和构建静态网站，然后我可以简单地将其上传到托管服务器，托管服务器的唯一工作就是提供静态文件。 Decap CMS 似乎需要一个远程 git 存储库并大力推动 Netlify；我不知道如何改变这一点。 Strapi 没有与 Eleventy 集成的官方文档。 我见过的唯一一款产品是 BuhoCMS，它完全满足了我的需求，但无法读取，只能在我的 20 多篇帖子中写入预先存在的前言，我不想手动重新创建。它的 repo 也设置为只读，这可能意味着现在开始使用它可能不是一个好主意。 我绝不是一名开发人员，但我能应付，我可以遵循明确的说明。    提交人    /u/swillfreat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdqy7v/local_offline_cms_for_ssg_11ty_preferably/</guid>
       <pubDate>Sat, 14 Dec 2024 00:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求项目帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdqd3f/requesting_help_on_a_project/</link>
-      <description><![CDATA[问题描述 - 遇到 CORS（跨域资源共享）错误 - 对 `http://localhost:5000/api/recommendations` 的网络请求被阻止  ## 错误详情 ```javascript // 完整错误对象 { message: &quot;Network Error&quot;, name: &quot;AxiosError&quot;, code: &quot;ERR_NETWORK&quot;, config: { ... }, request: XMLHttpRequest, response: XMLHttpRequest  服务器 CORS 配置 (server.js) app.use(cors({ origin: &#39;http://localhost:3000&#39;, // 客户端URL methods: [&#39;GET&#39;, &#39;POST&#39;, &#39;PUT&#39;, &#39;DELETE&#39;], allowedHeaders: [&#39;Content-Type&#39;, &#39;Authorization&#39;] })); 客户端 Axios 请求（App.js）客户端 Axios 请求（App.js） const response = await axios.get(`http://localhost:5000/api/recommendations`, { params: { slug }, timeout: 10000 });  环境  前端：React（localhost：3000） 后端：Express（localhost：5000） Axios 版本：1.7.9  尝试的解决方案  已验证 CORS 中间件已安装 检查服务器和客户端是否都在运行 确认端口正确      提交人    /u/Pleasant-Device8319   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdqd3f/requesting_help_on_a_project/</guid>
-      <pubDate>Sat, 14 Dec 2024 00:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>原生 Bluesky 搜索不如此工具好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/</link>
-      <description><![CDATA[Bluesky 上的原生搜索会向您显示几个排序选项，包括“热门”和“最新”。这两个选项实际上都不会向您显示参与度最高的最新帖子。 最新帖子总是一堆参与度为零的随机帖子，而热门帖子则显示几天前的陈旧帖子。 TrendSpotter.blue 实际上会显示过去几个小时（最多 24 小时）内包含您的关键字的每篇帖子。 在对同一关键字进行正面测试时，它绝对胜过 Bluesky 上的原生搜索。    提交人    /u/eastburnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/</guid>
-      <pubDate>Fri, 13 Dec 2024 23:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>组织代码片段并在几分钟内构建静态网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdonzh/organize_code_snippets_and_build_static_websites/</link>
-      <description><![CDATA[因此，我正在为 Web 开发人员构建一个工具，主要处理简单的静态网站。此工具将帮助您： - 保存和组织您的代码片段（包含 html、css 和 js 的部分，您可以堆叠它们来构建网页） - 成倍地加快您的网站构建过程；只需单击几下，您就可以准备好一个网页。 - 通过公共代码片段从社区获得灵感我知道 CodeStitch 是代码片段的绝佳资源，这实际上是我的灵感来源。我只是想要一个工具将这些代码片段放在一起形成一个网页并保存整个页面以供日后使用。  我是唯一需要这个工具的人吗？即便如此，我首先是为自己构建它，但我很好奇这是否也有市场。很高兴能得到一些回报。    由    /u/88Smiley  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdonzh/organize_code_snippets_and_build_static_websites/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用-webkit-line-clamp 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdon0t/do_you_use_webkitlineclamp/</link>
-      <description><![CDATA[有没有基于高度的&quot;显示更多&quot;的替代方案，可以显示特定数量的行？    提交人    /u/zlt_nv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdon0t/do_you_use_webkitlineclamp/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作功能性 Web 应用程序的最短方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdoize/shortest_way_to_make_a_functional_web_app/</link>
-      <description><![CDATA[嗨，我需要构建一个与数据库交互并执行基本 CRUD 操作的 Web 应用程序。我可以使用 Node.js、Python（Flask 或 Django）或 Java（Spring Boot）。截止日期是一周，我只懂 HTML、CSS、Python 和基础到中级 Java，没有后端开发经验。你能推荐一门课程或教程来教我如何完成这个吗？我现在不专注于学习底层原理或最佳实践——我只需要完成项目并能够向我的老师解释代码。    提交人    /u/Anass_Lpro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdoize/shortest_way_to_make_a_functional_web_app/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的 SaaS 产品！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdohdx/open_sourced_my_saas_product/</link>
-      <description><![CDATA[对于任何想知道它是什么的人来说，它是一个用 nextjs 和带有 postgresDB 的 express 构建的书签管理器 Web 应用程序。 我将其作为学习新东西的附带项目进行构建，现在我刚刚完成它，并希望使这个产品更好并成为竞争对手之一。 最后，如果有人有兴趣，请成为第一个贡献并发展这个项目的人。谢谢！ 链接：Github    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdohdx/open_sourced_my_saas_product/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 React Web 应用程序生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdnr8b/opensourced_react_web_application_generator/</link>
-      <description><![CDATA[嗨，我开源了一个用于生成和运行 React Web 应用程序的平台。它使用基于代理的系统动态生成 React 代码，并包含一个可动态渲染 React 应用程序的运行时。该平台还会自动清理代码以确保安全性和可靠性，并且支持 Google Charts 等库以便于集成。 它设置简单，旨在帮助启动代码生成项目或实验。 Repo 链接：https://github.com/MuneebRasool/iterative    提交人    /u/CryptoWaliSerkar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdnr8b/opensourced_react_web_application_generator/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>PageSpeed Insights 移动端与桌面端差异</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdno8x/pagespeed_insights_mobile_vs_desktop_discrepancy/</link>
-      <description><![CDATA[我正在通过 PageSpeed Insights 运行我的网站，我似乎无法弄清楚为什么我在移动设备上获得的分数是 65，但在桌面上我通常会获得 90 分或 100 分。我的网站加载速度非常快，即使在移动设备上也加载速度非常快。对于移动设备，FCP 大约为 3-4 秒，我无法弄清楚为什么，因为在桌面上它大约是 0.4 秒。对可能导致这种情况的任何建议？ 不确定我是否可以在此处发布链接，我不是在宣传或其他什么，只是想让其他人能够运行 pagespeed insights 测试来查看我看到的内容：https://redsurgeapparel.com/    提交人    /u/gr8hoops21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdno8x/pagespeed_insights_mobile_vs_desktop_discrepancy/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 使用纯 HTML 和 TailwindCSS 重建我的个人网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdmzdw/showoff_saturday_rebuilding_my_personal_web_with/</link>
-      <description><![CDATA[大家好，周六快乐！ 过去几周，我一直在从头开始重建我的网站，之前一直使用 Materialize 作为 CSS 框架（rip 项目），一些繁重的 PHP 和 jQuery。 但现在我想完全简约，尽可能少地使用资源，我最终得到了纯 HTML 页面（仅使用 PHP 作为联系表单），纯 JS 没有框架，以及 TailwindCSS 以便于布局构建。页面完全加载后只有 412kB，因此基本上可以立即加载。 现在，还有一些功能需要实现，比如暗模式，而且我想在更改语言时添加一些精美的动画，现在它只会更改文本。我还需要更新我的 PDF CV 以使下载和打印按钮正常工作（附带问题：由于 .print() 函数已被弃用一段时间，是否有任何方法可以通过 JS 直接使用按钮打印文档而不是页面？） 我正在寻找您的反馈，因为这个页面只有我查看过，所以我没有任何外部输入来判断这个页面在其他人眼中看起来如何，它是否吸引人，以及是否存在任何更大的设计缺陷需要改进。 链接：https://strych9.me  提前致谢！    提交人    /u/greckzero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdmzdw/showoff_saturday_rebuilding_my_personal_web_with/</guid>
-      <pubDate>Fri, 13 Dec 2024 21:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 表单验证尚未得到充分利用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdm7c8/html_form_validation_is_heavily_underused/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdm7c8/html_form_validation_is_heavily_underused/</guid>
-      <pubDate>Fri, 13 Dec 2024 21:01:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
