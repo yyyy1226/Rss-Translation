@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 12:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 15:23:37 GMT</lastBuildDate>
+    <item>
+      <title>代码审查作为一项服务？</title>
+      <link>https://www.reddit.com/r/software/comments/1heu8u2/code_reviewing_as_a_service/</link>
+      <description><![CDATA[有人会通过为其他人（公司、自由职业者等）审查代码来赚钱吗？ 这是可行的吗？    提交人    /u/rezakhan0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1heu8u2/code_reviewing_as_a_service/</guid>
+      <pubDate>Sun, 15 Dec 2024 14:58:26 GMT</pubDate>
+    </item>
     <item>
       <title>计算飞机、轮船和汽车的行驶距离</title>
       <link>https://www.reddit.com/r/software/comments/1heqkog/calculate_travel_distance_for_plane_ship_and_car/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[目前，我在外出时一直使用 TeamViewer 访问我家里的 Windows 桌面。多年来，它一直运行良好，没有任何抱怨！但是最近我一直收到超时和超出会话最大持续时间的通知。我想看看大家会推荐什么好的免费替代品，它用户友好，并且主要允许无人值守访问我家里的机器。需要能够在 Mac 和 Windows 操作系统上使用。     提交人    /u/brfd01   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hdptun/remote_access_software_recommendations/</guid>
       <pubDate>Fri, 13 Dec 2024 23:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何摆脱 Microsoft Copilot？我希望它完全被删除并被放逐到影子领域</title>
-      <link>https://www.reddit.com/r/software/comments/1hdn9p5/how_do_i_get_rid_of_microsoft_copilot_i_want_it/</link>
-      <description><![CDATA[  由    /u/Glittering_Iron_9185  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hdn9p5/how_do_i_get_rid_of_microsoft_copilot_i_want_it/</guid>
-      <pubDate>Fri, 13 Dec 2024 21:49:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
