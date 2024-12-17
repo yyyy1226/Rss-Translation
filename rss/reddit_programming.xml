@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Dec 2024 01:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 03:37:09 GMT</lastBuildDate>
+    <item>
+      <title>Valhalla - Java 的史诗级重构</title>
+      <link>https://www.reddit.com/r/programming/comments/1hg02hk/valhalla_javas_epic_refactor/</link>
+      <description><![CDATA[  由    /u/MeanAcanthaceae26  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hg02hk/valhalla_javas_epic_refactor/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:05:31 GMT</pubDate>
+    </item>
     <item>
       <title>技术分析：模型上下文协议的 RPC 方法</title>
       <link>https://www.reddit.com/r/programming/comments/1hfzc7n/technical_analysis_model_context_protocols_rpc/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/aka-rider  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hfr1bk/dr_testflow_or_how_i_learned_to_stop_worrying_and/</guid>
       <pubDate>Mon, 16 Dec 2024 19:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>useEncapsulation 或为什么你的 React 组件应该只使用自定义 Hooks</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfqrro/useencapsulation_or_why_your_react_components/</link>
-      <description><![CDATA[  由    /u/Rtzon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfqrro/useencapsulation_or_why_your_react_components/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
