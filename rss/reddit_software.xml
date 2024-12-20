@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 20 Dec 2024 03:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 06:32:04 GMT</lastBuildDate>
+    <item>
+      <title>应用程序/图像的幻灯片</title>
+      <link>https://www.reddit.com/r/software/comments/1hidnqs/slideshow_of_appsimages/</link>
+      <description><![CDATA[我想显示计算机传感器数据应用程序（aida64）与图像或动画 gif 交替。  我想在我的 PC 里面添加一个迷你显示器来显示计算机温度、负载等。但不是 100% 的时间。我想与一些图像或动画（gif）交替显示它。 我可以使用什么软件来实现这一点？    提交人    /u/Outrageous_Twist8891   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hidnqs/slideshow_of_appsimages/</guid>
+      <pubDate>Fri, 20 Dec 2024 06:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有软件可以将 YouTube 视频合集转换成剪辑和短视频？</title>
+      <link>https://www.reddit.com/r/software/comments/1hibwz5/is_there_a_software_that_converts_youtube_video/</link>
+      <description><![CDATA[我的 TikTok 帐户确实需要这个     提交人    /u/No_Meet2050   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hibwz5/is_there_a_software_that_converts_youtube_video/</guid>
+      <pubDate>Fri, 20 Dec 2024 04:32:30 GMT</pubDate>
+    </item>
     <item>
       <title>搜索所有内容或 Listary...使用安全吗？</title>
       <link>https://www.reddit.com/r/software/comments/1hiai16/search_everything_or_listary_safe_to_use/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[更具体地说，就是允许我通过代理或 VPN 路由各种应用程序，但比仅使用带有拆分隧道的单个 VPN 隧道更强大。我需要一个可以在我的所有设备（Windows、Mac、iOS）上使用的解决方案，但我很难找到类似的东西。理论上，我可以使用 opnsense 设置一个设备，然后将我的所有流量路由到那里，但如果我不在家，这会带来大量不必要的延迟，因为我基本上会重新路由通过我家的所有流量。 有人有这种解决方案吗？    提交人    /u/Maple382   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hhtv16/looking_for_a_rule_based_routingproxy_solution/</guid>
       <pubDate>Thu, 19 Dec 2024 14:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有 RVC 的便携版本吗？我需要在本地克隆语音，但无法安装任何东西</title>
-      <link>https://www.reddit.com/r/software/comments/1hhssz3/is_there_a_portable_version_of_rvc_i_need_to/</link>
-      <description><![CDATA[我叔叔飞回家，留下了一台游戏笔记本电脑。我只得到了客人资料的密码。我想在它上面使用 RVC，这样我终于可以做我想做的翻唱歌曲了，但我没有被允许安装任何东西，因为我没有安装任何东西的权限。 它有多个便携式软件吗？如果有，我应该使用哪一个，有没有它的教程视频？我可能需要检查一下我是否具备先决条件。    提交人    /u/alwaysDC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hhssz3/is_there_a_portable_version_of_rvc_i_need_to/</guid>
-      <pubDate>Thu, 19 Dec 2024 13:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找播放视频时会变灰的媒体播放器，例如 MX 播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1hhrh9f/looking_for_media_player_that_greys_out_a_video/</link>
-      <description><![CDATA[我正在寻找一个具有这个简洁功能的播放器，您可以在其中观看视频，播放器在观看后会将其变灰，就像适用于 android 的 mx 播放器一样    提交人    /u/No-Jaguar-509   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hhrh9f/looking_for_media_player_that_greys_out_a_video/</guid>
-      <pubDate>Thu, 19 Dec 2024 12:07:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
