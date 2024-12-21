@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:44:24 GMT</lastBuildDate>
+    <item>
+      <title>我最好的 roku 替代品是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</link>
+      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</guid>
+      <pubDate>Sat, 21 Dec 2024 01:08:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 MIT 无署名和未授权的双重授权</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiwcqz/duallicensing_with_the_mit_no_attribution_and/</link>
+      <description><![CDATA[为了获得最大的自由，我想将我的软件放入公共领域。但是，公共领域的概念并非在每个司法管辖区都存在。因此，我想使用宽松许可证和非许可证双重许可。有趣的是，stb（C/C++ 的单文件公共领域库）在 MIT 和非许可证下获得双重许可。请参阅https://github.com/nothings/stb/blob/master/LICENSE。但是，MIT 许可证要求对软件进行署名。我希望我的软件尽可能宽松，所以我用同样的想法制作了自己的许可证，但使用 MIT 无署名 (MIT-0) 而不是 MIT。以下是许可证文本，从现在起我将在我的开源项目中使用它： ``` 该软件有两种许可证 - 请选择您喜欢的任意一种。  许可证 1 - MIT 无署名 (MIT-0) 版权所有 &lt;YEAR&gt; &lt;版权所有者&gt; 特此授予获得此软件和相关文档文件（“软件”）副本的任何人免费许可，以无限制方式处理软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售软件副本的权利，以及允许向其提供软件的人员这样做。 该软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者或版权所有者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或其他处理软件引起的，还是与之相关的。  许可证 2 - 未授权 https://unlicense.org 这是免费且不受限制的软件，已发布到公共领域。 任何人都可以自由复制、修改、发布、使用、编译、销售或分发此软件，无论是以源代码形式还是编译后的二进制文件形式，用于任何目的，无论是商业还是非商业目的，通过任何方式。 在承认版权法的司法管辖区，本软件的作者或作者们将软件中的所有版权利益奉献给公共领域。我们做出此奉献是为了广大公众的利益，但会损害我们的继承人和继任者的利益。我们打算将此奉献视为永久放弃版权法规定的此软件的所有现有和未来权利的公开行为。 本软件按“原样”提供，不作任何形式的保证，无论明示或暗示，包括但不限于适销性、针对特定目的的适用性和不侵权性的保证。在任何情况下，作者均不对任何索赔、损害或其他责任负责，无论是合同行为、侵权行为还是其他行为，无论是由软件或使用或以其他方式处理软件而引起、由其引起或与之有关。 ```    提交人    /u/SaltyMaybe7887   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiwcqz/duallicensing_with_the_mit_no_attribution_and/</guid>
+      <pubDate>Fri, 20 Dec 2024 23:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordleWacker，每日提供 Wordle 解决方案！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiu8ap/wordlewacker_wordle_solutions_daily/</link>
+      <description><![CDATA[      欢迎试用这款可自动解决 Wordle 问题的 chrome 扩展程序。打开问题以报告错误或提出功能请求。    提交人    /u/GamerG3arYT   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiu8ap/wordlewacker_wordle_solutions_daily/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求项目的早期反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hirgpu/looking_for_early_feedback_on_project/</link>
+      <description><![CDATA[我目前正在为我制作的一种（严肃的）语言开发编译器。我之前从未开发过编译器或更大规模的开源项目，因此，一些早期的反馈将有助于避免早期出现问题。 欢迎任何贡献！ 链接：https://github.com/BlackFuffey/Polymerizer 请注意，语言规范的链接已损坏，因为该存储库很乱，我决定将其保密，直到编译器达到&quot;可用&quot; 阶段。所有已实现的内容都在 test.kev    提交人    /u/BlackFuffey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hirgpu/looking_for_early_feedback_on_project/</guid>
+      <pubDate>Fri, 20 Dec 2024 19:21:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kluger Sim - 基于浏览器的蒙特卡罗模拟构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiovl8/kluger_sim_browser_based_monte_carlo_simulation/</link>
+      <description><![CDATA[我正在开发一款在浏览器中运行的软件（以后肯定能够移植到 Tauri 或 Electron 以开发桌面应用版本），用于以沙盒风格构建蒙特卡罗模拟。从 UI 角度来看，它仍然非常丑陋，但已经可以构建基本模拟了。我正在使用 C++ 和 Emscripten 编译器来尝试加快模拟循环期间的计算时间。基本上，用户构建一个 Sim，该 sim 由一个大型 C++ 结构表示，然后它会循环用户想要的次数（根据需要从 sim 结构中提取和更新数据），然后它会吐出（现在到控制台）用户要求的任何输出。我设想一些第三方 JS 库最终会通过绘图或其他方式更好地可视化这些输出，但尚未实现这一桥梁。 我现在担心的是模拟循环的速度。我构建了一个用于近似 Pi 的模拟（蒙特卡洛 Pi 近似），然后我运行该模拟，比如说 10,000 次。我原本预计结果会在一秒或更短的时间内出现（对于 WASM 来说，这可能不现实？），但似乎需要的时间比这长得多……大约 10 秒或 15 秒（我从未严格计时过）。对于在现实生活中有用的更复杂的模拟，用户可能想要运行 sim 数百万次，因此显然所需的时间是不切实际的。 这是 tldr 的基本逻辑：通过拖放函数构造 sim，这些函数名称按顺序存储到向量中，然后 switch 语句通过循环该向量来确定要运行哪个函数，每个函数根据需要更新主结构，最后在按顺序调用函数多次（按照 sim 要求的顺序）后，将输出发送到控制台。 以下是我知道我已经可以做的一些改进：  目前，所有内容都作为字符串传递给 C++ 结构，因此发生的任何数学运算都必须首先将字符串转换为双精度数，执行数学运算，然后将其转换回字符串。我认为，改变这一点可以在 1 万个循环中节省几秒钟，但可能只有几秒钟。我可以实现可选线程（如果用户确信他们的特定模拟可以并行运行，那么我可以创建几个线程，而不是仅仅以串行方式运行所有线程，只使用互斥锁来跟踪结构中的共享变量） - 但这只会增加特定模拟的模拟速度......并且它本身并没有提高我的代码的效率。如果有人好奇或有兴趣拆开我的代码以使其更快，我洗耳恭听。堆栈只是 C++、Python（Flask）、JS、HTML、CSS......我不会使用前端框架，主要是为了最少的维护和更好的面向未来......所以 JS 有点像狂野的西部，但我想我大部分时间都把它保密了。如果您还在阅读并且好奇，谢谢...这里是 GitHub：Kluger Sim GitHub 整个项目都很新，因此目前尚无关于如何使用它的文档。我想那些既能编程又能理解蒙特卡罗模拟的人应该能够猜出目前 UI 中的东西是干什么的……但如果有什么不明显的地方，我会在需要时在这些评论中提供意见。    提交人    /u/zacguymarino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiovl8/kluger_sim_browser_based_monte_carlo_simulation/</guid>
+      <pubDate>Fri, 20 Dec 2024 17:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以找到开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hinsa5/where_to_find_open_source_projects/</link>
+      <description><![CDATA[我是初学者，我想知道在哪里可以找到可以贡献的开源项目     提交人    /u/Historical-Chip-5152   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hinsa5/where_to_find_open_source_projects/</guid>
+      <pubDate>Fri, 20 Dec 2024 16:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个极简的、仅供客户端使用的电子邮件签名生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</link>
+      <description><![CDATA[不想一直被打扰，所以我想我只需创建自己的生成器。  GitHub：https://github.com/activenode/signature-project  页面：signature.activeno.de     由   提交  /u/activenode   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</guid>
+      <pubDate>Fri, 20 Dec 2024 16:03:38 GMT</pubDate>
+    </item>
     <item>
       <title>开源产品的商业模式</title>
       <link>https://www.reddit.com/r/opensource/comments/1hildeu/business_model_for_open_source_product/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我指的是防病毒扫描程序。    由   提交  /u/The_Viewer2083   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hicc3c/is_there_any_anti_malwaresecurity_scanner_for/</guid>
       <pubDate>Fri, 20 Dec 2024 04:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源照片销售应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</link>
-      <description><![CDATA[我已经为系统管理编写 Python 脚本一段时间了，最​​近才开始摆弄 Flask 并学习 Django。我曾与我的兄弟讨论过，他是一名摄影师，他正在寻找一种方法来给照片加水印并与客户分享，并允许客户确认他们是否想要一张还是多张照片，并按选择收费，一旦购买，他们将收到没有水印的照片。  我认为在尝试从头开始构建它之前，找到一个已经存在的开源摄影应用程序并可能添加一些功能真的很酷。  有人知道任何仍在积极维护的管理照片的开源项目吗？     提交人    /u/sofloLinuxuser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smith 先生 – 用于构建项目脚手架的开源框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</link>
-      <description><![CDATA[https://github.com/mr-smith-org/mr    由   提交  /u/BroccoliOdd3016   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</guid>
-      <pubDate>Thu, 19 Dec 2024 21:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 AI 文件管理器（带文本/图像的 PDF）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhzjyg/looking_for_ai_file_organizer_pdfs_with_textimages/</link>
-      <description><![CDATA[嗨， 我正在寻找一种可以帮助我使用 AI 组织文件的软件/工具。理想情况下，它应该是开源的，并且能够处理 PDF，无论它们是包含文本还是只有图像。以下是我希望的：  我想选择特定的文件夹供 AI 处理。 AI 应该逐个分析我的文件并确定每个文件的适当文件夹。 如果它可以在本地运行就太棒了（我安装了 LLaMA，因此与之兼容的东西会很棒）。 如果需要，我也愿意使用使用非开源 AI 及其 API 的东西。  有这样的东西吗？ 谢谢！    提交人    /u/Forkan5870   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhzjyg/looking_for_ai_file_organizer_pdfs_with_textimages/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 leetcode 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhy7kc/opensource_leetcode_alternative/</link>
-      <description><![CDATA[嘿 r/opensource  在过去的几个月里，我一直在构建一个开源的 leetcode 替代品。目标是为有抱负的开发人员和中级工程师创建一个教育平台，让他们可以共同构建一个平台来提高他们的编码技能。 这是我的第一个真正的“开源”项目，所以公开构建并看着它发展真的很有趣。 如果你想看看，这里是源代码：https://github.com/logannford/TechBlitz/ 。我很乐意听到关于这个仓库的任何反馈！:)    提交人    /u/loganfordd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhy7kc/opensource_leetcode_alternative/</guid>
-      <pubDate>Thu, 19 Dec 2024 17:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 受 450 万虚假星星问题困扰，误导用户</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhx2d2/github_plagued_by_45_million_fake_stars_problem/</link>
-      <description><![CDATA[GitHub 是开源软件协作的首要平台，但它正面临日益严重的虚假星级活动问题，这种活动会人为地夸大存储库的受欢迎程度指标。卡内基梅隆大学和北卡罗来纳州立大学的研究人员最近进行的一项研究揭示了这种趋势如何误导开发人员并为恶意软件的扩散开辟了道路。 https://cyberinsider.com/github-plagued-by-4-5-million-fake-stars-problem-misleading-users/    提交人    /u/trevor25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhx2d2/github_plagued_by_45_million_fake_stars_problem/</guid>
-      <pubDate>Thu, 19 Dec 2024 16:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma-to-code 与您的编码风格相匹配！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</link>
-      <description><![CDATA[大家好！我们构建了一个工具来解决在现有项目之上编写前端代码的问题（这是 v0/Cursor 目前落后的地方）。它是一个 VSCode/Cursor 扩展，它接受 Figma/images/prompts 并编写与您的设计系统、编码风格相匹配的代码并重用您的 UI 组件。很乐意收到反馈！ Github：https://github.com/aquila-lab/superflex-vscode 网站：superflex.ai     提交人    /u/qlut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</guid>
-      <pubDate>Thu, 19 Dec 2024 16:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 2024 年接近尾声，OSI 回顾了这多事的一年，这一年在全球政策和标准制定中倡导开源原则方面取得了重大成就。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhs5df/as_2024_draws_to_a_close_the_osi_reflects_on_an/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhs5df/as_2024_draws_to_a_close_the_osi_reflects_on_an/</guid>
-      <pubDate>Thu, 19 Dec 2024 12:47:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
