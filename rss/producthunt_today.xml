@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Dec 2024 09:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 12:43:06 GMT</lastBuildDate>
     <item>
       <title>AI 圣诞电影生成器</title>
       <link>https://www.producthunt.com/posts/ai-xmas-movie-generator</link>
@@ -37,7 +37,7 @@
       <title>ChatGPT 已保存聊天记录</title>
       <link>https://www.producthunt.com/posts/chatgpt-saved-chat</link>
       <description><![CDATA[
-在 ChatGPT 中轻松保存您最重要的对话
+在 ChatGPT 中轻松保存最重要的对话
 
 
 讨论
@@ -146,20 +146,6 @@
       <pubDate>Sun, 22 Dec 2024 19:15:34 GMT</pubDate>
     </item>
     <item>
-      <title>终于见面了！</title>
-      <link>https://www.producthunt.com/posts/lets-finally-meet</link>
-      <description><![CDATA[
-朋友们终于见面的地方
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/lets-finally-meet</guid>
-      <pubDate>Sun, 22 Dec 2024 13:04:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Trupeer.ai 的圣诞老人 SaaS-y</title>
       <link>https://www.producthunt.com/posts/saas-y-santa-by-trupeer-ai</link>
       <description><![CDATA[
@@ -174,6 +160,34 @@
       <pubDate>Sun, 22 Dec 2024 09:29:34 GMT</pubDate>
     </item>
     <item>
+      <title>明亮的操作系统</title>
+      <link>https://www.producthunt.com/posts/bright-os</link>
+      <description><![CDATA[
+用餐记录 + 图像扫描 + 睡眠跟踪等
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bright-os</guid>
+      <pubDate>Sun, 22 Dec 2024 01:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 总结 2024 – 您的代码之年！</title>
+      <link>https://www.producthunt.com/posts/github-wrapped-2024-your-year-in-code</link>
+      <description><![CDATA[
+您的 GitHub 之旅，用个性化代码记录您的一年
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/github-wrapped-2024-your-year-in-code</guid>
+      <pubDate>Sat, 21 Dec 2024 13:26:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Assistive24</title>
       <link>https://www.producthunt.com/posts/assistive24</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/assistive24</guid>
       <pubDate>Thu, 19 Dec 2024 16:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>VocAdapt</title>
-      <link>https://www.producthunt.com/posts/vocadapt</link>
-      <description><![CDATA[
-利用人工智能改编的真实内容掌握语言
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vocadapt</guid>
-      <pubDate>Wed, 20 Nov 2024 14:54:46 GMT</pubDate>
     </item>
     <item>
       <title>匿名健康</title>
