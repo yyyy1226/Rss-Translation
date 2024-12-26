@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Dec 2024 03:28:16 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 26 Dec 2024 06:33:11 GMT</lastBuildDate>
+    <item>
+      <title>“去他妈的，我受够了”——是什么引发了你在进行网络开发工作时产生这种想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmhxjy/f_this_im_done_what_triggers_this_thought_during/</link>
+      <description><![CDATA[您如何处理 Web 开发工作区设置？您的日常工作流程是什么样的？ 您在 Web 开发过程中最大的挫折是什么？特别感兴趣的是： - 您的浏览器/IDE 切换工作流程 - TypeScript/构建错误工作流程 - 本地开发痛点 - 破坏您流程的事情 最近我一直在反思自己，因为我意识到我花了半天时间管理窗口 - 这里是 IDE，那里是 DevTools，其他地方是文档，多个用于测试的浏览器窗口......从一台显示器开始，买了第二台，现在正在考虑第三台😅 好奇其他人是怎么处理的 - 现在的 Web 开发就是这样的吗？    提交人    /u/namanyayg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmhxjy/f_this_im_done_what_triggers_this_thought_during/</guid>
+      <pubDate>Thu, 26 Dec 2024 05:40:22 GMT</pubDate>
+    </item>
     <item>
       <title>我距离 10xDeveloper 还有多远？我应该如何努力才能成为 10xDeveloper？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hmfsuf/how_far_am_i_from_a_10xdeveloper_what_all_should/</link>
-      <description><![CDATA[大家好， 只是想弄清楚我的立场和需要改进的地方。希望大家对我的工作提出一些诚实的反馈意见： GitHub：fal3n-4ngel 作品集：adithyakrishnan.com 感谢任何反馈意见！    提交人    /u/hi_kki   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 只是想弄清楚我的立场以及我需要改进的地方。希望对我的工作得到一些诚实的反馈： GitHub：fal3n-4ngel 作品集：adithyakrishnan.com 感谢您的任何反馈！ 编辑：对于那些询问 10xDeveloper 是什么的人.. 就像在 meme 和所有东西中一样，神级程序员被称为 ig...    提交人    /u/hi_kki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hmfsuf/how_far_am_i_from_a_10xdeveloper_what_all_should/</guid>
       <pubDate>Thu, 26 Dec 2024 03:27:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当你在主要或副项目上工作时，你需要实现一些大功能，通常决定采用第三方解决方案而不是从头开始构建。此时，它只是一个研究阶段，要找到可用的选项，根据多个标准选择最佳工具。 你如何处理这个问题？ 假设你需要在你的应用/网站中有一个 pdf 查看器/编辑器。有一些不错的库：付费和免费（取决于你的堆栈）。 你在哪里看？你如何选择？你的标准是什么？    提交人    /u/WanMilBus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hm4uck/how_do_you_choose_3rdparty_libs/</guid>
       <pubDate>Wed, 25 Dec 2024 17:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dashlane 发布提高透明度和安全性的 Web 扩展代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</link>
-      <description><![CDATA[       由    /u/josh252  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</guid>
-      <pubDate>Wed, 25 Dec 2024 16:27:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
