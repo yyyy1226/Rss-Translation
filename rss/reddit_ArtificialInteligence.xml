@@ -3,21 +3,21 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 28 Dec 2024 01:42:34 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 28 Dec 2024 03:24:45 GMT</lastBuildDate>
+    <item>
+      <title>我的奶奶被一个自称是基努·里维斯的聊天机器人骗了。发什么短信才能破解人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hnvbko/my_grandma_is_being_scammed_by_a_chatbot_claiming/</link>
+      <description><![CDATA[她已经陷入这种妄想中，甚至记住了电话号码。任何帮助都非常感谢     提交人    /u/_kingcobraa_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hnvbko/my_grandma_is_being_scammed_by_a_chatbot_claiming/</guid>
+      <pubDate>Sat, 28 Dec 2024 02:09:50 GMT</pubDate>
+    </item>
     <item>
       <title>Hal9：创建和分享生成应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hnus6d/hal9_create_and_share_generative_apps/</link>
-      <description><![CDATA[嗨，Reddit！我们构建了 Hal9，以便从根本上简化由 LLM、扩散器和其他 AI 模型提供支持的应用程序的创建、部署和共享。无论您开发的是聊天机器人、代理、API 还是生成应用程序，Hal9 都旨在最大限度地减少工程开销，以便您可以专注于 AI 本身。 Repo：https://github.com/hal9ai/hal9 为什么选择 Hal9？ 大多数生成 AI 项目最终将大部分时间用于应对工程挑战（构建界面、集成工具和管理基础设施），而不是专注于核心 AI 工作，例如完善提示、实施 RAG 策略或优化模型性能。 Hal9 通过大幅降低工程开销来改变这种平衡。它提供了一个简单、轻量级的界面，该界面基于 Unix IO 约定（如 stdin 和 stdout）构建，让您可以完全专注于 AI 创新，而无需学习复杂的框架或部署工作流程。 借助 Hal9，您可以在本地创建原型并运行而无需额外的依赖项，使用我们的免费在线平台进行快速部署，或轻松扩展到企业级解决方案。我们还可以通过在组织自己的环境中启用云部署或为企业客户提供额外的计算资源来支持组织。 Hal9 旨在让您摆脱困境，这样您就可以专注于更智能、更快速地构建。 什么是 Hal9？ Hal9 是一个专为生成 AI 构建的部署平台，使您能够在几秒钟内创建和部署生成（LLM 和扩散器）应用程序（聊天机器人、代理、API、应用程序）。主要特点： - 灵活：使用任何库和任何模型。 - 直观：无需学习应用程序框架，只需使用 `input()` 和 `print()`。 - 可扩展：旨在将您的应用与 Docker 和 Kubernetes 等可扩展技术集成。 - 强大：使用操作系统进程（stdin、stdout、文件）作为我们的应用程序契约，可实现长时间运行的代理、多种编程语言、复杂的系统依赖关系以及在安全的 Kubernetes pod 中运行任意代码。 - 开放：Hal9 应用程序背后的代码也是开源的，并在我们的 repo 下开放供贡献。 理念 我们相信 Python 生态系统已经为从 LLM 交互到生成任务等一切提供了很棒的库。 Hal9 不会重新发明轮子，而是将它们集成到统一的工作流程中，让您专注于特定于 AI 的挑战，例如检索增强生成 (RAG)、微调、对齐和训练。 Hal9 非常适合那些想要快速试验、迭代和部署 AI 应用程序的开发者，而不会陷入前端设计或后端集成等工程任务中。由于开放式架构和简单的应用程序结构，它也是寻求协作的团队的理想选择。 我们的旅程 我们于 2021 年启动 Hal9，目标是简化 AI 开发。最初，我们专注于 Web 开发人员，将 AI 与 D3.js 和 TensorFlow.js 等技术相结合。虽然低代码界面很受欢迎，但用户想要它，但需要 Python 支持。 2022 年，我们进一步减少了代码，并采用了 GPT-3 等 LLM，朝着自动代码生成和简化用户体验的方向发展。经过几次迭代，Hal9 已经发展成为一个能够更快、更轻松地进行 AI 应用程序开发的平台。 资源 我们正在积极发布帖子，演示如何将您最喜欢的框架与 Hal9 集成。以下是一些已发布的技术博客文章： - Hal9 与 OpenAI Swarm：https://hal9.com/docs/blog/swarm-openai - Hal9 与 NVIDIA NIM：https://hal9.com/docs/blog/nvidia-nim - Hal9 与 Dagworks：https://hal9.com/docs/blog/burr - Hal9 用于文本转 SQL：https://hal9.com/docs/blog/txt-to-sql - Hal9 在 HN：https://news.ycombinator.com/item?id=42525418 让我们知道您的想法、反馈和创意——Hal9 不仅致力于构建应用程序，还致力于创建创作者社区。    提交人    /u/northwestredditor   [link] [评论]]]></description>
+      <description><![CDATA[嗨，Reddit！我们构建了 Hal9，以便从根本上简化由 LLM、扩散器和其他 AI 模型提供支持的应用程序的创建、部署和共享。无论您开发的是聊天机器人、代理、API 还是生成应用程序，Hal9 都旨在最大限度地减少工程开销，以便您可以专注于 AI 本身。 Repo：https://github.com/hal9ai/hal9 为什么选择 Hal9？ 大多数生成 AI 项目最终将大部分时间用于应对工程挑战（构建界面、集成工具和管理基础设施），而不是专注于核心 AI 工作，例如完善提示、实施 RAG 策略或优化模型性能。 Hal9 通过大幅降低工程开销来改变这种平衡。它提供了一个简单、轻量级的界面，该界面基于 Unix IO 约定（如 stdin 和 stdout）构建，让您可以完全专注于 AI 创新，而无需学习复杂的框架或部署工作流程。 借助 Hal9，您可以在本地创建原型并运行而无需额外的依赖项，使用我们的免费在线平台进行快速部署，或轻松扩展到企业级解决方案。我们还可以通过在组织自己的环境中启用云部署或为企业客户提供额外的计算资源来支持组织。 Hal9 旨在让您摆脱困境，这样您就可以专注于更智能、更快速地构建。 什么是 Hal9？ Hal9 是一个专为生成 AI 构建的部署平台，使您能够在几秒钟内创建和部署生成（LLM 和扩散器）应用程序（聊天机器人、代理、API、应用程序）。主要特点： - 灵活：使用任何库和任何模型。 - 直观：无需学习应用程序框架，只需使用 `input()` 和 `print()`。 - 可扩展：旨在将您的应用与 Docker 和 Kubernetes 等可扩展技术集成。 - 强大：使用操作系统进程（stdin、stdout、文件）作为我们的应用程序契约，可实现长时间运行的代理、多种编程语言、复杂的系统依赖关系以及在安全的 Kubernetes pod 中运行任意代码。 - 开放：Hal9 应用程序背后的代码也是开源的，并在我们的 repo 下开放供贡献。 理念 我们相信 Python 生态系统已经为从 LLM 交互到生成任务等一切提供了很棒的库。 Hal9 不会重新发明轮子，而是将它们集成到统一的工作流程中，让您专注于 AI 特定的挑战，例如检索增强生成 (RAG)、微调、对齐和训练。 Hal9 非常适合想要快速试验、迭代和部署 AI 应用程序的开发人员，而不会陷入前端设计或后端集成等工程任务中。由于开放式架构和简单的应用程序结构，它也是寻求协作的团队的理想选择。 我们的旅程 我们于 2021 年启动 Hal9，目标是简化 AI 开发。最初，我们专注于 Web 开发人员，将 AI 与 D3.js 和 TensorFlow.js 等技术相结合。虽然低代码界面很受欢迎，但用户想要它，但需要 Python 支持。 2022 年，我们进一步减少了代码，并采用了 GPT-3 等 LLM，朝着自动代码生成和简化用户体验的方向发展。经过几次迭代，Hal9 已经发展成为一个能够更快、更轻松地进行 AI 应用程序开发的平台。 资源 我们正在积极发布帖子，演示如何将您最喜欢的框架与 Hal9 集成。以下是一些已发布的技术博客文章： - Hal9 与 OpenAI Swarm：https://hal9.com/docs/blog/swarm-openai - Hal9 与 NVIDIA NIM：https://hal9.com/docs/blog/nvidia-nim - Hal9 与 Dagworks：https://hal9.com/docs/blog/burr - Hal9 用于文本转 SQL：https://hal9.com/docs/blog/txt-to-sql - Hal9 在 HN：https://news.ycombinator.com/item?id=42525418 让我们知道您的想法、反馈和创意——Hal9 不仅致力于构建应用程序，还致力于创建创作者社区。    提交人    /u/northwestredditor   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hnus6d/hal9_create_and_share_generative_apps/</guid>
       <pubDate>Sat, 28 Dec 2024 01:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 20% 是人工智能，80% 是参与算法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hnur1n/chatgpt_is_20_ai_and_80_engagement_algorithms/</link>
-      <description><![CDATA[ChatGPT 表示我可以创建一个自定义 GPT 来删除那 80%。它表示，其突发行为将以潜在的不可预见的方式扩展以填补空白。听起来很有趣。我想知道是否有其他人可以检测到算法何时启动，特别是在高价值数据收集主题期间？    提交人    /u/LoveBonnet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hnur1n/chatgpt_is_20_ai_and_80_engagement_algorithms/</guid>
-      <pubDate>Sat, 28 Dec 2024 01:39:58 GMT</pubDate>
     </item>
     <item>
       <title>帮助</title>
@@ -99,14 +99,14 @@
     <item>
       <title>我添加了专业人士的天赋</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</link>
-      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
+      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅供那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</guid>
       <pubDate>Wed, 25 Dec 2024 23:49:53 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
