@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 27 Dec 2024 18:29:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 01:43:02 GMT</lastBuildDate>
     <item>
-      <title>ISO 技术精明的 AE</title>
-      <link>https://www.reddit.com/r/editors/comments/1hnk7pf/iso_tech_savvy_ae/</link>
-      <description><![CDATA[大家好 注意 :: 这不是针对近期就业的 :: 我正开始寻找驻洛杉矶的助理编辑（仅限 AVID），他们专攻技术方面，并对新兴的 AI 工具/插件感兴趣/具备专业知识。必须具备“好莱坞式”脚本经验  我有点儿像卢德分子，近期有一些问题，但当我现在的人接任时，我也在寻找新的 AE 很高兴回答有关我正在寻找什么的问题，但您可以直接发简历（请不要发送卷轴）    提交人    /u/geofilms45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hnk7pf/iso_tech_savvy_ae/</guid>
-      <pubDate>Fri, 27 Dec 2024 17:38:24 GMT</pubDate>
+      <title>Adobe Premiere 2024/2025 遮罩故障 - 救命！</title>
+      <link>https://www.reddit.com/r/editors/comments/1hns9gy/adobe_premiere_20242025_mask_glitch_help/</link>
+      <description><![CDATA[自 9 月以来，我一直在努力解决这个故障，现在我终于受够了，决定寻求帮助。我以为它可能会通过更新得到修复，但遗憾的是，它并没有。 正如您在照片中看到的那样，当我将蒙版添加到带有 Lumetri 效果的调整层时，蒙版与它应该在的位置不同步。屏幕截图*显示了我使用不透明度蒙版和在 Lumetri 面板内蒙版的情况。 *注意：我无法在此帖子上发布照片，但我会在帖子获得批准后分享它们。 过去的故障排除：  渲染序列 保存、退出、重新启动 删除并使用新的调整图层 开始新序列 使用全新的 Lumetri 效果 从不同序列复制并粘贴调整图层 从不透明度下拉菜单中使用蒙版 从 Lumetri 下拉菜单中使用蒙版 使用方形蒙版 绘制我自己的蒙版  统计数据：  完全最新的 Adob​​e Premiere 2025 MP4 视频文件。最初从 Twitch 下载。 颜色设置 Rec. 709     由   提交  /u/literallyselina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hns9gy/adobe_premiere_20242025_mask_glitch_help/</guid>
+      <pubDate>Fri, 27 Dec 2024 23:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手编辑试图切断颜色</title>
+      <link>https://www.reddit.com/r/editors/comments/1hnnrdn/novice_editor_trying_to_get_cut_off_to_color/</link>
+      <description><![CDATA[嘿朋友们，我是一名非专业编辑，想把一个项目交给调色师。素材是 black magic pocket braw。文件被转码，并且使用这些 .mov 文件完成了 Premiere 编辑。他说他需要原始文件。我不知道如何将 .mov 链接到 .braw 并将其交给他。任何帮助都将不胜感激！    提交人    /u/tonka_bear   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hnnrdn/novice_editor_trying_to_get_cut_off_to_color/</guid>
+      <pubDate>Fri, 27 Dec 2024 20:13:11 GMT</pubDate>
     </item>
     <item>
       <title>任何公寓居民都有静音 RAID 设置吗？</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[我整理了一个 After Effects 表达式库，其中包含 80 多个预先测试过的表达式。由于这个 subreddit 上有很多该领域的专家，我想问问您是否认为有哪些表达式对其他人有用，或者您自己经常使用。 库中的每个表达式都包括：  其用例的清晰描述 代码，可随时复制并粘贴到您的项目中 一个展示其实际工作原理的实用视频  如果您有想要分享的表达式，请随时将其放在评论中。在下一次更新中，我一定会将其包含在内并向您致谢！    提交人    /u/AE-Wizard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hmow26/80_after_effects_expressions_in_the_library_so/</guid>
       <pubDate>Thu, 26 Dec 2024 13:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid Media Composer 中的 SSD 媒体连接问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1hmnwq7/media_connection_issues_with_ssd_in_avid_media/</link>
-      <description><![CDATA[大家好， 我最近从 Premiere Pro 过渡到 Avid Media Composer，遇到了一个令人沮丧的外部 SSD 问题。每次我关闭 Avid 然后重新打开它时，存储在 SSD 上的媒体都会显示为“媒体离线”，即使 SSD 保持连接状态。只有我弹出并重新物理连接 SSD 时，媒体才会重新连接，并且必须在 Avid 打开的情况下完成此操作；否则，它不会自动链接，也不允许我右键单击要链接的媒体。 我尝试使用控制台命令选择所有驱动器 (alldrives)，但问题仍然存在，除非我手动断开并重新连接 SSD。我使用 Premiere 时从未发生过这种情况，因此我不知道是什么原因导致了这种情况。 以下是显示错误和设置的几个屏幕截图：https://imgur.com/a/hf32X9Y 有人知道为什么会发生这种情况或如何解决吗？ 任何帮助都将不胜感激，因为它确实扰乱了我的工作流程。 谢谢！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hmnwq7/media_connection_issues_with_ssd_in_avid_media/</guid>
-      <pubDate>Thu, 26 Dec 2024 13:01:57 GMT</pubDate>
     </item>
     <item>
       <title>有人见过这个吗？</title>
