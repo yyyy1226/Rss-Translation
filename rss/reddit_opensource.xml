@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Dec 2024 12:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 15:21:51 GMT</lastBuildDate>
     <item>
-      <title>GrapheneOS：审查、滥用阻止和拒绝批评——这真的是开源吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ho48s6/grapheneos_censorship_abusive_blocking_and/</link>
-      <description><![CDATA[我最近与 GrapheneOS 团队的合作经历非常令人失望，我想在这里分享一下，以强调他们的做法。 我报告了一个有关根证书的问题。尽管经过多次沟通，他们反复告诉我这不是一个 bug，我的问题立即被关闭，没有进行任何认真的调查。然而，当另一个用户报告了完全相同的问题时，这个问题又被重新打开了。就在那时，我发布了一条批评消息：  显然，我是对的，这正是我所说的，确实有一个 bug……但他们似乎更喜欢直接关闭问题，而不是寻找解决方案。  随后，我的消息被删除，我被禁止访问问题跟踪器。然后我发了一封电子邮件，要求解释为什么阻止和删除我的问题。这是我收到的回复：  你太无礼了，这就是你被禁止参与问题跟踪的原因。这个问题将由报告者处理，不会利用这个机会攻击他人。  他们不仅屏蔽了我，还指责我不尊重他人，尽管我的消息只是指出了对最初问题的关注不足。 最令人愤慨的是，这是一个合法的错误，我花时间详细解释了。但他们没有认真处理我的报告，而是选择无视我，只有当其他人报告了同样的问题时才重新打开这个问题，然后删除我的贡献并将我排除在项目之外。 以下是我对这种行为的回应（我非常震惊，忍不住要引用这段历史）：  很明显，你没有费心阅读我发布的消息。我说的话绝对没有任何不尊重之处。然而，真正不尊重的是，尽管我提供了清晰详细的解释，你还是断然拒绝解决这个问题，只有在其他人报告完全相同的问题时才重新打开它。然后，更糟糕的是，当我敢于指出你缺乏考虑时，你删除了这个问题并屏蔽了我，并引用了一个虚假的借口。 接受批评，即使是不愉快的批评，也是专业和尊重管理的基本组成部分，但似乎你完全没有理解这个概念。再加上完全缺乏基本的礼貌，比如在回复电子邮件时简单地说一声“你好”，我们就能清楚地看到你们的蔑视。 你们的方法令人遗憾地呼应了独裁政权的方法：压制那些敢于质疑你们决定的人的声音，好像反驳是一种罪行。也许你们会在斯大林统治下茁壮成长，在那里，压制批评的艺术被提升为一种学说。  之后，我在他们的论坛上分享了这一反馈，认为最终可能会进行建设性的交流。然而，令我惊讶的是，我的帖子被隐藏了，这进一步证明了他们拒绝接受任何批评。 简而言之，在开源世界的 10 年经验中，我遇到过分歧，是的，但从来没有遇到过这样的行为。我对某些人的行为、完全缺乏自我批评以及对合理批评的系统性审查感到非常震惊。    提交人    /u/Affectionate_Ebb535   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ho48s6/grapheneos_censorship_abusive_blocking_and/</guid>
-      <pubDate>Sat, 28 Dec 2024 11:56:27 GMT</pubDate>
+      <title>正在寻找一款可以跨设备同步我的播客收听的应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ho5p7x/looking_for_an_app_to_sync_my_podcast_listening/</link>
+      <description><![CDATA[大家好， 我正在寻找一个应用（最好是开源的）来帮助我收听播客，同时保持设备（主要是智能手机和 PC）之间的进度同步。 关键点：我通过 RSS 源关注播客，因此 Spotify 或 Apple Music 等平台不适合我。我需要具备以下功能的应用：1. 支持 RSS 源。2. 允许我从上次中断的地方继续收听，无论使用什么设备。3. 可在 iOS 和 PC（网页或应用）上使用    提交人    /u/Sostrene_Blue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ho5p7x/looking_for_an_app_to_sync_my_podcast_listening/</guid>
+      <pubDate>Sat, 28 Dec 2024 13:30:52 GMT</pubDate>
     </item>
     <item>
       <title>Adobe Acrobat 的最佳开源替代品有哪些？</title>
