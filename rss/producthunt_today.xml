@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 03:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 06:30:14 GMT</lastBuildDate>
     <item>
       <title>请墨水</title>
       <link>https://www.producthunt.com/posts/kindly-ink</link>
@@ -121,7 +121,7 @@
       <title>Notion 的演示模式</title>
       <link>https://www.producthunt.com/posts/presentation-mode-for-notion</link>
       <description><![CDATA[
-将 Notion 页面变成流畅的幻灯片演示
+将 Notion 页面变成流畅滑动的演示文稿
 
 
 讨论
@@ -135,7 +135,7 @@
       <title>幽灵</title>
       <link>https://www.producthunt.com/posts/ghostty</link>
       <description><![CDATA[
-一款快速、功能丰富且平台原生的终端仿真器
+一款快速、功能丰富且平台原生的终端模拟器
 
 
 讨论
