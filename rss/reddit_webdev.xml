@@ -4,13 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 09:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:40:59 GMT</lastBuildDate>
     <item>
-      <title>我创办一家借用奇怪物品的初创公司的那段日子（是的，真的）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hosfvk/the_time_i_built_a_startup_for_borrowing_odd/</link>
-      <description><![CDATA[几年前，我和朋友们开玩笑说，我们总是买一次性的东西，比如华夫饼机或一次性项目的梯子。就在那时，我突然有了一个想法：如果有一个平台，人们可以借用和借出这些“偶尔”的物品会怎么样？ 我们将其命名为 BorrowBuddy，这是一款点对点借贷应用程序，用于借出那些你不想直接购买的最奇怪、最有用的东西。 构建它很有趣（也很混乱）：  独特的库存：我们必须创建一个标记系统，以便用户可以搜索“金属探测器”或“巨型积木”等物品。 信任和安全：添加用户评级和存款系统可确保人们妥善保管借来的物品。 基于地理位置的匹配：该应用程序需要连接特定半径内的人们，以保持实用性。  该平台迅速获得关注。最受欢迎的物品之一？爆米花机。谁知道人们如此经常需要这个？ 虽然 BorrowBuddy 最终结束了（事实证明物流是一个挑战），但它教会了我很多关于构建独特平台的知识：专注于小众问题、为信任而设计以及保持无缝的用户体验。 现在，我利用这些经验帮助其他人将他们的非传统想法变成可行的产品。有一个让你兴奋的疯狂想法吗？让我们集思广益，一起构建它吧！    提交人    /u/crazychampion2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hosfvk/the_time_i_built_a_startup_for_borrowing_odd/</guid>
-      <pubDate>Sun, 29 Dec 2024 09:20:03 GMT</pubDate>
+      <title>体育网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</link>
+      <description><![CDATA[由于我是一名网页开发人员和体育爱好者，我想建立自己的与足球相关的体育网站。我在与体育相关的 Facebook 页面上也有 50 多万粉丝。通过这个 Facebook 页面推广我的网站会有帮助吗？    提交人    /u/purgetoxicselfhabits   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>不错的小 URL 破解，让您成为第一批申请该职位的候选人（LinkedIn 最多只允许 24 小时的筛选）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1housts/nice_little_url_hack_to_be_among_the_first/</link>
+      <description><![CDATA[简单方法如下：  使用&quot;24 hours&quot; 过滤器，输入所需关键词（例如：软件实习生或软件毕业生），然后复制完整的 url。 从 url 中找到 tpr 值，并将其更改为较小的数字（以秒为单位）。 访问更新后的 url。  参考： https://searchjobs.me/article/linkedin-job-search-hack-be-among-the-first-to-apply-for-any-job/    提交人    /u/willis7747   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1housts/nice_little_url_hack_to_be_among_the_first/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Namecheap 的最新“优惠”。再告诉我一下 ensh*ttification 是如何成为阴谋论的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1houlh0/the_latest_offers_from_namecheap_tell_me_again/</link>
+      <description><![CDATA[       由    /u/doobltroobl  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1houlh0/the_latest_offers_from_namecheap_tell_me_again/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 漏洞/效率检查器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hou7vw/web_vulnerabilityefficieny_checker/</link>
+      <description><![CDATA[我正在寻找可以评估我的网站漏洞或更有效的编程方法的东西。 有哪些工具可以在生产或开发网站上使用来检查漏洞或代码错误？ 是否有任何开源工具、程序或方法可以做到这一点？有任何价格合理的商业代码审查服务吗？    提交人    /u/Unhappy_Trout   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hou7vw/web_vulnerabilityefficieny_checker/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么会发生这种情况？ 上下文在正文中。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</link>
+      <description><![CDATA[由于 CP 法律，Pixiv 在我的国家被屏蔽，我无法访问，但我的朋友可以。我们生活在同一个国家和城市，当时我们也没有使用 VPN。 是什么原因造成的？主要问题是“为什么我们生活在同一个国家，我被屏蔽了，而他没有被屏蔽”，而不是为什么 pixiv 本身被屏蔽    提交人    /u/No-Entertainment3597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人尝试过 onedollarstats.com 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hotbc5/has_anyone_tried_onedollarstatscom/</link>
+      <description><![CDATA[这是 Drizzle ORM 的同一批人制作的分析工具。我看到他们的 orm 网站上有宣传，但在网上找不到任何人使用它。有人用吗？它好用吗？我并不需要分析，我只是喜欢看数字，1 美元/月是我愿意为一时兴起而花的价格    提交人    /u/Nicolello_iiiii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hotbc5/has_anyone_tried_onedollarstatscom/</guid>
+      <pubDate>Sun, 29 Dec 2024 10:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关系统设计和报价范围的反馈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hosy9v/seeking_feedback_on_system_design_and_quote_range/</link>
+      <description><![CDATA[大家好。我是经验丰富的开发人员，经营着一家小型公司，客户有大约 20 家中小型企业。我很擅长汇总报价，但经常觉得我的价格太低了。而且由于我独自工作，所以我没有任何同行可以就系统架构和问题的整体解决方案提出想法。因此，如果您有时间，我希望得到一些同行对中型项目的反馈，包括定价和我的整体方法/系统设计。  这将是一篇很长的帖子，对此我深表歉意。如果您不想深入了解一些项目规格并提供一些详细的反馈，请跳过此帖。  客户： 由 4 名代理商组成的房地产代理团队 项目： 一个相对轻松地为其代表的房产创建单个网站的系统。例如： 105MapleStreet.com 204ElmAvenue.com  他们同意使用模板方法，即每个网站看起来都一样，并且每个 url 的内容都是动态的。模板本身相对简单。具有幻灯片和您可能想象的单页房地产网站的所有内容，即床位数、浴室数、描述等。 在过去，我可能会为此考虑 WordPress 多站点，认为我会获得一个单一的代码库，并且在构建第一个站点后，我可以将其复制到后续站点并仅交换/编辑内容。 虽然这可行，但这仍然意味着我必须为每个站点创建/输入内容，这将非常耗时。 现在，我更注重程序化。我正在考虑的当前项目设计将是一个单一应用程序，托管在 clientwebsite.com/applicationname。我会转发带有掩码的各个 URL，因此我们会得到以下内容：  105MapleStreet.com -&gt; 带有掩码转发到 clientwebsite.com/applicationname  从那里，应用程序可以动态提供内容，因为我可以访问本地 MLS 数据馈送。 （如果您不熟悉，MLS 馈送是一种房地产数据馈送，其中包含房地产所需的所有数据和图像）。  我会做的是，设置一个将 URL 映射到 MLS 编号的表格： 105MapleStreet.com -&gt; MLS#4444444 然后就好了。当应用程序加载时，它会将标头请求中的 URL 与本地 MLS 编号表进行比较，当找到 URL/编号匹配时，它会通过实时查询该属性的数据来​​为其提供数据。  这种方法很快，因为 feed 允许我查询单个属性并让我定义要返回的字段，这意味着我不会加载不必要的数据。我在邮递员中的测试只需几毫秒。  因此，在此系统下，创建独立的单一属性站点的“工作”实际上只有 3 个配置步骤：  登录位于 clientwebsite.com/applicationname 的管理员并映射 105MapleStreet.com -&gt; MLS#4444444 登录到 Host，将 105MapleStreet.com 添加到 SAN SSL 并重新部署。 登录到域名注册商并执行转发，屏蔽 105MapleStreet.com -&gt; clientwebsite.com/applicationname   就是这样！模板连接后无需编辑或创建内容。它只需准备好接收新的映射 URL。 同行反馈区： 对这种整体方法的看法？我的目标是实现内容创建的自动化，只做绝对不可避免的工作。我想我在这里已经做到了，3 个步骤的协议每个步骤只需几分钟。 不考虑维护或支持，您认为像这样的项目的合理报价是多少，作为一次性人工/设置费用？本质上是一个为本地客户群提供的定制、可扩展的单站点房地产解决方案。  感谢您的想法和考虑。     提交人    /u/DeepFriedThinker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hosy9v/seeking_feedback_on_system_design_and_quote_range/</guid>
+      <pubDate>Sun, 29 Dec 2024 09:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找使用 React.js 和 JS/Typescript（前端）以及 Ruby/Go（后端）创建网络论坛的指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hosy4s/looking_for_guides_on_creating_a_web_forum_using/</link>
+      <description><![CDATA[嗨！我是一名学生，正在构建我的第一个 Web 应用程序，这是一个简单的 Web 论坛。正在寻找在线指南来帮助我创建网站。 根据标题：前端必须是 React.js 和 JS 或 Typescript，后端必须是 Ruby 或 Go。 谢谢！    提交人    /u/syk1717   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hosy4s/looking_for_guides_on_creating_a_web_forum_using/</guid>
+      <pubDate>Sun, 29 Dec 2024 09:58:44 GMT</pubDate>
     </item>
     <item>
       <title>你见过用 C 语言编写的网站吗？</title>
@@ -22,14 +71,14 @@
     <item>
       <title>架构建议 - 将 Websocket API 分为私有和公共，好主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</link>
-      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，这将增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，因此想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
+      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，它会增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，所以想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</guid>
       <pubDate>Sun, 29 Dec 2024 08:42:12 GMT</pubDate>
     </item>
     <item>
       <title>时间复杂度</title>
       <link>https://www.reddit.com/r/webdev/comments/1horxxg/time_complexity/</link>
-      <description><![CDATA[因此我在后端编写了这个函数来更新帖子的反应，并且我在相同的函数中执行喜欢和不喜欢的查询，并且基于查询响应，我要么删除数据要么将数据插入到表中。当我完成此代码的编写后，我想为什么不计算这个函数的时间复杂度，结果是 O(log n) + O(log m) + O(log k) n =&gt; 帖子数量，m =&gt; 喜欢的帖子数量，k =&gt; 不喜欢的帖子数量， 我问副驾驶我是否可以进一步优化它，他建议我不要使用 EXPLICIT sql 查询并使用 Sequelize 等。 别介意我刚才说的废话，主要问题是，我们什么时候需要，而不是明确的方法。或者我只是在写愚蠢的函数。 （上下文：我在构建时正在学习 mysql）    提交人    /u/Ayushgairola   [链接] [评论]]]></description>
+      <description><![CDATA[因此我在后端编写了这个函数来更新帖子的反应，并且我在相同的函数中执行喜欢和不喜欢的查询，并且基于查询响应，我要么在表中删除数据，要么在表中插入数据。当我完成此代码的编写后，我想为什么不计算这个函数的时间复杂度，结果是 O(log n) + O(log m) + O(log k) n =&gt; 帖子数量，m =&gt; 喜欢的帖子数量，k =&gt; 不喜欢的帖子数量， 我问副驾驶我是否可以进一步优化它，他建议我不要使用 EXPLICIT sql 查询并使用 Sequelize 等。 别介意我刚才说的废话，主要问题是，我们什么时候需要，而不是明确的方法。或者我只是在写愚蠢的函数。 （上下文：我在构建时正在学习 mysql）    提交人    /u/Ayushgairola   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1horxxg/time_complexity/</guid>
       <pubDate>Sun, 29 Dec 2024 08:42:05 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[我是一名学生，我想托管使用 API 的网站。通常对于我的静态网站，我会将其托管在 GitHub 上，因为我不是专业使用它们，而只是为了练习 Web 开发。不过，现在我已经创建了一个网站，我想让其他人也使用它。您能否给我一些说明和/或我应该学习的东西，以便在托管网站中安全地使用 API。谢谢！    提交人    /u/linnxyz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hoppph/how_can_i_securely_host_a_website_and_ensure_that/</guid>
       <pubDate>Sun, 29 Dec 2024 06:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>甚至 ISP 也忘记添加 `.toFixed(2)` 或 `Intl` 方法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</link>
-      <description><![CDATA[        提交者    /u/Master-Variety3841   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</guid>
-      <pubDate>Sun, 29 Dec 2024 05:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>批评我的个人网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</link>
-      <description><![CDATA[大家好， 我刚刚建立了我的第一个个人网站，因为我想在严格担任后端之后展示更多全栈工作。 我很乐意听到任何建议或批评。 谢谢！    提交人    /u/Livid_Tap9955   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fornax - 全栈 BunJS Web 框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
-      <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:10:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看这个网站，告诉我在网页开发、UI/UX 方面可以做得更好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</link>
-      <description><![CDATA[        提交人    /u/Electronic_Oven3518   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 14 需要应用路由器后端开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</link>
-      <description><![CDATA[您好，一年前我开始了一个大项目，使用了 Next.js 14、App router、Mongoose (MongoDB)、Stripe、DaisyUI 和 Shadcn。我自己也是一名开发人员，但我真的精疲力竭了。我可以付钱请人完成这个项目。如果您有兴趣，请直接发消息给我，谢谢。    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务器上数据的简单方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</link>
-      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端和客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</guid>
-      <pubDate>Sun, 29 Dec 2024 03:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>你对使用人工智能来总结网站上的真实用户评论有什么看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</link>
-      <description><![CDATA[我正在浏览旅行顾问，在用户点评部分，我注意到了下面的披露。 “上述景点描述由人工智能创建，使用了用户提交给 Tripadvisor 的点评中常见的信息和短语。”  我个人认为它消除了点评的实用性，因为我不想仔细检查每一条点评，只是为了验证它不是幻觉信息。只是好奇其他人对网站上的这个有什么反应。    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</guid>
-      <pubDate>Sun, 29 Dec 2024 03:34:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
