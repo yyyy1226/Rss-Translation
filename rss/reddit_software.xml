@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 30 Dec 2024 01:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 03:29:19 GMT</lastBuildDate>
+    <item>
+      <title>有没有一款非常简单的 GUI 安全摄像头软件，适用于 1 个摄像头并带有运动检测功能？类似旧的 iSpy 之类的软件？（Windows 或 Linux）</title>
+      <link>https://www.reddit.com/r/software/comments/1hpd3cm/is_there_a_deadsimple_gui_security_camera/</link>
+      <description><![CDATA[我之所以问这个问题，是因为网上对这类问题的回答似乎是一个复杂的多摄像头远程软件，如“motion、zoneminder 或 shinobi”。这不是我想要的。我想要一个简单的 GUI 单摄像头设置，带有实时视图来调整摄像头，并能够设置用于录制的运动检测阈值。我需要它只有 1 个摄像头来监视 1 个房间。 我明白安全软件人员的倾向是发现制作可远程访问的 Web 软件更有用，但这只会让像我这样的新手的事情变得复杂。我曾经使用过一款名为 iSpy 的软件，它可以完全满足我的要求，但是那些人决定将他们的软件做成名为 AgentDVR 的网络软件，现在无法使用了。 很抱歉，但“兄弟，只需使用命令行启动此守护进程，然后使用浏览器连接到 localhost:6969，GUI 是一个 javascript，每个设置都可以在奇怪的子面板中调整”对我来说不是很简单。    提交人    /u/onekool   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hpd3cm/is_there_a_deadsimple_gui_security_camera/</guid>
+      <pubDate>Mon, 30 Dec 2024 02:47:10 GMT</pubDate>
+    </item>
     <item>
       <title>还有人在用 Norton Ghost 15 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1hp9zan/does_anyone_still_use_norton_ghost_15/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我会买几个监控摄像头，我想在我的显示器上显示视频流。  实时视频流就足够了，不需要录制。必须显示 7 个或更多摄像头的视频流，必须能够在主窗口中排列视频流。 PTZ 功能是必须的。 Windows 10，硬件解码会很好。 有人可以给我一些软件推荐吗？最好是一些仍在开发中的开源软件。    提交人    /u/greyish_sea   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hoseyr/windows_software_recommendation_for_surveillance/</guid>
       <pubDate>Sun, 29 Dec 2024 09:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找与 Linux 上的 Caja 类似的文件管理器替代品。</title>
-      <link>https://www.reddit.com/r/software/comments/1hortub/looking_for_file_manager_alternative_that_is/</link>
-      <description><![CDATA[希望你们能帮上忙。我正在寻找一个文件管理器，它在树视图中可以一次显示多个打开的文件夹，允许您从不同的文件夹中选择多个文件。并且还显示每个文件夹中的对象数量。 这是 Linux 上 Mate Desktop 的 Caja 文件管理器 的屏幕截图。它显示了树视图，其中打开了多个文件夹并在不同文件夹中选择了多个文件。并且在“大小”列中，它显示了文件夹内的项目数。 另外，对于复制/移动文件，它还有一个内置队列，以便您可以在不同时间复制多个大文件，并且它会按顺序复制它们，而不是尝试同时复制两个文件（这会降低硬盘驱动器的速度）。如果我添加另一个要复制的大文件，它只会将其添加到队列中，而不是尝试再次同时执行所有操作。    提交人    /u/impactedturd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hortub/looking_for_file_manager_alternative_that_is/</guid>
-      <pubDate>Sun, 29 Dec 2024 08:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
