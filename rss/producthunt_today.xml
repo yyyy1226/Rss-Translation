@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jan 2025 09:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:44:06 GMT</lastBuildDate>
     <item>
       <title>GitPodcast</title>
       <link>https://www.producthunt.com/posts/gitpodcast</link>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 01 Jan 2025 12:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>滕普斯特</title>
+      <title>坦普斯特</title>
       <link>https://www.producthunt.com/posts/tempstr</link>
       <description><![CDATA[
 保存您的模板，几秒钟内即可重复使用
@@ -62,18 +62,32 @@
       <pubDate>Wed, 01 Jan 2025 11:29:17 GMT</pubDate>
     </item>
     <item>
-      <title>埃拉雅哈</title>
-      <link>https://www.producthunt.com/posts/erayaha-ai</link>
+      <title>Lecca.io</title>
+      <link>https://www.producthunt.com/posts/lecca-io</link>
       <description><![CDATA[
-MS Word/Google Docs 中更智能的合同审查和见解
+AI 代理和自动化
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/erayaha-ai</guid>
-      <pubDate>Wed, 01 Jan 2025 07:25:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/lecca-io</guid>
+      <pubDate>Tue, 31 Dec 2024 23:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮件Tock</title>
+      <link>https://www.producthunt.com/posts/mailtock</link>
+      <description><![CDATA[
+再也不会因为错过邮件而损失金钱
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mailtock</guid>
+      <pubDate>Tue, 31 Dec 2024 23:15:41 GMT</pubDate>
     </item>
     <item>
       <title>格洛克按钮</title>
@@ -90,6 +104,20 @@ MS Word/Google Docs 中更智能的合同审查和见解
       <pubDate>Tue, 31 Dec 2024 22:20:26 GMT</pubDate>
     </item>
     <item>
+      <title>无等待</title>
+      <link>https://www.producthunt.com/posts/waitless-2</link>
+      <description><![CDATA[
+使用内置推荐来收集注册信息
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/waitless-2</guid>
+      <pubDate>Tue, 31 Dec 2024 20:56:19 GMT</pubDate>
+    </item>
+    <item>
       <title>品牌 API 2.0</title>
       <link>https://www.producthunt.com/posts/brand-api-2-0-1</link>
       <description><![CDATA[
@@ -102,20 +130,6 @@ MS Word/Google Docs 中更智能的合同审查和见解
 ]]></description>
       <guid>https://www.producthunt.com/posts/brand-api-2-0-1</guid>
       <pubDate>Tue, 31 Dec 2024 16:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github 简历生成器</title>
-      <link>https://www.producthunt.com/posts/github-resume-generator</link>
-      <description><![CDATA[
-将您的 GitHub 活动转换为简历（并下载）
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/github-resume-generator</guid>
-      <pubDate>Tue, 31 Dec 2024 12:36:38 GMT</pubDate>
     </item>
     <item>
       <title>3D 蓝天图</title>
@@ -144,20 +158,6 @@ MS Word/Google Docs 中更智能的合同审查和见解
 ]]></description>
       <guid>https://www.producthunt.com/posts/instant3d-ai</guid>
       <pubDate>Tue, 31 Dec 2024 08:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线商店声誉监控</title>
-      <link>https://www.producthunt.com/posts/reputation-monitor-for-online-stores</link>
-      <description><![CDATA[
-一款分析市场上销售产品评论的 SaaS
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/reputation-monitor-for-online-stores</guid>
-      <pubDate>Mon, 30 Dec 2024 22:01:33 GMT</pubDate>
     </item>
     <item>
       <title>格利</title>
