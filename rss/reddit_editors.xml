@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 03 Jan 2025 15:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 18:30:36 GMT</lastBuildDate>
+    <item>
+      <title>人才经理？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hsp9x8/talent_manager/</link>
+      <description><![CDATA[嘿，英国有人使用 Talent Manager 吗，特别是 Pro 选项？想知道 2025 年是否要尝试一下。 就背景而言，我住在伦敦以外，并且（尚未）从事任何电视工作。 TIA。    提交人    /u/olliet88   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hsp9x8/talent_manager/</guid>
+      <pubDate>Fri, 03 Jan 2025 15:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议：在线课程可以快速提高后期制作技能吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hsp9u5/advice_online_class_to_fast_track_postproduction/</link>
+      <description><![CDATA[我目前是摄影和视频团队的项目经理，我想学习更多技能来支持动手编辑、DAM 和一般的后期制作任务。这将帮助我更好地支持团队进行 DIT 工作，并帮助管理最终项目文件、导出和资产管理以进行归档和库。该团队主要在 Premier 工作，所以希望课程能重点关注这一点。我希望没有先决条件的东西，只需要在线兼职。如果它附带证书或类似的东西就太理想了，所以工作可以支持一些成本。     提交人    /u/MinimumPhysical2048   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hsp9u5/advice_online_class_to_fast_track_postproduction/</guid>
+      <pubDate>Fri, 03 Jan 2025 15:41:32 GMT</pubDate>
+    </item>
     <item>
       <title>你们觉得我合同中的这个条款怎么样（旨在保护我，以防我的电脑死机）</title>
       <link>https://www.reddit.com/r/editors/comments/1hskeng/what_do_you_guys_think_of_this_clause_in_my/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>Premiere Pro Canon RAW 转换：在设置中设置色域时会造成破坏吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1hs4g0t/premiere_pro_canon_raw_conversion_destructive/</link>
-      <description><![CDATA[嗨， 我有佳能 RAW 文件 (.crm)，例如来自 R5 II。 在 Premiere pro 25 中，我只需导入文件 -&gt; 效果设置 -&gt; 来源。在那里，我可以选择白平衡、色调、曝光以及色彩空间和色域。 我可以选择 Clog2、clog3、bt709 或宽 DR。 我知道 Clog2 提供最宽的动态范围。但对我来说使用宽 DR 要容易得多。如果我在这里选择宽 DR -&gt; 此选项是否会在进一步的分级过程中“具有破坏性”？假设我有一张高对比度图像，并且在 Wide DR 中某些东西被吹散了，这在 Clog2 中是可见的 - 我可以使用常规 Lumetri 滑块将其恢复吗？ 如果它具有破坏性 - 这是否意味着，人们应该始终使用 Wide DR 并在之后进行分级？ PS：如果我在原始文件的源设置中调整曝光，那么我无法恢复烧坏的高光。这让我认为“源设置”选项卡具有破坏性。但对于伽马曲线来说也是如此吗？如果是这样，那么使用此设置将是愚蠢的 - Lumetri 中稍后的 LUT 会做同样的事情，可能没有破坏性？感觉不合逻辑……    提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我有佳能 RAW 文件 (.crm)，例如来自 R5 II。 在 Premiere pro 25 中，我只需导入文件 -&gt; 效果设置 -&gt; 来源。在那里，我可以选择白平衡、色调、曝光以及色彩空间和色域。 我可以选择 Clog2、clog3、bt709 或宽 DR。 我知道 Clog2 提供最宽的动态范围。但对我来说使用宽 DR 要容易得多。如果我在这里选择宽 DR -&gt; 此选项是否会在进一步的分级过程中“具有破坏性”？假设我有一张高对比度图像，并且在 Wide DR 中某些内容被吹散了，这在 Clog2 中可见 - 我可以使用常规 Lumetri 滑块将其恢复吗？ 如果它具有破坏性 - 这是否意味着，应该始终使用 Wide DR 并在之后进行分级？ PS：如果我在原始文件的源设置中调整曝光，那么我无法恢复烧坏的高光。这让我认为“源设置”选项卡具有破坏性。但对于伽马曲线来说也是如此吗？如果是这样，那么使用此设置将是愚蠢的 - Lumetri 中稍后的 LUT 会做同样的事情，可能没有破坏性？感觉不合逻辑……    提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hs4g0t/premiere_pro_canon_raw_conversion_destructive/</guid>
       <pubDate>Thu, 02 Jan 2025 21:05:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我发现可以通过 Docker 容器在 NAS（例如 QNAP）上托管 DaVinci 项目服务器，以便在项目上进行本地网络协作。有没有人有这种设置的经验并了解它的稳定性？例如，所有项目文件都直接存储在 NAS 上吗？ 或者你会推荐另一种工作流程 - 使用运行 Blackmagic Project Server 软件的服务器的专用计算机？ 提前致谢。 项目服务器设置 - NAS： https://youtu.be/02lNPb0j2wI?si=_cPJuC6Dd27D2nib   由    /u/danield_dk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hroqkj/hosting_a_davinci_project_server_on_a_nas/</guid>
       <pubDate>Thu, 02 Jan 2025 07:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪款 Synology NAS 最适合我，最好是 1,500 美元左右？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hriw0h/which_synology_nas_would_serve_me_best_preferably/</link>
-      <description><![CDATA[我主要为一系列客户编辑 2-15 分钟的视频，偶尔也为独立项目编辑。所有视频都使用强大的色彩工作流程拍摄 RAW。我已确定在任何给定时间都需要大约 40TB 的可用存储空间，我已经处理了长期存储。我总是生成代理，但需要可访问的 RAW，因此它应该能够处理实时 4k 编辑。 这是一个不错的选择吗？https://www.adorama.com/syds9234n10b.html 谢谢！ 编辑：感谢您的信息，我意识到我需要将预算增加一倍，现在正在寻找一个好的 10GbE 雷电控制器/适配器。   由    /u/youseguise  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hriw0h/which_synology_nas_would_serve_me_best_preferably/</guid>
-      <pubDate>Thu, 02 Jan 2025 02:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>组装一台新电脑，对于视频编辑来说，最重要的部件是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hrexa2/building_a_new_pc_what_are_the_most_important/</link>
-      <description><![CDATA[此外，你们有什么最新的构建指南推荐我看看吗？ Mac 很棒，但我想构建一台定制的 Windows PC    提交人    /u/Frosty-Bonus6048   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hrexa2/building_a_new_pc_what_are_the_most_important/</guid>
-      <pubDate>Wed, 01 Jan 2025 22:53:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
