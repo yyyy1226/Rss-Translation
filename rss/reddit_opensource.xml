@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 Jan 2025 21:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 06:32:43 GMT</lastBuildDate>
+    <item>
+      <title>启动了开源新闻或基于 RSS 源的服务？感觉怎么样？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</link>
+      <description><![CDATA[你的经历是怎样的？你面临了哪些挑战？如果你停止了，原因是什么？如果你继续坚持，什么方法有效？ 我在不同的子版块上看到过很多帖子，包括这个，关于人们开始建立网站或自托管新闻和/或 RSS 源的解决方案。其中大多数似乎都失败了。虽然有 Feedly 和其他一些选择，还有 Google 新闻，但我对它们并不是很满意，更重要的是，我对这个话题充满热情。所以我正在尝试从你的经验中学习。 对于那些说，继续做下去的人，我已经建立了一项服务。不放链接以避免自我推销。 为了提供更多背景信息，以下是我能想到的一些具体问题： 你停止是因为（或者尽管如此仍继续）吗？  运行成本太高（不适用于自托管解决方案）？ 太耗时？ 用户保留率低？ 没有盈利机会？ 法律问题？     提交人    /u/logicalcliff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</guid>
+      <pubDate>Fri, 03 Jan 2025 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>美颜滤镜</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</link>
+      <description><![CDATA[我正在开发一个开源项目，该项目包含您自己的虚拟克隆。 有人知道任何易于使用的免费开源美颜脸部滤镜吗？ 我尝试在 GitHub 和 Google 上搜索，但没有找到任何有希望的东西，大多数是为 Android SDK 或实时脸部滤镜流制作的。 我只需要一个具有皮肤平滑功能的图像到图像美颜滤镜，仅此而已。 提前致谢！    提交人    /u/OneKe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</guid>
+      <pubDate>Thu, 02 Jan 2025 22:35:32 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub 上有 450 万个（疑似）假星星：人气竞赛、诈骗和恶意软件不断滋生</title>
       <link>https://www.reddit.com/r/opensource/comments/1hs3qsu/45_million_suspected_fake_stars_in_github_a/</link>
@@ -46,13 +60,6 @@
       <description><![CDATA[        由    /u/AkshayKalose 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrz7hl/introducing_grpcmdgui_a_modern_desktop_app_for/</guid>
       <pubDate>Thu, 02 Jan 2025 17:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gig 应用程序屏幕截图 OCR</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrz0y8/gig_app_screenshot_ocr/</link>
-      <description><![CDATA[我有数千张 Gig 应用截图，它们属于少数几个模板，我需要从中提取文本数据。其中一个模板只需要图像下半部分的文本，而上半部分包含不需要文本信息的地图。除了对每幅图像运行 OCR 之外，我还希望能够对每个模板进行分类，并将所有数据放入数据库中以便对其进行分析。  考虑到每个文件的大小（600kB @~1080 x2300），我还希望将文件大小减小到更易于管理的程度，同时保持图像中文本的可读性。 我需要使用哪些软件包才能完成此任务？Docker 将是我首选的部署方法     提交人    /u/jackalopes1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrz0y8/gig_app_screenshot_ocr/</guid>
-      <pubDate>Thu, 02 Jan 2025 17:25:46 GMT</pubDate>
     </item>
     <item>
       <title>面向 VOIP 爱好者推出新 Diago</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[WeTube 是使用 swiftUI 的开源项目。此应用用于屏蔽 Youtube 广告、短剧视频和弹窗视频。 项目链接： https://github.com/Purehi/YouTube-UI-App 功能： 💥播放视频、音乐和短剧都是高清的 🚀无需安装其他插件，如微商 ⭐ 搜索最新的动漫、直播和体育视频 🎵 汇集众多热门播客、音乐播放列表和短视频    提交人    /u/Mountain_Expert_2652   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrhwht/open_source_wetubevideo_music_drama/</guid>
       <pubDate>Thu, 02 Jan 2025 01:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于安全文件夹的开源应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrgtj7/open_source_app_for_a_secure_folder/</link>
-      <description><![CDATA[我正在寻找一个简单的应用程序，其行为方式与三星安卓手机上的私人/安全文件夹相同。 我试着寻找它，找到的最接近的是 Anemo，但它让我很烦，因为那里没有办法快速浏览图像。    提交人    /u/GullibleDott   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrgtj7/open_source_app_for_a_secure_folder/</guid>
-      <pubDate>Thu, 02 Jan 2025 00:23:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
