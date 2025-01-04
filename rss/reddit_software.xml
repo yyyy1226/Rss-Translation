@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 Jan 2025 09:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 12:41:29 GMT</lastBuildDate>
+    <item>
+      <title>Yoptio - 具有智能标题过滤功能的 RSS 阅读器</title>
+      <link>https://www.reddit.com/r/software/comments/1htdjt0/yoptio_rss_reader_with_smart_headline_filtering/</link>
+      <description><![CDATA[刚刚发布了一款新的 RSS 阅读器，可以帮助您过滤掉噪音。主要功能：根据标题关键词过滤文章。最初是为个人使用而构建的，但认为其他人可能会觉得它有用。欢迎提出功能建议和反馈！ https://yoptio.com    提交人    /u/techphyre   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1htdjt0/yoptio_rss_reader_with_smart_headline_filtering/</guid>
+      <pubDate>Sat, 04 Jan 2025 12:38:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>批量PDF</title>
+      <link>https://www.reddit.com/r/software/comments/1htcpid/mass_pdf/</link>
+      <description><![CDATA[我有多个从 excel 导出的相同格式的 pdf。是否有软件或网站可以转储所有这些 pdf，并将每个文件中的数据放在一个 excel 表上？    提交人    /u/Flimsy-Cry9207   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1htcpid/mass_pdf/</guid>
+      <pubDate>Sat, 04 Jan 2025 11:42:04 GMT</pubDate>
+    </item>
     <item>
       <title>一个人作为软件开发者试图赚钱的挫败感</title>
       <link>https://www.reddit.com/r/software/comments/1htanac/frustrations_from_a_single_person_trying_to_make/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在开展一个个人育种模拟项目，该项目将涉及大量抛硬币来决定从父母那里遗传哪个基因，我一辈子都找不到自动化的方法，因为我不知道如何编码之类的。我只需要一个可以让我输入两串字符并从每个列表中随机挑选一个字符以给我一个新的基因组的东西 即： 列表 1 输入：ABCDEFG 列表 2 输入：abcdefg 列表 1+2 输出：AbCDeFg 如果我必须抛硬币 20 次，我就必须抛硬币 20 次，但能够自动化它将真正有助于我的项目范围。谢谢！    提交人    /u/FlightElegant3645   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hsmpry/looking_for_resource_to_breed_two_genomes/</guid>
       <pubDate>Fri, 03 Jan 2025 13:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道有一个浏览器从来不要求我验证我不是机器人吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hslx12/do_you_know_a_browser_that_never_asks_me_to/</link>
-      <description><![CDATA[我发誓，chrome 让我受尽了折磨。我从来没有遇到过一次不要求进行 CAPTCHA 的隐身搜索。我尝试了所有可能的方法。想停止它，但它就是停不下来。我甚至不知道为什么。但我也不想知道。我只想要一个不会搞这么多胡说八道的浏览器     提交人    /u/d-the-luc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hslx12/do_you_know_a_browser_that_never_asks_me_to/</guid>
-      <pubDate>Fri, 03 Jan 2025 12:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>按键可视化工具</title>
-      <link>https://www.reddit.com/r/software/comments/1hsk4px/keystroke_visualizer/</link>
-      <description><![CDATA[你好！我在搜索一个我多年前见过的软件。 我在屏幕上看到过很多击键可视化工具，但是它们都有一个“特定区域”来显示按下/释放的键 我正在寻找的是可以放置的东西，例如，在左下角的“Q W E R”键，当我按下它们时，它们会“突出显示”，或者放置鼠标，当我移动它时，它会突出显示“外部部分线”沿着我移动鼠标的方向。 谢谢    提交人    /u/Romans96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hsk4px/keystroke_visualizer/</guid>
-      <pubDate>Fri, 03 Jan 2025 11:07:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
