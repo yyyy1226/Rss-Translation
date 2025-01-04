@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jan 2025 03:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 06:29:40 GMT</lastBuildDate>
     <item>
       <title>前哨</title>
       <link>https://www.producthunt.com/posts/outpost-4</link>
@@ -76,20 +76,6 @@
       <pubDate>Thu, 02 Jan 2025 14:21:04 GMT</pubDate>
     </item>
     <item>
-      <title>GitPodcast</title>
-      <link>https://www.producthunt.com/posts/gitpodcast</link>
-      <description><![CDATA[
-生成引人入胜的播客以了解 Github 存储库
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gitpodcast</guid>
-      <pubDate>Thu, 02 Jan 2025 07:11:25 GMT</pubDate>
-    </item>
-    <item>
       <title>UniDeck</title>
       <link>https://www.producthunt.com/posts/unideck</link>
       <description><![CDATA[
@@ -118,7 +104,7 @@
       <pubDate>Wed, 01 Jan 2025 12:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>坦普斯特</title>
+      <title>滕普斯特</title>
       <link>https://www.producthunt.com/posts/tempstr</link>
       <description><![CDATA[
 保存您的模板，几秒钟内即可重复使用
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/datamorf-2</guid>
       <pubDate>Thu, 26 Dec 2024 12:17:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速模拟</title>
+      <link>https://www.producthunt.com/posts/quick-mock</link>
+      <description><![CDATA[
+立即将 LinkedIn 上的任何工作变成模拟面试
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/quick-mock</guid>
+      <pubDate>Tue, 03 Dec 2024 19:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
