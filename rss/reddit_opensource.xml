@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 04 Jan 2025 18:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 01:53:29 GMT</lastBuildDate>
+    <item>
+      <title>从闭源开发转向开源并管理文档</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htqrjn/going_from_closed_source_development_to_open/</link>
+      <description><![CDATA[我对编码和构建大型项目还很陌生。所以，如果这是一个愚蠢的问题，我很抱歉，但我认为这会对我有益，我可能会从那些比我更优秀的人那里得到一些额外的提示。  我目前正处于构建我认为更大规模项目的早期阶段，该项目旨在为安全团队提供分布式解决方案。它将有一个后端 API、React 前端和一个设计用于在 Windows、Linux 甚至 Mac 上运行的代理。我已经开始使用它了，比如初始代理到服务器的通信和注册、前端身份验证和代理初始管理，以及后端处理它。  这是我目前的想法和问题。现在我正在开发中，不想发布一个没有达到我设定的最低要求的东西。所以我将存储库设置为私有（技术上是所有三个存储库）。我的意图是设定一个目标，即哪些特性和功能至少是可行的，我已经将这个里程碑设置为公开并发布它。我不确定这是否是最好的，并且很想听听大家的意见。不过，有一件事让我很纠结，那就是文档。 我不确定如何实现文档。我尝试将 GitHub 页面添加到我的后端存储库，因为它将是主要存储库，这样当我处理功能时，我可以记录使用情况并防止项目结束时文档过载和忘记东西。但是，GitHub 页面仅适用于公共存储库，并且阅读更多内容后，看起来页面应该设置在自己的存储库中，而不是附加到代码存储库。你们如何处理文档以帮助他人？ 我真的很感激和了解每个人可能有的见解。    提交人    /u/KingAroan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htqrjn/going_from_closed_source_development_to_open/</guid>
+      <pubDate>Sat, 04 Jan 2025 22:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源 HTML 到 PDF API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</link>
+      <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
+      <pubDate>Sat, 04 Jan 2025 19:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源仓库：Mapbox 代币？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</link>
+      <description><![CDATA[  由    /u/The_Wanderer33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</guid>
+      <pubDate>Sat, 04 Jan 2025 18:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>PhantomGateC99 — 现在采用纯 C99，可实现更轻的端口欺骗！</title>
       <link>https://www.reddit.com/r/opensource/comments/1htk27c/phantomgatec99_now_in_pure_c99_for_even_lighter/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这里有人想讨论即将发布的 Zulip 团队聊天版本吗？Zulip Server 10 将于 2025 年 1 月底发布，Zulip Flutter 计划于 2 月底或之后发布。 您可以通过为 Zulip Flutter 测试版应用 (Android 和 iOS) 提供反馈来提供帮助。 如果有人感兴趣，我可以详细分享我作为翻译和 DevRel（社区代表）的贡献。我花了大约 30 天的时间才引起核心团队和第三方志愿者贡献者的关注。 为什么 Zulip 开源项目很有趣？因为 Google Summer of Code。每年都有 15 或 17 名新手得到指导，并有机会获得 3000 - 6600 美元的回报。这使得 Zulip 在印度等国家广受欢迎。 有人想分享使用 Zulip 软件、与 Zulip 团队互动以及为 Zulip 存储库做出贡献的自己的经验吗？    提交人    /u/sylvestris-   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htbsrq/zulip_server_10_zulip_flutter/</guid>
       <pubDate>Sat, 04 Jan 2025 10:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在过去的几年里，我对 FOSS 社区心怀感激，感谢你们所有人，我遇到了许多适用于 Android 的 FOSS 应用程序，但我很好奇，想知道你们认为 PC（Win/Linux）上最好的免费或开源应用程序是什么，你们认为这些应用程序必不可少，或者你们喜欢什么</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htbkx4/during_last_few_years_i_have_lot_of_gratitude/</link>
-      <description><![CDATA[最近我没怎么用，只用了少数几个，比如 spotube 听音乐，notion obsidian notesnook 记笔记，proton group 等等，只是最低限度而已。考虑扩大投资组合 xd 最重要的是祝大家新年快乐，保持希望    提交人    /u/Blackbird9120   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htbkx4/during_last_few_years_i_have_lot_of_gratitude/</guid>
-      <pubDate>Sat, 04 Jan 2025 10:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈：离线应用程序 + 备份想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htaq95/seeking_feedback_offline_apps_backup_idea/</link>
-      <description><![CDATA[嗨，Android 开发者们， 我非常喜欢开源项目和离线应用。然而，我们总是会遇到一个挑战，那就是备份的需求。离线应用在设计上无法直接将数据备份到 Google Drive 等云服务，因为它们缺乏互联网权限。 为了解决这个问题，我一直在考虑一个潜在的解决方案：创建一个具有互联网权限的单独配套应用来处理备份。此应用将在 Google Drive（或类似服务）上存储和检索备份文件，而主应用则保持完全离线状态，并与任何互联网访问隔离。 我很想听听您对这种方法的看法。从技术或用户体验的角度来看，这种方法是否合理？您是否预见到任何潜在的陷阱，或者有更好的方法来处理这个问题？ 期待您的反馈！    提交人    /u/paliyalyogesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htaq95/seeking_feedback_offline_apps_backup_idea/</guid>
-      <pubDate>Sat, 04 Jan 2025 09:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源虚拟旅游软件？包括高斯飞溅使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ht5uow/open_source_virtual_tour_software_gaussian_splat/</link>
-      <description><![CDATA[我正在寻找类似 3D Vista Pro 的东西，他们开始在 3D 空间中使用高斯图案进行游览。     提交人    /u/orodltro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ht5uow/open_source_virtual_tour_software_gaussian_splat/</guid>
-      <pubDate>Sat, 04 Jan 2025 04:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
