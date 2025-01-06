@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 05 Jan 2025 21:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 03:29:50 GMT</lastBuildDate>
+    <item>
+      <title>LinkedIn 个人资料抓取</title>
+      <link>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</link>
+      <description><![CDATA[有人知道通过个人资料链接抓取人员 LinkedIn 个人资料简历的方法吗？当我通过 phantombuster 导出销售导航搜索时，它会自动执行此操作，但除了使用 phantombuster 之外找不到其他方法，这意味着我无法使用 apollo 来做到这一点    提交人    /u/SteelRunner1VR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</guid>
+      <pubDate>Mon, 06 Jan 2025 03:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seleniumbase 的想法？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</link>
+      <description><![CDATA[我很好奇，想听听那些真正使用过 seleniumbase 自动化的人对它的看法。     提交人    /u/tylerdurden4285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</guid>
+      <pubDate>Mon, 06 Jan 2025 03:04:26 GMT</pubDate>
+    </item>
     <item>
       <title>[新年促销] Perplexity AI PRO - 1 年计划优惠 - 75% 折扣</title>
       <link>https://www.reddit.com/r/automation/comments/1hudxpj/new_year_promo_perplexity_ai_pro_1_year_plan/</link>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 03 Jan 2025 04:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚开发出一款免费且 100% 无代码的网页抓取 Chrome 扩展程序。几天后即可在 Chrome 网上应用店中上线！</title>
-      <link>https://www.reddit.com/r/automation/comments/1hsbmya/ive_just_finished_building_a_free_and_100_no_code/</link>
-      <description><![CDATA[        提交人    /u/zeeb0t   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hsbmya/ive_just_finished_building_a_free_and_100_no_code/</guid>
-      <pubDate>Fri, 03 Jan 2025 02:21:17 GMT</pubDate>
-    </item>
-    <item>
       <title>IG 可以实现哪些自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1hs56vt/what_automation_can_be_done_about_ig/</link>
       <description><![CDATA[我听说 IG 不喜欢人们使用外部应用程序。但我仍然希望我可以自动化一些事情，比如有一个集成的 GPT 来回答 dm、评论、从我的电脑安排帖子等    提交人    /u/Primary-Departure-89   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hs56vt/what_automation_can_be_done_about_ig/</guid>
       <pubDate>Thu, 02 Jan 2025 21:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动提取、汇总数据并传送至 WhatsApp？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hry63x/how_to_automate_data_extraction_summarization_and/</link>
-      <description><![CDATA[大家好， 我想自动化一个过程，在这个过程中，我从多个网站（通过 RSS 或其他方式）提取数据，使用 GPT 平台对其进行汇总，并在 WhatsApp 上接收带有链接的摘要。 设置它的最佳方法是什么？有没有关于提高效率的工具或工作流程的建议？ 提前谢谢您！    提交人    /u/pranu90   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hry63x/how_to_automate_data_extraction_summarization_and/</guid>
-      <pubDate>Thu, 02 Jan 2025 16:50:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

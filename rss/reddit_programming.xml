@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 06 Jan 2025 01:50:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 03:30:43 GMT</lastBuildDate>
     <item>
       <title>关于库、Rust 和 node_modules 的忧郁</title>
       <link>https://www.reddit.com/r/programming/comments/1hulgbs/on_libraries_rust_and_node_modules_depression/</link>
@@ -90,13 +90,6 @@
       <pubDate>Sun, 05 Jan 2025 16:44:20 GMT</pubDate>
     </item>
     <item>
-      <title>调试救星！使用 ObjWatch 在复杂的 Python 项目中实现高效的代码理解和调试</title>
-      <link>https://www.reddit.com/r/programming/comments/1hub3hk/debugging_savior_using_objwatch_for_efficient/</link>
-      <description><![CDATA[  由    /u/aeeeeeep  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hub3hk/debugging_savior_using_objwatch_for_efficient/</guid>
-      <pubDate>Sun, 05 Jan 2025 16:43:20 GMT</pubDate>
-    </item>
-    <item>
       <title>我如何利用 RAG 的私人知识构建自己的 AI 聊天机器人。DIY 指南。</title>
       <link>https://www.reddit.com/r/programming/comments/1hual9v/how_i_built_my_own_ai_chatbot_using_private/</link>
       <description><![CDATA[  由    /u/primaryobjects  提交  [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/VinceFR73  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hu9m14/promptfoo_the_secret_to_deploying_reliable_secure/</guid>
       <pubDate>Sun, 05 Jan 2025 15:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 LÖVE 构建游戏原型</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu91nx/building_game_prototypes_with_löve/</link>
+      <description><![CDATA[  由    /u/Comfortable-Site8626  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu91nx/building_game_prototypes_with_löve/</guid>
+      <pubDate>Sun, 05 Jan 2025 15:11:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
