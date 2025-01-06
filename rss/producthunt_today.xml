@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 18:31:30 GMT</lastBuildDate>
     <item>
       <title>奥威斯</title>
       <link>https://www.producthunt.com/posts/allwyse</link>
@@ -20,18 +20,18 @@
       <pubDate>Sat, 04 Jan 2025 23:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>探险民宿</title>
-      <link>https://www.producthunt.com/posts/adventure-homestay-2</link>
+      <title>无限对话</title>
+      <link>https://www.producthunt.com/posts/infinite-convo</link>
       <description><![CDATA[
-在发展中国家寻找文化沉浸寄宿家庭
+永无止境的人工智能脱口秀
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/adventure-homestay-2</guid>
-      <pubDate>Sat, 04 Jan 2025 16:20:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/infinite-convo</guid>
+      <pubDate>Sat, 04 Jan 2025 18:47:24 GMT</pubDate>
     </item>
     <item>
       <title>Scratchboard.io</title>
@@ -51,7 +51,7 @@
       <title>这就是等级！</title>
       <link>https://www.producthunt.com/posts/that-s-rank</link>
       <description><![CDATA[
-以简洁的方式监控 Google 排名
+简单易用地监控 Google 排名
 
 
 讨论
@@ -62,24 +62,10 @@
       <pubDate>Fri, 03 Jan 2025 16:25:47 GMT</pubDate>
     </item>
     <item>
-      <title>看起来怎么样</title>
-      <link>https://www.producthunt.com/posts/how-s-it-lookin</link>
-      <description><![CDATA[
-查看您的网站在社交媒体、文本等上的外观
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/how-s-it-lookin</guid>
-      <pubDate>Fri, 03 Jan 2025 02:23:59 GMT</pubDate>
-    </item>
-    <item>
       <title>添加到表格 Chrome 扩展程序</title>
       <link>https://www.producthunt.com/posts/add-to-sheets-chrome-extension</link>
       <description><![CDATA[
-只需单击一下即可将任何网页内容保存到 Google 表格
+只需点击一下即可将任何网页内容保存到 Google 表格
 
 
 讨论
@@ -202,10 +188,24 @@
       <pubDate>Tue, 10 Dec 2024 12:52:17 GMT</pubDate>
     </item>
     <item>
+      <title>OpenBolt</title>
+      <link>https://www.producthunt.com/posts/openbolt</link>
+      <description><![CDATA[
+免费的人工智能全栈项目构建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/openbolt</guid>
+      <pubDate>Fri, 06 Dec 2024 07:57:36 GMT</pubDate>
+    </item>
+    <item>
       <title>无刮擦</title>
       <link>https://www.producthunt.com/posts/scrapeless</link>
       <description><![CDATA[
-适用于企业和开发人员的轻松网页抓取工具包
+为企业和开发人员提供的轻松网页抓取工具包
 
 
 讨论
