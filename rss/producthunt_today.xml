@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 16:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:32:16 GMT</lastBuildDate>
     <item>
       <title>果冻荚</title>
       <link>https://www.producthunt.com/posts/jellypod-3</link>
@@ -132,10 +132,24 @@ AI 数据分析师
       <pubDate>Wed, 01 Jan 2025 15:05:18 GMT</pubDate>
     </item>
     <item>
+      <title>百吉饼面包店</title>
+      <link>https://www.producthunt.com/posts/bakery-by-bagel</link>
+      <description><![CDATA[
+可货币化的开源 AI
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bakery-by-bagel</guid>
+      <pubDate>Wed, 01 Jan 2025 03:51:29 GMT</pubDate>
+    </item>
+    <item>
       <title>岳母</title>
       <link>https://www.producthunt.com/posts/socra-2</link>
       <description><![CDATA[
-人类与人工智能共同构建未来
+世界上第一个人机协同操作系统
 
 
 讨论
@@ -200,20 +214,6 @@ AI 数据分析师
 ]]></description>
       <guid>https://www.producthunt.com/posts/packpack</guid>
       <pubDate>Wed, 25 Dec 2024 10:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>现场升降机</title>
-      <link>https://www.producthunt.com/posts/sitelifter</link>
-      <description><![CDATA[
-利用可操作的见解更快地优化网站页面。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sitelifter</guid>
-      <pubDate>Tue, 10 Dec 2024 12:52:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
