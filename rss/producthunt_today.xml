@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 15:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:32:09 GMT</lastBuildDate>
     <item>
       <title>CodeAI Studio专业版</title>
       <link>https://www.producthunt.com/posts/codeai-studio-pro</link>
       <description><![CDATA[
-由 AI 驱动的一键式全栈应用开发
+AI 驱动的一键式全栈应用开发
 
 
 讨论
@@ -62,6 +62,20 @@
       <pubDate>Mon, 06 Jan 2025 22:01:42 GMT</pubDate>
     </item>
     <item>
+      <title>Sonauto v2 测试版</title>
+      <link>https://www.producthunt.com/posts/sonauto-v2-beta</link>
+      <description><![CDATA[
+生成带有提示、旋律或歌词的完整歌曲
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sonauto-v2-beta</guid>
+      <pubDate>Mon, 06 Jan 2025 20:53:22 GMT</pubDate>
+    </item>
+    <item>
       <title>代理商基地</title>
       <link>https://www.producthunt.com/posts/agents-base</link>
       <description><![CDATA[
@@ -74,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/agents-base</guid>
       <pubDate>Sat, 04 Jan 2025 04:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>科德勒</title>
-      <link>https://www.producthunt.com/posts/codele-2</link>
-      <description><![CDATA[
-如果 LeetCode 和 Wordle 有个孩子
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/codele-2</guid>
-      <pubDate>Thu, 02 Jan 2025 22:53:21 GMT</pubDate>
     </item>
     <item>
       <title>你的面试官</title>
@@ -132,18 +132,18 @@
       <pubDate>Fri, 27 Dec 2024 03:03:58 GMT</pubDate>
     </item>
     <item>
-      <title>包包</title>
-      <link>https://www.producthunt.com/posts/packpack</link>
+      <title>市场团队</title>
+      <link>https://www.producthunt.com/posts/marketeam</link>
       <description><![CDATA[
-一键保存任何文章、社交媒体帖子、文件
+认识 Jane，您的新内容营销和 SEO 专家
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/packpack</guid>
-      <pubDate>Wed, 25 Dec 2024 10:27:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/marketeam</guid>
+      <pubDate>Wed, 25 Dec 2024 12:02:49 GMT</pubDate>
     </item>
     <item>
       <title>反馈流程</title>
