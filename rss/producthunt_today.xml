@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:31:43 GMT</lastBuildDate>
     <item>
       <title>果冻荚</title>
       <link>https://www.producthunt.com/posts/jellypod-3</link>
@@ -88,20 +88,6 @@ AI 数据分析师
 ]]></description>
       <guid>https://www.producthunt.com/posts/linnk-2</guid>
       <pubDate>Sat, 04 Jan 2025 13:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scratchboard.io</title>
-      <link>https://www.producthunt.com/posts/scratchboard-io</link>
-      <description><![CDATA[
-创建、模拟和协作数字电路
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/scratchboard-io</guid>
-      <pubDate>Sat, 04 Jan 2025 00:16:12 GMT</pubDate>
     </item>
     <item>
       <title>科德勒</title>
@@ -202,18 +188,32 @@ AI 数据分析师
       <pubDate>Wed, 25 Dec 2024 10:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>无刮擦</title>
-      <link>https://www.producthunt.com/posts/scrapeless</link>
+      <title>Ragie 连接</title>
+      <link>https://www.producthunt.com/posts/ragie-connect</link>
       <description><![CDATA[
-为企业和开发人员提供的轻松网页抓取工具包
+在您的用户数据上构建 RAG 应用程序
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/scrapeless</guid>
-      <pubDate>Wed, 27 Nov 2024 03:17:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ragie-connect</guid>
+      <pubDate>Fri, 20 Dec 2024 17:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>现场升降机</title>
+      <link>https://www.producthunt.com/posts/sitelifter</link>
+      <description><![CDATA[
+利用可操作的见解更快地优化网站页面。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sitelifter</guid>
+      <pubDate>Tue, 10 Dec 2024 12:52:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
