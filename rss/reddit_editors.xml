@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 12 Jan 2025 01:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 03:31:01 GMT</lastBuildDate>
+    <item>
+      <title>声音周转后问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hzc124/postsound_turnover_question/</link>
+      <description><![CDATA[我收到了一份营业规格，要求在视频中嵌入“源声音卷（场记信息）和源声音时间码信息”。我习惯于只做源视频信息，但我的理解是“源声音卷”就像“SR001...SR002”或甚至只是拍摄天数。这是正确的吗？还是我遗漏了什么，他们可能正在寻找声音文件的源文件名？ 我会发一封电子邮件来澄清，但也想问问我是不是太笨了哈哈    提交人    /u/frosty_bath31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hzc124/postsound_turnover_question/</guid>
+      <pubDate>Sun, 12 Jan 2025 01:57:26 GMT</pubDate>
+    </item>
     <item>
       <title>失去家园的洛杉矶编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1hz81eu/la_editors_who_have_lost_their_homes/</link>
@@ -39,6 +46,13 @@
       <description><![CDATA[  由    /u/jay-arts  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hyti73/what_are_the_top_hardware_i_should_invest_in_as/</guid>
       <pubDate>Sat, 11 Jan 2025 10:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您推荐什么参考监视器？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hythtt/what_reference_monitor_do_you_recommend/</link>
+      <description><![CDATA[我应该寻找什么    由    /u/jay-arts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hythtt/what_reference_monitor_do_you_recommend/</guid>
+      <pubDate>Sat, 11 Jan 2025 10:52:28 GMT</pubDate>
     </item>
     <item>
       <title>使用音频的时间码进行编辑。</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我最近收到了一些有 6 个音频通道的 BOOM 文件。轨道 1 和 2 是混音 L 和混音 R，其余的则标记为“轨道 4-6”。 我以前从未收到过这样的 BOOM 音频。它通常只有一个单声道。我该如何处理它？（在 avid 中同步/分组）我需要将它们转换为一个单声道吗？如果是，我该怎么做？    提交人    /u/__themilkman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hy41xr/boom_file_has_6_channels/</guid>
       <pubDate>Fri, 10 Jan 2025 13:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 快捷方式</title>
-      <link>https://www.reddit.com/r/editors/comments/1hxzoyg/avid_shortcuts/</link>
-      <description><![CDATA[是否可以使用 Avid 中的命令或选项作为修改按钮，那么如何操作？    由    /u/dav3itje 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hxzoyg/avid_shortcuts/</guid>
-      <pubDate>Fri, 10 Jan 2025 08:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>极长的渲染和导出时间</title>
-      <link>https://www.reddit.com/r/editors/comments/1hxuzzb/extremely_long_render_and_export_times/</link>
-      <description><![CDATA[我是一名长期从事 6K 素材编辑的编辑，一直在努力追赶。 我注意到，我最近两个以 R3D 文件为特色的项目使我的导出时间飞速增加。 在我当前的项目中，代理文件生成没有问题，并且在 Premiere Pro 中运行顺畅。素材来自 RED Weapon Dragon 6K 拍摄的 6144x3160 R3D Raw。 但是，当我尝试导出时，我发现 广播小时 的运行时间需要 20 小时 的导出时间。怎么回事？！ -1) 我的机器可以通过吗？还是我注定要失败？ 21.5 英寸，2017 年 2.3 GHz 双核 Intel Core i5 Intel Iris Plus Graphics 640 1536 MB 32 GB 2133 MHz DDR4 -2) 我获得了一个 2TB USB-A 硬盘。这是薄弱环节吗？USB-C 会缩短导出时间吗？    提交人    /u/Ok-Landscape8190   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hxuzzb/extremely_long_render_and_export_times/</guid>
-      <pubDate>Fri, 10 Jan 2025 03:12:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
