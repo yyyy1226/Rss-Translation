@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 18 Jan 2025 01:40:39 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 18 Jan 2025 03:23:14 GMT</lastBuildDate>
+    <item>
+      <title>网络上的水下 - 我的作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3ybdh/underwater_on_the_web_my_portfolio/</link>
+      <description><![CDATA[        提交人    /u/OiaOrca   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3ybdh/underwater_on_the_web_my_portfolio/</guid>
+      <pubDate>Sat, 18 Jan 2025 03:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google OAuth 同意屏幕验证耗时数月</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3xojf/google_oauth_consent_screen_verification_taking/</link>
+      <description><![CDATA[您好！我已在 2 个多月前通过 Google Cloud Console 提交了应用的 OAuth 同意屏幕验证，尽管您的文档中提到的标准时间表表明需要 4-6 周才能完成。这种延迟严重影响了应用的功能及其部署计划。 我尚未收到验证团队关于提交进度的任何更新或其他请求。我不知道下一步该怎么做，当我打开控制台时，它要求我付款...以获得帮助（“查看支持服务”）。即使我尝试付款（我此时很绝望），它也说我没有资格，所以我只能使用基本支持    提交人    /u/Welcomeandwait   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3xojf/google_oauth_consent_screen_verification_taking/</guid>
+      <pubDate>Sat, 18 Jan 2025 02:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人用 Midjourney 制作英雄图像吗？我拍出来的效果非常棒。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3xndj/anyone_else_using_midjourney_for_hero_images_mine/</link>
+      <description><![CDATA[        提交人    /u/Majestic_Affect_1152   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3xndj/anyone_else_using_midjourney_for_hero_images_mine/</guid>
+      <pubDate>Sat, 18 Jan 2025 02:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>我陷入了人工智能问题循环，无法建立我的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1i3wj37/im_stuck_in_ai_questions_loop_and_unable_to_build/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>如何才能使我的产品的颜色从外面可见？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i3ttvf/how_can_i_make_the_colours_my_product_is/</link>
-      <description><![CDATA[我不确定我是否在正确的位置发布，但我想做一些类似附图的事情，我怎样才能将其添加到我的网站？我不是一名网络开发人员，我使用 square（我相信它是通过 Weebly 运营的）来制作我的网站。我怎样才能通过 square 添加类似的东西？  编辑图片：https://imgur.com/a/Ho8b9M9     提交人    /u/hofornickmiller   [链接] [评论]]]></description>
+      <description><![CDATA[我不确定我是否在正确的位置发布，但我想做一些类似附图的事情，我怎样才能将其添加到我的网站？我不是一名网络开发人员，我使用 Square（我相信它是通过 Weebly 运营的）来制作我的网站。我怎样才能通过 Square 添加类似的东西？  编辑图片：https://imgur.com/a/Ho8b9M9     提交人    /u/hofornickmiller   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i3ttvf/how_can_i_make_the_colours_my_product_is/</guid>
       <pubDate>Fri, 17 Jan 2025 23:25:21 GMT</pubDate>
     </item>
@@ -81,27 +102,6 @@
       <description><![CDATA[我们刚刚推出了一项新功能，但它仅适用于机器人。我们正在寻找运行机器人的人，以便我们可以进行一些第三方测试。如果你就是我，请联系我。    提交人    /u/Tim-Sylvester   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i3p5nf/anyone_run_a_content_scraper_bot_i_want_to_talk/</guid>
       <pubDate>Fri, 17 Jan 2025 19:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们建立动漫推荐和流媒体网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3ov5g/we_build_anime_recommendation_and_streaming/</link>
-      <description><![CDATA[大家好，过去一年我和我的朋友一直在开发动漫网站，该网站使用通过矢量数据库制作的独特推荐系统。目前它是免费的，没有广告。我们使用 firebase 存储用户数据，使用 qdrant 存储所有动漫数据。 这里有一些功能...... 播放动漫，分享您最喜欢的剧集场景。创建自定义监视列表并与您的朋友分享，将您的监视列表设为公开或私人，获取基于描述的推荐，或者您也可以选择多个动漫以基于所有这些获得推荐。它还有各种过滤器。我们计划在未来定期推出新功能。  请结帐 https://aniversehd.com/ 也请查看推荐页面。 数据不断更新。 希望你们喜欢它。 （PS：移动设备上的用户体验不是很好，但还可以:)    提交人    /u/Melodic-Funny-9560   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3ov5g/we_build_anime_recommendation_and_streaming/</guid>
-      <pubDate>Fri, 17 Jan 2025 19:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在网页上添加分享页面按钮？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3o5k0/how_do_you_add_a_share_page_button_to_a_webpage/</link>
-      <description><![CDATA[有什么简单的方法可以在网页上添加一个分享页面按钮，在移动设备尺寸下可见，让用户通过他们的社交媒体应用分享分配给该按钮的 URL？    提交人    /u/yotamguttman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3o5k0/how_do_you_add_a_share_page_button_to_a_webpage/</guid>
-      <pubDate>Fri, 17 Jan 2025 19:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现博客类别过滤器：/blog/[category] ​​VS /blog?category=</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3na4l/implementing_a_blog_category_filter_blogcategory/</link>
-      <description><![CDATA[假设我有一个 /blog 页面，用户可以在 5 个类别之间进行选择，您会这样做吗  /blog/cars /blog/houses  或者更确切地说  /blog?category=cars /blog?category=houses  我正在使用 Nextjs，并且我试图使其尽可能简单，使用查询字符串的工作量较少，但我不确定这是否是最佳做法。    提交人    /u/miguste   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3na4l/implementing_a_blog_category_filter_blogcategory/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:35:33 GMT</pubDate>
     </item>
     <item>
       <title>推荐计划的最佳支付方式？</title>
