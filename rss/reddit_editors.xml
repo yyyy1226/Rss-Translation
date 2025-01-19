@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 19 Jan 2025 09:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:38:39 GMT</lastBuildDate>
+    <item>
+      <title>周日“展示你的作品”。</title>
+      <link>https://www.reddit.com/r/editors/comments/1i4wz4p/show_your_work_sunday/</link>
+      <description><![CDATA[每周日与我们的“Reel Review”交替发布。 发布前需完成以下关键事项 标题： 长度： 目的：您发布此帖的原因是什么？  目的可能是： 我制作的很酷的一件东西 赢得客户 或者是反馈。  如果是反馈，您必须找到另外两篇需要反馈的帖子并给出注释。如果你不这样做，版主就会来你家 你可以从 YouTube 发帖，但我们更喜欢更专业的着陆点（包括 frame.io） ---- 复制此部分 ---- 标题： 长度： 目的：    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i4wz4p/show_your_work_sunday/</guid>
+      <pubDate>Sun, 19 Jan 2025 12:01:26 GMT</pubDate>
+    </item>
     <item>
       <title>混合客户端会话选项？</title>
       <link>https://www.reddit.com/r/editors/comments/1i4pc06/hybrid_client_session_options/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[使用 Premiere Pro 2025 最新版本。  我剪辑剪辑并将合辑/蒙太奇放在一起，用于我所在公司制作的电视节目。大多数时候，我都会先获得 Pic Locked 剧集来开始，然后我会获得最终剧集来交换。 我遇到的问题是早期的 Pic Locks 通常以时间码 00:58:20:00 开始，例如带有彩条等。但我收到的后期剪辑将从 00:00:00:00 开始，并且没有任何这些，因此当“替换素材”时，新内容会提前 1:40 秒，我必须手动将每个剪辑重新排列。  我的问题是：我是否可以“替换素材”并更改一些设置以使它们正确对齐，而不必为每个剪辑手动执行此操作？    提交人    /u/pizzapartyfordogs   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i3hzu5/importing_updated_episode_versions_and_having/</guid>
       <pubDate>Fri, 17 Jan 2025 14:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件名中包含主题标签吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i3ebzh/hashtags_in_file_names/</link>
-      <description><![CDATA[只是想快速检查一下。我拿到了一个装有卸载的相机卡的 SSD，制作团队在命名方案中用井号标记了卡文件夹。例如：批次#1 FX9  我的直觉是我应该用下划线或破折号替换井号标签，但现在我又开始怀疑自己了，想知道“也许现代操作系统和 NLE 不在乎？” 我是不是过时了，还是最好不要在文件名中包含特殊字符？    提交人    /u/tothebubblecopter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i3ebzh/hashtags_in_file_names/</guid>
-      <pubDate>Fri, 17 Jan 2025 11:30:11 GMT</pubDate>
     </item>
     <item>
       <title>Premiere Pro 标题预设？</title>
