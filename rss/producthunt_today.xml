@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 09:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 12:43:33 GMT</lastBuildDate>
     <item>
       <title>Langchain AI电子邮件助手</title>
       <link>https://www.producthunt.com/posts/langchain-ai-email-assistant</link>
@@ -76,20 +76,6 @@ Meta 为创作者提供的视频编辑器
       <pubDate>Sat, 18 Jan 2025 12:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>PDF恐龙</title>
-      <link>https://www.producthunt.com/posts/pdf-dino</link>
-      <description><![CDATA[
-PDF 文件的数据提取工具
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/pdf-dino</guid>
-      <pubDate>Sat, 18 Jan 2025 07:19:14 GMT</pubDate>
-    </item>
-    <item>
       <title>杜里</title>
       <link>https://www.producthunt.com/posts/duory</link>
       <description><![CDATA[
@@ -107,7 +93,7 @@ PDF 文件的数据提取工具
       <title>敲门</title>
       <link>https://www.producthunt.com/posts/kloki</link>
       <description><![CDATA[
-适用于团队和自由职业者的时间跟踪
+团队和自由职业者的时间跟踪
 
 
 讨论
@@ -214,6 +200,20 @@ AI 代理审核您的网站的 SEO 和转化率。
 ]]></description>
       <guid>https://www.producthunt.com/posts/milestone-content-studio</guid>
       <pubDate>Tue, 07 Jan 2025 08:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>礼品车</title>
+      <link>https://www.producthunt.com/posts/giftcoach</link>
+      <description><![CDATA[
+人工智能礼品购买助手。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/giftcoach</guid>
+      <pubDate>Sat, 07 Dec 2024 00:20:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
