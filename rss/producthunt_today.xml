@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 09:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 12:44:16 GMT</lastBuildDate>
     <item>
       <title>指尖</title>
       <link>https://www.producthunt.com/posts/fingertip</link>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/starlight-partner-program</guid>
       <pubDate>Tue, 21 Jan 2025 13:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>中心冥想计时器</title>
+      <link>https://www.producthunt.com/posts/center-meditation-timer</link>
+      <description><![CDATA[
+无干扰的正念
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/center-meditation-timer</guid>
+      <pubDate>Tue, 21 Jan 2025 00:22:37 GMT</pubDate>
     </item>
     <item>
       <title>捏</title>
@@ -90,6 +104,20 @@
       <pubDate>Mon, 20 Jan 2025 05:43:27 GMT</pubDate>
     </item>
     <item>
+      <title>援助智慧</title>
+      <link>https://www.producthunt.com/posts/aidwise</link>
+      <description><![CDATA[
+您的急救箱管理器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aidwise</guid>
+      <pubDate>Sun, 19 Jan 2025 05:44:09 GMT</pubDate>
+    </item>
+    <item>
       <title>美好的</title>
       <link>https://www.producthunt.com/posts/finbar-2</link>
       <description><![CDATA[
@@ -118,18 +146,18 @@
       <pubDate>Sat, 18 Jan 2025 00:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>新闻快讯</title>
-      <link>https://www.producthunt.com/posts/newsbang</link>
+      <title>马迪奥</title>
+      <link>https://www.producthunt.com/posts/maidio</link>
       <description><![CDATA[
-您的第一个 AI 新闻和见解应用
+像 Notebooklm 一样将您的 RSS 变成播客
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/newsbang</guid>
-      <pubDate>Wed, 15 Jan 2025 08:48:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/maidio</guid>
+      <pubDate>Fri, 17 Jan 2025 09:42:34 GMT</pubDate>
     </item>
     <item>
       <title>swiftnotes.ai</title>
@@ -146,8 +174,8 @@
       <pubDate>Tue, 14 Jan 2025 18:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>Launchy</title>
-      <link>https://www.producthunt.com/posts/launchy-2</link>
+      <title>适用于 macOS 的 Launchy</title>
+      <link>https://www.producthunt.com/posts/launchy-for-macos</link>
       <description><![CDATA[
 应用启动器切换器 | Dock 和 CMD-Tab 替代方案
 
@@ -156,36 +184,22 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/launchy-2</guid>
+      <guid>https://www.producthunt.com/posts/launchy-for-macos</guid>
       <pubDate>Tue, 14 Jan 2025 00:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>论血</title>
-      <link>https://www.producthunt.com/posts/veritel</link>
+      <title>JoggAI 2.0：人工智能头像生成器</title>
+      <link>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</link>
       <description><![CDATA[
-重新掌控您的手机隐私
+根据文本提示创建逼真、个性化的 AI 头像
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/veritel</guid>
-      <pubDate>Fri, 10 Jan 2025 18:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>融洽工作室</title>
-      <link>https://www.producthunt.com/posts/rapport-studio</link>
-      <description><![CDATA[
-通过您自己独特的品牌，让您的 AI 头像栩栩如生
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rapport-studio</guid>
-      <pubDate>Wed, 08 Jan 2025 14:45:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</guid>
+      <pubDate>Mon, 06 Jan 2025 14:54:52 GMT</pubDate>
     </item>
     <item>
       <title>屏幕空间</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/screenspace-2</guid>
       <pubDate>Mon, 06 Jan 2025 05:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的朋友</title>
-      <link>https://www.producthunt.com/posts/kawara</link>
-      <description><![CDATA[
-为您的视频提供个性化搜索引擎
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kawara</guid>
-      <pubDate>Wed, 01 Jan 2025 17:09:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
