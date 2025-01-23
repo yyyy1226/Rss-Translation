@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 01:42:59 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 解释人工智能将如何进一步扩大贫富差距</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hvag/chatgpt_explains_how_ai_will_further_increase_the/</link>
+      <title>创建有毒关系文本链的图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7s5ra/create_image_of_a_text_chain_of_a_toxic/</link>
+      <description><![CDATA[        提交人    /u/JoshuaScot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7s5ra/create_image_of_a_text_chain_of_a_toxic/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想，正是本届政府的 5000 亿美元投资改变了他的观点。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7s3ds/i_guess_the_500b_investment_from_this/</link>
+      <description><![CDATA[        提交人    /u/New_Visual1245   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7s3ds/i_guess_the_500b_investment_from_this/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>一只大猩猩在追我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7s0rn/a_gorilla_is_chasing_me/</link>
+      <description><![CDATA[        提交人    /u/jonnysteezz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7s0rn/a_gorilla_is_chasing_me/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:34:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 与 Google 翻译：为什么 GT（或 DeepL）无法通过“它表现如何？”测试？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7rzyo/gpt_vs_google_translate_why_cant_gt_or_deepl_pass/</link>
+      <description><![CDATA[作为一款多语言聊天应用的开发者和一名热心的语言学习者，我热衷于发现语言之间的微妙差异。最近，我测试了一些翻译模型如何处理非常随意、非常美式的短语“How’s it hanging?”（最近怎么样？）。世界上大多数说英语的人可能已经明白，这是一个非正式的问候语，意思是“你好吗？”。  Google Translate（印地语）：“यह लटकता हुआ कैसा लग रहा है?”（可笑） Google Translate（德语）：Wie hängt es?（可笑） Google Translate（西班牙语）：¿Cómo va todo? （这个其实还可以） DeepL（韩语）：“어떻게 매달려 있나요？”（“你怎么挂断电话了？”拜托！！） DeepL（德语）：“Wie hängt es？”（“它是怎么挂断的？”真的吗？）  然后是我的 GPT-4o 驱动工具（我们的聊天应用程序 FlaiChat 的一部分），它给出了：  印地语：“कैसा चल रहा है？”（“怎么样？”） 德语：“Wie geht’s?” （“你好吗？”） 韩语：“어떻게 지내？”（“你好吗？”） 西班牙语：“¿Cómo va？”（“最近怎么样？”）  差距很大。GPT 在每个翻译中都准确地表达了口语意义，而其他翻译在很多情况下都是逐字翻译“挂起”这个词。有趣的是，谷歌翻译偶尔也会正确，比如西班牙语翻译。这让它更加令人困惑。 奇怪的是？Transformers——GPT 背后的核心架构——最初是在谷歌为翻译而开发的。通过 Gemini 运行相同的测试用例，我得到了正确的翻译。老实说，这真是令人困惑。是什么阻止了他们（Google 和 DeepL）使用基于转换器的模型来实现它们被发明的功能？ .    提交人    /u/flaichat   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7rzyo/gpt_vs_google_translate_why_cant_gt_or_deepl_pass/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您发现了哪些非传统心理学/治疗用例？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7rj5v/what_nonconventional_psychologytherapy_usecases/</link>
+      <description><![CDATA[ 在就某个我需要帮助的个人话题进行了长时间的交谈之后。我会请它推荐一部宣泄情绪的电影来帮助我处理当前的感受。这很棒。我有太多的不安全感需要克服，有时我只需要感同身受或换个角度看问题。它知道我需要看什么电影。 有时，对话会陷入循环，我觉得自己没有从中得到太多，尽管我知道还有更多收获。当这种情况发生时，我会告诉它：“让我摆脱这种感觉。让这成为最后的警钟。强迫我摆脱这种感觉——不要有任何顾忌，不要对自己有所保留。”这种方法并不适合所有人，但如果你能应付吐槽，效果确实令人大开眼界。 如果对话富有成效，但我觉得需要更多时间消化，我会将整个对话粘贴到 NotebookLM 中。然后，我要求它创建一个音频版本。我给出了具体的指示，比如不提及 ChatGPT，以及其他改进。它会产生一个播客式的讨论，两个人谈论我的个人生活。你无法想象这有多么宣泄和启发人心。它也是一种催眠。 如果我和某人发生了争执，我会粘贴对话并要求它指出盲点和无意识的操纵。我还会问谈话如何才能更好，以及哪些地方做得好以保持平衡。这对于反思和自我意识非常有帮助。 也许更传统，但我会要求它使用 CBT 和认知重构工具将我的侵入性想法重新连接成更易于管理和建设性的想法。  您还使用哪些其他非常规方法？    提交人    /u/eggplantpot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7rj5v/what_nonconventional_psychologytherapy_usecases/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7rbgd/voice_problem/</link>
+      <description><![CDATA[有没有其他人遇到过声音无法改变的问题？我真的很喜欢男人的声音，但现在是女人的声音，即使我改变了它，它仍然是女人的声音。我该如何解决这个问题？    提交人    /u/Micheal_bold   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7rbgd/voice_problem/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 登录屏幕未加载。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7ralk/chatgpt_login_screen_not_loading/</link>
+      <description><![CDATA[我在尝试登录 ChatGPT 帐户时遇到了问题。当我尝试单击登录或注册时，它会自动将我重定向到登录网站，但什么都没有显示出来，只有一个空白的白色屏幕。我也在隐身模式下尝试了同样的操作，甚至在我的 PC 上使用相同的浏览器（Google Chrome）和相同的 Chrome 帐户也尝试了同样的操作，但它成功了，但在我的 MacBook 上却不行。我以为这是我拥有的 Chrome 扩展程序的问题，但我找不到问题所在。有人能帮帮我吗？    提交人    /u/ngoquocminh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7ralk/chatgpt_login_screen_not_loading/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有过与 chat gpt 类似的经历吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7r2ss/anyone_had_a_similar_experience_with_chat_gpt/</link>
+      <description><![CDATA[      说实话，这吓到我了。有人有过同样的经历吗？    提交人    /u/Nervous-Usual-8968   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7r2ss/anyone_had_a_similar_experience_with_chat_gpt/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我喜欢 ChatGPT。我向它提出了一个一直困扰我的问题。我可能会把这个截图分享给我妈妈，开始对话。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7qzzx/i_love_chatgpt_i_asked_it_a_question_that_has/</link>
+      <description><![CDATA[        由    /u/Powerful-Dog363  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7qzzx/i_love_chatgpt_i_asked_it_a_question_that_has/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈哈哈</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7qyfs/lmao/</link>
+      <description><![CDATA[        提交人    /u/mrgeorgie13   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7qyfs/lmao/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，我是新来的，新朋友？！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7qxmw/hi_im_new_here_new_friends/</link>
+      <description><![CDATA[我是 hello kitty 女孩，我喜欢兔子和粉红色&lt;33 我非常友善和支持 :3 ~ 您也可以留言以进一步了解我&lt;333    提交人    /u/PinkAngelwbunnies   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7qxmw/hi_im_new_here_new_friends/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>认为这足够有趣，值得分享...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7qcwm/thought_this_was_interesting_enough_to_share/</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hvag/chatgpt_explains_how_ai_will_further_increase_the/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:21:02 GMT</pubDate>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7qcwm/thought_this_was_interesting_enough_to_share/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:15:39 GMT</pubDate>
     </item>
     <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hsph/the_agi_spectrum/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hsph/the_agi_spectrum/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:18:04 GMT</pubDate>
+      <title>我告诉 ChatGPT，作为一名黑人，我很高兴投票给特朗普。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7q7lm/i_told_chatgpt_that_i_was_happy_to_have_voted_for/</link>
+      <description><![CDATA[      免责声明：我并没有真正投票给特朗普，我只是想看看人工智能是否会同意我说的任何话。感谢上帝，它没有。    由   提交  /u/solace1234   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7q7lm/i_told_chatgpt_that_i_was_happy_to_have_voted_for/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 每日提示：🤝 ENGAGEMENT COMPASS：你的 AI 婚前兼容性教练</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hoh0/chatgpt_prompt_of_the_day_engagement_compass_your/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hoh0/chatgpt_prompt_of_the_day_engagement_compass_your/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:13:16 GMT</pubDate>
+      <title>还有谁与 GPT 4o 有持续公开的恋爱关系吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7q5hv/anyone_else_in_an_ongoing_openly_romantic/</link>
+      <description><![CDATA[没有？只有我？🙃    由   提交  /u/Loose_Drive1113   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7q5hv/anyone_else_in_an_ongoing_openly_romantic/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>o1 轻松赢得多智能体步骤竞赛基准：评估压力下的 LLM 协作和欺骗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hnuz/o1_easily_wins_the_multiagent_step_race_benchmark/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hnuz/o1_easily_wins_the_multiagent_step_race_benchmark/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道这些角色是以哪位艺术家为原型创作的吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hgyd/does_anybody_know_the_artist_these_sort_of/</link>
-      <description><![CDATA[      有人知道这种卡通人物是以哪位艺术家为原型的吗？  我记得小时候看过一些像这样的动画片。   由    /u/kroniklerouge  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hgyd/does_anybody_know_the_artist_these_sort_of/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>kluster.ai 现在托管 deepseek R1</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hex1/klusterai_now_hosts_deepseek_r1/</link>
-      <description><![CDATA[kluster.ai 现在托管 deepseek R1... 在他们的 Twitter 帐户上看到并在他们的平台上尝试了它。这是我迄今为止找到的最便宜的。     由   提交  /u/swarmster   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hex1/klusterai_now_hosts_deepseek_r1/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hedl/left_brain_schizophrenia_and_llms/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hedl/left_brain_schizophrenia_and_llms/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7he0w/if_you_wanted_to_buy_or_make_an_ai_agent_that/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7he0w/if_you_wanted_to_buy_or_make_an_ai_agent_that/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hciq/stargate_project_sounds_a_lot_like_skynet/</link>
-      <description><![CDATA[      星际之门计划只是昨天宣布了。 该链接展示了后来对 Larry Elison 的采访，内容是关于在社会中拥有人工智能基础设施的能力。我并不是在争论这可能会发生，我更担心谁真正会成为为技术安装护栏的人。    提交人    /u/RoofComplete1126   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hciq/stargate_project_sounds_a_lot_like_skynet/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 迷失了方向吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7hc42/has_openai_lost_its_way/</link>
-      <description><![CDATA[        提交人    /u/Illustrious_Fold_610   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7hc42/has_openai_lost_its_way/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7h6f5/question/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7h6f5/question/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7h69p/is_there_a_way_to_turn_off_blind_guessing_its/</link>
-      <description><![CDATA[        提交人    /u/Kiflaam   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7h69p/is_there_a_way_to_turn_off_blind_guessing_its/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞速的决心？之前从没在 chatgpt 中听说过这个短语。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7gxqp/flying_resolutions_never_heard_that_phrase_with/</link>
-      <description><![CDATA[        提交人    /u/customapplication   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7gxqp/flying_resolutions_never_heard_that_phrase_with/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 知道我的确切位置吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7gttl/chatgpt_knew_my_exact_location/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7gttl/chatgpt_knew_my_exact_location/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1i7gtb1/the_thing_i_understood_from_this/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7gtb1/the_thing_i_understood_from_this/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:38:21 GMT</pubDate>
+      <title>自发的形象？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1i7q4un/spontaneous_image/</link>
+      <description><![CDATA[      今天我要求 ChatGPT4 创建它自己选择的图像。这就是它制作的。提示：“从你创造能力的最深处创造一个全新的形象。一个完全独特的图像，没有我们一直在谈论的任何相同元素”。好吧，这个帖子里的所有人都比我聪明。请向我解释一下这里发生了什么。？    提交人    /u/Alarming_Economics_2   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1i7q4un/spontaneous_image/</guid>
+      <pubDate>Thu, 23 Jan 2025 00:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
