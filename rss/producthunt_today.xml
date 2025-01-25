@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 15:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 18:28:14 GMT</lastBuildDate>
     <item>
       <title>滑动艺术</title>
       <link>https://www.producthunt.com/posts/swipeart-3</link>
@@ -74,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/product-hunt-favorites</guid>
       <pubDate>Fri, 24 Jan 2025 00:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 操作员</title>
-      <link>https://www.producthunt.com/posts/chatgpt-operator</link>
-      <description><![CDATA[
-可以使用自己的浏览器为您执行任务的代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/chatgpt-operator</guid>
-      <pubDate>Thu, 23 Jan 2025 19:56:21 GMT</pubDate>
     </item>
     <item>
       <title>创建我的横幅</title>
@@ -188,7 +174,7 @@ AI UGC 工作室
       <pubDate>Fri, 17 Jan 2025 21:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>雅普兹</title>
+      <title>亚普兹</title>
       <link>https://www.producthunt.com/posts/yapz</link>
       <description><![CDATA[
 免费构建一个可以像朋友一样与人们交谈的表单
@@ -214,6 +200,20 @@ AI UGC 工作室
 ]]></description>
       <guid>https://www.producthunt.com/posts/wepost-1</guid>
       <pubDate>Thu, 09 Jan 2025 10:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>读书</title>
+      <link>https://www.producthunt.com/posts/bookread</link>
+      <description><![CDATA[
+人工智能电子阅读器让阅读变得轻松无比
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bookread</guid>
+      <pubDate>Mon, 30 Dec 2024 23:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
