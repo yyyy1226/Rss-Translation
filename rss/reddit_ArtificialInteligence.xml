@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 01:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 03:24:56 GMT</lastBuildDate>
+    <item>
+      <title>当你开始听到任何有关中国的骚动时，一定要考虑到这一点。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iawxek/always_consider_this_when_you_start_hearing_any/</link>
+      <description><![CDATA[不幸的是，这在本版块中变得相关，甚至可能会随着事情对谁不利而愈演愈烈。 可能会因为“原因”而被删除。但无论如何...... 马克·扎克伯格花费数百万美元争取 TikTok 禁令 https://www.youtube.com/watch?v=ZVmv8qOHECs    提交人    /u/TSLA_to_23_dollars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iawxek/always_consider_this_when_you_start_hearing_any/</guid>
+      <pubDate>Mon, 27 Jan 2025 02:02:12 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款应用来与后台使用人工智能的基础设施进行对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iau6c0/i_built_an_app_to_talk_to_my_infrastructure_that/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[我知道 LLM 的工作原理是，本质上对训练数据进行一些硬核数字运算，以建立数学模型来对提示做出适当的响应，这是对某人说话的良好复制，但最终缺乏实际理解，它只是吐出好看的单词来响应你给出的内容。  但我意识到“推理模型”实际上在思考提示时将某种人类可读的模拟传递到思维过程。例如，当我最近尝试 Deepseek 时，我问它如何制造硝酸，它正确地完成了整个链条，即使我指定没有铂铑催化剂。当然，我可以从维基百科获得相同的信息，但它实际上将 2 和 2 放在一起，这令人印象深刻。 我们离 AGI 还很远，至少我不认为我们离 AGI 还很远。那么从技术角度来看，这是如何运作的？  我的猜测是，它结合使用多个 LLM，通过提取尽可能多的输入信息来慢慢地处理输出。例如，像电视节目的制片人笔记一样。但这只是猜测。  我想了解更多，尤其是考虑到我们现在有一个非常高质量的开源版本。    提交人    /u/Pasta-hobo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iapbus/how_do_reasoning_models_work/</guid>
       <pubDate>Sun, 26 Jan 2025 20:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>perplexity 的新“助手”模式可以立即核实文本和视频的事实。下一步是提供链接。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iamteb/perplexitys_new_assistant_mode_instantly_fact/</link>
-      <description><![CDATA[在最近的一篇文章中，我描述了一个人工智能代理的想法，它可以在你的屏幕上突出显示可能是假新闻的文本或视频段落。 https://www.reddit.com/r/agi/s/3EtEe5CQ13 perplexity 通过其新的“助手”模式，在即时事实核查方面迈出了重要一步。我要求它“突出显示本文中任何可疑的段落”。当时这篇文章就在我的智能手机屏幕上。  https://www.newsmax.com/politics/house-republicans-trump/2025/01/26/id/1196544/ 这就是它所说的：  “从所附图片来看，文章中有一些可能存在可疑或有争议的陈述： “强硬的保守派决心减少接近 2 万亿美元的年度联邦赤字。”虽然赤字确实令人担忧，但 2 万亿美元的确切数字可能需要核实，因为估计值可能会根据不同的预测或财政政策而有所不同。 &quot;通过特朗普庞大的减税、边境和移民改革、能源放松管制和增加军费开支议程。&quot; 将该议程描述为&quot;庞大&quot; 及其具体组成部分可能是主观的或过于简单化的。这些政策的实际范围和细节可能因立法优先事项而异。 &quot;延长特朗普 2017 年减税和就业法案 (TCJA) 中的减税措施，该法案将于今年年底到期。&quot; 虽然 TCJA 的一些条款确实即将到期，但并非所有减税方面都计划到期。可以澄清这一说法以确保准确性。 &quot;这样做将在十年内花费超过 4 万亿美元，同时增加国家债务。&quot;虽然这一说法是基于估计的，但它取决于对经济增长、收入抵消和其他财政因素的假设。此类预测的准确性可能相差很大。 这些声明可能需要额外的背景或澄清，以确保准确性并避免潜在的误解。&quot; 回应太含糊，提供可以驳斥或证实这些说法的权威来源的链接将大大提高助手的实用性。但这是个好的开始。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iamteb/perplexitys_new_assistant_mode_instantly_fact/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:53:55 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 的统治地位？谁能在 AI 芯片竞赛中真正挑战他们？</title>
@@ -99,7 +99,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
