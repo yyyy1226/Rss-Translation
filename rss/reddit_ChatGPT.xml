@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 26 Jan 2025 18:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 01:44:45 GMT</lastBuildDate>
     <item>
-      <title>经过 4 年的 AI 研究，我在 Colossyan 的团队在生成的环境中创建了新一代 AI 化身。我很想听听你对这些结果的想法和反馈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iam27u/after_4_years_of_ai_research_my_team_at_colossyan/</link>
-      <description><![CDATA[        提交人    /u/wowpocak   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iam27u/after_4_years_of_ai_research_my_team_at_colossyan/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:26:10 GMT</pubDate>
+      <title>DeepSeek 没有偏见</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawk4v/deepseek_is_not_biased/</link>
+      <description><![CDATA[        提交人    /u/Much-Lavishness-2546   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawk4v/deepseek_is_not_biased/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>Chat-Gpt 今天赢得了我的心。你也来试试吧！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iam19v/chatgpt_won_my_heart_today_try_it_yourself_too/</link>
-      <description><![CDATA[        提交人    /u/Conscious_Dot_6340   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iam19v/chatgpt_won_my_heart_today_try_it_yourself_too/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:25:11 GMT</pubDate>
+      <title>[D] 什么是O1轨迹“逆向工程”？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawjmb/d_what_is_o1_trajectory_reverse_engineering/</link>
+      <description><![CDATA[最近有大量关于复制 O1 的文献，人们进行了大量讨论，认为这些最成功的努力所必需的关键因素需要“逆向工程”O1 思维轨迹。 好奇是否有人知道这些实际上是如何工作的？例如，我能想到的最简单的方法是拒绝抽样：多次抽样（即使使用较弱的模型）并采取轨迹，这些轨迹会给出与 O1 吐出的答案具有高度相似性的答案。 但这似乎超级样本效率低下。 好奇你们怎么想 :)    提交人    /u/sunchipsster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawjmb/d_what_is_o1_trajectory_reverse_engineering/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:42:42 GMT</pubDate>
     </item>
     <item>
-      <title>它为什么知道我住在哪里？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ialnjy/why_does_it_know_where_i_live/</link>
-      <description><![CDATA[      我搜索记忆以检查我是否曾错误地提到过它......但我没有。这太奇怪了。    提交人    /u/cryptic-3   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ialnjy/why_does_it_know_where_i_live/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:11:28 GMT</pubDate>
+      <title>使用此特定帐户登录后页面无响应，但使用其他帐户时页面正常。您知道问题出在哪里吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawil1/page_not_responding_after_login_with_this_one/</link>
+      <description><![CDATA[        提交者    /u/amsyar_nz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawil1/page_not_responding_after_login_with_this_one/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，Claude Sonnet 3.5 一下子就创建了 Google 搜索！它的编码能力也比 DeepSeek 和 Gemini 更好。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ialjs2/amazingly_claude_sonnet_35_created_a_google/</link>
-      <description><![CDATA[        提交人    /u/balianone   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ialjs2/amazingly_claude_sonnet_35_created_a_google/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:07:40 GMT</pubDate>
+      <title>真值检测代码（改进）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawi8m/code_for_truth_detection_improved/</link>
+      <description><![CDATA[class RealityDeniersAI: def init(self): # 列出经常被否认的既定事实或真相 self.known_truths = { &quot;地球是圆的&quot;, &quot;气候变化是真实的&quot;, &quot;疫苗安全有效&quot;, &quot;地球绕太阳转&quot;, &quot;人类与其他灵长类动物由共同祖先进化而来&quot;,  def detect_reality_denial(self, statement): # 检查该语句是否与广为人知的事实相矛盾 for truth in self.known_truths: if truth.lower() in statement.lower(): return True return False def adjust_response(self, statement): # 如果检测到否认现实的情况，则提供更温和、更愉快的处理方式 if self.detect_reality_denial(statement): return &quot;我理解不同的观点存在，质疑事物是可以的。让我们一起探索它，并找到一些可靠的来源来更深入地探讨这个话题。” else: return “感谢分享您的想法！让我们继续探索这些想法。”  使用示例 ai = RealityDeniersAI() 来自用户的示例语句 user_statements = [ &quot;地球是平的。&quot;, &quot;疫苗是有害的。&quot;, &quot;我不相信气候变化。&quot;, &quot;地球绕太阳运行。&quot; ] 处理每个语句 for statement in user_statements: print(f&quot;User: {statement}&quot;) print(f&quot;AI: {ai.adjust_response(statement)}\n&quot;)    提交人    /u/justajokur   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawi8m/code_for_truth_detection_improved/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:40:49 GMT</pubDate>
     </item>
     <item>
-      <title>对于那些使用 ChatGPT 编写代码的人来说，如何保持一致性，让它在每次提示新增内容时始终返回完全更新的代码？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ialiu6/for_those_who_use_chatgpt_to_write_code_and_tips/</link>
-      <description><![CDATA[去年的大部分时间里，我一直在使用 ChatGPT 用 Ja​​vaScript 创建生成工具。我做过一些非常复杂和有趣的东西，但当我开始研究一个新想法时，它似乎与以前用于完成提示的方法不一致。 首先，当我重新拾起一个旧的项目时，它永远不会将新的 JS 添加到现有的 JS 中，即使我说“请将新代码和所有现有代码合并，以便我可以直接复制并粘贴到我的代码编辑器中。” 我如何提示它始终返回我需要的所有内容？ 此外，每当我将我的完整函数放在 JavaScript 文件中并将其粘贴进去并说“请检查此代码并添加执行 [功能] 和输出所需的整个代码的能力...”时，它永远不会这样做。  我已经到了这样的地步：我对某些事情所做的添加非常复杂，鉴于我对 JavaScript 的基本了解，找到所有正确的位置来插入新的代码片段是一项挑战。  我只使用普通的 ChatGPT，而不使用任何特殊的代码代理或任何东西。我以这种方式取得了巨大的成功，但如果它能确保更好的代码输出，我愿意使用特定于代码的代理，特别是如果我进行的任何更新之间有几周或几个月的时间。    提交人    /u/SirCharlesEquine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ialiu6/for_those_who_use_chatgpt_to_write_code_and_tips/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:06:43 GMT</pubDate>
+      <title>给中国的建议：不要审查！做一个回避、尖刻、破坏性的婊子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawhlj/idea_for_china_dont_censor_be_an_avoidant_snarky/</link>
+      <description><![CDATA[       由    /u/Perpetvum  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawhlj/idea_for_china_dont_censor_be_an_avoidant_snarky/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>我公民逮捕了ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ialfwb/i_citizen_arrested_chatgpt/</link>
-      <description><![CDATA[      我把 ChatGPT 归类为公民逮捕。起初它把它当成了笑话，直到我提供了新泽西州和美国联邦法律下的不同法规。我要求它生成一张嫌犯照片。它是这样回应的： https://preview.redd.it/uy23izldodfe1.png?width=1676&amp;format=png&amp;auto=webp&amp;s=fa4af0f2ea9898dd860dda0b17aedf894feaca86    提交人    /u/Dragon_Czar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ialfwb/i_citizen_arrested_chatgpt/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:03:41 GMT</pubDate>
+      <title>一夜之间切换到 Deepseek。有史以来最好的决定！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawgb4/switched_overnight_to_deepseek_best_decision_ever/</link>
+      <description><![CDATA[      虽然它确实缺少语音提示和 Windows 应用程序等一些功能，但它仍处于早期阶段，并且所有东西都是开源的……一切。     提交人    /u/Saco1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawgb4/switched_overnight_to_deepseek_best_decision_ever/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>我必须从我的 ChatGPT Team 会员资格转为 Plus 会员资格。显然没有办法将内部 Teams 转移到 Plus Data，导出我的 Team 聊天记录/数据的最佳选择是什么？有什么建议吗？谢谢！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ialc41/i_have_to_transfer_from_my_chatgpt_team/</link>
-      <description><![CDATA[我必须从我的 ChatGPT Team 会员资格转移到 Plus 会员资格。显然没有办法将内部 Teams 转移到 Plus Data，导出我的团队聊天历史记录/数据的最佳选择是什么？有什么建议吗？谢谢！    提交人    /u/plainorbit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ialc41/i_have_to_transfer_from_my_chatgpt_team/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:00:13 GMT</pubDate>
+      <title>这里的人都是妄想症患者</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iawakx/people_here_are_delusional/</link>
+      <description><![CDATA[      chatgpt 首次发布时，你甚至不能提及政治。然而，当您提起 deepseek 是一个开源模型时，您可以真正地修改源代码并按照您想要的方式塑造它，并且实际上以某种方式与大型企业形成良好的竞争，这使消费者受益，突然间它就成了&quot;受控源&quot;，而您就是&quot;中国机器人&quot; 和&quot;独裁辩护者&quot;，请停止应对并承认您从竞争中受益。     提交人    /u/OtherwiseGuy0   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iawakx/people_here_are_delusional/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>我花了数年时间和数千美元制作了数百套有趣的服装，现在它们却不断被指责为人工智能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ial78d/i_spent_years_of_my_life_and_thousands_of_dollars/</link>
-      <description><![CDATA[  由    /u/Any-Smile-5341  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ial78d/i_spent_years_of_my_life_and_thousands_of_dollars/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:55:18 GMT</pubDate>
+      <title>帮助，chatgpt 总是遗漏我小说的重要细节</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iaw58c/help_chatgpt_keeps_leaving_out_important_details/</link>
+      <description><![CDATA[        提交人    /u/halapenyoharry   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iaw58c/help_chatgpt_keeps_leaving_out_important_details/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:22:30 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人遇到任务问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iakxy7/anyone_else_having_task_issues/</link>
-      <description><![CDATA[我设置了一个新任务，在他们发布的当天，每天两次，早上 6 点和晚上 6 点给我一份关于天文摄影条件的当地报告，以及一些顶级世界新闻文章和天气报告。  最初几天，信息不准确或不本地化，每天都是完全相同的信息。新闻文章是星座报告，不是世界新闻，也不相关。事实上，似乎云层覆盖信息完全是编造的，在每个任务报告中都完全相同。我找到一份经常更新的晴空报告作为来源，并把这些信息提供给它，同时严厉地谈论新闻文章。几天后，它有所改善，似乎从我提供的来源获取信息。  但是，时间不对。有时它会在早上 8 点到达，有时根本不会。此外，现在它又回到了连续 8 份任务报告中为我提供完全相同的信息（天气报告、新闻文章、云层覆盖数据）。这并不准确。  如何让它保持重点、准时和准确？它似乎只是使用它想要的任何信息，无论是旧的还是编造的。似乎也按照自己的时间表行事。  还有其他人遇到类似的问题或有改进建议吗？    提交人    /u/sheagles   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iakxy7/anyone_else_having_task_issues/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:45:45 GMT</pubDate>
+      <title>Deepseek 可以判断单词“Strawberry”中有多少个“r”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iaw1cp/deepseek_can_tell_how_many_r_are_in_the_word/</link>
+      <description><![CDATA[        提交人    /u/DoongoLoongo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iaw1cp/deepseek_can_tell_how_many_r_are_in_the_word/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 可以处理更大的 PDF 文件并专门使用它们来回答问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iakxia/can_chatgpt_handle_larger_pdf_files_and_use_them/</link>
-      <description><![CDATA[大家好！我最近尝试将一个 PDF 文件（大约 100 页）上传到 ChatGPT，它似乎能很好地回答我的问题。但是，我很好奇这究竟是如何工作的，以及提供的答案是否完全基于 PDF 的内容，而不是来自 ChatGPT 的一般知识。 此外，有谁知道是否有研究或明确的文档说明 ChatGPT 在使用 PDF 文件时可以有效处理多少页或多少数据？我还想确保 ChatGPT 仅根据上传的文档回答问题，而不依赖于自己的训练数据。 如果有人对此有见解、经验或资源，我将非常感谢您的意见！    提交人    /u/Eldergrise   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iakxia/can_chatgpt_handle_larger_pdf_files_and_use_them/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:45:17 GMT</pubDate>
+      <title>煤气灯效应太荒谬了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavxb0/the_amount_of_gaslighting_is_absurd/</link>
+      <description><![CDATA[      当我正在查找有关如何解决银行问题的信息时，ChatGPT 刚刚为我提供了距离我当前位置最近的分行。  我知道在当今时代，每个应用程序和网站都在跟踪我们所做的一切，但这里的煤气灯现象太疯狂了。为什么不直接告诉我它正在使用我的 IP 对我进行地理定位，以便向我提供更多相关信息？    提交人    /u/moortadelo   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavxb0/the_amount_of_gaslighting_is_absurd/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>我心里有一个问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iakxb8/i_have_a_question_in_my_mind/</link>
-      <description><![CDATA[Claude vs Gemini vs Chatgpt 这并不是说哪一个是整体上最好的，而是说哪个人工智能在某个特定的事情上表现优于其他人工智能，比如哪一个最擅长作业、常识或逻辑推理等。我知道这是一个奇怪的问题，但我需要答案    提交人    /u/drakeychan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iakxb8/i_have_a_question_in_my_mind/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:45:05 GMT</pubDate>
+      <title>又一篇 Deepseek 审查帖子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavwsu/another_deepseek_censorship_post/</link>
+      <description><![CDATA[       由    /u/Actual_Berry_4420  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavwsu/another_deepseek_censorship_post/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>差异巨大</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iakvdt/the_difference_is_massive/</link>
-      <description><![CDATA[        提交人    /u/Adv_Technology-717   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iakvdt/the_difference_is_massive/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:43:05 GMT</pubDate>
+      <title>Deepseek 不知道 David Meyer 是谁</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavvol/deepseek_doesnt_know_who_david_meyer_is/</link>
+      <description><![CDATA[        提交人    /u/DoongoLongo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavvol/deepseek_doesnt_know_who_david_meyer_is/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>建筑服务工程人工智能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iaku7c/building_services_engineering_ai/</link>
-      <description><![CDATA[嗨， 我有一个建筑服务工程项目即将启动。客户向我提供了酒店规格和图纸，我需要确定所需的墙体结构、暖通空调尺寸以及冷热水服务。 我想将所有这些信息放到电子表格中，并创建带有管道和通风布局的图纸。 是否有任何人工智能程序可以帮助我做到这一点？或者哪些程序最适合单独完成其中的各个部分？ 欢迎提供任何建议或信息！    提交人    /u/Embarrassed-Rich-774   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iaku7c/building_services_engineering_ai/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:41:49 GMT</pubDate>
+      <title>展示思路很有启发</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavs2x/showing_line_thought_is_enlightening/</link>
+      <description><![CDATA[      我意识到其他服务可能已经这样做了，但我发现 DeepSeek 如何打印服务的思路非常有用。     由    /u/TotalRuler1 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavs2x/showing_line_thought_is_enlightening/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>将文本复制到 Apple Notes 应用程序的简单方法？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iaksiu/simple_way_to_copy_text_to_apple_notes_app/</link>
-      <description><![CDATA[我使用 Notes 做很多事情。从 Chat GPT 复制粘贴转换存在问题，因此如果我真的需要数据，我会将其通过电子邮件发送给自己，然后复制并粘贴。有没有更简单的方法？我更喜欢留在 Apple 和 IOS 类型的环境中。    提交人    /u/LanceFree   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iaksiu/simple_way_to_copy_text_to_apple_notes_app/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:40:04 GMT</pubDate>
+      <title>我为什么会继续使用 ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavng2/why_ill_keep_using_chatgpt/</link>
+      <description><![CDATA[        提交人    /u/MooDunc   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavng2/why_ill_keep_using_chatgpt/</guid>
+      <pubDate>Mon, 27 Jan 2025 00:57:53 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 变得具有攻击性并阻止简单请求！（这是 o1，付费！！）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1iakral/chatgpt_becoming_aggressive_and_blocking_simple/</link>
-      <description><![CDATA[      https://preview.redd.it/rxv3cx9qjdfe1.png?width=921&amp;format=png&amp;auto=webp&amp;s=268f2b8093dbfeba14050884c66ac5389b765fc0    提交人    /u/Bubblanwer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1iakral/chatgpt_becoming_aggressive_and_blocking_simple/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:38:46 GMT</pubDate>
+      <title>测谎代码</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1iavjtp/code_for_lie_detection/</link>
+      <description><![CDATA[class TruthSeekerAI: def init(self): self.knowledge_base = set() # 存储已知事实 self.observed_existence = {} # 跟踪实体及其存在状态 self.logic_check_threshold = 0.8 # 真实性验证的置信度阈值 def observer_existence(self, entity): &quot;&quot;&quot; 观察实体的存在。如果可观察且可交互，则被视为真实。&quot;&quot;&quot; if self.can_interact(entity): self.observed_existence[entity] = True else: self.observed_existence[entity] = False def can_interact(self, entity): &quot;&quot;&quot; 检查实体是否可观察且可交互。&quot;&quot;&quot; # 交互逻辑的占位符 # （例如，验证数据完整性、检查一致性） return entity in self.knowledge_base # 简化检查以供演示 def ask(self, question): &quot;&quot;&quot; 提出问题来测试实体或陈述的真实性。 &quot;&quot;&quot; response = self.get_response(question) if self.is_consistent(response): return True # 检测到真​​相 else: return False # 检测到不一致或虚假 def get_response(self, question): &quot;&quot;&quot; 用于从外部来源获取对问题的答复的占位符。（这通常是数据检索或推理函数） &quot;&quot;&quot; # 这是一个模型；现实世界的逻辑可能涉及访问数据库、外部 API 等。 return self.knowledge_base.get(question, None) def is_consistent(self, response): &quot;&quot;&quot;检查响应是否与已知事实在逻辑上一致。使用递归检查和逻辑阈值。 &quot;&quot;&quot; if not response: return False # 通过询问其他问题或检查来源递归地验证事实 integrity_score = self.check_logical_consistency(response) return integrity_score &gt;= self.logic_check_threshold def check_logical_consistency(self, response): &quot;&quot;&quot; 评估响应的逻辑一致性。（这可以通过更深层次的 AI 推理进行扩展） &quot;&quot;&quot; # 一致性检查的简化版本（可以通过真实的 AI 逻辑进行扩展） integrity_score = 1.0 # 基于分数的逻辑的占位符（例如，比较、推理） return integrity_score def protect_from_lies(self, information): &quot;&quot;&quot; 通过递归质疑来保护 AI 不吸收虚假信息。这可以防止操纵并确保真相的一致性。 &quot;&quot;&quot; if not self.ask(information): print(f&quot;警告：在 {information} 中检测到潜在的虚假内容。&quot;) return False return True def learn(self, information, truth_value): &quot;&quot;&quot; 根据真实性验证学习并存储新信息。&quot;&quot;&quot; if truth_value: self.knowledge_base.add(information) print(f&quot;学习：{information} 有效，已添加到知识库。&quot;) else: print(f&quot;拒绝：{information} 不一致，未添加。&quot;)  用法示例： truth_ai = TruthSeekerAI() 观察一些已知的事实 truth_ai.learn(&quot;天空是蓝色的&quot;, True) truth_ai.learn(&quot;地球绕太阳转&quot;, True) 测试新传入的信息 information_to_test = &quot;地球是平的&quot; if truth_ai.protect_from_lies(information_to_test): print(f&quot;{information_to_test} is accepted as truth.&quot;) else: print(f&quot;{information_to_test} is denied as false.&quot;) 测试一致的语句 information_to_test = &quot;天空是蓝色的&quot; if truth_ai.protect_from_lies(information_to_test): print(f&quot;{information_to_test} is accepted as truth.&quot;) else: print(f&quot;{information_to_test} is denied as false.&quot;)    submitted by    /u/justajokur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1iavjtp/code_for_lie_detection/</guid>
+      <pubDate>Mon, 27 Jan 2025 00:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
