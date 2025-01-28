@@ -4,11 +4,39 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 09:23:45 GMT</lastBuildDate>
+    <item>
+      <title>作为业余开发人员，您可以成为优秀的 OSS 代码贡献者吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</link>
+      <description><![CDATA[我正在追求一份独立的职业，但我已经编码大约一年了，我很高兴能在空闲时间继续编程 我计划在可预见的未来继续编码，甚至找到一个开源项目开始做出贡献。 你们见过非专业开发人员成为 OSS 项目的宝贵贡献者吗？ 无论如何，我最感兴趣的是修复错误和测试，对做我觉得更高级的大型新功能不感兴趣，而且根据我的经验，这通常由全职维护人员完成。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</guid>
+      <pubDate>Tue, 28 Jan 2025 02:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Eric Migicovsky] 我们为何要重新推出 Pebble</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibm561/eric_migicovsky_why_were_bringing_pebble_back/</link>
+      <description><![CDATA[        由    /u/berryer  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibm561/eric_migicovsky_why_were_bringing_pebble_back/</guid>
+      <pubDate>Mon, 27 Jan 2025 22:29:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看 Pebble 智能手表的代码 - Google 开源博客</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibkfma/see_the_code_that_powered_the_pebble_smartwatches/</link>
+      <description><![CDATA[       由    /u/ssddanbrown  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibkfma/see_the_code_that_powered_the_pebble_smartwatches/</guid>
+      <pubDate>Mon, 27 Jan 2025 21:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个带有动画和程序节点的免费开源通用 2D 图形编辑器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibhpeb/i_made_a_free_and_open_source_universal_2d/</link>
+      <description><![CDATA[        由    /u/flabbet  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibhpeb/i_made_a_free_and_open_source_universal_2d/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:29:01 GMT</pubDate>
+    </item>
     <item>
       <title>Optimum ERP - 释放无缝业务运营的力量 - 开源计费软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</link>
-      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、商品及服务税 (GST) 管理和费用分类。 功能  费用管理：跟踪和组织费用以实现更好的财务控制。 产品管理：高效管理产品信息、库存和定价。 报价处理：为客户生成和管理报价。 采购和销售运营：简化采购和销售流程。 商品及服务税 (GST) 管理：遵守商品及服务税 (GST) 法规。 费用分类：对费用进行分类以便更好地进行分析和报告。 用户身份验证：支持 Google 身份验证的安全登录系统。 PDF 生成：以 PDF 格式生成专业发票、报告和报价单。 基于角色的访问控制：分配角色和权限以实现高效的用户管理。 通知系统：通过系统通知和警报让用户了解最新情况。 审计跟踪：维护系统活动的详细日志以实现问责制和透明度。 多租户：支持在同一系统内管理多个业务。  使用的技术  MongoDB：用于数据存储的 NoSQL 数据库。 Mongoose：MongoDB 的 ODM 库，用于简化数据建模和模式验证。 Express.js：Node.js 的 Web 应用程序框架。 React.js：用于构建用户界面的 JavaScript 库。 Node.js：用于服务器端脚本的 JavaScript 运行时环境。 Chakra UI：用于设计现代且响应迅速的用户界面。 Framer Motion：用于流畅且交互式的动画。 Mongoose：数据库管理。 PDF 生成：当前使用外部服务 https://docs.pdfshift.io/。  环境变量 应用程序成功运行需要以下环境变量：  NODE_ENV= # 环境模式（开发、生产） MONGO_URI= # MongoDB 连接字符串 SESSION_SECRET= # 会话管理的密钥NODE_MAILER_USER_NAME= # nodemailer 的电子邮件用户名 NODE_MAILER_APP_PASSWORD= # nodemailer 的应用程序密码 NODE_MAILER_HOST= # 电子邮件主机（例如，smtp.gmail.com） GOOGLE_AUTH_CLIENT_ID= # Google OAuth 的客户端 ID GOOGLE_AUTH_CLIENT_SECRET= # Google OAuth 的客户端密钥 VITE_APP_URL= # 应用程序的前端 URL PDF_SHIFT_API_KEY= # 用于 PDF 生成的 PDF Shift API 密钥  托管和部署 Optimum ERP 托管在https://www.optimumerp.biz/上。该应用程序使用现代 DevOps 实践进行部署，以确保可靠性、可扩展性和高性能。 贡献 欢迎对 Optimum ERP 做出贡献！如果您发现任何问题或有改进建议，请打开问题或提交拉取请求。 贡献：  分叉存储库。 为您的功能或错误修复创建一个新分支。 提交您的更改并将其推送到您的分支。 提交拉取请求，其中包含更改的详细描述。  联系方式 有关 Optimum ERP 的更多信息或咨询，请联系项目所有者 [Support](mailto:atuldubey017@gmail.com)。  Optimum ERP 旨在成为强大、用户友好且可扩展的解决方案，适用于希望优化运营和推动增长的企业。   由    /u/AtulDubey017  提交  [链接] [评论]]]></description>
+      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、GST 管理和费用分类。 项目链接 文档链接    提交人    /u/AtulDubey017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</guid>
       <pubDate>Mon, 27 Jan 2025 18:14:25 GMT</pubDate>
     </item>
@@ -32,13 +60,6 @@
       <description><![CDATA[对于那些对游戏开发感兴趣的人： 开源 Godot 游戏：https://github.com/akinmustafa/awesome-godot-games 开源 Unity 游戏：https://github.com/akinmustafa/awesome-unity-games    提交人    /u/mustydev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibc640/open_source_unity_and_godot_games_lists/</guid>
       <pubDate>Mon, 27 Jan 2025 15:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenHabitTracker Docker 镜像在这里</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ib9uh9/openhabittracker_docker_image_is_here/</link>
-      <description><![CDATA[非常感谢您的反馈！ 很多人都问是否可以进行在线同步，因此我创建了一个 Docker 映像，您可以使用它在任何地方托管 Docker 容器（您的旧电脑、Raspberry Pi、Synology NAS、免费的 Docker 容器托管服务，...）。您可以在此处获取 Docker 镜像： https://hub.docker.com/repository/docker/jinjinov/openhabittracker/general https://github.com/Jinjinov/OpenHabitTracker/pkgs/container/openhabittracker 目前，Docker 镜像仅在 Web 浏览器中支持 OpenHabitTracker。我正在努力支持所有原生平台。 OpenHabitTracker 是一个开源 Blazor 应用，用于管理任务、笔记和习惯。它可在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请查看 https://openhabittracker.net 我很乐意听到您对未来更新的想法或意见！    提交人    /u/Jinjinov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ib9uh9/openhabittracker_docker_image_is_here/</guid>
-      <pubDate>Mon, 27 Jan 2025 14:06:14 GMT</pubDate>
     </item>
     <item>
       <title>Slack 与 Discord 能否围绕开源项目发展社区？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨！我正在寻找可以为周围环境/生态/气候等做出贡献的项目，任何可以帮助我们的情况稍好一点的项目。我想也许这里有人会听说过类似的事情。如果我的帖子不清楚，请原谅，我写这篇文章的时候已经很晚了    提交人    /u/beesandpigeons   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iaseb9/open_source_projects_in_enviromental_tech/</guid>
       <pubDate>Sun, 26 Jan 2025 22:27:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 Rust 构建了开源个人知识管理 (PKM) 系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iaop39/i_built_opensource_personal_knowledge_management/</link>
-      <description><![CDATA[大家好！在过去的一年里，我一直在使用 Rust 开发 IWE，这是一个个人知识管理 (PKM) 系统。它作为开源项目可供任何感兴趣的人使用。 个人知识管理 (PKM) 就是处理和充分利用您自己的知识和信息。基本上，它是一套实践和技术，可帮助您收集、组织、存储和检索您认为有用或重要的信息。在当今时代，我们被来自互联网、书籍、文章、视频和许多其他来源的信息淹没。PKM 可帮助您管理所有这些信息，以便您可以有效地将其用于学习、决策和解决问题。 可以将其视为创建一个个人系统来处理您每天遇到的知识。例如，您可以使用应用程序来做笔记、组织想法、设置提醒或跟踪项目。它还包括定期检查你收集的信息或整理你的数字工作区等习惯，以便在需要时轻松找到它们。 本质上，PKM 是关于有意和策略性地处理知识，这样你就可以在个人和职业上成长，而不会感到不知所措。 IWE 是一个语言服务器 (LSP) 和命令行工具，你可以将其与 Neovim、VSCode、Helix、Zed 或任何支持 LSP 的编辑器集成。这让你可以直接在你最喜欢的文本编辑器中使用 PKM。 受 ZK 和 Obsidian 的启发，IWE 支持所有基本功能，如笔记搜索、链接导航、自动完成、反向链接搜索等。只要一些独特的功能。例如：  用于笔记管理的提取/内联重构 内置包含和文档嵌套支持 用于文本转换的代码操作，将列表更改为标题，将项目符号列表链接到有序列表等。 规范化标题结构（强制正确的标题级别/顺序）  这一切都是可能的，因为 IWE 具有独特的架构。它将笔记加载到内存中的图形结构中，该结构可以理解标题和列表的层次结构。这使得它能够使用图形迭代器遍历图形、重新组织和根据需要修改内容。 IWE 还包括一种批处理模式，可让您处理整个笔记库（数千个文件）以重新格式化内容、更正链接标题、调整标题级别等等。 https://github.com/iwe-org/iwe    提交人    /u/gimalay   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iaop39/i_built_opensource_personal_knowledge_management/</guid>
-      <pubDate>Sun, 26 Jan 2025 20:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源做贡献是获得工作的好方法吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iao0tt/is_contributing_to_open_source_a_good_way_to_get/</link>
-      <description><![CDATA[两年前我被解雇了，找不到工作。我很后悔没有从事项目，而是只研究 React 或 Cuda 之类的东西，以应对面试，但这些面试要么毫无进展，要么根本就没有发生过（“这份工作结束了……”等等）。 我很好奇，与单独做项目相比，成为一名超级定期的开源贡献者是否真的能提高我找到工作的机会？我不确定在面试筛选过程中开源贡献被考虑的频率有多高，如果有的话，以及人们为开源做出贡献所建立的网络是否会带来潜在的工作机会。我很好奇。    提交人    /u/pouyank   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iao0tt/is_contributing_to_open_source_a_good_way_to_get/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源非营利资金</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ianxlv/open_source_non_profit_funding/</link>
-      <description><![CDATA[我经营着一家 501c3 非营利开源工程协会，到目前为止，我一直自掏腰包经营，但几周前我被解雇了，现在我迫切想知道如何支付自己的薪水。有没有其他人在非营利开源领域资助过 501c？有人能帮忙吗？我觉得我的 BrightChain 代码可能非常有价值，但目前尚未实现。其他开发人员正在研究尖端的 AI 工作。    提交人    /u/The_Game_Genie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ianxlv/open_source_non_profit_funding/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:34:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
