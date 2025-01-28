@@ -4,20 +4,90 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 28 Jan 2025 12:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 18:30:13 GMT</lastBuildDate>
     <item>
-      <title>大型科技公司陷入恐慌.....Deepseek R1 是否刚刚戳破了人工智能炒作泡沫？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic0nh4/big_tech_in_panic_mode_has_deepseek_r1_just_burst/</link>
-      <description><![CDATA[  由    /u/ImpressiveContest283  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic0nh4/big_tech_in_panic_mode_has_deepseek_r1_just_burst/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:40:48 GMT</pubDate>
+      <title>为什么社交媒体吸引了我们的注意力以及我们如何防止法学硕士也受到社交媒体的吸引</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic8ggj/why_social_media_has_captured_our_attention_and/</link>
+      <description><![CDATA[  由    /u/kpkaiser  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic8ggj/why_social_media_has_captured_our_attention_and/</guid>
+      <pubDate>Tue, 28 Jan 2025 18:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>让 AI 编码不再那么痛苦：说出提示，而不是打字</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic0cxs/to_make_ai_coding_less_painful_talk_your_prompts/</link>
-      <description><![CDATA[  由    /u/tharsalys  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic0cxs/to_make_ai_coding_less_painful_talk_your_prompts/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:23:32 GMT</pubDate>
+      <title>如何理解截止日期（作为开发人员）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</link>
+      <description><![CDATA[  由    /u/mixteenth  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</guid>
+      <pubDate>Tue, 28 Jan 2025 17:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>降低 AST 以逃避类型检查</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</link>
+      <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tilted 0.4.0 – 轻量级 TS 库，用于以现代 2.5D 方式显示地图和其他类似内容。向光标滑动时可平滑缩放，轻松实现多维视觉效果、拖动等等！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</link>
+      <description><![CDATA[  由    /u/Anbeeld  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用团队拓扑和平台工程实现快速流动 • Manuel Pais 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>你应该知道的 5 个运算符：Angular 中的 RxJS</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</link>
+      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Linux-Xfce 制作（尝试）一个平铺管理器，以粗略地复制 Windows 中的“Snap-Layout”功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</link>
+      <description><![CDATA[  由    /u/BeyondMoney3072  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地运行的 Devin 的开源替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</link>
+      <description><![CDATA[  由    /u/No_Palpitation9532  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:32:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>贪婪算法何时可以更快</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic2ud3/when_greedy_algorithms_can_be_faster/</link>
+      <description><![CDATA[  由    /u/def-pri-pub  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic2ud3/when_greedy_algorithms_can_be_faster/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>厄运的小布尔</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic1ksr/the_little_bool_of_doom/</link>
+      <description><![CDATA[  由    /u/suvepl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic1ksr/the_little_bool_of_doom/</guid>
+      <pubDate>Tue, 28 Jan 2025 13:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解 Leetcode 前缀和模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic0pm8/understanding_leetcode_prefix_sum_pattern/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic0pm8/understanding_leetcode_prefix_sum_pattern/</guid>
+      <pubDate>Tue, 28 Jan 2025 12:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么初级开发人员在成名之前就精疲力竭：如何在科技界对“新”的痴迷中生存下来</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic0p02/why_junior_developers_are_burning_out_before_they/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic0p02/why_junior_developers_are_burning_out_before_they/</guid>
+      <pubDate>Tue, 28 Jan 2025 12:43:16 GMT</pubDate>
     </item>
     <item>
       <title>汇编替换语言</title>
@@ -39,76 +109,6 @@
       <description><![CDATA[  由    /u/No_Information6299  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ibxv0l/how_to_never_train_another_ml_model_again/</guid>
       <pubDate>Tue, 28 Jan 2025 09:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用反向图像搜索在 Canva 设计中替换图像 - Canva 工程博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibxrwx/image_replacement_in_canva_designs_using_reverse/</link>
-      <description><![CDATA[  由    /u/auscompgeek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibxrwx/image_replacement_in_canva_designs_using_reverse/</guid>
-      <pubDate>Tue, 28 Jan 2025 09:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 1.0.0 发布 31 周年</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibxrjl/python_100_released_31_years_ago_today/</link>
-      <description><![CDATA[  由    /u/eternviking  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibxrjl/python_100_released_31_years_ago_today/</guid>
-      <pubDate>Tue, 28 Jan 2025 09:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>准备好寻找漏洞了吗？参加 Code Firefighters 竞赛，展示你的技能吧！竞赛将于 2025 年 1 月 31 日至 2 月 5 日举行，您还能赢取大奖！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibxk8j/are_you_up_for_a_bug_hunt_show_off_your_skills_in/</link>
-      <description><![CDATA[  由    /u/DojoCodeOfficial  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibxk8j/are_you_up_for_a_bug_hunt_show_off_your_skills_in/</guid>
-      <pubDate>Tue, 28 Jan 2025 09:07:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OpenGL 上下文和输入创建窗口的 C++ 库（目前仅限窗口）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibwyt9/c_library_for_window_creation_with_opengl_context/</link>
-      <description><![CDATA[  由    /u/JustNewAroundThere  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibwyt9/c_library_for_window_creation_with_opengl_context/</guid>
-      <pubDate>Tue, 28 Jan 2025 08:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 DevPod 简化远程开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibwozx/remote_development_made_simple_with_devpod/</link>
-      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibwozx/remote_development_made_simple_with_devpod/</guid>
-      <pubDate>Tue, 28 Jan 2025 07:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>17-445 生产中的机器学习/人工智能工程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibwfx5/17445_machine_learning_in_production_ai/</link>
-      <description><![CDATA[  由    /u/woltan_4  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibwfx5/17445_machine_learning_in_production_ai/</guid>
-      <pubDate>Tue, 28 Jan 2025 07:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>图解 DeepSeek-R1</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibwdz1/the_illustrated_deepseekr1/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibwdz1/the_illustrated_deepseekr1/</guid>
-      <pubDate>Tue, 28 Jan 2025 07:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 中的开放封闭原则：构建可扩展组件</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibw6d2/openclosed_principle_in_react_building_extensible/</link>
-      <description><![CDATA[  由    /u/cekrem  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibw6d2/openclosed_principle_in_react_building_extensible/</guid>
-      <pubDate>Tue, 28 Jan 2025 07:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAG 作为 Docker 容器，易于部署且易于使用</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibvz6o/rag_as_docker_containers_easy_to_deploy_and_easy/</link>
-      <description><![CDATA[  由    /u/davidvroda  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibvz6o/rag_as_docker_containers_easy_to_deploy_and_easy/</guid>
-      <pubDate>Tue, 28 Jan 2025 07:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>循环打字</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibvd3w/cyclingtyping/</link>
-      <description><![CDATA[  由    /u/lemredd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibvd3w/cyclingtyping/</guid>
-      <pubDate>Tue, 28 Jan 2025 06:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
