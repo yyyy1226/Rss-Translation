@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 30 Jan 2025 06:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 09:23:22 GMT</lastBuildDate>
     <item>
       <title>介绍出色的开源 AI：追踪优秀开源模型的列表</title>
       <link>https://www.reddit.com/r/opensource/comments/1id9k4a/introducing_awesome_open_source_ai_a_list_for/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>开源视频转录工具-兼容本地AI模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</link>
-      <description><![CDATA[大家好！周末，在查看了转录服务价格高得离谱的云选项（Otter 等）后，借助 Deepseek R1（使用 Python/Streamlit 和开放的 Al whisper）构建了一个本地运行的视频转录器。未来更新 - 更好的摘要、电子邮件转录、在文件夹中存储新视频文件时自动转录。 查看一下，让我知道还可以做哪些改进 GitHub 链接如下： https://github.com/DataAnts-AI/VideoTranscriber YouTube 演示：https://youtu.be/Ak5PqxYXz7g   由    /u/t1092  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！周末，在查看了转录服务价格高得离谱的云选项（Otter 等）后，借助 Deepseek R1（使用 Python/Streamlit 和开放的 Al whisper）构建了一个本地运行的视频转录器。未来更新 - 更好的摘要、电子邮件转录、在文件夹中存储新视频文件时自动转录。 查看一下，让我知道还可以做哪些其他改进 GitHub 链接如下： https://github.com/DataAnts-AI/VideoTranscriber YouTube 演示：https://youtu.be/Ak5PqxYXz7g   由    /u/t1092  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</guid>
       <pubDate>Wed, 29 Jan 2025 18:15:57 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>超快搜索 Windows 文件系统搜索</title>
       <link>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</link>
-      <description><![CDATA[此时我甚至会使用 CLI 程序，我只想要一个程序，最好是用 rust 编写的，它可以索引我的驱动器的内容，然后让我使用关键字搜索目录或整个驱动器。Dust（存储分析器）似乎能够比 Windows 资源管理器搜索单个中等大小的目录更快地遍历我的整个驱动器，所以我现在想要一个可以超快地翻阅我的驱动器并返回任何符合搜索条件的内容的东西，即使它只是返回带有链接的匹配 CSV，它也比 Windows 文件资源管理器更快 我偏爱 rust 的原因是它可以与 cargo 一起安装。它不是必需的，只是一个不错的额外功能    提交人    /u/redcorerobot   [链接] [评论]]]></description>
+      <description><![CDATA[此时我甚至会使用 CLI 程序，我只想要一个程序，最好是用 rust，它可以索引我的驱动器的内容，然后让我使用关键字搜索目录或整个驱动器。Dust（存储分析器）似乎能够比 Windows 资源管理器搜索单个中等大小的目录更快地遍历我的整个驱动器，所以我现在想要一个可以超快地翻阅我的驱动器并返回任何符合搜索条件的内容的东西，即使它只是返回带有链接的匹配 CSV，它也比 Windows 文件资源管理器更快 我偏爱 rust 的原因是它可以与 cargo 一起安装。它不是必需的，只是一个不错的额外功能    提交人    /u/redcorerobot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</guid>
       <pubDate>Wed, 29 Jan 2025 00:38:19 GMT</pubDate>
     </item>
