@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 30 Jan 2025 09:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:42:54 GMT</lastBuildDate>
+    <item>
+      <title>我获得了第一份自学开发人员中级职位的邀请！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idm12b/got_my_first_offer_for_a_middle_position_as_self/</link>
+      <description><![CDATA[      经过数月的辛苦工作、每天超过 12 个小时的磨练、数十个项目和令人沮丧的面试......我申请了无薪实习、带薪实习、初级职位，应有尽有。 我终于收到了一份中端前端职位的报价，薪水几乎是我预期的两倍，最酷的是它是混合/完全远程的！ 大约 1.5 年前，我开始了 Web 开发（react）之路，然后转向全栈（node），以便能够构建一些真正有用的东西。我以前（大约 10 年前）也曾有过非常丰富的业余级编码经验，并且有很多空闲时间，这使我进步非常快。 https://preview.redd.it/ffu3takvk4ge1.png?width=1192&amp;format=png&amp;auto=webp&amp;s=7164de19b01aecc30167b191efa0c09d1a3cab94 对于我的第一天，我仍然感到不知所措和非常害怕，哈哈。但我会弄清楚的。    由    /u/spurkle 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idm12b/got_my_first_offer_for_a_middle_position_as_self/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解 JavaScript 中的值与引用：原始值和对象之间的区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idlyyi/understanding_value_vs_reference_in_javascript/</link>
+      <description><![CDATA[       由    /u/Majestic-Witness3655  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idlyyi/understanding_value_vs_reference_in_javascript/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>在类似博客的页面上使用自定义链接的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idlwnc/best_way_to_use_custom_links_for_bloglike_page/</link>
+      <description><![CDATA[长话短说，我导出了不包含 CMS 内容的 webflow 网站，因此我导出了 .csv 并将其转换为 JSON，然后将其放入 JS 内的数组中。  我需要使用链接，例如 test.com/blogs/blog-name 问题是我想要一个模板页面，例如 blogTemplate.html，我会用数组中的数据填充它，但想要上面语句中的链接。 有没有办法用 vanila JS 和 HTML 来实现这一点？ 我正在考虑 express.js，但这会涉及一个很大的后端，我在考虑将它转换为 React 并使用 Router，但这仍然会花费我很多时间，你觉得我该怎么做呢？    提交人    /u/Zoks2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idlwnc/best_way_to_use_custom_links_for_bloglike_page/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全新手。学习如何使用 NGINX 托管 Flask 应用程序的最有效方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idlq9o/complete_newbie_what_is_the_most_efficient_way_to/</link>
+      <description><![CDATA[请不要笑。 我和我的团队正在开展一个 CS50 项目，我们的软件需要依赖硬件的计算。但由于我们没有预算（用于云计算或尝试维护家庭 Web 服务器），我想在本地网络上运行我们的软件来演示功能。 但在演示过程中，我们的讲师提出为我们分配一台功能强大的计算机（不是物理计算机，而是某种我认为我们应该通过终端通过 SSH 访问的计算机）。 问题是我是团队中唯一一个对终端（使用 vi；浏览目录和运行代码）很熟悉并且有使用 Linux 经验的人。但我没有使用 Web 服务器的经验，或者任何与 Web 相关的东西。我唯一知道的是，我需要以某种方式使用 NGINX 在那台计算机上运行带有 python venv 的 Flask 应用程序，而不会破坏大学财产。  我真的希望你们中的一些人可以建议我如何处理这个任务。    提交人    /u/Free-Flamingo-7272   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idlq9o/complete_newbie_what_is_the_most_efficient_way_to/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>就在线表格提供建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idl2bk/advise_on_online_forms/</link>
+      <description><![CDATA[您好，请问有什么建议吗？我们正在建立一个用于在线教育的网站。我正在尝试寻找一个在线表格的最佳解决方案。 孩子们可以注册并添加详细信息。现在有很多像谷歌、微软等这样的网站，但它们需要手动干预，因为您必须在 Excel 等中导出。 我想知道是否有一个解决方案，可以全部在线，我们可以通过门户进行管理，而不是下载并手动执行。希望有人正在使用。 谢谢    提交人    /u/AdThen7403   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idl2bk/advise_on_online_forms/</guid>
+      <pubDate>Thu, 30 Jan 2025 11:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Css 层不是层</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idjsb2/css_layers_arent_layers/</link>
+      <description><![CDATA[我疯了吗？我认为“层”的概念是，一个层中的所有内容都比下一个层具有更高的优先级，而下一个层的优先级又比再下一个层高。 ```html &lt;!doctype html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt; &lt;title&gt;请使用层&lt;/title&gt; &lt;style&gt; @layer reset; @layer reset { * { color: black; } }; div { color: red; } &lt;/style&gt; &lt;/head&gt; &lt;div&gt;&lt;p&gt;这应该是红色的&lt;/p&gt;&lt;/div&gt; &lt;/html&gt; ``` 这不起作用。基本上，优先级较低的重置图层比从 div 继承的样式具有更高的优先级，尽管继承的样式位于 unlayer 图层中。 因此，您将图层行为拆分为：直接样式 &gt; 图层直接样式 &gt; 继承的样式 &gt; 图层继承的样式。当您将一张纸放在另一张纸上时，您不会看到另一张纸的部分挡住了第一张纸的部分。有时，中间层不会位于外层大气之上，只是因为有人认为这样会更酷。想象一下，如果你订购了一个分层的冰淇淋蛋糕，他们递给你的是奥利奥麦旋风！ 也许我们可以请求 w3c 实现类似于层但是分层的层。    提交人    /u/isrendaw   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idjsb2/css_layers_arent_layers/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>1 月份新增网络平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idjq57/new_to_the_web_platform_in_january/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idjq57/new_to_the_web_platform_in_january/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netlify 现在还好吗？我不想像其他人一样背负 10 万美元的债务 :/</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idjpaa/is_netlify_okay_now_i_dont_want_a_100k_debt_like/</link>
+      <description><![CDATA[我一直在建立一个网站，几乎可以上线了。它是为在校学生准备的……学生就是学生，我可以看到他们试图用 DDoS 做一些蠢事……也许吧。 无论如何，我不想因为一些孩子对老师强迫他们学习感到恼火而收到 10 万美元的账单。Netlify 现在怎么样了？他们的 DDoS 够用吗？我是不是太夸张了，那个人只是运气不好？ 或者我应该看看 Vercel 或 Cloudfare？    提交人    /u/Plane_Garbage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idjpaa/is_netlify_okay_now_i_dont_want_a_100k_debt_like/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Web 项目的轻量级灯箱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idjp07/lightweigh_lightbox_for_web_projects/</link>
+      <description><![CDATA[大家好，我需要一个最新的灯箱原始解决方案。您目前正在使用和推荐哪些灯箱插件？ 感谢大家的帮助和建议！    提交人    /u/yabaikumo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idjp07/lightweigh_lightbox_for_web_projects/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些帮助！jsDeliver 有任何速率限制吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idjjrz/need_some_help_guys_does_jsdeliver_has_any_rate/</link>
+      <description><![CDATA[我将它用于最多有 20,000 名用户的网站，在繁忙的日子里，它每分钟可能会收到大约 200-300 个请求。jsDeliver 免费版可以处理这个问题吗？它会导致进一步的并发症吗？提前谢谢了。    提交人    /u/Rough-Screen-8199   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idjjrz/need_some_help_guys_does_jsdeliver_has_any_rate/</guid>
+      <pubDate>Thu, 30 Jan 2025 09:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么商店管理要这么复杂？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1idj8yr/why_does_store_management_have_to_be_so/</link>
+      <description><![CDATA[效果、动作、reducer、选择器、thunk 等。这只是抽象吗？我尝试过一些状态管理库，但只要你尝试做一些比全局存储更多的事情，我就会迷失方向。还是只有我这样？    提交人    /u/reklamationer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1idj8yr/why_does_store_management_have_to_be_so/</guid>
+      <pubDate>Thu, 30 Jan 2025 09:24:49 GMT</pubDate>
+    </item>
     <item>
       <title>无框架的管理模板</title>
       <link>https://www.reddit.com/r/webdev/comments/1idiw2x/admin_template_without_framework/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[有人试过 Softgen.ai 吗？在我体验过 Replit 之后，我很好奇    提交人    /u/Icy_Toe5123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1idi8ra/softgen_any_good/</guid>
       <pubDate>Thu, 30 Jan 2025 08:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们完蛋了：代码分析工具 Sonar 使用 AI 生成的代码来修复问题？？？请让它停止。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idhrm8/were_cooked_code_analysis_tool_sonar_uses_ai/</link>
-      <description><![CDATA[        提交者    /u/SoftSkillSmith   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idhrm8/were_cooked_code_analysis_tool_sonar_uses_ai/</guid>
-      <pubDate>Thu, 30 Jan 2025 07:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从移动网络应用程序中的文档扫描特定区域？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idf9en/how_to_scan_specific_area_from_a_document_in_a/</link>
-      <description><![CDATA[大家好，我正在用 A4 纸打印一本固定大小的正方形内的彩色书。我还在开发一款应用程序来扫描这些正方形的图像。但我不想手动裁剪每一个。我是否可以在正方形周围创建一些参考点（例如在二维码中）来扫描该部分？    提交人    /u/ropats16   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idf9en/how_to_scan_specific_area_from_a_document_in_a/</guid>
-      <pubDate>Thu, 30 Jan 2025 05:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程的选择：按组件分离包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iddvtb/programmings_choice_separating_packages_by/</link>
-      <description><![CDATA[有两种常见的包结构方式： 1️⃣ 按层（例如，service、model、repo、util...） 2️⃣ 按组件（例如，基于特征的分组） 这是按组件打包的包： |─ book | ═─ model | ═─ repo | ═─ service | ═─ impl | └─ restapi |─ order | ═─ model | └─ service |─ stock | ═─ model | └─ 服务 为什么选择按组件打包？ ✅ 更好的代码可读性 📖 ✅ 更轻松的导航 🔍 ✅ 改进的可扩展性 🚀 ✅ 封装和可维护性 🔄 我曾经遵循分层结构，但随着服务的增长，事情变得混乱： ❌ 随着时间的推移更难维护 ❌ 处理单个功能时需要浏览的文件夹太多 ❌ 服务和模型文件夹变得混乱 这是按层打包： |─ 模型 | ═─ 书籍 | ═─ 订单 | ═─ 订单记录 | ═─ 书籍库存 |─ 仓库 | ═─ BookRepo | ═─ OrderRepo | ═─ BookStockRepo |─ service | ═─ BookService | ═─ OrderService | └─ BookStockService |─ restapi ═─ BookRestApi ═─ OrderRestApi └─ BookStockApi 通过切换到 Package-by-Component，我发现管理和扩展代码变得更加容易。🚀 您觉得怎么样？您更喜欢哪种结构？    提交人    /u/Lac-TranAn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iddvtb/programmings_choice_separating_packages_by/</guid>
-      <pubDate>Thu, 30 Jan 2025 04:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 Webdev 有什么看法，可能会引发战争吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idcl0p/whats_that_one_webdev_opinion_you_have_that_might/</link>
-      <description><![CDATA[发表您最热议的观点，让我们互相尊重地辩论。    由    /u/nitin_is_me 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idcl0p/whats_that_one_webdev_opinion_you_have_that_might/</guid>
-      <pubDate>Thu, 30 Jan 2025 03:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在浏览器扩展中安全地保存与我的 API 的会话？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idbly5/how_to_safely_preserve_session_with_my_api_in_a/</link>
-      <description><![CDATA[我正在构建一个浏览器扩展程序，它将数据从 Foreign-Site-A 发送到 My-Site-B。用户如何通过 API 登录我的网站，并在外部网站上使用我的扩展程序时保留他们的会话？我的 API 提供 JWT，但我认为将它们存储在存储 API 中并不安全。httpOnly Cookies 可能有效，但我必须跨站点发送它，因为扩展程序将在与服务器不同的域上运行。这里的安全协议是什么？我该如何实现这一点？    提交人    /u/Produkt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idbly5/how_to_safely_preserve_session_with_my_api_in_a/</guid>
-      <pubDate>Thu, 30 Jan 2025 02:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube 的 API 和“商业用途”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1id9li2/youtubes_api_and_commercial_usage/</link>
-      <description><![CDATA[我目前正在开发一款简单的生产力应用程序，其中包含番茄钟、待办事项列表和用于集中注意力的专用学习空间等工具。此学习空间的一项功能允许用户输入 YouTube 链接（主要用于 lofi 等学习音乐，但系统本身不设置任何限制），并且应用程序仅播放视频中的音频，而不嵌入实际视频。 我担心的是以这种方式使用 YouTube 的 API 是否被允许。该应用程序完全免费，没有广告或订阅计划 - 只有一个用于自愿捐款的“支持我们”选项，这是该应用程序唯一的交易选项。因此，我认为它不符合 API 的“商业用途”。但是，我想知道这是否仍然违反了 YouTube 的政策。 我已经搜索过答案，但我发现的信息相互矛盾，特别是因为我的情况不是关于在网站上嵌入特定视频或其他什么，而是关于有一个允许用户自由添加自己的链接的框。我正在对它进行测试，但只是在本地运行，尚未正确发布任何内容。 有谁在这方面更有知识可以帮我吗？    提交人    /u/linosan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1id9li2/youtubes_api_and_commercial_usage/</guid>
-      <pubDate>Thu, 30 Jan 2025 00:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该在简历上添加带有链接的“项目”部分？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1id97zp/should_i_put_a_projects_section_with_the_links_on/</link>
-      <description><![CDATA[我的简历中已经有我的 github 链接。我的问题是，我是否应该创建一个名为“项目”的单独部分，并列出我做过的项目以及每个项目的链接。招聘人员会看到这个吗？还是这是在浪费时间？    提交人    /u/Snoo-82170   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1id97zp/should_i_put_a_projects_section_with_the_links_on/</guid>
-      <pubDate>Thu, 30 Jan 2025 00:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有代码的简单 webdev/设计工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1id8jam/easy_webdevdesign_tool_with_code/</link>
-      <description><![CDATA[这真是个愚蠢的问题。 我以前用 wordpress 做过几个网站，但我绝对不是 webdev，也不喜欢 wordpress 或 web 设计体验。 假设我想创建一个静态网站，它将使用一些用户输入作为变量，执行 if 语句、bool 检查、字符串连接等，然后基于此执行某些操作。 对于不特别关心 web 设计的人来说，最好的工具是什么？有没有可以以这种方式与代码交互的“简易 web 构建器”？ 我把这个问题提得很奇怪，因为我认为 wordpress 真的没有后端。有吗？就像，最“合乎逻辑”的它可以做的是将用户发送到带有按钮的地方。 但我不知道我在说什么，所以非常欢迎您纠正我。    提交人    /u/LordAntares   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1id8jam/easy_webdevdesign_tool_with_code/</guid>
-      <pubDate>Wed, 29 Jan 2025 23:54:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全问题：删除浏览器 Cookie 是否会使其过期？或者有人仍可以使用副本劫持会话吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1id7k33/security_question_does_deleting_browser_cookies/</link>
-      <description><![CDATA[在过去的一年里，我成为了两次会话劫持的受害者，一次绕过了我的 gmail 2FA，一次是我的亚马逊账户。我认为最后一次是由于忽略浏览器警告并继续访问一个当地的石雕网站，该网站现已不存在，被恶意行为者接管。我从中吸取了教训。 所以我的问题就在标题里。我为与 webdev 相关的帖子道歉。我启用了 Firefox 在关闭时自动删除我的 cookie，但我很好奇，如果有什么东西在删除之前抓取了那个 cookie，他们能否在我下次合法登录之前使用它来劫持会话？如果是这样，我最好的选择是在关闭浏览器之前退出我正在使用的任何内容吗？ 我觉得我的电脑已经完全锁定了； Defender、Malware Bytes、Ublock、AdGuard Home、所有东西上的 2FA、密码管理器、自动生成的长而复杂的密码，但如果我的 cookie 被盗，那么所有这些都是徒劳的。感谢您的任何见解。    提交人    /u/Notas_asyouthink   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1id7k33/security_question_does_deleting_browser_cookies/</guid>
-      <pubDate>Wed, 29 Jan 2025 23:10:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需显示 Cookie 同意横幅即可进行的最低限度的“分析”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1id5lup/the_minimum_analytics_one_can_do_without_showing/</link>
-      <description><![CDATA[嗨。最近在 hacker news 上有一个讨论 (https://news.ycombinator.com/item?id=42792485)，有人声称，假设需要遵守 GDPR，即使只使用匿名/散列 IP 地址进行简单的访客计数，也需要显示 cookie 同意横幅。有没有人知道更多，或者有这方面的经验？ 有没有方法可以收集网站使用情况的一些统计数据，而不必显示 cookie 同意横幅。我一直认为散列 IP 使其非 PII 可以解决问题，但似乎不是？而且无论如何都没有写“cookie”也没关系？ 非常感谢   由    /u/ihatebeinganonymous  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1id5lup/the_minimum_analytics_one_can_do_without_showing/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:46:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 上的视频无法自动播放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icqdb1/video_not_autoplaying_on_iphone/</link>
-      <description><![CDATA[嗨，有 iPhone 的人可以帮我试试这个吗？ https://cranberrys-video.netlify.app 它可以在我的 Pixel 上运行，之前在 iPhone 上演示过，但它没有自动播放。  不确定它是否不能在任何 iPhone 上运行，或者这只是 Safari 的问题，或者他们可能有一个设置可以停止视频自动播放。  非常感谢您的帮助。真的很想让这些视频完全投入使用，因为我认为它为网站增色不少 😁    提交人    /u/Joyride0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icqdb1/video_not_autoplaying_on_iphone/</guid>
-      <pubDate>Wed, 29 Jan 2025 09:53:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 30 Jan 2025 09:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Directory Opus 的免费替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1idk0jd/free_alternative_to_directory_opus/</link>
+      <description><![CDATA[很高兴测试试用版，但价格对我的钱包来说有点太高了，而且我不是澳大利亚人（货币兑换很残酷）。不需要像 DOpus 那样复杂。 是否有至少具有这些功能的足够好的替代方案（我喜欢 DOpus 的这些功能）：  能够像树一样打开文件夹，每个文件夹侧面都有一个箭头，我可以直接“展开”该文件夹内的文件夹（不是在资源管理器树视图中）。 双窗格和/或选项卡视图，我只需使用其中任何一个就可以了 书签，以及 更复杂的新建文件夹菜单，我喜欢在 DOpus 中，只需像列表一样写下所有名称即可创建多个文件夹。这个不是太重要，但有就好了。  我知道可能没有什么能接近 DOpus，但至少如果有免费的东西足够接近呢？    提交人    /u/ikantolol   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1idk0jd/free_alternative_to_directory_opus/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>KeyTik：一体化自动化工具</title>
       <link>https://www.reddit.com/r/software/comments/1idfhk1/keytik_the_allinone_automation_tool/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找一个程序来手动放置和绘制一个互连节点网络。Graph commons 非常接近我想要的，带有可拖动的标题点，这些点由线/箭头连接。但是，每次我重新打开我的图表时，它都会尝试自动组织所有节点，将它们推得太近而无法读取，并迫使我完全重新组织。我的目标是使用它来绘制 Elden Ring 入口随机器游戏的地图。游戏中有数百个地点，每次尝试记住它们是如何被打乱在一起的都是徒劳的。随机器程序会为每次游戏生成一张地图（https://imgur.com/7CRuYkB），但所有地点名称和连接都已填好，这破坏了挑战性。我基本上是在寻找一种方法来从头开始制作我自己的地图版本，最好使用拖放鼠标控件。    提交人    /u/Secretstache1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1icqovc/manual_node_mapping_software_similar_to_graph/</guid>
       <pubDate>Wed, 29 Jan 2025 10:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找拼贴软件，最好是可下载的。</title>
-      <link>https://www.reddit.com/r/software/comments/1icq1y8/looking_for_collage_software_preferably/</link>
-      <description><![CDATA[寻找一个可以拖放文件并自动将照片缩放到彼此相同大小的文件。    提交人    /u/DemittiNix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1icq1y8/looking_for_collage_software_preferably/</guid>
-      <pubDate>Wed, 29 Jan 2025 09:29:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
