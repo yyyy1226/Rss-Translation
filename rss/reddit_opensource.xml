@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 30 Jan 2025 12:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 15:23:59 GMT</lastBuildDate>
+    <item>
+      <title>探索动态、记忆驱动的神经结构——想法和反馈？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1idnqqu/exploring_a_dynamic_memorydriven_neural/</link>
+      <description><![CDATA[大家好，我一直在探索一种具有一些非常规特征的自定义神经架构，我很想听听你们的想法。目标是创建一个更具适应性和记忆驱动性的模型，该模型可以随着时间的推移而动态发展。 主要功能和推理： - 分层记忆系统：网络不再仅仅依赖于权重更新，而是将其记忆构建为短期、中期和长期集群。这有助于保留相关信息，同时允许不太重要的数据随着时间的推移而衰减。 - 动态适应和神经元进化：根据性能（状态历史、执行时间、权重变化）不断评估神经元。表现不佳的会被修剪，而成功的则会得到强化或复制，从而形成一种无需手动再训练即可发展的架构。 - 记忆驱动学习和反向传播增强：系统采用记忆机制来存储和组织过去的神经元状态，让过去的经验影响学习，而不是仅仅依靠基于梯度的更新。 - 预测编码和未来状态预测：该模型不只是对输入数据做出反应；它根据存储的记忆模式主动预测未来状态，提高响应效率并降低错误率。 - 自组织结构和自主管理：不是采用固定架构，而是基于性能指标动态地添加、删除或重新组织神经元，从而使网络既可扩展又具有计算效率。 - 长期知识保留：与由于权重覆盖而忘记过去数据的传统模型不同，这种方法保留了结构化的分层记忆以供长期学习。 - 实时适应和稳定性控制：学习参数（例如学习率、记忆衰减因素）是动态调整的，而不是固定的，有助于无需手动调整即可保持稳定性。 基本概述： 每个神经元都维持一个状态和输出，形成相互连接的层。  训练循环更新神经元状态并计算输出：  输出 = tanh（状态 * 尺度 + 偏差）  每次迭代都会计算错误和性能指标。神经元会动态更新，记忆用于反向传播和梯度计算。 神经元管理系统会根据状态历史、执行时间和权重变化定期移除表现不佳的神经元。 结构化记忆系统会在未来运行中保存并重新加载，从而提供跨会话的连续性。  希望得到反馈 - 哪些方面可以改进？是否存在不必要的组件？对进一步优化代码有什么想法吗？ 如果您想更好地描述架构，可以访问我的 github 页面，请注意代码使用 metal api，因为我没有 nvidia gpu 但仍然想使用 gpu 功能，而且代码在形式上是相当难以阅读的，但如果您仍想访问这里，它是 https://github.com/Okerew/Neural-Web/tree/main，其当前形式的模型比真正的项目更具实验性。UI    提交人    /u/Okerew   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1idnqqu/exploring_a_dynamic_memorydriven_neural/</guid>
+      <pubDate>Thu, 30 Jan 2025 14:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次启动我的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1idmpm0/first_time_launching_my_opensource_project/</link>
+      <description><![CDATA[大家好， 我只是想分享一下，我构建了一个开源框架，它允许您通过用简单的语言定义您需要的内容并设置输入/输出模式来自动构建 ML 模型。在底层，它使用图形搜索和 LLM 来探索不同的模型并比较它们的性能。 但它是一个早期 alpha，我还在弄清楚事情。如果这听起来很有趣（或者像是一个坏主意），repo 在这里：https://github.com/plexe-ai/smolmodels。很想听听你的想法 ❤️     提交人    /u/Pale-Show-2469   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1idmpm0/first_time_launching_my_opensource_project/</guid>
+      <pubDate>Thu, 30 Jan 2025 13:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>具有垂直切片架构和事件驱动架构的实用 java spring boot 微服务</title>
       <link>https://www.reddit.com/r/opensource/comments/1idk2vf/practical_java_spring_boot_microservices_with/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想申请 GSoC，所以我看了它的提示，我看到的都是做开源贡献。现在我的难题是，我看的每个视频都告诉我要开源贡献，但我如何找到那些开源项目，很难找到那些开放的，而且我参加 GSoC 晚了吗？我知道 java 中级水平，正在学习 python     提交人    /u/Complex-Repeat-7167   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ico6oh/help_starting_open_source/</guid>
       <pubDate>Wed, 29 Jan 2025 07:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>操纵开源空间的公司</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ickvdz/companies_manipulating_open_source_space/</link>
-      <description><![CDATA[（版主，如果我的风格不正确，请告诉我） 好吧，先介绍一下背景，我是一名视频评论家，最近我制作了一个视频，内容是一家操纵开源空间的公司。自从视频发布以来，我对发生的事情有了更多的了解。 长话短说，这家公司收购了一个开源软件的托管网站，然后更改了页面设计，以隐藏他们不再是开源软件的事实，同时在下载中几乎没有任何警告地推销自己的产品。通过这样做，他们基本上可以买下“开源（在此处插入软件类型）”的搜索引擎结果，并诱骗人们下载他们的东西。从那以后，情况只会变得更糟。 我正在考虑制作一个后续视频，并试图找出这是否是新事物，或者社区中的其他人是否曾经见过或遇到过这种情况。因为尽管上述案例在技术上是合法的，但却非常卑鄙和具有操纵性，但它仍然不是最糟糕的情况，因为相同的过程可用于让人们（尤其是外行）下载恶意软件或类似的东西。 如果有人见过类似的事情，请告诉我。即使只是公司伸出援手购买开源软件的托管网站，我也想听听您的经历。如有需要，请随时给我发私信。 澄清：该网站是直接从个人那里购买的，而不是从域名到期处购买的，并承诺区分产品，但后来没有兑现。该公司直接假装是他们购买的软件，隐藏了它们的真实面目。   由    /u/benderboyboy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ickvdz/companies_manipulating_open_source_space/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guidefox，一个用户入职和体验平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ichi92/guidefox_a_user_onboarding_and_experience_platform/</link>
-      <description><![CDATA[大家好，开源爱好者们！ 我很高兴宣布推出 Guidefox，这是一个用户入门和体验平台。这是我们 6 个多月来一直在开发的产品，我们终于发布了！:) Guidefox 通过提示、弹出窗口、横幅和帮助链接为您的用户提供服务并提高产品采用率。很快我们也会推出旅游服务。 请尝试一下，如果您喜欢它，请告诉我们。如果您能提出任何改进建议，我将非常高兴。 源代码： https://github.com/bluewave-labs/guidefox 主页： https://guidefox.io/ 演示： https://guidefox-demo.bluewavelabs.ca/    提交人    /u/gorkemcetin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ichi92/guidefox_a_user_onboarding_and_experience_platform/</guid>
-      <pubDate>Wed, 29 Jan 2025 00:51:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
