@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:47:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:26:00 GMT</lastBuildDate>
+    <item>
+      <title>说实话的人工智能与谨慎行事的人工智能之间的区别（ChatGPT 与 Google Gemini 和 Copilot 的对比）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</guid>
+      <pubDate>Sat, 01 Feb 2025 02:57:39 GMT</pubDate>
+    </item>
     <item>
       <title>旧金山的人工智能会议：值得参加吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iet4m6/the_ai_conference_in_sf_worthwhile/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>未来的战争会是关于谁控制人工智能吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ieezx2/could_future_wars_be_about_who_controls_ai/</link>
-      <description><![CDATA[未来的战争似乎将以技术而不是坦克或导弹来打。中国不需要入侵硅谷；它只需要建造更好的东西并免费提供。 开源人工智能是一种工具，也是一种武器。失去技术控制，一个国家就会失去一切。真正的战场？云服务器、数据和供应链。 量子计算加上人工智能使加密变得毫无用处。密码和交易是公开的。生存的关键是谁先实施强大的加密。    提交人    /u/karterbrad12   [链接] [评论]]]></description>
+      <description><![CDATA[未来的战争似乎将以技术而不是坦克或导弹来打。中国不需要入侵硅谷；它只需要建造更好的东西并免费提供。 开源人工智能是一种工具，也是一种武器。失去技术控制，一个国家就会失去一切。真正的战场？云服务器、数据和供应链。 量子计算加上人工智能使加密变得毫无用处。密码和交易都是公开的。生存的关键是谁先实施强大的加密。    提交人    /u/karterbrad12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ieezx2/could_future_wars_be_about_who_controls_ai/</guid>
       <pubDate>Fri, 31 Jan 2025 13:40:10 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[人类思维可以通过意义和思考生成无限的句子。LLM 通过统计学习和模式匹配扩展了生成无限句子的能力。这两种句子生成方法背后的过程根本不同。主要区别：1.) 缺乏真正的理解：LLM 没有经验或概念基础。2.) 依赖训练数据：LLM 不会产生真正独立的思想，而是重新混合现有知识。3.) 人类认知的效率：人类通过极少的例子和更多天生的认知结构来学习语言。*** 让我们来谈谈！你怎么看？如果 AGI 需要意义和思考，LLM 何时以及如何达到 AGI？    提交人    /u/custodiam99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iec2ir/the_human_mind_versus_an_llm_what_is_the_real/</guid>
       <pubDate>Fri, 31 Jan 2025 10:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为人工智能背景去除器创建了一个基准</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iebfey/i_created_a_benchmark_for_aipowered_background/</link>
-      <description><![CDATA[大家好！ 我开发了一个背景去除领域，用于在涉及头发、毛发和透明度的具有挑战性的场景中对不同的 AI 算法进行基准测试。 该项目旨在确定这些复杂图像处理任务的最有效技术。我很乐意听到您对评估方法的看法以及对未来发展的任何建议。 探索竞技场：https://huggingface.co/spaces/bgsys/background-removal-arena 代码在此处开源：https://huggingface.co/spaces/bgsys/background-removal-arena/tree/main 我很好奇您的反馈和改进建议！    提交人    /u/tbdb92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iebfey/i_created_a_benchmark_for_aipowered_background/</guid>
-      <pubDate>Fri, 31 Jan 2025 09:56:31 GMT</pubDate>
     </item>
     <item>
       <title>2025 年的人工智能反对者是否与 1995 年的互联网反对者相当？</title>
