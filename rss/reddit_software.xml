@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 03:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 12:38:31 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个自动点击器程序允许在运行时使用鼠标？</title>
+      <link>https://www.reddit.com/r/software/comments/1ifrme8/is_there_a_autoclicker_program_that_allows_for/</link>
+      <description><![CDATA[基本上，我有一个多显示器设置，我想让一个程序在一个显示器上运行，并使用自动点击器让我保持活动状态，同时我在另一个显示器和程序中执行其他操作。我目前正在使用 op 自动点击器，但每次点击时它都会接管我的鼠标。我见过有人建议使用特定于较低级别程序的程序，但尚未找到任何程序。     提交人    /u/VURORA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifrme8/is_there_a_autoclicker_program_that_allows_for/</guid>
+      <pubDate>Sun, 02 Feb 2025 06:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>PNG 转 ICO</title>
+      <link>https://www.reddit.com/r/software/comments/1ifrczn/png_to_ico/</link>
+      <description><![CDATA[我正在尝试将 PNG 转换为 ICO，我尝试的每个在线工具都会将图标放入一个框中。我不确定是不是因为 PNG 也像这样显示，但我想让它像顶部图标一样，您看不到框。 这就是我的意思。 https://prnt.sc/om7p_CDPY-Bu    提交人    /u/squidg_21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifrczn/png_to_ico/</guid>
+      <pubDate>Sun, 02 Feb 2025 06:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 信息传输</title>
+      <link>https://www.reddit.com/r/software/comments/1ifqz88/pdf_info_transfer/</link>
+      <description><![CDATA[大家好，我正在寻找一款软件，可以扫描一张包含信息的纸质文件，提取始终位于文档同一位置的特定信息，并将该信息传输到文档的指定字段中。它的实际用途是，我收到一份包含某人姓名、地址和他们需要的重要号码的文件。然后，我会给他们寄一封包含该信息的信。到目前为止，我都是手动完成所有操作；我会手写或在电脑上将他们的姓名和号码写在文件上，然后通过 USPS 邮寄给他们。我希望简化工作，只需扫描原始文件并传输必要的信息即可    提交人    /u/NightProwlerIV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifqz88/pdf_info_transfer/</guid>
+      <pubDate>Sun, 02 Feb 2025 06:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用过什么不知名的、奇怪的或特定于行业的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ifoxcx/any_obscure_weird_or_industry_specific_software/</link>
+      <description><![CDATA[这是一个奇怪的请求，但我正在尝试将其考虑在内，并研究尽可能多的软件类别，因为我正在研究一种组织开源软件项目的方法。我显然无法想到每种类型的软件，而且由于我只是一个人，我甚至可能会错过一些非常明显的东西，所以任何事情都有帮助。    由   提交  /u/ThankYouNeutronix_02   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifoxcx/any_obscure_weird_or_industry_specific_software/</guid>
+      <pubDate>Sun, 02 Feb 2025 04:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>家庭备份解决方案的软件和硬件建议</title>
+      <link>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</link>
+      <description><![CDATA[我正在寻找一种解决方案，以便在家庭 WiFi 上对设备进行持续备份。备份无法通过互联网访问。易于使用的东西。寻找硬件和软件——强烈推荐开源软件。 到目前为止，我对找到的各种解决方案感到困惑。 Nextcloud 似乎在做很多不同的事情，我不知道它是否能做我想要的这件事。它是一个个人云，所以文件存储在个人云上，对吗？而我希望它们同时存储在我的设备和备份设备上。此外，它具有互联网连接，这不是我想要的。 Syncthing 说它不是一个好的备份应用程序：https://docs.syncthing.net/users/faq.html#is-syncthing-my-ideal-backup-application 就硬件而言，我需要 NAS 吗？Synology DiskStation 附带自己的专有软件。无论我找到什么开源软件，我都想知道是否可以删除专有软件并在 Synology DiskStation（或其他设备）上安装开源软件。我不想 DIY 设备 - 我想让事情变得简单。我想知道无论我得到什么设备，我是否可以删除专有软件并安装开源软件。    提交人    /u/Fancy_Remove1227   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</guid>
+      <pubDate>Sun, 02 Feb 2025 03:46:56 GMT</pubDate>
+    </item>
     <item>
       <title>是否有类似于 displayfusion 的程序，基本上允许我将程序强制运行到其他显示器/屏幕？</title>
       <link>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ifakf4/ai_is_creating_a_generation_of_illiterate/</guid>
       <pubDate>Sat, 01 Feb 2025 16:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载音乐或视频的最佳网站是哪一个？</title>
-      <link>https://www.reddit.com/r/software/comments/1if9u4i/whats_the_best_web_site_to_download_music_or/</link>
-      <description><![CDATA[请确保它没有广告并且安全    提交人    /u/BARRELLSAND58212   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1if9u4i/whats_the_best_web_site_to_download_music_or/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许您在后台应用程序上使用的宏软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1if7goz/macro_software_that_allows_u_to_use_it_on/</link>
-      <description><![CDATA[那么是否有一个宏允许您在后台应用程序上使用它？    提交人    /u/fairplanet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1if7goz/macro_software_that_allows_u_to_use_it_on/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费且简单的音频转录 AI？</title>
-      <link>https://www.reddit.com/r/software/comments/1if0gpx/free_and_easy_audio_transcription_ai/</link>
-      <description><![CDATA[我不是指免费几分钟或免费试用？我正在做一个需要转录的项目，我很好奇有什么免费软件。我在用 Mac，看是否有帮助。 我有音频和视频文件，但如果需要，我可以把它们全部变成音频。 谢谢任何帮助。    提交人    /u/dreamed2life   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1if0gpx/free_and_easy_audio_transcription_ai/</guid>
-      <pubDate>Sat, 01 Feb 2025 06:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有任何不会对我的电脑造成困扰的 Windows 清理程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1iezsgw/any_windows_debloater_that_dosent_terrorize_my_pc/</link>
-      <description><![CDATA[  由    /u/SchizophrenicScreams  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iezsgw/any_windows_debloater_that_dosent_terrorize_my_pc/</guid>
-      <pubDate>Sat, 01 Feb 2025 05:52:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 AI 研究过 3D 模型吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1iez1er/has_anyone_gotten_into_3d_models_with_ai/</link>
-      <description><![CDATA[  由    /u/EverretEvolved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iez1er/has_anyone_gotten_into_3d_models_with_ai/</guid>
-      <pubDate>Sat, 01 Feb 2025 05:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
