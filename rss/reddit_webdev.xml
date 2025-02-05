@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:44:23 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 05 Feb 2025 15:25:56 GMT</lastBuildDate>
+    <item>
+      <title>我已经建立了一个人工智能代理市场，并期待你的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iic114/ive_built_a_marketplace_for_ai_agents_and_looking/</link>
+      <description><![CDATA[很高兴听到您对如何改进它的想法。     提交人    /u/Makost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iic114/ive_built_a_marketplace_for_ai_agents_and_looking/</guid>
+      <pubDate>Wed, 05 Feb 2025 15:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>由 CSS 提供支持的体素编辑器。使用 HTML 长方体构建 3D 模型！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iic09i/a_voxel_editor_powered_by_css_build_3d_models/</link>
+      <description><![CDATA[        提交人    /u/Ekrof   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iic09i/a_voxel_editor_powered_by_css_build_3d_models/</guid>
+      <pubDate>Wed, 05 Feb 2025 15:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发公司</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiax7i/webdevelopingcorp/</link>
+      <description><![CDATA[      这些人合法吗？    提交人    /u/Master-Commission-87   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiax7i/webdevelopingcorp/</guid>
+      <pubDate>Wed, 05 Feb 2025 14:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习不同的 JS 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iia8zg/learning_a_different_js_framework/</link>
+      <description><![CDATA[我是一名自学成才的开发人员，拥有 2 年工作经验。到目前为止，我主要使用 React，其中包括一些重要的项目，其中也混合了 Next.js 和 TypeScript。 我想拓宽我的选择并尝试一个框架。我目前正在权衡 Angular 和 Vue (3)。你会选择什么，为什么？顺便说一下，我来自欧盟（为了澄清市场）。    提交人    /u/CurlyBunnie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iia8zg/learning_a_different_js_framework/</guid>
+      <pubDate>Wed, 05 Feb 2025 13:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Nuxt Auth Utils 模板与 MongoDB 和 Pinia Persisted</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iia851/my_nuxt_auth_utils_template_with_mongodb_and/</link>
+      <description><![CDATA[大家好，这是我第一次使用 Nuxt 和应用程序开发。我使用 Nuxt Auth Utils（希望正确）创建了一个简单的身份验证应用程序，将用户注册数据保存在 MongoDB 中，并使用 Pinia 将用户的电子邮件和 ID 存储在用户存储中。鉴于这是我第一次接触网络编程和 Nuxt，我想问一下是否有任何错误，以及代码是否看起来像一个很好的起始模板。我的目标是使代码尽可能健壮和正确，因此我希望得到关于以最正确和最有效的方式修改哪些内容的建议。请指出可能出错的每一件小事，以便我可以学习。我是网络编程的新手，这是我的第一个项目，所以我可能犯了一些错误。这是代码链接！享受    由   提交  /u/slowponc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iia851/my_nuxt_auth_utils_template_with_mongodb_and/</guid>
+      <pubDate>Wed, 05 Feb 2025 13:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Calendly 替代使用我自己的表单问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ii9d5r/calendly_alternative_using_my_own_form_questions/</link>
+      <description><![CDATA[我想使用自己的表单收集用户信息（电子邮件、电话、姓名等），然后允许用户使用表单中的输入安排会议。 Calendly 允许我预先填写 url 查询参数，但我想完全跳过该页面。 还有其他选择吗？    提交人   ​​ /u/riversabound   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ii9d5r/calendly_alternative_using_my_own_form_questions/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么 Stack 适合我的商业网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ii96g6/what_stack_for_my_business_website/</link>
+      <description><![CDATA[大家好， 我曾经学过 IT（20 年前），所以我有点被一些老东西困住了。也许你可以告诉我该怎么做。 我的业务与 IT 完全不同，但我喜欢使用我的 IT 技能创建一个美观的网站，并添加我想要的功能，从而比竞争对手更具优势。 实际版本使用 Vanilla JS 和 Jquery、PHP、Tailwind 作为技术。翻译是使用 .po 文件（在 PHP 中）进行的，我用 PHP 编写了一个自定义路由器。  我想使它成为一个更现代的版本，并且我正在考虑混合： Astro Tailwind 也许是 Vue（为了获得使用 UI 库的可能性，这样我就不必从头开始编写一些 UI 元素），但我暂时不需要我的网站的复杂 JS 端。 你对这个想法有什么看法？ 我是否还应该使用像 Strapi 或其他这样的 CMS 来更轻松地更新内容？ 我将很难“转移”我的网站到这个框架中吗？ 祝一切顺利     提交人    /u/IntroductionOk5402   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ii96g6/what_stack_for_my_business_website/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:48:22 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 NoApi (Web 框架) (axum +react)</title>
       <link>https://www.reddit.com/r/webdev/comments/1ii92vy/introducing_noapi_web_framework_axum_react/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我对 Web 开发还不熟悉，但我想正确地学习它，这样当我找到一份合适的工作时，我就知道自己在做什么。提前谢谢您！    提交人    /u/Acceptable_Scar9267   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ii7b5o/whats_a_great_place_to_learn_front_end_web/</guid>
       <pubDate>Wed, 05 Feb 2025 10:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>CheerpJ 3.1：WebAssembly 中的 JVM 以及我们在浏览器中的现代 Java 路线图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii790w/cheerpj_31_jvm_in_webassembly_and_our_roadmap_for/</link>
-      <description><![CDATA[    /u/alexp_lt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii790w/cheerpj_31_jvm_in_webassembly_and_our_roadmap_for/</guid>
-      <pubDate>Wed, 05 Feb 2025 10:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们真的完全了解所有 HTML5 元素吗？还是仅仅了解重要的元素？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii5oja/do_you_guys_actually_have_full_understanding_of/</link>
-      <description><![CDATA[与标题相同    提交人    /u/IlliterateLearner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii5oja/do_you_guys_actually_have_full_understanding_of/</guid>
-      <pubDate>Wed, 05 Feb 2025 08:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么所有东西都会有载荷位移？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii5lpw/why_does_everything_have_loading_displacement/</link>
-      <description><![CDATA[抱歉，我想不出确切的调用方式，但当页面正在加载并且屏幕上有结果时，您点击这些结果，然后出现更多结果，导致您点击了错误的结果。 如果它是由页面加载引起的，我认为这特别愚蠢，因为您难道不应该能够在加载之前知道每个对象的大小吗？例如，为什么框内的图片在加载后会调整框的大小？您应该已经知道图片大小，并且加载时显示的默认框大小应该可以捕获这些尺寸。 感觉这似乎是一件很容易实现的事情，我不明白为什么这是一个如此大的问题（因为它在这么多平台上如此频繁地出现）。 对于搜索结果，我经常看到一个结果，当我移动手指单击它时，结果会改变位置或完全消失，导致我点击错误的链接。 这个问题可能有点难解决，但我相信只要稍加思考就能解决，对吧？ 它在我使用的所有东西中都很猖獗，它让我很生气。 结束咆哮    提交人    /u/Own_Occasion_2838   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii5lpw/why_does_everything_have_loading_displacement/</guid>
-      <pubDate>Wed, 05 Feb 2025 08:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法获得 Google Adsense 批准</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii50ql/unable_to_get_approved_from_google_adsense/</link>
-      <description><![CDATA[      尝试多次请求但被拒绝。你们能和我分享一些如何完成它的见解吗？ 我主要使用 Nextjs v14、shadcn、framer-motion、postgresql、drizzle ORM、nodemailer、jspdf 和 html2canvas（如果有帮助的话） https://preview.redd.it/xy0b6evxz9he1.png?width=831&amp;format=png&amp;auto=webp&amp;s=2cdc8d8351e1a7543e4496c9483fb97abc90a65e    提交人    /u/naeemgg   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii50ql/unable_to_get_approved_from_google_adsense/</guid>
-      <pubDate>Wed, 05 Feb 2025 07:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我在 Python Flask-Django 和 PHP Laravel 之间进行选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii4j7c/help_me_to_choose_between_python_flaskdjango_and/</link>
-      <description><![CDATA[我第一次尝试进入后端。但我不知道在 Python 和 PHP 之间选择哪一个。 我没有选择 JS 作为后端，因为我对 JS 不熟悉。所以对于后端，我想选择不同的语言。    提交人    /u/DJ_Silent   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii4j7c/help_me_to_choose_between_python_flaskdjango_and/</guid>
-      <pubDate>Wed, 05 Feb 2025 07:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国求职者，市场情况如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii4h5d/uk_job_seekers_how_does_the_market_look/</link>
-      <description><![CDATA[两年前，当我在找工作时，我的经验比现在少两年，在 Linkedin 上发送几份申请会得到很多经纪人给我发私信或打电话。我每周至少有几次面试机会。 两年后，情况就像一片沙漠。我已经连续数周不停地申请，但没有一个经纪人联系我。每天只收到普通的拒绝邮件。 联系这个社区是因为我想知道我的简历或作品集是否出了什么问题，或者这只是目前的市场情况。    提交人    /u/erasebegin1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii4h5d/uk_job_seekers_how_does_the_market_look/</guid>
-      <pubDate>Wed, 05 Feb 2025 07:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有小型允许列表的 DOMParser 可以成为 DOMPurify 的安全替代品吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ii43ie/can_the_domparser_with_a_small_allowlist_be_a/</link>
-      <description><![CDATA[我们目前使用 DOMPurify 在将用户生成的 HTML 注入 DOM 之前对其进行清理。这很好，但它也是一个 21.4 kB 的额外依赖项（根据 BundlePhobia），另一个我需要关注并保持更新的依赖项，并且（个人意见）配置起来有点麻烦。 我想知道，对于简单的情况下，使用严格而小的白名单，我是否也可以只使用内置的 DOMParser 并删除除了我的允许元素的简短列表之外的所有内容？ 以以下实现为例： const ALLOWED_NODE_NAMES = [&#39;P&#39;, &#39;STRONG&#39;, &#39;EM&#39;, &#39;OL&#39;, &#39;UL&#39;, &#39;LI&#39;, &#39;A&#39;];导出函数 sanitizeHtml(html) { const parser = new DOMParser(); const dom = parser.parseFromString(html, &#39;text/html&#39;); for (let i = dom.body.childNodes.length - 1; i &gt;= 0; i--) sanitize(dom.body.childNodes[i]); return dom.body.innerHTML; } 函数 sanitize(node) { switch (node.nodeType) { case Node.ELEMENT_NODE: // 递归到子节点 for (let i = node.childNodes.length - 1; i &gt;= 0; i--) sanitize(node.childNodes[i]); // 删除未列入白名单的任何节点 if (!ALLOWED_NODE_NAMES.includes(node.nodeName)) { node.replaceWith(...node.childNodes); // 注意：也可以删除，但我想保留文本 // 节点和列入白名单的子节点，即使当前节点不在白名单中 break; } // 删除任何属性 for (const a of [...node.attributes]) { if (node.nodeName === &#39;A&#39; &amp;&amp; a.name === &#39;href&#39;) { // 锚标签上的 `href` 除外 continue; } node.getAttribute(a.name); node.removeAttribute(a.name); } break; case Node.TEXT_NODE: // 保留文本节点 break; default: // 删除其他任何内容 node.remove(); break; } }  由于这会由浏览器自己的解析器解析为 DOM 树，然后我会删除所有我不认识的内容，只保留我允许的内容，据我所知，这应该是 100% 安全的？ 有没有办法，例如，在第一次由 DOMParser 解析时，将某个内容解析为 TEXT_NODE，但下次解析时，TEXT_NODE 会变成 ELEMENT_NODE？是否有可能某些内容悄悄地通过 DOMParser 泄漏，不被删除，然后在浏览器解析时被视为 HTML？    提交人    /u/svish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ii43ie/can_the_domparser_with_a_small_allowlist_be_a/</guid>
-      <pubDate>Wed, 05 Feb 2025 06:42:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
