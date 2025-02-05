@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 01:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:24:32 GMT</lastBuildDate>
+    <item>
+      <title>刚刚利用人工智能改变了用户留存率</title>
+      <link>https://www.reddit.com/r/software/comments/1ii68t5/just_transformed_user_retention_with_ai/</link>
+      <description><![CDATA[大家好， 客户的应用程序下载量很大，但用户却没有坚持使用。  问题是什么？推送通知 — 太多，太不相关。 我们集成了 AI，根据每个用户的行为个性化通知。AI 分析了他们在应用程序中所做的事情，并发送了个性化更新 — 没有任何通用信息。 结果如何？用户回访的频率更高。短短一个月内，留存率就上升了 30%。 如果您的通知没有增加价值，那么是时候使用 AI 让它们更智能了。 希望这能有所帮助！  如果您有任何问题，请告诉我。    提交人    /u/earteza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ii68t5/just_transformed_user_retention_with_ai/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么可以帮助找工作的 AI 软件推荐吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ii5u6c/any_recommendations_for_ai_softwares_that_can/</link>
+      <description><![CDATA[大家好，我一直在尝试使用 Simplify，这是一款可以自动填写工作申请并加快流程的 AI 工具。我还尝试了 Resume.io，它可以在几分钟内创建专业简历并提供 AI 驱动的建议。这两种工具都为我节省了大量时间，但我很好奇它们是否真的能提高我获得面试机会的机会。 这里有人使用这些工具获得了真正的结果吗？招聘人员会注意到使用 AI 工具的时间吗，还是只关心最终结果？很想知道哪种 AI 求职工具最适合您！    提交人    /u/Okalongolivier   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ii5u6c/any_recommendations_for_ai_softwares_that_can/</guid>
+      <pubDate>Wed, 05 Feb 2025 08:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找免费想象排序程序（初学者）</title>
+      <link>https://www.reddit.com/r/software/comments/1ii4vuf/searching_for_free_imagine_sorting_programm/</link>
+      <description><![CDATA[嗨， 去年我在多个系统中存储了数千张图片。 我猜其中 80% 已经不再需要了。 现在我正在寻找一款易于使用的免费软件。 我目前使用的是 Windows 11 笔记本电脑。 我没有太多编辑和使用任何类型的排序程序的经验，所以易于使用的东西会很棒。离线也很好，因为有些图片包含非常重要的个人信息。 任何建议都值得赞赏。    提交人    /u/AnalPredator2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ii4vuf/searching_for_free_imagine_sorting_programm/</guid>
+      <pubDate>Wed, 05 Feb 2025 07:39:01 GMT</pubDate>
+    </item>
     <item>
       <title>谁对 BIOS 及其修改有所了解？</title>
       <link>https://www.reddit.com/r/software/comments/1ihxpzt/who_knows_anything_about_bios_and_modding_it/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我在工作中使用 AHK 1.1.37.02。我开始编写脚本，并正在通过 CHatGPT 慢慢学习如何使用 AHK。基本上，我需要用不同的按键反复做几件事： 1）打开一个已经打开的窗口 2）检查是否在正确的窗口中显示正确的选项卡 3）按一些按钮复制一些文本或点击屏幕而不是窗口的特定位置，然后复制文本 4）计算我复制了多少个项目 5）打开另一个窗口（例如 Gmail） 6）检查是否在正确的选项卡（例如“收件箱”而不是“已发送”） 7）将您复制的内容粘贴到特定位置并按下键盘上的这些按键。 没有大量代码的情况下编写这些东西的最佳方法是什么？我遇到的主要问题是检查它是否是正确的选项卡，如果是错误的选项卡则进行更改。此外，如果是错误的，它应该停止代码。我也尝试告诉代码将鼠标移动到哪里，然后左键单击以更改选项卡，但坐标始终相对于我处于活动状态的窗口，当我更改活动窗口时，它会弄乱我的代码 如果您需要更多详细信息，我很乐意提供。 提前谢谢您    提交人    /u/Ocrim-Issor   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ihb9ve/need_help_understanding_autohotkey/</guid>
       <pubDate>Tue, 04 Feb 2025 06:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许嵌入视频或 gif 的 Android 笔记软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1ihakwm/android_notetaking_software_that_allows_embedding/</link>
-      <description><![CDATA[正如标题所述，我想插入与我正在写的内容相关的视频（或至少是 gif）。任何适用于 Android 的应用程序都可以做到这一点？OneNote 不行。提前致谢。    提交人    /u/Kuwaysah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ihakwm/android_notetaking_software_that_allows_embedding/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个本地通用文件转换器，它不会将您的文件发送到不可靠的服务器</title>
-      <link>https://www.reddit.com/r/software/comments/1ihah2p/i_made_a_local_universal_file_converter_that/</link>
-      <description><![CDATA[  由    /u/jakecoolguy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ihah2p/i_made_a_local_universal_file_converter_that/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助提取字幕</title>
-      <link>https://www.reddit.com/r/software/comments/1ih9z39/help_extracting_subtitles/</link>
-      <description><![CDATA[通常，为了从视频中提取字幕到 SRT 文件，我会使用命令 ffmpeg -i &lt;inputFile&gt; &lt;outputFile.srt&gt;。对于偶尔出现的视频，这不起作用 - ffmpeg 报告没有字幕轨道。有时我可以使用名为 CCExtractor 的程序。但有些视频这两种方法都不起作用。 有问题的视频肯定有字幕轨道。我可以用 Windows 视频播放器选择它。我可以使用 MediaInfo 看到它。但尽管我尝试过许多视频字幕程序，但我无法从其中一些视频中提取。 有什么建议吗？ 这是其中一个问题视频的（已编辑）mediainfo： 常规完整名称：L:\stream\Law &amp; Order\S16\junk\Law and Order - Acid (Recorded Jan 12,2025,WEHD-E,16,10).mp4 格式：MPEG-4 格式配置文件：基本媒体 编解码器 ID：isom（isom/iso2/avc1/mp41） 文件大小：1.50 GiB 文本 #1 ID：1-CC1 格式：EIA-608 多路复用模式：SCTE 128 / DTVCC 传输多路复用模式，更多信息：多路复用在视频 #1 中 持续时间：1 小时 4 分钟 开始时间：901 毫秒 比特率模式：恒定 流大小：0.00 字节（0%） 第一个事件前的帧数：54 第一个事件的类型：PopOn 文本 #2 ID：1-1 格式：EIA-708 多路复用模式：SCTE 128 / DTVCC 传输复用模式，更多信息：在视频 #1 中复用持续时间：1 小时 4 分钟比特率模式：恒定流大小：0.00 字节 (0%)    提交人    /u/hspindel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ih9z39/help_extracting_subtitles/</guid>
-      <pubDate>Tue, 04 Feb 2025 04:54:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
