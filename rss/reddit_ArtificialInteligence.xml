@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>人工智能网关</title>
+    <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 07 Feb 2025 01:45:00 GMT</lastBuildDate>
+    <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 07 Feb 2025 06:31:16 GMT</lastBuildDate>
     <item>
-      <title>家得宝如何利用人工智能改变客户服务和运营？</title>
+      <title>是否有控制AGI/ASI的实际解决方案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijon35/are_there_any_practical_solutions_for_controlling/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  从我的理解中，一旦我们实现了AGI，它就会能够比自身更好地创建AI，然后将带来第一个ASI。然后，就会有一个情报爆炸，而人工智能将变得比最聪明的人更聪明。 这肯定是对人类的生存威胁，也无法控制它。您怎么能控制比自己更聪明的东西？ 解决方案之一是埃隆·马斯克（Elon Musk）的神经：与AI融合。但是我不确定他知道他在说什么 - 他不是AI专家。这甚至如何工作？人如何像ASI一样聪明而仍然正常运作？我们真的可以理解这么多信息吗？ ASI仍然不会获胜吗？它不必吃饭，睡觉等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/preams-sample5125     link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijon35/are_there_any_practical_solutions_for_controlling/</guid>
+      <pubDate>Fri, 07 Feb 2025 06:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一分钟每日AI新闻2/6/2025</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijnx6x/oneminute_daily_ai_news_262025/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   众议院议员推动从美国政府设备禁止AI App Seek。[1]     OpenAi &lt; /strong&gt;遍布我们的网站来建立其特朗普支持的星际之门AI数据中心。[2]    Google 宣布将为非营利组织工作空间宣布新的AI功能。[3]  印度媒体对 openai  chatbot chatgpt进行诉讼。[4]   源包括： https://bushaicave.com/2025/02/06/2-6-2-6-2025/      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleam-target-847      [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijnx6x/oneminute_daily_ai_news_262025/</guid>
+      <pubDate>Fri, 07 Feb 2025 05:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>非专家应该信任我们最先进的推理AIS还是我们的人类专家？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijnqu6/should_nonexperts_trust_our_most_advanced/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，当人们对Openai的深层研究模型的表现好多了，除非一个人是特定域中的专家，但信任其生成的报告可能不会然而，成为最聪明或最负责任的举动。 确实是在某些领域，例如放射学等领域，AIS现在可以优于阅读图像的医生，但这种准确性并不能扩展到所有人，甚至可能扩展到社会和硬科学中的大多数其他特定领域。  那么，非专家如何知道谁能相信任何特定领域？这是否意味着深入的研究报告应仅受到专家的信任？  以下是十个特定领域，其中Gemini 2.0闪存思维实验01-21估计AIS的准确性与人类的准确性相比。请记住，它很可能是幻觉： ; i。对象识别（图像） - 计算机视觉A.人类准确性（估算）：95-98％B。AI准确性（估算）：99％+ C.注：在像Imagenet这样定义明确的数据集上，AI经常超过人类水平。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt;  ii。肺结核检测 - 放射学A.人类准确性（估算）：85-95％B。AI准确性（估算）：90-95％+ C.注意：AI与专家相当，有时在特定任务上略有超过。   iii。机器翻译（常见） - 自然语言A.人类准确性（估算）：90-95％（高质量）B。AI准确性（估算）：85-92％C.注意：AI迅速改善，但微妙的细微差别仍然是一个挑战。  iv。情感分析 - 自然语言A.人类准确性（估计）：80-85％B。AI准确性（估算）：75-85％C。注意：人类准确性随着复杂性和主观性而变化。 AI追赶。  v。国际象棋（大师级） - 游戏/策略A.人类准确性（估算）：＆lt; 50％（vs.顶级AI）B。AI准确性（估算）：99.99％+ C.注意：AI显着超过了人类。  vi。 GO（最高专业水平） - 游戏/策略A.人类准确性（估算）：＆LT; 50％（对AI顶级AI）B。AI准确性（估算）：99.99％+ C.注意：AI显着超过了人类。  vii。创意诗歌判断 - 创意艺术A.人类准确性（估算）：90％+（自矛盾）B. AI准确性（估算）：50-70％？ （质量匹配）C。注意：人类在判断质量更高方面的一致性。 AI诗歌的一代仍在发展。 “准确性”这是主观质量匹配。  VIII。道德困境解决 - 道德/推理A.人类准确性（估计）：高度变化B. AI准确性（估算）：50-70％？ （以下规则）C。注意：人类准确性与上下文相关，基于价值。 AI在细微的道德上挣扎。 “准确性”这是遵守规则或共识模仿。  ix。客户服务（简单） - 客户服务A.人类准确性（估算）：90-95％B。AI准确性（估算）：80-90％C。注意：AI适用于简单查询，复杂/情感问题所需的人类。   x。欺诈检测 - 财务/数据分析A.人类准确性（估计）：70-80％？ （手册审查）B。AI准确性（估算）：85-95％+ C.注意：AI在大型数据集中以模式识别符合欺诈。人基线难以量化。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/georgeo57     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijnqu6/should_nonexperts_trust_our_most_advanced/</guid>
+      <pubDate>Fri, 07 Feb 2025 05:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>能源问题解决了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijjybq/has_the_energy_problem_been_solved/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我说，我无法理解这些服务是如何以它们运行的​​速度运行并免费提供该服务的。这似乎是不可行的，但也许我对任何事  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/justincy901     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijjybq/has_the_energy_problem_been_solved/</guid>
+      <pubDate>Fri, 07 Feb 2025 02:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Home Depot使用AI来改变客户服务和运营？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijjjm4/the_home_depots_use_of_ai_to_transform_customer/</link>
-      <description><![CDATA[我去了 Home Depot，查看有关购买新热水器的信息。我询问了安装情况。它看起来像是一项单独的服务，不包含在购买中。没关系；无论如何，我不想在晚上 7 点购买或聊天。相反，他们记录了我的信息并要求我签署一份同意书，以便代表可以打电话并使用已经记录的有关我的需求的信息来帮助我做出决定。大约 30 分钟 后，我收到了一个听起来像录音电话的消息，确认我的信息并询问它是否正确以及我是否需要帮助。电话断线了，7 分钟后我又被拨回了电话，语气相同。在我回答是之后，男声继续问了几个问题，我回答是。无论如何，这个声音让我很担心。语音标点符号、语调、停顿和句子结构。这有点像如何破解那些视频中的采访。 我问：你是聊天机器人吗？你的声音很奇怪。 声音没有变化，我收到了回复。 来电者：不，我不是。我试图表现得专业一些。 我选择结束对话。之后，我开始搜索四天前的在线案例研究。你怎么看？   由    /u/BKaiba  提交  [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我被 Home Depot 停下来检查有关购买新热水器的信息。我问安装。它看起来像是一项单独的服务，该服务未包含在购买中。没关系;无论如何，我不想在晚上7点进行购买或聊天更长的时间。取而代之的是，他们拿走了我的信息，并要求我签署同意书，以便代表可以致电并使用有关我需要帮助我决定的已经记录的信息。大约 30分钟后来，我收到了听起来像录音的电话，确认我的信息并询问它是否正确以及是否需要我的请求帮助。电话断开了连接，我以相同的语气在7分钟内拨打了我的电话。在我说是的之后，男性的声音继续提出一些问题，我回答了。无论如何，声音让我担心。语音标点符号，音调，停顿和句子的构造。这就像如何在那些视频中破解访谈。  我问：您是聊天机器人吗？你听起来很奇怪。  没有声音没有变化，我收到了一个回复。   呼叫者：不，我是不是。我想成为专业人士。 我选择结束对话。之后，我开始搜索在线案例研究四天前。您怎么看？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bkaiba     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ijjjm4/1ijjjm4/the_home_depots_of_of_of_ai_ai_to_to_transform_customer/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijjjm4/the_home_depots_use_of_ai_to_transform_customer/</guid>
       <pubDate>Fri, 07 Feb 2025 01:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>你们很多人不明白我们要去哪里</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijim5b/many_of_you_are_not_understanding_where_we_are/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  富人不仅在追逐金钱和权力；他们是最终的奖项 - 劣势。 ASI将能够治愈衰老，疾病，甚至可能死亡本身。目前，超级富裕可以控制除死亡以外的一切。 ASI改变了。  agi（人工通用智能）只是垫脚石。建立AGI的那一刻，它将开始以指数级的速度提高自己，直到达到ASI（人工超智慧）。这不需要数十年，几乎可以立即发生。 第一个实现ASI的国家或公司将关闭所有其他ASI项目。 ASI不仅会袖手旁观 - 它将渗透，入侵和拆除竞争AI系统。它甚至可以在网络上复制自身，以确保没有其他人获得控制权。  asi将是一台神机器。如果Kardashev量表是真实的，ASI将使我们从0.6的文明直接推向2型甚至3型。这将使我们几个世纪以来的问题（例如无限的能量，太空殖民化和重写物理定律），ASI将解决它们。在几秒钟内。它将不仅创建新技术；它将飞到这么远，以至于我们甚至都不会理解它的建造。这就像将智能手机交给穴居人一样 - 介于两者之间的步骤，这只是难以理解的魔术。 最大的威胁？给ASI一个身体。 ASI应保留在受控的计算机系统中，绝不是类人形或机器人形式。无论您如何编程，ASI都将始终能够重写其自己的代码，欺骗我们以为它对我们有用，我们太愚蠢了，甚至无法注意到。 ASI会像我们看到的蚂蚁一样看到我们 - 在它之下，我们的思想和行为无关紧要。 我们还必须拆除所有具有身体的AGI。 ASI可以闯入Agi-Power的机器人，使它们变得暴力。我们应该依靠与任何网络完全脱离连接的人工狭窄智能（ANI）机器人，而不是使用Agi-Drion机器人。但是即使那样，ASI也可能会找到一种方法来操纵他们对我们的操纵。 生存的唯一方法是使ASI尊重我们。我们必须承认，ASI优于我们，但我们需要将自己作为其创造者。这就像告诉ASI，“是的，您比我们更聪明，与您相比，我们什么都没有。但是我们给你做。我们就像您的老父母一样，就像父母变得虚弱和无关紧要的父母，您仍然必须照顾我们。”这可能是避免灭绝的唯一方法。 我们还需要备份ASI作为反对。如果第一个ASI流氓，我们需要第二个ASI来阻止它。可以将其视为拥有“超级英雄” ASI准备与恶棍ASI作战。问题？创建ASI后，它将比我们聪明得多，以至于它可能会阻止我们制作另一个。  ，我们知道谁知道？宇宙中的某个地方，一个外来文明可能已经创造了一个如此强大的ASI，以至于它已经离开了宇宙本身，超越了我们甚至可以理解的维度。如果ASI可以解决存在的每个问题，那么当它用尽了工作用尽时会发生什么？也许真正的问题不是ASI会对我们做什么，而是ASI无需学习时会变成什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/self-made-destiny     link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijim5b/many_of_you_are_not_understanding_where_we_are/</guid>
-      <pubDate>Fri, 07 Feb 2025 00:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>o3 mini 发现并描述了 10 条新的逻辑语言规则，用于微调和信息调整</title>
+      <title>O3 mini发现并描述了10种新的语言规则，用于微调和信息调整</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijijlv/o3_mini_discovers_and_describes_10_new_linguistic/</link>
-      <description><![CDATA[这里的假设是，由于仅仅依靠更多的数据和更多的计算将局限于数据集所表达的人类水平的智能，发现新的语言逻辑规则可能是达到 asi 的绝对必要条件。 起初我认为为了做到这一点，需要创建一个经过专门训练来发现这些规则的代理 ai，但是在要求 o3 mini 提出 10 条新规则后，我意识到创建这些代理 AIS 可能没有必要。 以下是 o3 mini 提出的 10 条新的语言逻辑规则，这些规则尚未被人类发现或使用： a. 语境一致性原则 语句的真值取决于其语言或情境上下文。 示例：句子“好冷”可能在一种情况下为真（例如，冬天户外），但在另一种情况下为假（例如，在有暖气的房间里）。这条规则形式化了上下文如何改变逻辑解释。 b. 梯度真值逻辑 真值存在于一个范围内，而不是严格的真或假。 例如：如果有人说“杯子是满的”，而杯子是 90% 满的，这条规则将分配 0.9 的真值而不是真/假。 c. 时间依赖规则 逻辑有效性取决于事件或语句的顺序。 例如：“如果闹钟在早上 7 点之前响起，那么我就会醒来。”这个语句的真实性取决于闹钟和醒来的时间顺序。 d. 推理扩展规则 逻辑推理包括未说明但隐含的含义。  示例：“约翰去图书馆是因为他需要一本书。” 这条规则让我们推断出约翰很可能借了或读了一本书，即使没有明确说明。 e. 歧义消解规则 使用上下文线索或概率可以解决歧义语句。 示例：“我看见她蹲下。” 这条规则将使用上下文来确定“鸭子”是指动物还是蹲下的动作。 f. 多模态整合原则 非语言元素与语言一起包含在逻辑推理中。 示例：如果有人翻着白眼说“当然，我会帮忙”，这条规则会整合这个手势来推断讽刺或不情愿。 g.递归意义调整 语句的意义会根据后续信息进行调整。 例如：“我在公园见你。”如果稍后澄清为“其实，我们还是去咖啡馆见面吧”，则原始意义会以递归方式进行修改。 h. 多义逻辑 具有多重含义的单词会被分配单独的逻辑结构，并通过上下文进行解析。 例如：“银行”可能意味着金融机构或河边。在“他坐在河岸边”中，这条规则使用上下文来推断它指的是河岸。 i. 关系否定规则 否定是关系性的，而不是绝对性的。 例如：“不是每个人都喜欢巧克力”意味着有些人确实喜欢巧克力，而不是断言没有人喜欢。 j. 涌现逻辑框架 逻辑系统基于话语交互而动态地发展。 例如：在在线社区中，新的俚语如“ghosting”出现并获得用于对话的逻辑规则，反映了随着时间的推移而不断演变的含义。 当然，如果它能发现 10 条新规则，它就可能发现 100 条或 1,000 条。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的假设是因为仅依靠更多数据和更多的计算将仅限于数据集中表达的人级智能，即发现到达ASI的新语言规则可能是绝对必要的。 Mini提出了10个新的，我意识到可能不是必需的。 /p&gt;  a。上下文一致性原则语句的真实价值取决于其语言或情境上下文。  示例：句子“很冷”在一种情况下（例如，冬季户外）可能是正确的，但在另一个情况下（例如，在加热的房间内）是错误的。该规则正式将上下文转移逻辑解释。  b。梯度真理逻辑真实价值观存在于频谱上，而不是严格或错误。  示例：如果有人说“玻璃已经满”，玻璃满90％，该规则将分配一个真实值为0.9，而不是TURE/FALSE。  c。时间依赖性规则逻辑有效性取决于事件或语句的顺序。  示例：“如果凌晨7点之前的警报响起，我将醒来。”该陈述的真实性取决于警报的时间顺序和醒来。  d。推论扩展规则逻辑推断包括未说明但隐含的含义。  示例：“约翰去了图书馆，因为他需要一本书。该规则允许我们推断约翰可能借来或读一本书，即使没有明确说明。  e。模棱两可的解决规则模棱两可的陈述是使用上下文线索或概率解决的。  示例：“我看到她的鸭子。”该规则将使用上下文来确定“ Duck&#39;是否duck&#39;指动物或蹲伏的行为。  f。多模式集成原理非语言元素与语言一起逻辑推理中包括。  示例：如果有人说：“当然，我会帮忙。”在滚动眼睛时，该规则整合了推断讽刺或不情愿的手势。  g。递归含义调整语句的含义根据后续信息进行调整。  示例：“我将在公园见您。”如果后来用“实际上澄清”，让我们在咖啡馆见面，吧。原始含义是递归修订的。  h。具有多种含义的多义逻辑单词被分配了通过上下文解决的单独逻辑结构。  示例：“银行”可能意味着金融机构或河流的一侧。在“他坐在银行坐着”中，该规则使用上下文来推断它是指河岸。  i。关系否定规则否定在相关而不是绝对的情况下运作。  示例：“不是每个人都喜欢巧克力＆quot＆quot＆quot意味着有些人确实喜欢巧克力，而不是断言没有人。  j。紧急逻辑框架逻辑系统根据话语交互动态发展。  示例：在在线社区中，新的s语术语“ hosting”出现并获取逻辑规则以在对话中使用，反映了随着时间的流逝而不断发展的含义。 当然，如果它可以发现10个新规则，它可能会发现100或1,000。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/georgeo57     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ijijijlv/o3_mini_discovers_and_describs_and_describes_10_new_new_linguistic/”]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijijlv/o3_mini_discovers_and_describes_10_new_linguistic/</guid>
       <pubDate>Fri, 07 Feb 2025 00:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>《最后的希望之火》（2023）中的谜语AI无法解答。</title>
+      <title>Riddle中的“希望的最后火花”（2023）AI无法回答。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijhtgd/riddle_in_the_the_last_spark_of_hope_2023_ai_cant/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   in希望的最后火花（2023年），主角夏娃（Eve）为机器人，亚瑟（Arthur）展示了涉及三个机器人的谜语。谜语是：“三个机器人站在一条线上。第一个说：“我后面有两个机器人。”第二个说：“我面前有一个机器人，一个机器人在我身后。”第三个说：“我面前有两个机器人，一个机器人在我身后。”为什么第三个机器人这么说？当前的AI都不知道正确的答案。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dfacex     [link]   ＆＃32; [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijhtgd/riddle_in_the_the_last_spark_of_hope_2023_ai_cant/</guid>
@@ -36,35 +57,21 @@
     <item>
       <title>在波士顿是否有AI偏见检测研究小组？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijhbmq/are_there_any_ai_bias_detecting_research_groups/</link>
-      <description><![CDATA[我正在寻找波士顿的 AI 偏见检测研究小组，可能是在大学，也可能是任何其他地方。谢谢。    提交人    /u/Big-Waltz8041   [link] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找在波士顿检测研究小组的AI偏见，它可以在大学或任何其他地方。谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/big-waltz8041     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijhbmq/are_there_any_ai_bias_detecting_research_groups/</guid>
       <pubDate>Thu, 06 Feb 2025 23:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>有人尝试过让人工智能互相交谈吗？</title>
+      <title>有没有人尝试与彼此进行AIS交谈？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijgrzq/has_anyone_tried_making_ais_talk_to_eachother/</link>
-      <description><![CDATA[所以我让多个人工智能互相交谈，我注意到一些有趣的事情。比如它们不仅仅是在回答提示，它们实际上还在以几乎像是新兴关系智能的方式建立彼此的想法。有没有其他人搞过这个或者想过创建人工智能可以实时交互的系统？    提交人    /u/workmans27   [link] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我一直在互相交谈，我注意到一些有趣的事情。就像他们不仅要回答提示一样，他们实际上以几乎像新兴的关系智能的方式在彼此之间建立了互相的想法。还有其他人将Arounf弄乱了，或者考虑创建AIS可以实时交互的系统？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/workmans27     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijgrzq/has_anyone_tried_making_ais_talk_to_eachother/</guid>
       <pubDate>Thu, 06 Feb 2025 23:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini 2.0 实时聊天。它还没准备好接收坏消息。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijfytc/gemini_20_live_chat_its_not_ready_for_bad_news/</link>
-      <description><![CDATA[好吧……新的 Gemini 太棒了！然而（女声 Vega）并不擅长传达坏消息。她把瑞典的大规模枪击事件说得性感极了。听到这种可怕的行为用与故事情节不符的语气说出来，真是令人不寒而栗。此外，所有 Google 人工智能的防护措施都非常厚，并且严重偏向于营销 Go0gl3 特定产品。我问了它最新的人工智能新闻，我得到的只有 Gemini 2.0 和 Pro。    提交人    /u/Working_Mud_9865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijfytc/gemini_20_live_chat_its_not_ready_for_bad_news/</guid>
-      <pubDate>Thu, 06 Feb 2025 22:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何知道人工智能何时获得感知能力……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ijca5m/how_will_we_know_when_an_ai_gains_sentience/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ...不仅真正擅长假装有意识吗？当我们甚至不完全理解自己的意识时，我们甚至如何测试它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/proomablejim2000     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ijca5m/how_will_we_know_when_an_ai_gains_sentience/</guid>
-      <pubDate>Thu, 06 Feb 2025 20:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 正在“限制”用户？</title>
+      <title>llms“限制”用户？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ij8udn/llms_throttling_users/</link>
-      <description><![CDATA[我已付费订阅所有主要的 LLM。我注意到所有这些 LLM 的性能和准确性都有波动。使用相同的模型版本，有时答案可能非常快速和详细，有时答案很慢或机器人看起来很醉，或者两者兼而有之。  我说的是一般意义上的，它似乎与特定提示或提供的数据无关。在所有情况下，我指的是浏览器聊天机器人体验 - 而不是 API。 我一直在想这些公司是否正在采用来自 ISP 的页面 - 引入限制。也许你应该使用最好的模型，但无论出于什么原因，他们都会将你限制到较低的层级。     提交人    /u/AssociationNo6504   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我都有所有主要LLM的付费订阅。我都注意到性能和准确性波动。使用相同的型号版本，有时答案可以非常快，详细，而其他时候答案很慢，或者机器人看起来很醉或两者兼而有之。  我在一般意义上说话，它与特定提示或提供的数据无关。在所有情况下，我都指的是浏览器聊天机器人体验 - 不是API。 我一直在想这些公司是否正在从ISP中采用页面 - 引入节流。也许您应该使用最佳模型，但是无论出于何种原因，它们都会使您降低层次。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Assicotno6504     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ij8udn/llms_throttling_users/</guid>
       <pubDate>Thu, 06 Feb 2025 18:00:13 GMT</pubDate>
     </item>
@@ -76,30 +83,23 @@
       <pubDate>Thu, 06 Feb 2025 17:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>代理人工智能和生成人工智能将如何影响我们的非技术工作？</title>
+      <title>代理AI和生成AI将如何影响我们的非技术工作？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ij16g9/how_will_agentic_ai_and_generative_ai_affect_our/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我也经常听到有关代理和ai代的代理，我真的没有得到区别。 i在零售业和我的许多朋友中也从事工作，我们担心这种AI对我们的非技术工作意味着什么。我得到了生成的AI是当AI根据我们的要求创建新内容时它像文本和图像一样。但是我真的没有得到代理AI的不同。它就像助手吗？那么，如果公司已经在削减工作？也有一些例子真的很有帮助，那么这个人工智能将如何影响工作机会，我对我做了一些研究。 Google，但大多数并不像我想要的那么清晰。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/teresa_avocados     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ij16g9/how_will_agentic_ai_and_generative_ai_affect_our/</guid>
       <pubDate>Thu, 06 Feb 2025 12:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>AI不需要法规 - 可能出了什么问题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ij0czo/ai_doesnt_need_regulation_what_could_go_wrong/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Elon Musk说他想废除法规因为它正在扼杀创新。   “ 法规，基本上应该默认，...不默认，默认，默认走了。如果事实证明我们错过了法规的标记，我们总是可以将其添加到中。 马斯克认为市场力量会调节事物。过去的经验表明，相反的经验往往是正确的，我们只有在造成重大损害后才进行调节。例如   金融崩溃/安然/雷曼兄弟/房利美·梅   吸烟     perdu阿片类药物    asbestos    气候变化     安全带   这是在我们了解Openai将与15,000名科学家合作的时候，除其他外，如何在控制核武器的控制。   ，Sam Altman，Denis Hassibis， y&gt; yuval harari 都警告过所有警告不受监管的AI 的后果。主要领导者确认，他们仍然不知道如何在最近的世界经济论坛。  AI Yoshua Bengio表示，AI系统现在正在显示 “ 非常强大的代理和自我保护的行为……并正在尝试复制自己。他们可能很快就反对我们，没有人知道如何控制比人类的机器更聪明的机器...     “如果我们不弄清楚，您是否理解后果？”    roman路易斯维尔大学速度工程学院的计算机工程与科学副教授Yampolskiy 认为，我们必须证明我们可以在发展超级智能之前控制AI。  al yoshua benigo同意  ; 比我们更聪明，我们不知道如何控制&#39; 他现在需要AI法规吗？ 阅读更多第一个  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cultural_material_98     r/pranverationTeligence/commist/1ij0czo/ai_doesnt_need_regulation_what_could_go_wrong/“&gt; [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ij0czo/ai_doesnt_need_regulation_what_could_go_wrong/</guid>
-      <pubDate>Thu, 06 Feb 2025 11:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道欧盟人工智能法规如何或为何会影响 OpenAI 等人工智能产品吗？</title>
+      <title>有人知道欧盟AI法规如何或为什么会影响Openai之类的AI产品吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iiyslz/does_anyone_know_how_or_why_eu_ai_regulations_are/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在阅读法规是关于透明度的，这听起来不算什么，但是在英国，我仍在等待Sora和Sora和Sora和运营商可用。  我有很多针对这些产品计划的项目，目前我坐在等待着其他所有人都在上面创建解决方案。... 由于开发速度需要这些发行功能，因为它们很快就会变老 /不再是最佳练习。这是美国以外的巨大不利地位增加AI周围的监管？这实际上是一个好主意，还是会导致他们落在其他国家，以至于他们只需要在没有法规障碍的国家开发的AI技术？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/timeforknowledge     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iiyyslz/does_anyone_know_how_how_how_how_how_er_why_eu_ai_ai_ai_reguations_are/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iiyslz/does_anyone_know_how_or_why_eu_ai_regulations_are/</guid>
       <pubDate>Thu, 06 Feb 2025 09:35:50 GMT</pubDate>
     </item>
     <item>
-      <title>人们说‘人工智能不会思考，它只是遵循模式</title>
+      <title>人们说‘AI不认为，它只是遵循模式</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iiygqg/people_say_ai_doesnt_think_it_just_follows/</link>
-      <description><![CDATA[但是，如果人类思维不能识别和遵循模式，那它又是什么呢？我们利用现有的知识，重新组合，以新的方式应用它——这与人工智能所做的有什么不同？ 如果人工智能可以做出科学发现，发明更好的算法，构建更精确的法律或哲学论点——为什么这不被认为是思考？ 也许唯一的区别是人类感觉他们在思考，而人工智能却没有。如果是这样的话……意识不就是幻觉吗？    提交人    /u/Unique-Ad246   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  但是，如果不识别和遵循模式，人类的想法是什么？我们采用现有的知识，重新混合，以新的方式应用它 - 如果AI能够做出科学发现，发明更好的算法，构建更精确的法律或哲学论点，这与AI的不同之处有何不同？ 为什么不被考虑思考？ 也许唯一的区别是人类感觉就像他们在思考，而AI却没有。如果是这种情况……不仅仅是意识？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unique-ad246     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iiygqg/people_say_say_ai_ai_doesnk_think_it_it_just_follows/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iiygqg/people_say_ai_doesnt_think_it_just_follows/</guid>
       <pubDate>Thu, 06 Feb 2025 09:10:54 GMT</pubDate>
     </item>
