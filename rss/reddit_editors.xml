@@ -4,7 +4,42 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Mon, 10 Feb 2025 09:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 15:25:10 GMT</lastBuildDate>
+    <item>
+      <title>为什么我的声音和图片不同步？</title>
+      <link>https://www.reddit.com/r/editors/comments/1im7qlc/why_wont_my_sound_and_picture_sync/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我是导演，编辑了自己的5分钟短的短短16毫米胶卷。我是一名初学者编辑 - 我想接受这一点，以便我可以学习（我是一个不学校的人），所以...我非常感谢您在这里的善良和慷慨的建议！ &lt; &lt; p&gt;我的声音和视频文件并不同步，尽管我手动将其与拍手板搭配在一起。  到目前为止我检查过的东西：   - 我的首映项目是24fps，我的视频素材也是如此在视频上匹配音轨上的标签。  我知道这是非常基本的 - 但是请帮忙，我在黑暗中谷歌搜索。 谢谢！   &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/uss swimming-piccolo-857       [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1im7qlc/why_wont_my_sound_and_picture_sync/</guid>
+      <pubDate>Mon, 10 Feb 2025 14:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>在25fps Avid项目中，最佳的帧速率素材工作流程？</title>
+      <link>https://www.reddit.com/r/editors/comments/1im7n0u/best_workflow_for_mixed_frame_rate_footage_in_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hiya， 我正在从事 avid Media 的项目，其中基本帧速率IS  25fps ，但是我收到了 50fps 的镜头混合。我想在对媒体管理进行转编码和承诺之前澄清最佳的工作流程。 主要问题： 1️⃣它将删除音频？，还是有更好的方法来处理帧速率调整，同时保持声音完好无损？ 2️⃣使用速度坡道技术会更好还是解决的速度扭曲）而不是转换帧速率？在上/向上加速时，哪一个给出了最自然的运动？ 3️⃣转码前最好的做法是什么？您是否：  首先链接录像→调整源设置中的帧速率→然后对DNXHD/dnxhr？ 转码或首先转码并稍后调整？  我想避免将问题重新链接，并确保任何速度调整看起来都尽可能自然。我非常感谢建议！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/upaine-witness329     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1im7n0u/best_workflow_for_mixed_frame_rate_footage_in_a/</guid>
+      <pubDate>Mon, 10 Feb 2025 14:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davinci代理生成器和狂热的托管媒体</title>
+      <link>https://www.reddit.com/r/editors/comments/1im6fo5/davinci_proxy_generator_and_avid_managed_media/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hiya， 我在邮政局中启动新工作，他们提到使用 davinci proxy Generator 用于代理。从我的理解来看，如果您主要是在avid中工作，在avid中创建在dnxhd/dnxhr中创建托管媒体是否更有意义？ 我可能会缺少工作流程中的某些东西 - 也许这是在首映和狂热上工作时的好处？ Davinci代理生成器是否在狂热的管道中提供了明显的优势，还是主要对多软件工作流程有用？ 很想听听您的想法！ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/upaine-witness329     link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1im6fo5/davinci_proxy_generator_and_avid_managed_media/</guid>
+      <pubDate>Mon, 10 Feb 2025 13:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在LucidLink上与Adobe Productions挣扎</title>
+      <link>https://www.reddit.com/r/editors/comments/1im6enq/struggling_with_adobe_productions_on_lucidlink/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好其他具有类似设置的人。这是我们工作的方式：  - 我们所有的录像都在外部硬盘上。这些驱动器具有相同的路径名，并且具有相同的名称，它们基本相同。  - 我们的Adobe Productions文件夹在LucidLink上启用了Project锁定，因此我们可以在同一生产文件夹上工作。  - 某些资产，一些资产，，，，，一些资产像音乐和声音效果一样，也在LucidLink上。 我的主要问题是制作过程中的性能缓慢，尤其是在加载较大的项目或重复/移动序列时，可能需要20分钟到一个小时。加载以擦洗或播放时间表的方式出现（尽管并非总是如此）。  Lucidlink支持使用固定建议，如果所有镜头都在Lucidlink中，这是有道理的。但是，由于我们的项目文件不断更新，因此我不确定固定会如何影响此工作流程。 是否有人尝试过将项目文件固定在类似的设置中？任何提示或见解都将不胜感激！ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/callolds     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1im6enq/struggling_with_adobe_productions_on_lucidlink/</guid>
+      <pubDate>Mon, 10 Feb 2025 13:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问专业人士 - 每周 -  2025年2月10日星期一 - 没有愚蠢的问题！如果您不这样做以谋生，您就是在这里发布的！规则 +职业问题？</title>
+      <link>https://www.reddit.com/r/editors/comments/1im2p47/ask_a_pro_weekly_monday_mon_feb_10_2025_no_stupid/</link>
+      <description><![CDATA[在后期制作的专业人员。 每周，我们都会为任何有关编辑或后期制作问题的人开放讨论，**无论您的职业或专业状况如何。**   再次，如果您是新来的，请知道此子雷迪特是针对专业人士的。我们的mod团队在这里修剪subreddit并发布新手级别的问题。  如果不确定自己属于哪种类别？这是您要寻找的线程。 关键规则：彼此相处（和患者）。没有自我促进。没有盗版。 其他规则在这里找到。 在此领域工作，这是您的问题应该去 这个线程的公平游戏是什么样的？   学校值得吗？ 职业问题？ 您应该为哪个编辑付费？ “ https://www.reddit.com/r/videoediting&quot;&gt; r/videoediting ） 考虑一个方面的喧嚣？ 我应该设置什么价格在？ （请参阅Wiki） 从学校毕业？并且需要入门建议？   有一个Wiki为此子。随时建议您需要的页面。 我们有一个姐姐subreddit  r /视频编辑。如果您不以此为基础，这是理想的选择 - 但是这个线程适合所有人！ 如果您正在考虑闯入：  如果您正在寻找作为侧面忙碌的开始，现在行业很粗糙。    ，利用水管工工具并修复，它非常容易利用您自己的水槽并不能使您成为水管工。您100％应该为其他人工作（理想情况下是实习生）。       #no没有所有工作的神话般的神话般的地方。    我建立了两个链接，因为您应该在尝试这样的事情之前真正搜索subreddit并了解行业。      a     &gt;从去年开始，人们对人们的脑海有多大容易。       和    please请参阅我们的wiki  有关网络等其他详细信息。      &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/automoderator     [link]   ＆＃32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1im2p47/ask_a_pro_weekly_monday_mon_feb_10_2025_no_stupid/</guid>
+      <pubDate>Mon, 10 Feb 2025 10:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>有薪实习吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1ilws8y/any_paid_internships/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿ya’ll  不幸的是，我被解雇了！祝福和诅咒，因为我需要找到一些作品，但可以回到我想念的更多创意和编辑中：） 在这句话中，我所在地区有很多助手编辑演出。很长一段时间以来，我一直是音乐视频和简短媒体的编辑（主要是在Premiere Pro中），但在高端脚本或纪录片项目及其特定需求方面没有那么多经验。我不是新手，我熟悉摄入，转码，代理工作流程，同步媒体和元数据跟踪，但我生锈了。 有什么好的资源来帮助我做一些练习吗？我想看看劳伦斯·乔丹（Lawrence Jordan）的“工作流程硕士”课程，但这很昂贵……感觉就像我宁愿将来挂在现金上。想知道你们是否都知道其他任何地方，还是我可以使用任何练习项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thetermite     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1il1sr7/assistant_editing_courses_resources/</guid>
       <pubDate>Sun, 09 Feb 2025 00:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我仍在经营索诺玛（14.7.3） - 就首映而言，去红杉15.3安全吗？ （M1 Max MacBook Pro）</title>
-      <link>https://www.reddit.com/r/editors/comments/1iky7er/im_still_running_sonoma_1473_is_it_safe_to_go_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题中的问题。   https://i.imgur.com/szafuei.gif   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/dan_zg     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/editors/comments/comments/1iky7er/im_still_still_still_still_sonoma_sonoma_1473_is_it_is_it_safe_safe_to_go_go_to/]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iky7er/im_still_running_sonoma_1473_is_it_safe_to_go_to/</guid>
-      <pubDate>Sat, 08 Feb 2025 21:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将与金属乐队一起巡回演出6周，每场演出为他们编辑社交活动。提示/建议？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ikwovv/about_to_go_on_tour_with_a_metal_band_for_6_weeks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  与kublai khan一起巡回演出，适合国王＆amp; Killswitch参与了6周，我将成为他们的摄影师/编辑。希望这能变成长期的事物，我想给他们留下最好的印象，并让他们意识到我喜欢这项工作和我所做的工作。 @TVPE是我的IG，如果您想看一些我的作品，但是我想通过在此领域与其他编辑/人联系，这将有助于我一路帮助我，并使我的工作脱颖而出/对社交和社交的冗余不少添加到我的卷轴上。  谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tvpes     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ikwovv/about_to_go_on_tour_with_a_metal_band_for_6_weeks/</guid>
-      <pubDate>Sat, 08 Feb 2025 20:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>解析 - 链接音频 - 导出AAF或FCPXML在Logic Pro中进行音频编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1ikw8p2/resolve_linking_audio_exporting_aaf_or_fcpxml_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要帮助，我变得疯狂了。我无法弄清楚。  我有一个很长的话题（一个文件）视频文件和另一个来自外部录音机的音频源（也是一个文件）。我选择了它们，并按下自动同步音频 - 完美工作。我编辑了所有错误和无声的部分，现在我有了一堆剪裁和一个起点 - 很酷！  然后，我想尝试将其导出为.AAF或.FCPXML以编辑逻辑上的音频，但我显然想使用外部源。当我这样做时，逻辑可以导入某些内容，但没有波形，没有声音，所以我认为它是视频的第一个曲目（没有声音）。我无法找到一种“分离”音频的方法，所以不仅可以解决，而且要解决.aaf和.fcpxml知道音频不是频道的视频之一，而是通道之一，而是频道之一？  任何人都可以帮助吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pure-city1444     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ikw8p2/resolve_linking_audio_exporting_aaf_or_fcpxml_to/</guid>
-      <pubDate>Sat, 08 Feb 2025 20:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>4K 60fps文件都是混乱的（这不是VFR，也不会修复它）</title>
-      <link>https://www.reddit.com/r/editors/comments/1iktis5/4k_60fps_files_are_all_sorts_of_messed_up_and_its/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对本录像发生的事情的最佳猜测是，存储卡/SSD不够快，无法在150比特率时记录4K 60fps。有可能吗？从我可以告诉我的客户根本没有测试他们的相机的内容...第一个文件名是C0001。  问题：文件中间缺少音频（平面波形），然后是音频重新启动的，但Lipsync关闭了。最终，音频重新同步，没有押韵或理由。有些文件根本不播放，拒绝导入，也不能使用Handbrake修复。首映不会创建代理和媒体编码器冻结，直到我强制关闭它。 任何人都将不胜感激！我尝试了使用Premiere V23，V24和V25的这些文件。  https://pcpartpicker.com/list/pvqbpv 。所有文件均为.mp4。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/tabascowolverine     [link]  ＆＃32;   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iktis5/4k_60fps_files_are_all_sorts_of_messed_up_and_its/</guid>
-      <pubDate>Sat, 08 Feb 2025 18:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>校准 /颜色分级VA面板</title>
-      <link>https://www.reddit.com/r/editors/comments/1iksevq/calibration_color_grading_va_panel/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个相对较新的电影制片人，我一直在具有VA面板而不是IPS的显示器上编辑我的电影。我开始进行一些颜色分级，并且正在阅读有关使用诸如DataColor Spyder之类的工具来校准我的屏幕以获取REC 709输出的信息。 我可以尝试使用工具来尝试校准此显示器是否可行像这样，还是没有更高端IPS监视器的绝望？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/j0zer0     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iksevq/calibration_color_grading_va_panel/</guid>
-      <pubDate>Sat, 08 Feb 2025 17:23:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
