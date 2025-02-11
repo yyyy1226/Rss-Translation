@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 11 Feb 2025 18:29:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:21:11 GMT</lastBuildDate>
+    <item>
+      <title>远程转码</title>
+      <link>https://www.reddit.com/r/editors/comments/1in9kdu/remote_transcoding/</link>
+      <description><![CDATA[有人有使用网络服务转码素材的经验吗？ 有人要求我紧急填补一名编辑的空缺，因为我正在旅行，所以我目前的机器性能不足（12GB RAM，处理 400GB 的 6k .R3D 素材，哎哟），我的解决方案是使用虚拟机进行编辑，但我仍然想将素材转码为较小的格式以加快速度。我正在查看 AWS Elemental MediaConvert，但想知道这个社区是否有任何经过测试的建议。    提交人    /u/Ja5p5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1in9kdu/remote_transcoding/</guid>
+      <pubDate>Tue, 11 Feb 2025 21:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果编辑是一门大学课程</title>
+      <link>https://www.reddit.com/r/editors/comments/1in8r53/if_editing_were_a_uni_course/</link>
+      <description><![CDATA[大家好， 我知道有很多大学教授编辑课程。我觉得它还有另一面，比如成为一个有无限耐心的良好沟通者，当客户因为某个交易员提出的观点被误解而把孩子和洗澡水一起倒掉时，保持套房内的士气高涨（不是针对我，只是感觉像是一种事情），我可以继续说下去。 我敢肯定，你们中的许多人现在甚至不想加入一个项目，因为你们已经在这个领域取得了很好的成绩，但我很好奇 - 你认为什么才是真正好的项目方面，而这个方面可能并不存在于所有的课程中？ 谢谢    提交人    /u/Turtlebucks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1in8r53/if_editing_were_a_uni_course/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:38:50 GMT</pubDate>
+    </item>
     <item>
       <title>管理媒体和项目的最佳工作流程：Avid 中的重新链接与转码？</title>
       <link>https://www.reddit.com/r/editors/comments/1in4urq/best_workflow_for_managing_media_and_projects/</link>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 10 Feb 2025 20:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>lucid link 与 studio suite 与镜像硬盘 =)</title>
-      <link>https://www.reddit.com/r/editors/comments/1imf4av/lucid_link_vs_studio_suite_vs_mirrored_hard_drives/</link>
-      <description><![CDATA[大家好！ 我正在导演/制作一部包含大约 18 TB 素材的专题纪录片（十年来各种类型的素材）。编辑团队只有 3 个人，但我们认为编辑时会有一些反复，而且我们分布在 3 个地方。有人向我推荐了 lucid link，我也在考虑 studio suite。我们的独立预算非常紧张，所以 LL 相当昂贵（似乎 studio suite 便宜一点）。我一直在没有代理的情况下工作，因为我的电脑可以很好地处理 4k 素材，但我意识到对于完整的编辑，我们需要使用代理。 我想我的问题是，LL/SS 软件是否值得花费，而不是我们只是确保我们的硬盘镜像并且我们共享项目文件？我知道如果多人同时工作，这可能会变得复杂。我一直在 sub 上阅读有关 LL 的信息，但很想听到更多！谢谢！     由    /u/annac11 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1imf4av/lucid_link_vs_studio_suite_vs_mirrored_hard_drives/</guid>
-      <pubDate>Mon, 10 Feb 2025 19:46:38 GMT</pubDate>
-    </item>
-    <item>
       <title>针对新 [Apple] 电脑的编辑和动态 GFX 的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1imevw9/advice_for_new_apple_computer_for_editing_and/</link>
       <description><![CDATA[大家好， 我正在寻找一台新的、更快的电脑，用于编辑和动态图形工作。我目前正在使用 2021 MacBook 16GB（带两个戴尔显示器）进行编辑，当我必须同时在 Pr 和 AE 中编辑时，它的运行速度非常慢。不幸的是，我喝了 Apple Kool Aid，所以我希望我的下一台电脑留在 Apple 系列中。我对笔记本电脑或台式机设置都持开放态度，绝对最高的预算是 3500 美元。有人对我应该从哪里开始搜索有什么建议吗？你对 Mac Studio 有什么不满吗？后悔选择笔记本电脑而不是台式机等？谢谢！    提交人    /u/yoyomari   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1imevw9/advice_for_new_apple_computer_for_editing_and/</guid>
       <pubDate>Mon, 10 Feb 2025 19:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关视频编辑 NAS 的建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1imdfpl/advice_needed_for_video_editing_nas/</link>
-      <description><![CDATA[您好， 我们公司最近为我们的编辑人员购买了一台 NAS 进行编辑，我们目前有大约 10 台机器，我们经常使用这些机器来编辑视频。我是编辑人员之一，与 IT 部门保持密切联系，试图找到解决方案。 目前我们使用 Synology RS2423RP+ NAS 机架，配有 7 个 Seagate 8.9cm (3.5&quot;) 12TB SATA3 IronWolf Pro 7200 HDD。正在使用 RAID5。 我们所有的编辑人员都在 NAS 上直接加载了一个 1gig 以太网端口，它使用 10gig 交换机。 我们的问题是性能，我们对所有计算机进行了压力测试，网络没有受到影响。我们还尝试检查 HDD 是否太慢，但其他一些用户似乎可以处理。 有没有什么方法可以改进我们的 NAS，以便达到可以完全编辑的速度？我尝试查看一些有关 NAS 的 Linus Tech Tips 视频，但找不到任何有趣的东西。 非常感谢！    提交人    /u/Prior_Actuary5071   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1imdfpl/advice_needed_for_video_editing_nas/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:40:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
