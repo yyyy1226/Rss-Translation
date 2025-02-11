@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:30:23 GMT</lastBuildDate>
+    <item>
+      <title>免费且开源的 Google 地图替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</link>
+      <description><![CDATA[🗺️ 由于许多人对谷歌感到愤怒并要求提供谷歌地图的替代品，这里有一些免费的&amp;开源选项： 📱 应用程序 - osmand.net - organicmaps.app 🌐 网络 - facilmap.org - mapcarta.com - openstreetmap.org 真实故事： 最近我不得不使用谷歌地图一次，我想让它带我去海滩；然而，它决定直接带我进入一个军事检查站——在枪口下🪖！ 谢谢，谷歌......😅 当我指向谷歌地图时，他们理解地点点头并让我走了;) 谷歌只是认为抄近路穿过完全禁区的军事区是个好主意。    提交人    /u/MadeInDex-org   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助/指南来使我的流媒体软件‘原型’进入开源就绪状态。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>开源黑客马拉松</title>
       <link>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</link>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 11 Feb 2025 13:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 美元以上 - Konstantin Vinogradov</title>
+      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 多美元 - Konstantin Vinogradov</title>
       <link>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</link>
       <description><![CDATA[        由   提交  /u/yaph   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[Notion 试图在一个空间内塞入大量应用，而且还用用户的私人数据来训练 AI，这让我很不爽，我真的不喜欢这样。 所以我花了几天时间创建了自己的应用：Memory。 这是一款自托管的笔记应用，只做一件事，而且做得很好。你可以在文件夹下组织笔记，然后按照你想要的方式编辑它们，唯一的限制就是你的想象力。 它只用 Python 和纯 Javascript 编写。 https://github.com/yousboot/Memory    提交人    /u/Wrong_Swimming_9158   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</guid>
       <pubDate>Mon, 10 Feb 2025 18:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有健身/健康追踪功能的开源智能手表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</link>
-      <description><![CDATA[正在寻找一款具有健身/健康监测功能的开源智能手表，然后偶然发现了 AirFrame 项目，该项目本应是一款具有健身/健康追踪和应用程序功能的开源智能手表，但大约 2 年没有更新了。 想知道是否还有类似的项目活跃，或者有没有关于自己制作的指南/提示？    提交人    /u/DemonicXz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个日志/日记应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
-      <description><![CDATA[我正在寻找适用于 Android 并且可能也适用于 Windows 的推荐，我正在寻找的功能是应用程序内的多个日志/日记，并且能够附加照片和潜在视频，以及本地备份和恢复选项，我希望有人有一些好的建议，我一直在使用一个名为 Simple Journal 的应用程序，但是备份和恢复功能有些问题    提交人    /u/joeyroxas   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
