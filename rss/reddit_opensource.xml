@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 03:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 09:24:35 GMT</lastBuildDate>
+    <item>
+      <title>名称 -  AI驱动的中文生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imsoy0/namesage_aipowered_chinese_name_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  现代的网络应用程序，为非本地扬声器生成文化上适合的中文名称，由AI技术提供动力，并具有Neobrutalism的设计风格。  预览： https://namesage.hellokaton.me      github： https://github.com/hellokaton/namesage     键       Li&gt;  AI驱动的一代：根据个人特征和偏好创建中文名称  文化背景：提供详细的说明名称含义和文化意义的解释&lt; /li&gt;  字符分析：包括每个字符的中风计数和解释   发音指南：为准确的发音提供Pinyin支持  多个建议：生成选择的多个名称选项  跨文化适应：适应适合文化偏好的名称 &lt; li&gt; 个人故事：将个人故事和含义纳入名称建议  技术堆栈      框架：Next.js 15（App Router）  语言：typescript    styling ：  tailwind CSS   Neobrutalism Design System      UI组件：   shadcn ui   radix ui     图标：Lucide React   状态管理：React Hooks    AI集成：DeepSeek API    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/opartdrop5435     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imsoy0/namesage_aipowered_chinese_name_generator/</guid>
+      <pubDate>Tue, 11 Feb 2025 06:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sweetnotes-简单，安全和秘密的笔记及时分享</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我一直在研究SweetNotes，该网站可以让您向您的朋友发送秘密笔记，稍后会在一个您选择的时间！  🌟最好的部分？这些笔记已被牢固地加密以使它们真正私密！💌✨ 情人在拐角处，准备发送秘密，或者只是给朋友写笔记？  在这里尝试： https://sweetnotes.art/    阅读有关该项目的更多信息，加密的工作原理： https://github.com/deepto98/sweetnotes    反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/no-dream-4957      [link]   32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</guid>
+      <pubDate>Tue, 11 Feb 2025 06:26:48 GMT</pubDate>
+    </item>
     <item>
       <title>制作了可自定义的仪表板应用（Bentoboard） - 如果有人愿意使用它，将其释放为开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我需要一个可以测试的项目，以添加到我的投资组合中。请！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/no-ideal-6086      link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilwde5/open_source_project_to_test_on/</guid>
       <pubDate>Mon, 10 Feb 2025 03:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>致开发商的情书</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilwbyg/love_letter_to_developers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  知道如何编码的最酷的事情之一就是它使您可以自由地在太阳下建造任何东西。不是的，我并不是说您需要自己从头开始构建一切，而是知道它的机制是如何使您有自由和勇气来承担一个比您组装得更聪明的项目的自由和勇气，将其调整为您或您的客户需要并立即启动并运行它，节省了您的时间，准备好客户的业务，可能会从中赚很多钱，而不必担心该项目在长期以来就会崩溃运行，因为它很可能是在您之前的许多其他开发人员那里进行了测试。就我而言，我是Laravel开发人员，即使我知道那里有项目，我还是陷入了试图重塑轮子的开发人员陷阱。然后，我是Laravel Daily最好的开源包之一，它是由Laravel文章构建的，我就像为什么我不只是使用其中一个项目。只要有效，客户就不会在乎我用来构建该项目的内容。因此，这只是我提醒我的Devs的方式，这些Dev只使用被证明是有效的东西，只有在您的客户需要的空气紧密的情况下才从头开始写东西。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kristitanellari     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilwbyg/love_letter_to_developers/</guid>
-      <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>由Swift/Swiftui构建的Ollama开源Mac客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近使用Swift创建了一个新的Mac应用。去年，我发布了Ollama的开源iPhone客户端（用于运行LLMS的程序），使用Flutter，称为Myollama。我也计划制作Mac版本，但是当我尝试使用Flutter时，设计并不是很MAC，所以我将其放在一边。 今年年初，我决定从使用Swift/swiftui划痕。此应用程序可让您使用Ollama在Mac上的DeepSeek（例如DeepSeek）进行安装和聊天。功能包括：   - 上下文对话   - 保存和搜索聊天历史记录   - 自定义系统提示   - 以及更多...  这是完全开源的！在此处查看代码：   https://github.com/bipark/bipark/mac_ollama_client      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/billythepark     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
-      <pubDate>Mon, 10 Feb 2025 01:17:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
