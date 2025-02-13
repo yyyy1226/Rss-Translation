@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:24:25 GMT</lastBuildDate>
+    <item>
+      <title>10 亿个分类</title>
+      <link>https://huggingface.co/blog/billion-classifications</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/billion-classifications</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从块到块：加速 Hub 上的上传和下载</title>
       <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
@@ -20,21 +27,21 @@
       <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放的阿拉伯LLM排行榜2</title>
+      <title>开放阿拉伯语法学硕士排行榜 2</title>
       <link>https://huggingface.co/blog/leaderboard-arabic-v2</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-arabic-v2</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开源深研究 - 释放我们的搜索代理商</title>
+      <title>开源 DeepResearch – 释放我们的搜索代理</title>
       <link>https://huggingface.co/blog/open-deep-research</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-deep-research</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>π0和π0快速：通用机器人控制的视觉语言操作模型</title>
+      <title>π0 和 π0-FAST：用于通用机器人控制的视觉-语言-动作模型</title>
       <link>https://huggingface.co/blog/pi0</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/pi0</guid>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI新闻通讯的AI工具 - 第1期</title>
+      <title>艺术通讯的 AI 工具 - 第 1 期</title>
       <link>https://huggingface.co/blog/ai-art-newsletter-jan-25</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ai-art-newsletter-jan-25</guid>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>拥抱面孔和友谊伙伴在枢纽上进行增压模型部署</title>
+      <title>Hugging Face 与 FriendliAI 合作，增强 Hub 上的模型部署</title>
       <link>https://huggingface.co/blog/friendliai-partnership</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/friendliai-partnership</guid>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Timm❤️变形金刚：使用任何与变压器的Timm模型</title>
-      <link>https://huggingface.co/blog/timm-transformers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/timm-transformers</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
