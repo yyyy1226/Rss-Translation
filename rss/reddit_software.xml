@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 13 Feb 2025 15:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 18:31:41 GMT</lastBuildDate>
+    <item>
+      <title>监控内部温度</title>
+      <link>https://www.reddit.com/r/software/comments/1ion2p1/monitoring_internal_temps/</link>
+      <description><![CDATA[基本程序，可以监控内部温度，并在性能可能下降或零件可能开始损坏时发出警告。我有时会忘记气流，它会非常有用。    提交人    /u/SDG2008   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ion2p1/monitoring_internal_temps/</guid>
+      <pubDate>Thu, 13 Feb 2025 16:32:36 GMT</pubDate>
+    </item>
     <item>
       <title>SwatchKeep Mac 版</title>
       <link>https://www.reddit.com/r/software/comments/1iol484/swatchkeep_for_mac/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1intluo/git_clone_depth_2_is_vastly_better_than_depth_1/</guid>
       <pubDate>Wed, 12 Feb 2025 15:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除了一个视频，有什么办法可以恢复吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1inr9ji/deleted_a_video_is_there_any_way_i_can_get_it_back/</link>
-      <description><![CDATA[我刚刚删除了一个视频，里面还有一堆我不需要的视频。它说这个视频太大，无法发送到回收站，所以它将被永久删除...我意识到的时候已经太晚了。有什么办法可以恢复它吗？    提交人    /u/Georgiabx21   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inr9ji/deleted_a_video_is_there_any_way_i_can_get_it_back/</guid>
-      <pubDate>Wed, 12 Feb 2025 13:52:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

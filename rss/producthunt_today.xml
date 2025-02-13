@@ -4,9 +4,9 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Feb 2025 15:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 18:32:18 GMT</lastBuildDate>
     <item>
-      <title>购物+博览会</title>
+      <title>商店+博览会</title>
       <link>https://www.producthunt.com/posts/bolt-expo</link>
       <description><![CDATA[
 无需编写任何代码即可将您的想法转化为移动应用程序
@@ -90,8 +90,8 @@
       <pubDate>Wed, 12 Feb 2025 10:37:27 GMT</pubDate>
     </item>
     <item>
-      <title>可爱的视觉编辑（早期访问）</title>
-      <link>https://www.producthunt.com/posts/lovable-visual-edits-early-access</link>
+      <title>可爱的视觉编辑</title>
+      <link>https://www.producthunt.com/posts/lovable-visual-edits</link>
       <description><![CDATA[
 更快、更精确的编辑
 
@@ -100,7 +100,7 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lovable-visual-edits-early-access</guid>
+      <guid>https://www.producthunt.com/posts/lovable-visual-edits</guid>
       <pubDate>Tue, 11 Feb 2025 14:11:42 GMT</pubDate>
     </item>
     <item>
@@ -160,18 +160,32 @@
       <pubDate>Tue, 11 Feb 2025 00:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>Roamr 好友</title>
-      <link>https://www.producthunt.com/posts/roamr-for-friends</link>
+      <title>Rivian 商用货车</title>
+      <link>https://www.producthunt.com/posts/rivian-commercial-van</link>
       <description><![CDATA[
-出差期间与朋友同住还能获得报酬
+我们的电动车队车辆和商用货车
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/roamr-for-friends</guid>
-      <pubDate>Mon, 10 Feb 2025 22:13:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/rivian-commercial-van</guid>
+      <pubDate>Mon, 10 Feb 2025 22:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>视觉代理</title>
+      <link>https://www.producthunt.com/posts/visionagent</link>
+      <description><![CDATA[
+推理驱动的代理对象检测
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/visionagent</guid>
+      <pubDate>Mon, 10 Feb 2025 04:33:28 GMT</pubDate>
     </item>
     <item>
       <title>反馈流</title>
@@ -188,21 +202,7 @@ AI 面试：比调查更深入，比 1:1 聊天更快
       <pubDate>Mon, 10 Feb 2025 04:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>阿里亚德涅</title>
-      <link>https://www.producthunt.com/posts/ariadna</link>
-      <description><![CDATA[
-AI 人才代理为所有人提供精英职业支持
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ariadna</guid>
-      <pubDate>Thu, 06 Feb 2025 08:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>结壳日期</title>
+      <title>结痂的</title>
       <link>https://www.producthunt.com/posts/crustdata-3</link>
       <description><![CDATA[
 通过 API 和 webhook 获取实时人员和公司数据
