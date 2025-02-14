@@ -4,13 +4,32 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Fri, 14 Feb 2025 18:30:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 21:21:15 GMT</lastBuildDate>
     <item>
       <title>深层 - 建立没有CMS的内容驱动的站点</title>
       <link>https://feed.indiehackers.world/post/1ec439e520</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[ deepdish是一个下一个框架，它使您可以在没有传统的CMS的情况下构建内容驱动的站点。您可以直接在页面上管理内容。您可以通过编写简单的反应组件来完成所有这些。目前，我们提供了一套排版组件，但正在努力提高更多功能。
+我们希望使开发商和营销人员的生活更加轻松。
+我们很乐意在产品的这一早期阶段获得一些反馈。在 https://www.deepdish.app 上查看我们。如果这听起来很酷，您可以加入候补名单。
+欢呼！
+    discord indiehackers chat    ads 在这里 ]]></description>
       <guid>https://feed.indiehackers.world/post/1ec439e520</guid>
       <pubDate>Fri, 14 Feb 2025 04:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beatoven AI刚刚在产品Hunt上推出！ 🎶</title>
+      <link>https://feed.indiehackers.world/post/26b82a9be2</link>
+      <description><![CDATA[ Beatoven AI将简单提示变成了您内容的令人惊叹的背景音乐 -  100％免版税。由全球真实音乐家的爱（和数据）建立。 
+这就是创造者喜欢它的原因：🎼 
+📈由15m+创作者使用 
+🎹无需音乐专业知识！🎚可自定义的情绪＆amp;流派 
+🎵免版税＆amp;在道德上采购 
+🎧文字到音乐，视频到音乐＆amp;更多
+尝试一下，请在ph→ https://www.producthunt.com/posts/posts/beatoven-- ai  
+感谢您的支持！ ❤️
+    discord indiehackers chat    ads 在这里 ]]></description>
+      <guid>https://feed.indiehackers.world/post/26b82a9be2</guid>
+      <pubDate>Thu, 13 Feb 2025 08:40:58 GMT</pubDate>
     </item>
     <item>
       <title>Java Devs欢喜！这种开源秘密武器将使您的编码时间缩短了一半</title>
@@ -43,26 +62,59 @@
     <item>
       <title>使数据科学家免于重型编码：自动化的新时代</title>
       <link>https://feed.indiehackers.world/post/2c2bbe9280</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[ 来自（
+    选择代码，dt，sum（updown_flag）（按代码订购，dt）为no_up_days
+    从 （
+        选择代码，DT， 
+            cl＆gt时的情况lag（cl）覆盖（通过代码划分的代码顺序，DT）然后0
+            else 1结尾为updown_flag
+        从库存
+    ）
+）
+组成的组，no_up_days
+ 
+）
+组代码
+ 并在电子商务行业中对用户行为数据进行常见的漏斗分析：
+ 
+用e1 as（
+    选择UID，1作为step1，min（etime）作为T1
+    来自活动
+    etime＆gt; = end_date-14和etime 
+    discord indiehackers chat    ads 在这里 ]]></description>
       <guid>https://feed.indiehackers.world/post/2c2bbe9280</guid>
       <pubDate>Mon, 10 Feb 2025 03:53:51 GMT</pubDate>
     </item>
     <item>
       <title>🚀建立了一个工具，可以帮助您在压力下说话 - 想要回馈！</title>
       <link>https://feed.indiehackers.world/post/12e9422c44</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[
+ 不是为现实世界压力而设计的 - 它回答问题，提供了可靠的建议，但不是为这种利基用例设计的。
+
+我也尝试了其他工具，但是我没有找到我喜欢花时间的一种。
+🔍我从你那里需要什么
+我仍在确切弄清楚这是谁和您需要什么。家人和朋友的早期反馈塑造了最初的经历，但我愿意进行重大变化。  
+如果这听起来对您有用，我希望您能尝试一下，并告诉我缺少什么。  
+
+  ps：产品还在较早，因此可以期待一些错误。让我知道是否有任何破裂！  
+
+在
+会欣赏任何想法 - 阳性或关键。谢谢！
+    discord indiehackers chat    ads 在这里 ]]></description>
       <guid>https://feed.indiehackers.world/post/12e9422c44</guid>
       <pubDate>Sun, 09 Feb 2025 18:19:39 GMT</pubDate>
     </item>
     <item>
       <title>我应该在产品狩猎而不是工作的MVP上启动着陆页吗？</title>
       <link>https://feed.indiehackers.world/post/6bc3fd6973</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[嗨，大家
+我的着陆页（看起来很漂亮）带有铅形式和等待名单，但没有工作产品。我应该这样启动它，并希望对该想法的候补名单注册和反馈，或者等待完成MVP并启动？还是两者？非常感谢！
+    discord indiehackers chat    ads 在这里 ]]></description>
       <guid>https://feed.indiehackers.world/post/6bc3fd6973</guid>
       <pubDate>Sat, 08 Feb 2025 20:05:31 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>数据分析摊牌：比较SQL，Python和ESPROC SPL</title>
       <link>https://feed.indiehackers.world/post/dd4c31d7ce</link>
       <description><![CDATA[ arr = np.array（user_date_wether_con3days）
 day7_cont3num = np.sum（arr，axis = 0）
@@ -139,7 +191,7 @@ A3：根据第二天的登录日期来计算第二天的保留率。
     <item>
       <title>我构建了一个改进博客参与度的应用程序，现在我需要测试人员和反馈</title>
       <link>https://feed.indiehackers.world/post/3f6214dd12</link>
-      <description><![CDATA[如果您有兴趣，请发表评论或将电子邮件发送给＆＃110;＆＃x65;＆＃x76;＆＃x65;＆＃110;＆＃110;＆＃64;＆＃x62;＆＃111;＆＃111;＆＃x6f;＆＃x6f;＆＃115;＆＃115;＆＃x74;＆＃x74;＆＃x62 ;＆＃x75;＆＃x64;＆＃100;＆＃x79;＆＃46;＆＃x69;＆＃111; ，我将与您分享该应用程序。
+      <description><![CDATA[如果您有兴趣，请发表评论或给我发送电子邮件至＆＃110;＆＃x65;＆＃x76;＆＃101;＆＃x6e;＆＃x40;＆＃x40;＆＃x62;＆＃111;＆＃111;＆＃111;＆＃115;＆＃115;＆＃x74;＆＃98 ;＆＃x75;＆＃x64;＆＃x64;＆＃x79;＆＃x2e;＆＃x69;＆＃x69;＆＃x69; ，我将与您分享该应用程序。
  P.S：作为次要目标，我对新闻，博客甚至电子商务网站的建议感兴趣，他们有兴趣与我可以联系的AI生成的摘要。
 非常感谢！
     discord indiehackers chat    ads 在这里 ]]></description>
@@ -147,7 +199,7 @@ A3：根据第二天的登录日期来计算第二天的保留率。
       <pubDate>Mon, 03 Feb 2025 15:01:59 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>🔥寻找强大的工程师来帮助建造Tessarak  -  AI驱动的法律管理软件</title>
       <link>https://feed.indiehackers.world/post/caf025df4c</link>
       <description><![CDATA[✅next.js（用于Web应用程序）
 ✅aws＆amp; Auth0（用于后端Infra＆amp;身份验证）
@@ -164,7 +216,7 @@ llm apis＆amp;自定义AI管道（用于高级自动化）
       <pubDate>Fri, 31 Jan 2025 00:03:15 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>刚刚在pH上发布！</title>
       <link>https://feed.indiehackers.world/post/a957543731</link>
       <description><![CDATA[大家👋
 我刚刚启动了Rezifine，这是一个由AI驱动的简历构建器，它连接到您的LinkedIn帐户或现有简历，并使用职位描述来个性化和优化它。目的是帮助用户快速为每个工作创建一个量身定制的简历。
@@ -175,16 +227,6 @@ llm apis＆amp;自定义AI管道（用于高级自动化）
     discord indiehackers chat    ads 在这里 ]]></description>
       <guid>https://feed.indiehackers.world/post/a957543731</guid>
       <pubDate>Thu, 30 Jan 2025 21:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025年为开发人员提供的最佳AI编码工具</title>
-      <link>https://feed.indiehackers.world/post/e07fed3106</link>
-      <description><![CDATA[
- 降低错误：您可能会在使用自动错误识别，AI辅助评论和测试自动化平台（例如测试案例生成。
-
-    discord indiehackers chat    ads 在这里 ]]></description>
-      <guid>https://feed.indiehackers.world/post/e07fed3106</guid>
-      <pubDate>Thu, 30 Jan 2025 07:01:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
