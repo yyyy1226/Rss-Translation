@@ -4,7 +4,70 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 19 Feb 2025 18:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:22:28 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp预览的快速图像压缩 - 需要建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itgk3j/fast_image_compression_for_whatsapp_preview_need/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，但我需要快速压缩   170kb  whatsApp预览（因为WhatsApp似乎并没有预览图像大于该图像）。 我尝试了到目前为止：   尖锐（后端）：有效，但对于我的用例来说，太慢。压缩需要明显的时间，我需要更快的东西。  客户端压缩： 尝试 browser-image-compression ，但也很慢，尤其是对于较大的图像。  我的关键要求：  ✅用户将图像上传到 8MB    ✅需要将它们压缩到〜170KB （或任何WhatsApp接受）✅速度是优先级  - 应该感觉到 Instant 用户 问题：  是否有更快的来执行此操作的方法？   &lt; li&gt;任何特定的库或API 可以有效地实现此压缩的特定图书馆？  如果有人解决了类似的问题或有任何建议，我真的很感谢您的帮助！&lt;&lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carbon_eye     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itgk3j/fast_image_compression_for_whatsapp_preview_need/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>语言的加载（Sveltekit网站）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itg353/loading_of_languages_sveltekit_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，在这里总共菜鸟。 我已经用不同的语言本地化了我的网站（Sveltekit，sveltekit带有i18n）。而且我在index.ts（用于i18n）和内部 +layout.server.ts中添加了加载，因此翻译都在客户端和服务器端（用于爬网和SEO）上加载。 现在，其组织方式，所有页面的翻译都在每个页面上加载。目前这没什么大不了的（我想），我只有4页。 ，但是当我继续构建网站时，对我来说，加载似乎不是最合乎逻辑的事情每个页面上所有页面的所有翻译。 是否有人对设置有经验和建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kalabunga_1     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itg353/loading_of_languages_sveltekit_website/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:44:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在寻找电子邮件分析系统，但不是发送系统...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itg2ze/were_looking_for_an_email_analytics_system_but/</link>
+      <description><![CDATA[在在邮件室。我们代表包括地方议会，电力公司等几个机构发送发票。我们收到的数据已清理和分类，然后再通过一个名为PlanetPress的系统，该系统通过我们的Exchange Server编译和电子邮件将PDF编译和电子邮件发送给我们的打印机，以便可以打印和邮寄它们。  因为PlanetPress和Exchange Server处理了我们不想使用外部服务发送电子邮件的所有这些东西。我们已经做了很长时间了，并没有真正的发送问题，但是目前我们无法跟踪这些电子邮件。如果发生这种情况，我们会得到反弹，但是没有关于是否打开电子邮件等的统计数据。我们的一些客户现在要求这样的分析，因为他们习惯了从邮件黑猩猩等服务中看到它。  有人有任何建议吗？ （请注意，我不是Webdev-我们没有人在内部看这个，所以我想我想我要有人指向我们沿正确的方向。）  tia   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kovhert     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itg2ze/were_looking_for_an_email_analytics_system_but/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>从联系表中接收电子邮件的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itfi8m/best_way_to_receive_emails_from_contact_form/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我觉得这可能是我只是缺少的东西，但是我需要能够从联系表中收到电子邮件能够接收图像。我所看的任何地方都是发送电子邮件，但这对我来说确实没有用。有人对此有任何建议或经验吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/g_narlee     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itfi8m/best_way_to_receive_emails_from_contact_form/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建这样的动画？我需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itf1zb/how_can_i_create_an_animation_like_this_i_need/</link>
+      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/cold-description5846     link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itf1zb/how_can_i_create_an_animation_like_this_i_need/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Pulfrich效果（Python POC）的OCR抗验码发电机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ite2bp/ocrresistant_captcha_generator_using_pulfrich/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   基于python的生成器，可创建动画验证码，利用。文本是通过人类运动出现的，但是静态框架击败了传统的OCR算法。   演示：  https：//skaffa.gith.github.io/pulfrich-captcha /  代码：  https://github.com/skaffa/pulfrich-captcha      &lt;！ &gt;＆＃32;提交由＆＃32; /u/u/skaffa_yippa     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ite2bp/ocrresistant_captcha_generator_using_pulfrich/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSE，Gunicorn，Django＆Postgresql |如何为更多用户优化RAM使用情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itdbnt/sse_gunicorn_django_postgresql_how_can_i_optimize/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我首先托管我的django rest框架（drf）后端和postgresql数据库与gunicorn一起。但是，当我添加SSE进行实时聊天时，我惊讶地发现我的2GB服务器一次只能处理一个用户。 进行了一些研究后，我发现切换到达芙妮并使用redis进行缓存可以提供帮助，但我现在无法设置Redis。因此，我切换到SQLite来存储最后20条消息，然后每分钟获取一次。我使用SSE将这些消息提供给所有已连接的用户，当某人想要添加新消息时，我将其保存到主数据库中。 这是一种很好的方法吗？提高效率的任何建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cold-description5846     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1itdbnt/1itdbnt/sse_gunicorn_django_postgresqustgresql_how_how_can_i_optimize/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itdbnt/sse_gunicorn_django_postgresql_how_can_i_optimize/</guid>
+      <pubDate>Wed, 19 Feb 2025 18:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>从哪里开始</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itd0we/where_to_begin/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我想开始构建网站，我应该从哪里开始？我听到了很多有关Vite和React的诸如HTML和CSS之类的事情，如今最好做什么  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/intimt07     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itd0we/where_to_begin/</guid>
+      <pubDate>Wed, 19 Feb 2025 18:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有编码知识，我可以建立一个网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itcteg/no_coding_knowledge_can_i_make_a_site/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我有一个想法建立电子商务网站。我有所有的线框，一切准备好了...我真的可以为我制作AI代码吗？   lemme知道如何用外行术语来做到这一点。.im noob，并具有0个编码知识  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tilak550404     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itcteg/no_coding_knowledge_can_i_make_a_site/</guid>
+      <pubDate>Wed, 19 Feb 2025 18:34:51 GMT</pubDate>
+    </item>
     <item>
       <title>请帮助男人</title>
       <link>https://www.reddit.com/r/webdev/comments/1itcosr/please_help_guys/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>拉出我的头发！帮助我找到懒惰的FCP负载</title>
       <link>https://www.reddit.com/r/webdev/comments/1itbfs6/pulling_my_hair_out_help_me_find_lazy_load_of_fcp/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我在此WordPress网站上工作： https：// joliemusique。 com 我们使用广告中的一系列子页面来指导学生了解他们可能想学习的特定工具的信息（例如 https://joliemusique.com/piano ）。 我在html中并不流利，并且随着时间的流逝而慢慢地学习东西，但是尽管经过了很多反复试验，我还是无法弄清楚为什么英雄形象在这些页面上懒洋洋。 任何人都可以查看这并帮助我整理它的来源，以便我可以将其关闭？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arbiter61      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1itbfs6/pulling_my_hair_hair_hel_help_help_me_find_find_find_lazy_lazy_of_of_of_fcp/”]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我在此WordPress网站上工作： https：// joliemusique。 com 我们使用广告中的一系列子页面来指导学生了解他们可能想学习的特定工具的信息（例如 https://joliemusique.com/piano ）。 我在html中并不流利，并且随着时间的流逝而慢慢地学习东西，但是尽管有很多反复试验，但我还是无法弄清楚为什么英雄形象在这些页面上懒洋洋。 任何人都可以查看这并帮助我整理它的来源，以便我可以将其关闭？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arbiter61      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1itbfs6/pulling_my_hair_hair_hel_help_help_me_find_find_find_lazy_lazy_of_of_of_fcp/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1itbfs6/pulling_my_hair_out_help_me_find_lazy_load_of_fcp/</guid>
       <pubDate>Wed, 19 Feb 2025 17:40:28 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我只是进入Web Dev，我想与朋友分享我的项目。我不想向他发送.zip文件，而是要向他发送一个链接，因此他不必经历自己理解如何运行它的麻烦（他对编码一无所知）。我发现了有关渲染的信息，但是当我试图从Github获得项目时，由于某种原因找不到它。这是我可以访问的私人存储库，而且，正如我阅读的那样，如果我有权，则可以访问私人存储库。当我刚开始时，这不是一个大项目，所以我现在想使用免费的托管。谢谢！ 我想补充一点，我已经尝试了“ devtunnel”，但是当我输入“ devtunnel用户登录”时它通过此错误消息向我致意：;未知状态：意外 上下文：Wam case中的Wamcompat_id_token缺少Wamcompat_id_token  标签：0x20714047（错误代码0）（内部错误代码544292935）＆quot&#39;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ita5uk/hosting_my_vscode_project/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ita5uk/hosting_my_vscode_project/</guid>
       <pubDate>Wed, 19 Feb 2025 16:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人需要一个卑鄙的域名吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it8yy4/does_anyone_need_a_shitty_domain_name/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  几周前我向朋友解释了什么是域名或您如何购买。 在证明这一点时，我添加＆quot“ mynewdomainhahahaha.com”到我的购物车。  快进到上周四，我不得不续订我拥有的一个域，也没有意识到“ mynewdomainhahahahaha.com”，也在我的购物车里。现在，我意外地购买了有史以来最愚蠢的域名。 如果您需要一个愚蠢的域名，请给我NS，我会为您更新。我明年不会续签该域，但是IDK是一个免费的域，所以也许有人可能有用例。  &lt;！ -  sc_on-&gt;＆＃ 32;提交由＆＃32; /u/300-multiple-choices     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it8yy4/does_anyone_need_a_shitty_domain_name/</guid>
-      <pubDate>Wed, 19 Feb 2025 16:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客覆盖范围</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it8oxf/blogging_reach/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家 - 如果这有点脱离话题，则很抱歉，但这是我一直想知道的。如果您在当今时代有一个博客，那么您需要达到的技术要点才能真正吸引大量的读者？ 我含糊地意识到SEO的工作原理，但我一直以为您只需购买广告即可让人们阅读您的内容。  难题中还有其他一些缺失的部分吗？ Back Linking似乎有点旧帽子，我认为将您的博客塞满了流行语和关键术语有点奇怪。几乎所有事物现在都发生在Instagram上吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thflowawaydude131     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it8oxf/blogging_reach/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>MVP Airbnb克隆的成本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it8kqk/cost_to_mvp_an_airbnb_clone/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webDev  p&gt; 我认为我在我所在的地区找到了一个有趣的机会，很明显地需要一个为特定地理位基服务的Airbnb式平台。我对基本的网络开发非常满意，但这将远远超出我目前的技能。该平台需要每月处理几百个预订，因此需要正确构建。 我找到了一些白色标签解决方案（例如Glyperstergo和Gadicalstart），我计划要去根据成本，Hetzner，Ovhcloud或Scaleway的主机。但是在我潜水之前，我很想从解决类似项目的人那里获得一些现实世界的建议。 我正在搏斗的主要事情。我应该找到一个可以从头开始建造或使用白色标签解决方案的人吗？我可以处理基本的前端和后端开发，但是这需要适当的用户验证，预订系统，付款，主机和客人之间的消息传递，评论...整个交易以及我以前从未使用过的大多数这些方面。  对于那些以前建立的预订平台的人。我应该注意什么陷阱？我特别担心安全处理付款并确保预订系统防弹。任何恐怖的故事或经验教训都将非常有帮助。 如果我确实从头开始构建，也对技术堆栈建议感到好奇。如果您今天开始开始，您会使用什么？同样重要的是，成本要尽可能低下（目前）。 我知道这是一个很大的要求，但是任何见解都会非常有帮助。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pissmailer     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it8kqk/cost_to_mvp_an_airbnb_clone/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的投资组合项目页面上的反馈 - 如何改进？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it7sns/feedback_on_my_portfolio_projects_page_how_can_i/</link>
-      <description><![CDATA[   我有所进步？” src =“ https://b.thumbs.redditmedia.com/tybusyfgd_euj9mmrarfkg-qpi0pm6rdospxujhx4ee.jpg” title =“我的投资组合项目页面上的反馈”  - 我如何改善？” /&gt;    &lt;！ -  sc_off-&gt;  大家好， 我是一名大学生， ，我已经建立了一个投资组合来展示我的Web开发项目 -   shawon.me/projects 。我希望以一种吸引潜在雇主的注意的方式介绍我的作品。 我很喜欢您对布局，项目演示和整体结构的反馈。它有效地突出了我的技能吗？您是否有任何更改可以更好地吸引招聘人员或其他开发人员？ 感谢任何见解 - 非常感谢！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1it7sns/feedback_my_my_my_my_my_my_portfolio_projects_page_page_how_how_can_i/&gt; [link]   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it7sns/feedback_on_my_portfolio_projects_page_how_can_i/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web开发人员向ERP开发过渡 - 我该如何准备？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it7is3/web_developer_transitioning_to_erp_development/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个FullStack Web开发人员，主要与JavaScript/typescript（react/next/next.js）和.net（asp.net）一起工作。我最近在一个在云中实施ERP系统的团队中找到了一份工作在传统代码库上工作。  我很想听听任何具有ERP开发经验的人，尤其是使用Oracle，SQL Server，Oracle DB，Oracle Apex或类似系统。我应该专注于学习？任何有用的资源或策略以快速起步？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1it7is3/web_developer_transitioning_to_to_erp_develoverment/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it7is3/web_developer_transitioning_to_erp_development/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook阻止我成为开发人员 - 帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it7ds6/facebook_blocking_me_from_becoming_a_developer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试在Meta开发人员门户网站上注册为开发人员，但是Facebook一直显示此消息：&#39;这是因为我们注意到您是您的使用通常不使用的设备，我们需要确保您的帐户安全。使用此设备一段时间后，我们将允许您进行此更改。&#39; 这已经发生了两天。最近，我不得不清除其他东西，我想知道这是否触发了它。有人知道Facebook解锁此操作需要多长时间吗？还有其他人经历了这个问题吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/beautch_form_4276     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it7ds6/facebook_blocking_me_from_becoming_a_developer/</guid>
-      <pubDate>Wed, 19 Feb 2025 14:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道让开发人员进行UPWORK的成本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it7bjp/does_anyone_know_how_much_it_costs_to_get_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我被告知对一次性项目的UPWORK的价格范围进行一些研究。我的老板想构建一个“简单”的应用程序（告诉他他不应该这么说，这很奇怪）。  他还没有真正给我完整的简报，但我知道我可以从Upwork中吸引开发人员，他要求我在那里获得一个可以提供帮助的应用程序开发人员的价格范围。  &lt; P&gt;有人有任何想法吗？我试图聪明地完成这项任务，因为，我的报酬不足以完成他的私人工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lemfreewill     [link]    [commist]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it7bjp/does_anyone_know_how_much_it_costs_to_get_a/</guid>
-      <pubDate>Wed, 19 Feb 2025 14:54:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>将WordPress变成不同的东西：时间轴项目，取两个。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1it75ac/turning_wordpress_into_something_different_a/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  上次我在这里发布的我收到了一些好主意，现在我已经更新了此WordPress项目可以使我感到设计和功能都很漂亮。 我尝试将标准WordPress Post功能变成与此时间轴网站非常不同的东西。主时间轴使用WP的标准帖子功能，例如日期，特色图像，摘录，标题，内容，类别等。  查看Project Live   关于桌面/移动设备的UI/UX上的想法？任何可以改进或无法正常工作的东西？        ; amp; format = png＆amp; amp; amp; amp; apto = webppppul模式            &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/alx__     [link]       [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1it75ac/turning_wordpress_into_something_different_a/</guid>
-      <pubDate>Wed, 19 Feb 2025 14:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅CSS的语法突出显示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ismd98/cssonly_syntax_highlighting/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/aartaka     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ismd98/cssonly_syntax_highlighting/</guid>
-      <pubDate>Tue, 18 Feb 2025 20:13:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
