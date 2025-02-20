@@ -4,7 +4,21 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 20 Feb 2025 15:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 21:20:04 GMT</lastBuildDate>
+    <item>
+      <title>是否有人有任何免费（无需订阅）的方法来发布新创建的AI视频，并使用Make或类似的Instagram进行声音？我在YouTube上看到了一些带有克林API和Google表格等的想法...但是该过程需要订阅为Piapi，我不确定还有什么。谢谢！</title>
+      <link>https://www.reddit.com/r/automation/comments/1iu583c/does_anyone_have_any_free_no_subscription_needed/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/calvin200001     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iu583c/does_anyone_have_any_free_no_subscription_needed/</guid>
+      <pubDate>Thu, 20 Feb 2025 18:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xai Grok的采访</title>
+      <link>https://www.reddit.com/r/automation/comments/1iu15il/an_interview_with_xai_grok/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/bimaginaire     [link]   ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iu15il/an_interview_with_xai_grok/</guid>
+      <pubDate>Thu, 20 Feb 2025 15:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>自动化社交媒体帖子的最佳AI工具</title>
       <link>https://www.reddit.com/r/automation/comments/1itynzf/best_ai_tool_to_automate_social_media_posts/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这是它的工作原理：  1/我们使用N8N和Apefify Google Maps提取器以大规模收集业务信息。  2/我们检查每个线索的每个刮擦网站以查找电子邮件。  3/对于没有可见电子邮件地址的企业，我们实施了任何mail finder api，以根据该验证来发现验证的电子邮件域。  4/所有铅信息均已组织并存储在Airtable中，作为集中式数据库。整个过程是自动化的，可以连续运行以构建铅数据库。 完整的视频和模板：   https://www.youtube.com/watch?v=cahj-d4v6mg    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/purple-asparagus-887      [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1it9oje/i_built_a_google_maps_scraping_scraping_system_that_finds/]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1it9oje/i_built_a_google_maps_scraping_system_that_finds/</guid>
       <pubDate>Wed, 19 Feb 2025 16:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您添加到Zapier或N8N自动化中的最酷的Python代码是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1it5v05/whats_the_coolest_python_code_youve_added_to_your/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/lustysnake     [links]   &lt;a href =“ https://www.reddit.com/r/automation/comments/1it5v05/1it5v05/whats_the_coolest_python_code_youve_youve_added_to_your/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1it5v05/whats_the_coolest_python_code_youve_added_to_your/</guid>
-      <pubDate>Wed, 19 Feb 2025 13:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zapier帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1it4kpn/zapier_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是Zapier的新手，那里有一个工作自动化。我正在努力将其从一个流到下一个流程复制。我需要多次复制它。任何人快速通话的任何人都会在这个问题上发出第二双眼睛。 任何帮助都将不胜感激， 谢谢   &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lighteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee，6588一下r/automation/commist/1it4kpn/zapier_help/“&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1it4kpn/zapier_help/</guid>
-      <pubDate>Wed, 19 Feb 2025 12:42:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
