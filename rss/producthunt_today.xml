@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Feb 2025 01:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 03:30:09 GMT</lastBuildDate>
     <item>
       <title>linkeddit</title>
       <link>https://www.producthunt.com/posts/linkeddit</link>
@@ -174,20 +174,6 @@
       <pubDate>Thu, 20 Feb 2025 11:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>Trupeer脸</title>
-      <link>https://www.producthunt.com/posts/trupeer-faces</link>
-      <description><![CDATA[
-            录音室质量的屏幕录制与头像，完全AI 
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/trupeer-faces</guid>
-      <pubDate>Tue, 18 Feb 2025 06:26:07 GMT</pubDate>
-    </item>
-    <item>
       <title>驱动器</title>
       <link>https://www.producthunt.com/posts/driveeditor</link>
       <description><![CDATA[
@@ -202,18 +188,32 @@
       <pubDate>Sun, 16 Feb 2025 17:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>NYX</title>
-      <link>https://www.producthunt.com/posts/nyx</link>
+      <title>绘画</title>
+      <link>https://www.producthunt.com/posts/graphify</link>
       <description><![CDATA[
-            您的AI驱动性能营销副驾驶。
+            将您的概念注释变成交互式知识图
           
 
 
             |
-            链接
+             link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/nyx</guid>
-      <pubDate>Mon, 10 Feb 2025 18:22:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/graphify</guid>
+      <pubDate>Thu, 13 Feb 2025 23:38:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Storysdk</title>
+      <link>https://www.producthunt.com/posts/storysdk</link>
+      <description><![CDATA[
+            开源SDK，用于故事和登机
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/storysdk</guid>
+      <pubDate>Tue, 11 Feb 2025 18:08:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
