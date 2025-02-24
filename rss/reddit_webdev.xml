@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 24 Feb 2025 12:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 15:27:09 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了不和谐的屏幕空间，所以我建立了一个解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ix389f/i_was_tired_of_discord_eating_my_screen_space_so/</link>
+      <description><![CDATA[    &lt;！ -  sc_off-&gt;  就像许多开发人员一样，我会兼顾多个Discord社区 - 工作渠道，开发组，游戏服务器等。问题？有多个通道打开意味着无尽的替代式ta子或在Discord选项卡中淹没的浏览器。   Discord的完整界面太多了 - 我只是想查看消息，而不是每次ui整个应用程序。  所以我构建了一个微小的扩展名：   - 以干净的浮动窗口打开不和谐通道（只是聊天！）   - 让您经常保存频道检查   - 打开多个频道作为单独的弹出窗口（用于监视不同社区的游戏改变者）   - 保持您现有的不和谐会话  它非常适合：   - 管理多个项目渠道   - 社区经理进行多个对话   - 任何需要同时监视不同渠道的人/p&gt;   - 具有多监测器设置的人想要更好的空间管理（因为这不是促销帖子，而不是丢弃名称/链接 - 只是分享一个使我的生活更轻松的解决方案！）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/outional-ad2797     [link]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ix389f/i_was_tired_of_discord_eating_my_screen_space_so/</guid>
+      <pubDate>Mon, 24 Feb 2025 14:25:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>给定一个字符串“ 2025-02-28T00：00：00.000Z”的字符串是什么是在不使用库的情况下检查是否有效日期的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ix2l2g/given_a_string_20250228t000000000z_what_is_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我设法烹饪一些函数iSValidisodate（value）{const d = new Date（value）;返回！number.isnan（d.valueof（））＆amp;＆amp; d.toisostring（）===值; }   但是我想知道你们是否知道一种更好或更多的万无一失的方法    &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆ ＃32;提交由＆＃32; /u/u/u/prestimiouszombie531     [link]     32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ix2l2g/given_a_string_20250228t000000000z_what_is_the/</guid>
+      <pubDate>Mon, 24 Feb 2025 13:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>Instagram图API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ix157k/instagram_graph_api/</link>
@@ -48,13 +62,6 @@
       <pubDate>Mon, 24 Feb 2025 11:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>[学术研究]需要150个回复，仅在16岁时！在烹饪网站和视频上提供5分钟表格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iwzdgr/academic_research_need_150_responses_only_at_16/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在研究我的学士学位论文＆amp;用户互动，我迫切需要您的帮助。我的研究重点是人们如何使用烹饪网站和烹饪视频，使它们对用户友好的原因以及人们觉得令人沮丧的是什么。 我至少需要150个回复，但目前我只停留在16个。如果您曾经使用过烹饪网站或观看烹饪视频（YouTube，Tiktok，Netflix等），请花5分钟填写我的表格。每个回应都可以帮助我更接近完成论文。 表格链接： https://forms.gle/rag3bsdtcaabcdjh7   这完全是匿名的，我真的非常感谢您的帮助。如果您认识任何做饭的人，请随时与他们分享。非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_metten     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iwzdgr/academic_research_need_150_responses_only_at_16/</guid>
-      <pubDate>Mon, 24 Feb 2025 10:53:10 GMT</pubDate>
-    </item>
-    <item>
       <title>这种网页设计风格是什么？还有哪些例子？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iwz5lx/what_is_this_web_design_style_what_are_some_more/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经看到它用于频段网站。这是一种原始的HTML+CSS样式，通常包括动画元素。一些示例是：  vulfpeck.com     pre-end.com  还有其他类似网站的示例吗？此样式有名称吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iwz5lx/what_is_this_this_this_web_design_style_style_style_ what_are_are_some_more/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iwz5lx/what_is_this_this_web_design_style_style_what_are_are_some_more/]]></description>
@@ -85,7 +92,7 @@
     <item>
       <title>如何在Cookie Auth中解决此问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iwydat/how_to_tackle_this_issue_in_cookie_auth/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，伙计。，所以我是宾格（Beginer）的后端开发人员。我们使用的技术堆栈是mysql，node，react。，因此我们以前正在使用载体令牌进行AUTH。但是，为了允许SSO和其他东西，我们转移到了基于cookie的Auth。现在，我们将JWT令牌设置在cookie中，后端中间件处理auth。我们使用访问和刷新令牌策略。有不同的门户，全部托管在不同的子域中。我正在设置cookie中的域，萨姆斯特：&#39;none&#39;（遇到cors错误），httponly：true，secure：true，path：&#39; /&#39;..，所以现在问题是我正在遇到cors错误。 CORS配置很好（我允许所有子域中的所有主要请求。我无法解决问题。前端团队指责后端。现在可以做什么，我该怎么办？  tldr：在各个子域中使用访问和刷新cookie，获取CORS错误 编辑：    问题是，如果所有请求都失败了，我会同意这是由于cookie或cors配置不当，但有些reuqest随机通过，而另一些则通过。我什至无法解读问题。  cors config：   const corsopts = {onect：（onect，arount，callback）=＆gt; {const lasse oforigins = [＆quot; https：//first.abc.com&quot;，https：//second.abc.com&quot;]; if（！origin || wasseorigins.includes（origin）|| Origin .Endswith（&#39;abc.com＆quort; qu.| oincor.startswith（&#39;http：// http：// localhost; localhost＆quote; } else {callback（error .autherror（“访问”拒绝：此请求的起源未经授权。”）; }}，方法：[get; get&#39;post＆quot oteption;选项; put purs quor quor quor quot&#39;&#39;plate&#39;delete&#39;&#39;washerheaders&#39;&#39;&#39;&#39;&#39;pertent type type type; querty type; ;]，凭证：true，};控制台日志中的确切错误：访问XMLHTTPREQUEST，请访问&#39;https://be.abc.com/api/v1/student/student/userassessments?partnercode=xyz&#39;https:////fe2.jcurve.tech&#39; CORS政策：“访问控制 - 允许 - 原始”标头具有值&#39;https://fe1.jcurve.tech&#39;不等于提供的来源。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fromead173     [link]     [注释] /table&gt;]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，伙计。，所以我是宾格（Beginer）的后端开发人员。我们使用的技术堆栈是mysql，node，react。，因此我们以前正在使用载体令牌进行AUTH。但是，为了允许SSO和其他东西，我们转移到了基于cookie的Auth。现在，我们将JWT令牌设置在cookie中，后端中间件处理auth。我们使用访问和刷新令牌策略。有不同的门户，全部托管在不同的子域中。我正在设置cookie中的域，萨姆斯特：&#39;none&#39;（遇到cors错误），httponly：true，secure：true，path：&#39; /&#39;..，所以现在问题是我正在遇到cors错误。 CORS配置很好（我允许所有子域中的所有主要请求。我无法解决问题。前端团队指责后端。 &gt;  tldr：在各个子域中使用访问和刷新cookie，获取CORS错误 编辑：    问题是，如果所有请求都失败了，我会同意这是由于cookie或cors配置不当，但有些reuqest随机通过，而另一些则通过。我什至无法解读问题。  cors config：   const corsopts = {onect：（onect，arount，callback）=＆gt; {const lasse oforigins = [＆quot; https：//first.abc.com&quot;，https：//second.abc.com&quot;]; if（！origin || wasseorigins.includes（origin）|| Origin .Endswith（&#39;abc.com＆quort; qu.| oincor.startswith（&#39;http：// http：// localhost; localhost＆quote; } else {callback（error .autherror（“访问”拒绝：此请求的起源未经授权。”）; }}，方法：[get; get&#39;post＆quot oteption;选项; put purs quor quor quor quot&#39;&#39;plate&#39;delete&#39;&#39;washerheaders&#39;&#39;&#39;&#39;&#39;pertent type type type; querty type; ;]，凭证：true，};控制台日志中的确切错误：访问XMLHTTPREQUEST，请访问&#39;https://be.abc.com/api/v1/student/student/userassessments?partnercode=xyz&#39;https:////fe2.jcurve.tech&#39; CORS政策：“访问控制 - 允许 - 原始”标头具有值&#39;https://fe1.jcurve.tech&#39;不等于提供的来源。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fromead173     [link]     [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iwydat/how_to_tackle_this_issue_in_cookie_auth/</guid>
       <pubDate>Mon, 24 Feb 2025 09:43:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/dracyr     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iwxjru/tried_building_xaccelxsendfile_support_using/</guid>
       <pubDate>Mon, 24 Feb 2025 08:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个免费的工具来生成CSS颜色色调和变体 - 喜欢您的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iwwvqt/i_built_a_free_tool_to_generate_css_color_tints/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 在从事项目时，我需要一种方法来快速为我的CSS变量生成一致的颜色色调和变体。我找不到我要寻找的东西，所以我构建了tinter（ https://tinter.hoolite.be.be ）。 该工具采用任何十六进制颜色，并同时生成更轻和更暗的变化，非常适合创建一致的配色方案。它会自动生成20种变化（更轻10个，深10个），并提出互补，类似和三合会的颜色，以帮助颜色和谐。使用深/轻度模式配色方案时，这特别有用。 这是您获得的快速示例： ：root {    -color-100：＃f2f5ff; &lt; /code&gt;    -  color-500：＃5B7fff; &lt; /code&gt;    -  color-1000： ＃0a1f7f;   / * ...和更多变化 */  } }     i构建这主要是为了我自己的使用，但认为其他人可能也发现它也有帮助。我很想听听您是否可以在项目中使用的东西，哪些功能会使您更有用，如果您发现任何错误或问题。 所有反馈欢迎！如果您尝试一下，请让我知道您认为🙂  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iwwvqt/i_built_a_a_free_free_tool_to_to_to_generate_generate_css_color_tints/”&gt;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iwwwvqt/i_built_a_a_free_tool_to_to_generate_generate_css_color_tints/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iwwvqt/i_built_a_free_tool_to_generate_css_color_tints/</guid>
-      <pubDate>Mon, 24 Feb 2025 07:56:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
