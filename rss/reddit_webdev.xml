@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 25 Feb 2025 12:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:26:23 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个文本替换工具，可以帮助您同时替换多个单词</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixwopj/i_built_a_text_replacement_tool_that_helps_you/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我一直在使用文本替换工具，该工具允许用户上传文本文件，识别和替换重复的单词，然后将修改后的文本复制到剪贴板中。该工具是使用普通JavaScript构建的，并利用了最简单的接口。它的作用基本上是多个单词替换，这些单词替换是通过“ ctrl + r＆quot”在文本编辑器中完成的。捷径。这是一个链接： https://cupitor-26c026.gitlab.io/       &lt;！ -  &lt;！ -SC_ON-&gt;＆＃32;提交由＆＃32; /u/maxiwer     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixwopj/i_built_a_text_replacement_tool_that_helps_you/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站标识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixwms5/website_identification/</link>
+      <description><![CDATA[     src =“ https://b.thumbs.redditmedia.com/zv3agfkfkfkfkwmmmysvgditnhfbvfbvfhfhfzg6bmlyvk_bof6rmc.jpg” title =“ title =“ toble”网站识别/&gt;     “ MD”&gt; 你好，这张照片有点模糊，但有人知道什么形式构建器被用来提出这种矩阵类型的问题？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_post647     [link]   ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixwms5/website_identification/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要Hackathon的AI建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixw1n7/need_ai_recommendations_for_hackathon/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我将很快参加黑客马拉松。我们的团队成员是Web Dev中的午龙门。因此，我们想到了使用AI工具。我通常使用克劳德（Claude）作为前端。 Chatgpt和Claude的后端。我需要一些更有用的AI工具。大多数AI给出了基本的UI。任何建议。任何小东西都会很多。顺便说一句，只有免费工具和任何使用Claude而无需使用限制的方法？ 谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bibious_bug9906      [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixw1n7/need_ai_recommendations_for_hackathon/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试.pkpass文件：解决常见问题的开发人员指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixvsjs/debugging_pkpass_files_a_developers_guide_to_fix/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/abstract1337     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixvsjs/debugging_pkpass_files_a_developers_guide_to_fix/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>涡轮增压V8具有可变堆数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixvcic/turbocharging_v8_with_mutable_heap_numbers/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixvcic/turbocharging_v8_with_mutable_heap_numbers/</guid>
+      <pubDate>Tue, 25 Feb 2025 13:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>（帮助）想要制作WebView App＆Inject JS以隐藏几乎没有东西...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixuv80/help_want_to_make_webview_app_inject_js_to_hide/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试创建一个WebView应用程序。我的要求是隐藏品牌＆amp;很少的元素。（一直在帮助AI，几乎可以使用）   - 问题： -  i）我没有任何知识，将AI用于孔过程。  ii）需要其他允许在WebView中注入JS的东西。 （FlutterFlow对我来说不是免费的）  II）拥有非常旧的4GB RAM笔记本电脑，所以我不知道我可以在此上运行什么。 （AI建议我Cordova，但我对此表示怀疑）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/shadow--404     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ixuv80/help_want_to_make_make_webview_app_inight_injecp_inject_js_to_to_to_hide/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixuv80/help_want_to_make_webview_app_inject_js_to_hide/</guid>
+      <pubDate>Tue, 25 Feb 2025 13:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户端对SEO的反应真的那么不好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixunae/is_clientside_react_really_that_bad_for_seo/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i构建基于React的业务/营销网站 -  SEO发挥作用的内容驱动的网站。  现在，共同的智慧表明，这样的网站应该是静态的或至少应该是SSR。因此，您想使用NextJS，Gatsby或其他类似框架。但是我一直在阅读有关爬行者现在如何执行JavaScript的能力，因此从理论上讲，如果您的客户端JS足够快 - 它仍然适用于SEO。 SEO的Side React应用程序？这是可行的还是我欺骗自己？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/stoilsky     [link]         [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixunae/is_clientside_react_really_that_bad_for_seo/</guid>
+      <pubDate>Tue, 25 Feb 2025 13:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建需要JWT身份验证的应用程序的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixuchb/what_is_the_best_way_to_create_an_application/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前面临一个难以解决的问题。当用户登录应用程序时，我的C＃后端将返回JWT。对于用户对应用程序提出的所有请求，后端从标题中检索此JWT，杀死其有效性，并通过连续验证功能返回另一个JWT。我目前正在通过应用程序中的上下文来控制这些JWT。但是，正如我们在社区中所知道的那样，React在重新渲染时失去上下文信息有一个很大的问题。就我而言，当页面刷新时，它会失去上下文并将用户踢出系统，因为它无法保留当前的JWT。 一种解决方案是将其保留在cookie中。但是，由于我的系统必须遵守PCI-DSS系统，因此我不能让这个令牌不安全。但是，如果我通过所有cookie安全参数，特别是仅http-，它会防止我的javaScript检索它以保持用户登录（如果我刷新）。 有人可以阐明这个问题吗？&lt;&lt;&lt;&lt;&lt; /p&gt; 其他信息：我使用React作为前端，C＃中的API，并且两者都托管在IIS服务器上。  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/snoo-29909     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixuchb/what_is_the_best_way_to_create_an_application/</guid>
+      <pubDate>Tue, 25 Feb 2025 12:57:11 GMT</pubDate>
+    </item>
     <item>
       <title>引入GitHub副代理模式（预览）</title>
       <link>https://www.reddit.com/r/webdev/comments/1ixu5r2/introducing_github_copilot_agent_mode_preview/</link>
@@ -34,13 +90,6 @@
       <pubDate>Tue, 25 Feb 2025 11:34:56 GMT</pubDate>
     </item>
     <item>
-      <title>真的很感谢一些建议 - 那里有任何音频/音乐技术开发人员吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixssdk/would_really_appreciate_some_advice_any/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我是凯特（Kate），歌手，作家和声乐制作人。我有一个具有很多人声/顶线的网站，我想让来我网站的制作人更容易找到他们的完美声音，而无需聆听大量样品。    我需要的内容：&lt; /strong&gt; 基于Web的工具，生产商可以：  - 上传他们的轨道→该工具检测键＆amp; bpm   - 与我的网站中的声乐样本相匹配 - 听到带有曲目的时间拉伸的预览（如果他们在124BPM上载入曲目，而未成年人则是我在网站上的最接近的声音为128bpm，该工具将自动扩展声音）  - 购买＆amp;如果他们喜欢听起来  我想要的内容：   - 有经验 Audio Processing + Web开发   -   bpm检测，钥匙匹配，时间间隔&lt; /strong&gt;   - 奖励：web音频API，python，node.js或音乐软件开发&lt; /p的体验&lt; /p &gt;    - 开放收入分享！&lt; /strong&gt; 如果您对此感到兴奋并且认为它具有潜力，我很想讨论收入分配。否则，让我知道您的价格。我对这个想法感到非常兴奋，并且完全愿意把钱投入其中，只是这个世界非常新的东西，所以不确定我在看什么价格。我假设昂贵，但会喜欢一些数字！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/katelauramcgill     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixssdk/would_really_appreciate_some_advice_any/</guid>
-      <pubDate>Tue, 25 Feb 2025 11:25:28 GMT</pubDate>
-    </item>
-    <item>
       <title>发布独家博客的最佳平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1ixrmge/best_platform_for_posting_exclusive_blogs/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我希望启动一个博客，以发布一些与篮球运动员的独家采访。没有著名的玩家，而且被人们忽略了，但是，我想为观众，童子军等人听到他们的平台。 您认为哪种平台是最好的。另外，由于这对我来说是一个激情的项目，所以预算很紧张，但我希望做对了。会喜欢您的建议。  ps：我发现wordpress有点复杂  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ixrmge/best_platform_for_posting_excliveing_blogs/”&gt; [link]      [注释]  ]]></description>
@@ -60,55 +109,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  我在本地WordPress开发上遇到带有尾风CSS V4 CLI响应的令人困惑的问题地点。我希望有人能阐明可能导致的原因。 我网站的响应能力在Firefox和Chrome的开发人员工具中无尽可行。我已经测试了各种屏幕尺寸和模拟的移动设备，并且一切都按预期出现。它还可以在我的三星Galaxy S21上正确地渲染。 但是，当我在物理iPhone SE（第二代，最新iOS）和Fire TV（基于Android TV）上查看该网站时，布局被打破了。元素无法正确缩放，并且看起来破裂。             我清除了DNS缓存，清除了我的Hostinger网站缓存，在Cloudflare中启用了开发模式，在我所有的浏览器上都在cache中添加了cache，在我的手机上使用了隐身。  github   https://github.com/mra16r/masterfevertw2      &lt;！ -  sc_on- sc_on- ;提交由＆＃32; /u/mra15r   href =“ https://www.reddit.com/r/webdev/comments/1ixqqqnz/tailwind_css_v4_responsesices_issues_issues_works_with/”&gt; [link]   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ixqqnz/tailwind_css_v4_responsiveness_issues_works_with/</guid>
       <pubDate>Tue, 25 Feb 2025 09:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>会有GitHub的AI版本吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixqq3h/will_there_ever_be_an_ai_version_of_github/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图避免github，主要是因为当我得到这个概念时，我在推/拉时经常有问题。在使用它时。 ，但我会向任何开发AI版本的人支付好钱如何处理您的文件与其他人的文件，如何和何时合并和冲突解决等，在进行固定更改时自动拉动，知道何时推动完成的内容。只是所有人都神奇地处理。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ixqqq3h/will_there_there_ever_ever_ai_ai_ai_ai_ai_ai_ai_ai_of_github/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixqq3h/will_there_ever_be_an_ai_version_of_github/</guid>
-      <pubDate>Tue, 25 Feb 2025 09:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RANT]浏览器不一致</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixppxo/rant_browser_inconsistencies/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚花了最后15分钟，因为我在Firefox中网站上的文字为何大胆。我以为我很愚蠢，搞砸了我的SCSS。 放弃了并搜索了它。 wtf是一回事。我讨厌跨浏览器的不一致。 显然是因为浏览器之间的实际内置字体不同。 字体应标准化。 WTF  我们是否认真地加载了外部字体面只是为了在浏览器之间具有相同的字体重量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dotnet_ninja     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixppxo/rant_browser_inconsistencies/</guid>
-      <pubDate>Tue, 25 Feb 2025 07:48:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>键入安全快递视图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixpmew/type_safe_express_views/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，请帮助我休息我的多动症大脑。有没有一种方法可以通过Express SSR创建生产现成的安全视图。我正在考虑直接使用TypeScript，但是我该怎么做？ - &gt;＆＃32;提交由＆＃32; /u/u/th3curryk1ng     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixpmew/type_safe_express_views/</guid>
-      <pubDate>Tue, 25 Feb 2025 07:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们如何为您的编码网站创建Google Web故事（不是WordPress和Blogger）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixp0jl/how_do_you_guys_create_google_web_stories_for/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ilunarivan     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixp0jl/how_do_you_guys_create_google_web_stories_for/</guid>
-      <pubDate>Tue, 25 Feb 2025 06:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>可能必须重新做我的网站。有人请告诉我我没有。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixn7iy/might_have_to_redo_my_website_someone_please_tell/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以……我可能对我一生中最大的失误。在过去的一个月中，我在Elementor设计了我的网站 -  ，但是当我的浏览器缩放（约80％）时，我做到了。现在，我正在以100％的方式查看它，一切看起来都比我预期的更大。 我尝试了其他方法来修复它，例如 Zoom：0.8;  ，变换：比例尺（0.7）; &lt; /code&gt;和其他一些技巧，但它们要么： 1）打破我网站的一部分（我具有流体鼠标效应和一些固定元素） 。 1.）与布局混乱定位，使情况看起来更糟。 有任何方式 在全球范围内缩放整个网站   手动调整每个窗口小工具和容器一个。一个？ 对于上下文，这是我的网站：  joshu.online  。如果将浏览器缩放设置为 80％，那就是应该的外观。 任何帮助都会非常感谢  - 我真的不喜欢想重做整整一个月的工作！ 更新：看起来好像没有太多人？发现我的网站实际上在移动设备上吹了。很高兴我现在找到了。谢谢你们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/use_confidence6075     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixn7iy/might_have_to_redo_my_website_someone_please_tell/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始创建网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixn0jw/creating_a_website_from_scratch/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有兴趣从头开始创建一个网站。如果可能的话，我想避免模板（Wix，Canva，Squarspace）。复杂性并不是一个巨大的问题，因为我有足够的Comp Sci体验（Python，Java，C ++，VBA等）。 我将使用该网站，就像一个博客（多个页面/tabs/菜单选项）。我想分享我正在从事的项目，我拍摄的图片，我喜欢的音乐，我要出售的东西（但我不想要市场）。我想每个月更新1-2次，因此添加/更改内容的负担不应该是一个巨大的负担。我可以观看的任何教学视频/课程的资源？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thewetnoodle01     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixn0jw/creating_a_website_from_scratch/</guid>
-      <pubDate>Tue, 25 Feb 2025 04:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为TS/JS开发人员，建立项目最困难的事情是什么？特别是使用nodejs。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixmz6l/as_tsjs_developer_what_are_the_most_difficult/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对我来说，它正在设置带有特定配置/插件的ESLINT。我觉得这只是我，因为每当我谷歌搜索这个问题时，没人会抱怨它。我总是不知道要放入配置文件中。在大多数情况下，我只是将配置作为默认设置，因为我使用的框架给了我什么。但是有时我需要扩展该配置，这就是我想将头撞到墙上的地方。使用新的“平面配置”，我不知道将文件中的内容和位置放置。其他人觉得很难使用Eslint配置，并且其中有太多的抽象？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/royrochemback     [link]     [commient]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixmz6l/as_tsjs_developer_what_are_the_most_difficult/</guid>
-      <pubDate>Tue, 25 Feb 2025 04:50:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
