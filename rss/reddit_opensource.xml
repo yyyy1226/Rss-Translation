@@ -4,11 +4,25 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 09:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 12:47:25 GMT</lastBuildDate>
+    <item>
+      <title>介绍github.com/bububa/Atomic-代理：原始python概念的golang改编</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/golang/comments/1iwyvli/introducing_githubcombubaubaatomic_agents_a_golang/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</guid>
+      <pubDate>Tue, 25 Feb 2025 11:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drupal还是Strapi？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   WordPress就像在Autobahn上驾驶驾驶。 Joomla就像在Jello中建造了一个Jenga塔。  让我思考drupal或strapi。我对Drupal的经历是，这是屁股的巨大痛苦，所以Strapi看起来很诱人...但是我以前受到了伤害，并且想获得第二个意见。  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/-_ o/-_ o-laserBeak-o_--       [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</guid>
+      <pubDate>Tue, 25 Feb 2025 10:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>Whispercat v1.4.0发布 - 开源转录和后处理应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</link>
-      <description><![CDATA[在一个开源音频捕获，转录和后处理应用程序。 链接： https://github.com/ddxy/whispercat      有什么新功能？      打开Web UI支持： Whispercat现在与开放的Web UI集成 - 灵活，用户友好用于转录的Web界面。这意味着您可以使用免费的开源模型来处理录制！  更快的Whisper服务器集成： v1.3.0版本引入了对更快的服务器的支持。。  增强了全球Hotkeys＆amp;背景模式：享受可定制的热键，用于启动/停止录音和改进的系统托盘最小化，以使窃窃私猫在背景中安静地运行。   麦克风测试＆amp;通知：在使用我们的测试功能录制之前验证麦克风并接收有关重要事件或错误的屏幕通知。     精制的GUI＆amp;黑暗模式支持：界面已通过更好的设置管理和完整的黑暗模式支持进行了抛光。 我很想听听您的想法，因此请随时分享您的反馈和建议。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sircheckmatesalot     [link]        [注释]  ]]></description>
+      <description><![CDATA[在一个开源音频捕获，转录和后处理应用程序。 链接： https://github.com/ddxy/whispercat      有什么新功能？      打开Web UI支持： Whispercat现在与Open Web UI集成 - 这意味着您可以使用免费的，开源的转录模型！  更快的服务器集成： v1.3.0发布引入了对更快的服务器的支持，这是一种免费的开源文本，是语音模型的免费开源文本。  增强了全球热键＆amp;背景模式：享受可定制的热键，用于启动/停止录音和改进的系统托盘最小化，以使窃窃私猫在背景中安静地运行。   麦克风测试＆amp;通知：在使用我们的测试功能录制之前验证麦克风并接收有关重要事件或错误的屏幕通知。  精制的GUI＆amp;黑暗模式支持：界面已通过更好的设置管理和完整的黑暗模式支持进行了抛光。  我很想听听您的想法，因此请随时分享您的反馈和建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sircheckmatesalot     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</guid>
       <pubDate>Tue, 25 Feb 2025 09:25:27 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dippatel21     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</guid>
       <pubDate>Mon, 24 Feb 2025 04:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的开源“ Internet OS”刚刚击中了2,000,000个用户！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/mitousa     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</guid>
-      <pubDate>Mon, 24 Feb 2025 01:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一件事情，effconnpy。 Python库因果时间序列分析</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我做了一件事情， 用于脑因果关系估计的python库。有几种方法，时间 系列分析并非严格用于神经科学：    打开问题或贡献： https://github.com/alecrimi/alecrimi/effconnpy     &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32 ;提交由＆＃32; /u/alecrimi   href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_thing_thing_thing_thing_thing_effconnpy_pyty_python_library_for_causal/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_ting_thing_thing_thing_thing_thing_thing_feffconnpy_pyty_pyty_python_library_for_causal/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</guid>
-      <pubDate>Sun, 23 Feb 2025 23:37:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
