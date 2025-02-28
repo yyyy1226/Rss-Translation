@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 01:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 03:31:21 GMT</lastBuildDate>
+    <item>
+      <title>制作了BAC计算器，因为所有其他人都有垃圾用户体验。烤我。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izxzdp/made_a_bac_calculator_because_all_the_others_have/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lolhigh      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izxzdp/made_a_bac_calculator_because_all_the_others_have/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个自托管的匿名聊天室 - 需要功能创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izxygd/built_a_selfhosted_anonymous_chatroom_need/</link>
+      <description><![CDATA[Hey everyone, Chat-room: Join here I recently built a simple self-hosted chatroom and am running it directly from my PC (no cloud, no paid hosting, just using packetriot + deSEC for域）。它是完全匿名，因此没有帐户 - 任何人都可以加入并开始聊天。捕获量是：不包含数据库，因此一旦您刷新页面，您的所有聊天就消失了。 我做到了开源，因此，如果有人想查看代码或贡献，这就是github repo：在保持不含帐户的同时，要添加哪些功能。现在，这只是与 socket.io 的实时聊天，但我不想过度复杂化。目前，它具有真正的基本功能，例如：从自定义名称加入房间，回复特定消息，没有消息历史记录，如果他/她的行为不善，则可以禁止用户的IP地址，用户不能从同一名称中加入（case敏感）。我希望你们给我一些想法来添加更多功能，如果您做出贡献，我会很高兴。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nitin_is_me      [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izxygd/built_a_selfhosted_anonymous_chatroom_need/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种格式不正确？ / github页面未更新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izxh69/how_is_this_improperly_formatted_github_pages_not/</link>
+      <description><![CDATA[     我无法在stackoverflow上发布它，所以也许我可以在这里回答。        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss-emu-8415     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izxh69/how_is_this_improperly_formatted_github_pages_not/</guid>
+      <pubDate>Fri, 28 Feb 2025 02:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的工作角色和责任是否不断变化和发展？您必须对AI充满热情吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izx573/is_your_job_roles_and_responsibilities_constantly/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图学习如何编码，而筋疲力尽以不断学习新事物，并以这种速度以这种速度和新的东西每天累人地疲倦。我想知道您是否经常期望学习新知识并跟上最新趋势？他们在改变您的职责并要求更多吗？我有点讨厌所有AI炒作，但感觉就像我对此不感兴趣，那我不应该在技术中。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/swiggyu     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izx573/is_your_job_roles_and_responsibilities_constantly/</guid>
+      <pubDate>Fri, 28 Feb 2025 02:20:38 GMT</pubDate>
+    </item>
     <item>
       <title>是我还是Flexbox仅适合从未理解盒子模型的人？</title>
       <link>https://www.reddit.com/r/webdev/comments/1izvh58/is_it_me_or_is_flexbox_just_for_people_that_never/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道使用CSS库（Bulma，Tailwind）与Web组件使用的好方法吗？到目前为止，我发现的唯一解决方案是使用＆lt; link＆gt;要添加样式表，但我看到不建议这样做。 对我来说，我不能简单地重复使用CSS，所以我不敢相信这确实很难做到。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fair-presentation322     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1izobmh/webcomponents_css_libraries/</guid>
       <pubDate>Thu, 27 Feb 2025 19:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有目的1：设置后端部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izo1f2/building_with_purpose_1_setting_up_the_backend/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/jordiolle11   [link] ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izo1f2/building_with_purpose_1_setting_up_the_backend/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用JavaScript发送表单数据作为过滤不使用JavaScript的机器人的一种方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是一个愚蠢的问题，但是在以我的注册表格进行签名以使其更具反机器人时，我意识到它使用JavaScript从表单中获取数据，然后使用fetch用这些值来调用后端，并且对形式没有任何动作的属性，也没有动作属性。这是在形式中显示错误。但是，这也不是不使用JavaScript的滤波器的加油机器人吗？几个机器人在当今时代不使用JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iznpvw/suse_javascript_to_send_send_send_data_as_a_a_away_way_way_to/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>致歌剧迷你的情书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izm32x/a_love_letter_to_opera_mini/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/panstromek      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izm32x/a_love_letter_to_opera_mini/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作一组开发人员来构建项目（从事一些想法）！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izm0zq/making_a_group_of_devs_to_build_projectswork_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在制作一组开发人员，一起构建一些很酷的项目（处理一些想法）。主要目的是为一些现实世界中的问题构建可扩展解决方案。 PLZ DM添加。免责声明：不适合初学者！！！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/metalcomprehansy88     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izm0zq/making_a_group_of_devs_to_build_projectswork_on/</guid>
-      <pubDate>Thu, 27 Feb 2025 17:59:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
