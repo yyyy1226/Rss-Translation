@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Feb 2025 03:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 06:33:16 GMT</lastBuildDate>
     <item>
       <title>PAIRPODS</title>
       <link>https://www.producthunt.com/posts/pairpods</link>
@@ -28,18 +28,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/inkr-2</guid>
       <pubDate>Thu, 27 Feb 2025 03:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>健身房英雄</title>
-      <link>https://www.producthunt.com/posts/gym-hero</link>
-      <description><![CDATA[
-            健身房跟踪的未来 - 私人，聪明，设备的AI
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/gym-hero</guid>
-      <pubDate>Wed, 26 Feb 2025 22:06:26 GMT</pubDate>
     </item>
     <item>
       <title>AIRTRACK•飞行价格预测器</title>
@@ -68,16 +56,28 @@
       <pubDate>Wed, 26 Feb 2025 19:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>Lemni</title>
-      <link>https://www.producthunt.com/posts/lemni</link>
+      <title>飞行员代理</title>
+      <link>https://www.producthunt.com/posts/aviator-agents</link>
       <description><![CDATA[
-            在几分钟内设置自定义AI代理 - 规范您的业务
+            大规模代码迁移的LLM框架
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aviator-agents</guid>
+      <pubDate>Wed, 26 Feb 2025 19:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>炒作我的航班</title>
+      <link>https://www.producthunt.com/posts/hype-my-flight</link>
+      <description><![CDATA[
+            为您的下一次航班生成免费的Spotify播放列表
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lemni</guid>
-      <pubDate>Wed, 26 Feb 2025 10:17:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/hype-my-flight</guid>
+      <pubDate>Wed, 26 Feb 2025 19:01:04 GMT</pubDate>
     </item>
     <item>
       <title>gitglance</title>
@@ -128,40 +128,28 @@
       <pubDate>Tue, 25 Feb 2025 05:05:20 GMT</pubDate>
     </item>
     <item>
-      <title>Scispace的深入评论</title>
-      <link>https://www.producthunt.com/posts/deep-review-by-scispace-2</link>
+      <title>叶专辑</title>
+      <link>https://www.producthunt.com/posts/leaf-albums</link>
       <description><![CDATA[
-            AI文学评论的共同科学家
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/deep-review-by-scispace-2</guid>
-      <pubDate>Mon, 24 Feb 2025 14:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>继续1.0</title>
-      <link>https://www.producthunt.com/posts/continue-1-0</link>
-      <description><![CDATA[
-            创建，共享和使用自定义AI代码助理
+            他们会喜欢的惊喜：他们最喜欢的人的声音
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/continue-1-0</guid>
-      <pubDate>Mon, 24 Feb 2025 05:02:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/leaf-albums</guid>
+      <pubDate>Mon, 24 Feb 2025 17:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>我的首席执行官是欺诈吗？</title>
-      <link>https://www.producthunt.com/posts/is-my-ceo-a-fraud</link>
+      <title>工具栏</title>
+      <link>https://www.producthunt.com/posts/toolbar</link>
       <description><![CDATA[
-            弄清楚企业家犯罪的可能性有多大 
+            直接在您的网站上评论和跟踪问题
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/is-my-ceo-a-fraud</guid>
-      <pubDate>Thu, 20 Feb 2025 13:36:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/toolbar</guid>
+      <pubDate>Sun, 23 Feb 2025 18:44:24 GMT</pubDate>
     </item>
     <item>
       <title>Vagon团队</title>
@@ -186,6 +174,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rapport-ai-driven-avatars</guid>
       <pubDate>Fri, 14 Feb 2025 15:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子</title>
+      <link>https://www.producthunt.com/posts/quanta</link>
+      <description><![CDATA[
+            软件公司最快的会计服务
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/quanta</guid>
+      <pubDate>Fri, 24 Jan 2025 02:05:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
