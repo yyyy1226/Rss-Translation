@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 02 Mar 2025 01:54:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 03:31:32 GMT</lastBuildDate>
+    <item>
+      <title>网站编辑功能实现？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1hdif/website_editing_feature_implementation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用普通的html和css制作一个网站（如果你们有比这更好的方式，请随时推荐大声笑，这将是一个为某人而言，这将是一个小侧面的项目，这是一个小侧面的项目，这是为了娱乐。它应该为他们的工作代表他们的工作）。我想知道是否有一种方法可以为IM制作网站的人实施编辑功能，以便他们可以在例如，他们想在网站上的某些文本中进行更改时进行编辑。  你们对如何使该网站的文本为该人有想法吗？它必须像在网站上一样，因为他们不知道html/css以及如何在此问题上更改html文件上的代码 一些指导将被对此表示赞赏：））  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exploited_pizza     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1hdif/website_editing_feature_implementation/</guid>
+      <pubDate>Sun, 02 Mar 2025 03:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>IMDB的错误页面让我</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1h8pn/imdbs_error_page_got_me/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/jerry_derry       [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1h8pn/imdbs_error_page_got_me/</guid>
+      <pubDate>Sun, 02 Mar 2025 03:10:18 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助我项目的付款处理 - 条纹在我国不支持</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1f6f2/need_help_with_payment_processing_for_my_project/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>寻找开发人员和像素艺术家来构建PixyWave  - 可自定义的像素社交媒体平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1dxxx/looking_for_developers_pixel_artists_to_build/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找开发人员＆amp;像素艺术家构建PixyWave  - 一个可自定义的像素社交媒体平台 大家好， 我有一个名为 pixywave 的独特社交媒体平台的想法，它将社交网络与完全自定义的像素艺术配置文件和互动环境相结合。 Think of it as a place where users can create and decorate their profile pages with pixel elements, interact in a 2D virtual space, and experience a mix of social media and digital creativity. Key Features:  Customizable Profiles – Users can decorate their pages with pixel art, adjust layout sizes, and choose between three interface modes (Pixel, Hybrid,正常）。  虚拟像素氛围  - 用户创建化身，在主题环境中进行互动，并一起听音乐。   唯一的徽章＆amp;排名  - 包括针对YouTubers，运动员，星星的特殊徽章，以及可信赖的概况的验证徽章。   社交同步  - 该功能使用户可以根据自己的喜好找到具有相似兴趣的人，从而在个人身上，显示一定比例的同步。像素艺术委员会  - 用户可以解锁/购买装饰品，艺术家可以出售定制环境。  公司页面＆amp;非引人入胜的广告  - 公司只能在自己的页面内展示广告，用户可以与他们互动。  我正在寻找的人：   由于我没有编码技能，我正在寻找热情的开发人员，Pixel Artists和pactigner “/strong&gt;在此项目中都可以在此项目中寻找热情洋溢的开发人员。估计团队角色：   前端＆amp;后端开发人员（UI，数据库，社交互动）  像素艺术家＆amp; UI设计师（用于装饰，环境，头像）   game/Interactive开发人员（对于虚拟世界功能）  如果您有兴趣将其带入生活，或者有关于从哪里开始的建议，我会喜欢听到您的想法！您会加入这样的项目吗？  ps：此文本已使用AI进行完善，但是我明白了） 那么您如何看待这个项目？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/raynor1999     [link]     [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找开发人员＆amp;像素艺术家构建PixyWave  - 一个可自定义的像素社交媒体平台 大家好， 我有一个名为 pixywave 的独特社交媒体平台的想法，它将社交网络与完全自定义的像素艺术配置文件和互动环境相结合。 Think of it as a place where users can create and decorate their profile pages with pixel elements, interact in a 2D virtual space, and experience a mix of social media and digital creativity. Key Features:  Customizable Profiles – Users can decorate their pages with pixel art, adjust layout sizes, and choose between three interface modes (Pixel, Hybrid,正常）。  虚拟像素氛围  - 用户创建化身，在主题环境中进行互动，并一起听音乐。   唯一的徽章＆amp;排名  - 包括针对YouTubers，运动员，星星的特殊徽章，以及可信赖的概况的验证徽章。   社交同步  - 该功能使用户可以根据自己的喜好找到具有相似兴趣的人，从而在个人身上，显示一定比例的同步。像素艺术委员会  - 用户可以解锁/购买装饰品，艺术家可以出售定制环境。  公司页面＆amp;非引人入胜的广告  - 公司只能在自己的页面内展示广告，用户可以与他们互动。  我正在寻找的人：   由于我没有编码技能，我正在寻找热情的开发人员，Pixel Artists和pactigner “/strong&gt;在此项目中都可以在此项目中寻找热情洋溢的开发人员。估计团队角色：   前端＆amp;后端开发人员（UI，数据库，社交互动）  像素艺术家＆amp; UI设计师（用于装饰，环境，头像）   game/Interactive开发人员（对于虚拟世界功能）  如果您有兴趣将其带入生活，或者有关于从哪里开始的建议，我会喜欢听到您的想法！您会加入这样的项目吗？  ps：此文本已使用AI进行完善，但是我明白了） 那么您如何看待这个项目？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/raynor1999     [link]     [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1dxxx/looking_for_developers_pixel_artists_to_build/</guid>
       <pubDate>Sun, 02 Mar 2025 00:18:32 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>我建立了一个开源的Heroku替代品，以帮助您节省托管费用</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1d4lr/i_built_an_open_source_heroku_alternative_to_help/</link>
-      <description><![CDATA[   I posted about this a few weeks ago and was really encouraged by the feedback from the community, so since then I&#39;ve tried to add a bunch more features people建议的。 最近又添加了直接将图像部署到Dockerhub的支持，因此您不再只需要连接GitHub帐户。 背景 现在已经开发了一年的犬。从我开始厌倦了使用Heroku，Red，Fly等来支付主机某些 我已经建立了。由于各种受欢迎的云托管提供商的4GB机器的成本  heroku = $ 260   fly.io  = $ 65  render = $ 85  $ 85    hetzner  =  $ 4   标记对于仅具有简单的github集成 +一些额外的UI功能而非常巨大。因此，我建立了一个Heroku替代方案，您可以将任何想要的基础架构插入。 我经常得到的一个问题是这与colorify之类的东西有何不同。 The biggest one I think is that Canine can support multi server deployments, it doesn&#39;t assume you&#39;re just running on a single machine. It can also hook into the huge number of open source projects that can deploy directly onto a Kubernetes backend via helm, so it can do a one click deploy of:  Sentry Wordpress Metabase  dagster  气流  mongodb   redis   postgresql  和大约〜10000其他应用href =“ https://preview.itd.it/7ovwvp7j66me1.png？ Shots.so这是一个令人敬畏的工具  源代码： https：//github.com/czhu12/canine 提交由＆＃32; /u/u/czhu12     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j1d4lr/i_built_an_open_open_source_heroku_heroku_allternative_to_help/]]></description>
+      <description><![CDATA[   I posted about this a few weeks ago and was really encouraged by the feedback from the community, so since then I&#39;ve tried to add a bunch more features people建议的。 最近又添加了直接将图像部署到Dockerhub的支持，因此您不再只需要连接GitHub帐户。 背景 现在已经开发了一年的犬。从我开始厌倦了使用Heroku，Red，Fly等来支付主机某些 我已经建立了。由于各种受欢迎的云托管提供商的4GB机器的成本  heroku = $ 260   fly.io  = $ 65  render = $ 85  $ 85    hetzner  =  $ 4   标记对于仅具有简单的github集成 +一些额外的UI功能而非常巨大。因此，我建立了一个Heroku替代方案，您可以将任何想要的基础架构插入。 我经常得到的一个问题是这与colorify之类的东西有何不同。 The biggest one I think is that Canine can support multi server deployments, it doesn&#39;t assume you&#39;re just running on a single machine. It can also hook into the huge number of open source projects that can deploy directly onto a Kubernetes backend via helm, so it can do a one click deploy of:  Sentry Wordpress Metabase  dagster  气流  mongodb   redis   postgresql  和大约〜10000其他应用href =“ https://preview.itd.it/7ovwvp7j66me1.png？ Shots.so这是一个令人敬畏的工具  源代码： https：//github.com/czhu12/canine 提交由＆＃32; /u/u/czhu12     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j1d4lr/i_built_built_an_open_source_heroku_heroku_allternative_to_help/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1d4lr/i_built_an_open_source_heroku_alternative_to_help/</guid>
       <pubDate>Sat, 01 Mar 2025 23:39:06 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>我构建了Pairckle：创建排名🟠🟠🔵的一种更准确的方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1bsqr/i_built_pairckle_a_more_accurate_way_to_create_a/</link>
-      <description><![CDATA[    提交由＆＃32; /u/111 The111     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j1bsqr/i_built_built_pairckle_a_more_more_more_more_more_accurate_way_way_way_to_create_a/]]></description>
+      <description><![CDATA[    提交由＆＃32; /u/111 the1the111      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j1bsqr/i_built_built_pairckle_a_more_more_more_more_more_accurate_way_way_way_to_create_a/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1bsqr/i_built_pairckle_a_more_accurate_way_to_create_a/</guid>
       <pubDate>Sat, 01 Mar 2025 22:37:06 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[I saw this report of Chrome OS adding support for bounce keys, an accessibility feature that helps people with tremors use keyboards.我检查了是否有JS实现，并且似乎没有。所以我决定写一篇。 这是利基市场，因为以这种形式，患有损害的人无法直接安装和使用它。任何维护网站或基于Web的应用程序的开发人员主要是    可能会发现它有用。设置，发布和设计演示比什么都重要。 我想在此基础上写一个firefox扩展。对于不使用支持此的操作系统的受影响的个人，这可能会有更多的直接实用性。提交由＆＃32; /u/u/antrikshy     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j18e00/my_new_4day_4day_4day_4day_project_bouse_a_a_jsts_library_for/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j18e00/my_new_4day_project_bouncekeys_a_jsts_library_for/</guid>
       <pubDate>Sat, 01 Mar 2025 20:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>它看起来很棒，是我想要的，但是哇，设计很难。请提出建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j18c6l/it_looks_amazing_is_what_id_like_but_wow_design/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lovol2      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j18c6l/it_looks_amazing_is_is_is_is_what_id_id_id_like_like_but_wow_design/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j18c6l/it_looks_amazing_is_what_id_like_but_wow_design/</guid>
-      <pubDate>Sat, 01 Mar 2025 20:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Universe -3D.com- 3D模型搜索引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j17j1n/universe3dcom_a_3d_model_search_engine/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/kreatore       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j17j1n/universe3dcom_a_3d_model_search_engine/</guid>
-      <pubDate>Sat, 01 Mar 2025 19:26:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
