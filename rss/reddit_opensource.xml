@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 02 Mar 2025 06:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 09:24:11 GMT</lastBuildDate>
+    <item>
+      <title>第一个开源项目：寻求建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以在过去的几个月中，我一直在开发一个移动音乐播放器应用程序以供个人使用。一段时间后，一旦我觉得它已经“准备”，我就开始考虑开源该应用程序。为了让世界看到。但是，由于我与大学一起在业余时间开发它，因此我经常考虑如何支付账单之类的费用。鉴于与维护移动应用程序相关的成本，即使是这样的激情项目，我计划将捐款纳入帮助支付费用。我相信这是一种很好的方法，可以避免将功能放置在付费墙后面，维护应用程序对所有用户的可访问性。 ，因为这是我的第一个开源项目，我还在考虑如何在应用程序周围建立一个社区以及将来我的项目。虽然我知道开源贡献通常是爱的劳动，但我想找到方法来确保开发和维护应用程序所涉及的努力得到赞赏和认可。我知道用户可能会将工作视为理所当然，我想尽可能地减轻这一点。 您如何平衡项目的财务支持，您建议我做什么？  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/korvexx_dev     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</guid>
+      <pubDate>Sun, 02 Mar 2025 09:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ampyfin v3.0.1：自动化集合学习交易系统，该系统提供可以将交易信号解释为买入/出售或针对不同交易模型的基准（目前在2个月内增长32％，有利的指标用于进行重新测试）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j1m2sf/ampyfin_v301_automated_ensemble_learning_trading/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。 关于我的一些背景。我一直对交易感兴趣，并且一直想创建自己的交易项目。我有ML的背景，所以我决定这样做是将其用于交易。您可能想知道为什么我决定制作此开源。可能会失去很多东西，但是我恳求不同。   它背后还有一个道德方面，以及我想要获得的东西。从道德的角度来看，当我在大学并想对我的第一个自动交易机器人进行编码时，我记得几乎没有公开可用的交易机器人。这主要是在促进他们的课程或渠道的贸易大师。如果我确实创建一个成功的交易机器人，我将向自己保证，我将开放它，以便其他人可以使用我的项目来创建训练有素的模型或项目。另一件事是机会。我能够从批评中学到很多东西。我之前有一个开源交易项目 - 现在已经倒闭了 - 但是那时我能够遇到不同背景的不同人，从可观的道具交易公司的定量开发人员到那些与我同一班级有兴趣的个人。这种互动使我能够了解改进该项​​目所需的方面，并学习他们在试点 /研究计划中使用的新策略。这就是开源的特殊之处。您可以在项目启动之前结识您从未想过会遇到的人。 &lt; / p&gt; 大多数道具交易公司 /投资公司都有自己的ML模型。我没有声称我的比他们更好。老实说，在当前，我们的表现要胜过其中的绝大多数（根据其投资组合，我们正在跟踪6000多家交易公司）。这仅有2个月的时间，所以这在宏伟的计划中可能没有任何意义。 v3.0.1的回测结果显示出优惠的结果，最大降低为11.29％，R比率为1.91，Sortino为2.73，Sharpe比率为2.19。  readme.md 对于那些有兴趣使用该系统使用该系统的人。  这是指向网站的链接： https://www.ampyfin.com/    该网站在网站上托管当前的策略排名，最新交易，当前的投资组合控股，当前的投资汇集和抗衡，并抗衡台阶，并在台上培训，以备用台阶，以供您培训，我们的培训是我们的培训，我们的培训是我们的新产品。您也可以通过输入股票免费进行免费测试，并且它将返回信号。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/indecitable-air-1712     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j1m2sf/ampyfin_v301_automated_ensemble_learning_trading/</guid>
+      <pubDate>Sun, 02 Mar 2025 08:13:10 GMT</pubDate>
+    </item>
     <item>
       <title>我启动了一个开源项目，可能对我来说太大了</title>
       <link>https://www.reddit.com/r/opensource/comments/1j1k7aa/i_started_an_open_source_project_that_might_be/</link>
@@ -55,13 +69,6 @@
       <pubDate>Sun, 02 Mar 2025 00:43:41 GMT</pubDate>
     </item>
     <item>
-      <title>您如何在不感觉卖空的情况下推广项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j1bvif/how_do_you_promote_a_project_without_feeling_like/</link>
-      <description><![CDATA[Hi all, So I&#39;ve been coding for some time on https://github.com/genbase-project/genbase, code is getting to a point where I may be able to release it in some time, but I&#39;ve意识到我绝对不知道如何将其与可能关心的人面前。我已经看到无数令人惊叹的OSS项目默默无闻（包括我自己的），而其他人则在一夜之间爆炸，这对我来说似乎是完全随机的。我已经发布了几次推文，并获得了标准的2个喜欢。我在整体上苦苦挣扎。神话。原来，如果他们不知道您建造它，他们就不会来！那些去过那里的人的任何建议都将不胜感激。在这一点上，即使您的促销恐怖故事也会有所帮助！对于那些成功地关注您项目的人：您在哪里分享了实际导致用户/星/贡献者的工作？值得直接与可能有兴趣的人直接接触？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/ukanwat     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j1bvif/how_do_do_do_you_promote_promote_a_project_project_without_feeling_feeling_like/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j1bvif/how_do_you_promote_a_project_without_feeling_like/</guid>
-      <pubDate>Sat, 01 Mar 2025 22:40:34 GMT</pubDate>
-    </item>
-    <item>
       <title>免费和开源Perthog移动应用程序！</title>
       <link>https://www.reddit.com/r/opensource/comments/1j186h7/free_opensource_posthog_mobile_app/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  介绍hoglite，免费＆amp;完全开源的postthog移动客户端！快速查看见解，现场活动等等！查看应用程序： https://apps.apple.com/us/us/app/hoglite/ID6742509573   ...和repo！  https://github.com/js00001/hog-lite 提交由＆＃32; /u/u/js000000123     [link]   ＆＃32;   [注释]  ]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开始了第一个开源项目已经快3年了。该项目如今被称为sniffnet，已成为GitHub上最受欢迎的网络监控工具，拥有22k恒星和200k下载。 该项目在此期间收到的兴趣主要是因为我在Reddit上发布了此处，或者感谢其他外部网站/博客上的其他文章。 href =“ https://www.reddit.com/r/opensource/comments/1irjddt/comment/md947nh/?utm_source=share&amp; ; utm_medium = web3x＆amp; utm_name = web3xcss＆amp; utm_term = 1＆amp; utm_content = share_button&#39;&gt;注释来自 u/ssddanbrown 指出，Sniffnet缺乏社区，社交资料以及与新闻和更新有关的循环中。这让我思考了很多。 长话短说，今天我宣布 sniffnet博客，我将在这个地方分享有关应用程序进度和开发的新闻和见解。我还设置了一些社交资料和RSS feed，以使您可以轻松遵循更新。 该博客已经包含18篇文章，因为我试图在过去3年中整理我在这里和那里共享的所有主要更新。而且...我承认这样做时我有点激动……就像再次追溯这条令人难以置信的道路一样。 终于有了一个录制这一旅程的所有里程碑的地方，真是太神奇了。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j12z1e/announcing_a_blog_for_sniffnet_sniffnet_the_opensource/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j12z1e/announcing_a_blog_for_sniffnet_the_opensource/</guid>
       <pubDate>Sat, 01 Mar 2025 16:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的AI视频生成器网站项目，基于WAN2.1这个伟大的模型</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_video_generator_website_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴分享一个我一直在研究的开源项目：通过调用fal。 制作仓库： https://github.com/candytools-ai/candytools-ai/wan2.1-wan2.1-webui   href =“ https://wan21.net”&gt; https://wan21.net     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_ai_ai_video_generator_weberator_weberator_website_project/”&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_video_generator_website_project/</guid>
-      <pubDate>Sat, 01 Mar 2025 14:02:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
