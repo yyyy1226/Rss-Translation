@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 05 Mar 2025 01:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 03:32:25 GMT</lastBuildDate>
+    <item>
+      <title>让我们比较日常</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我看不到像这样的线程，我没有先搜索，所以请随时在必要时直接将我降至地狱。 您的工作标题是什么，您的日常工作通常是什么？懒惰的测量或市场研究，我试图获得氛围检查我的工作是否正常，如果我这样做，同时做了8个工作。 Mostly so I can get a rough idea of​​ what to expect if I do jump ship at the current place.  So, I&#39;ll answer first: I&#39;m a Senior Software Developer and a few months ago I was &#39;promoted&#39; to Lead Software Developer, I don&#39;t generally use this title because, I am the *only* software developer, it feels like cheating. I report directly to the owner of the firm I work for, admittedly我们是一个非常小的操作，实际上只有3个人，所以我敢肯定，我的位置比其他经验更加流畅。 我主要在客户端应用上工作，通常是Web Dev，在那里大部分是前端的工作，尽管我也为会议摊位做了一场比赛，但目前我无法做一个较大的时间。 到。这个项目和项目较小但类似于我的许多角色发挥作用。  我负责操作我们的VPS和随之而来的所有复杂性。 研究和做出关于VPS和building Applications的技术的研究和决定。关于客户端的网络设计。 后来部署，测试和所有有趣的东西。  我想我想念更多，但这可能是要点，我已经有一年多了，这是我的第一个适当的开发式演出，我不喜欢我的工作状况，对我的工作状况和良好的经验， [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</guid>
+      <pubDate>Wed, 05 Mar 2025 02:12:35 GMT</pubDate>
+    </item>
     <item>
       <title>Xiorjs：带有插件支撑和与Axios类似的API的轻量级提取器。</title>
       <link>https://www.reddit.com/r/webdev/comments/1j3r7ue/xiorjs_a_liteweight_fetch_wrapper_with_plugins/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>昨晚混乱后建立了一种无摩擦方式来分裂餐厅账单</title>
       <link>https://www.reddit.com/r/webdev/comments/1j3mpqj/built_a_frictionless_way_to_split_restaurant/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  昨晚与朋友的晚餐变成了数学噩梦：6个人，共享的开胃菜和到处都是饮料。当$ 380的账单到来时，没有人记得谁订购了什么。我们违约不平等地分裂，但是我的素食朋友肯定要高薪。&lt; /p&gt; 现有的应用程序使我感到沮丧：🔹所需帐户 n andus  br /&gt; br /&gt; br /&gt;🔹忽略税收 /提示分裂&lt; /p&gt; ，所以我建立了&lt;FairSplit with one goal: zero friction.  Add items → Assign to people (or split %s) → Done Mobile-first, no signup, instant share links   示例：&lt; /strong&gt; 我们的混乱法案需要90秒才能分裂。莎拉（Sarah）支付了43.20（沙拉+1margarita），其他43.20（ Salad  +1 +1 玛格丽塔），其他其他 58-65。计算器？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gudialational_king_728     [link]     [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  昨晚与朋友的晚餐变成了数学噩梦：6个人，共享的开胃菜和到处都是饮料。当$ 380的账单到来时，没有人记得谁订购了什么。我们违约不平等地分裂，但是我的素食朋友肯定要高薪。&lt; /p&gt; 现有的应用程序使我感到沮丧：🔹所需帐户 n andus  br /&gt; br /&gt; br /&gt;🔹忽略税收 /提示分裂&lt; /p&gt; ，所以我建立了&lt;FairSplit with one goal: zero friction.  Add items → Assign to people (or split %s) → Done Mobile-first, no signup, instant share links   示例：&lt; /strong&gt; 我们的混乱法案需要90秒才能分裂。莎拉（Sarah）支付了43.20（沙拉+1margarita），其他43.20（ Salad  +1 +1 玛格丽塔），其他其他 58-65。计算器？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gudialational_king_728     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j3mpqj/built_a_frictionless_way_to_split_restaurant/</guid>
       <pubDate>Tue, 04 Mar 2025 21:53:57 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我正在寻找项目计划和结构资源。不专注于项目管理，而是在项目上创建可理解的路线图和时间表的步骤。 我已经基于对我有用的东西开发了一个“自我思考”过程，但是，由于我在指导下获得了更多机会开始新的项目的机会，所以我想真正了解所有这些内容。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/newtotheworld23     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j3l6ix/project_planning_recommendations/</guid>
       <pubDate>Tue, 04 Mar 2025 20:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>C＃</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3l1zj/c/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们对c＃.net，typescript＆amp; amp; postgresql在一起没有太多浮华的框架和工具？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/exect-pass-4021       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3l1zj/c/</guid>
-      <pubDate>Tue, 04 Mar 2025 20:44:43 GMT</pubDate>
     </item>
     <item>
       <title>我应该在注册商管理DNS记录吗？</title>
