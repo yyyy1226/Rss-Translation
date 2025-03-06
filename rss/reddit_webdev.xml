@@ -4,13 +4,62 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 12:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 15:25:37 GMT</lastBuildDate>
     <item>
-      <title>需要建议！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4ul2f/need_an_advice/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很想听听该领域高级的建议。  我是一名具有2年工作经验的软件工程师。在这两年的这两年中，我还看了很多教程 - 课程。更加自由地独立于AI？我应该开始阅读我使用的框架的文档，然后尝试自己写所有内容吗？ 预先感谢您，  -  michail   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/mSqueez   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4ul2f/need_an_advice/</guid>
-      <pubDate>Thu, 06 Mar 2025 12:42:07 GMT</pubDate>
+      <title>DSL创建网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   DSL，它允许您使用1个编程语言（具有一致的语法）对所有内容的所有内容 +巧妙的默认值。然后，它还对HTML，CSS（和JS或WASM）进行编译，同时最大程度地提高性能和可访问性。 供参考，我基本上是在谈论JetPack组成（但是对于网站），而IMO是有史以来最好的事情，是对Android开发的最佳选择。还是我太雄心勃勃？同样，lmk如果已经存在类似的东西...  我想到的语法是这样的： ` }）{main {标题（; quot; this是h1; quot; quot; quot（＆quord; quot是h2＆quot&#39;&#39;）}}}}}}&#39;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/</guid>
+      <pubDate>Thu, 06 Mar 2025 15:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jian Yang寻求Gilfoyle的智慧成为后端Dev</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_seeks_gilfoyles_wisdom_to_be_a_backend/</link>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/v-d72lfzhfyqhvmyznd9iklqdr97xc8ypdmjx2cnzyo.jpg” title =“ jian yang seking jian yang seking gilfoyle对吉尔福伊（Gilfoyle class =“ md”&gt; 嗨，我是江杨（菜鸟，但不是愚蠢） - 这里是否有吉尔福伊（Gilfoyle）建议我成为专业的后端开发人员？   准确地说，我必须学会什么才能达到吉尔福伊尔水平的技能，建立大型软件的大型后端？请坚持使用DevOps，Architecture，API建筑，API测试和与后端相关的主题。如果您提到使用的每个部分的框架，工具和语言（顶级品牌，为什么您会爱上竞争对手）的框架，工具和语言，那就太好了，这将是主要的竞争对手。帮助我，并提供一条学习途径，以克服初学者的考验和您的经验错误。预先感谢...    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_yang_seeks_gilfoyles_wisdom_wisdom_to_be_a_a_backend/”&gt; [link]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_seeks_gilfoyles_wisdom_to_be_a_backend/</guid>
+      <pubDate>Thu, 06 Mar 2025 15:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS代码扩展名邮递员在尝试上传文件时崩溃了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_trying_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   问候！  我知道这可能不是询问的正确地方，因为我可能违反了此subreddit的规则编号1，但是请...我有点害羞地在官方Github Repo上打开一个问题。由于这个SubReddit的受众群体很大，因此我敢肯定，您中的许多人（尤其是后端开发人员或Web开发人员）今天使用过邮递员或仍然使用它。 作为后端开发人员，我每天都使用Postman，但只有VS代码扩展，因为它足够满足我的需求。您问为什么不安装桌面版本？好吧，我最近加入的公司给了我一个带有严格安全政策的笔记本电脑运行窗口。 I have no idea how they enforce them, but even running a program as an administrator requires a superadmin password, which I don&#39;t know and that requires me to arrange a meeting with the Asset team so that they can remote my pc and install the program themself, which is pretty cumbersome. Now, onto the issue! I was trying to use form-data to upload files, but Postman crashed VS Code completely.我的多个VS代码实例打开了，所有这些实例都崩溃了，只是因为我单击了“选择文件”  -  Windows对话框甚至没有出现；它只是立即崩溃了。 其他人正在遇到这个问题吗？上个月，邮递员团队承认了这一点，并提到由于Chrome Engine（或任何功能与代码）的某些变化，他们正在进行修复。如果您还使用Postman vs code扩展名并知道修复程序，请让我知道！ ，这是我的第一篇文章 - 我希望更多地参与这个社区。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_when_trying_trying_to/&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_trying_to/</guid>
+      <pubDate>Thu, 06 Mar 2025 15:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站绩效改进服务的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4wzwh/recommendations_for_site_performance_improvement/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找可以提高WP网站性能的人。我安装了WP火箭，但这将我的一半内容删除在Firefox和Edge上，因此我对此不太满意。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/simejah     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4wzwh/recommendations_for_site_performance_improvement/</guid>
+      <pubDate>Thu, 06 Mar 2025 14:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在现场更改Android Navbar的颜色</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4wyv0/change_color_of_android_navbar_on_site/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  当您访问我的网站时，如何更改Android Navbar的GHE颜色？我看到在其他网站上它颜色为黑色。我想在我的网站上同样发生这种情况。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/simejah       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4wyv0/change_color_of_android_navbar_on_site/</guid>
+      <pubDate>Thu, 06 Mar 2025 14:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[帮助] Google Workspace＆Domain.com噩梦 - 迫切寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4wnuf/help_google_workspace_domaincom_nightmare/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我在这个问题上的绝对突破点，所以我转向Reddit，希望有人可以提供帮助。 我最近创办了一家企业并为我的公司电子邮件，仪表板，仪表板，仪表板和整体运营设置Google Workspace。我的域名已在domain.com上注册，自设置工作以来，我被抓住了一个无休止的问题，这两家公司似乎都无法解决。 到目前为止的噩梦：•我几乎每天都在过去三个星期与16多个不同的domain.com代表进行了交谈。他们都声称要“修复”事物（清算，转移DN，更新记录等），但是每个修复程序都有等待期（8-10小时或1-2天），并且总是失败。 •昨天，我终于与一位真正尝试过的代表进行了交谈，这是3个小时的时间，与我进行了解决。他坚信这个问题是Google Workspace现在的100％。 •我很想获得Google Workspace支持……如果它实际上存在。没有办法联系人。每个支持选项都会导致AI机器人，无用的文章和死胡同的“社区帮助”页面。如果我设法打开聊天，我只会获得“聊天帮助不可用”。 •我一遍又一遍地发送电子邮件 - 零响应。 已完成的操作： ✅dns已被多次清除。 txt Records＆amp; DNS传播已由Domain.com确认。 ✅我遵循了每个可用的故障排除指南。 为什么这是如此关键：  Google Workspace对于我的业务运作至关重要。我每天要花2-3个小时来解决这个问题，而此时，我感到非常沮丧。我通常是精通技术的（在滑动量表上的7/10，扮演DevOps-AdjaceSt角色），因此，如果我将其带给Reddit，那是不好的。 我的请求寻求帮助：•是否有人成功地获得了Google Workspace支持？如何？！ •有人处理类似的domain.com + Google Workspace问题吗？ •任何DNS或领域故障排除专家都可以提供我可能错过的想法？ 我精神疲惫，可以真正使用一些指导。任何帮助都将得到深深的赞赏。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lalathescorpi0     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4wnuf/help_google_workspace_domaincom_nightmare/</guid>
+      <pubDate>Thu, 06 Mar 2025 14:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statichost或“ Ionos现在部署”有效的NetLify/基于欧盟的替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4ver1/are_statichost_or_ionos_deploy_now_valid/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  根据标题，我将每个客户端转移到欧盟服务器/服务，我正在尝试找到一个可以从git存储库中部署的NetLify/vercel的良好替代方案，甚至可以从无用的服务器功能中部署任何相关性。 href =“ https://european--alternatives.eu/alternative-to/netlify”&gt; https：//europearepopent-to/alternative.eu/alternative-to/netlify    ，我在提交由＆＃32; /u/u/sblanzio     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4ver1/are_statichost_or_ionos_deploy_now_valid/</guid>
+      <pubDate>Thu, 06 Mar 2025 13:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么LLM和AI代理不会消除软件工程师的需求（更新）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4uvse/why_llms_and_ai_agents_wont_remove_the_need_for/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/ewnh6tuz3hs1hjtet61rdqmugnnn1ao9wnalstbluthi.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 4CD0A5249FE4BC330674727EE5D7B41C47DF6A572“ title =“为什么LLM和AI代理不会删除软件工程师的需求（更新）”/&gt;   ＆＃32;提交由＆＃32; /u/u/gbro3n       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4uvse/why_llms_and_ai_agents_wont_remove_the_need_for/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:59:03 GMT</pubDate>
     </item>
     <item>
       <title>我有与异步/等待和本地JSON文件一起工作的问题。在过去的24小时中，我一直在调试和砸头！</title>
@@ -34,9 +83,9 @@
       <pubDate>Thu, 06 Mar 2025 12:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>需要有关使用AI功能（Laravel或Django？）为后端建造现代UI的建议。</title>
+      <title>需要有关使用AI功能（Laravel或Django？）为后端构建现代UI的建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_backend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是Web开发的新手，并从事一个我需要创建具有AI功能的移动商店的作业。我已经覆盖了前端（使用PHP），但是我的讲师特别希望后端UI像前端一样时尚和现代。 我是Python的开发人员，所以我对Django感到满意，但我也想学习一些新的东西。我已经尝试使用Laravel启动器套件，但是我想创建一个更自定义的后端UI。 这就是我在想的：    laravel   - 我喜欢PHP，但我想要现代化的，定制的后端UI。我正在考虑将 tailwind CSS 用于样式，也许添加 vue.js 或 react 用于动态组件。我还愿意使用 laravel nova 或 Voyager 。    django 的管理面板 - 由于我熟悉Python，Django可能是一个不错的选择。我知道可以定制Django的管理面板，但是我想知道是否可以将其与现代前端搭配，例如 react 或 vue 创建一个光滑的UI来管理后端。我还需要集成移动商店的AI功能。  您认为哪种堆栈更适合学习新事物，同时保持后端UI现代和清洁？我是否应该坚持使用前端框架的Laravel或潜入Django？ 期待您的想法，尤其是如何接近为后端系统构建自定义UI。任何技巧，教程或建议使此外观时尚且功能性的建议都非常有用！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uki_hunter     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_for_for_backend/”]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是Web开发的新手，并从事一个我需要创建具有AI功能的移动商店的作业。我已经覆盖了前端（使用PHP），但是我的讲师特别希望后端UI像前端一样时尚和现代。 我是Python的开发人员，所以我对Django感到满意，但我也想学习一些新的东西。我已经尝试使用Laravel启动器套件，但是我想创建一个更自定义的后端UI。 这是我想的：     laravel   - 我喜欢PHP，但我想要现代化的，定制的后端UI。我正在考虑将 tailwind CSS 用于样式，也许添加 vue.js 或 react 用于动态组件。我还愿意使用 laravel nova 或 Voyager 。    django 的管理面板 - 由于我熟悉Python，Django可能是一个不错的选择。我知道可以定制Django的管理面板，但是我想知道是否可以将其与现代前端搭配，例如 react 或 vue 创建一个光滑的UI来管理后端。我还需要集成移动商店的AI功能。  您认为哪种堆栈更适合学习新事物，同时保持后端UI现代和清洁？我是否应该坚持使用前端框架的Laravel或潜入Django？ 期待您的想法，尤其是如何接近为后端系统构建自定义UI。任何技巧，教程或建议使此外观时尚且功能性的建议都非常有用！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uki_hunter     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_for_for_backend/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_backend/</guid>
       <pubDate>Thu, 06 Mar 2025 12:09:14 GMT</pubDate>
     </item>
@@ -57,58 +106,9 @@
     <item>
       <title>Instagram网站应用程序，错误“此应用程序所请求的权限不可用”</title>
       <link>https://www.reddit.com/r/webdev/comments/1j4t2qx/instagram_website_app_error_the_requested/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我在测试中有一个Instagram应用程序，并且有两个Instagram测试用户。我知道Meta弃用了该应用程序正在使用的范围，现在我正在尝试为测试用户获取新的代币，而新的范围是“    instagram_business_basines_basics_basic     ; quot”; and＆quot   instagram_business_content_publish  ＆quot。同意窗口正确显示了“查看配置文件和访问媒体（必需）”。以及“访问和发布内容”切换和一切，但是当我击中“允许”时按钮，我会遇到错误：  无效的请求：请求参数无效：此应用程序无法使用所请求的权限  我实际上找不到新的 vermission  scopes 在管理员控制台的任何地方，但似乎所有的旧scopes copes copes cor都不再使用。有人知道如何解决这个问题吗？ 我已经将应用程序API提高到了最新版本（v22），但这似乎不起作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/efratbt     [link]      [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我在测试中有一个Instagram应用程序，并且有两个Instagram测试用户。我知道Meta弃用了该应用程序正在使用的范围，现在我正在尝试为测试用户获取新的代币，而新的范围是“    instagram_business_basines_basics_basic     ”; and＆quot   instagram_business_content_publish  ＆quot。同意窗口正确显示了“查看配置文件和访问媒体（必需）”。以及“访问和发布内容”切换和一切，但是当我击中“允许”时按钮，我会遇到错误：  无效的请求：请求参数无效：此应用程序无法使用所请求的权限  我实际上找不到新的 vermission  scopes 在管理员控制台的任何地方，但似乎所有的旧scopes copes copes cor都不再使用。有人知道如何解决这个问题吗？ 我已经将应用程序API提高到了最新版本（v22），但这似乎不起作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/efratbt     [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j4t2qx/instagram_website_app_error_the_requested/</guid>
       <pubDate>Thu, 06 Mar 2025 11:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何与经理打交道</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4svh0/how_to_deal_with_manager/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ive启动了一个与一家公司的项目，这是一个有薪的职位，但是一个月后，我询问了有关薪水的要求，他说这是整个项目的一次性付款，在过程中从未提及过。在来回一会儿之后，我决定放开它，因为我需要钱。他们给了我整个项目（投资平台移动应用程序）的270美元，这没什么。 现在他已经开始微管理。他们没有给我推送代码的存储库，所以我创建了我的。现在，他想为他将批准的每项提交提出牵引请求（他对此一无所知，因为他甚至都不知道项目的生命周期），我们只是团队中的两个开发人员。后端和前端（我）开发。因此，我是这里唯一的高级或其他开发人员。今天，我收到了他想要每天站立的味精，在开会之前，我们必须分享笔记（我们昨天做了什么，今天和明天的计划等）。他开始不必要地使事情复杂化。  现在我确实需要钱，但是我不能容忍任何BS Wheter是责备，政治之类的。他确实将我无法控制的项目归咎于我。当我加入时，设计还没有准备好，所以他个人要求我工作一个星期的工作缓慢。然后，他们的设计存在问题，因此App Store会拒绝我们的应用程序。这也自然增加了工作（我不得不更多地制作5个屏幕）。将里程碑推迟了2天。我也为此而受到指责。 我不知道该如何处理。任何建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hafi51     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4svh0/how_to_deal_with_manager/</guid>
-      <pubDate>Thu, 06 Mar 2025 10:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>3周的Rabbitholes搜索数据证明我们都有可疑的研究习惯</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_data_prove_we_all/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  记得我构建的那个拖延工具吗？在分析了三个星期的数据之后，我可以确认我们都同样“好奇”。在我们的搜索模式中。 您搜索的奇怪情况 我期望教育主题。我得到的：  搜索从与工作相关的查询开始，并以某种方式以“历史浪漫习俗”的结尾“  无害的主题，然后急剧转变为“艺术参考”。 （我们都知道这是什么意思） 关于您数量的调查，“在没有做任何事情的情况下，“ ”不再拖延 我们已经有来自13个国家的用户  nfsw搜索在搜索1个国家的搜索中，猜测哪个国家/li&gt; 我们现在有70个不和谐的用户！   拖延会感到更加结构化和智力。 当您应该工作时，最出乎意料的话题螺旋式rab骨会使您失望？最具创造力的答案赢得了我的永恒尊重。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/noad5720     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_search_data_prove_prove_we_all//]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_data_prove_we_all/</guid>
-      <pubDate>Thu, 06 Mar 2025 10:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>与React和Openai建立了AI驱动的电影建议 - 在这里我学到了什么（并沿途搞砸了）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4ryku/built_aipowered_movie_suggestions_with_react_and/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/babayaga72528       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4ryku/built_aipowered_movie_suggestions_with_react_and/</guid>
-      <pubDate>Thu, 06 Mar 2025 09:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的OCD，Pixel创建Crisp SVG图标的完美方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4rpm4/my_ocd_pixel_perfect_approach_to_creating_crisp/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/e3vadk1xfmupefswl0ds6wnasbtjcvpyh4iggnrzeyy.jpg？ width = 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 6786f2ff662e46e8e668e668fd3f1a004c66666bb0a64ac“ title =“我的OCD，Pixel创建Crisp SVG图标的完美方法”/&gt;   ＆＃32;提交由＆＃32; /u/u/u/alexduncan      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4rpm4/my_ocd_pixel_perfect_approach_to_creating_crisp/</guid>
-      <pubDate>Thu, 06 Mar 2025 09:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Recaptcha（V3）响应理智检查？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  免责声明：这篇文章是rant rant  ，由于spambots，我最近在我管理的网站的寄存器页面上实现了recaptcha。但是，这些混蛋机器人主机向我发送了G-Recaptcha-Response字段中的随机字符串（这意味着我必须将评估发送给Google，这显然失败了）。如果混蛋机器人托管没有出于任何理由，这将没有任何理由，这将不是一个问题，这将很快超过10.000个recaptcha的免费评估限制。 除了检查是否存在任何基本的响应，除了检查该领域，我是否可以使用杂草，除了检查该领域外是否可以进行杂草？我不需要全面验证（显然，这就是评估的目的），我只想尽早清除大部分机器人，因为登记册的尝试几乎完全是从机器人中摘自机器人（请注意，他们使用伪造的电子邮件，这意味着他们无法验证它，因此即使在冠军之前就无法登录：绝对没有示例，br ye the Bre nose br ber /nove bug bug n of bug n over in nove n of bug n over n of to n of to n of to n of noce &lt;是）。由于这些机器人的使用很短（但我找不到合法响应的最小尺寸可能是什么，因此Google显然只希望我为每几个月的单一合法注册付费）。  另外：是否有任何方法可以向机器人清楚地表明他们正在做的事情失败了，他们应该停止尝试？感觉就像是填充表格的机器人，因为验证码失败而被踢回完全相同的形式，这仍然是一种形式，因此机器人再次填充了它：失败的寄存器尝试垃圾邮件的无尽环路。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/chirimorin   href =“ https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/</guid>
-      <pubDate>Thu, 06 Mar 2025 09:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为网络游戏设置MonorePo</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4rjl0/setting_up_monorepo_for_web_game/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个网络游戏（详细信息无关紧要）并构建一个monorepo。与前端的vite反应，后端中的nodejs，sql，pnpm，socket.io for PvP上的打字稿。客户端文件夹，服务器文件夹和共享文件夹（常见类型和游戏引擎工具）。我一直在尝试自己设置很多问题，您会建议您使用诸如Turbo之类的东西吗？即使这是一个单独的本地项目？我有没有最新的指南？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chrisdorne     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4rjl0/setting_up_monorepo_for_web_game/</guid>
-      <pubDate>Thu, 06 Mar 2025 09:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的LinkedIn个人资料当前是空的；我可以展示哪些类型的项目或证书以使我的个人资料更具吸引力？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4rcag/my_linkedin_profile_is_currently_emptywhat_type/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已进入第二年RN，目前进入完整的堆栈开发  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unusual_appeal_6596      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4rcag/my_linkedin_profile_is_currently_emptywhat_type/</guid>
-      <pubDate>Thu, 06 Mar 2025 08:59:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
