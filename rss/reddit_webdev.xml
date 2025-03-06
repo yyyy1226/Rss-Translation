@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 06:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 12:47:52 GMT</lastBuildDate>
     <item>
-      <title>.llmignore-控制哪些文件IDE LLM可以编辑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4p2gx/llmignore_control_what_files_ide_llms_can_edit/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    httpps://lordajax.com/llmignore..html  提交由＆＃32; /u/u/u/thomasdav_is     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4p2gx/llmignore_control_what_files_ide_llms_can_edit/</guid>
-      <pubDate>Thu, 06 Mar 2025 06:12:32 GMT</pubDate>
+      <title>需要建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4ul2f/need_an_advice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很想听听该领域高级的建议。  我是一名具有2年工作经验的软件工程师。在这两年的这两年中，我还看了很多教程 - 课程。更加自由地独立于AI？我应该开始阅读我使用的框架的文档，然后尝试自己写所有内容吗？ 预先感谢您，  -  michail   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/mSqueez   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4ul2f/need_an_advice/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>使用WooCommerce后端创建用户购物车？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4oxr7/creating_a_user_cart_with_woocommerce_backend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   nextjs frontend，woocommerce无头后端。 我认为，除非我制作自定义插件并将其放入他们的元数据？购物车，注销，然后在其他地方或新的cookie/session中登录，然后返回其购物车）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nicementalhealthpal     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4oxr7/creating_a_user_cart_with_woocommerce_backend/</guid>
-      <pubDate>Thu, 06 Mar 2025 06:03:42 GMT</pubDate>
+      <title>我有与异步/等待和本地JSON文件一起工作的问题。在过去的24小时中，我一直在调试和砸头！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4ujan/i_have_problems_working_with_asyncawait_and_local/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4ujan/i_have_problems_working_with_asyncawait_and_local/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>条纹重复订阅和3D安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4owsg/stripe_recurring_subscriptions_and_3d_secure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我是一家经营自己的e-com堆栈的电子商务业务的全职营销经理和兼职前端开发人员。我们也有一个全职开发人员，他本来应该是完整的堆栈，但是他的后端工作（用Java编写）比他的前端工作要好，因此我正在帮助前端工作以改善UX和UI。 我们的网站提供了重复的订阅产品和非重复订阅产品。对于非重复出现的产品，我们将付款方式保存为客户发起的未来交易的默认付款。 ，对于经常性付款，我们会遇到3D Secure的问题。在可能的情况下，我们会尽量避免触发3D安全，但是显然，欧盟中的一些卡在每笔交易中都需要3D安全。我们的开发人员表示，在这种情况下，即使客户在最初的交易中取得了3D安全挑战，这会产生重复的交易，但由于需要3DS的第二次重复交易命中率，它将失败。  条纹文档似乎证实了这一点： https：//docs.stripe.com/billing/subscriptions/subscriptions/overview                    如果每项交易需要3DS的银行，那么它是否可以使用自动重复的条纹付款在条纹上付款，如果重复交易不会失败，前提是最初的交易成功通过了3DS？  3DS？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4owsg/stripe_recurring_subscriptions_and_3d_secure/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4owsg/stripe_recurring_subscriptions_and_3d_secure/</guid>
-      <pubDate>Thu, 06 Mar 2025 06:02:00 GMT</pubDate>
+      <title>具有代码演示和交互式可视化的学术网站的最佳SSG？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4ucq6/best_ssg_for_an_academic_site_with_code_demos/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名博士生，也很感兴趣地开发科学研究软件。我希望建立一个个人网站，该网站将具有通常的学术内容（博客，出版物，简历），但也是展示代码和教程的地方。我最终想包括内置的jupyter笔记本教程，以及可能进一步的互动科学可视化。 我最初与jekyll一起玩过，但听说SSG是11ty和Astro之类的SSG是“下一个Hot Thing the Next Hot Thing Thing＆quot”，并且可能更适合互动内容。我想知道什么SSG/工具最适合我的需求？特别是考虑到我有限的经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/j_fids     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4ucq6/best_ssg_for_an_academic_site_with_code_demos/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:28:37 GMT</pubDate>
     </item>
     <item>
-      <title>购买域名的最佳地点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4odon/best_place_to_purchase_domain_names/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我对Web开发一无所知，但希望今年开设一个业务和网站并了解我的需求。对于初学者来说，我只想在此期间保护一些域以保护它们，但是直到以后我不需要其他服务。为了安全起见，什么是购买我的域名的最佳注册服务商是什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4odon/best_place_to_to_to_purchase_purchase_purchase_domain_names/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4odon/best_place_to_purchase_domain_names/</guid>
-      <pubDate>Thu, 06 Mar 2025 05:29:14 GMT</pubDate>
+      <title>每天需要1H VPS才能进行强计算</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4u6h2/need_1h_vps_per_day_for_strong_computing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我需要一个极强的CPU。我不想买一个，也不能租用服务器247  我每天只需要1个小时，然后在它上运行Windows/Macos  有任何建议吗？ Google Cloud是否有可能？对不起，我是noob   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jurijurka     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4u6h2/need_1h_vps_per_day_for_strong_computing/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>如何定位元素和或一组元素。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4nzq3/how_to_position_elements_and_or_a_group_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在努力理解我如何将元素定位在网页中的特定位置的概念，而无需使用位置属性，这应该使它对我的知识无反应。我了解Flexbox和Grid的基础知识，但是我看不到任何合理的内容和对齐项目/内容属性如何针对特定空间，而不是自然而然地默认的空间。我知道，使用边距将特定部分移动到周围也是不良的做法。我希望我的网页能尽可能迅速响应，以便在涉及到媒体的问题上更少。我将要爆炸。任何帮助将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/livingParticular915     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4nzq3/how_to_position_elements_and_or_a_group_of/</guid>
-      <pubDate>Thu, 06 Mar 2025 05:05:24 GMT</pubDate>
+      <title>需要有关使用AI功能（Laravel或Django？）为后端建造现代UI的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_backend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是Web开发的新手，并从事一个我需要创建具有AI功能的移动商店的作业。我已经覆盖了前端（使用PHP），但是我的讲师特别希望后端UI像前端一样时尚和现代。 我是Python的开发人员，所以我对Django感到满意，但我也想学习一些新的东西。我已经尝试使用Laravel启动器套件，但是我想创建一个更自定义的后端UI。 这就是我在想的：    laravel   - 我喜欢PHP，但我想要现代化的，定制的后端UI。我正在考虑将 tailwind CSS 用于样式，也许添加 vue.js 或 react 用于动态组件。我还愿意使用 laravel nova 或 Voyager 。    django 的管理面板 - 由于我熟悉Python，Django可能是一个不错的选择。我知道可以定制Django的管理面板，但是我想知道是否可以将其与现代前端搭配，例如 react 或 vue 创建一个光滑的UI来管理后端。我还需要集成移动商店的AI功能。  您认为哪种堆栈更适合学习新事物，同时保持后端UI现代和清洁？我是否应该坚持使用前端框架的Laravel或潜入Django？ 期待您的想法，尤其是如何接近为后端系统构建自定义UI。任何技巧，教程或建议使此外观时尚且功能性的建议都非常有用！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uki_hunter     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_for_for_backend/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_backend/</guid>
+      <pubDate>Thu, 06 Mar 2025 12:09:14 GMT</pubDate>
     </item>
     <item>
-      <title>编码最差的椅子。我应该避免什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4n5t5/worst_chair_for_coding_what_should_i_avoid/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  长时间的编码会议足够糟糕，而没有不舒服的椅子会使情况变得更糟。我犯了一个flexfit hyken网状椅子的错误，虽然起初看起来还不错，但网眼却很快磨掉了，收集了灰尘，并且随着时间的流逝而失去了支撑。  您使用的最差椅子是什么？它是否会弄乱您的专注，姿势或整体舒适感？寻找一些恐怖故事，所以我知道要避免什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theagrace939    href =“ https://www.reddit.com/r/webdev/comments/1j4n5t5/worst_chair_for_for_coding_what_should_i_avoid/&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4n5t5/worst_chair_for_coding_what_should_i_avoid/</guid>
-      <pubDate>Thu, 06 Mar 2025 04:17:12 GMT</pubDate>
+      <title>有人可以帮我吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4tjgs/can_someone_please_help_me/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  有人可以给我一个想法，并指导我做动画。它的第4天，我的孩子们饿了  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/b_b007      [注释]     ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4tjgs/can_someone_please_help_me/</guid>
+      <pubDate>Thu, 06 Mar 2025 11:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>如果您需要对自己作为开发人员感到良好，只需访问Comcast的网站，打开控制台，观看据称生产就绪的网站上的错误海洋。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4mss3/if_you_ever_need_to_feel_good_about_yourself_as_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   pizza Hut的网站相同。只是说，如果冒名顶替综合症正在努力，请观看那些网站挣扎，并记住有人会得到报酬来生产那个热垃圾。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pagerussell   href =“ https://www.reddit.com/r/webdev/comments/1j4msss3/if_you_ever_ever_need_to_to_feel_good_good_about_about_yourselfsself_as_a/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4msss3/if_you_ever_ever_need_to_to_feel_good_good_about_about_about_yourself_as_as_a/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4mss3/if_you_ever_need_to_feel_good_about_yourself_as_a/</guid>
-      <pubDate>Thu, 06 Mar 2025 03:57:06 GMT</pubDate>
+      <title>需要帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4tcm5/need_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想启动一个技术博客网站。当我在Blogger上创建网站时，我想要您的帮助。我想添加类似于此网站的主题模板 https://9to5google.com/ ，但是我不知道该怎么做。我搜索了很多，但是我只从查看Inspect元素中获得了网站的代码，现在我不知道该代码的哪个部分是实际主题设计。有人请帮助我  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/brahmindevta     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4tcm5/need_help/</guid>
+      <pubDate>Thu, 06 Mar 2025 11:25:03 GMT</pubDate>
     </item>
     <item>
-      <title>您是否有个人徽标，例如您的个人投资组合网站（不是业务）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4mcnp/do_you_have_a_personal_logo_like_for_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题说明了一切。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4mcnp/do_you_have_have_a_personal_personal_logo_like_for_your/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4mcnp/do_you_have_a_personal_logo_like_for_your/</guid>
-      <pubDate>Thu, 06 Mar 2025 03:31:56 GMT</pubDate>
+      <title>Instagram网站应用程序，错误“此应用程序所请求的权限不可用”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4t2qx/instagram_website_app_error_the_requested/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我在测试中有一个Instagram应用程序，并且有两个Instagram测试用户。我知道Meta弃用了该应用程序正在使用的范围，现在我正在尝试为测试用户获取新的代币，而新的范围是“    instagram_business_basines_basics_basic     ; quot”; and＆quot   instagram_business_content_publish  ＆quot。同意窗口正确显示了“查看配置文件和访问媒体（必需）”。以及“访问和发布内容”切换和一切，但是当我击中“允许”时按钮，我会遇到错误：  无效的请求：请求参数无效：此应用程序无法使用所请求的权限  我实际上找不到新的 vermission  scopes 在管理员控制台的任何地方，但似乎所有的旧scopes copes copes cor都不再使用。有人知道如何解决这个问题吗？ 我已经将应用程序API提高到了最新版本（v22），但这似乎不起作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/efratbt     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4t2qx/instagram_website_app_error_the_requested/</guid>
+      <pubDate>Thu, 06 Mar 2025 11:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>github-云标志：使用书签来创建快速简便的云书签</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4lpdh/github_cloudmark_use_bookmarklets_to_create_quick/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/prophet2g       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4lpdh/github_cloudmark_use_bookmarklets_to_create_quick/</guid>
-      <pubDate>Thu, 06 Mar 2025 02:58:13 GMT</pubDate>
+      <title>如何与经理打交道</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4svh0/how_to_deal_with_manager/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   ive启动了一个与一家公司的项目，这是一个有薪的职位，但是一个月后，我询问了有关薪水的要求，他说这是整个项目的一次性付款，在过程中从未提及过。在来回一会儿之后，我决定放开它，因为我需要钱。他们给了我整个项目（投资平台移动应用程序）的270美元，这没什么。 现在他已经开始微管理。他们没有给我推送代码的存储库，所以我创建了我的。现在，他想为他将批准的每项提交提出牵引请求（他对此一无所知，因为他甚至都不知道项目的生命周期），我们只是团队中的两个开发人员。后端和前端（我）开发。因此，我是这里唯一的高级或其他开发人员。今天，我收到了他想要每天站立的味精，在开会之前，我们必须分享笔记（我们昨天做了什么，今天和明天的计划等）。他开始不必要地使事情复杂化。  现在我确实需要钱，但是我不能容忍任何BS Wheter是责备，政治之类的。他确实将我无法控制的项目归咎于我。当我加入时，设计还没有准备好，所以他个人要求我工作一个星期的工作缓慢。然后，他们的设计存在问题，因此App Store会拒绝我们的应用程序。这也自然增加了工作（我不得不更多地制作5个屏幕）。将里程碑推迟了2天。我也为此而受到指责。 我不知道该如何处理。任何建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hafi51     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4svh0/how_to_deal_with_manager/</guid>
+      <pubDate>Thu, 06 Mar 2025 10:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>我应该如何在社交媒体应用中缓存数据困惑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_should_i_cache_data_in_my_social/</link>
-      <description><![CDATA[Hello everyone, I&#39;m building this communitir based social media web application. For now I am caching everything... Posts of each Threads (Pages) per page, User details, Post details, Comments, Replies... Even user based Get requests for example, user-user connection, user&#39;s reaction on a post, member details, etc. and then revalidate them on POST requests. 目前，详细页面（例如/threads/：id ）是一个服务器组件，在基于用户的按钮（例如 join&gt; join 按钮）时，它可以获取页面的详细信息，它是一个客户端组件，如果当前用户已加入了此线程，则它显示了两者的加载。即使使用React查询在客户端进行缓存的内容。 我正在缓存所有内容以减少服务器和数据库调用，但我不确定这是正确的方式还是生产级别的方式。 ，所以我希望大家告诉我我是否在做对或错。我应该缓存大部分内容还是应该让每个获取请求点击数据库？ 注意：当我说缓存时，我在谈论下一个JS的数据缓存，而现在没有其他缓存存储。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sipited-topic-3363      [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_how_should_should_should_i_cache_cache_cache_data_in_my_my_my_social/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_should_i_cache_data_in_my_social/</guid>
-      <pubDate>Thu, 06 Mar 2025 02:28:58 GMT</pubDate>
+      <title>3周的Rabbitholes搜索数据证明我们都有可疑的研究习惯</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_data_prove_we_all/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  记得我构建的那个拖延工具吗？在分析了三个星期的数据之后，我可以确认我们都同样“好奇”。在我们的搜索模式中。 您搜索的奇怪情况 我期望教育主题。我得到的：  搜索从与工作相关的查询开始，并以某种方式以“历史浪漫习俗”的结尾“  无害的主题，然后急剧转变为“艺术参考”。 （我们都知道这是什么意思） 关于您数量的调查，“在没有做任何事情的情况下，“ ”不再拖延 我们已经有来自13个国家的用户  nfsw搜索在搜索1个国家的搜索中，猜测哪个国家/li&gt; 我们现在有70个不和谐的用户！   拖延会感到更加结构化和智力。 当您应该工作时，最出乎意料的话题螺旋式rab骨会使您失望？最具创造力的答案赢得了我的永恒尊重。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/noad5720     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_search_data_prove_prove_we_all//]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_data_prove_we_all/</guid>
+      <pubDate>Thu, 06 Mar 2025 10:37:08 GMT</pubDate>
     </item>
     <item>
-      <title>不需要电话号码并且不是试用的免费电子邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_not_require_phone_number_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您少于一个月未登录，则不会关闭帐户的一个。寻找真正免费的个人信息收集。 已经听说过Gmail，Yahoo，Zoho，Proton。 ＆lt;＆lt;＆lt;可能需要一个单元应用程序漏洞，或者免费/无电话是过去的选项。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_does_not_require_require_require_phone_number_and/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_not_require_phone_number_and/</guid>
-      <pubDate>Thu, 06 Mar 2025 01:51:25 GMT</pubDate>
+      <title>与React和Openai建立了AI驱动的电影建议 - 在这里我学到了什么（并沿途搞砸了）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4ryku/built_aipowered_movie_suggestions_with_react_and/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/babayaga72528       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4ryku/built_aipowered_movie_suggestions_with_react_and/</guid>
+      <pubDate>Thu, 06 Mar 2025 09:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>技术采访的艺术</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4k9h2/the_art_of_tech_interviewing/</link>
-      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/feross      [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4k9h2/the_art_of_tech_interviewing/</guid>
-      <pubDate>Thu, 06 Mar 2025 01:46:10 GMT</pubDate>
+      <title>我的OCD，Pixel创建Crisp SVG图标的完美方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4rpm4/my_ocd_pixel_perfect_approach_to_creating_crisp/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/e3vadk1xfmupefswl0ds6wnasbtjcvpyh4iggnrzeyy.jpg？ width = 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 6786f2ff662e46e8e668e668fd3f1a004c66666bb0a64ac“ title =“我的OCD，Pixel创建Crisp SVG图标的完美方法”/&gt;   ＆＃32;提交由＆＃32; /u/u/u/alexduncan      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4rpm4/my_ocd_pixel_perfect_approach_to_creating_crisp/</guid>
+      <pubDate>Thu, 06 Mar 2025 09:27:29 GMT</pubDate>
     </item>
     <item>
-      <title>让我们看看您的个人投资组合 /博客网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portfolio_blog_websites/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建我的个人投资组合网站。我有一些想法，但是我想看看您为您感到骄傲的例子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portroio_portfolio_blog_websites/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portfolio_blog_websites/</guid>
-      <pubDate>Thu, 06 Mar 2025 01:44:42 GMT</pubDate>
+      <title>Google Recaptcha（V3）响应理智检查？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  免责声明：这篇文章是rant rant  ，由于spambots，我最近在我管理的网站的寄存器页面上实现了recaptcha。但是，这些混蛋机器人主机向我发送了G-Recaptcha-Response字段中的随机字符串（这意味着我必须将评估发送给Google，这显然失败了）。如果混蛋机器人托管没有出于任何理由，这将没有任何理由，这将不是一个问题，这将很快超过10.000个recaptcha的免费评估限制。 除了检查是否存在任何基本的响应，除了检查该领域，我是否可以使用杂草，除了检查该领域外是否可以进行杂草？我不需要全面验证（显然，这就是评估的目的），我只想尽早清除大部分机器人，因为登记册的尝试几乎完全是从机器人中摘自机器人（请注意，他们使用伪造的电子邮件，这意味着他们无法验证它，因此即使在冠军之前就无法登录：绝对没有示例，br ye the Bre nose br ber /nove bug bug n of bug n over in nove n of bug n over n of to n of to n of to n of noce &lt;是）。由于这些机器人的使用很短（但我找不到合法响应的最小尺寸可能是什么，因此Google显然只希望我为每几个月的单一合法注册付费）。  另外：是否有任何方法可以向机器人清楚地表明他们正在做的事情失败了，他们应该停止尝试？感觉就像是填充表格的机器人，因为验证码失败而被踢回完全相同的形式，这仍然是一种形式，因此机器人再次填充了它：失败的寄存器尝试垃圾邮件的无尽环路。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/chirimorin   href =“ https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/</guid>
+      <pubDate>Thu, 06 Mar 2025 09:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>工作报价被撤销</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4juob/job_offer_rescinded/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  非常沮丧。收到了一家公司在周一制作在线学校软件的公司中的软件工程师职位的报价。给了我当前的工作通知，并开始卸载我的工作的过程。今天接到招聘人员的电话，说他们需要取消要约。他们说这是由于意外的业务发展。  我对这个角色感到兴奋，并在面试过程中花了很多时间。与两名工程师一起进行家庭测试，与高层管理的视频通话以及2小时的配对编程课程。进行家庭测试是制作一个Web应用程序，您可以在其中添加，更新，删除披萨浇头。添加，编辑和删除比萨饼以及所有数据持续存在的添加/删除浇头。需要进行测试，使用说明以本地运行和测试的说明，并在某个地方部署该项目。  有人曾经处理过类似的事情吗？希望保持积极进取  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thanneman      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4juob/job_offer_rescinded/</guid>
-      <pubDate>Thu, 06 Mar 2025 01:25:55 GMT</pubDate>
+      <title>为网络游戏设置MonorePo</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4rjl0/setting_up_monorepo_for_web_game/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个网络游戏（详细信息无关紧要）并构建一个monorepo。与前端的vite反应，后端中的nodejs，sql，pnpm，socket.io for PvP上的打字稿。客户端文件夹，服务器文件夹和共享文件夹（常见类型和游戏引擎工具）。我一直在尝试自己设置很多问题，您会建议您使用诸如Turbo之类的东西吗？即使这是一个单独的本地项目？我有没有最新的指南？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chrisdorne     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4rjl0/setting_up_monorepo_for_web_game/</guid>
+      <pubDate>Thu, 06 Mar 2025 09:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>评分我的抽认卡应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是一名药房技术，教我自己。我构建了一个抽认卡应用程序，其中包括您可能需要了解的有关前200名药物的所有信息。我感谢任何反馈。  这是链接   https：//kingjofr.github.io/rxcardgenclient/rxcardgenclient/提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/</guid>
-      <pubDate>Thu, 06 Mar 2025 01:19:37 GMT</pubDate>
+      <title>我的LinkedIn个人资料当前是空的；我可以展示哪些类型的项目或证书以使我的个人资料更具吸引力？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4rcag/my_linkedin_profile_is_currently_emptywhat_type/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已进入第二年RN，目前进入完整的堆栈开发  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unusual_appeal_6596      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4rcag/my_linkedin_profile_is_currently_emptywhat_type/</guid>
+      <pubDate>Thu, 06 Mar 2025 08:59:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
