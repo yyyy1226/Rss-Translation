@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 07 Mar 2025 03:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 06:33:13 GMT</lastBuildDate>
+    <item>
+      <title>将MongoDB版本从6升至版本7</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5h8e6/upgrading_mongodb_version_from_6_to_version_7/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  将mongodb版本从6升级到版本7  我对MongoDB群集的升级;     我有以下担忧，如果我在5.x上运行Mongoose 5.X，它会支持Mongodb版本，它会支持Mongodb版本7吗？到目前为止，它支持MongoDB版本6，并使用3.x的节点驱动程序版本。    我是否必须在6升至7？   升级之前，要拍摄当前DB的快照？我是否需要担心我的应用程序的功能（也许与问题1有关）？    如果我打算将来升级到版本8（在升级为7后的几个月内），则在此情况下，问题1和3的答案是什么？     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/slhardy98_polyamory       [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5h8e6/upgrading_mongodb_version_from_6_to_version_7/</guid>
+      <pubDate>Fri, 07 Mar 2025 06:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>b或不向B：带有乐观锁联耦合的B-Trees</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5fm4c/to_b_or_not_to_b_btrees_with_optimistic_lock/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/avinassh      [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5fm4c/to_b_or_not_to_b_btrees_with_optimistic_lock/</guid>
+      <pubDate>Fri, 07 Mar 2025 04:48:55 GMT</pubDate>
+    </item>
     <item>
       <title>你好。我是编译器。</title>
       <link>https://www.reddit.com/r/programming/comments/1j59132/hello_im_a_compiler/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>使用AI的隐藏危险</title>
       <link>https://www.reddit.com/r/programming/comments/1j50to1/hidden_perils_of_using_ai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/e exiledDude     link link&gt; [link&gt; link]&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/e exileddude     link&gt; [link&gt; link&gt; [link]&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j50to1/hidden_perils_of_using_ai/</guid>
       <pubDate>Thu, 06 Mar 2025 17:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有筏的分布式系统（第1部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1j50ie4/distributed_systems_without_raft_part_1/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://david-delassus.medium.com/distributed-systems-without-raft-part-part-part-1-a6b0b43db7ee”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j50ie4/distributed_systems_without_raft_part_1/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座编码器 -  2M上下文编码助手 - 视觉工作室市场</title>
-      <link>https://www.reddit.com/r/programming/comments/1j50ck3/gemini_coder_the_2m_context_coding_assistant/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/robertpiosik      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j50ck3/gemini_coder_the_2m_context_coding_assistant/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:06:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

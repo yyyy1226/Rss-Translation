@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 07 Mar 2025 03:32:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 06:33:37 GMT</lastBuildDate>
+    <item>
+      <title>如何为SEO优化网站 - 开发人员指南</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_for_seo_a_developers/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  搜索引擎优化（SEO）是改善网站在搜索引擎上的可见性的艺术和科学。作为Web开发人员，您应该对SEO实践有深刻的了解，以帮助客户的网站在搜索结果中排名更高。本指南将引导您浏览SEO网站的步骤。单击链接以阅读全文。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no-whole520     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_a_website_for_seo_a_develicers/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_for_seo_a_developers/</guid>
+      <pubDate>Fri, 07 Mar 2025 05:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram CLI- Instagram的终端接口</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j5frtq/instagram_cli_terminal_interface_for_instagram/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们构建了Instagram CLI，这是一个基于终端的Instagram聊天客户端，可让您在无触摸应用程序的情况下发送消息，回复，反应和处理媒体。没有干扰，没有算法，只有消息。  github： https://github.com/github.com/supreme-gg-gg-gg-gg-gg-gg-gg/instagr/instagr/instagram-cli-instagram-cli-instagram-cli-instagram-cli  https://pypi.org/project/project/instagram-cli/    您可以直接使用 pip instagram-cli pip instagram-cli   功能：  用经典Unix构建的简约终端UI诅咒库。 全面支持DMS，包括多媒体，答复和反应。  vim-style vim-style vim-style vim-style warrigation for 100％键盘驱动器体验。    诸如brainrot Analytics和Notifications之类的智能实用性。     为什么我们建立 我们的目的是让我们不愿意将其提供给我们的核心工具 我们不愿意将社交媒体的控制权回到&lt;&lt;    demo视频提交由＆＃32; /u/endernoke     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j5frtq/instagram_cli_terminal_interface_for_instagram/</guid>
+      <pubDate>Fri, 07 Mar 2025 04:58:39 GMT</pubDate>
+    </item>
     <item>
       <title>我们建造了开源的DuckDB替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1j5dtwr/we_built_an_open_source_duckdb_alternative/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>启动一个开源项目：如何处理薪酬，吸引贡献者并找到导师 - 有什么提示吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j59od8/starting_an_opensource_project_how_to_handle_pay/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我从小就开始受到开源的启发：协作，共同的目的以及社区建立比自己更大的东西的方式。 As a serial founder with several successful startups, I want to bring this energy into my next venture. I’m building an open, collaborative project that started when 100 strangers built an MVP, raised $1M in 24 hours, and made headlines at a major tech event, all driven by a mission: In a world where tech can isolate us, we help event-goers meet the right people IRL.思考会议和聚会，找到完美的联系非常困难，我们的MVP破裂了，现在我们将其变成了真正的创业公司。  我们有一个了不起的产品和GTM策略，并且一支伟大的团队聚集在一起，但是我们需要以任务驱动的开发人员来帮助我们建立。如果您是一个开源贡献者，他梦想着良心塑造社交网络，这是给您的。 ，我想确保贡献者是 相当有回报的，并以其创造的价值持股权。有些人需要现金，尤其是在全职工作时，而另一些人则愿意分享未来价值。虽然我们可以筹集资金，但我相信这项任务的最好的公司是由相信它的人建立的，并投入时间相信它将带来价值并承担我的风险（是的，我们确实有收入模型）。  我希望见解：&gt;     1。 我应该寻找谁作为导师或顾问来帮助确保我们的开放文化保持启发并吸引最佳的任务驱动的开发商？另外，我们如何有效地构建大型贡献者来塑造我们的产品？我们希望人们离开大型技术来构建这一，并吸引与我们的使命保持一致的世界一流的开源开发人员。  2。 是什么让贡献者长期参与开源项目？超越热情和声誉，什么驱动了持续的参与？我们应该注意什么挑战和障碍？  3。 我们应该研究哪些开源项目或公司？我正在看 gitlab   - 其他任何杰出人物？  4。 是否有可靠的模型将现金支付与公平或价值分担机制融合在一起？我正在探索切片派式模型，其中贡献者会根据他们用动态股权系统创造的价值来赚取股份，并为大型贡献者扩展。 Web3中的大规模贡献者奖励的许多创新正在带有赏金计划。我应该和谁谈谈？  如果这引起您的共鸣，让我们来谈谈！ 您是否可以建议您建立开发团队或想与我们一起建立，我很想联系。     这个项目是一个巨大的成功，因为任何可以贡献的人都可以赢得这能力！无论您有多少钱，如果您能提供帮助，都欢迎您贡献！ 在此处阅读有关该项目的更多信息： https://www.linkedin.com/posts/stuartcerne_the-summeet-a-whirlwind-week-passion-action-activity-72647748637419929 60-24bd？utm_source = share＆amp; utm_medium = member_desktop＆amp; rcm = acoaaaaueu58bjgvjs5syantf2t72huq1cu9fuuk    事先感谢您的想法！  Stuart   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j59od8/starting_an_opensource_project_project_how_how_to_handle_pay/&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我从小就开始受到开源的启发：协作，共同的目的以及社区建立比自己更大的东西的方式。 As a serial founder with several successful startups, I want to bring this energy into my next venture. I’m building an open, collaborative project that started when 100 strangers built an MVP, raised $1M in 24 hours, and made headlines at a major tech event, all driven by a mission: In a world where tech can isolate us, we help event-goers meet the right people IRL.思考会议和聚会，找到完美的联系非常困难，我们的MVP破裂了，现在我们将其变成了真正的创业公司。  我们有一个了不起的产品和GTM策略，并且一支伟大的团队聚集在一起，但是我们需要以任务驱动的开发人员来帮助我们建立。如果您是一个开源贡献者，他梦想着良心塑造社交网络，这是给您的。 ，我想确保贡献者是 相当有回报的，并以其创造的价值持股权。有些人需要现金，尤其是在全职工作时，而另一些人则愿意分享未来价值。虽然我们可以筹集资金，但我相信这项任务的最好的公司是由相信它的人建立的，并投入时间相信它将带来价值并承担我的风险（是的，我们确实有收入模型）。  我希望见解：&gt;     1。 我应该寻找谁作为导师或顾问来帮助确保我们的开放文化保持启发并吸引最佳的任务驱动的开发商？另外，我们如何有效地构建大型贡献者来塑造我们的产品？我们希望人们离开大型技术来构建这一，并吸引与我们的使命保持一致的世界一流的开源开发人员。  2。 是什么让贡献者长期参与开源项目？超越热情和声誉，什么驱动了持续的参与？我们应该注意什么挑战和障碍？  3。 我们应该研究哪些开源项目或公司？我正在看 gitlab   - 其他任何杰出人物？  4。 是否有可靠的模型将现金支付与公平或价值分担机制融合在一起？我正在探索切片派式模型，其中贡献者会根据他们用动态股权系统创造的价值来赚取股份，并为大型贡献者扩展。 Web3中的大规模贡献者奖励的许多创新正在带有赏金计划。我应该和谁谈谈？  如果这引起您的共鸣，让我们来谈谈！ 您是否可以建议您建立开发团队或想与我们一起建立，我很想联系。   这个项目是一个巨大的成功，因为任何可以贡献的人都可以赢得了能力！无论您有多少钱，如果您能提供帮助，都欢迎您贡献！ 在此处阅读有关该项目的更多信息： https://www.linkedin.com/posts/stuartcerne_the-summeet-a-whirlwind-week-passion-action-activity-72647748637419929 60-24bd？utm_source = share＆amp; utm_medium = member_desktop＆amp; rcm = acoaaaaueu58bjgvjs5syantf2t72huq1cu9fuuk    事先感谢您的想法！  Stuart   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j59od8/starting_an_opensource_project_project_how_how_to_handle_pay/&gt; [link]   [commist]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j59od8/starting_an_opensource_project_how_to_handle_pay/</guid>
       <pubDate>Thu, 06 Mar 2025 23:40:56 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 06 Mar 2025 20:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>github- transformrs/trv：将幻灯片和扬声器音符变成视频</title>
+      <title>github- transformrs/trv：变换幻灯片和扬声器音符进入视频</title>
       <link>https://www.reddit.com/r/opensource/comments/1j54qro/github_transformrstrv_transform_slides_and/</link>
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/rik-huijzer       [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j54qro/github_transformrstrv_transform_slides_and/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kleneway1   href =“ https://www.reddit.com/r/chatgptcoding/comments/1j51w9a/for_my_my_10_year_year_cake_cake_i_i_made_made_made_an_opensource_ai/”&gt; [links]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j53yun/forq_a_simple_opensource_ai_coding_agent/</guid>
       <pubDate>Thu, 06 Mar 2025 19:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsube统计数据</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j53kqn/spotube_stats/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！也许这是一个愚蠢的问题，但我最近下载了Sponsube，它的效果非常好。但是，由于我喜欢Spotify包裹，所以我想知道Sponsube统计数据是否直接进入Spotify？因为我通过Spotify登录到Spotsube，所以这有点有道理，但是我再也不知道这些事情是如何工作的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/blueegreenn28     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j53kqn/spotube_stats/</guid>
-      <pubDate>Thu, 06 Mar 2025 19:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>与Gemini的MultipDF聊天是一个基于简化的应用程序，它允许用户通过由Google的Gemini模型供电的会话AI接口与多个PDF文档进行交互。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j50jbv/multipdf_chat_with_gemini_is_a_streamlitbased/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/smalldetail8461      &lt;A href =“ https://www.reddit.com/r/opensource/comments/1j50jbv/multipdf_chat_with_with_with_gemini_is_a_a_a_streamlitbassed/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j50jbv/multipdf_chat_with_gemini_is_a_streamlitbased/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
