@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 07 Mar 2025 06:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 09:25:04 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个本地的Web服务器和环境管理工具，但是几乎所有用户都是PHP程序员，是否没有其他程序员，例如GO/Nodejs/Python/Ruby需要类似的工具？</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5jegi/i_have_created_a_local_web_server_and_environment/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/phpwebstudy       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5jegi/i_have_created_a_local_web_server_and_environment/</guid>
+      <pubDate>Fri, 07 Mar 2025 09:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby-Align是基线新可用的</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5j3kd/rubyalign_is_baseline_newly_available/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     link link&gt; link&gt;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5j3kd/rubyalign_is_baseline_newly_available/</guid>
+      <pubDate>Fri, 07 Mar 2025 08:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>分解$ 1.5B的bybit / Safe {Wallet}加密货币hack</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5j1m1/breaking_down_the_15b_bybit_safewallet_crypto_hack/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/advocatemack     link&gt; link&gt; link&gt; link&gt;    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5j1m1/breaking_down_the_15b_bybit_safewallet_crypto_hack/</guid>
+      <pubDate>Fri, 07 Mar 2025 08:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>生锈的aws</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5inzf/rust_on_aws/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/simey_cun     link&gt; link&gt; link&gt; link&gt; link&gt;&gt;    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5inzf/rust_on_aws/</guid>
+      <pubDate>Fri, 07 Mar 2025 08:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工程师阅读研究论文指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1j5i69v/a_software_engineers_guide_to_reading_research/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/thewritingwallah   [link] ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j5i69v/a_software_engineers_guide_to_reading_research/</guid>
+      <pubDate>Fri, 07 Mar 2025 07:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>将MongoDB版本从6升至版本7</title>
       <link>https://www.reddit.com/r/programming/comments/1j5h8e6/upgrading_mongodb_version_from_6_to_version_7/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mstksg      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j53hly/sum_types_subtypes_and_unions/</guid>
       <pubDate>Thu, 06 Mar 2025 19:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>GreenMask -PostgreSQL数据库匿名和合成数据生成工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1j53fti/greenmask_postgresql_database_anonymization_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/anyweny       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j53fti/greenmask_postgresql_database_anonymization_and/</guid>
-      <pubDate>Thu, 06 Mar 2025 19:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>莲花编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1j531tg/lotus_programming_language/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kankakan       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j531tg/lotus_programming_language/</guid>
-      <pubDate>Thu, 06 Mar 2025 18:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>对API作为生态系统的整体观点</title>
-      <link>https://www.reddit.com/r/programming/comments/1j51hv4/a_holistic_view_on_apis_as_an_ecosystem/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/zuploadrian      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j51hv4/a_holistic_view_on_apis_as_an_ecosystem/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Django建立虚拟宠物游戏 /网络监视器</title>
-      <link>https://www.reddit.com/r/programming/comments/1j50x38/building_a_virtual_pet_game_network_monitor_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/curetorCat      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j50x38/building_a_virtual_pet_game_network_monitor_in/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI的隐藏危险</title>
-      <link>https://www.reddit.com/r/programming/comments/1j50to1/hidden_perils_of_using_ai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/e exileddude     link&gt; [link&gt; link&gt; [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j50to1/hidden_perils_of_using_ai/</guid>
-      <pubDate>Thu, 06 Mar 2025 17:26:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
