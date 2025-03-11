@@ -4,20 +4,55 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 11 Mar 2025 03:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 09:26:18 GMT</lastBuildDate>
     <item>
-      <title>Chatgpt可以正确地写出字母表，但在7次尝试中不会一次说出来。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8fady/chatgpt_can_correctly_write_out_the_alphabet_but/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我得到了诸如a，b，c，d，d，f，j，j，k，k，l，x，x，z的响应即使这是最糟糕的尝试之一。因此，它不能说字母，但是文本成绩单很完美？怪异。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8fady/chatgpt_can_correctly_write_write_the_alphabet_but/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8fady/chatgpt_can_correctly_write_write_the_alphabet_bhabet_but/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8fady/chatgpt_can_correctly_write_out_the_alphabet_but/</guid>
-      <pubDate>Tue, 11 Mar 2025 01:27:30 GMT</pubDate>
+      <title>LLM受正式系统的局限性支配</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mfns/llms_are_governed_by_the_limitations_of_formal/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  虽然LLM的表面行为是概率和非轴心的，但其基本机制 - 它运行的代码，数学和机器 - 基于正式系统。因此，它所做的一切最终都受这些系统的局限性的控制。      llms在正式的基材内运行 - 它们是通过确定性程序（例如，使用数学结构（如张量，线性代数，优化算法）在正式系统中描述的       。 （例如，生成一个句子）可能看起来“软”或“紧急”，但是产生它们的过程最终受正式的可计算规则的控制。   因此，该模型生成的任何统计结果均受：A。A. Formor System的构图，该正式系统定义了模型的体系结构和训练过程。 B.教会论文所施加的计算限制（即模型无法超越图灵表现力）。      ，换句话说，查询本身，这些查询本身是有条件的公理概念，在这些套件的上下文中购买结果。 （以这种方式结果是有意义的。） 看起来巨大，流畅和紧急的系统可以通过固定的基于规则的结构从下面界定，以至于它们的“判断”仍然位于公理框架内。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8mfns/llms_are_are_governed_by_the_limitations_of_formal/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mfns/llms_are_governed_by_the_limitations_of_formal/</guid>
+      <pubDate>Tue, 11 Mar 2025 08:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助做AI，我从来没有</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8a4k4/need_help_making_an_ai_i_never_have_before/</link>
-      <description><![CDATA[Don&#39;t know what the right flair would be I want to make an ai that can both have conversations and play a game, specially the game minecraft, but I&#39;ve never made an advanced ai before, tutorials are surprisingly hard to find plus I&#39;d really just like to work on it with someone   提交由＆＃32; /u/u/phacey-facephones    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8a4k4/need_help_making_ai_ai_ai_ie_ever_never_have_have_before/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8a4k4/need_help_making_an_ai_i_never_have_before/</guid>
-      <pubDate>Mon, 10 Mar 2025 21:34:55 GMT</pubDate>
+      <title>AI可以帮助学术写作吗？实验结果</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mfkf/can_ai_paraphrasing_help_with_academic_writing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我进行了一个小实验，以测试AI释义工具在学术写作中的有效性。我采用了AI生成的文章，并采用了不同的释义方法（AI释义与手动重写）。然后，我使用了AI检测工具来检查每个版本的绕过检测程度。 结果非常有趣：   - 原始的AI生成的文本具有 95％的概率被检测为Ai-worting的概率。            - 使用AI释义工具进行处理后，概率降至10％。 您怎么看？ AI是否可以在将来完全替换手动解释，或者人类的改进将永远是必要的？让我们讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8mfkf/can_ai_ai_ai_ai_paraphrasing_help_with_academic_writing/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mfkf/can_ai_paraphrasing_help_with_academic_writing/</guid>
+      <pubDate>Tue, 11 Mar 2025 08:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有时候，当我在提示中呆滞时，GPT知道我的意思。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mc3a/sometimes_when_i_am_sloppy_in_my_prompts_gpt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  换句话说，我可能会在提示中忘记规范，但GPT由于上下文而理解我的意图。这真是令人印象深刻。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8mc3a/sometimes_when_i_i_am_sloppy_my_my_my_my_prompts_gpt/  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8mc3a/sometimes_when_i_i_sloppy_my_my_my_my_my_prompts_gpt/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mc3a/sometimes_when_i_am_sloppy_in_my_prompts_gpt/</guid>
+      <pubDate>Tue, 11 Mar 2025 08:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我无法为您生成代码，”光标要求开发人员“学习编码”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mbvw/i_cannot_generate_code_for_you_cursor_asks/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/soul_predator     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8mbvw/i_cannot_generate_code_for_you_cursor_asks/</guid>
+      <pubDate>Tue, 11 Mar 2025 08:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude 3.7 OCR完全失败/幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8m9nn/claude_37_ocr_completely_failinghallucinating/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在玩耍，以提示克劳德（Claude）根据来自Excel Workbook的数据的屏幕截图生成交互式信息图表。我注意到这在这里和那里造成了阴险的小错误。例如，将151,342读为111,342。   i随后测试了屏幕截图足够清晰，可以看到正确的数字。 拿起带有数字的2x10单元格网格的小屏幕截图，并只是要求克劳德告诉我它看到的数字。这次是正确的，但最完全错误的。例如：将129,443读为72,309。 ，但它并没有完全弥补，因为下一个单元格会正确。 在第二种情况下，屏幕截图也足够清晰，无法阅读。 在这里发生什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nateisgrate     [link]   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8m9nn/claude_37_ocr_completely_failinghallucinating/</guid>
+      <pubDate>Tue, 11 Mar 2025 08:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>“出现”很愚蠢</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8ll9k/emergence_is_silly/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  只是一个想法 - 我没有声称这是正确的，但我想分享一种直觉。认为它类似于罗杰·彭罗斯（Roger Penrose）的无限宇宙理论，这只是一个想法。 “出现”的概念有些误导。当我们谈论大型语言模型（LLMS）中的出现时，我们通常会对意外的能力感到惊讶。但是我相信这种现象超出了LLM，它存在于所有数据中。我们尚未考虑的所有数据集中都有潜在功能，但是它们仍然存在。诸如变形金刚之类的模型有助于发现这些有影响力的隐藏特征，揭示了始终存在但以前没有注意到的模式。 以推理为例。每个连贯的博客文章，故事或评论都包含一定程度的逻辑。如果推理不是我们提供给LLM的数据的固有功能，那么它们的输出就没有意义。这表明“推理”是嵌入语言本身中的隐藏功能。如果我们有提前分析和公开此类功能的工具，那么当模型显示推理能力时，我们不会感到惊讶。 现在，没有这种工具可以系统地探索这种隐藏的功能空间。但是，如果我们要开发一个，我们甚至可以在训练它之前预测模型的完整功能。这也可能使我们更加了解黑匣子的机器学习。 无论如何，只是一个淋浴的想法。这个想法是否承担着任何重量。继续学习并获得乐趣！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/phy2go      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8ll9k/emergence_is_silly/</guid>
+      <pubDate>Tue, 11 Mar 2025 07:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果AI本质上比人类更聪明，我们该如何监视AGI/ASI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j8jdg1/how_can_we_monitor_agiasi_if_the_ai_is_inherently/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经考虑过一段时间了，这是一个严重的问题，我还没有看到任何解决方案。如果我们实现AGI/ASI（即模型超过所有人类智能的点），则似乎不可能监视它以保持对齐方式。从定义上讲，要么1）即使是最聪明的人也无法完全理解模型的功能，或者2）人类可以认为自己理解模型的功能，但实际上无法确定，因为该模型在欺骗了它们，因为该模型本质上更聪明。一旦我们达到了人工智能的行动，超出了人类理解的观点，无论是对人类的好事还是坏事，似乎完全取决于偶然。 Yampolskiy在某种程度上写了有关此的文章。我错了吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8jdg1/how_can_we_we_we_monitor_agiasi_agiasi_if_the_ai_is_is_inheryse/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j8jdg1/how_can_we_we_we_monitor_monitor_agiasi_agiasi_if_the_ai_iis_is_inhereyse/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j8jdg1/how_can_we_monitor_agiasi_if_the_ai_is_inherently/</guid>
+      <pubDate>Tue, 11 Mar 2025 05:10:19 GMT</pubDate>
     </item>
     <item>
       <title>您是否推荐一部好电影，播客LR采访，以了解AI将如何影响就业市场？</title>
@@ -34,25 +69,11 @@
       <pubDate>Mon, 10 Mar 2025 19:34:39 GMT</pubDate>
     </item>
     <item>
-      <title>中国会在AI中超越美国吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j85mq1/will_china_surpass_the_us_in_ai/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j85mq1/will_china_surpass_the_us_in_ai/</guid>
-      <pubDate>Mon, 10 Mar 2025 18:28:16 GMT</pubDate>
-    </item>
-    <item>
       <title>我们解决了UR的皇家游戏</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j85425/we_have_solved_the_royal_game_of_ur/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  ，另一个旧的棋盘游戏咬住了灰尘……我们强烈解决了约4500年的皇家游戏。您可能会记得汤姆·斯科特（Tom Scott）与YouTube上的欧文·芬克尔（Irving Finkel）视频，这很受欢迎。 为了解决游戏，我们扩大了对价值迭代的使用来创建一个地图，并有机会从游戏中的每个州获胜。使用它，您只需选择导致获胜机会的最高机会的举动即可。简单的！虽然，我们仍然花了3年的时间才弄清楚这是可能的…… 从更技术上来说，我们计算了游戏的NASH均衡，我们可以使用它使bot毫无疑问地发挥作用。  huggingface for Seloved Maps： https://huggingface.co/sothatsit/royalurmodels      github用于解决游戏： https://github.com/royalur/royalur/royalur-java   这实际上对我来说是很大的事情。但是我很感兴趣，这里的人们如何看待解决这些旧的棋盘游戏？是20年前有趣的好奇心吗？还是这些类型的经典AI方法仍然剩下一些现实世界中的影响？我对他们的表现感到乐观，但我不确定。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/sothatsit     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j85425/we_have_solved_the_royal_game_of_ur/</guid>
       <pubDate>Mon, 10 Mar 2025 18:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>信用额到期的信用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j83u8b/credit_where_credit_is_due/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我开始参与这些空间，因为我担心看起来很明显且植根于常识的问题。如果我不在乎这项技术，我就不会打扰。  AI等工具，例如Claude，Chatgpt和其他人几乎对我来说已经挽救了 - 我并不夸张。考虑到我目前的情况，我不知道如果没有能力处理我的想法，简化对应关系，围绕我们的想法，分析电子邮件，收集信息等等的能力，我会做什么。  chatgpt是我的记忆，克劳德（Claude）是我的记忆力，而克劳德（Claude）则令人难以置信的是不可思议的项目，并在管理各种技巧，钟声，铃铛和惠斯（Pulls）和whistles and and of toction。期望非防御反应。但是，如果真相和透明度非常容易解决，那么世界上大多数问题就不会存在。 我应该做的就是在提出问题之前突出所有专业人士。虽然我最初没有意识到自己遇到了多么积极，但我也不觉得我向任何拒绝诚实参与的人道歉。但是，出于我自己的平衡感，我想承认我本可以对事情有所不同。取而代之的是，我认为我的努力会更好地帮助我自己世界上的人们慢慢地但肯定会熟悉LLM。我将重点介绍他们的提示，以最大程度地提高利益，而不是在圈子中进行辩论。提交由＆＃32; /u/u/true_wonder8966     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j83u8b/credit_where_credit_is_due/</guid>
-      <pubDate>Mon, 10 Mar 2025 17:15:06 GMT</pubDate>
     </item>
     <item>
       <title>决定在我的iPhone上尝试图像操场。为什么苹果的人工智能如此糟糕？</title>
@@ -62,32 +83,11 @@
       <pubDate>Mon, 10 Mar 2025 17:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>惊人的人不介意他们的伴侣是否与机器人亲密</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j82tt8/staggering_number_of_people_wouldnt_mind_if_their/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/theexpressus     &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j82t8/1j82t8/staggering_number_people_people_wouldnt_mind_mind_mind_mind_if_their/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j82tt8/staggering_number_of_people_wouldnt_mind_if_their/</guid>
-      <pubDate>Mon, 10 Mar 2025 16:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok糟透了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j82cex/grok_sucks_so_hard/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个提示我花了5分钟才能生成一个anwser，登录诸如shit之类的作品，以前的提示是您可以生成aritfiacial image dich dich dick nove doge of load of。为什么这么糟糕？ href =“ https://preview.itd.it/ai19aa1z0wne1.png？ https://preview.itd.it/ai19aa1z0wne1.png?width=1017&amp; amp; format = png＆amp; amp;Auto = webppul = 3a26bd38a40ddddddd778e11fe36bd778e11fe362fe36629d9d9d777c2988857c2988854d.a    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/far-comfortable8     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j82cex/grok_sucks_so_hard/</guid>
-      <pubDate>Mon, 10 Mar 2025 16:13:49 GMT</pubDate>
-    </item>
-    <item>
       <title>将大脑外包给AI时的大脑如何变化</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j7xjda/how_your_brain_changes_when_you_outsource_it_to_ai/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我认为这是一篇非常考虑的文章，总结了很多我一直在仔细考虑我们如何和应该在生活中使用AI和数字工具的事情。长阅读，但是一个好读物：   https：//wwwwwwww.ox.com/future-perfect/403100/403100/ai-brain-brain-brain-brain-brain-brain-brain-brain-fects-technology-mous as we Mous as at we-as at we we we we/we we/p&gt; p&gt; Think＆quot＆quot，Vannevar Bush的1945年论文，但仍然很好）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jacknunn     [links]      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j7xjda/how_your_your_your_brain_changes_changes_when_you_you_outsource_it_it_it_it_it_to_ai/”]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j7xjda/how_your_brain_changes_when_you_outsource_it_to_ai/</guid>
       <pubDate>Mon, 10 Mar 2025 12:33:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国银行估计，到2060年，世界将拥有30亿杆人形机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j7r72f/world_to_host_3_billion_humanoid_robots_by_2060/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  美国银行分析师预测，人形机器人机器人（HR）的开发将迅速加速，到2030年，全球年销售额达到100万个单位，并在2060年运营中具有惊人的30亿型人形机器人机器人，到2060年。推动人力资源采用的成本。  “在如此重量级的支持下，我们相信人力资源部有望在十年末从概念证明转变为多工业的采用，”分析师写道。  他们指出，美国和中国领导着人类机器人创新的指控。  bofa预计，人形机器人的成本在未来几年会大幅下降。  “我们估计，到2025年底，人类机器人的内容成本为35K美元，并预计到2030年，它将降至17,000美元。写了银行。  该报告还强调了特斯拉（NASDAQ：TSLA），NVIDIA（NASDAQ：NVDA）和META（NASDAQ：META）在人力资源发展中的作用，特斯拉的Optimus Gen 2机器人目前每单位成本为50-60k美元。  BofA explained that similar cost declines in electric vehicle (EV) components, particularly in China, have boosted adoption, and a comparable trend could accelerate HR penetration globally. Looking ahead, the bank anticipates that 65% of humanoid robots will be used in households, 32% in services, and 3% in industrial applications by 2060.  With lower costs and wider应用“人形机器人的时代来了”，美国银行宣称。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coinfanking   href =“ https://www.investing.com/news/stock-market-news/world-to-host-3-bill-3-billion-humanoid-robots-by-2060-bby-2060-bank-of-2060-bank-of-merica-estimate--spimates-3915751”&gt;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j7r72f/world_to_host_3_billion_humanoid_robots_by_2060/</guid>
-      <pubDate>Mon, 10 Mar 2025 05:06:04 GMT</pubDate>
     </item>
     <item>
       <title>人们非常低估了人工智能。</title>
