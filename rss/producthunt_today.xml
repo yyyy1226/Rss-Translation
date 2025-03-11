@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Mar 2025 03:32:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 06:34:01 GMT</lastBuildDate>
     <item>
       <title>东西</title>
       <link>https://www.producthunt.com/posts/thingy-2</link>
@@ -66,6 +66,18 @@
       <pubDate>Sat, 08 Mar 2025 11:32:48 GMT</pubDate>
     </item>
     <item>
+      <title>Rlam</title>
+      <link>https://www.producthunt.com/posts/rlama</link>
+      <description><![CDATA[
+            Ollama的开源RAG CLI
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rlama</guid>
+      <pubDate>Sat, 08 Mar 2025 03:32:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Instella</title>
       <link>https://www.producthunt.com/posts/instella</link>
       <description><![CDATA[
@@ -100,18 +112,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/flowtest-ai</guid>
       <pubDate>Thu, 06 Mar 2025 14:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字AI会计</title>
-      <link>https://www.producthunt.com/posts/digits-ai-accounting</link>
-      <description><![CDATA[
-            通过智能会计做出自信的决定
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/digits-ai-accounting</guid>
-      <pubDate>Thu, 06 Mar 2025 01:48:55 GMT</pubDate>
     </item>
     <item>
       <title>AI流量分析</title>
@@ -153,7 +153,7 @@
       <title>他们2.0</title>
       <link>https://www.producthunt.com/posts/theysaid-2-0</link>
       <description><![CDATA[
-            会话人工智能调查，访谈，用户测试，民意调查
+            对话人工智能调查，访谈，用户测试，民意调查
           
 
  link 
