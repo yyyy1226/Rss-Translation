@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Mar 2025 01:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 03:31:21 GMT</lastBuildDate>
     <item>
       <title>灰色的</title>
       <link>https://www.producthunt.com/posts/gradewiz</link>
@@ -16,6 +16,30 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/gradewiz</guid>
       <pubDate>Tue, 11 Mar 2025 03:15:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动伙伴</title>
+      <link>https://www.producthunt.com/posts/scroll-buddy</link>
+      <description><![CDATA[
+            滚动时走路的滚动条
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/scroll-buddy</guid>
+      <pubDate>Tue, 11 Mar 2025 02:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>迅速的</title>
+      <link>https://www.producthunt.com/posts/rapidschema</link>
+      <description><![CDATA[
+            您已经编写的代码生成的模式标记
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rapidschema</guid>
+      <pubDate>Mon, 10 Mar 2025 18:24:04 GMT</pubDate>
     </item>
     <item>
       <title>转动</title>
@@ -30,6 +54,20 @@
       <pubDate>Mon, 10 Mar 2025 17:00:29 GMT</pubDate>
     </item>
     <item>
+      <title>Mac的鼠标吉格勒</title>
+      <link>https://www.producthunt.com/posts/mouse-jiggler-for-mac</link>
+      <description><![CDATA[
+            防止您的Mac睡觉
+          
+
+
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mouse-jiggler-for-mac</guid>
+      <pubDate>Mon, 10 Mar 2025 14:36:29 GMT</pubDate>
+    </item>
+    <item>
       <title>球场 +集会</title>
       <link>https://www.producthunt.com/posts/ballpark-rally</link>
       <description><![CDATA[
@@ -42,18 +80,6 @@
       <pubDate>Mon, 10 Mar 2025 13:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>lintodm</title>
-      <link>https://www.producthunt.com/posts/linktodm</link>
-      <description><![CDATA[
-            在几秒钟内自动化您的Instagram DMS
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/linktodm</guid>
-      <pubDate>Mon, 10 Mar 2025 12:45:33 GMT</pubDate>
-    </item>
-    <item>
       <title>埃默里</title>
       <link>https://www.producthunt.com/posts/emery-3</link>
       <description><![CDATA[
@@ -64,42 +90,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/emery-3</guid>
       <pubDate>Mon, 10 Mar 2025 10:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Live3D Vtuber制造商</title>
-      <link>https://www.producthunt.com/posts/live3d-vtuber-maker</link>
-      <description><![CDATA[
-            VTUBER软件套件
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/live3d-vtuber-maker</guid>
-      <pubDate>Mon, 10 Mar 2025 09:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>法典编辑</title>
-      <link>https://www.producthunt.com/posts/codex-editor</link>
-      <description><![CDATA[
-            具有AI和多语言支持的Web代码编辑器
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/codex-editor</guid>
-      <pubDate>Mon, 10 Mar 2025 08:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bloodrec</title>
-      <link>https://www.producthunt.com/posts/bloodrec</link>
-      <description><![CDATA[
-            解码您的血液检查，解锁您的健康
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bloodrec</guid>
-      <pubDate>Sun, 09 Mar 2025 23:34:10 GMT</pubDate>
     </item>
     <item>
       <title>橡胶AI</title>
@@ -126,6 +116,18 @@
       <pubDate>Fri, 07 Mar 2025 11:27:55 GMT</pubDate>
     </item>
     <item>
+      <title>流利</title>
+      <link>https://www.producthunt.com/posts/fluently-4</link>
+      <description><![CDATA[
+            开始说英语以及您的母语
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/fluently-4</guid>
+      <pubDate>Thu, 06 Mar 2025 18:23:09 GMT</pubDate>
+    </item>
+    <item>
       <title>夹子</title>
       <link>https://www.producthunt.com/posts/clipse</link>
       <description><![CDATA[
@@ -138,18 +140,16 @@
       <pubDate>Thu, 06 Mar 2025 16:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>Portal Labs的工作区</title>
-      <link>https://www.producthunt.com/posts/workspace-by-portal-labs</link>
+      <title>DIG GEN</title>
+      <link>https://www.producthunt.com/posts/qodo-gen</link>
       <description><![CDATA[
-            与代理商合作
+            代理编码以产生信心，而不仅仅是代码。
           
 
-
-            |
-             link 
+ link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/workspace-by-portal-labs</guid>
-      <pubDate>Fri, 28 Feb 2025 21:43:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/qodo-gen</guid>
+      <pubDate>Sun, 02 Mar 2025 10:25:51 GMT</pubDate>
     </item>
     <item>
       <title>封锁</title>
