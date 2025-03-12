@@ -4,54 +4,18 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Mar 2025 12:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 15:27:10 GMT</lastBuildDate>
     <item>
-      <title>布谷鸟</title>
-      <link>https://www.producthunt.com/posts/cuckoo-6</link>
+      <title>iOS和Android的Supadex</title>
+      <link>https://www.producthunt.com/posts/supadex-for-ios-android</link>
       <description><![CDATA[
-            全球团队的实时AI翻译人员
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cuckoo-6</guid>
-      <pubDate>Wed, 12 Mar 2025 01:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>聚焦流（JIRA插件）</title>
-      <link>https://www.producthunt.com/posts/focus-flow-jira-plugin</link>
-      <description><![CDATA[
-            根据花费的时间查看热图史诗般的时间表
+            口袋里的supabase数据
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/focus-flow-jira-plugin</guid>
-      <pubDate>Tue, 11 Mar 2025 21:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI响应API和代理SDK</title>
-      <link>https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk</link>
-      <description><![CDATA[
-            建造代理和工具的新工具
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk</guid>
-      <pubDate>Tue, 11 Mar 2025 20:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wiki Hover</title>
-      <link>https://www.producthunt.com/posts/wiki-hover</link>
-      <description><![CDATA[
-            任何网页上的即时Wikipedia工具提示
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/wiki-hover</guid>
-      <pubDate>Tue, 11 Mar 2025 19:46:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/supadex-for-ios-android</guid>
+      <pubDate>Tue, 11 Mar 2025 17:29:05 GMT</pubDate>
     </item>
     <item>
       <title>AI Renamer</title>
@@ -102,6 +66,18 @@
       <pubDate>Tue, 11 Mar 2025 07:36:08 GMT</pubDate>
     </item>
     <item>
+      <title>W3are v1 beta</title>
+      <link>https://www.producthunt.com/posts/w3are-v1-beta</link>
+      <description><![CDATA[
+            接受任何货币或加密货币的付款
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/w3are-v1-beta</guid>
+      <pubDate>Tue, 11 Mar 2025 04:16:48 GMT</pubDate>
+    </item>
+    <item>
       <title>超级墙</title>
       <link>https://www.producthunt.com/posts/superwall</link>
       <description><![CDATA[
@@ -112,6 +88,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/superwall</guid>
       <pubDate>Mon, 10 Mar 2025 20:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>焦点</title>
+      <link>https://www.producthunt.com/posts/focusnudge</link>
+      <description><![CDATA[
+            状态栏应用程序可以将您重新推向焦点！
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/focusnudge</guid>
+      <pubDate>Mon, 10 Mar 2025 20:33:47 GMT</pubDate>
     </item>
     <item>
       <title>数字</title>
@@ -138,10 +126,34 @@
       <pubDate>Sat, 08 Mar 2025 20:12:58 GMT</pubDate>
     </item>
     <item>
+      <title>搜索副词</title>
+      <link>https://www.producthunt.com/posts/search-copilot</link>
+      <description><![CDATA[
+            跨平台工作AI
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/search-copilot</guid>
+      <pubDate>Thu, 06 Mar 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherloq</title>
+      <link>https://www.producthunt.com/posts/sherloq-2</link>
+      <description><![CDATA[
+            直接在编辑器上为所有SQL创建一个位置
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/sherloq-2</guid>
+      <pubDate>Tue, 04 Mar 2025 18:37:51 GMT</pubDate>
+    </item>
+    <item>
       <title>窗户的WISPR流动</title>
       <link>https://www.producthunt.com/posts/wispr-flow-for-windows</link>
       <description><![CDATA[
-            文本到语音现在在PC和Mac上快3倍
+            停止键入，开始说话：PC和Mac上的大写速度更快
           
 
 链接
@@ -153,7 +165,7 @@
       <title>没有帽子</title>
       <link>https://www.producthunt.com/posts/no-cap</link>
       <description><![CDATA[
-            世界上第一个AI天使投资者🤯
+            世界上第一个AI天使投资者
           
 
  link 
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/og-pm-agent-beta-release</guid>
       <pubDate>Sat, 01 Mar 2025 08:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>库存伴侣</title>
-      <link>https://www.producthunt.com/posts/inventory-mate</link>
-      <description><![CDATA[
-            无痛苦的库存计划，为电子商务进行
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/inventory-mate</guid>
-      <pubDate>Sun, 05 Jan 2025 19:20:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
