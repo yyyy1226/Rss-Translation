@@ -4,19 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Mar 2025 01:51:54 GMT</lastBuildDate>
-    <item>
-      <title>布谷鸟</title>
-      <link>https://www.producthunt.com/posts/cuckoo-6</link>
-      <description><![CDATA[
-            全球团队的实时AI翻译人员
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cuckoo-6</guid>
-      <pubDate>Wed, 12 Mar 2025 01:29:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 03:33:01 GMT</lastBuildDate>
     <item>
       <title>聚焦流（JIRA插件）</title>
       <link>https://www.producthunt.com/posts/focus-flow-jira-plugin</link>
@@ -102,16 +90,28 @@
       <pubDate>Tue, 11 Mar 2025 10:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>超级墙</title>
-      <link>https://www.producthunt.com/posts/superwall</link>
+      <title>vs代码的OMLET</title>
+      <link>https://www.producthunt.com/posts/omlet-for-vs-code</link>
       <description><![CDATA[
-            构建和测试移动应用程序付费厂而无需运输更新
+            在VS代码中获取React React组件使用情况见解
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/superwall</guid>
-      <pubDate>Mon, 10 Mar 2025 20:41:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/omlet-for-vs-code</guid>
+      <pubDate>Tue, 11 Mar 2025 07:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>焦点</title>
+      <link>https://www.producthunt.com/posts/focusnudge</link>
+      <description><![CDATA[
+            状态栏应用程序可以将您重新推向焦点！
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/focusnudge</guid>
+      <pubDate>Mon, 10 Mar 2025 20:33:47 GMT</pubDate>
     </item>
     <item>
       <title>Sahha原型</title>
@@ -174,16 +174,16 @@
       <pubDate>Sun, 02 Mar 2025 10:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>库存伴侣</title>
-      <link>https://www.producthunt.com/posts/inventory-mate</link>
+      <title>和PM代理：Beta版本</title>
+      <link>https://www.producthunt.com/posts/og-pm-agent-beta-release</link>
       <description><![CDATA[
-            无痛苦的库存计划，为电子商务进行
+            您的AI产品经理
           
 
- link 
+链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/inventory-mate</guid>
-      <pubDate>Sun, 05 Jan 2025 19:20:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/og-pm-agent-beta-release</guid>
+      <pubDate>Sat, 01 Mar 2025 08:43:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
