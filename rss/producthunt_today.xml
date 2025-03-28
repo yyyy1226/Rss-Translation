@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Mar 2025 21:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 01:53:03 GMT</lastBuildDate>
     <item>
       <title>quwen22.5-oman</title>
       <link>https://www.producthunt.com/posts/qwen2-5-omni</link>
@@ -42,6 +42,18 @@
       <pubDate>Wed, 26 Mar 2025 15:14:25 GMT</pubDate>
     </item>
     <item>
+      <title>好的游戏见解</title>
+      <link>https://www.producthunt.com/posts/good-game-insights</link>
+      <description><![CDATA[
+            蒸汽的刮擦数据的免费CSV数据集
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/good-game-insights</guid>
+      <pubDate>Wed, 26 Mar 2025 11:36:56 GMT</pubDate>
+    </item>
+    <item>
       <title>滚动给我</title>
       <link>https://www.producthunt.com/posts/scroll-it-to-me</link>
       <description><![CDATA[
@@ -54,6 +66,18 @@
       <pubDate>Wed, 26 Mar 2025 10:35:26 GMT</pubDate>
     </item>
     <item>
+      <title>YT速度控制器</title>
+      <link>https://www.producthunt.com/posts/yt-speed-controller</link>
+      <description><![CDATA[
+            使用自定义按钮控制YouTube视频播放速度
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/yt-speed-controller</guid>
+      <pubDate>Wed, 26 Mar 2025 08:01:36 GMT</pubDate>
+    </item>
+    <item>
       <title>码头</title>
       <link>https://www.producthunt.com/posts/docko</link>
       <description><![CDATA[
@@ -64,18 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/docko</guid>
       <pubDate>Wed, 26 Mar 2025 08:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emelei</title>
-      <link>https://www.producthunt.com/posts/ememeai</link>
-      <description><![CDATA[
-            创建和导出AI字符到应用程序和游戏
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/ememeai</guid>
-      <pubDate>Sat, 22 Mar 2025 12:41:24 GMT</pubDate>
     </item>
     <item>
       <title>ActionKit</title>
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/redactable</guid>
       <pubDate>Tue, 18 Feb 2025 21:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>坦率</title>
-      <link>https://www.producthunt.com/posts/atono</link>
-      <description><![CDATA[
-            在一个地方计划，构建，运行和改善您的产品
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/atono</guid>
-      <pubDate>Fri, 31 Jan 2025 21:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
