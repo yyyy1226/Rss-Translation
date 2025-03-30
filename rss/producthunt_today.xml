@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 30 Mar 2025 12:42:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 15:22:46 GMT</lastBuildDate>
     <item>
       <title>HCB</title>
       <link>https://www.producthunt.com/posts/hcb</link>
@@ -69,7 +69,7 @@
       <title>空中洛德</title>
       <link>https://www.producthunt.com/posts/spaceloadr</link>
       <description><![CDATA[
-            将数据移至概念的更快，更聪明的方法
+            将数据导入概念的更快，更聪明的方法
           
 
 链接
@@ -112,6 +112,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/graphfast</guid>
       <pubDate>Thu, 27 Mar 2025 19:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目G助手</title>
+      <link>https://www.producthunt.com/posts/project-g-assist</link>
+      <description><![CDATA[
+            在GPU AI上，为游戏建造
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/project-g-assist</guid>
+      <pubDate>Thu, 27 Mar 2025 04:21:03 GMT</pubDate>
     </item>
     <item>
       <title>text2note</title>
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/vocao-ai</guid>
       <pubDate>Sun, 09 Mar 2025 08:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ayo 2.0</title>
-      <link>https://www.producthunt.com/posts/ayo-2-0</link>
-      <description><![CDATA[
-            游戏玩家，游戏开发人员和游戏创建者的链接生命。
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/ayo-2-0</guid>
-      <pubDate>Thu, 27 Feb 2025 01:42:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
