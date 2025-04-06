@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 04 Apr 2025 12:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 03:40:02 GMT</lastBuildDate>
     <item>
-      <title>刚刚发起了我的第一个聚会</title>
-      <link>https://www.reddit.com/r/programming/comments/1jrall0/just_launched_my_first_ever_party/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  怪异的饮酒，我希望您检查一下！这是一个简单而有趣的派对游戏，充满了辛辣的问题和大胆的挑战。 我知道这不是那里最复杂的游戏，但我相信它可以很有趣。如果您喜欢喝游戏，请尝试一下，让我知道您的想法！ 很想听听您的想法，建议，甚至为未来的更新提供想法！干杯! 🍻  ＆＃32;提交由＆＃32;  /u/BigNew3441   [link] ＆＃32;   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jrall0/just_launched_my_first_ever_party/</guid>
-      <pubDate>Fri, 04 Apr 2025 12:25:23 GMT</pubDate>
+      <title>这些机器正在上升 - 但是开发人员仍然握有钥匙</title>
+      <link>https://www.reddit.com/r/programming/comments/1jskydg/the_machines_are_rising_but_developers_still_hold/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/kerricklong      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jskydg/the_machines_are_rising_but_developers_still_hold/</guid>
+      <pubDate>Sun, 06 Apr 2025 03:24:19 GMT</pubDate>
     </item>
     <item>
-      <title>引入KREP：现代开发人员的闪电般的图案匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1jra9y0/introducing_krep_lightningfast_pattern_matching/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴与大家分享我的最新项目： krep ，这是一种非常快速的模式匹配工具，在许多情况下，均超过了传统的替代方案。我进行了一个简单的测试，以搜索模式“ 11”。在包含1000万顺序数字的文件中：  ＃用1000万个数字seq 1 10000000＆gt生成测试文件。 /tmp/x＃用krep Time测试（SEQ 1 10000000＆gt;/tmp/x＆amp;＆amp; krep -o&#39;11&#39;/tmp/x）| wc -l 372810 ( seq 1 10000000 &gt; /tmp/x &amp;&amp; krep -o &#39;11&#39; /tmp/x; ) 0.25s user 0.01s system 18% cpu 1.416 total wc -l 0.00s user 0.00s system 0% cpu 1.415 total # Test with grep time (seq 1 10000000 &gt; /tmp/x ＆amp;＆amp; grep -o&#39;11&#39; /tmp /x）| wc -l 372810 ( seq 1 10000000 &gt; /tmp/x &amp;&amp; grep --color=auto -o &#39;11&#39; /tmp/x; ) 0.89s user 0.01s system 41% cpu 2.203 total wc -l 0.00s user 0.00s system 0% cpu 2.202 total # Test with ripgrep time (seq 1 10000000 &gt; /tmp /x＆amp;＆amp; ripgrep -o&#39;11&#39; /tmp /x）| WC -L 372810（Seq 1 10000000＆gt;/tmp/x＆amp; amp; amp; ampgrep -o&#39;11&#39;/tmp/x;）1.10S用户0.04S System 98％CPU 1.167总wc -l 0.00S USES 0.00S用户0.00S System 0％CPU 1％CPU 1.165总代码  krep ：0.25s用户时间（总计1.416s）    grep ：0.89S用户时间（总计2.203s）    ripgrep  ripgrep  ：1.10s用户时间（1.167s总数）  3.5x比GREP快3.5倍在此特定工作负载的用户CPU时间方面，比RIPGREP更快。 为什么我构建了krep  为什么在使用大型代码库和数据文件工作后，我一直在等待搜索操作来完成搜索操作。 GREP等传统工具虽然可靠，但并未针对现代计算需求和数据量进行优化。甚至像Ripgrep这样的新替代方案虽然在许多方面都很棒，但仍然有改进的余地。  krep是从头到头构建的，其性能是主要目标，使用现代算法方法和优化技术，可以比以往任何时候都更快地提供结果。  ememation。替代方案  熟悉的界面：使用类似的标志和模式来轻松采用   低资源用法：即使使用大文件     cross-platform 即使在Linux，MacOS，MacOs，Mac，unix-lik-lik/lik-like 中 在什么是下一个 这只是KREP的开始。 I&#39;m actively working on additional features including:  Extended regex support Parallel file processing for even better performance Directory recursion optimizations Configuration profiles for different use cases  Try It Yourself I&#39;d love to hear your experiences with krep and how it performs in your specific use cases.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/davidesantangelo       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jra9y0/introducing_krep_lightningfast_pattern_matching/</guid>
-      <pubDate>Fri, 04 Apr 2025 12:08:30 GMT</pubDate>
+      <title>学生FTC机器人团队寻求成员和导师</title>
+      <link>https://www.reddit.com/r/programming/comments/1jskh8p/student_ftc_robotics_team_seeking_members_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我们是位于加利福尼亚州欧文的学生的FTC机器人团队。我们正在寻找成员和导师加入我们的团队。我们是由以前的Alpha Robotics 23365成员创建的新团队。如果您有兴趣，请与我们联系。链接到传单： https://www.canva.com/design/dagjz7a8wgw/akjnqzzz2zybkhcduwe-hg/view?utm_content = dagjz7a8wgw＆amp； amp;ut m_campaign = designshare＆amp; utm_medium = link2＆amp; utm_source = iniquelinks＆amp; utlid = hbe722c6fd5    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/actpuzzled9309     link&gt; link&gt; link&gt; link&gt; link&gt;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jskh8p/student_ftc_robotics_team_seeking_members_and/</guid>
+      <pubDate>Sun, 06 Apr 2025 02:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>Adnauseam是进一步进一步的大小叉子：它通过自动点击每个广告来积极攻击营销人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr9cyt/adnauseam_is_a_ublock_fork_that_goes_further_it/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/i-t-t-t-i     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr9cyt/adnauseam_is_a_ublock_fork_that_goes_further_it/</guid>
-      <pubDate>Fri, 04 Apr 2025 11:15:00 GMT</pubDate>
+      <title>编程语言安全漏洞：概述</title>
+      <link>https://www.reddit.com/r/programming/comments/1jsk8oh/programming_language_security_vulnerabilities_an/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/snoomachines8167    href =“ https://youtu.be/0eazusvqmvw?si=i3dbbbbbbbbbbbbbbbbbbbb2r_t”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jsk8oh/programming_language_security_vulnerabilities_an/</guid>
+      <pubDate>Sun, 06 Apr 2025 02:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>使用NVIDIA BREV在自定义数据集上进行微调Llava</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr931k/finetune_llava_on_custom_datasets_using_nvidia/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  几个月前，我发现 nvidia breve ，对于我们这些人来说，这是一个超级有用的资源。 Brev allows you to connect to a variety of cloud GPUs from your own computer. They have some coding tutorials on what can be done by connecting to these GPUs, however, these tutorials are not regularly updated. I began working on their LLaVA YouTube上的微调教程不幸的是，由于依赖性问题，GPU记忆问题等。提交由＆＃32;态href =“ https://medium.com/@tesswatt/fine-tune-llava-on-custom-dataset-using-nvidia-brev-c2b720b88888888888802”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr931k/finetune_llava_on_custom_datasets_using_nvidia/</guid>
-      <pubDate>Fri, 04 Apr 2025 10:57:38 GMT</pubDate>
+      <title>帕斯卡没有死！？！ Delphi/Object Pascal再次在前10名中（Tiobe 2025年3月）</title>
+      <link>https://www.reddit.com/r/programming/comments/1jsjby2/pascal_is_not_dead_delphiobject_pascal_once_again/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/waozen      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jsjby2/pascal_is_not_dead_delphiobject_pascal_once_again/</guid>
+      <pubDate>Sun, 06 Apr 2025 01:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>让我们做游戏吧！ 248：关键字</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr8q3t/lets_make_a_game_248_keywords/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr8q3t/lets_make_a_game_248_keywords/</guid>
-      <pubDate>Fri, 04 Apr 2025 10:33:46 GMT</pubDate>
+      <title>Android上iOS模拟器的想法</title>
+      <link>https://www.reddit.com/r/programming/comments/1jshldk/idea_for_an_emulator_of_ios_on_android/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个可能很有趣的想法：如果有人可以构建模拟器在Android上运行iOS游戏，该怎么办？有空闲时间和Chatgpt的一些帮助，可以做到这一点。 （idk可能只是我无知，但请考虑一下）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carro0i      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jshldk/idea_for_an_emulator_of_ios_on_android/</guid>
+      <pubDate>Sun, 06 Apr 2025 00:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>AI将如何影响工程经理</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr8cuu/how_will_ai_affect_engineering_managers/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kabra ___ kiiiiiiiid      [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr8cuu/how_will_ai_affect_engineering_managers/</guid>
-      <pubDate>Fri, 04 Apr 2025 10:08:27 GMT</pubDate>
+      <title>我制作了一个工具，可以从GitHub或Dribbble中几秒钟内构建您的投资组合</title>
+      <link>https://www.reddit.com/r/programming/comments/1jshgza/i_made_a_tool_that_builds_your_portfolio_in/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我的名字叫卢卡斯（Lucas），我今年17岁，我是一个有抱负的独立黑客，我为今年的挑战设定了一个挑战，即在8月至18岁之前发起尽可能多的项目。  三月，我构建了   devfol.io    - 开发人员的投资组合构建器。您可以从Github和Dribbble导入项目，选择一个主题，然后单击一键即可获得投资组合，您可以直接落入您的简历中。 此项目是在4周的时间内建立的，因为运输的心态很快。这是一个挑战，但也非常有趣。这是我第一次使用supabase和auth.js，因此一开始肯定有一个学习曲线。我用TypeScript和Next.js！ 完全构建了它，我已经为此做了很多工作，希望至少一个人能发现它有用！我很想听听所有重要的反馈：）   https://devfol.io      &lt;！提交由＆＃32; /u/u/u infair_praline2017       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jshgza/i_made_a_tool_that_builds_your_portfolio_in/</guid>
+      <pubDate>Sun, 06 Apr 2025 00:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>2025年3月（版本1.99）</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr7n31/march_2025_version_199/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr7n31/march_2025_version_199/</guid>
-      <pubDate>Fri, 04 Apr 2025 09:16:53 GMT</pubDate>
+      <title>刚刚写了一个有关“像专业人士一样确保您的Mern堆栈的完整指南 - 您可能会忘记的7件事”🔐</title>
+      <link>https://www.reddit.com/r/programming/comments/1jseexb/just_wrote_a_full_guide_on_securing_your_mern/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/atrywark-scarcity90     [link]   [commist]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jseexb/just_wrote_a_full_guide_on_securing_your_mern/</guid>
+      <pubDate>Sat, 05 Apr 2025 21:39:52 GMT</pubDate>
     </item>
     <item>
-      <title>单作者数据库体系结构：SQLite形状的bugsink的交易模型如何</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr7jyo/singlewriter_database_architecture_how_sqlite/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/klaasvanschelven       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr7jyo/singlewriter_database_architecture_how_sqlite/</guid>
-      <pubDate>Fri, 04 Apr 2025 09:10:35 GMT</pubDate>
+      <title>让我们做游戏吧！ 249：在麻线游戏中查找文字</title>
+      <link>https://www.reddit.com/r/programming/comments/1jsc4ek/lets_make_a_game_249_finding_text_in_a_twine_game/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage     &lt;a href =“ https://www.reddit.com/r/programming/comments/1jsc4ek/lets_make_a_game_249_finding_text_in_a_a_twine_game/”]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jsc4ek/lets_make_a_game_249_finding_text_in_a_twine_game/</guid>
+      <pubDate>Sat, 05 Apr 2025 19:57:36 GMT</pubDate>
     </item>
     <item>
-      <title>JEP 459：Java中的连锁模板</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr7jou/jep_459_plantillas_de_cadenas_en_java/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;         jep-459-square-in-java.html [comment_en_java /&#39;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr7jou/jep_459_plantillas_de_cadenas_en_java/</guid>
-      <pubDate>Fri, 04 Apr 2025 09:10:02 GMT</pubDate>
+      <title>Microsoft使用AI在Grub2，U-Boot，Barebox Bootloaders中查找缺陷</title>
+      <link>https://www.reddit.com/r/programming/comments/1jsasl3/microsoft_uses_ai_to_find_flaws_in_grub2_uboot/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mite-mitreski     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jsasl3/microsoft_uses_ai_to_find_flaws_in_grub2_uboot/</guid>
+      <pubDate>Sat, 05 Apr 2025 18:59:16 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub- Targetjs：一种新颖的JavaScript UI框架，旨在简化开发和增强用户体验。</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr7f2j/github_targetjs_a_novel_javascript_ui_framework/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/distion-beautiful417       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr7f2j/github_targetjs_a_novel_javascript_ui_framework/</guid>
-      <pubDate>Fri, 04 Apr 2025 09:00:38 GMT</pubDate>
+      <title>Java中的GO的HTTP服务器模式25</title>
+      <link>https://www.reddit.com/r/programming/comments/1js8w4w/gos_http_server_patterns_in_java_25/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bowbahdoe      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js8w4w/gos_http_server_patterns_in_java_25/</guid>
+      <pubDate>Sat, 05 Apr 2025 17:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>在竞争市场上经营SaaS的四年</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr7eiu/four_years_of_running_a_saas_in_a_competitive/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rozenmd      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr7eiu/four_years_of_running_a_saas_in_a_competitive/</guid>
-      <pubDate>Fri, 04 Apr 2025 08:59:39 GMT</pubDate>
+      <title>在Qemu模拟iPhone</title>
+      <link>https://www.reddit.com/r/programming/comments/1js8gqz/emulating_an_iphone_in_qemu/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nxgz       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js8gqz/emulating_an_iphone_in_qemu/</guid>
+      <pubDate>Sat, 05 Apr 2025 17:18:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Xpost来自HN] AI引起的OSINT批判性思维的缓慢崩溃</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr71nq/xpost_from_hn_the_slow_collapse_of_critical/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在HN中看到了这一点，并认为在这里分享可能很好。   也不包括OSINT的定义：         osint，众所周知，诸如开放量的练习和分析的习惯，是可以在开放式上使用的，并且可以在开放式上获得行动，并分析了可用的信息。网络安全，执法和业务，以进行威胁评估，调查以及更多    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/brokeCoder   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr71nq/xpost_from_hn_the_slow_collapse_of_critical/</guid>
-      <pubDate>Fri, 04 Apr 2025 08:32:10 GMT</pubDate>
+      <title>我正在启动一个Devlog，以重写大胆（文本编辑器）</title>
+      <link>https://www.reddit.com/r/programming/comments/1js6ipu/im_starting_a_devlog_for_my_rewrite_of_bold_text/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/levodelellis     link link&gt; link link&gt; [link]  &lt;a href =“ https://www.reddit.com/r/programming/comments/1js6ipu/im_starting_a_devlog_for_my_rewrite_my_rewrite_of_bold_text/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js6ipu/im_starting_a_devlog_for_my_rewrite_of_bold_text/</guid>
+      <pubDate>Sat, 05 Apr 2025 15:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>再见计算机编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr6de1/goodbye_computer_programming/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/delvin0      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr6de1/goodbye_computer_programming/</guid>
-      <pubDate>Fri, 04 Apr 2025 07:41:47 GMT</pubDate>
+      <title>GreenMask -PostgreSQL数据库匿名工具版本v0.2.10</title>
+      <link>https://www.reddit.com/r/programming/comments/1js1wg4/greenmask_postgresql_database_anonymization_tool/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/anyweny   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js1wg4/greenmask_postgresql_database_anonymization_tool/</guid>
+      <pubDate>Sat, 05 Apr 2025 12:02:41 GMT</pubDate>
     </item>
     <item>
-      <title>黑客CPYTHON赢得代码高尔夫挑战赛|波斯语</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr60c8/hacking_cpython_to_win_a_code_golf_challenge/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/amiremohamadi       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr60c8/hacking_cpython_to_win_a_code_golf_challenge/</guid>
-      <pubDate>Fri, 04 Apr 2025 07:14:52 GMT</pubDate>
+      <title>8种REDIS的用例超出关键价值商店</title>
+      <link>https://www.reddit.com/r/programming/comments/1js1v5p/8_use_cases_of_redis_beyond_key_value_store/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sushant098123     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js1v5p/8_use_cases_of_redis_beyond_key_value_store/</guid>
+      <pubDate>Sat, 05 Apr 2025 12:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Java 21 vs. Java 17 vs. Java 8实施 - 酒店房间预订系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1jr5iy3/java_21_vs_java_17_vs_java_8_implementation_hotel/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/erdsingh24     ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1jr5iy3/java_21_vs_java_java_vs_java_vs_java_java_8_implementation_implementation_hotelation_hotel/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jr5iy3/java_21_vs_java_17_vs_java_8_implementation_hotel/</guid>
-      <pubDate>Fri, 04 Apr 2025 06:41:05 GMT</pubDate>
+      <title>了解分布式系统的延迟</title>
+      <link>https://www.reddit.com/r/programming/comments/1js1qik/understanding_latency_in_distributed_systems/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/scalableThreadRead      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1js1qik/understanding_latency_in_distributed_systems/</guid>
+      <pubDate>Sat, 05 Apr 2025 11:52:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
