@@ -2,9 +2,21 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Apr 2025 21:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 01:55:07 GMT</lastBuildDate>
+    <item>
+      <title>蒂米</title>
+      <link>https://www.producthunt.com/posts/timmy-4</link>
+      <description><![CDATA[
+            蒂米（Timmy）省钱更快
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/timmy-4</guid>
+      <pubDate>Tue, 08 Apr 2025 01:51:21 GMT</pubDate>
+    </item>
     <item>
       <title>图表</title>
       <link>https://www.producthunt.com/posts/diagramr</link>
@@ -12,34 +24,10 @@
             找到任何图表的最快方法✦Google图像很烂！
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/diagramr</guid>
       <pubDate>Mon, 07 Apr 2025 20:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elevenlabs MCP</title>
-      <link>https://www.producthunt.com/posts/elevenlabs-mcp</link>
-      <description><![CDATA[
-            Elevenlabs MCP服务器官方
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/elevenlabs-mcp</guid>
-      <pubDate>Mon, 07 Apr 2025 19:37:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>glasp ai克隆：学习记忆</title>
-      <link>https://www.producthunt.com/posts/glasp-ai-clone-learning-memory</link>
-      <description><![CDATA[
-            将亮点变成回忆，让您的AI像您一样学习
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/glasp-ai-clone-learning-memory</guid>
-      <pubDate>Mon, 07 Apr 2025 19:20:50 GMT</pubDate>
     </item>
     <item>
       <title>Apphalt</title>
@@ -60,10 +48,22 @@
             解锁AI生产率的单个钥匙
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/the-accept-button</guid>
       <pubDate>Mon, 07 Apr 2025 14:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>DataSafe  - 通过HOTKEY加密消息</title>
+      <link>https://www.producthunt.com/posts/datasafe-encrypted-messages-via-hotkey</link>
+      <description><![CDATA[
+            一个很小的应用程序，可以快速发送带有热键的加密消息
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/datasafe-encrypted-messages-via-hotkey</guid>
+      <pubDate>Mon, 07 Apr 2025 11:37:59 GMT</pubDate>
     </item>
     <item>
       <title>羊肉</title>
@@ -78,16 +78,40 @@
       <pubDate>Mon, 07 Apr 2025 11:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>Macos的Breww Beta</title>
-      <link>https://www.producthunt.com/posts/breww-beta-for-macos</link>
+      <title>中继器</title>
+      <link>https://www.producthunt.com/posts/the-repeater</link>
       <description><![CDATA[
-            超级简单的方法来跟踪任务花费的时间
+            AI学习：看，听，说话 - 发现了光彩
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/breww-beta-for-macos</guid>
-      <pubDate>Mon, 07 Apr 2025 09:46:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/the-repeater</guid>
+      <pubDate>Mon, 07 Apr 2025 11:11:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>夜屏幕模式</title>
+      <link>https://www.producthunt.com/posts/nightscreen-mode</link>
+      <description><![CDATA[
+            琥珀色滤清器 +黑色模式可在没有眼睛的情况下使用铬
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/nightscreen-mode</guid>
+      <pubDate>Mon, 07 Apr 2025 10:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>称呼</title>
+      <link>https://www.producthunt.com/posts/klic</link>
+      <description><![CDATA[
+            NUANCE-DEV/KLIC
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/klic</guid>
+      <pubDate>Sun, 06 Apr 2025 20:25:27 GMT</pubDate>
     </item>
     <item>
       <title>DREAID</title>
@@ -102,16 +126,16 @@
       <pubDate>Sat, 05 Apr 2025 17:12:01 GMT</pubDate>
     </item>
     <item>
-      <title>线顾问</title>
-      <link>https://www.producthunt.com/posts/oura-advisor</link>
+      <title>空闲的</title>
+      <link>https://www.producthunt.com/posts/taatoo</link>
       <description><![CDATA[
-            您的AI驱动的个人健康伴侣
+            无形的水印以保护您的图像
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/oura-advisor</guid>
-      <pubDate>Fri, 04 Apr 2025 05:49:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/taatoo</guid>
+      <pubDate>Fri, 04 Apr 2025 13:58:55 GMT</pubDate>
     </item>
     <item>
       <title>SuperFlex 2.0</title>
@@ -144,7 +168,7 @@
             构建在几秒钟内运送收入的AI应用程序
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ezsite-ai-2</guid>
       <pubDate>Thu, 27 Mar 2025 08:25:49 GMT</pubDate>
@@ -156,34 +180,10 @@
             快速获取产品内分析而无需等待冲刺
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/metabase-embedded-analytics</guid>
       <pubDate>Wed, 26 Mar 2025 01:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clarsign</title>
-      <link>https://www.producthunt.com/posts/clarisign</link>
-      <description><![CDATA[
-            世界上第一位签署合同的AL律师
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/clarisign</guid>
-      <pubDate>Sun, 23 Mar 2025 19:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动</title>
-      <link>https://www.producthunt.com/posts/movitalis</link>
-      <description><![CDATA[
-            以长寿为重点的活动跟踪器，计划者和教练
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/movitalis</guid>
-      <pubDate>Sun, 09 Mar 2025 20:35:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
