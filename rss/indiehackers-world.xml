@@ -4,7 +4,20 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Wed, 09 Apr 2025 21:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 01:55:37 GMT</lastBuildDate>
+    <item>
+      <title>我如何迅速验证我的Micro-Saas想法（您也可以！）</title>
+      <link>https://feed.indiehackers.world/post/53decf45b9</link>
+      <description><![CDATA[
+结论：不再在猜测上构建SaaS的想法！
+最好的感觉是自信地了解人们实际上想要您正在建立的东西。最糟糕的感觉？发射到总板球。
+验证不必耗时或昂贵。通过遵循这些经过验证的方法，您将大大降低风险，节省大量的能量，并大大增加独立SaaS成功的几率。
+今天就给它试一试 - 我也很想听到您的验证冒险！
+您更快地验证利基SaaS的技巧或技术是什么？将它们放在评论中！
+    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
+      <guid>https://feed.indiehackers.world/post/53decf45b9</guid>
+      <pubDate>Wed, 09 Apr 2025 10:34:53 GMT</pubDate>
+    </item>
     <item>
       <title>营销人员正在寻找低代码大师以共同创建MVP</title>
       <link>https://feed.indiehackers.world/post/db94145478</link>
@@ -109,7 +122,7 @@
     <item>
       <title>我如何使1,000用户变形</title>
       <link>https://feed.indiehackers.world/post/9a11f6d31d</link>
-      <description><![CDATA[我在这里做得更好的一件事是创建与他们的营销相关的某种营销，以便我咬一口X受众。
+      <description><![CDATA[我在这里做得更好的一件事是创建与他们的营销相关的某种营销，以便我可以咬一口X受众。
  10。我发送了冷电子邮件。
 这是非常成功的。它需要按摩您的消息传递，直到您得到正确的消息为止，但是当您这样做时，它可以很好地工作。通过许多低端SaaS工具的价格，这不会长期扩展，但是当您刚开始时，您需要做不会扩展并发送冷电子邮件的事情是我发现有效的。
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
@@ -180,16 +193,6 @@ Nowi可以雇用合适的人来扩展。抛光。品牌。添加UI。甚至教�
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/83dd2062bd</guid>
       <pubDate>Mon, 31 Mar 2025 23:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的技术堆栈...</title>
-      <link>https://feed.indiehackers.world/post/019a471988</link>
-      <description><![CDATA[考虑了supabase（可靠的选择），但是凸的同步专业知识使我赢得了。
-如果有更好的堆栈用于构建可靠的实时应用程序而不会失去理智，那么我全都是耳朵。
-哦，不是先令。我要分享，因为它是真实的... 
-    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
-      <guid>https://feed.indiehackers.world/post/019a471988</guid>
-      <pubDate>Mon, 31 Mar 2025 12:44:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
