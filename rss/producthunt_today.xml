@@ -4,18 +4,30 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Apr 2025 09:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 12:51:20 GMT</lastBuildDate>
     <item>
-      <title>A2A协议</title>
-      <link>https://www.producthunt.com/posts/a2a-protocol</link>
+      <title>MIOSN</title>
+      <link>https://www.producthunt.com/posts/miosn</link>
       <description><![CDATA[
-            AI Agent2agent协作的开放标准
+            我们需要一种更好的方法来选择LLM。
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/miosn</guid>
+      <pubDate>Thu, 10 Apr 2025 06:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 3 API</title>
+      <link>https://www.producthunt.com/posts/grok-3-api</link>
+      <description><![CDATA[
+            Grok 3：现在在API上可用
           
 
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/a2a-protocol</guid>
-      <pubDate>Thu, 10 Apr 2025 04:00:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/grok-3-api</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:27 GMT</pubDate>
     </item>
     <item>
       <title>他们的业务</title>
@@ -78,18 +90,6 @@
       <pubDate>Wed, 09 Apr 2025 14:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>Grouptube</title>
-      <link>https://www.producthunt.com/posts/grouptube-2</link>
-      <description><![CDATA[
-            创建YouTube观看派对并与朋友一起享受视频
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/grouptube-2</guid>
-      <pubDate>Wed, 09 Apr 2025 11:26:13 GMT</pubDate>
-    </item>
-    <item>
       <title>codemail.io</title>
       <link>https://www.producthunt.com/posts/codemail-io</link>
       <description><![CDATA[
@@ -100,18 +100,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/codemail-io</guid>
       <pubDate>Wed, 09 Apr 2025 09:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>称呼</title>
-      <link>https://www.producthunt.com/posts/numi-4</link>
-      <description><![CDATA[
-            快速雇用支持AI的设计师来创建您的资产
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/numi-4</guid>
-      <pubDate>Tue, 08 Apr 2025 21:56:01 GMT</pubDate>
     </item>
     <item>
       <title>撰写</title>
@@ -184,6 +172,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/liquidindex-2-0</guid>
       <pubDate>Tue, 11 Mar 2025 22:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚当黑暗</title>
+      <link>https://www.producthunt.com/posts/adam-by-tyms</link>
+      <description><![CDATA[
+            初创创始人和小企业主的AI会计师
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/adam-by-tyms</guid>
+      <pubDate>Thu, 13 Feb 2025 10:53:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
