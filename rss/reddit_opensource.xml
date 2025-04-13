@@ -4,7 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 13 Apr 2025 18:32:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 21:23:22 GMT</lastBuildDate>
     <item>
       <title>Opus AI剪辑开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1jydic0/opus_ai_clips_open_source/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>带有零设置的微型，燃烧的静态文件服务器 - 满足WebSitino（只有1.5MB，没有框架，没有大惊小怪）</title>
       <link>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可以很好地完成该作业的单个可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可执行的可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</guid>
       <pubDate>Sun, 13 Apr 2025 08:01:42 GMT</pubDate>
     </item>
