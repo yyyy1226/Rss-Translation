@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 14 Apr 2025 01:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 03:40:53 GMT</lastBuildDate>
+    <item>
+      <title>有效的GITHUB回购带有摘要和食谱，可用于有效的Postgres查询以及有效的Typeorm查询以及其他有用的调试技巧和工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jyp7g5/any_awesome_github_repo_with_snippets_and_recipes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何带有摘要和配方的很棒的github repo，可进行有效的postgres查询以及有效的typeorm查询以及其他有用的调试技巧和工具？我一直在寻找可以帮助我并帮助其他开发人员的事情。现在，我正在寻找可以帮助我使用RAW SQL或TypeOmm查询来编写更有效查询的技巧。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darkcatpirate     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jyp7g5/any_awesome_github_repo_with_snippets_and_recipes/</guid>
+      <pubDate>Mon, 14 Apr 2025 03:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是新来的，您认为100％后端开发人员像C/C％DEV跳过到HTML/CSS/JS，然后学习Next.js/nuxt.js？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jyp0zs/im_new_what_do_you_think_100_backend_dev_like_cc/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如标题所示。如果您想知道，为什么？因为后端开发人员可能需要良好的SEO来赚钱  PS。它应该是C＃而不是C％。 typo   ps。这只是一个问题，所以后端开发人员不与我同在，我只是好奇如果pure后端跳过基本并跳到Next.js   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ballbeamboy2     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jyp0zs/im_new_what_do_you_think_100_backend_dev_like_cc/</guid>
+      <pubDate>Mon, 14 Apr 2025 03:01:59 GMT</pubDate>
+    </item>
     <item>
       <title>tailwind文档解释一切如此简单（DVH，SVH，LVH示例）</title>
       <link>https://www.reddit.com/r/webdev/comments/1jyn9mf/tailwind_docs_explain_everything_so_simply_dvh/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Instagram应用程序审查期间陷入了循环，想知道是否有人以前处理过。 评论者说他们无法完成测试，因为我的应用程序中的Instagram login会引发错误。由于Facebook应用程序仍处于开发模式，因此只有Instagram测试人员才能登录 - 因此，他们要求我提供测试凭据。 我做到了，但是Instagram的安全系统在尝试登录时向我的电子邮件发送了验证代码。由于他们无法访问该代码，因此无法继续进行。 •如果没有批准，我无法将应用程序切换为实时模式 •由于安全代码 ，他们无法使用我的测试帐户登录 我什至问他们是否可以向我发送IG用户名，以便我可以将它们添加为测试人员，以便没有得到响应。            都可以通过审查和演示lin和ig aut aut aut auth gut and ig aut gut？任何提示都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/no-no-no-neighborhood-7229       [link]    [commist]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jyfu7g/having_trouble_with_instagram_app_review_any/</guid>
       <pubDate>Sun, 13 Apr 2025 19:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS-您需要停放的域名MX记录吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jyfkyv/dns_do_you_need_an_mx_record_for_a_parked_domain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在父母顶部停放了大约100个域。所有停放的域的电子邮件向父母转发给父母，因此（其中 foo.com 停放在bar.com的顶部）[ whitem@foo.com”&gt; white&gt; white @foo.com  href = he href = abref = nairto：nevany exrelity： [whatever@bar.com](mailto:whatever@bar.com) Is there any reason for me to keep the mail A 123.45.67.89 and foo.com MX mail.foo.com DNS records (for the停放的域）？这是将电子邮件发送给父母所必需的，还是试图访问它们的黑客的潜在安全风险？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jyfkyv/dns_do_do_do_do_you_need_need_ane_mx_mx_record_a_a_parked_domain/”&gt; [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jyfkyv/dns_do_do_do_you_need_need_ane_mx_mx_record_for_a_parked_pa​​rked_pa​​rked_domain/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jyfkyv/dns_do_you_need_an_mx_record_for_a_parked_domain/</guid>
-      <pubDate>Sun, 13 Apr 2025 19:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置所有元素以继承背景颜色有任何问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jyfhhb/are_there_any_issues_with_setting_all_elements_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个带有粘性标头的桌子。当您向下滚动桌子时，除非在标题上设置背景颜色，否则行通过标头显示。由于我希望标头没有颜色，因此我只是设置背景颜色以匹配容器的背景。简单。 问题是，我希望我的表组件在任何上下文中都可以重复使用，因此，如果它在具有不同背景背景背景背景不同的容器中，我也必须将其设置为该颜色。我的第一个想法是将标头的背景颜色设置为继承，但随后意识到它是从父容器继承的，默认情况下它具有透明的背景颜色，以免工作。 ，然后我发现这起作用了：       html {background-color {Background-colder：grey; * {背景色：继承; }}   这设置了从页面背景颜色继承的所有内容的背景颜色，并将其一直传播到我的表标头。如果桌子在另一个具有自己背景颜色的容器内部，则仍然可以按预期工作。在大多数情况下，由于默认情况下所有内容都是透明的，因此可以正常工作。但是，例如，如果您使用的是普通的非风格按钮，则它将不再具有该默认按钮颜色。这并不是什么大不了的，因为我无论如何都会使用自己的样式按钮。 所以我只是想知道是否还有其他潜在的弊端我不知道。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jyfhhb/are_there_there_any_issues_sissues_with_setting_setting_all_elements_to/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jyfhhb/are_there_any_issues_with_setting_all_elements_to/</guid>
-      <pubDate>Sun, 13 Apr 2025 19:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
