@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Apr 2025 12:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:27:13 GMT</lastBuildDate>
     <item>
       <title>Apple Dev Docs翻译和增强器</title>
       <link>https://www.producthunt.com/posts/apple-dev-docs-translation-enhancer</link>
@@ -12,9 +12,7 @@
             Apple Dev Docs翻译和增强器
           
 
-Discussion
-            |
-            链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/apple-dev-docs-translation-enhancer</guid>
       <pubDate>Mon, 14 Apr 2025 03:23:44 GMT</pubDate>
@@ -26,7 +24,7 @@ Discussion
             监视模型，解释决策和未来的模型。
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/prism-by-block-convey</guid>
       <pubDate>Mon, 14 Apr 2025 01:28:51 GMT</pubDate>
@@ -56,13 +54,37 @@ Discussion
       <pubDate>Sat, 12 Apr 2025 17:18:37 GMT</pubDate>
     </item>
     <item>
+      <title>Learnpool ISO</title>
+      <link>https://www.producthunt.com/posts/learnpool-iso</link>
+      <description><![CDATA[
+            用户通过共享可验证的事实赚取的平台
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/learnpool-iso</guid>
+      <pubDate>Sat, 12 Apr 2025 13:45:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>锁定</title>
+      <link>https://www.producthunt.com/posts/locked-in-3</link>
+      <description><![CDATA[
+            一半时间完成两次
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/locked-in-3</guid>
+      <pubDate>Sat, 12 Apr 2025 07:58:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Appsmith代理</title>
       <link>https://www.producthunt.com/posts/appsmith-agents</link>
       <description><![CDATA[
             用安全，嵌入式的代理进行扩展，全部由您的数据供电
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/appsmith-agents</guid>
       <pubDate>Thu, 10 Apr 2025 17:37:26 GMT</pubDate>
@@ -86,7 +108,7 @@ Discussion
             将智能手机转换为经典的砖电话
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/brick-1100-1102</guid>
       <pubDate>Wed, 09 Apr 2025 04:31:15 GMT</pubDate>
@@ -116,30 +138,6 @@ Discussion
       <pubDate>Mon, 07 Apr 2025 13:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>Omnihuman bytedance</title>
-      <link>https://www.producthunt.com/posts/omnihuman-by-bytedance</link>
-      <description><![CDATA[
-            高级AI驱动的人类视频生成模型
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/omnihuman-by-bytedance</guid>
-      <pubDate>Wed, 02 Apr 2025 19:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mindpal</title>
-      <link>https://www.producthunt.com/posts/mindpal-5</link>
-      <description><![CDATA[
-            将您的专业知识变成可共享的AI代理商，可在24/7全天候工作
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mindpal-5</guid>
-      <pubDate>Wed, 02 Apr 2025 16:43:59 GMT</pubDate>
-    </item>
-    <item>
       <title>whatting</title>
       <link>https://www.producthunt.com/posts/whatting</link>
       <description><![CDATA[
@@ -158,7 +156,7 @@ Discussion
             没有代码的网站建立网站的最快方法
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/spreadsimple-2-0</guid>
       <pubDate>Mon, 24 Mar 2025 12:14:47 GMT</pubDate>
